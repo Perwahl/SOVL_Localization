@@ -4,7 +4,7 @@
     {
       "Key": "Abyssal Demons",
       "Translation": "Démons Abyssaux",
-      "Comment": "Faction name - creatures from the darkest depths"
+      "Comment": "Faction name - créatures des profondeurs abyssales"
     },
     {
       "Key": "Abyssal Vipers",
@@ -13,7 +13,7 @@
     },
     {
       "Key": "Devilspawn",
-      "Translation": "Géniture Diabolique",
+      "Translation": "Progéniture Diabolique",
       "Comment": "Lesser demonic infantry spawned from hell"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "Key": "Plague Flies",
-      "Translation": "Mouches Pestilentes",
+      "Translation": "Mouches de la Peste",
       "Comment": "Flying plague-bearing insects"
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "Key": "Plague Hulk",
-      "Translation": "Colosse Pestilent",
+      "Translation": "Colosse de la Peste",
       "Comment": "Massive plague monster"
     },
     {
