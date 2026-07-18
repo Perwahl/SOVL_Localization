@@ -1,0 +1,85 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Abyssal Legions Faction.",
+  "Translations": [
+    {
+      "Key": "Abyssal Legions",
+      "Translation": "Abgrundlegionen",
+      "Comment": "Legionen = legions. Organized demonic armies, mixed with corrupted mortals."
+    },
+    {
+      "Key": "Northmen Axe",
+      "Translation": "Nordmänner-Axtkrieger",
+      "Comment": "Nordmänner = Northmen (barbarians). Axtkrieger = axe warriors. Corrupted northern warriors."
+    },
+    {
+      "Key": "Abyssal Warriors",
+      "Translation": "Abgrundkrieger",
+      "Comment": "Armored warriors corrupted by the abyss."
+    },
+    {
+      "Key": "Dragon Spawn",
+      "Translation": "Drachenbrut",
+      "Comment": "Brut = spawn. Corrupted dragon-like creatures."
+    },
+    {
+      "Key": "Northmen Horse",
+      "Translation": "Nordmänner-Reiter",
+      "Comment": "Reiter = riders/cavalry. Northern barbarian cavalry."
+    },
+    {
+      "Key": "Abyssal Knights",
+      "Translation": "Abgrundritter",
+      "Comment": "Corrupted knights serving the abyss. Heavy demonic cavalry."
+    },
+    {
+      "Key": "Abyssal Hounds",
+      "Translation": "Abgrundhunde",
+      "Comment": "War hounds from the abyss. Fast attack beasts."
+    },
+    {
+      "Key": "Abyssal Chariot",
+      "Translation": "Abgrundstreitwagen",
+      "Comment": "Demonic chariot. Brutal and swift."
+    },
+    {
+      "Key": "Archdevil",
+      "Translation": "Erzteufel",
+      "Comment": "Greater demon. Same as in Abyssal Demons faction."
+    },
+    {
+      "Key": "Devilspawn",
+      "Translation": "Teufelsbrut",
+      "Comment": "Lesser demons. Same as in Abyssal Demons faction."
+    },
+    {
+      "Key": "War Mammoth",
+      "Translation": "Kriegsmammut",
+      "Comment": "Corrupted war mammoth. Massive beast of war."
+    },
+    {
+      "Key": "Abyssal Dragon",
+      "Translation": "Abgrunddrache",
+      "Comment": "Dragon corrupted by the abyss. Terrifying flying monster."
+    },
+    {
+      "Key": "Manticore",
+      "Translation": "Mantikor",
+      "Comment": "Standard German term for manticore. Mythological beast."
+    },
+    {
+      "Key": "Abyssal Champion",
+      "Translation": "Abgrundchampion",
+      "Comment": "Elite warrior of the abyss. Mighty hero unit."
+    },
+    {
+      "Key": "Abyssal Sorcerer",
+      "Translation": "Abgrundzauberer",
+      "Comment": "Dark sorcerer wielding abyssal magic."
+    },
+    {
+      "Key": "Northmen Packleader",
+      "Translation": "Nordmänner-Rudelführer",
+      "Comment": "Rudelführer = pack leader. Barbarian warlord."
+    }
+  ]
+}

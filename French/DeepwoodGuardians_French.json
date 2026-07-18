@@ -1,0 +1,85 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Deepwood Guardians Faction.",
+  "Translations": [
+    {
+      "Key": "Deepwood Guardians",
+      "Translation": "Gardiens de la Forêt Profonde",
+      "Comment": "Protectors of the ancient forest"
+    },
+    {
+      "Key": "Deepwood Guard",
+      "Translation": "Garde de la Forêt Profonde",
+      "Comment": "Basic forest defenders"
+    },
+    {
+      "Key": "Dryads",
+      "Translation": "Dryades",
+      "Comment": "Tree spirits in elven form"
+    },
+    {
+      "Key": "Deepwood Dancers",
+      "Translation": "Danseurs de la Forêt Profonde",
+      "Comment": "Swift and graceful forest warriors"
+    },
+    {
+      "Key": "Deepwood Archers",
+      "Translation": "Archers de la Forêt Profonde",
+      "Comment": "Masters of woodland archery"
+    },
+    {
+      "Key": "Deepwood Rangers",
+      "Translation": "Rôdeurs de la Forêt Profonde",
+      "Comment": "Elite scouts and hunters"
+    },
+    {
+      "Key": "Deepwood Riders",
+      "Translation": "Cavaliers de la Forêt Profonde",
+      "Comment": "Fast cavalry riding forest creatures"
+    },
+    {
+      "Key": "Deepwood Chariot",
+      "Translation": "Char de la Forêt Profonde",
+      "Comment": "Nature-powered chariot"
+    },
+    {
+      "Key": "Giant Eagle",
+      "Translation": "Aigle Géant",
+      "Comment": "Majestic flying creature"
+    },
+    {
+      "Key": "Stag Riders",
+      "Translation": "Chevaucheurs de Cerfs",
+      "Comment": "Cavalry riding majestic forest stags"
+    },
+    {
+      "Key": "Treant",
+      "Translation": "Ent",
+      "Comment": "Living tree creature, ancient guardian"
+    },
+    {
+      "Key": "Forest Dragon",
+      "Translation": "Dragon de la Forêt",
+      "Comment": "Dragon guardian of the forest"
+    },
+    {
+      "Key": "Gryphon",
+      "Translation": "Griffon",
+      "Comment": "Mythological creature"
+    },
+    {
+      "Key": "Deepwood Noble",
+      "Translation": "Noble de la Forêt Profonde",
+      "Comment": "Noble leader of the forest folk"
+    },
+    {
+      "Key": "Deepwood Druid",
+      "Translation": "Druide de la Forêt Profonde",
+      "Comment": "Nature magic user"
+    },
+    {
+      "Key": "Treant Elder",
+      "Translation": "Ent Ancestral",
+      "Comment": "Ancient and powerful tree creature"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Goatmen Raiders Faction.",
+  "Translations": [
+    {
+      "Key": "Goatmen Raiders",
+      "Translation": "",
+      "Comment": "Ziegenmenschen = goatmen (beast-men with goat features). Plünderer = raiders."
+    },
+    {
+      "Key": "Ibex Warriors",
+      "Translation": "",
+      "Comment": "Steinbock = ibex (mountain goat). Fierce warriors."
+    },
+    {
+      "Key": "Goatmen Warriors",
+      "Translation": "",
+      "Comment": "Standard goat-men warriors. Savage and brutal."
+    },
+    {
+      "Key": "Mongrel Pack",
+      "Translation": "",
+      "Comment": "Mischling = mongrel/mixed breed. Horde = pack. Chaotic mass of lesser beast-men."
+    },
+    {
+      "Key": "Mongrel Spear",
+      "Translation": "",
+      "Comment": "Mongrel troops armed with spears."
+    },
+    {
+      "Key": "Raiding Chariot",
+      "Translation": "",
+      "Comment": "Plünder- prefix = raiding. Fast attack chariot."
+    },
+    {
+      "Key": "Feral Hounds",
+      "Translation": "",
+      "Comment": "Wilde = feral/wild. Jagdhunde = hunting hounds. Savage war beasts."
+    },
+    {
+      "Key": "Mongrel Skirmishers",
+      "Translation": "",
+      "Comment": "Plänkler = skirmishers. Light troops for harassment."
+    },
+    {
+      "Key": "Centaurs",
+      "Translation": "",
+      "Comment": "Standard German for centaurs. Half-man, half-horse."
+    },
+    {
+      "Key": "Minotaurs",
+      "Translation": "",
+      "Comment": "Standard German for minotaurs. Bull-headed warriors."
+    },
+    {
+      "Key": "Harpies",
+      "Translation": "",
+      "Comment": "Flying monsters allied with the beast-men."
+    },
+    {
+      "Key": "Feral Giant",
+      "Translation": "",
+      "Comment": "Wilder = feral/wild. Untamed giant serving the beast-men."
+    },
+    {
+      "Key": "Goatman Shaman",
+      "Translation": "",
+      "Comment": "Tribal magic user. Dark rituals and curses."
+    },
+    {
+      "Key": "Goatman Longhorn",
+      "Translation": "",
+      "Comment": "Langhorn = longhorn. Elite warrior with impressive horns."
+    },
+    {
+      "Key": "Minotaur Lord",
+      "Translation": "",
+      "Comment": "Mighty minotaur leader. Powerful hero."
+    }
+  ]
+}

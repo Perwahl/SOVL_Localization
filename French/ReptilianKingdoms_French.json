@@ -1,0 +1,85 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Reptilian Kingdoms Faction.",
+  "Translations": [
+    {
+      "Key": "Reptilian Kingdoms",
+      "Translation": "Royaumes Reptiliens",
+      "Comment": "Ancient lizard-men empires"
+    },
+    {
+      "Key": "Saurian Warriors",
+      "Translation": "Guerriers Sauriens",
+      "Comment": "Core lizard-men warriors"
+    },
+    {
+      "Key": "Crocolisk Bruisers",
+      "Translation": "Brutes Crocodiliennes",
+      "Comment": "Heavy crocodile-like reptilian warriors"
+    },
+    {
+      "Key": "Newt Braves",
+      "Translation": "Braves Tritons",
+      "Comment": "Lesser lizard warrior troops"
+    },
+    {
+      "Key": "Saurian Spear",
+      "Translation": "Lanciers Sauriens",
+      "Comment": "Spear-wielding saurian infantry"
+    },
+    {
+      "Key": "Raptor Riders",
+      "Translation": "Chevaucheurs de Raptors",
+      "Comment": "Fast cavalry riding velociraptors"
+    },
+    {
+      "Key": "Pterodactyl Riders",
+      "Translation": "Chevaucheurs de Ptérodactyles",
+      "Comment": "Flying cavalry on pterodactyls"
+    },
+    {
+      "Key": "Newt Skirmishers",
+      "Translation": "Tirailleurs Tritons",
+      "Comment": "Light skirmishing troops"
+    },
+    {
+      "Key": "Firelizard",
+      "Translation": "Lézard de Feu",
+      "Comment": "Fire-breathing lizard monster"
+    },
+    {
+      "Key": "Triceratops",
+      "Translation": "Tricératops",
+      "Comment": "Massive horned dinosaur"
+    },
+    {
+      "Key": "Jungle Swarm",
+      "Translation": "Nuage de la Jungle",
+      "Comment": "Swarm of small reptilian creatures"
+    },
+    {
+      "Key": "Dreadmaw",
+      "Translation": "Gueule de l'Effroi",
+      "Comment": "Terrifying predator with massive jaws"
+    },
+    {
+      "Key": "Tyrannosaur",
+      "Translation": "Tyrannosaure",
+      "Comment": "King of the dinosaurs"
+    },
+    {
+      "Key": "Newt Priest",
+      "Translation": "Prêtre Triton",
+      "Comment": "Religious leader of the lesser reptilians"
+    },
+    {
+      "Key": "Saurian Warlord",
+      "Translation": "Seigneur de Guerre Saurien",
+      "Comment": "Powerful military commander"
+    },
+    {
+      "Key": "Ancient Toad",
+      "Translation": "Crapaud Ancestral",
+      "Comment": "Mystical amphibian sage"
+    }
+  ]
+}

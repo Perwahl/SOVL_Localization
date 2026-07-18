@@ -1,0 +1,85 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Reptilian Kingdoms Faction.",
+  "Translations": [
+    {
+      "Key": "Reptilian Kingdoms",
+      "Translation": "Reptilienkönigreiche",
+      "Comment": "Königreiche = kingdoms. Ancient lizard-men empires."
+    },
+    {
+      "Key": "Saurian Warriors",
+      "Translation": "Saurierkrieger",
+      "Comment": "Saurier = saurian/lizard. Core lizard-men warriors."
+    },
+    {
+      "Key": "Crocolisk Bruisers",
+      "Translation": "Krokolisk-Schläger",
+      "Comment": "Krokolisk (crocodile-like). Schläger = bruisers. Heavy reptilian warriors."
+    },
+    {
+      "Key": "Newt Braves",
+      "Translation": "Molch-Krieger",
+      "Comment": "Molch = newt. Krieger = braves/warriors. Lesser lizard troops."
+    },
+    {
+      "Key": "Saurian Spear",
+      "Translation": "Saurier-Speerkämpfer",
+      "Comment": "Spear-wielding saurian infantry."
+    },
+    {
+      "Key": "Raptor Riders",
+      "Translation": "Raptorreiter",
+      "Comment": "Fast cavalry riding velociraptors. Lightning strikes."
+    },
+    {
+      "Key": "Pterodactyl Riders",
+      "Translation": "Pterodaktylreiter",
+      "Comment": "Flying cavalry on pterodactyls. Air superiority."
+    },
+    {
+      "Key": "Newt Skirmishers",
+      "Translation": "Molch-Plänkler",
+      "Comment": "Light skirmishing troops."
+    },
+    {
+      "Key": "Firelizard",
+      "Translation": "Feuereidechse",
+      "Comment": "Fire-breathing lizard monster. Feuer = fire, Eidechse = lizard."
+    },
+    {
+      "Key": "Triceratops",
+      "Translation": "Triceratops",
+      "Comment": "Kept as dinosaur name. Massive horned beast."
+    },
+    {
+      "Key": "Jungle Swarm",
+      "Translation": "Dschungelschwarm",
+      "Comment": "Swarm of small reptilian creatures from the jungle."
+    },
+    {
+      "Key": "Dreadmaw",
+      "Translation": "Schreckensmaul",
+      "Comment": "Schrecken = dread, Maul = maw. Terrifying predator."
+    },
+    {
+      "Key": "Tyrannosaur",
+      "Translation": "Tyrannosaurus",
+      "Comment": "Kept as dinosaur name. King of the lizards."
+    },
+    {
+      "Key": "Newt Priest",
+      "Translation": "Molchpriester",
+      "Comment": "Religious leader of the lesser reptilians."
+    },
+    {
+      "Key": "Saurian Warlord",
+      "Translation": "Saurier-Kriegsherr",
+      "Comment": "Kriegsherr = warlord. Powerful military commander."
+    },
+    {
+      "Key": "Ancient Toad",
+      "Translation": "Uralte Kröte",
+      "Comment": "Uralt = ancient. Kröte = toad. Mystical amphibian sage."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Knights of Avalon Faction.",
+  "Translations": [
+    {
+      "Key": "Knights of Avalon",
+      "Translation": "",
+      "Comment": "Direct translation. Noble knights of the legendary kingdom."
+    },
+    {
+      "Key": "Sword Militia",
+      "Translation": "",
+      "Comment": "Miliz = militia. Citizen soldiers with swords."
+    },
+    {
+      "Key": "Peasant Mob",
+      "Translation": "",
+      "Comment": "Bauern = peasants. Untrained levies."
+    },
+    {
+      "Key": "Halberd Militia",
+      "Translation": "",
+      "Comment": "Militia armed with halberds."
+    },
+    {
+      "Key": "Spear Militia",
+      "Translation": "",
+      "Comment": "Basic spear-wielding militia."
+    },
+    {
+      "Key": "Knight Aspirants",
+      "Translation": "",
+      "Comment": "Aspiranten = aspirants. Young warriors training to become knights."
+    },
+    {
+      "Key": "Mounted Hunters",
+      "Translation": "",
+      "Comment": "Beritten = mounted. Jäger = hunters. Light cavalry."
+    },
+    {
+      "Key": "Sworn Knights",
+      "Translation": "",
+      "Comment": "Geschworene = sworn. Knights who have taken sacred oaths."
+    },
+    {
+      "Key": "Hunting Dogs",
+      "Translation": "",
+      "Comment": "War dogs used in battle."
+    },
+    {
+      "Key": "Hunters",
+      "Translation": "",
+      "Comment": "Skilled hunters serving as scouts and archers."
+    },
+    {
+      "Key": "Trebuchet",
+      "Translation": "",
+      "Comment": "Trebuchet as technical term for the catapult. Alternative: Wurfmaschine."
+    },
+    {
+      "Key": "Longbowmen",
+      "Translation": "",
+      "Comment": "Famous archers with longbows. Elite ranged troops."
+    },
+    {
+      "Key": "Kings Guard",
+      "Translation": "",
+      "Comment": "Elite guards protecting the king. Best warriors of the realm."
+    },
+    {
+      "Key": "Pegasus Knights",
+      "Translation": "",
+      "Comment": "Knights riding pegasi. Flying cavalry."
+    },
+    {
+      "Key": "Hippogryph",
+      "Translation": "",
+      "Comment": "Kept as fantasy creature name. Gryphon-horse hybrid."
+    },
+    {
+      "Key": "Pegasus",
+      "Translation": "",
+      "Comment": "Mythological winged horse. Kept as is."
+    },
+    {
+      "Key": "Unicorn",
+      "Translation": "",
+      "Comment": "Standard German for unicorn. Magical pure creature."
+    },
+    {
+      "Key": "Maiden",
+      "Translation": "",
+      "Comment": "Jungfrau = maiden. Holy warrior blessed by the divine. Alternative: Heilige Jungfrau."
+    },
+    {
+      "Key": "Paladin",
+      "Translation": "",
+      "Comment": "Paladin is universally recognized. Holy knight champion."
+    }
+  ]
+}

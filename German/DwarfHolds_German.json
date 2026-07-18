@@ -1,0 +1,90 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Dwarf Hold Faction.",
+  "Translations": [
+    {
+      "Key": "Dwarf Holds",
+      "Translation": "Zwergenfesten",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Warriors",
+      "Translation": "Zwergenkrieger",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Veterans",
+      "Translation": "Zwergenveteranen",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Miners",
+      "Translation": "Zwergenbergleute",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Crossbows",
+      "Translation": "Zwergenarmbrustschützen",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Handguns",
+      "Translation": "Zwergenbüchsenschützen",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Rangers",
+      "Translation": "Zwergenkundschafter",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Cannon",
+      "Translation": "Zwergenkanone",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Bolt Thrower",
+      "Translation": "Zwergenspeerschleuder",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Stonethrower",
+      "Translation": "Zwergensteinschleuder",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Berserkers",
+      "Translation": "Zwergenberserker",
+      "Comment": ""
+    },
+    {
+      "Key": "Deep Guard",
+      "Translation": "Tiefengarde",
+      "Comment": ""
+    },
+    {
+      "Key": "Inferno Cannon",
+      "Translation": "Infernokanone",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Flying Machine",
+      "Translation": "Zwergenflugmaschine",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Foreman",
+      "Translation": "Zwergenvorarbeiter",
+      "Comment": ""
+    },
+    {
+      "Key": "Ranger Captain",
+      "Translation": "Hauptmann der Kundschafter",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Engineer",
+      "Translation": "Zwergeningenieur",
+      "Comment": ""
+    }
+  ]
+}

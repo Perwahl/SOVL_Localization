@@ -1,0 +1,75 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Ratkin Clans faction.",
+  "Translations": [
+    {
+      "Key": "Ratkin Clans",
+      "Translation": "",
+      "Comment": "Rattenmensch = rat-people. Klans maintains the tribal structure."
+    },
+    {
+      "Key": "Ratkin Legionaries",
+      "Translation": "",
+      "Comment": "Legionäre = legionaries. Organized rat-men infantry."
+    },
+    {
+      "Key": "Ratkin Conscripts",
+      "Translation": "",
+      "Comment": "Wehrpflichtige = conscripts. Forced levies of rat-men."
+    },
+    {
+      "Key": "Ratkin Skulkers",
+      "Translation": "",
+      "Comment": "Schleicher = skulkers/sneakers. Stealthy infiltrators."
+    },
+    {
+      "Key": "Ratkin Longrifles",
+      "Translation": "",
+      "Comment": "Ratkin sharpshooters with long rifles. Technological advantage."
+    },
+    {
+      "Key": "Ratkin Slingers",
+      "Translation": "",
+      "Comment": "Schleuderer = slingers. Simple ranged troops."
+    },
+    {
+      "Key": "Ratkin Flamers",
+      "Translation": "",
+      "Comment": "Flammenwerfer troops. Dangerous experimental weapons."
+    },
+    {
+      "Key": "Ratkin Monstrosity",
+      "Translation": "",
+      "Comment": "Monstrum = monstrosity. Twisted creation of dark experiments."
+    },
+    {
+      "Key": "Ratkin Alphas",
+      "Translation": "",
+      "Comment": "Alpha kept as term. Elite warriors of the clans."
+    },
+    {
+      "Key": "Rat Swarms",
+      "Translation": "",
+      "Comment": "Schwärme = swarms. Masses of vermin."
+    },
+    {
+      "Key": "Doom Bell",
+      "Translation": "",
+      "Comment": "Ominous bell that tolls doom. Same as in UnitProps."
+    },
+    {
+      "Key": "Ratkin Warlock",
+      "Translation": "",
+      "Comment": "Hexenmeister = warlock. Dark magic user."
+    },
+    {
+      "Key": "Ratkin Chieftain",
+      "Translation": "",
+      "Comment": "Clan leader. Cunning and ruthless."
+    },
+    {
+      "Key": "Ratkin Infiltrator",
+      "Translation": "",
+      "Comment": "Master spy and assassin. Sneaks behind enemy lines."
+    }
+  ]
+}

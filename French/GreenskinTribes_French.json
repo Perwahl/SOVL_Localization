@@ -1,0 +1,95 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Greenskin Tribes Faction.",
+  "Translations": [
+    {
+      "Key": "Greenskin Tribes",
+      "Translation": "Tribus Peaux-Vertes",
+      "Comment": "Faction name - Peaux-Vertes is the standard French term for greenskins"
+    },
+    {
+      "Key": "Orc Warriors",
+      "Translation": "Guerriers Orcs",
+      "Comment": "Core infantry, brutal and direct"
+    },
+    {
+      "Key": "Orc Brutes",
+      "Translation": "Brutes Orques",
+      "Comment": "Stronger, more savage orc warriors"
+    },
+    {
+      "Key": "Goblin Mob",
+      "Translation": "Horde de Gobelins",
+      "Comment": "Chaotic goblin infantry mass"
+    },
+    {
+      "Key": "Goblin Spear Mob",
+      "Translation": "Horde de Gobelins Lanciers",
+      "Comment": "Spear-armed goblin mob"
+    },
+    {
+      "Key": "Boar Riders",
+      "Translation": "Chevaucheurs de Sangliers",
+      "Comment": "Orc cavalry on wild boars"
+    },
+    {
+      "Key": "Goblin Wolf Riders",
+      "Translation": "Chevaucheurs de Loups Gobelins",
+      "Comment": "Fast goblin cavalry"
+    },
+    {
+      "Key": "Orc Boar Chariot",
+      "Translation": "Char à Sangliers Orc",
+      "Comment": "Heavy chariot pulled by boars"
+    },
+    {
+      "Key": "Goblin Shortbows",
+      "Translation": "Archers Courts Gobelins",
+      "Comment": "Goblin archers with shortbows"
+    },
+    {
+      "Key": "Goblin Bolt Throwers",
+      "Translation": "Balistes Gobelines",
+      "Comment": "Goblin siege weapons"
+    },
+    {
+      "Key": "Goblin Stonethrower",
+      "Translation": "Lance-Pierres Gobelin",
+      "Comment": "Crude goblin artillery"
+    },
+    {
+      "Key": "Trolls",
+      "Translation": "Trolls",
+      "Comment": "Monstrous regenerating creatures"
+    },
+    {
+      "Key": "Giant",
+      "Translation": "Géant",
+      "Comment": "Massive monster unit"
+    },
+    {
+      "Key": "Wyvern",
+      "Translation": "Wyverne",
+      "Comment": "Dragon-like flying creature"
+    },
+    {
+      "Key": "Giant Spider",
+      "Translation": "Araignée Géante",
+      "Comment": "Monstrous arachnid"
+    },
+    {
+      "Key": "War Chief",
+      "Translation": "Chef de Guerre",
+      "Comment": "Orc tribal leader"
+    },
+    {
+      "Key": "Goblin Shaman",
+      "Translation": "Chaman Gobelin",
+      "Comment": "Goblin magic user"
+    },
+    {
+      "Key": "Goblin King",
+      "Translation": "Roi Gobelin",
+      "Comment": "Supreme goblin ruler"
+    }
+  ]
+}

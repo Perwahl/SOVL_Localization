@@ -1,0 +1,90 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Darkborn Elves Faction.",
+  "Translations": [
+    {
+      "Key": "Darkborn Elves",
+      "Translation": "Elfes Nés des Ténèbres",
+      "Comment": "Dark elves with sinister origins"
+    },
+    {
+      "Key": "Darkborn Spears",
+      "Translation": "Lanciers Obscurs",
+      "Comment": "Spear-wielding dark elf infantry"
+    },
+    {
+      "Key": "Darkborn Dreadguard",
+      "Translation": "Garde de l'Effroi Obscur",
+      "Comment": "Elite heavy infantry radiating fear"
+    },
+    {
+      "Key": "Darkborn Witches",
+      "Translation": "Sorcières Obscures",
+      "Comment": "Dark magic users"
+    },
+    {
+      "Key": "Darkborn Crossbows",
+      "Translation": "Arbalétriers Obscurs",
+      "Comment": "Crossbow-wielding dark elves"
+    },
+    {
+      "Key": "Darkborn Shadows",
+      "Translation": "Ombres Obscures",
+      "Comment": "Stealthy infiltrators and assassins"
+    },
+    {
+      "Key": "Darkborn Boltthrower",
+      "Translation": "Baliste Obscure",
+      "Comment": "Heavy artillery"
+    },
+    {
+      "Key": "Raptor Knights",
+      "Translation": "Chevaliers sur Raptors",
+      "Comment": "Knights riding vicious raptors"
+    },
+    {
+      "Key": "Darkborn Riders",
+      "Translation": "Cavaliers Obscurs",
+      "Comment": "Dark elf cavalry on dark steeds"
+    },
+    {
+      "Key": "Darkborn Chariot",
+      "Translation": "Char Obscur",
+      "Comment": "Dark elf chariot"
+    },
+    {
+      "Key": "Hydra",
+      "Translation": "Hydre",
+      "Comment": "Multi-headed monster"
+    },
+    {
+      "Key": "Harpies",
+      "Translation": "Harpies",
+      "Comment": "Flying monsters serving dark elves"
+    },
+    {
+      "Key": "Black Dragon",
+      "Translation": "Dragon Noir",
+      "Comment": "Fearsome black dragon"
+    },
+    {
+      "Key": "Dark Pegasus",
+      "Translation": "Pégase Noir",
+      "Comment": "Corrupted flying mount"
+    },
+    {
+      "Key": "Darkborn Noble",
+      "Translation": "Noble Obscur",
+      "Comment": "Cruel and cunning leader"
+    },
+    {
+      "Key": "Darkborn Priestess",
+      "Translation": "Prêtresse Obscure",
+      "Comment": "Female dark magic user and leader"
+    },
+    {
+      "Key": "Darkborn Assassin",
+      "Translation": "Assassin Obscur",
+      "Comment": "Master of stealth and murder"
+    }
+  ]
+}

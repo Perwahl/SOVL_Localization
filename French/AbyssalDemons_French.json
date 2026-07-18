@@ -1,0 +1,75 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Abyssal Demons Faction.",
+  "Translations": [
+    {
+      "Key": "Abyssal Demons",
+      "Translation": "Démons Abyssaux",
+      "Comment": "Faction name - creatures from the darkest depths"
+    },
+    {
+      "Key": "Abyssal Vipers",
+      "Translation": "Vipères Abyssales",
+      "Comment": "Serpentine demonic creatures"
+    },
+    {
+      "Key": "Devilspawn",
+      "Translation": "Géniture Diabolique",
+      "Comment": "Lesser demonic infantry spawned from hell"
+    },
+    {
+      "Key": "Plague Walkers",
+      "Translation": "Marcheurs de Peste",
+      "Comment": "Disease-bearing demons"
+    },
+    {
+      "Key": "Plaguelings",
+      "Translation": "Pestiferons",
+      "Comment": "Small plague demons, diminutive plague creatures"
+    },
+    {
+      "Key": "Fire Devils",
+      "Translation": "Diables de Feu",
+      "Comment": "Demons wreathed in flames"
+    },
+    {
+      "Key": "Plague Flies",
+      "Translation": "Mouches Pestilentes",
+      "Comment": "Flying plague-bearing insects"
+    },
+    {
+      "Key": "Abyssal Reapers",
+      "Translation": "Faucheurs Abyssaux",
+      "Comment": "Death-dealing demons with scythes"
+    },
+    {
+      "Key": "Demonic Hounds",
+      "Translation": "Molosses Démoniaques",
+      "Comment": "Hellish hunting beasts"
+    },
+    {
+      "Key": "Hell Riders",
+      "Translation": "Cavaliers Infernaux",
+      "Comment": "Demonic cavalry from hell"
+    },
+    {
+      "Key": "Plague Hulk",
+      "Translation": "Colosse Pestilent",
+      "Comment": "Massive plague monster"
+    },
+    {
+      "Key": "Archdevil",
+      "Translation": "Archidiable",
+      "Comment": "Greater demon lord"
+    },
+    {
+      "Key": "Abyssal Prince",
+      "Translation": "Prince Abyssal",
+      "Comment": "Powerful demonic ruler"
+    },
+    {
+      "Key": "Abyssal Herald",
+      "Translation": "Héraut Abyssal",
+      "Comment": "Messenger and champion of the abyss"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Elven Conclaves Faction.",
+  "Translations": [
+    {
+      "Key": "Elven Conclaves",
+      "Translation": "Elfenkonklave",
+      "Comment": "Konklave conveys the organized, council-like nature of Elven society. Singular form is more elegant in German."
+    },
+    {
+      "Key": "Elf Spears",
+      "Translation": "Elfenspeerkämpfer",
+      "Comment": "Speerkämpfer = spear fighters. More specific than just 'spears' and fits military unit naming."
+    },
+    {
+      "Key": "Elf City Guard",
+      "Translation": "Elfenstadtwache",
+      "Comment": "Stadtwache is city guard, compound word maintains the defensive role."
+    },
+    {
+      "Key": "Weapon Masters",
+      "Translation": "Waffenmeister",
+      "Comment": "Direct translation. Conveys elite skill and mastery, fitting for Elven warriors."
+    },
+    {
+      "Key": "Elf Archers",
+      "Translation": "Elfenbogenschützen",
+      "Comment": "Bogenschützen = archers. Elves are famous for their archery, this captures that."
+    },
+    {
+      "Key": "Elf Watchers",
+      "Translation": "Elfenwächter",
+      "Comment": "Wächter = watchers/guardians. Implies vigilance and protection."
+    },
+    {
+      "Key": "Elf Bolt Thrower",
+      "Translation": "Elfen-Bolzenwerfer",
+      "Comment": "Consistent with other bolt thrower translations. Hyphen for clarity."
+    },
+    {
+      "Key": "Elf Lancers",
+      "Translation": "Elfenlanzenreiter",
+      "Comment": "Lanzenreiter = lance riders/cavalry. Elegant compound for mounted troops."
+    },
+    {
+      "Key": "Elf Reavers",
+      "Translation": "Elfenplünderer",
+      "Comment": "Plünderer = reavers/raiders. Fast cavalry that strikes and withdraws."
+    },
+    {
+      "Key": "Elf Chariot",
+      "Translation": "Elfenstreitwagen",
+      "Comment": "Streitwagen = chariot. Classic military vehicle terminology."
+    },
+    {
+      "Key": "Giant Eagle",
+      "Translation": "Riesenadler",
+      "Comment": "Direct translation. Majestic creature fitting for Elven forces."
+    },
+    {
+      "Key": "Dragon Knights",
+      "Translation": "Drachenritter",
+      "Comment": "Elite dragon-riding warriors. Compound conveys both mount and rider."
+    },
+    {
+      "Key": "Ancient Dragon",
+      "Translation": "Uralter Drache",
+      "Comment": "Uralter emphasizes ancient age and power. More evocative than 'alter'."
+    },
+    {
+      "Key": "Gryphon",
+      "Translation": "Greif",
+      "Comment": "Standard German term for gryphon/griffin. Mythological creature."
+    },
+    {
+      "Key": "Elf Noble",
+      "Translation": "Elfenedelmann",
+      "Comment": "Edelmann = nobleman. Traditional term for aristocratic leader."
+    },
+    {
+      "Key": "Elf Mage",
+      "Translation": "Elfenmagier",
+      "Comment": "Magier is the standard term for mage/wizard in German fantasy."
+    },
+    {
+      "Key": "Elf Spellsword",
+      "Translation": "Elfenklangenschmied",
+      "Comment": "Klingenschmied literally 'blade smith' but conveys the martial-magical hybrid warrior. Alternative: Zauberklinge (magic blade)."
+    }
+  ]
+}

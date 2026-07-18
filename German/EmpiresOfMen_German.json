@@ -1,0 +1,95 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Empire of Men Faction.",
+  "Translations": [
+    {
+      "Key": "Empires of Men",
+      "Translation": "Reiche der Menschen",
+      "Comment": "Reich = empire/realm. Plural form maintains the grand, multi-kingdom nature."
+    },
+    {
+      "Key": "Imperial Sword",
+      "Translation": "Kaiserliche Schwertkämpfer",
+      "Comment": "Kaiserlich = imperial. Schwertkämpfer = swordsmen for clarity."
+    },
+    {
+      "Key": "Foot Knights",
+      "Translation": "Fußritter",
+      "Comment": "Compound word for knights on foot, as opposed to mounted knights."
+    },
+    {
+      "Key": "Imperial Halberd",
+      "Translation": "Kaiserliche Hellebardiere",
+      "Comment": "Hellebardiere = halberdiers. Professional term for halberd-wielding troops."
+    },
+    {
+      "Key": "Imperial Spear",
+      "Translation": "Kaiserliche Speerkämpfer",
+      "Comment": "Speerkämpfer = spearmen. Standard military formation troops."
+    },
+    {
+      "Key": "Imperial Knights",
+      "Translation": "Kaiserliche Ritter",
+      "Comment": "Heavy cavalry, the elite of the empire. Direct and powerful."
+    },
+    {
+      "Key": "Imperial Light Cavalry",
+      "Translation": "Kaiserliche Leichte Kavallerie",
+      "Comment": "Leichte Kavallerie = light cavalry. Scouts and skirmishers."
+    },
+    {
+      "Key": "Imperial Archers",
+      "Translation": "Kaiserliche Bogenschützen",
+      "Comment": "Bogenschützen = archers. Classic ranged infantry."
+    },
+    {
+      "Key": "Imperial Crossbowmen",
+      "Translation": "Kaiserliche Armbrustschützen",
+      "Comment": "Armbrustschützen = crossbowmen. More powerful ranged troops."
+    },
+    {
+      "Key": "Imperial Handguns",
+      "Translation": "Kaiserliche Büchsenschützen",
+      "Comment": "Büchsenschützen = handgunners/arquebusiers. Renaissance-era firearms."
+    },
+    {
+      "Key": "Imperial Cannon",
+      "Translation": "Kaiserliche Kanone",
+      "Comment": "Direct translation of cannon. Heavy artillery."
+    },
+    {
+      "Key": "Imperial Mortar",
+      "Translation": "Kaiserlicher Mörser",
+      "Comment": "Mörser = mortar. Indirect fire artillery."
+    },
+    {
+      "Key": "Imperial Dreadnought",
+      "Translation": "Kaiserlicher Koloss",
+      "Comment": "Koloss (colossus) conveys massive war machine. Alternative to anglicized 'Dreadnought'."
+    },
+    {
+      "Key": "Gryphon",
+      "Translation": "Greif",
+      "Comment": "Standard German term for gryphon. Majestic imperial symbol."
+    },
+    {
+      "Key": "Imperial Dragon",
+      "Translation": "Kaiserlicher Drache",
+      "Comment": "Dragon under imperial control. Ultimate flying unit."
+    },
+    {
+      "Key": "Captain",
+      "Translation": "Hauptmann",
+      "Comment": "Traditional German military rank for captain. Battle-hardened leader."
+    },
+    {
+      "Key": "Knight Commander",
+      "Translation": "Ritterkommandant",
+      "Comment": "Kommandant = commander. Leader of knightly orders."
+    },
+    {
+      "Key": "Imperial Wizard",
+      "Translation": "Kaiserlicher Zauberer",
+      "Comment": "Zauberer = wizard. Magic user in service of the empire."
+    }
+  ]
+}

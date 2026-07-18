@@ -1,0 +1,90 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Dwarf Hold Faction.",
+  "Translations": [
+    {
+      "Key": "Dwarf Holds",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Warriors",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Veterans",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Miners",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Crossbows",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Handguns",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Rangers",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Cannon",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Bolt Thrower",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Stonethrower",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Berserkers",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Deep Guard",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Inferno Cannon",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Flying Machine",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Foreman",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Ranger Captain",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Engineer",
+      "Translation": "",
+      "Comment": ""
+    }
+  ]
+}

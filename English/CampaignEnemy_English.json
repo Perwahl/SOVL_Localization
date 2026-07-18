@@ -1,0 +1,350 @@
+{
+  "TranslationContext": "This file contains names of enemu armies in the campaign.",
+  "Translations": [
+    {
+      "Key": "Worlds Hope",
+      "Translation": "Worlds Hope",
+      "Comment": "Poetic/prophetic army name"
+    },
+    {
+      "Key": "Worlds End",
+      "Translation": "Worlds End",
+      "Comment": "Apocalyptic army name"
+    },
+    {
+      "Key": "Shambling Host",
+      "Translation": "Shambling Host",
+      "Comment": "Undead army - 'shambling' = slow zombie movement"
+    },
+    {
+      "Key": "Goblin Raiders",
+      "Translation": "Goblin Raiders",
+      "Comment": ""
+    },
+    {
+      "Key": "Roaming Brigands",
+      "Translation": "Roaming Brigands",
+      "Comment": "Classic fantasy bandits"
+    },
+    {
+      "Key": "Orc Scouts",
+      "Translation": "Orc Scouts",
+      "Comment": ""
+    },
+    {
+      "Key": "Vermin Pack",
+      "Translation": "Vermin Pack",
+      "Comment": "Ratkin/Skaven-style enemies"
+    },
+    {
+      "Key": "Newt Ambushers",
+      "Translation": "Newt Ambushers",
+      "Comment": "Lizardmen ambush party"
+    },
+    {
+      "Key": "Mossbeard",
+      "Translation": "Mossbeard",
+      "Comment": "Treant/forest spirit name"
+    },
+    {
+      "Key": "Bandit Gang",
+      "Translation": "Bandit Gang",
+      "Comment": ""
+    },
+    {
+      "Key": "Goblin Warparty",
+      "Translation": "Goblin Warparty",
+      "Comment": ""
+    },
+    {
+      "Key": "Orc Raiders",
+      "Translation": "Orc Raiders",
+      "Comment": ""
+    },
+    {
+      "Key": "Elf Patrol",
+      "Translation": "Elf Patrol",
+      "Comment": ""
+    },
+    {
+      "Key": "Mining Crew",
+      "Translation": "Mining Crew",
+      "Comment": "Dwarf miners"
+    },
+    {
+      "Key": "Vermin Tunnelers",
+      "Translation": "Vermin Tunnelers",
+      "Comment": "Ratkin tunnel diggers"
+    },
+    {
+      "Key": "Darkborn Slavers",
+      "Translation": "Darkborn Slavers",
+      "Comment": "Dark elf slavers"
+    },
+    {
+      "Key": "Rat Swarm",
+      "Translation": "Rat Swarm",
+      "Comment": ""
+    },
+    {
+      "Key": "The Red Goblin",
+      "Translation": "The Red Goblin",
+      "Comment": "Boss/champion name"
+    },
+    {
+      "Key": "Colossal Dreadmaw",
+      "Translation": "Colossal Dreadmaw",
+      "Comment": "Giant monster name"
+    },
+    {
+      "Key": "Knight Of Flowers",
+      "Translation": "Knight Of Flowers",
+      "Comment": "Chivalric knight title"
+    },
+    {
+      "Key": "Korgak",
+      "Translation": "Korgak",
+      "Comment": "Orc warlord proper name"
+    },
+    {
+      "Key": "Gundrik Anvilhide",
+      "Translation": "Gundrik Anvilhide",
+      "Comment": "Dwarf champion - surname translated for flavor"
+    },
+    {
+      "Key": "Von Platen",
+      "Translation": "Von Platen",
+      "Comment": "German noble name - keep as is"
+    },
+    {
+      "Key": "Shadowtail",
+      "Translation": "Shadowtail",
+      "Comment": "Ratkin assassin name"
+    },
+    {
+      "Key": "Valeria",
+      "Translation": "Valeria",
+      "Comment": "Female champion proper name"
+    },
+    {
+      "Key": "Prince Aias",
+      "Translation": "Prince Aias",
+      "Comment": "Elf prince"
+    },
+    {
+      "Key": "Draz'gog",
+      "Translation": "Draz'gog",
+      "Comment": "Orc/demon warlord proper name"
+    },
+    {
+      "Key": "Marius the Undying",
+      "Translation": "Marius the Undying",
+      "Comment": "Vampire/undead lord"
+    },
+    {
+      "Key": "Lirael the Ancient",
+      "Translation": "Lirael the Ancient",
+      "Comment": "Female elf/spirit - feminine article"
+    },
+    {
+      "Key": "Rasha Blackfur",
+      "Translation": "Rasha Blackfur",
+      "Comment": "Beastman/Ratkin chieftain"
+    },
+    {
+      "Key": "Beastherd",
+      "Translation": "Beastherd",
+      "Comment": "Beastman warband"
+    },
+    {
+      "Key": "Northmen Raiders",
+      "Translation": "Northmen Raiders",
+      "Comment": "Viking-style warriors"
+    },
+    {
+      "Key": "Elf Garrison",
+      "Translation": "Elf Garrison",
+      "Comment": ""
+    },
+    {
+      "Key": "Imperial Regiment",
+      "Translation": "Imperial Regiment",
+      "Comment": "Empire/human professional army"
+    },
+    {
+      "Key": "Risen Invaders",
+      "Translation": "Risen Invaders",
+      "Comment": "Undead risen army"
+    },
+    {
+      "Key": "Deepwood Protectors",
+      "Translation": "Deepwood Protectors",
+      "Comment": "Wood elf defenders"
+    },
+    {
+      "Key": "Brood Swarm",
+      "Translation": "Brood Swarm",
+      "Comment": "Lizardmen/reptilian swarm"
+    },
+    {
+      "Key": "Dreadnought Fleet",
+      "Translation": "Dreadnought Fleet",
+      "Comment": "Powerful naval force"
+    },
+    {
+      "Key": "Treant March",
+      "Translation": "Treant March",
+      "Comment": "Forest spirits on the move"
+    },
+    {
+      "Key": "War Host",
+      "Translation": "War Host",
+      "Comment": "Large military force"
+    },
+    {
+      "Key": "Abyssal Raiders",
+      "Translation": "Abyssal Raiders",
+      "Comment": "Demon raiders from the abyss"
+    },
+    {
+      "Key": "Beasthost",
+      "Translation": "Beasthost",
+      "Comment": "Large beastman army"
+    },
+    {
+      "Key": "Dwarf Gunline",
+      "Translation": "Dwarf Gunline",
+      "Comment": "Dwarf gunpowder army formation"
+    },
+    {
+      "Key": "Goblin Legion",
+      "Translation": "Goblin Legion",
+      "Comment": "Massive goblin army"
+    },
+    {
+      "Key": "Doom Swarm",
+      "Translation": "Doom Swarm",
+      "Comment": "Apocalyptic ratkin horde"
+    },
+    {
+      "Key": "Forest Wrath",
+      "Translation": "Forest Wrath",
+      "Comment": "Angry forest spirits"
+    },
+    {
+      "Key": "Temple Guard",
+      "Translation": "Temple Guard",
+      "Comment": "Lizardmen elite guardians"
+    },
+    {
+      "Key": "Toad King",
+      "Translation": "Toad King",
+      "Comment": "Lizardmen slann/toad priest"
+    },
+    {
+      "Key": "Northmen War Pack",
+      "Translation": "Northmen War Pack",
+      "Comment": "Viking warband"
+    },
+    {
+      "Key": "Trickery",
+      "Translation": "Trickery",
+      "Comment": "Chaos/trickster god alignment or themed army"
+    },
+    {
+      "Key": "Gravethorn",
+      "Translation": "Gravethorn",
+      "Comment": "Undead/vampire lord name"
+    },
+    {
+      "Key": "Malificar the Despoiler",
+      "Translation": "Malificar the Despoiler",
+      "Comment": "Chaos/demon lord boss"
+    },
+    {
+      "Key": "Sir Dagrik",
+      "Translation": "Sir Dagrik",
+      "Comment": "Human/Bretonnian knight"
+    },
+    {
+      "Key": "Ajolote",
+      "Translation": "Ajolote",
+      "Comment": "Lizardmen proper name (axolotl-inspired)"
+    },
+    {
+      "Key": "Master Itch",
+      "Translation": "Master Itch",
+      "Comment": "Ratkin clan master - 'Itch' = plague theme"
+    },
+    {
+      "Key": "Thorbjorn",
+      "Translation": "Thorbjorn",
+      "Comment": "Norse/Viking proper name - authentic"
+    },
+    {
+      "Key": "Abraxas The Decayed ",
+      "Translation": "Abraxas The Decayed ",
+      "Comment": "Nurgle/decay demon lord"
+    },
+    {
+      "Key": "The Dark Battalion",
+      "Translation": "The Dark Battalion",
+      "Comment": "Dark elf/chaos elite army"
+    },
+    {
+      "Key": "The Silver Host",
+      "Translation": "The Silver Host",
+      "Comment": "High elf/noble army"
+    },
+    {
+      "Key": "The Unholy Alliance",
+      "Translation": "The Unholy Alliance",
+      "Comment": "Chaos/evil coalition"
+    },
+    {
+      "Key": "Verdant Sentinels",
+      "Translation": "Verdant Sentinels",
+      "Comment": "Forest/nature spirit guardians"
+    },
+    {
+      "Key": "Corrupted Legion",
+      "Translation": "Corrupted Legion",
+      "Comment": "Chaos-corrupted army"
+    },
+    {
+      "Key": "Roaming Vampires",
+      "Translation": "Roaming Vampires",
+      "Comment": "Vampire encounter"
+    },
+    {
+      "Key": "Rogue Wizards",
+      "Translation": "Rogue Wizards",
+      "Comment": "Renegade mages - mirrors UI translation"
+    },
+    {
+      "Key": "Wild Bulls",
+      "Translation": "Wild Bulls",
+      "Comment": "Minotaur/beastman encounter"
+    },
+    {
+      "Key": "Angry Giants",
+      "Translation": "Angry Giants",
+      "Comment": "Giant monster encounter"
+    },
+    {
+      "Key": "Swamp Trolls",
+      "Translation": "Swamp Trolls",
+      "Comment": "Monster encounter"
+    },
+    {
+      "Key": "Wolf Pack",
+      "Translation": "Wolf Pack",
+      "Comment": "Beast/wolf encounter"
+    },
+    {
+      "Key": "Zombie Horde",
+      "Translation": "Zombie Horde",
+      "Comment": "Undead encounter"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Deepwood Guardians Faction.",
+  "Translations": [
+    {
+      "Key": "Deepwood Guardians",
+      "Translation": "Deepwood Guardians",
+      "Comment": "Tiefwald = deepwood, Hüter = guardians. Protectors of the ancient forest."
+    },
+    {
+      "Key": "Deepwood Guard",
+      "Translation": "Deepwood Guard",
+      "Comment": "Wache = guard. Basic forest defenders."
+    },
+    {
+      "Key": "Dryads",
+      "Translation": "Dryads",
+      "Comment": "Standard German term for dryads. Tree spirits in elven form."
+    },
+    {
+      "Key": "Deepwood Dancers",
+      "Translation": "Deepwood Dancers",
+      "Comment": "Tänzer = dancers. Swift and graceful forest warriors."
+    },
+    {
+      "Key": "Deepwood Archers",
+      "Translation": "Deepwood Archers",
+      "Comment": "Forest archers. Masters of woodland archery."
+    },
+    {
+      "Key": "Deepwood Rangers",
+      "Translation": "Deepwood Rangers",
+      "Comment": "Waldläufer = rangers. Elite scouts and hunters of the deep forest."
+    },
+    {
+      "Key": "Deepwood Riders",
+      "Translation": "Deepwood Riders",
+      "Comment": "Fast cavalry of the forest. Riding forest creatures."
+    },
+    {
+      "Key": "Deepwood Chariot",
+      "Translation": "Deepwood Chariot",
+      "Comment": "Nature-powered chariot."
+    },
+    {
+      "Key": "Giant Eagle",
+      "Translation": "Giant Eagle",
+      "Comment": "Majestic flying creature of the forest."
+    },
+    {
+      "Key": "Stag Riders",
+      "Translation": "Stag Riders",
+      "Comment": "Hirsch = stag. Cavalry riding majestic forest stags."
+    },
+    {
+      "Key": "Treant",
+      "Translation": "Treant",
+      "Comment": "Baumriese = tree giant. Living tree creature. Alternative: Treant (kept as fantasy term)."
+    },
+    {
+      "Key": "Forest Dragon",
+      "Translation": "Forest Dragon",
+      "Comment": "Dragon of the forest. Ancient guardian."
+    },
+    {
+      "Key": "Gryphon",
+      "Translation": "Gryphon",
+      "Comment": "Standard German term for gryphon."
+    },
+    {
+      "Key": "Deepwood Noble",
+      "Translation": "Deepwood Noble",
+      "Comment": "Noble leader of the forest folk."
+    },
+    {
+      "Key": "Deepwood Druid",
+      "Translation": "Deepwood Druid",
+      "Comment": "Druide = druid. Nature magic user."
+    },
+    {
+      "Key": "Treant Elder",
+      "Translation": "Treant Elder",
+      "Comment": "Ancient and powerful tree creature. Wise forest spirit."
+    }
+  ]
+}

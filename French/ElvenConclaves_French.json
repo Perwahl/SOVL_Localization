@@ -1,0 +1,90 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Elven Conclaves Faction.",
+  "Translations": [
+    {
+      "Key": "Elven Conclaves",
+      "Translation": "Conclaves Elfiques",
+      "Comment": "Faction name - organized elven societies"
+    },
+    {
+      "Key": "Elf Spears",
+      "Translation": "Lanciers Elfes",
+      "Comment": "Spear-armed elven infantry"
+    },
+    {
+      "Key": "Elf City Guard",
+      "Translation": "Garde Urbaine Elfe",
+      "Comment": "City defenders"
+    },
+    {
+      "Key": "Weapon Masters",
+      "Translation": "Maîtres d'Armes",
+      "Comment": "Elite warriors with mastery of all weapons"
+    },
+    {
+      "Key": "Elf Archers",
+      "Translation": "Archers Elfes",
+      "Comment": "Elven archers - masters of the bow"
+    },
+    {
+      "Key": "Elf Watchers",
+      "Translation": "Guetteurs Elfes",
+      "Comment": "Vigilant scouts and sentinels"
+    },
+    {
+      "Key": "Elf Bolt Thrower",
+      "Translation": "Baliste Elfe",
+      "Comment": "Elven siege weapon"
+    },
+    {
+      "Key": "Elf Lancers",
+      "Translation": "Lanciers Montés Elfes",
+      "Comment": "Elven cavalry with lances"
+    },
+    {
+      "Key": "Elf Reavers",
+      "Translation": "Écumeurs Elfes",
+      "Comment": "Fast light cavalry raiders"
+    },
+    {
+      "Key": "Elf Chariot",
+      "Translation": "Char Elfe",
+      "Comment": "Elegant elven chariot"
+    },
+    {
+      "Key": "Giant Eagle",
+      "Translation": "Aigle Géant",
+      "Comment": "Majestic flying creature allied with elves"
+    },
+    {
+      "Key": "Dragon Knights",
+      "Translation": "Chevaliers Dragons",
+      "Comment": "Elite dragon riders"
+    },
+    {
+      "Key": "Ancient Dragon",
+      "Translation": "Dragon Ancestral",
+      "Comment": "Ancient powerful dragon"
+    },
+    {
+      "Key": "Gryphon",
+      "Translation": "Griffon",
+      "Comment": "Mythological creature mount"
+    },
+    {
+      "Key": "Elf Noble",
+      "Translation": "Noble Elfe",
+      "Comment": "Aristocratic leader"
+    },
+    {
+      "Key": "Elf Mage",
+      "Translation": "Mage Elfe",
+      "Comment": "Elven wizard"
+    },
+    {
+      "Key": "Elf Spellsword",
+      "Translation": "Lamemagicien Elfe",
+      "Comment": "Warrior-mage hybrid. Alternative: Épéiste Enchanteur"
+    }
+  ]
+}

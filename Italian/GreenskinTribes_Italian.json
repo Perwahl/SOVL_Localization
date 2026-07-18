@@ -1,0 +1,95 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Greenskin Tribes Faction.",
+  "Translations": [
+    {
+      "Key": "Greenskin Tribes",
+      "Translation": "",
+      "Comment": "Literal translation maintaining the fantasy wargame tone. Grünhaut is the standard German term for greenskins."
+    },
+    {
+      "Key": "Orc Warriors",
+      "Translation": "",
+      "Comment": "Standard compound word for Orc Warriors. Keeps the brutal and direct feel."
+    },
+    {
+      "Key": "Orc Brutes",
+      "Translation": "",
+      "Comment": "Schläger conveys brutality and thuggish nature, fitting for Orc brutes."
+    },
+    {
+      "Key": "Goblin Mob",
+      "Translation": "",
+      "Comment": "Mob works well in German and conveys the chaotic horde-like nature."
+    },
+    {
+      "Key": "Goblin Spear Mob",
+      "Translation": "",
+      "Comment": "Added hyphen for clarity between weapon type and mob."
+    },
+    {
+      "Key": "Boar Riders",
+      "Translation": "",
+      "Comment": "Eber is wild boar, appropriate for the savage greenskin aesthetic."
+    },
+    {
+      "Key": "Goblin Wolf Riders",
+      "Translation": "",
+      "Comment": "Compound word with hyphen for readability."
+    },
+    {
+      "Key": "Orc Boar Chariot",
+      "Translation": "",
+      "Comment": "Streitwagen is chariot, compound with Eber for boar. Epic and warlike."
+    },
+    {
+      "Key": "Goblin Shortbows",
+      "Translation": "",
+      "Comment": "Kurzbogenschützen = shortbow archers. Added 'schützen' for clarity that these are the bow-wielding troops."
+    },
+    {
+      "Key": "Goblin Bolt Throwers",
+      "Translation": "",
+      "Comment": "Bolzenwerfer matches the term used in UnitProps for bolt thrower weapons."
+    },
+    {
+      "Key": "Goblin Stonethrower",
+      "Translation": "",
+      "Comment": "Steinschleuder for stone thrower, consistent with Dwarf artillery naming."
+    },
+    {
+      "Key": "Trolls",
+      "Translation": "",
+      "Comment": "Standard German plural for trolls."
+    },
+    {
+      "Key": "Giant",
+      "Translation": "",
+      "Comment": "Classic German word for giant, fits the mythical fantasy tone."
+    },
+    {
+      "Key": "Wyvern",
+      "Translation": "",
+      "Comment": "Wyvern is kept as is - it's a fantasy creature name recognized internationally."
+    },
+    {
+      "Key": "Giant Spider",
+      "Translation": "",
+      "Comment": "Direct translation, evokes the monstrous nature of the creature."
+    },
+    {
+      "Key": "War Chief",
+      "Translation": "",
+      "Comment": "Häuptling conveys tribal leadership, Kriegs- adds the martial aspect."
+    },
+    {
+      "Key": "Goblin Shaman",
+      "Translation": "",
+      "Comment": "Schamane is shaman, fits the tribal mysticism of goblin magic users."
+    },
+    {
+      "Key": "Goblin King",
+      "Translation": "",
+      "Comment": "Direct translation, König is king. Grand title for the faction leader."
+    }
+  ]
+}

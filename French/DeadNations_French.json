@@ -1,0 +1,85 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Dead Nations Faction.",
+  "Translations": [
+    {
+      "Key": "Dead Nations",
+      "Translation": "Nations Mortes",
+      "Comment": "Undead kingdoms risen from ancient graves"
+    },
+    {
+      "Key": "Skeleton Warriors",
+      "Translation": "Guerriers Squelettes",
+      "Comment": "Basic undead infantry"
+    },
+    {
+      "Key": "Zombies",
+      "Translation": "Zombies",
+      "Comment": "Shambling undead hordes"
+    },
+    {
+      "Key": "Wight Guard",
+      "Translation": "Garde des Nécrophages",
+      "Comment": "Elite undead tomb guardians"
+    },
+    {
+      "Key": "Skeleton Spear",
+      "Translation": "Lanciers Squelettes",
+      "Comment": "Skeletal spear troops"
+    },
+    {
+      "Key": "Unearthed Catapult",
+      "Translation": "Catapulte Exhumée",
+      "Comment": "Ancient siege weapon raised from the dead"
+    },
+    {
+      "Key": "Skeleton Bowmen",
+      "Translation": "Archers Squelettes",
+      "Comment": "Undead archers"
+    },
+    {
+      "Key": "Dire Wolves",
+      "Translation": "Loups Funestes",
+      "Comment": "Supernatural cursed wolves"
+    },
+    {
+      "Key": "Skeleton Knights",
+      "Translation": "Chevaliers Squelettes",
+      "Comment": "Undead cavalry"
+    },
+    {
+      "Key": "Dread Knights",
+      "Translation": "Chevaliers de l'Effroi",
+      "Comment": "Elite terror-inducing undead knights"
+    },
+    {
+      "Key": "Fell Bats",
+      "Translation": "Chauves-Souris Sinistres",
+      "Comment": "Monstrous flying creatures"
+    },
+    {
+      "Key": "Zombie Giant",
+      "Translation": "Géant Zombie",
+      "Comment": "Massive reanimated corpse"
+    },
+    {
+      "Key": "Bone Dragon",
+      "Translation": "Dragon d'Os",
+      "Comment": "Terrifying skeletal dragon"
+    },
+    {
+      "Key": "Wight Lord",
+      "Translation": "Seigneur Nécrophage",
+      "Comment": "Ancient undead noble"
+    },
+    {
+      "Key": "Vampire Knight",
+      "Translation": "Chevalier Vampire",
+      "Comment": "Undead knight with vampiric powers"
+    },
+    {
+      "Key": "Necromancer",
+      "Translation": "Nécromancien",
+      "Comment": "Master of death magic"
+    }
+  ]
+}

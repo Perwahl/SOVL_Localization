@@ -1,0 +1,1130 @@
+{
+  "TranslationContext": "This file contains names of Unit Properties and equipment.",
+  "Translations": [
+    {
+      "Key": "Spear and Shield",
+      "Translation": "Lance et Bouclier",
+      "Comment": "Standard medieval equipment translation"
+    },
+    {
+      "Key": "Swift",
+      "Translation": "Véloce",
+      "Comment": "More evocative than 'rapide' for fantasy setting"
+    },
+    {
+      "Key": "Bolt Thrower",
+      "Translation": "Baliste",
+      "Comment": "Traditional medieval siege weapon"
+    },
+    {
+      "Key": "Lethal Shots",
+      "Translation": "Tirs Mortels",
+      "Comment": ""
+    },
+    {
+      "Key": "Crewed Weapon",
+      "Translation": "Arme Servie",
+      "Comment": "Military terminology for multi-person weapons"
+    },
+    {
+      "Key": "Reposition",
+      "Translation": "Repositionnement",
+      "Comment": ""
+    },
+    {
+      "Key": "Hand Weapon+Shield",
+      "Translation": "Arme de Poing+Bouclier",
+      "Comment": ""
+    },
+    {
+      "Key": "Sturdy",
+      "Translation": "Robuste",
+      "Comment": ""
+    },
+    {
+      "Key": "Fearless",
+      "Translation": "Intrépide",
+      "Comment": "More heroic tone than 'sans peur'"
+    },
+    {
+      "Key": "Greatweapon",
+      "Translation": "Grande Arme",
+      "Comment": ""
+    },
+    {
+      "Key": "Hand Weapon and Shield",
+      "Translation": "Arme de Poing et Bouclier",
+      "Comment": ""
+    },
+    {
+      "Key": "Mountain's Will",
+      "Translation": "Volonté de la Montagne",
+      "Comment": "Dwarf-themed ability with poetic translation"
+    },
+    {
+      "Key": "Ramming Speed",
+      "Translation": "Vitesse d'Éperonnage",
+      "Comment": "Naval/siege terminology"
+    },
+    {
+      "Key": "Steam Gun",
+      "Translation": "Fusil à Vapeur",
+      "Comment": "Dwarven technology"
+    },
+    {
+      "Key": "Flying",
+      "Translation": "Vol",
+      "Comment": ""
+    },
+    {
+      "Key": "Masterwork Armor",
+      "Translation": "Armure de Maître",
+      "Comment": "Craftsmanship terminology"
+    },
+    {
+      "Key": "Bodyguard",
+      "Translation": "Garde du Corps",
+      "Comment": ""
+    },
+    {
+      "Key": "Frenzy",
+      "Translation": "Frénésie",
+      "Comment": "Perfect cognate for berserker rage"
+    },
+    {
+      "Key": "Two Hand Weapons",
+      "Translation": "Armes à Deux Mains",
+      "Comment": ""
+    },
+    {
+      "Key": "Crossbows",
+      "Translation": "Arbalètes",
+      "Comment": ""
+    },
+    {
+      "Key": "Scout",
+      "Translation": "Éclaireur",
+      "Comment": ""
+    },
+    {
+      "Key": "Cannon",
+      "Translation": "Canon",
+      "Comment": ""
+    },
+    {
+      "Key": "Handguns",
+      "Translation": "Arquebuses",
+      "Comment": "Medieval/Renaissance firearm term"
+    },
+    {
+      "Key": "Catapult",
+      "Translation": "Catapulte",
+      "Comment": ""
+    },
+    {
+      "Key": "Banner of Swiftness",
+      "Translation": "Bannière de Célérité",
+      "Comment": "'Célérité' adds a noble, epic tone"
+    },
+    {
+      "Key": "Banner of Fury",
+      "Translation": "Bannière de Fureur",
+      "Comment": ""
+    },
+    {
+      "Key": "Banner of Valor",
+      "Translation": "Bannière de Vaillance",
+      "Comment": "'Vaillance' evokes knightly virtues"
+    },
+    {
+      "Key": "Banner of Mist",
+      "Translation": "Bannière de Brume",
+      "Comment": "Mystical imagery"
+    },
+    {
+      "Key": "War Banner",
+      "Translation": "Bannière de Guerre",
+      "Comment": ""
+    },
+    {
+      "Key": "Cursed Standard",
+      "Translation": "Étendard Maudit",
+      "Comment": "'Étendard' for military standard, 'maudit' for cursed"
+    },
+    {
+      "Key": "Heavy Armor",
+      "Translation": "Armure Lourde",
+      "Comment": ""
+    },
+    {
+      "Key": "Halberd",
+      "Translation": "Hallebarde",
+      "Comment": ""
+    },
+    {
+      "Key": "Lance and Shield",
+      "Translation": "Lance et Bouclier",
+      "Comment": "Cavalry equipment"
+    },
+    {
+      "Key": "Hand Weapon",
+      "Translation": "Arme de Poing",
+      "Comment": ""
+    },
+    {
+      "Key": "Brace of Pistols",
+      "Translation": "Paire de Pistolets",
+      "Comment": ""
+    },
+    {
+      "Key": "Longbows",
+      "Translation": "Arcs Longs",
+      "Comment": ""
+    },
+    {
+      "Key": "Mortar",
+      "Translation": "Mortier",
+      "Comment": ""
+    },
+    {
+      "Key": "Armor Plating",
+      "Translation": "Blindage",
+      "Comment": "For mechanical/vehicle armor"
+    },
+    {
+      "Key": "Full Steam",
+      "Translation": "Pleine Vapeur",
+      "Comment": "Dwarven steam technology"
+    },
+    {
+      "Key": "Claws",
+      "Translation": "Griffes",
+      "Comment": ""
+    },
+    {
+      "Key": "Fangs",
+      "Translation": "Crocs",
+      "Comment": ""
+    },
+    {
+      "Key": "Fire Breath",
+      "Translation": "Souffle de Feu",
+      "Comment": "Dragon/monster ability"
+    },
+    {
+      "Key": "Inspire Valor",
+      "Translation": "Inspirer la Vaillance",
+      "Comment": "Leadership ability"
+    },
+    {
+      "Key": "Vitality",
+      "Translation": "Vitalité",
+      "Comment": ""
+    },
+    {
+      "Key": "Unyielding",
+      "Translation": "Inflexible",
+      "Comment": "Steadfast, never retreating"
+    },
+    {
+      "Key": "Command",
+      "Translation": "Commandement",
+      "Comment": ""
+    },
+    {
+      "Key": "Prowess",
+      "Translation": "Prouesse",
+      "Comment": "Perfect cognate for martial skill"
+    },
+    {
+      "Key": "Unnatural Power",
+      "Translation": "Pouvoir Surnaturel",
+      "Comment": "Dark/chaotic power"
+    },
+    {
+      "Key": "Potion of Power",
+      "Translation": "Potion de Puissance",
+      "Comment": ""
+    },
+    {
+      "Key": "Cruelty",
+      "Translation": "Cruauté",
+      "Comment": "Evil faction trait"
+    },
+    {
+      "Key": "Flametongue",
+      "Translation": "Langue de Flamme",
+      "Comment": "Magical weapon name"
+    },
+    {
+      "Key": "Relentless",
+      "Translation": "Implacable",
+      "Comment": "Never stopping, unstoppable"
+    },
+    {
+      "Key": "Heart Seeker",
+      "Translation": "Cherche-Cœur",
+      "Comment": "Magical weapon/ability that targets vital points"
+    },
+    {
+      "Key": "True Strike",
+      "Translation": "Frappe Véritable",
+      "Comment": "Attack that never misses"
+    },
+    {
+      "Key": "Furious Charge",
+      "Translation": "Charge Furieuse",
+      "Comment": ""
+    },
+    {
+      "Key": "Fireball",
+      "Translation": "Boule de Feu",
+      "Comment": "Classic spell"
+    },
+    {
+      "Key": "Frost Ward",
+      "Translation": "Garde de Givre",
+      "Comment": "Protective ice magic"
+    },
+    {
+      "Key": "Divine Favour",
+      "Translation": "Faveur Divine",
+      "Comment": "Holy/divine magic"
+    },
+    {
+      "Key": "Shadow Bolt",
+      "Translation": "Éclair d'Ombre",
+      "Comment": "Dark magic spell"
+    },
+    {
+      "Key": "Radiant Shield",
+      "Translation": "Bouclier Radieux",
+      "Comment": "Holy protective magic"
+    },
+    {
+      "Key": "Hex Of Ruin",
+      "Translation": "Maléfice de Ruine",
+      "Comment": "'Maléfice' for evil curse/hex"
+    },
+    {
+      "Key": "Shortbows",
+      "Translation": "Arcs Courts",
+      "Comment": ""
+    },
+    {
+      "Key": "Crushing Charge",
+      "Translation": "Charge Écrasante",
+      "Comment": "Heavy impact charge"
+    },
+    {
+      "Key": "Regeneration",
+      "Translation": "Régénération",
+      "Comment": ""
+    },
+    {
+      "Key": "Poisoned Attacks",
+      "Translation": "Attaques Empoisonnées",
+      "Comment": ""
+    },
+    {
+      "Key": "Web",
+      "Translation": "Toile",
+      "Comment": "Spider web"
+    },
+    {
+      "Key": "Warcry",
+      "Translation": "Cri de Guerre",
+      "Comment": ""
+    },
+    {
+      "Key": "Primal Fury",
+      "Translation": "Fureur Primordiale",
+      "Comment": "Savage, ancient rage"
+    },
+    {
+      "Key": "Thousand Mouths",
+      "Translation": "Mille Bouches",
+      "Comment": "Horrific monster ability"
+    },
+    {
+      "Key": "Shroud",
+      "Translation": "Linceul",
+      "Comment": "Dark concealment, death imagery"
+    },
+    {
+      "Key": "Wildform",
+      "Translation": "Forme Sauvage",
+      "Comment": "Nature/druid shapeshifting"
+    },
+    {
+      "Key": "Power Of Many",
+      "Translation": "Pouvoir du Nombre",
+      "Comment": "Strength in numbers"
+    },
+    {
+      "Key": "Explosive Charges",
+      "Translation": "Charges Explosives",
+      "Comment": ""
+    },
+    {
+      "Key": "Ambusher",
+      "Translation": "Embusqueur",
+      "Comment": ""
+    },
+    {
+      "Key": "Inferno Cannon",
+      "Translation": "Canon Infernal",
+      "Comment": "Fire-based siege weapon"
+    },
+    {
+      "Key": "Marksman Rifle",
+      "Translation": "Fusil de Précision",
+      "Comment": ""
+    },
+    {
+      "Key": "Ranger",
+      "Translation": "Rôdeur",
+      "Comment": "Classic fantasy ranger class"
+    },
+    {
+      "Key": "Dwarf Pistol",
+      "Translation": "Pistolet Nain",
+      "Comment": ""
+    },
+    {
+      "Key": "Mechanical Expertise",
+      "Translation": "Expertise Mécanique",
+      "Comment": "Dwarven engineering skill"
+    },
+    {
+      "Key": "Elven Mastery",
+      "Translation": "Maîtrise Elfique",
+      "Comment": ""
+    },
+    {
+      "Key": "Bows",
+      "Translation": "Arcs",
+      "Comment": ""
+    },
+    {
+      "Key": "Rallying Cry",
+      "Translation": "Cri de Ralliement",
+      "Comment": ""
+    },
+    {
+      "Key": "Arcane Web",
+      "Translation": "Toile Arcanique",
+      "Comment": "Magical entrapment"
+    },
+    {
+      "Key": "Reality Rift",
+      "Translation": "Faille Dimensionnelle",
+      "Comment": "Reality-bending magic"
+    },
+    {
+      "Key": "Fiery Blades",
+      "Translation": "Lames Ardentes",
+      "Comment": "'Ardentes' for burning blades"
+    },
+    {
+      "Key": "Reanimated",
+      "Translation": "Réanimé",
+      "Comment": "Undead trait"
+    },
+    {
+      "Key": "Unarmed",
+      "Translation": "Désarmé",
+      "Comment": ""
+    },
+    {
+      "Key": "Putrid Stench",
+      "Translation": "Puanteur Putride",
+      "Comment": "Undead/plague creature trait"
+    },
+    {
+      "Key": "Eternal Reign",
+      "Translation": "Règne Éternel",
+      "Comment": "Undead lord ability"
+    },
+    {
+      "Key": "Unholy Vigour",
+      "Translation": "Vigueur Impie",
+      "Comment": "Undead unholy power"
+    },
+    {
+      "Key": "Reanimate",
+      "Translation": "Réanimer",
+      "Comment": "Necromancy spell"
+    },
+    {
+      "Key": "Plague",
+      "Translation": "Peste",
+      "Comment": ""
+    },
+    {
+      "Key": "Raise Dead",
+      "Translation": "Lever les Morts",
+      "Comment": "Classic necromancy spell"
+    },
+    {
+      "Key": "Javelins",
+      "Translation": "Javelots",
+      "Comment": ""
+    },
+    {
+      "Key": "Boulder Throw",
+      "Translation": "Lancer de Rocher",
+      "Comment": "Giant/troll ability"
+    },
+    {
+      "Key": "Blood Frenzy",
+      "Translation": "Frénésie Sanguinaire",
+      "Comment": "Violent, bloodthirsty rage"
+    },
+    {
+      "Key": "Raider",
+      "Translation": "Pillard",
+      "Comment": "Orc/barbarian trait"
+    },
+    {
+      "Key": "Blood Fury",
+      "Translation": "Fureur Sanguinaire",
+      "Comment": ""
+    },
+    {
+      "Key": "Abyssal Armor",
+      "Translation": "Armure Abyssale",
+      "Comment": "Demonic armor"
+    },
+    {
+      "Key": "Scaly Skin",
+      "Translation": "Peau Écailleuse",
+      "Comment": "Reptilian/dragon trait"
+    },
+    {
+      "Key": "Demonic",
+      "Translation": "Démoniaque",
+      "Comment": ""
+    },
+    {
+      "Key": "Gift Of War",
+      "Translation": "Don de la Guerre",
+      "Comment": "Chaos/war god blessing"
+    },
+    {
+      "Key": "Tusks",
+      "Translation": "Défenses",
+      "Comment": "Boar/orc tusks"
+    },
+    {
+      "Key": "Demonic Possession",
+      "Translation": "Possession Démoniaque",
+      "Comment": ""
+    },
+    {
+      "Key": "Pack Tactics",
+      "Translation": "Tactiques de Meute",
+      "Comment": "Wolf pack coordination"
+    },
+    {
+      "Key": "Howl",
+      "Translation": "Hurlement",
+      "Comment": ""
+    },
+    {
+      "Key": "Horns",
+      "Translation": "Cornes",
+      "Comment": ""
+    },
+    {
+      "Key": "Newt Shortbows",
+      "Translation": "Arcs Courts de Triton",
+      "Comment": "Lizardfolk/newt creature weapons"
+    },
+    {
+      "Key": "Roar!",
+      "Translation": "Rugissement !",
+      "Comment": ""
+    },
+    {
+      "Key": "Ancient Knowledge",
+      "Translation": "Savoir Ancien",
+      "Comment": "Old wisdom/lore"
+    },
+    {
+      "Key": "Throwing Stars",
+      "Translation": "Étoiles de Lancer",
+      "Comment": "Shuriken equivalent"
+    },
+    {
+      "Key": "Longrifle",
+      "Translation": "Fusil Long",
+      "Comment": ""
+    },
+    {
+      "Key": "Sling",
+      "Translation": "Fronde",
+      "Comment": ""
+    },
+    {
+      "Key": "Flamer",
+      "Translation": "Lance-Flammes",
+      "Comment": ""
+    },
+    {
+      "Key": "Doom Bell",
+      "Translation": "Cloche du Destin",
+      "Comment": "Ominous, fate-related"
+    },
+    {
+      "Key": "Cruel Motivation",
+      "Translation": "Motivation Cruelle",
+      "Comment": "Evil leadership through fear"
+    },
+    {
+      "Key": "Deadly Strike",
+      "Translation": "Frappe Mortelle",
+      "Comment": ""
+    },
+    {
+      "Key": "Hidden",
+      "Translation": "Caché",
+      "Comment": ""
+    },
+    {
+      "Key": "Barkskin",
+      "Translation": "Peau d'Écorce",
+      "Comment": "Druid/treant natural armor"
+    },
+    {
+      "Key": "Forest Spirit",
+      "Translation": "Esprit de la Forêt",
+      "Comment": ""
+    },
+    {
+      "Key": "Elven Accuracy",
+      "Translation": "Précision Elfique",
+      "Comment": ""
+    },
+    {
+      "Key": "Hunters Bow",
+      "Translation": "Arc du Chasseur",
+      "Comment": ""
+    },
+    {
+      "Key": "Hunters Call",
+      "Translation": "Appel du Chasseur",
+      "Comment": ""
+    },
+    {
+      "Key": "Regrowth",
+      "Translation": "Repousse",
+      "Comment": "Nature healing/regeneration"
+    },
+    {
+      "Key": "Take Root",
+      "Translation": "Prendre Racine",
+      "Comment": "Treant ability to root in place"
+    },
+    {
+      "Key": "Light Crossbow",
+      "Translation": "Arbalète Légère",
+      "Comment": ""
+    },
+    {
+      "Key": "Hooves",
+      "Translation": "Sabots",
+      "Comment": ""
+    },
+    {
+      "Key": "Feint",
+      "Translation": "Feinte",
+      "Comment": "Combat trickery"
+    },
+    {
+      "Key": "Gift Of Trickery",
+      "Translation": "Don de la Tromperie",
+      "Comment": "Trickster god blessing"
+    },
+    {
+      "Key": "Gift Of Decay",
+      "Translation": "Don de la Décomposition",
+      "Comment": "Plague/death god blessing"
+    },
+    {
+      "Key": "Phase Out",
+      "Translation": "Déphasage",
+      "Comment": "Becoming incorporeal"
+    },
+    {
+      "Key": "Lord of Decay",
+      "Translation": "Seigneur de la Décomposition",
+      "Comment": ""
+    },
+    {
+      "Key": "Lord of Trickery",
+      "Translation": "Seigneur de la Tromperie",
+      "Comment": ""
+    },
+    {
+      "Key": "Lord Of War",
+      "Translation": "Seigneur de Guerre",
+      "Comment": ""
+    },
+    {
+      "Key": "Horse Masters",
+      "Translation": "Maîtres Cavaliers",
+      "Comment": "Expert horsemen"
+    },
+    {
+      "Key": "Fey",
+      "Translation": "Féerique",
+      "Comment": "Fairy/fey creature trait"
+    },
+    {
+      "Key": "Aura of Protection",
+      "Translation": "Aura de Protection",
+      "Comment": ""
+    },
+    {
+      "Key": "Holy Blade",
+      "Translation": "Lame Sacrée",
+      "Comment": "Blessed weapon"
+    },
+    {
+      "Key": "Aura of Vengeance",
+      "Translation": "Aura de Vengeance",
+      "Comment": ""
+    },
+    {
+      "Key": "3 Hand Weapons",
+      "Translation": "3 Armes de Poing",
+      "Comment": "Multi-armed creature"
+    },
+    {
+      "Key": "3x Pistols",
+      "Translation": "3 Pistolets",
+      "Comment": ""
+    },
+    {
+      "Key": "Lance+Shield",
+      "Translation": "Lance+Bouclier",
+      "Comment": ""
+    },
+    {
+      "Key": "Dark Gift",
+      "Translation": "Don Obscur",
+      "Comment": "Evil/chaos blessing"
+    },
+    {
+      "Key": "Divine Protection",
+      "Translation": "Protection Divine",
+      "Comment": ""
+    },
+    {
+      "Key": "Battle Hardened",
+      "Translation": "Aguerri",
+      "Comment": "Veteran, experienced in battle"
+    },
+    {
+      "Key": "Marksman",
+      "Translation": "Tireur d'Élite",
+      "Comment": ""
+    },
+    {
+      "Key": "Spell Power",
+      "Translation": "Puissance Magique",
+      "Comment": ""
+    },
+    {
+      "Key": "Spell Weaver",
+      "Translation": "Tisseur de Sorts",
+      "Comment": "Master wizard"
+    },
+    {
+      "Key": "Offensive Mastery",
+      "Translation": "Maîtrise Offensive",
+      "Comment": ""
+    },
+    {
+      "Key": "Veteran Crew",
+      "Translation": "Équipage Vétéran",
+      "Comment": ""
+    },
+    {
+      "Key": "Veteran Discipline",
+      "Translation": "Discipline Vétérane",
+      "Comment": ""
+    },
+    {
+      "Key": "Veteran Accuracy",
+      "Translation": "Précision Vétérane",
+      "Comment": ""
+    },
+    {
+      "Key": "Veteran Skill",
+      "Translation": "Compétence Vétérane",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic Discipline",
+      "Translation": "Discipline Démoniaque",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic Fury",
+      "Translation": "Fureur Démoniaque",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic Power",
+      "Translation": "Puissance Démoniaque",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic Resilience",
+      "Translation": "Résilience Démoniaque",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic Skill",
+      "Translation": "Habileté Démoniaque",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic Defense",
+      "Translation": "Défense Démoniaque",
+      "Comment": ""
+    },
+    {
+      "Key": "Sword Of Ruin",
+      "Translation": "Épée de Ruine",
+      "Comment": "Cursed/evil artifact weapon"
+    },
+    {
+      "Key": "Cloak Of Shadows",
+      "Translation": "Manteau d'Ombres",
+      "Comment": "Stealth artifact"
+    },
+    {
+      "Key": "Horn Of Discord",
+      "Translation": "Cor de la Discorde",
+      "Comment": "'Cor' for war horn, discord for chaos"
+    },
+    {
+      "Key": "Veteran Marksmen",
+      "Translation": "Tireurs Vétérans",
+      "Comment": ""
+    },
+    {
+      "Key": "Oath Of Retribution",
+      "Translation": "Serment de Châtiment",
+      "Comment": "Paladin/knight oath"
+    },
+    {
+      "Key": "Oath Of Reckoning",
+      "Translation": "Serment du Jugement",
+      "Comment": "Divine judgment oath"
+    },
+    {
+      "Key": "Oath Of Vengeance",
+      "Translation": "Serment de Vengeance",
+      "Comment": ""
+    },
+    {
+      "Key": "Ancestral Strength",
+      "Translation": "Force Ancestrale",
+      "Comment": "Heritage power, especially for dwarfs"
+    },
+    {
+      "Key": "Greater Blades",
+      "Translation": "Lames Supérieures",
+      "Comment": "Enhanced spell version"
+    },
+    {
+      "Key": "Greater Favour",
+      "Translation": "Faveur Supérieure",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Fireball",
+      "Translation": "Boule de Feu Supérieure",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Fury",
+      "Translation": "Fureur Supérieure",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Raise",
+      "Translation": "Lever Supérieur",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Reanimate",
+      "Translation": "Réanimation Supérieure",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Regrowth",
+      "Translation": "Repousse Supérieure",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Ruin",
+      "Translation": "Ruine Supérieure",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Shadowbolt",
+      "Translation": "Éclair d'Ombre Supérieur",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Shield",
+      "Translation": "Bouclier Supérieur",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Vigour",
+      "Translation": "Vigueur Supérieure",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Web",
+      "Translation": "Toile Supérieure",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Wildform",
+      "Translation": "Forme Sauvage Supérieure",
+      "Comment": ""
+    },
+    {
+      "Key": "Thousand Maws",
+      "Translation": "Mille Gueules",
+      "Comment": "'Gueules' more bestial than 'bouches'"
+    },
+    {
+      "Key": "Rune Of Farsight",
+      "Translation": "Rune de Clairvoyance",
+      "Comment": "Dwarven rune magic"
+    },
+    {
+      "Key": "Rune Of Flame",
+      "Translation": "Rune de Flamme",
+      "Comment": ""
+    },
+    {
+      "Key": "Rune Of Resilience",
+      "Translation": "Rune de Résilience",
+      "Comment": ""
+    },
+    {
+      "Key": "Rune Of Speed",
+      "Translation": "Rune de Vitesse",
+      "Comment": ""
+    },
+    {
+      "Key": "Imperial Elites",
+      "Translation": "Élites Impériales",
+      "Comment": ""
+    },
+    {
+      "Key": "Imperial Veterans",
+      "Translation": "Vétérans Impériaux",
+      "Comment": ""
+    },
+    {
+      "Key": "Stronger Summons",
+      "Translation": "Invocations Renforcées",
+      "Comment": "Enhanced summoned creatures"
+    },
+    {
+      "Key": "Extra Limb",
+      "Translation": "Membre Supplémentaire",
+      "Comment": "Mutation/enhancement"
+    },
+    {
+      "Key": "Extra Limbs",
+      "Translation": "Membres Supplémentaires",
+      "Comment": ""
+    },
+    {
+      "Key": "Grafted Wings",
+      "Translation": "Ailes Greffées",
+      "Comment": "Horrific surgical enhancement"
+    },
+    {
+      "Key": "Necrotic Infusion",
+      "Translation": "Infusion Nécrotique",
+      "Comment": "Death magic enhancement"
+    },
+    {
+      "Key": "Putrid Hide",
+      "Translation": "Peau Putride",
+      "Comment": "Undead/plague creature skin"
+    },
+    {
+      "Key": "Tunneling Claws",
+      "Translation": "Griffes Fouisseuses",
+      "Comment": "Digging/burrowing claws"
+    },
+    {
+      "Key": "Unnatural Size",
+      "Translation": "Taille Contre-Nature",
+      "Comment": "Mutated giant size"
+    },
+    {
+      "Key": "Elf Bow Mastery",
+      "Translation": "Maîtrise de l'Arc Elfique",
+      "Comment": ""
+    },
+    {
+      "Key": "Elf Spear Mastery",
+      "Translation": "Maîtrise de la Lance Elfique",
+      "Comment": ""
+    },
+    {
+      "Key": "Elf Steed Mastery",
+      "Translation": "Maîtrise de la Monture Elfique",
+      "Comment": ""
+    },
+    {
+      "Key": "Eagle Aspect",
+      "Translation": "Aspect de l'Aigle",
+      "Comment": "Totem/spirit animal power"
+    },
+    {
+      "Key": "Jaguar Aspect",
+      "Translation": "Aspect du Jaguar",
+      "Comment": ""
+    },
+    {
+      "Key": "Raptor Aspect",
+      "Translation": "Aspect du Rapace",
+      "Comment": ""
+    },
+    {
+      "Key": "Salamander Aspect",
+      "Translation": "Aspect de la Salamandre",
+      "Comment": ""
+    },
+    {
+      "Key": "Serpent Aspect",
+      "Translation": "Aspect du Serpent",
+      "Comment": ""
+    },
+    {
+      "Key": "Turtle Aspect",
+      "Translation": "Aspect de la Tortue",
+      "Comment": ""
+    },
+    {
+      "Key": "Backstabbers",
+      "Translation": "Traîtres",
+      "Comment": "Sneaky fighters who attack from behind"
+    },
+    {
+      "Key": "Bloodlust",
+      "Translation": "Soif de Sang",
+      "Comment": "Savage desire for violence"
+    },
+    {
+      "Key": "Tough As Nails",
+      "Translation": "Dur à Cuire",
+      "Comment": "Idiomatic expression for toughness"
+    },
+    {
+      "Key": "Greater Warcry",
+      "Translation": "Cri de Guerre Supérieur",
+      "Comment": ""
+    },
+    {
+      "Key": "Slavers",
+      "Translation": "Esclavagistes",
+      "Comment": "Evil faction trait"
+    },
+    {
+      "Key": "Greater Shroud",
+      "Translation": "Linceul Supérieur",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Ward",
+      "Translation": "Garde Supérieure",
+      "Comment": ""
+    },
+    {
+      "Key": "War Gods Blessing",
+      "Translation": "Bénédiction du Dieu de la Guerre",
+      "Comment": ""
+    },
+    {
+      "Key": "Blessing Of Decay",
+      "Translation": "Bénédiction de la Décomposition",
+      "Comment": ""
+    },
+    {
+      "Key": "Blessing Of Trickery",
+      "Translation": "Bénédiction de la Tromperie",
+      "Comment": ""
+    },
+    {
+      "Key": "Master of Decay",
+      "Translation": "Maître de la Décomposition",
+      "Comment": ""
+    },
+    {
+      "Key": "Master of Trickery",
+      "Translation": "Maître de la Tromperie",
+      "Comment": ""
+    },
+    {
+      "Key": "Master Of War",
+      "Translation": "Maître de Guerre",
+      "Comment": ""
+    },
+    {
+      "Key": "Loyal Serfs",
+      "Translation": "Serfs Loyaux",
+      "Comment": "Feudal peasant troops"
+    },
+    {
+      "Key": "Avalon Marksmen",
+      "Translation": "Tireurs d'Avalon",
+      "Comment": "Keeping Avalon as proper name"
+    },
+    {
+      "Key": "Greater Vengeance",
+      "Translation": "Vengeance Supérieure",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Protection",
+      "Translation": "Protection Supérieure",
+      "Comment": ""
+    },
+    {
+      "Key": "Bodkin Arrows",
+      "Translation": "Flèches Perforantes",
+      "Comment": "Armor-piercing arrows"
+    },
+    {
+      "Key": "Serrated Arrows",
+      "Translation": "Flèches Dentelées",
+      "Comment": "Arrows with serrated edges"
+    },
+    {
+      "Key": "Splitting Arrow",
+      "Translation": "Flèche Fendeuse",
+      "Comment": "Arrow that splits into multiple projectiles"
+    },
+    {
+      "Key": "Trueflight Arrows",
+      "Translation": "Flèches de Vol Véritable",
+      "Comment": "Magical arrows that fly true"
+    }
+  ]
+}

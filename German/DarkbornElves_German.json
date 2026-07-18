@@ -1,0 +1,90 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Darkborn Elves Faction.",
+  "Translations": [
+    {
+      "Key": "Darkborn Elves",
+      "Translation": "Dunkelgeborene Elfen",
+      "Comment": "Dunkelgeboren = darkborn. Dark elves with a sinister edge."
+    },
+    {
+      "Key": "Darkborn Spears",
+      "Translation": "Dunkelgeborene Speerkämpfer",
+      "Comment": "Spear-wielding dark elf infantry."
+    },
+    {
+      "Key": "Darkborn Dreadguard",
+      "Translation": "Dunkelgeborene Schreckengarde",
+      "Comment": "Schrecken = dread. Elite heavy infantry radiating fear."
+    },
+    {
+      "Key": "Darkborn Witches",
+      "Translation": "Dunkelgeborene Hexen",
+      "Comment": "Hexen = witches. Dark magic users of the dark elves."
+    },
+    {
+      "Key": "Darkborn Crossbows",
+      "Translation": "Dunkelgeborene Armbrustschützen",
+      "Comment": "Crossbow-wielding dark elves. Deadly ranged troops."
+    },
+    {
+      "Key": "Darkborn Shadows",
+      "Translation": "Dunkelgeborene Schatten",
+      "Comment": "Schatten = shadows. Stealthy infiltrators and assassins."
+    },
+    {
+      "Key": "Darkborn Boltthrower",
+      "Translation": "Dunkelgeborener Bolzenwerfer",
+      "Comment": "Heavy artillery. Consistent with other bolt thrower translations."
+    },
+    {
+      "Key": "Raptor Knights",
+      "Translation": "Raptoritter",
+      "Comment": "Knights riding vicious raptors. Fast and deadly cavalry."
+    },
+    {
+      "Key": "Darkborn Riders",
+      "Translation": "Dunkelgeborene Reiter",
+      "Comment": "Dark elf cavalry on dark steeds."
+    },
+    {
+      "Key": "Darkborn Chariot",
+      "Translation": "Dunkelgeborener Streitwagen",
+      "Comment": "Dark elf chariot. Swift and cruel."
+    },
+    {
+      "Key": "Hydra",
+      "Translation": "Hydra",
+      "Comment": "Standard German term for hydra. Multi-headed monster."
+    },
+    {
+      "Key": "Harpies",
+      "Translation": "Harpyien",
+      "Comment": "Harpyien = harpies. Flying monsters in service of dark elves."
+    },
+    {
+      "Key": "Black Dragon",
+      "Translation": "Schwarzer Drache",
+      "Comment": "Direct translation. Fearsome black dragon."
+    },
+    {
+      "Key": "Dark Pegasus",
+      "Translation": "Dunkler Pegasus",
+      "Comment": "Corrupted pegasus. Flying mount for heroes."
+    },
+    {
+      "Key": "Darkborn Noble",
+      "Translation": "Dunkelgeborener Edelmann",
+      "Comment": "Noble dark elf leader. Cruel and cunning."
+    },
+    {
+      "Key": "Darkborn Priestess",
+      "Translation": "Dunkelgeborene Priesterin",
+      "Comment": "Priesterin = priestess. Female dark magic user and leader."
+    },
+    {
+      "Key": "Darkborn Assassin",
+      "Translation": "Dunkelgeborener Assassine",
+      "Comment": "Master of stealth and murder. Deadly hero unit."
+    }
+  ]
+}

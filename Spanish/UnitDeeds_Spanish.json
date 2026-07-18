@@ -1,0 +1,345 @@
+{
+  "TranslationContext": "This file contains strings from Unit Deeds and acheivements.",
+  "Translations": [
+    {
+      "Key": "Steadfast",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Passed 1 Break Tests.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dragon Slayer",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Killed 1 dragon.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Deadly",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Killed 1 enemies in combat.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Marksman",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Killed 1 enemies with ranged weapons.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Lucky",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rolled 1 natural six (33 % of all rolls).",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Scorer",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Captured 1 objective.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Giant Slayer",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Killed 1 giant.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Treefeller",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Felled 1 tree monster.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dino Hunter",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Killed 1 dinosaur.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Warmachine Hunter",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Killed 1 warmachine.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Demon Hunter",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Slain 1 greater demon.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Duelist",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Killed 1 Commander.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Spellslinger",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Cast 1 spell.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Coward",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Fled off the battlefield with zero casualties.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Unlucky",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rolled 1 one (33 % of all rolls).",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Last Man Standing",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Only 1 model left standing.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Short Career",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Died on the first turn.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Emotional Support",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Killed no enemies, lost no models, took no objectives.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Flanker",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Performed 1 flank/rear charge.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dragon Slayers",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Marksmen",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Giant Slayers",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Treefellers",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dino Hunters",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Warmachine Hunters",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Demon Hunters",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Duelists",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Spellslingers",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Cowards",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Passed 3 Break Tests.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Killed 3 dragons.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Killed 3 enemies in combat.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Killed 3 enemies with ranged weapons.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Blessed!",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rolled 3 natural sixes (33 % of all rolls).",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Captured 3 objectives.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Killed 3 giants.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Felled 3 tree monsters.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Killed 3 dinosaurs.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Killed 3 warmachines.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Slain 3 greater demons.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Killed 3 Commanders.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Cast 3 spells.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Cursed!",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rolled 3 ones (33 % of all rolls).",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Performed 3 flank/rear charges.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rolled 3 natural sixes (100 % of all rolls).",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rolled 3 ones (100 % of all rolls).",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Killed 13 enemies with ranged weapons.",
+      "Translation": "",
+      "Comment": ""
+    }
+  ]
+}

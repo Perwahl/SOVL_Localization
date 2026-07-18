@@ -1,0 +1,75 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Ratkin Clans faction.",
+  "Translations": [
+    {
+      "Key": "Ratkin Clans",
+      "Translation": "Clans Hommes-Rats",
+      "Comment": "Rat-people clans with tribal structure"
+    },
+    {
+      "Key": "Ratkin Legionaries",
+      "Translation": "Légionnaires Hommes-Rats",
+      "Comment": "Organized rat-men infantry"
+    },
+    {
+      "Key": "Ratkin Conscripts",
+      "Translation": "Conscrits Hommes-Rats",
+      "Comment": "Forced levies of rat-men"
+    },
+    {
+      "Key": "Ratkin Skulkers",
+      "Translation": "Rôdeurs Furtifs Hommes-Rats",
+      "Comment": "Stealthy infiltrators"
+    },
+    {
+      "Key": "Ratkin Longrifles",
+      "Translation": "Fusils Longs Hommes-Rats",
+      "Comment": "Sharpshooters with advanced rifles"
+    },
+    {
+      "Key": "Ratkin Slingers",
+      "Translation": "Frondeurs Hommes-Rats",
+      "Comment": "Simple ranged troops with slings"
+    },
+    {
+      "Key": "Ratkin Flamers",
+      "Translation": "Lance-Flammes Hommes-Rats",
+      "Comment": "Dangerous experimental flamethrower troops"
+    },
+    {
+      "Key": "Ratkin Monstrosity",
+      "Translation": "Monstruosité Homme-Rat",
+      "Comment": "Twisted creation of dark experiments"
+    },
+    {
+      "Key": "Ratkin Alphas",
+      "Translation": "Alphas Hommes-Rats",
+      "Comment": "Elite warriors of the clans"
+    },
+    {
+      "Key": "Rat Swarms",
+      "Translation": "Nuées de Rats",
+      "Comment": "Masses of vermin"
+    },
+    {
+      "Key": "Doom Bell",
+      "Translation": "Cloche du Destin",
+      "Comment": "Ominous bell that tolls doom"
+    },
+    {
+      "Key": "Ratkin Warlock",
+      "Translation": "Sorcier Homme-Rat",
+      "Comment": "Dark magic user"
+    },
+    {
+      "Key": "Ratkin Chieftain",
+      "Translation": "Chef de Clan Homme-Rat",
+      "Comment": "Cunning and ruthless clan leader"
+    },
+    {
+      "Key": "Ratkin Infiltrator",
+      "Translation": "Infiltrateur Homme-Rat",
+      "Comment": "Master spy and assassin"
+    }
+  ]
+}

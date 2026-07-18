@@ -1,0 +1,85 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Abyssal Legions Faction.",
+  "Translations": [
+    {
+      "Key": "Abyssal Legions",
+      "Translation": "Légions Abyssales",
+      "Comment": "Organized demonic armies mixed with corrupted mortals"
+    },
+    {
+      "Key": "Northmen Axe",
+      "Translation": "Haches Nordiques",
+      "Comment": "Corrupted northern barbarian axe warriors"
+    },
+    {
+      "Key": "Abyssal Warriors",
+      "Translation": "Guerriers Abyssaux",
+      "Comment": "Armored warriors corrupted by the abyss"
+    },
+    {
+      "Key": "Dragon Spawn",
+      "Translation": "Géniture Draconique",
+      "Comment": "Corrupted dragon-like creatures"
+    },
+    {
+      "Key": "Northmen Horse",
+      "Translation": "Cavalerie Nordique",
+      "Comment": "Northern barbarian cavalry"
+    },
+    {
+      "Key": "Abyssal Knights",
+      "Translation": "Chevaliers Abyssaux",
+      "Comment": "Corrupted knights serving the abyss"
+    },
+    {
+      "Key": "Abyssal Hounds",
+      "Translation": "Molosses Abyssaux",
+      "Comment": "War hounds from the abyss"
+    },
+    {
+      "Key": "Abyssal Chariot",
+      "Translation": "Char Abyssal",
+      "Comment": "Demonic chariot"
+    },
+    {
+      "Key": "Archdevil",
+      "Translation": "Archidiable",
+      "Comment": "Greater demon"
+    },
+    {
+      "Key": "Devilspawn",
+      "Translation": "Géniture Diabolique",
+      "Comment": "Lesser demons"
+    },
+    {
+      "Key": "War Mammoth",
+      "Translation": "Mammouth de Guerre",
+      "Comment": "Corrupted war mammoth"
+    },
+    {
+      "Key": "Abyssal Dragon",
+      "Translation": "Dragon Abyssal",
+      "Comment": "Dragon corrupted by the abyss"
+    },
+    {
+      "Key": "Manticore",
+      "Translation": "Manticore",
+      "Comment": "Mythological beast"
+    },
+    {
+      "Key": "Abyssal Champion",
+      "Translation": "Champion Abyssal",
+      "Comment": "Elite warrior of the abyss"
+    },
+    {
+      "Key": "Abyssal Sorcerer",
+      "Translation": "Sorcier Abyssal",
+      "Comment": "Dark sorcerer wielding abyssal magic"
+    },
+    {
+      "Key": "Northmen Packleader",
+      "Translation": "Chef de Meute Nordique",
+      "Comment": "Barbarian warlord"
+    }
+  ]
+}

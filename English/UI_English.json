@@ -1,0 +1,2320 @@
+{
+  "TranslationContext": "This file contains UI strings from menus and gameplay. Some strings contain rich text formatting wich should be kept intact in the translated string.",
+  "Translations": [
+    {
+      "Key": "Warband",
+      "Translation": "Warband",
+      "Comment": ""
+    },
+    {
+      "Key": "Enter text...",
+      "Translation": "Enter text...",
+      "Comment": ""
+    },
+    {
+      "Key": "Primary",
+      "Translation": "Primary",
+      "Comment": ""
+    },
+    {
+      "Key": "Secondary",
+      "Translation": "Secondary",
+      "Comment": ""
+    },
+    {
+      "Key": "Icon Color",
+      "Translation": "Icon Color",
+      "Comment": ""
+    },
+    {
+      "Key": " Icon",
+      "Translation": " Icon",
+      "Comment": ""
+    },
+    {
+      "Key": "Save",
+      "Translation": "Save",
+      "Comment": ""
+    },
+    {
+      "Key": "Copy",
+      "Translation": "Copy",
+      "Comment": ""
+    },
+    {
+      "Key": "Copied list to clipboard",
+      "Translation": "Copied list to clipboard",
+      "Comment": ""
+    },
+    {
+      "Key": "Points:",
+      "Translation": "Points:",
+      "Comment": ""
+    },
+    {
+      "Key": "Units:",
+      "Translation": "Units:",
+      "Comment": ""
+    },
+    {
+      "Key": "Minimum: 1",
+      "Translation": "Minimum: 1",
+      "Comment": ""
+    },
+    {
+      "Key": "Spells",
+      "Translation": "Spells",
+      "Comment": ""
+    },
+    {
+      "Key": "Weapons",
+      "Translation": "Weapons",
+      "Comment": ""
+    },
+    {
+      "Key": "Banners\n",
+      "Translation": "Banners\n",
+      "Comment": ""
+    },
+    {
+      "Key": "Items",
+      "Translation": "Items",
+      "Comment": ""
+    },
+    {
+      "Key": "Shield,  Light Armor, General",
+      "Translation": "Shield,  Light Armor, General",
+      "Comment": ""
+    },
+    {
+      "Key": "Remove?",
+      "Translation": "Remove?",
+      "Comment": ""
+    },
+    {
+      "Key": "Options",
+      "Translation": "Options",
+      "Comment": ""
+    },
+    {
+      "Key": "Weapon Enchantments",
+      "Translation": "Weapon Enchantments",
+      "Comment": ""
+    },
+    {
+      "Key": "Heart Seeker",
+      "Translation": "Heart Seeker",
+      "Comment": ""
+    },
+    {
+      "Key": "Retinues",
+      "Translation": "Retinues",
+      "Comment": ""
+    },
+    {
+      "Key": "Add Unit",
+      "Translation": "Add Unit",
+      "Comment": ""
+    },
+    {
+      "Key": "Cancel",
+      "Translation": "Cancel",
+      "Comment": ""
+    },
+    {
+      "Key": "Choose Name...",
+      "Translation": "Choose Name...",
+      "Comment": ""
+    },
+    {
+      "Key": "Effect",
+      "Translation": "Effect",
+      "Comment": ""
+    },
+    {
+      "Key": "Skill",
+      "Translation": "Skill",
+      "Comment": ""
+    },
+    {
+      "Key": "Power",
+      "Translation": "Power",
+      "Comment": ""
+    },
+    {
+      "Key": "Defense",
+      "Translation": "Defense",
+      "Comment": ""
+    },
+    {
+      "Key": "Attacks",
+      "Translation": "Attacks",
+      "Comment": ""
+    },
+    {
+      "Key": "Wounds",
+      "Translation": "Wounds",
+      "Comment": ""
+    },
+    {
+      "Key": "Discipline",
+      "Translation": "Discipline",
+      "Comment": ""
+    },
+    {
+      "Key": "Back to menu?",
+      "Translation": "Back to menu?",
+      "Comment": ""
+    },
+    {
+      "Key": "Unsaved changes will be lost",
+      "Translation": "Unsaved changes will be lost",
+      "Comment": ""
+    },
+    {
+      "Key": "Exit",
+      "Translation": "Exit",
+      "Comment": ""
+    },
+    {
+      "Key": "SOVL",
+      "Translation": "SOVL",
+      "Comment": ""
+    },
+    {
+      "Key": "Feedback & Bug Reports",
+      "Translation": "Feedback & Bug Reports",
+      "Comment": ""
+    },
+    {
+      "Key": "Campaign",
+      "Translation": "Campaign",
+      "Comment": ""
+    },
+    {
+      "Key": "Trail Of Death",
+      "Translation": "Trail Of Death",
+      "Comment": ""
+    },
+    {
+      "Key": "Multiplayer",
+      "Translation": "Multiplayer",
+      "Comment": ""
+    },
+    {
+      "Key": "Ranked",
+      "Translation": "Ranked",
+      "Comment": ""
+    },
+    {
+      "Key": "Custom Game",
+      "Translation": "Custom Game",
+      "Comment": ""
+    },
+    {
+      "Key": "vs AI",
+      "Translation": "vs AI",
+      "Comment": ""
+    },
+    {
+      "Key": "Army Builder",
+      "Translation": "Army Builder",
+      "Comment": ""
+    },
+    {
+      "Key": "Settings",
+      "Translation": "Settings",
+      "Comment": ""
+    },
+    {
+      "Key": "Replays",
+      "Translation": "Replays",
+      "Comment": ""
+    },
+    {
+      "Key": "Rules Reference",
+      "Translation": "Rules Reference",
+      "Comment": ""
+    },
+    {
+      "Key": "Feedback",
+      "Translation": "Feedback",
+      "Comment": ""
+    },
+    {
+      "Key": "offline",
+      "Translation": "offline",
+      "Comment": ""
+    },
+    {
+      "Key": "Game Browser",
+      "Translation": "Game Browser",
+      "Comment": ""
+    },
+    {
+      "Key": "Game Name",
+      "Translation": "Game Name",
+      "Comment": ""
+    },
+    {
+      "Key": "Create Public Game",
+      "Translation": "Create Public Game",
+      "Comment": ""
+    },
+    {
+      "Key": "Create Private Game",
+      "Translation": "Create Private Game",
+      "Comment": ""
+    },
+    {
+      "Key": "Join Game",
+      "Translation": "Join Game",
+      "Comment": ""
+    },
+    {
+      "Key": "Button",
+      "Translation": "Button",
+      "Comment": ""
+    },
+    {
+      "Key": "AI Battle",
+      "Translation": "AI Battle",
+      "Comment": ""
+    },
+    {
+      "Key": "Select List",
+      "Translation": "Select List",
+      "Comment": ""
+    },
+    {
+      "Key": "-Warband-",
+      "Translation": "-Warband-",
+      "Comment": ""
+    },
+    {
+      "Key": "Start Game\n",
+      "Translation": "Start Game\n",
+      "Comment": ""
+    },
+    {
+      "Key": "Small",
+      "Translation": "Small",
+      "Comment": ""
+    },
+    {
+      "Key": "Random Map",
+      "Translation": "Random Map",
+      "Comment": ""
+    },
+    {
+      "Key": "Pitched Battle",
+      "Translation": "Pitched Battle",
+      "Comment": ""
+    },
+    {
+      "Key": "Get on Steam",
+      "Translation": "Get on Steam",
+      "Comment": ""
+    },
+    {
+      "Key": "Faction Pack",
+      "Translation": "Faction Pack",
+      "Comment": ""
+    },
+    {
+      "Key": "Into the Abyss",
+      "Translation": "Into the Abyss",
+      "Comment": ""
+    },
+    {
+      "Key": "Edit List",
+      "Translation": "Edit List",
+      "Comment": ""
+    },
+    {
+      "Key": "New List",
+      "Translation": "New List",
+      "Comment": ""
+    },
+    {
+      "Key": "Delete List?",
+      "Translation": "Delete List?",
+      "Comment": ""
+    },
+    {
+      "Key": "List Name...",
+      "Translation": "List Name...",
+      "Comment": ""
+    },
+    {
+      "Key": "Warband (500pts)",
+      "Translation": "Warband (500pts)",
+      "Comment": ""
+    },
+    {
+      "Key": "Create",
+      "Translation": "Create",
+      "Comment": ""
+    },
+    {
+      "Key": "Select a Border Patrol List\n",
+      "Translation": "Select a Border Patrol List\n",
+      "Comment": ""
+    },
+    {
+      "Key": "Alternate",
+      "Translation": "Alternate",
+      "Comment": ""
+    },
+    {
+      "Key": "Next:",
+      "Translation": "Next:",
+      "Comment": ""
+    },
+    {
+      "Key": "Campaign Unlock",
+      "Translation": "Campaign Unlock",
+      "Comment": ""
+    },
+    {
+      "Key": "Start",
+      "Translation": "Start",
+      "Comment": ""
+    },
+    {
+      "Key": "Reward",
+      "Translation": "Reward",
+      "Comment": ""
+    },
+    {
+      "Key": "Variant",
+      "Translation": "Variant",
+      "Comment": ""
+    },
+    {
+      "Key": "TBD",
+      "Translation": "TBD",
+      "Comment": ""
+    },
+    {
+      "Key": "The End",
+      "Translation": "The End",
+      "Comment": ""
+    },
+    {
+      "Key": "Harder Bosses",
+      "Translation": "Harder Bosses",
+      "Comment": ""
+    },
+    {
+      "Key": "Enemies Rally",
+      "Translation": "Enemies Rally",
+      "Comment": ""
+    },
+    {
+      "Key": "Harder Elites",
+      "Translation": "Harder Elites",
+      "Comment": ""
+    },
+    {
+      "Key": "Smaller Starting Unit",
+      "Translation": "Smaller Starting Unit",
+      "Comment": ""
+    },
+    {
+      "Key": "Harder Battles",
+      "Translation": "Harder Battles",
+      "Comment": ""
+    },
+    {
+      "Key": "Less Starting Gold",
+      "Translation": "Less Starting Gold",
+      "Comment": ""
+    },
+    {
+      "Key": "Challenge Levels",
+      "Translation": "Challenge Levels",
+      "Comment": ""
+    },
+    {
+      "Key": "Resume Ongoing",
+      "Translation": "Resume Ongoing",
+      "Comment": ""
+    },
+    {
+      "Key": "Abandon",
+      "Translation": "Abandon",
+      "Comment": ""
+    },
+    {
+      "Key": "Really Abandon?",
+      "Translation": "Really Abandon?",
+      "Comment": ""
+    },
+    {
+      "Key": "Ranked Multiplayer",
+      "Translation": "Ranked Multiplayer",
+      "Comment": ""
+    },
+    {
+      "Key": "Rating:",
+      "Translation": "Rating:",
+      "Comment": ""
+    },
+    {
+      "Key": "Points",
+      "Translation": "Points",
+      "Comment": ""
+    },
+    {
+      "Key": "Elo",
+      "Translation": "Elo",
+      "Comment": ""
+    },
+    {
+      "Key": "Top Ranked Players",
+      "Translation": "Top Ranked Players",
+      "Comment": ""
+    },
+    {
+      "Key": "Match History",
+      "Translation": "Match History",
+      "Comment": ""
+    },
+    {
+      "Key": "Find Match",
+      "Translation": "Find Match",
+      "Comment": ""
+    },
+    {
+      "Key": "Stats",
+      "Translation": "Stats",
+      "Comment": ""
+    },
+    {
+      "Key": "Recruit",
+      "Translation": "Recruit",
+      "Comment": ""
+    },
+    {
+      "Key": "Searching.",
+      "Translation": "Searching.",
+      "Comment": ""
+    },
+    {
+      "Key": "Factions",
+      "Translation": "Factions",
+      "Comment": ""
+    },
+    {
+      "Key": "Units Played",
+      "Translation": "Units Played",
+      "Comment": ""
+    },
+    {
+      "Key": "Full Screen",
+      "Translation": "Full Screen",
+      "Comment": ""
+    },
+    {
+      "Key": "Audio Volume",
+      "Translation": "Audio Volume",
+      "Comment": ""
+    },
+    {
+      "Key": "Window Size",
+      "Translation": "Window Size",
+      "Comment": ""
+    },
+    {
+      "Key": "Music",
+      "Translation": "Music",
+      "Comment": ""
+    },
+    {
+      "Key": "Camera Shake",
+      "Translation": "Camera Shake",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit Icon Zoom Distance",
+      "Translation": "Unit Icon Zoom Distance",
+      "Comment": ""
+    },
+    {
+      "Key": "Back",
+      "Translation": "Back",
+      "Comment": ""
+    },
+    {
+      "Key": "Cantrips",
+      "Translation": "",
+      "Comment": "Minor magic effects"
+    },
+    {
+      "Key": "Banners",
+      "Translation": "Banners",
+      "Comment": ""
+    },
+    {
+      "Key": "Item Enchantments",
+      "Translation": "Item Enchantments",
+      "Comment": ""
+    },
+    {
+      "Key": "DLC Commander",
+      "Translation": "DLC Commander",
+      "Comment": ""
+    },
+    {
+      "Key": "Unlocked!",
+      "Translation": "Unlocked!",
+      "Comment": ""
+    },
+    {
+      "Key": "Final Turn!",
+      "Translation": "Final Turn!",
+      "Comment": ""
+    },
+    {
+      "Key": "- Defeat the enemy Army -",
+      "Translation": "- Defeat the enemy Army -",
+      "Comment": "Battle objective"
+    },
+    {
+      "Key": "- Survive for 3 Turns -",
+      "Translation": "- Survive for 3 Turns -",
+      "Comment": "Survival objective"
+    },
+    {
+      "Key": "Unclaimed",
+      "Translation": "Unclaimed",
+      "Comment": "Objective marker status"
+    },
+    {
+      "Key": "Contested",
+      "Translation": "Contested",
+      "Comment": ""
+    },
+    {
+      "Key": "Claimed",
+      "Translation": "Claimed",
+      "Comment": ""
+    },
+    {
+      "Key": "Opponents",
+      "Translation": "Opponents",
+      "Comment": ""
+    },
+    {
+      "Key": "(New difficulty unlocked)",
+      "Translation": "(New difficulty unlocked)",
+      "Comment": ""
+    },
+    {
+      "Key": "...can you finally rest?",
+      "Translation": "...can you finally rest?",
+      "Comment": "Campaign ending flavor text"
+    },
+    {
+      "Key": "...but more challenges await",
+      "Translation": "...but more challenges await",
+      "Comment": ""
+    },
+    {
+      "Key": "0 pts",
+      "Translation": "0 pts",
+      "Comment": "Points abbreviation - consistent with existing translations"
+    },
+    {
+      "Key": "Opponent Disconnected",
+      "Translation": "Opponent Disconnected",
+      "Comment": "Network disconnection message"
+    },
+    {
+      "Key": "Defeat",
+      "Translation": "Defeat",
+      "Comment": ""
+    },
+    {
+      "Key": "Victory!",
+      "Translation": "Victory!",
+      "Comment": ""
+    },
+    {
+      "Key": "Draw!",
+      "Translation": "Draw!",
+      "Comment": ""
+    },
+    {
+      "Key": "joins your army!",
+      "Translation": "joins your army!",
+      "Comment": "Campaign event message"
+    },
+    {
+      "Key": "A Foe Joins You",
+      "Translation": "A Foe Joins You",
+      "Comment": ""
+    },
+    {
+      "Key": "Your commander gains a level!",
+      "Translation": "Your commander gains a level!",
+      "Comment": ""
+    },
+    {
+      "Key": "Target Eliminated",
+      "Translation": "Target Eliminated",
+      "Comment": ""
+    },
+    {
+      "Key": "Assassination complete. Claim your bounty!",
+      "Translation": "Assassination complete. Claim your bounty!",
+      "Comment": ""
+    },
+    {
+      "Key": "1% gold income",
+      "Translation": "1% gold income",
+      "Comment": ""
+    },
+    {
+      "Key": "3% gold income",
+      "Translation": "3% gold income",
+      "Comment": ""
+    },
+    {
+      "Key": "Your regiment returns in the morning. But something has changed them...",
+      "Translation": "Your regiment returns in the morning. But something has changed them...",
+      "Comment": "Campaign event - ominous tone"
+    },
+    {
+      "Key": "The lost regiment is found! Some soldiers are missing, but those who remain have strenghtened resolve.",
+      "Translation": "The lost regiment is found! Some soldiers are missing, but those who remain have strenghtened resolve.",
+      "Comment": "Campaign event - positive outcome"
+    },
+    {
+      "Key": "v",
+      "Translation": "v",
+      "Comment": "Variable or version marker"
+    },
+    {
+      "Key": "x",
+      "Translation": "x",
+      "Comment": "Multiplication symbol"
+    },
+    {
+      "Key": "pts",
+      "Translation": "pts",
+      "Comment": "Points abbreviation"
+    },
+    {
+      "Key": "Battles:",
+      "Translation": "Battles:",
+      "Comment": ""
+    },
+    {
+      "Key": "Points Earned:",
+      "Translation": "Points Earned:",
+      "Comment": ""
+    },
+    {
+      "Key": "W/L:",
+      "Translation": "W/L:",
+      "Comment": "Siege/Niederlagen (Wins/Losses)"
+    },
+    {
+      "Key": "Enemies Killed:",
+      "Translation": "Enemies Killed:",
+      "Comment": ""
+    },
+    {
+      "Key": "<b>Draw<size=30%></color></b>\\n",
+      "Translation": "<b>Draw<size=30%></color></b>\\n",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Win <size=30%><color=green>+",
+      "Translation": "Win <size=30%><color=green>+",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Loss <size=30%>",
+      "Translation": "Loss <size=30%>",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Total Points: <color=#3EFEFF>",
+      "Translation": "Total Points: <color=#3EFEFF>",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Elo:  <color=#3EFEFF>",
+      "Translation": "Elo:  <color=#3EFEFF>",
+      "Comment": "Keep Elo as international rating term"
+    },
+    {
+      "Key": "Restored 1 wound",
+      "Translation": "Restored 1 wound",
+      "Comment": ""
+    },
+    {
+      "Key": "Restored 3 wounds",
+      "Translation": "Restored 3 wounds",
+      "Comment": ""
+    },
+    {
+      "Key": "Replenished 1 model",
+      "Translation": "Replenished 1 model",
+      "Comment": "Unit replenishment"
+    },
+    {
+      "Key": "Replenished 3 models",
+      "Translation": "Replenished 3 models",
+      "Comment": ""
+    },
+    {
+      "Key": "1 XP",
+      "Translation": "1 XP",
+      "Comment": "EP = Erfahrungspunkte (Experience Points)"
+    },
+    {
+      "Key": "3 XP",
+      "Translation": "3 XP",
+      "Comment": ""
+    },
+    {
+      "Key": "Defeated by <color=#FFDF3C>",
+      "Translation": "Defeated by <color=#FFDF3C>",
+      "Comment": "Campaign defeat message"
+    },
+    {
+      "Key": "</color> in Act",
+      "Translation": "</color> in Act",
+      "Comment": ""
+    },
+    {
+      "Key": "Great Weapon <color=#B3F333>+1",
+      "Translation": "Great Weapon <color=#B3F333>+1",
+      "Comment": ""
+    },
+    {
+      "Key": "Menu",
+      "Translation": "Menu",
+      "Comment": ""
+    },
+    {
+      "Key": "- Deployment Phase -",
+      "Translation": "- Deployment Phase -",
+      "Comment": "Battle phase"
+    },
+    {
+      "Key": "No Combats, Skipping Phase",
+      "Translation": "No Combats, Skipping Phase",
+      "Comment": ""
+    },
+    {
+      "Key": "- Charge Phase -",
+      "Translation": "- Charge Phase -",
+      "Comment": "Battle phase"
+    },
+    {
+      "Key": "- Strategic Phase -",
+      "Translation": "- Strategic Phase -",
+      "Comment": "Battle phase"
+    },
+    {
+      "Key": "- Combat Phase -",
+      "Translation": "- Combat Phase -",
+      "Comment": "Battle phase"
+    },
+    {
+      "Key": "Turn",
+      "Translation": "Turn",
+      "Comment": ""
+    },
+    {
+      "Key": "You have first activation this phase.",
+      "Translation": "You have first activation this phase.",
+      "Comment": ""
+    },
+    {
+      "Key": "Opponent has first activation this phase.",
+      "Translation": "Opponent has first activation this phase.",
+      "Comment": ""
+    },
+    {
+      "Key": "Swift",
+      "Translation": "Swift",
+      "Comment": "Consistent with UnitProps_German.json"
+    },
+    {
+      "Key": "Activate",
+      "Translation": "Activate",
+      "Comment": ""
+    },
+    {
+      "Key": "Waiting for opponent...",
+      "Translation": "Waiting for opponent...",
+      "Comment": ""
+    },
+    {
+      "Key": "Ready",
+      "Translation": "Ready",
+      "Comment": ""
+    },
+    {
+      "Key": "Opponent starts",
+      "Translation": "Opponent starts",
+      "Comment": ""
+    },
+    {
+      "Key": "I start",
+      "Translation": "I start",
+      "Comment": ""
+    },
+    {
+      "Key": "Skip Phase",
+      "Translation": "Skip Phase",
+      "Comment": ""
+    },
+    {
+      "Key": "- Opponents Turn -",
+      "Translation": "- Opponents Turn -",
+      "Comment": ""
+    },
+    {
+      "Key": "Declare a Charge",
+      "Translation": "Declare a Charge",
+      "Comment": ""
+    },
+    {
+      "Key": "Charge Reaction",
+      "Translation": "Charge Reaction",
+      "Comment": ""
+    },
+    {
+      "Key": "No Charges, Skipping Phase",
+      "Translation": "No Charges, Skipping Phase",
+      "Comment": ""
+    },
+    {
+      "Key": "Really Skip?",
+      "Translation": "Really Skip?",
+      "Comment": ""
+    },
+    {
+      "Key": "Pass",
+      "Translation": "Pass",
+      "Comment": "Skip/pass turn action"
+    },
+    {
+      "Key": "- Activate a Unit - ",
+      "Translation": "- Activate a Unit - ",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit Active. \n",
+      "Translation": "Unit Active. \n",
+      "Comment": ""
+    },
+    {
+      "Key": "Done",
+      "Translation": "Done",
+      "Comment": ""
+    },
+    {
+      "Key": "-Moving-",
+      "Translation": "-Moving-",
+      "Comment": ""
+    },
+    {
+      "Key": "Right Click: Undo Step",
+      "Translation": "Right Click: Undo Step",
+      "Comment": ""
+    },
+    {
+      "Key": "Double Click: Execute Move.",
+      "Translation": "Double Click: Execute Move.",
+      "Comment": ""
+    },
+    {
+      "Key": "Greatweapon",
+      "Translation": "Greatweapon",
+      "Comment": ""
+    },
+    {
+      "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor",
+      "Translation": "-1 Movement. Ignore the movement penalty from Heavy Armor",
+      "Comment": ""
+    },
+    {
+      "Key": "Guldan the Conqueror",
+      "Translation": "Guldan the Conqueror",
+      "Comment": "Proper name with title translation"
+    },
+    {
+      "Key": "Greatweapon and Shield, ",
+      "Translation": "Greatweapon and Shield, ",
+      "Comment": ""
+    },
+    {
+      "Key": "Greatweapon +1",
+      "Translation": "Greatweapon +1",
+      "Comment": ""
+    },
+    {
+      "Key": "3 Units",
+      "Translation": "3 Units",
+      "Comment": ""
+    },
+    {
+      "Key": "VS",
+      "Translation": "VS",
+      "Comment": "Versus - universally understood"
+    },
+    {
+      "Key": "Goblin Wolf Riders",
+      "Translation": "Goblin Wolf Riders",
+      "Comment": "Consistent with faction translations"
+    },
+    {
+      "Key": "Attack Roll",
+      "Translation": "Attack Roll",
+      "Comment": ""
+    },
+    {
+      "Key": "Flanks:",
+      "Translation": "Flanks:",
+      "Comment": ""
+    },
+    {
+      "Key": "Rear:",
+      "Translation": "Rear:",
+      "Comment": "Rear attack position"
+    },
+    {
+      "Key": "Bonus:",
+      "Translation": "Bonus:",
+      "Comment": ""
+    },
+    {
+      "Key": "Kills:",
+      "Translation": "Kills:",
+      "Comment": ""
+    },
+    {
+      "Key": "Rank Bonus:",
+      "Translation": "Rank Bonus:",
+      "Comment": ""
+    },
+    {
+      "Key": "Damage Save",
+      "Translation": "Damage Save",
+      "Comment": ""
+    },
+    {
+      "Key": "Opponent:",
+      "Translation": "Opponent:",
+      "Comment": ""
+    },
+    {
+      "Key": "<color=#31D3E3>3+ <size=33%></color> To Save",
+      "Translation": "<color=#31D3E3>3+ <size=33%></color> To Save",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Reroll Failures",
+      "Translation": "Reroll Failures",
+      "Comment": ""
+    },
+    {
+      "Key": "Blaha vs Blaha",
+      "Translation": "Blaha vs Blaha",
+      "Comment": "Example/placeholder text"
+    },
+    {
+      "Key": "<color=#30F3FF> 3x</color> Auto Hits",
+      "Translation": "<color=#30F3FF> 3x</color> Auto Hits",
+      "Comment": ""
+    },
+    {
+      "Key": "Event Panel",
+      "Translation": "Event Panel",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Handgunners fire at the Orc Warriors!Dwarf Orc Warriors!Dwarf Handgunners fire at the Orc Warriors!",
+      "Translation": "Dwarf Handgunners fire at the Orc Warriors!Dwarf Orc Warriors!Dwarf Handgunners fire at the Orc Warriors!",
+      "Comment": "Example/template text - appears to have formatting issue in original"
+    },
+    {
+      "Key": "Power <color=#31D3E3><size=133%>3</color> </size>VS Defense <color=#31D3E3><size=133%>3</color> ",
+      "Translation": "Power <color=#31D3E3><size=133%>3</color> </size>VS Defense <color=#31D3E3><size=133%>3</color> ",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "-Opponent Roll-",
+      "Translation": "-Opponent Roll-",
+      "Comment": ""
+    },
+    {
+      "Key": "Roll to Hit",
+      "Translation": "Roll to Hit",
+      "Comment": ""
+    },
+    {
+      "Key": "Power 3 vs Defense 3",
+      "Translation": "Power 3 vs Defense 3",
+      "Comment": ""
+    },
+    {
+      "Key": "Score\n",
+      "Translation": "Score\n",
+      "Comment": ""
+    },
+    {
+      "Key": "Inspired by Commander",
+      "Translation": "Inspired by Commander",
+      "Comment": "Morale buff"
+    },
+    {
+      "Key": "Enemy Morale",
+      "Translation": "Enemy Morale",
+      "Comment": ""
+    },
+    {
+      "Key": "Commander Name ",
+      "Translation": "Commander Name ",
+      "Comment": "Placeholder/template"
+    },
+    {
+      "Key": "Enemy Commanders:",
+      "Translation": "Enemy Commanders:",
+      "Comment": ""
+    },
+    {
+      "Key": "Turns Left",
+      "Translation": "Turns Left",
+      "Comment": ""
+    },
+    {
+      "Key": "Survive!",
+      "Translation": "Survive!",
+      "Comment": ""
+    },
+    {
+      "Key": "- Battle Starting -",
+      "Translation": "- Battle Starting -",
+      "Comment": ""
+    },
+    {
+      "Key": "Shaving a dwarf can seem like a fun idea at the time, but it's not worth the consequences in the long run.",
+      "Translation": "Shaving a dwarf can seem like a fun idea at the time, but it's not worth the consequences in the long run.",
+      "Comment": "Humorous loading screen tip"
+    },
+    {
+      "Key": "You can roll dice by pressing Spacebar (    ). Hold it down to fast forward in combat.",
+      "Translation": "You can roll dice by pressing Spacebar (    ). Hold it down to fast forward in combat.",
+      "Comment": "Tutorial tip"
+    },
+    {
+      "Key": "Display charge ranges by pressing         -Your Units         - Opponents Units\n",
+      "Translation": "Display charge ranges by pressing         -Your Units         - Opponents Units\n",
+      "Comment": "Tutorial tip with key binding placeholder"
+    },
+    {
+      "Key": "Also hold Shift to show Ranged Weapon ranges.",
+      "Translation": "Also hold Shift to show Ranged Weapon ranges.",
+      "Comment": ""
+    },
+    {
+      "Key": "Found a bug or just want to talk about the game?",
+      "Translation": "Found a bug or just want to talk about the game?",
+      "Comment": "Community engagement prompt"
+    },
+    {
+      "Key": "Discord",
+      "Translation": "Discord",
+      "Comment": "Platform name"
+    },
+    {
+      "Key": "Reddit",
+      "Translation": "Reddit",
+      "Comment": "Platform name"
+    },
+    {
+      "Key": "Units always add their rank bonus to Discipline Tests",
+      "Translation": "Units always add their rank bonus to Discipline Tests",
+      "Comment": "Rules tip"
+    },
+    {
+      "Key": "Flank and Rear charges add +1 to Combat Score!",
+      "Translation": "Flank and Rear charges add +1 to Combat Score!",
+      "Comment": ""
+    },
+    {
+      "Key": "A units <color=#33FAFF>Skill</color> is a measure of its training and general ability to fight. It  detemines Hit Chance for close combat and ranged attacks.",
+      "Translation": "A units <color=#33FAFF>Skill</color> is a measure of its training and general ability to fight. It  detemines Hit Chance for close combat and ranged attacks.",
+      "Comment": "Stat explanation - note typo 'detemines' in original"
+    },
+    {
+      "Key": "The <color=#33FAFF>Power</color> stat describes a units physical strength and striking power. It's used in combat to overcome an opponents <color=#33FAFF>Defense.",
+      "Translation": "The <color=#33FAFF>Power</color> stat describes a units physical strength and striking power. It's used in combat to overcome an opponents <color=#33FAFF>Defense.",
+      "Comment": "Stat explanation"
+    },
+    {
+      "Key": "The <color=#33FAFF>Defense</color> stat is a combination of a units general toughness and armor. It determines the units Damage Save against incoming attacks.",
+      "Translation": "The <color=#33FAFF>Defense</color> stat is a combination of a units general toughness and armor. It determines the units Damage Save against incoming attacks.",
+      "Comment": "Stat explanation"
+    },
+    {
+      "Key": "The dice in SOVL are mathematically fair. They are also cursed by a demon, who is evil. But they are fair!",
+      "Translation": "The dice in SOVL are mathematically fair. They are also cursed by a demon, who is evil. But they are fair!",
+      "Comment": "Humorous tip about RNG"
+    },
+    {
+      "Key": "Concede",
+      "Translation": "Concede",
+      "Comment": ""
+    },
+    {
+      "Key": "Continue",
+      "Translation": "Continue",
+      "Comment": ""
+    },
+    {
+      "Key": "Cancel\n",
+      "Translation": "Cancel\n",
+      "Comment": ""
+    },
+    {
+      "Key": "Victory",
+      "Translation": "Victory",
+      "Comment": ""
+    },
+    {
+      "Key": "Battle Over",
+      "Translation": "Battle Over",
+      "Comment": ""
+    },
+    {
+      "Key": "- Scoring Objectives -",
+      "Translation": "- Scoring Objectives -",
+      "Comment": ""
+    },
+    {
+      "Key": "Results",
+      "Translation": "Results",
+      "Comment": ""
+    },
+    {
+      "Key": "Return",
+      "Translation": "Return",
+      "Comment": ""
+    },
+    {
+      "Key": "Details",
+      "Translation": "Details",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit",
+      "Translation": "Unit",
+      "Comment": ""
+    },
+    {
+      "Key": "Kills",
+      "Translation": "Kills",
+      "Comment": ""
+    },
+    {
+      "Key": "Models",
+      "Translation": "Models",
+      "Comment": ""
+    },
+    {
+      "Key": "Status",
+      "Translation": "Status",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Engineer",
+      "Translation": "Dwarf Engineer",
+      "Comment": "Consistent with faction translations"
+    },
+    {
+      "Key": "Torin Sheildbreaker",
+      "Translation": "Torin Sheildbreaker",
+      "Comment": "Character name - translate title part"
+    },
+    {
+      "Key": "DESTROYED",
+      "Translation": "DESTROYED",
+      "Comment": "All caps for emphasis"
+    },
+    {
+      "Key": "Save Replay",
+      "Translation": "Save Replay",
+      "Comment": ""
+    },
+    {
+      "Key": "Enemies Defeated",
+      "Translation": "Enemies Defeated",
+      "Comment": ""
+    },
+    {
+      "Key": "3333 pts",
+      "Translation": "3333 pts",
+      "Comment": ""
+    },
+    {
+      "Key": "Objectives:",
+      "Translation": "Objectives:",
+      "Comment": ""
+    },
+    {
+      "Key": "Deeds of Valor",
+      "Translation": "Deeds of Valor",
+      "Comment": "Achievement/deed name"
+    },
+    {
+      "Key": "Bloodthirsty",
+      "Translation": "Bloodthirsty",
+      "Comment": ""
+    },
+    {
+      "Key": "Imperial Sword",
+      "Translation": "Imperial Sword",
+      "Comment": "Item name"
+    },
+    {
+      "Key": "Deeds of Infamy",
+      "Translation": "Deeds of Infamy",
+      "Comment": "Anti-achievement/deed name"
+    },
+    {
+      "Key": "Army View",
+      "Translation": "Army View",
+      "Comment": ""
+    },
+    {
+      "Key": "Asassination complete. Claim your reward!",
+      "Translation": "Asassination complete. Claim your reward!",
+      "Comment": "Note: typo 'Asassination' in original key"
+    },
+    {
+      "Key": "Ok",
+      "Translation": "Ok",
+      "Comment": ""
+    },
+    {
+      "Key": "Level Up!",
+      "Translation": "Level Up!",
+      "Comment": ""
+    },
+    {
+      "Key": "Map View",
+      "Translation": "Map View",
+      "Comment": ""
+    },
+    {
+      "Key": "Challenge Level:",
+      "Translation": "Challenge Level:",
+      "Comment": ""
+    },
+    {
+      "Key": "Less Starting Gold\nHarder Minor Battles\nHarder Elites\nSmaller Starting Unit\nHarder Bosses",
+      "Translation": "Less Starting Gold\nHarder Minor Battles\nHarder Elites\nSmaller Starting Unit\nHarder Bosses",
+      "Comment": "List of active challenge modifiers"
+    },
+    {
+      "Key": "Act 1",
+      "Translation": "Act 1",
+      "Comment": ""
+    },
+    {
+      "Key": "Save & Exit",
+      "Translation": "Save & Exit",
+      "Comment": ""
+    },
+    {
+      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 33.",
+      "Translation": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 33.",
+      "Comment": "Campaign defeat message with character name"
+    },
+    {
+      "Key": "Unlocked 1/3",
+      "Translation": "Unlocked 1/3",
+      "Comment": ""
+    },
+    {
+      "Key": "Your army has been wiped out...\n",
+      "Translation": "Your army has been wiped out...\n",
+      "Comment": "Campaign defeat message"
+    },
+    {
+      "Key": "A trail of death behind you...",
+      "Translation": "A trail of death behind you...",
+      "Comment": "Campaign progress flavor"
+    },
+    {
+      "Key": "Battles Won",
+      "Translation": "Battles Won",
+      "Comment": ""
+    },
+    {
+      "Key": "Elite Battles Won",
+      "Translation": "Elite Battles Won",
+      "Comment": ""
+    },
+    {
+      "Key": "Boss Battles Won",
+      "Translation": "Boss Battles Won",
+      "Comment": ""
+    },
+    {
+      "Key": "Enemies Killed",
+      "Translation": "Enemies Killed",
+      "Comment": ""
+    },
+    {
+      "Key": "Models Lost",
+      "Translation": "Models Lost",
+      "Comment": ""
+    },
+    {
+      "Key": "Gold Earned",
+      "Translation": "Gold Earned",
+      "Comment": ""
+    },
+    {
+      "Key": "Gold Spent",
+      "Translation": "Gold Spent",
+      "Comment": ""
+    },
+    {
+      "Key": "Units Hired",
+      "Translation": "Units Hired",
+      "Comment": ""
+    },
+    {
+      "Key": "...but more challenges await.",
+      "Translation": "...but more challenges await.",
+      "Comment": ""
+    },
+    {
+      "Key": "Level",
+      "Translation": "Level",
+      "Comment": ""
+    },
+    {
+      "Key": "You've reached the end...",
+      "Translation": "You've reached the end...",
+      "Comment": ""
+    },
+    {
+      "Key": "The trail of dead conquered.",
+      "Translation": "The trail of dead conquered.",
+      "Comment": "Campaign victory message"
+    },
+    {
+      "Key": "But more foes remain!",
+      "Translation": "But more foes remain!",
+      "Comment": ""
+    },
+    {
+      "Key": "Thanks for playing!",
+      "Translation": "Thanks for playing!",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Berserkers",
+      "Translation": "Dwarf Berserkers",
+      "Comment": "Unit name - consistent with faction translations"
+    },
+    {
+      "Key": "New Unit Unlocked!",
+      "Translation": "New Unit Unlocked!",
+      "Comment": ""
+    },
+    {
+      "Key": "Starting Units",
+      "Translation": "Starting Units",
+      "Comment": ""
+    },
+    {
+      "Key": "Pick One",
+      "Translation": "Pick One",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarven Handgunners",
+      "Translation": "Dwarven Handgunners",
+      "Comment": "Unit name"
+    },
+    {
+      "Key": "Embark!",
+      "Translation": "Embark!",
+      "Comment": "Campaign start button"
+    },
+    {
+      "Key": "Replenishment:",
+      "Translation": "Replenishment:",
+      "Comment": ""
+    },
+    {
+      "Key": "Models:",
+      "Translation": "Models:",
+      "Comment": ""
+    },
+    {
+      "Key": "Veteran Discipline III",
+      "Translation": "Veteran Discipline III",
+      "Comment": "Ability name"
+    },
+    {
+      "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
+      "Translation": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
+      "Comment": "Ability description"
+    },
+    {
+      "Key": "Act",
+      "Translation": "Act",
+      "Comment": ""
+    },
+    {
+      "Key": "Lost",
+      "Translation": "Lost",
+      "Comment": ""
+    },
+    {
+      "Key": "XP",
+      "Translation": "XP",
+      "Comment": "Erfahrungspunkte"
+    },
+    {
+      "Key": "Rest / Loot",
+      "Translation": "Rest / Loot",
+      "Comment": "Camp action"
+    },
+    {
+      "Key": "OR",
+      "Translation": "OR",
+      "Comment": ""
+    },
+    {
+      "Key": "Mercenary Cut: <indent=33%><color=green><b>+10%",
+      "Translation": "Mercenary Cut: <indent=33%><color=green><b>+10%",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "- Legend -",
+      "Translation": "- Legend -",
+      "Comment": "Map legend header"
+    },
+    {
+      "Key": "Battle",
+      "Translation": "Battle",
+      "Comment": "Map node type"
+    },
+    {
+      "Key": "Random Event",
+      "Translation": "Random Event",
+      "Comment": "Map node type"
+    },
+    {
+      "Key": "Armory",
+      "Translation": "Armory",
+      "Comment": "Map node type"
+    },
+    {
+      "Key": "Camp Site",
+      "Translation": "Camp Site",
+      "Comment": "Map node type"
+    },
+    {
+      "Key": "Elite Battle",
+      "Translation": "Elite Battle",
+      "Comment": "Map node type"
+    },
+    {
+      "Key": "Assassination",
+      "Translation": "Assassination",
+      "Comment": "Map node type"
+    },
+    {
+      "Key": "Quest",
+      "Translation": "Quest",
+      "Comment": "Map node type - common gaming term"
+    },
+    {
+      "Key": "Recruit Regiment",
+      "Translation": "Recruit Regiment",
+      "Comment": ""
+    },
+    {
+      "Key": "Retinue",
+      "Translation": "Retinue",
+      "Comment": "Singular form"
+    },
+    {
+      "Key": "Unit Upgrades",
+      "Translation": "Unit Upgrades",
+      "Comment": ""
+    },
+    {
+      "Key": "Upgrades",
+      "Translation": "Upgrades",
+      "Comment": ""
+    },
+    {
+      "Key": "Heavy Armor",
+      "Translation": "Heavy Armor",
+      "Comment": "Equipment upgrade"
+    },
+    {
+      "Key": "Replenish or train your units",
+      "Translation": "Replenish or train your units",
+      "Comment": ""
+    },
+    {
+      "Key": "Train / Replenish",
+      "Translation": "Train / Replenish",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 XP",
+      "Translation": "+1 XP",
+      "Comment": "Erfahrungspunkte"
+    },
+    {
+      "Key": "This is a holy place. Your soldiers can ask for a blessing, but make your choice carefully. ",
+      "Translation": "This is a holy place. Your soldiers can ask for a blessing, but make your choice carefully. ",
+      "Comment": "Event description"
+    },
+    {
+      "Key": "- Select a Unit -",
+      "Translation": "- Select a Unit -",
+      "Comment": ""
+    },
+    {
+      "Key": "Ask for protection.",
+      "Translation": "Ask for protection.",
+      "Comment": ""
+    },
+    {
+      "Key": "(Unit re-rolls failed Damage Saves)",
+      "Translation": "(Unit re-rolls failed Damage Saves)",
+      "Comment": ""
+    },
+    {
+      "Key": "Rest and gather strength.",
+      "Translation": "Rest and gather strength.",
+      "Comment": ""
+    },
+    {
+      "Key": "(Unit is restored to full strenght)",
+      "Translation": "(Unit is restored to full strenght)",
+      "Comment": "Typo 'strenght' in original"
+    },
+    {
+      "Key": "- The unit is restored -",
+      "Translation": "- The unit is restored -",
+      "Comment": ""
+    },
+    {
+      "Key": "Choose a Unit",
+      "Translation": "Choose a Unit",
+      "Comment": ""
+    },
+    {
+      "Key": "A mysterious altar covered in eldritch runes. Your soldiers can ask for a favor, but at what cost...",
+      "Translation": "A mysterious altar covered in eldritch runes. Your soldiers can ask for a favor, but at what cost...",
+      "Comment": "Event description - mystical tone"
+    },
+    {
+      "Key": "Losses",
+      "Translation": "Losses",
+      "Comment": ""
+    },
+    {
+      "Key": "Succeses",
+      "Translation": "Succeses",
+      "Comment": "Typo 'Succeses' in original"
+    },
+    {
+      "Key": "Roll",
+      "Translation": "Roll",
+      "Comment": ""
+    },
+    {
+      "Key": "Some rogue wizards have been spotted in the area. Eliminate them for a reward.",
+      "Translation": "Some rogue wizards have been spotted in the area. Eliminate them for a reward.",
+      "Comment": "Quest description"
+    },
+    {
+      "Key": "Reward: 1 magic item for your commander",
+      "Translation": "Reward: 1 magic item for your commander",
+      "Comment": ""
+    },
+    {
+      "Key": "Seek them out!",
+      "Translation": "Seek them out!",
+      "Comment": ""
+    },
+    {
+      "Key": "Sent",
+      "Translation": "Sent",
+      "Comment": "Unit sent on quest"
+    },
+    {
+      "Key": "Your army has found  a forgotten tomb in the wilderness. Does it contain ancient treasure or slumbering evil?\n\n\n\n\n\nForm a search party to investigate or leave it be...\n",
+      "Translation": "Your army has found  a forgotten tomb in the wilderness. Does it contain ancient treasure or slumbering evil?\n\n\n\n\n\nForm a search party to investigate or leave it be...\n",
+      "Comment": "Event description - preserve extra newlines"
+    },
+    {
+      "Key": "Enter The Darkness",
+      "Translation": "Enter The Darkness",
+      "Comment": ""
+    },
+    {
+      "Key": "Search Party:",
+      "Translation": "Search Party:",
+      "Comment": ""
+    },
+    {
+      "Key": "Treasures Found",
+      "Translation": "Treasures Found",
+      "Comment": ""
+    },
+    {
+      "Key": "Mercenaries are offering to join your warband in exchange for a cut of your income.",
+      "Translation": "Mercenaries are offering to join your warband in exchange for a cut of your income.",
+      "Comment": ""
+    },
+    {
+      "Key": "Elven City Guard are expensive but skilled fighters.",
+      "Translation": "Elven City Guard are expensive but skilled fighters.",
+      "Comment": ""
+    },
+    {
+      "Key": "10% of gold income",
+      "Translation": "10% of gold income",
+      "Comment": ""
+    },
+    {
+      "Key": "Hire",
+      "Translation": "Hire",
+      "Comment": ""
+    },
+    {
+      "Key": "Wait...",
+      "Translation": "Wait...",
+      "Comment": ""
+    },
+    {
+      "Key": "Search",
+      "Translation": "Search",
+      "Comment": ""
+    },
+    {
+      "Key": "You come across a treacherous swamp. As you attempt to cross it, one of your regiments fall behind and is lost in the fog. You can wait for them to return or risk sending a search party.",
+      "Translation": "You come across a treacherous swamp. As you attempt to cross it, one of your regiments fall behind and is lost in the fog. You can wait for them to return or risk sending a search party.",
+      "Comment": "Event description"
+    },
+    {
+      "Key": "A mercenary captain and his trusty gryphon offers to join your army for coin.",
+      "Translation": "A mercenary captain and his trusty gryphon offers to join your army for coin.",
+      "Comment": ""
+    },
+    {
+      "Key": "An ancient place of power. ",
+      "Translation": "An ancient place of power. ",
+      "Comment": ""
+    },
+    {
+      "Key": "Enter the Circle",
+      "Translation": "Enter the Circle",
+      "Comment": ""
+    },
+    {
+      "Key": "Arcane Reversal",
+      "Translation": "Arcane Reversal",
+      "Comment": "Spell/ability name"
+    },
+    {
+      "Key": "Learn Spell",
+      "Translation": "Learn Spell",
+      "Comment": ""
+    },
+    {
+      "Key": "A good place to purchase some firepower...",
+      "Translation": "A good place to purchase some firepower...",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Cannon",
+      "Translation": "Dwarf Cannon",
+      "Comment": "Unit name"
+    },
+    {
+      "Key": "Mount",
+      "Translation": "Mount",
+      "Comment": ""
+    },
+    {
+      "Key": "Your soldiers have found an ancient artifact. Make use of its power or sell it in the nearest settlement...",
+      "Translation": "Your soldiers have found an ancient artifact. Make use of its power or sell it in the nearest settlement...",
+      "Comment": ""
+    },
+    {
+      "Key": "Sword of Ruin",
+      "Translation": "Sword of Ruin",
+      "Comment": "Artifact name"
+    },
+    {
+      "Key": "+1 Power. Once per battle, cast the Fireball spell.",
+      "Translation": "+1 Power. Once per battle, cast the Fireball spell.",
+      "Comment": ""
+    },
+    {
+      "Key": "Use It",
+      "Translation": "Use It",
+      "Comment": ""
+    },
+    {
+      "Key": "Sell:",
+      "Translation": "Sell:",
+      "Comment": ""
+    },
+    {
+      "Key": "An old dwarven weapon cache. We can probably salvage something.\n Pick one...",
+      "Translation": "An old dwarven weapon cache. We can probably salvage something.\n Pick one...",
+      "Comment": ""
+    },
+    {
+      "Key": "Ranged Attack",
+      "Translation": "Ranged Attack",
+      "Comment": ""
+    },
+    {
+      "Key": "Equip",
+      "Translation": "Equip",
+      "Comment": ""
+    },
+    {
+      "Key": "A shrine to the ancient Dwarven ancestors. \nThis is a sacred place for all Dwarves.",
+      "Translation": "A shrine to the ancient Dwarven ancestors. \nThis is a sacred place for all Dwarves.",
+      "Comment": "Dwarf faction event"
+    },
+    {
+      "Key": "Ask the Ancestors for Strength",
+      "Translation": "Ask the Ancestors for Strength",
+      "Comment": ""
+    },
+    {
+      "Key": "(Unit gains a powerful ability)",
+      "Translation": "(Unit gains a powerful ability)",
+      "Comment": ""
+    },
+    {
+      "Key": "- Choose One -",
+      "Translation": "- Choose One -",
+      "Comment": ""
+    },
+    {
+      "Key": "A blessing from the Lady.",
+      "Translation": "A blessing from the Lady.",
+      "Comment": "Knights of Avalon faction event"
+    },
+    {
+      "Key": "Choose",
+      "Translation": "Choose",
+      "Comment": ""
+    },
+    {
+      "Key": "Restoration",
+      "Translation": "Restoration",
+      "Comment": ""
+    },
+    {
+      "Key": "Replenish all units fully.",
+      "Translation": "Replenish all units fully.",
+      "Comment": ""
+    },
+    {
+      "Key": "Lady's Prayer",
+      "Translation": "Lady's Prayer",
+      "Comment": "Knights of Avalon ability"
+    },
+    {
+      "Key": "Gain the Lady's Blessing for the next 3 battles.\n",
+      "Translation": "Gain the Lady's Blessing for the next 3 battles.\n",
+      "Comment": ""
+    },
+    {
+      "Key": "(Your Knights are Fearless and have Charge Bonus: +1 Attack) ",
+      "Translation": "(Your Knights are Fearless and have Charge Bonus: +1 Attack) ",
+      "Comment": "Effect description"
+    },
+    {
+      "Key": "The drums of war are sounding!",
+      "Translation": "The drums of war are sounding!",
+      "Comment": "Greenskin/Orc faction event"
+    },
+    {
+      "Key": "Take Command",
+      "Translation": "Take Command",
+      "Comment": ""
+    },
+    {
+      "Key": "Your Commander gains one level.",
+      "Translation": "Your Commander gains one level.",
+      "Comment": ""
+    },
+    {
+      "Key": "Rally the Tribes",
+      "Translation": "Rally the Tribes",
+      "Comment": "Greenskin ability"
+    },
+    {
+      "Key": "Gain Tribal Fury for the next 3 battles.\n",
+      "Translation": "Gain Tribal Fury for the next 3 battles.\n",
+      "Comment": ""
+    },
+    {
+      "Key": "(Your units are Fearless and have Charge Bonus: +1 Attack) ",
+      "Translation": "(Your units are Fearless and have Charge Bonus: +1 Attack) ",
+      "Comment": ""
+    },
+    {
+      "Key": "A hideout in the trees, \nonly known to the Deepwood Elves",
+      "Translation": "A hideout in the trees, \nonly known to the Deepwood Elves",
+      "Comment": "Deepwood faction event"
+    },
+    {
+      "Key": "Rest",
+      "Translation": "Rest",
+      "Comment": ""
+    },
+    {
+      "Key": "Replenish all Units fully.",
+      "Translation": "Replenish all Units fully.",
+      "Comment": ""
+    },
+    {
+      "Key": "Commune with Forest Spirits",
+      "Translation": "Commune with Forest Spirits",
+      "Comment": "Deepwood faction ability"
+    },
+    {
+      "Key": "Gain Forest Spirits Aid for the next 3 battles.\n",
+      "Translation": "Gain Forest Spirits Aid for the next 3 battles.\n",
+      "Comment": ""
+    },
+    {
+      "Key": "(Your units have +3 Move Speed and +1 to Ranged Attack Rolls) ",
+      "Translation": "(Your units have +3 Move Speed and +1 to Ranged Attack Rolls) ",
+      "Comment": ""
+    },
+    {
+      "Key": "Deadly arrows crafted by the Deepwood Elves. Pick one.",
+      "Translation": "Deadly arrows crafted by the Deepwood Elves. Pick one.",
+      "Comment": ""
+    },
+    {
+      "Key": "Event Name",
+      "Translation": "Event Name",
+      "Comment": "Placeholder string"
+    },
+    {
+      "Key": "Light Infantry - 33 pts",
+      "Translation": "Light Infantry - 33 pts",
+      "Comment": ""
+    },
+    {
+      "Key": "Level:",
+      "Translation": "Level:",
+      "Comment": ""
+    },
+    {
+      "Key": "XP:",
+      "Translation": "XP:",
+      "Comment": ""
+    },
+    {
+      "Key": "- Dwarf Warriors",
+      "Translation": "- Dwarf Warriors",
+      "Comment": "Unit name in list"
+    },
+    {
+      "Key": "33 pts",
+      "Translation": "33 pts",
+      "Comment": ""
+    },
+    {
+      "Key": "Select Unit",
+      "Translation": "Select Unit",
+      "Comment": ""
+    },
+    {
+      "Key": "Apply",
+      "Translation": "Apply",
+      "Comment": ""
+    },
+    {
+      "Key": "Magic Weapons",
+      "Translation": "Magic Weapons",
+      "Comment": ""
+    },
+    {
+      "Key": "Magic Items",
+      "Translation": "Magic Items",
+      "Comment": ""
+    },
+    {
+      "Key": "Magic Banners",
+      "Translation": "Magic Banners",
+      "Comment": ""
+    },
+    {
+      "Key": "Banner of Big Moon",
+      "Translation": "Banner of Big Moon",
+      "Comment": "Item name - Greenskin faction"
+    },
+    {
+      "Key": "130pts",
+      "Translation": "130pts",
+      "Comment": ""
+    },
+    {
+      "Key": "Item Rules Effect\n",
+      "Translation": "Item Rules Effect\n",
+      "Comment": "Placeholder text"
+    },
+    {
+      "Key": "Unlocked ",
+      "Translation": "Unlocked ",
+      "Comment": ""
+    },
+    {
+      "Key": "33pts",
+      "Translation": "33pts",
+      "Comment": ""
+    },
+    {
+      "Key": "<color=#31D3E3>3<size=33%></color> D3",
+      "Translation": "<color=#31D3E3>3<size=33%></color> D3",
+      "Comment": "Rich text dice notation - W3 = Würfel3"
+    },
+    {
+      "Key": "< <color=#31D3E3>3",
+      "Translation": "< <color=#31D3E3>3",
+      "Comment": "Rich text comparison - keep as is"
+    },
+    {
+      "Key": "<color=#31D3E3>1<size=33%></color> D3",
+      "Translation": "<color=#31D3E3>1<size=33%></color> D3",
+      "Comment": "Rich text dice notation"
+    },
+    {
+      "Key": "30pts",
+      "Translation": "30pts",
+      "Comment": ""
+    },
+    {
+      "Key": "333 pts",
+      "Translation": "333 pts",
+      "Comment": ""
+    },
+    {
+      "Key": "BorderPatrol",
+      "Translation": "BorderPatrol",
+      "Comment": "Game mode name"
+    },
+    {
+      "Key": "invalid",
+      "Translation": "invalid",
+      "Comment": ""
+    },
+    {
+      "Key": "Battalion",
+      "Translation": "Battalion",
+      "Comment": "Army size category"
+    },
+    {
+      "Key": "Unnamed List",
+      "Translation": "Unnamed List",
+      "Comment": ""
+    },
+    {
+      "Key": "Screenshot sent to Steam",
+      "Translation": "Screenshot sent to Steam",
+      "Comment": "System message"
+    },
+    {
+      "Key": "Battle Line",
+      "Translation": "Battle Line",
+      "Comment": "Unit category"
+    },
+    {
+      "Key": "Fast Attack",
+      "Translation": "Fast Attack",
+      "Comment": "Unit category"
+    },
+    {
+      "Key": "Ranged Support",
+      "Translation": "Ranged Support",
+      "Comment": "Unit category"
+    },
+    {
+      "Key": "Imperial Armory",
+      "Translation": "Imperial Armory",
+      "Comment": "Game mode name"
+    },
+    {
+      "Key": "Border Patrol",
+      "Translation": "Border Patrol",
+      "Comment": "Game mode name"
+    },
+    {
+      "Key": "Legion",
+      "Translation": "Legion",
+      "Comment": "Army size category"
+    },
+    {
+      "Key": "Unrestricted",
+      "Translation": "Unrestricted",
+      "Comment": "Game mode"
+    },
+    {
+      "Key": "103pts",
+      "Translation": "103pts",
+      "Comment": ""
+    },
+    {
+      "Key": "133pts",
+      "Translation": "133pts",
+      "Comment": ""
+    },
+    {
+      "Key": "Commander Ability",
+      "Translation": "Commander Ability",
+      "Comment": ""
+    },
+    {
+      "Key": "Weapon Set",
+      "Translation": "Weapon Set",
+      "Comment": ""
+    },
+    {
+      "Key": "Magic Banner",
+      "Translation": "Magic Banner",
+      "Comment": ""
+    },
+    {
+      "Key": "131pts",
+      "Translation": "131pts",
+      "Comment": ""
+    },
+    {
+      "Key": "13pts",
+      "Translation": "13pts",
+      "Comment": ""
+    },
+    {
+      "Key": "10pts",
+      "Translation": "10pts",
+      "Comment": ""
+    },
+    {
+      "Key": "Weapon Enchantment",
+      "Translation": "Weapon Enchantment",
+      "Comment": ""
+    },
+    {
+      "Key": "Item Enchantment",
+      "Translation": "Item Enchantment",
+      "Comment": ""
+    },
+    {
+      "Key": "Spell",
+      "Translation": "Spell",
+      "Comment": ""
+    },
+    {
+      "Key": "<b>Draw<size=30%></color></b>\n",
+      "Translation": "<b>Draw<size=30%></color></b>\n",
+      "Comment": "Battle result - preserve rich text tags"
+    },
+    {
+      "Key": "Challenge Level: 3",
+      "Translation": "Challenge Level: 3",
+      "Comment": "Campaign difficulty indicator"
+    },
+    {
+      "Key": "A collection of fierce beasts...",
+      "Translation": "A collection of fierce beasts...",
+      "Comment": "Campaign encounter description"
+    },
+    {
+      "Key": "Turn 1 begins!",
+      "Translation": "Turn 1 begins!",
+      "Comment": ""
+    },
+    {
+      "Key": "Confident",
+      "Translation": "Confident",
+      "Comment": "Morale state"
+    },
+    {
+      "Key": "Turn 3 begins!",
+      "Translation": "Turn 3 begins!",
+      "Comment": ""
+    },
+    {
+      "Key": "activates",
+      "Translation": "activates",
+      "Comment": "Ability/unit activation message"
+    },
+    {
+      "Key": "You are starting player!",
+      "Translation": "You are starting player!",
+      "Comment": ""
+    },
+    {
+      "Key": "Confirm?",
+      "Translation": "Confirm?",
+      "Comment": ""
+    },
+    {
+      "Key": " Attack Roll",
+      "Translation": " Attack Roll",
+      "Comment": "Preserve leading space"
+    },
+    {
+      "Key": "Next",
+      "Translation": "Next",
+      "Comment": ""
+    },
+    {
+      "Key": "Opponent",
+      "Translation": "Opponent",
+      "Comment": ""
+    },
+    {
+      "Key": "Break Test",
+      "Translation": "Break Test",
+      "Comment": "Test to see if unit breaks and flees"
+    },
+    {
+      "Key": "3 or lower to Hold",
+      "Translation": "3 or lower to Hold",
+      "Comment": "Morale test success condition"
+    },
+    {
+      "Key": "rally!",
+      "Translation": "rally!",
+      "Comment": "Unit regains morale"
+    },
+    {
+      "Key": "3 or lower to Rally",
+      "Translation": "3 or lower to Rally",
+      "Comment": "Rally test success condition"
+    },
+    {
+      "Key": "0 or lower to Hold",
+      "Translation": "0 or lower to Hold",
+      "Comment": "Auto-break situation"
+    },
+    {
+      "Key": "fled off the board!",
+      "Translation": "fled off the board!",
+      "Comment": "Unit routed off table"
+    },
+    {
+      "Key": "Wavering",
+      "Translation": "Wavering",
+      "Comment": "Morale state - unit close to breaking"
+    },
+    {
+      "Key": "Confirm",
+      "Translation": "Confirm",
+      "Comment": ""
+    },
+    {
+      "Key": "Routing this turn!",
+      "Translation": "Routing this turn!",
+      "Comment": "Unit is fleeing"
+    },
+    {
+      "Key": " has been wiped out!",
+      "Translation": " has been wiped out!",
+      "Comment": "Unit destroyed message - preserve leading space"
+    },
+    {
+      "Key": "Beast Master",
+      "Translation": "Beast Master",
+      "Comment": "Unit type or commander class"
+    },
+    {
+      "Key": "",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "You can roll dice by pressing Spacebar. Hold it down to fast forward in combat.",
+      "Translation": "You can roll dice by pressing Spacebar. Hold it down to fast forward in combat.",
+      "Comment": "Anleitung für Spielmechanik"
+    },
+    {
+      "Key": "Forest",
+      "Translation": "Forest",
+      "Comment": "Geländeart"
+    },
+    {
+      "Key": "-Difficult Terrain-",
+      "Translation": "-Difficult Terrain-",
+      "Comment": "Geländeeigenschaft die Bewegung behindert"
+    },
+    {
+      "Key": "Building",
+      "Translation": "Building",
+      "Comment": "Geländeart"
+    },
+    {
+      "Key": "-Impassable-",
+      "Translation": "-Impassable-",
+      "Comment": "Geländeeigenschaft - kann nicht betreten werden"
+    },
+    {
+      "Key": "Chasm",
+      "Translation": "Chasm",
+      "Comment": "Geländeart - tiefe Schlucht"
+    },
+    {
+      "Key": "Cliff",
+      "Translation": "Cliff",
+      "Comment": "Geländeart - steiler Felsabsatz"
+    },
+    {
+      "Key": "Lava",
+      "Translation": "Lava",
+      "Comment": "Geländeart - gleiches Wort in Deutsch"
+    },
+    {
+      "Key": "Scoring Objective",
+      "Translation": "Scoring Objective",
+      "Comment": "Spielziel das Punkte bringt"
+    },
+    {
+      "Key": "Water",
+      "Translation": "Water",
+      "Comment": "Geländeart"
+    },
+    {
+      "Key": "Language",
+      "Translation": "Language",
+      "Comment": "UI-Einstellung"
+    }
+  ]
+}

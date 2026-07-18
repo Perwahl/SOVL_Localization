@@ -1,0 +1,1130 @@
+{
+  "TranslationContext": "This file contains names of Unit Properties and equipment.",
+  "Translations": [
+    {
+      "Key": "Spear and Shield",
+      "Translation": "Spear and Shield",
+      "Comment": ""
+    },
+    {
+      "Key": "Swift",
+      "Translation": "Swift",
+      "Comment": ""
+    },
+    {
+      "Key": "Bolt Thrower",
+      "Translation": "Bolt Thrower",
+      "Comment": ""
+    },
+    {
+      "Key": "Lethal Shots",
+      "Translation": "Lethal Shots",
+      "Comment": ""
+    },
+    {
+      "Key": "Crewed Weapon",
+      "Translation": "Crewed Weapon",
+      "Comment": ""
+    },
+    {
+      "Key": "Reposition",
+      "Translation": "Reposition",
+      "Comment": ""
+    },
+    {
+      "Key": "Hand Weapon+Shield",
+      "Translation": "Hand Weapon+Shield",
+      "Comment": ""
+    },
+    {
+      "Key": "Sturdy",
+      "Translation": "Sturdy",
+      "Comment": ""
+    },
+    {
+      "Key": "Fearless",
+      "Translation": "Fearless",
+      "Comment": ""
+    },
+    {
+      "Key": "Greatweapon",
+      "Translation": "Greatweapon",
+      "Comment": ""
+    },
+    {
+      "Key": "Hand Weapon and Shield",
+      "Translation": "Hand Weapon and Shield",
+      "Comment": ""
+    },
+    {
+      "Key": "Mountain's Will",
+      "Translation": "Mountain's Will",
+      "Comment": ""
+    },
+    {
+      "Key": "Ramming Speed",
+      "Translation": "Ramming Speed",
+      "Comment": ""
+    },
+    {
+      "Key": "Steam Gun",
+      "Translation": "Steam Gun",
+      "Comment": ""
+    },
+    {
+      "Key": "Flying",
+      "Translation": "Flying",
+      "Comment": ""
+    },
+    {
+      "Key": "Masterwork Armor",
+      "Translation": "Masterwork Armor",
+      "Comment": ""
+    },
+    {
+      "Key": "Bodyguard",
+      "Translation": "Bodyguard",
+      "Comment": ""
+    },
+    {
+      "Key": "Frenzy",
+      "Translation": "Frenzy",
+      "Comment": ""
+    },
+    {
+      "Key": "Two Hand Weapons",
+      "Translation": "Two Hand Weapons",
+      "Comment": ""
+    },
+    {
+      "Key": "Crossbows",
+      "Translation": "Crossbows",
+      "Comment": ""
+    },
+    {
+      "Key": "Scout",
+      "Translation": "Scout",
+      "Comment": ""
+    },
+    {
+      "Key": "Cannon",
+      "Translation": "Cannon",
+      "Comment": ""
+    },
+    {
+      "Key": "Handguns",
+      "Translation": "Handguns",
+      "Comment": ""
+    },
+    {
+      "Key": "Catapult",
+      "Translation": "Catapult",
+      "Comment": ""
+    },
+    {
+      "Key": "Banner of Swiftness",
+      "Translation": "Banner of Swiftness",
+      "Comment": ""
+    },
+    {
+      "Key": "Banner of Fury",
+      "Translation": "Banner of Fury",
+      "Comment": ""
+    },
+    {
+      "Key": "Banner of Valor",
+      "Translation": "Banner of Valor",
+      "Comment": ""
+    },
+    {
+      "Key": "Banner of Mist",
+      "Translation": "Banner of Mist",
+      "Comment": ""
+    },
+    {
+      "Key": "War Banner",
+      "Translation": "War Banner",
+      "Comment": ""
+    },
+    {
+      "Key": "Cursed Standard",
+      "Translation": "Cursed Standard",
+      "Comment": ""
+    },
+    {
+      "Key": "Heavy Armor",
+      "Translation": "Heavy Armor",
+      "Comment": ""
+    },
+    {
+      "Key": "Halberd",
+      "Translation": "Halberd",
+      "Comment": ""
+    },
+    {
+      "Key": "Lance and Shield",
+      "Translation": "Lance and Shield",
+      "Comment": ""
+    },
+    {
+      "Key": "Hand Weapon",
+      "Translation": "Hand Weapon",
+      "Comment": ""
+    },
+    {
+      "Key": "Brace of Pistols",
+      "Translation": "Brace of Pistols",
+      "Comment": ""
+    },
+    {
+      "Key": "Longbows",
+      "Translation": "Longbows",
+      "Comment": ""
+    },
+    {
+      "Key": "Mortar",
+      "Translation": "Mortar",
+      "Comment": ""
+    },
+    {
+      "Key": "Armor Plating",
+      "Translation": "Armor Plating",
+      "Comment": ""
+    },
+    {
+      "Key": "Full Steam",
+      "Translation": "Full Steam",
+      "Comment": ""
+    },
+    {
+      "Key": "Claws",
+      "Translation": "Claws",
+      "Comment": ""
+    },
+    {
+      "Key": "Fangs",
+      "Translation": "Fangs",
+      "Comment": ""
+    },
+    {
+      "Key": "Fire Breath",
+      "Translation": "Fire Breath",
+      "Comment": ""
+    },
+    {
+      "Key": "Inspire Valor",
+      "Translation": "Inspire Valor",
+      "Comment": ""
+    },
+    {
+      "Key": "Vitality",
+      "Translation": "Vitality",
+      "Comment": ""
+    },
+    {
+      "Key": "Unyielding",
+      "Translation": "Unyielding",
+      "Comment": ""
+    },
+    {
+      "Key": "Command",
+      "Translation": "Command",
+      "Comment": ""
+    },
+    {
+      "Key": "Prowess",
+      "Translation": "Prowess",
+      "Comment": ""
+    },
+    {
+      "Key": "Unnatural Power",
+      "Translation": "Unnatural Power",
+      "Comment": ""
+    },
+    {
+      "Key": "Potion of Power",
+      "Translation": "Potion of Power",
+      "Comment": ""
+    },
+    {
+      "Key": "Cruelty",
+      "Translation": "Cruelty",
+      "Comment": ""
+    },
+    {
+      "Key": "Flametongue",
+      "Translation": "Flametongue",
+      "Comment": ""
+    },
+    {
+      "Key": "Relentless",
+      "Translation": "Relentless",
+      "Comment": ""
+    },
+    {
+      "Key": "Heart Seeker",
+      "Translation": "Heart Seeker",
+      "Comment": ""
+    },
+    {
+      "Key": "True Strike",
+      "Translation": "True Strike",
+      "Comment": ""
+    },
+    {
+      "Key": "Furious Charge",
+      "Translation": "Furious Charge",
+      "Comment": ""
+    },
+    {
+      "Key": "Fireball",
+      "Translation": "Fireball",
+      "Comment": ""
+    },
+    {
+      "Key": "Frost Ward",
+      "Translation": "Frost Ward",
+      "Comment": ""
+    },
+    {
+      "Key": "Divine Favour",
+      "Translation": "Divine Favour",
+      "Comment": ""
+    },
+    {
+      "Key": "Shadow Bolt",
+      "Translation": "Shadow Bolt",
+      "Comment": ""
+    },
+    {
+      "Key": "Radiant Shield",
+      "Translation": "Radiant Shield",
+      "Comment": ""
+    },
+    {
+      "Key": "Hex Of Ruin",
+      "Translation": "Hex Of Ruin",
+      "Comment": ""
+    },
+    {
+      "Key": "Shortbows",
+      "Translation": "Shortbows",
+      "Comment": ""
+    },
+    {
+      "Key": "Crushing Charge",
+      "Translation": "Crushing Charge",
+      "Comment": ""
+    },
+    {
+      "Key": "Regeneration",
+      "Translation": "Regeneration",
+      "Comment": ""
+    },
+    {
+      "Key": "Poisoned Attacks",
+      "Translation": "Poisoned Attacks",
+      "Comment": ""
+    },
+    {
+      "Key": "Web",
+      "Translation": "Web",
+      "Comment": ""
+    },
+    {
+      "Key": "Warcry",
+      "Translation": "Warcry",
+      "Comment": ""
+    },
+    {
+      "Key": "Primal Fury",
+      "Translation": "Primal Fury",
+      "Comment": ""
+    },
+    {
+      "Key": "Thousand Mouths",
+      "Translation": "Thousand Mouths",
+      "Comment": ""
+    },
+    {
+      "Key": "Shroud",
+      "Translation": "Shroud",
+      "Comment": ""
+    },
+    {
+      "Key": "Wildform",
+      "Translation": "Wildform",
+      "Comment": ""
+    },
+    {
+      "Key": "Power Of Many",
+      "Translation": "Power Of Many",
+      "Comment": ""
+    },
+    {
+      "Key": "Explosive Charges",
+      "Translation": "Explosive Charges",
+      "Comment": ""
+    },
+    {
+      "Key": "Ambusher",
+      "Translation": "Ambusher",
+      "Comment": ""
+    },
+    {
+      "Key": "Inferno Cannon",
+      "Translation": "Inferno Cannon",
+      "Comment": ""
+    },
+    {
+      "Key": "Marksman Rifle",
+      "Translation": "Marksman Rifle",
+      "Comment": ""
+    },
+    {
+      "Key": "Ranger",
+      "Translation": "Ranger",
+      "Comment": ""
+    },
+    {
+      "Key": "Dwarf Pistol",
+      "Translation": "Dwarf Pistol",
+      "Comment": ""
+    },
+    {
+      "Key": "Mechanical Expertise",
+      "Translation": "Mechanical Expertise",
+      "Comment": ""
+    },
+    {
+      "Key": "Elven Mastery",
+      "Translation": "Elven Mastery",
+      "Comment": ""
+    },
+    {
+      "Key": "Bows",
+      "Translation": "Bows",
+      "Comment": ""
+    },
+    {
+      "Key": "Rallying Cry",
+      "Translation": "Rallying Cry",
+      "Comment": ""
+    },
+    {
+      "Key": "Arcane Web",
+      "Translation": "Arcane Web",
+      "Comment": ""
+    },
+    {
+      "Key": "Reality Rift",
+      "Translation": "Reality Rift",
+      "Comment": ""
+    },
+    {
+      "Key": "Fiery Blades",
+      "Translation": "Fiery Blades",
+      "Comment": ""
+    },
+    {
+      "Key": "Reanimated",
+      "Translation": "Reanimated",
+      "Comment": ""
+    },
+    {
+      "Key": "Unarmed",
+      "Translation": "Unarmed",
+      "Comment": ""
+    },
+    {
+      "Key": "Putrid Stench",
+      "Translation": "Putrid Stench",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Reign",
+      "Translation": "Eternal Reign",
+      "Comment": ""
+    },
+    {
+      "Key": "Unholy Vigour",
+      "Translation": "Unholy Vigour",
+      "Comment": ""
+    },
+    {
+      "Key": "Reanimate",
+      "Translation": "Reanimate",
+      "Comment": ""
+    },
+    {
+      "Key": "Plague",
+      "Translation": "Plague",
+      "Comment": ""
+    },
+    {
+      "Key": "Raise Dead",
+      "Translation": "Raise Dead",
+      "Comment": ""
+    },
+    {
+      "Key": "Javelins",
+      "Translation": "Javelins",
+      "Comment": ""
+    },
+    {
+      "Key": "Boulder Throw",
+      "Translation": "Boulder Throw",
+      "Comment": ""
+    },
+    {
+      "Key": "Blood Frenzy",
+      "Translation": "Blood Frenzy",
+      "Comment": ""
+    },
+    {
+      "Key": "Raider",
+      "Translation": "Raider",
+      "Comment": ""
+    },
+    {
+      "Key": "Blood Fury",
+      "Translation": "Blood Fury",
+      "Comment": ""
+    },
+    {
+      "Key": "Abyssal Armor",
+      "Translation": "Abyssal Armor",
+      "Comment": ""
+    },
+    {
+      "Key": "Scaly Skin",
+      "Translation": "Scaly Skin",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic",
+      "Translation": "Demonic",
+      "Comment": ""
+    },
+    {
+      "Key": "Gift Of War",
+      "Translation": "Gift Of War",
+      "Comment": ""
+    },
+    {
+      "Key": "Tusks",
+      "Translation": "Tusks",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic Possession",
+      "Translation": "Demonic Possession",
+      "Comment": ""
+    },
+    {
+      "Key": "Pack Tactics",
+      "Translation": "Pack Tactics",
+      "Comment": ""
+    },
+    {
+      "Key": "Howl",
+      "Translation": "Howl",
+      "Comment": ""
+    },
+    {
+      "Key": "Horns",
+      "Translation": "Horns",
+      "Comment": ""
+    },
+    {
+      "Key": "Newt Shortbows",
+      "Translation": "Newt Shortbows",
+      "Comment": ""
+    },
+    {
+      "Key": "Roar!",
+      "Translation": "Roar!",
+      "Comment": ""
+    },
+    {
+      "Key": "Ancient Knowledge",
+      "Translation": "Ancient Knowledge",
+      "Comment": ""
+    },
+    {
+      "Key": "Throwing Stars",
+      "Translation": "Throwing Stars",
+      "Comment": ""
+    },
+    {
+      "Key": "Longrifle",
+      "Translation": "Longrifle",
+      "Comment": ""
+    },
+    {
+      "Key": "Sling",
+      "Translation": "Sling",
+      "Comment": ""
+    },
+    {
+      "Key": "Flamer",
+      "Translation": "Flamer",
+      "Comment": ""
+    },
+    {
+      "Key": "Doom Bell",
+      "Translation": "Doom Bell",
+      "Comment": ""
+    },
+    {
+      "Key": "Cruel Motivation",
+      "Translation": "Cruel Motivation",
+      "Comment": ""
+    },
+    {
+      "Key": "Deadly Strike",
+      "Translation": "Deadly Strike",
+      "Comment": ""
+    },
+    {
+      "Key": "Hidden",
+      "Translation": "Hidden",
+      "Comment": ""
+    },
+    {
+      "Key": "Barkskin",
+      "Translation": "Barkskin",
+      "Comment": ""
+    },
+    {
+      "Key": "Forest Spirit",
+      "Translation": "Forest Spirit",
+      "Comment": ""
+    },
+    {
+      "Key": "Elven Accuracy",
+      "Translation": "Elven Accuracy",
+      "Comment": ""
+    },
+    {
+      "Key": "Hunters Bow",
+      "Translation": "Hunters Bow",
+      "Comment": ""
+    },
+    {
+      "Key": "Hunters Call",
+      "Translation": "Hunters Call",
+      "Comment": ""
+    },
+    {
+      "Key": "Regrowth",
+      "Translation": "Regrowth",
+      "Comment": ""
+    },
+    {
+      "Key": "Take Root",
+      "Translation": "Take Root",
+      "Comment": ""
+    },
+    {
+      "Key": "Light Crossbow",
+      "Translation": "Light Crossbow",
+      "Comment": ""
+    },
+    {
+      "Key": "Hooves",
+      "Translation": "Hooves",
+      "Comment": ""
+    },
+    {
+      "Key": "Feint",
+      "Translation": "Feint",
+      "Comment": ""
+    },
+    {
+      "Key": "Gift Of Trickery",
+      "Translation": "Gift Of Trickery",
+      "Comment": ""
+    },
+    {
+      "Key": "Gift Of Decay",
+      "Translation": "Gift Of Decay",
+      "Comment": ""
+    },
+    {
+      "Key": "Phase Out",
+      "Translation": "Phase Out",
+      "Comment": ""
+    },
+    {
+      "Key": "Lord of Decay",
+      "Translation": "Lord of Decay",
+      "Comment": ""
+    },
+    {
+      "Key": "Lord of Trickery",
+      "Translation": "Lord of Trickery",
+      "Comment": ""
+    },
+    {
+      "Key": "Lord Of War",
+      "Translation": "Lord Of War",
+      "Comment": ""
+    },
+    {
+      "Key": "Horse Masters",
+      "Translation": "Horse Masters",
+      "Comment": ""
+    },
+    {
+      "Key": "Fey",
+      "Translation": "Fey",
+      "Comment": ""
+    },
+    {
+      "Key": "Aura of Protection",
+      "Translation": "Aura of Protection",
+      "Comment": ""
+    },
+    {
+      "Key": "Holy Blade",
+      "Translation": "Holy Blade",
+      "Comment": ""
+    },
+    {
+      "Key": "Aura of Vengeance",
+      "Translation": "Aura of Vengeance",
+      "Comment": ""
+    },
+    {
+      "Key": "3 Hand Weapons",
+      "Translation": "3 Hand Weapons",
+      "Comment": ""
+    },
+    {
+      "Key": "3x Pistols",
+      "Translation": "3x Pistols",
+      "Comment": ""
+    },
+    {
+      "Key": "Lance+Shield",
+      "Translation": "Lance+Shield",
+      "Comment": ""
+    },
+    {
+      "Key": "Dark Gift",
+      "Translation": "Dark Gift",
+      "Comment": ""
+    },
+    {
+      "Key": "Divine Protection",
+      "Translation": "Divine Protection",
+      "Comment": ""
+    },
+    {
+      "Key": "Battle Hardened",
+      "Translation": "Battle Hardened",
+      "Comment": ""
+    },
+    {
+      "Key": "Marksman",
+      "Translation": "Marksman",
+      "Comment": ""
+    },
+    {
+      "Key": "Spell Power",
+      "Translation": "Spell Power",
+      "Comment": ""
+    },
+    {
+      "Key": "Spell Weaver",
+      "Translation": "Spell Weaver",
+      "Comment": ""
+    },
+    {
+      "Key": "Offensive Mastery",
+      "Translation": "Offensive Mastery",
+      "Comment": ""
+    },
+    {
+      "Key": "Veteran Crew",
+      "Translation": "Veteran Crew",
+      "Comment": ""
+    },
+    {
+      "Key": "Veteran Discipline",
+      "Translation": "Veteran Discipline",
+      "Comment": ""
+    },
+    {
+      "Key": "Veteran Accuracy",
+      "Translation": "Veteran Accuracy",
+      "Comment": ""
+    },
+    {
+      "Key": "Veteran Skill",
+      "Translation": "Veteran Skill",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic Discipline",
+      "Translation": "Demonic Discipline",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic Fury",
+      "Translation": "Demonic Fury",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic Power",
+      "Translation": "Demonic Power",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic Resilience",
+      "Translation": "Demonic Resilience",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic Skill",
+      "Translation": "Demonic Skill",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic Defense",
+      "Translation": "Demonic Defense",
+      "Comment": ""
+    },
+    {
+      "Key": "Sword Of Ruin",
+      "Translation": "Sword Of Ruin",
+      "Comment": ""
+    },
+    {
+      "Key": "Cloak Of Shadows",
+      "Translation": "Cloak Of Shadows",
+      "Comment": ""
+    },
+    {
+      "Key": "Horn Of Discord",
+      "Translation": "Horn Of Discord",
+      "Comment": ""
+    },
+    {
+      "Key": "Veteran Marksmen",
+      "Translation": "Veteran Marksmen",
+      "Comment": ""
+    },
+    {
+      "Key": "Oath Of Retribution",
+      "Translation": "Oath Of Retribution",
+      "Comment": ""
+    },
+    {
+      "Key": "Oath Of Reckoning",
+      "Translation": "Oath Of Reckoning",
+      "Comment": ""
+    },
+    {
+      "Key": "Oath Of Vengeance",
+      "Translation": "Oath Of Vengeance",
+      "Comment": ""
+    },
+    {
+      "Key": "Ancestral Strength",
+      "Translation": "Ancestral Strength",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Blades",
+      "Translation": "Greater Blades",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Favour",
+      "Translation": "Greater Favour",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Fireball",
+      "Translation": "Greater Fireball",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Fury",
+      "Translation": "Greater Fury",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Raise",
+      "Translation": "Greater Raise",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Reanimate",
+      "Translation": "Greater Reanimate",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Regrowth",
+      "Translation": "Greater Regrowth",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Ruin",
+      "Translation": "Greater Ruin",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Shadowbolt",
+      "Translation": "Greater Shadowbolt",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Shield",
+      "Translation": "Greater Shield",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Vigour",
+      "Translation": "Greater Vigour",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Web",
+      "Translation": "Greater Web",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Wildform",
+      "Translation": "Greater Wildform",
+      "Comment": ""
+    },
+    {
+      "Key": "Thousand Maws",
+      "Translation": "Thousand Maws",
+      "Comment": ""
+    },
+    {
+      "Key": "Rune Of Farsight",
+      "Translation": "Rune Of Farsight",
+      "Comment": ""
+    },
+    {
+      "Key": "Rune Of Flame",
+      "Translation": "Rune Of Flame",
+      "Comment": ""
+    },
+    {
+      "Key": "Rune Of Resilience",
+      "Translation": "Rune Of Resilience",
+      "Comment": ""
+    },
+    {
+      "Key": "Rune Of Speed",
+      "Translation": "Rune Of Speed",
+      "Comment": ""
+    },
+    {
+      "Key": "Imperial Elites",
+      "Translation": "Imperial Elites",
+      "Comment": ""
+    },
+    {
+      "Key": "Imperial Veterans",
+      "Translation": "Imperial Veterans",
+      "Comment": ""
+    },
+    {
+      "Key": "Stronger Summons",
+      "Translation": "Stronger Summons",
+      "Comment": ""
+    },
+    {
+      "Key": "Extra Limb",
+      "Translation": "Extra Limb",
+      "Comment": ""
+    },
+    {
+      "Key": "Extra Limbs",
+      "Translation": "Extra Limbs",
+      "Comment": ""
+    },
+    {
+      "Key": "Grafted Wings",
+      "Translation": "Grafted Wings",
+      "Comment": ""
+    },
+    {
+      "Key": "Necrotic Infusion",
+      "Translation": "Necrotic Infusion",
+      "Comment": ""
+    },
+    {
+      "Key": "Putrid Hide",
+      "Translation": "Putrid Hide",
+      "Comment": ""
+    },
+    {
+      "Key": "Tunneling Claws",
+      "Translation": "Tunneling Claws",
+      "Comment": ""
+    },
+    {
+      "Key": "Unnatural Size",
+      "Translation": "Unnatural Size",
+      "Comment": ""
+    },
+    {
+      "Key": "Elf Bow Mastery",
+      "Translation": "Elf Bow Mastery",
+      "Comment": ""
+    },
+    {
+      "Key": "Elf Spear Mastery",
+      "Translation": "Elf Spear Mastery",
+      "Comment": ""
+    },
+    {
+      "Key": "Elf Steed Mastery",
+      "Translation": "Elf Steed Mastery",
+      "Comment": ""
+    },
+    {
+      "Key": "Eagle Aspect",
+      "Translation": "Eagle Aspect",
+      "Comment": ""
+    },
+    {
+      "Key": "Jaguar Aspect",
+      "Translation": "Jaguar Aspect",
+      "Comment": ""
+    },
+    {
+      "Key": "Raptor Aspect",
+      "Translation": "Raptor Aspect",
+      "Comment": ""
+    },
+    {
+      "Key": "Salamander Aspect",
+      "Translation": "Salamander Aspect",
+      "Comment": ""
+    },
+    {
+      "Key": "Serpent Aspect",
+      "Translation": "Serpent Aspect",
+      "Comment": ""
+    },
+    {
+      "Key": "Turtle Aspect",
+      "Translation": "Turtle Aspect",
+      "Comment": ""
+    },
+    {
+      "Key": "Backstabbers",
+      "Translation": "Backstabbers",
+      "Comment": ""
+    },
+    {
+      "Key": "Bloodlust",
+      "Translation": "Bloodlust",
+      "Comment": ""
+    },
+    {
+      "Key": "Tough As Nails",
+      "Translation": "Tough As Nails",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Warcry",
+      "Translation": "Greater Warcry",
+      "Comment": ""
+    },
+    {
+      "Key": "Slavers",
+      "Translation": "Slavers",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Shroud",
+      "Translation": "Greater Shroud",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Ward",
+      "Translation": "Greater Ward",
+      "Comment": ""
+    },
+    {
+      "Key": "War Gods Blessing",
+      "Translation": "War Gods Blessing",
+      "Comment": ""
+    },
+    {
+      "Key": "Blessing Of Decay",
+      "Translation": "Blessing Of Decay",
+      "Comment": ""
+    },
+    {
+      "Key": "Blessing Of Trickery",
+      "Translation": "Blessing Of Trickery",
+      "Comment": ""
+    },
+    {
+      "Key": "Master of Decay",
+      "Translation": "Master of Decay",
+      "Comment": ""
+    },
+    {
+      "Key": "Master of Trickery",
+      "Translation": "Master of Trickery",
+      "Comment": ""
+    },
+    {
+      "Key": "Master Of War",
+      "Translation": "Master Of War",
+      "Comment": ""
+    },
+    {
+      "Key": "Loyal Serfs",
+      "Translation": "Loyal Serfs",
+      "Comment": ""
+    },
+    {
+      "Key": "Avalon Marksmen",
+      "Translation": "Avalon Marksmen",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Vengeance",
+      "Translation": "Greater Vengeance",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Protection",
+      "Translation": "Greater Protection",
+      "Comment": ""
+    },
+    {
+      "Key": "Bodkin Arrows",
+      "Translation": "Bodkin Arrows",
+      "Comment": ""
+    },
+    {
+      "Key": "Serrated Arrows",
+      "Translation": "Serrated Arrows",
+      "Comment": ""
+    },
+    {
+      "Key": "Splitting Arrow",
+      "Translation": "Splitting Arrow",
+      "Comment": ""
+    },
+    {
+      "Key": "Trueflight Arrows",
+      "Translation": "Trueflight Arrows",
+      "Comment": ""
+    }
+  ]
+}

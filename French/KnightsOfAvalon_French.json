@@ -1,0 +1,100 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Knights of Avalon Faction.",
+  "Translations": [
+    {
+      "Key": "Knights of Avalon",
+      "Translation": "Chevaliers d'Avalon",
+      "Comment": "Noble knights of the legendary kingdom"
+    },
+    {
+      "Key": "Sword Militia",
+      "Translation": "Milice à l'Épée",
+      "Comment": "Citizen soldiers with swords"
+    },
+    {
+      "Key": "Peasant Mob",
+      "Translation": "Horde Paysanne",
+      "Comment": "Untrained peasant levies"
+    },
+    {
+      "Key": "Halberd Militia",
+      "Translation": "Milice à la Hallebarde",
+      "Comment": "Militia armed with halberds"
+    },
+    {
+      "Key": "Spear Militia",
+      "Translation": "Milice à la Lance",
+      "Comment": "Basic spear-wielding militia"
+    },
+    {
+      "Key": "Knight Aspirants",
+      "Translation": "Aspirants Chevaliers",
+      "Comment": "Young warriors training to become knights"
+    },
+    {
+      "Key": "Mounted Hunters",
+      "Translation": "Chasseurs Montés",
+      "Comment": "Light cavalry hunters"
+    },
+    {
+      "Key": "Sworn Knights",
+      "Translation": "Chevaliers Jurés",
+      "Comment": "Knights who have taken sacred oaths"
+    },
+    {
+      "Key": "Hunting Dogs",
+      "Translation": "Chiens de Chasse",
+      "Comment": "War dogs used in battle"
+    },
+    {
+      "Key": "Hunters",
+      "Translation": "Chasseurs",
+      "Comment": "Skilled hunters and scouts"
+    },
+    {
+      "Key": "Trebuchet",
+      "Translation": "Trébuchet",
+      "Comment": "Siege catapult"
+    },
+    {
+      "Key": "Longbowmen",
+      "Translation": "Archers Longs",
+      "Comment": "Famous elite archers with longbows"
+    },
+    {
+      "Key": "Kings Guard",
+      "Translation": "Garde Royale",
+      "Comment": "Elite guards protecting the king"
+    },
+    {
+      "Key": "Pegasus Knights",
+      "Translation": "Chevaliers Pégases",
+      "Comment": "Knights riding winged horses"
+    },
+    {
+      "Key": "Hippogryph",
+      "Translation": "Hippogriffe",
+      "Comment": "Gryphon-horse hybrid creature"
+    },
+    {
+      "Key": "Pegasus",
+      "Translation": "Pégase",
+      "Comment": "Mythological winged horse"
+    },
+    {
+      "Key": "Unicorn",
+      "Translation": "Licorne",
+      "Comment": "Magical pure creature"
+    },
+    {
+      "Key": "Maiden",
+      "Translation": "Pucelle",
+      "Comment": "Holy warrior blessed by the divine (Joan of Arc archetype)"
+    },
+    {
+      "Key": "Paladin",
+      "Translation": "Paladin",
+      "Comment": "Holy knight champion"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Abyssal Demons Faction.",
+  "Translations": [
+    {
+      "Key": "Abyssal Demons",
+      "Translation": "Abgrunddämonen",
+      "Comment": "Abgrund = abyss, Dämonen = demons. Creatures from the darkest depths."
+    },
+    {
+      "Key": "Abyssal Vipers",
+      "Translation": "Abgrundvipern",
+      "Comment": "Vipern = vipers. Serpentine demonic creatures."
+    },
+    {
+      "Key": "Devilspawn",
+      "Translation": "Teufelsbrut",
+      "Comment": "Teufel = devil, Brut = spawn/brood. Lesser demonic infantry."
+    },
+    {
+      "Key": "Plague Walkers",
+      "Translation": "Seuchenwandler",
+      "Comment": "Seuche = plague, Wandler = walkers. Disease-bearing demons."
+    },
+    {
+      "Key": "Plaguelings",
+      "Translation": "Seuchenlinge",
+      "Comment": "Created a diminutive form of plague creatures. Small plague demons."
+    },
+    {
+      "Key": "Fire Devils",
+      "Translation": "Feuerteufel",
+      "Comment": "Direct compound. Demons wreathed in flames."
+    },
+    {
+      "Key": "Plague Flies",
+      "Translation": "Seuchenfliegen",
+      "Comment": "Flying plague-bearing insects. Grotesque and diseased."
+    },
+    {
+      "Key": "Abyssal Reapers",
+      "Translation": "Abgrundsensenträger",
+      "Comment": "Sensenträger = scythe-bearers/reapers. Death-dealing demons."
+    },
+    {
+      "Key": "Demonic Hounds",
+      "Translation": "Dämonenhunde",
+      "Comment": "Direct compound. Hellish hunting beasts."
+    },
+    {
+      "Key": "Hell Riders",
+      "Translation": "Höllenreiter",
+      "Comment": "Hölle = hell. Demonic cavalry."
+    },
+    {
+      "Key": "Plague Hulk",
+      "Translation": "Seuchenkoloss",
+      "Comment": "Koloss = hulk/colossus. Massive plague monster."
+    },
+    {
+      "Key": "Archdevil",
+      "Translation": "Erzteufel",
+      "Comment": "Erz- prefix = arch-/chief. Greater demon lord."
+    },
+    {
+      "Key": "Abyssal Prince",
+      "Translation": "Abgrundfürst",
+      "Comment": "Fürst = prince/lord. Powerful demonic ruler."
+    },
+    {
+      "Key": "Abyssal Herald",
+      "Translation": "Abgrundherold",
+      "Comment": "Herold = herald. Messenger and champion of the abyss."
+    }
+  ]
+}

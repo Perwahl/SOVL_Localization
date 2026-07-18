@@ -1,0 +1,90 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Darkborn Elves Faction.",
+  "Translations": [
+    {
+      "Key": "Darkborn Elves",
+      "Translation": "",
+      "Comment": "Dunkelgeboren = darkborn. Dark elves with a sinister edge."
+    },
+    {
+      "Key": "Darkborn Spears",
+      "Translation": "",
+      "Comment": "Spear-wielding dark elf infantry."
+    },
+    {
+      "Key": "Darkborn Dreadguard",
+      "Translation": "",
+      "Comment": "Schrecken = dread. Elite heavy infantry radiating fear."
+    },
+    {
+      "Key": "Darkborn Witches",
+      "Translation": "",
+      "Comment": "Hexen = witches. Dark magic users of the dark elves."
+    },
+    {
+      "Key": "Darkborn Crossbows",
+      "Translation": "",
+      "Comment": "Crossbow-wielding dark elves. Deadly ranged troops."
+    },
+    {
+      "Key": "Darkborn Shadows",
+      "Translation": "",
+      "Comment": "Schatten = shadows. Stealthy infiltrators and assassins."
+    },
+    {
+      "Key": "Darkborn Boltthrower",
+      "Translation": "",
+      "Comment": "Heavy artillery. Consistent with other bolt thrower translations."
+    },
+    {
+      "Key": "Raptor Knights",
+      "Translation": "",
+      "Comment": "Knights riding vicious raptors. Fast and deadly cavalry."
+    },
+    {
+      "Key": "Darkborn Riders",
+      "Translation": "",
+      "Comment": "Dark elf cavalry on dark steeds."
+    },
+    {
+      "Key": "Darkborn Chariot",
+      "Translation": "",
+      "Comment": "Dark elf chariot. Swift and cruel."
+    },
+    {
+      "Key": "Hydra",
+      "Translation": "",
+      "Comment": "Standard German term for hydra. Multi-headed monster."
+    },
+    {
+      "Key": "Harpies",
+      "Translation": "",
+      "Comment": "Harpyien = harpies. Flying monsters in service of dark elves."
+    },
+    {
+      "Key": "Black Dragon",
+      "Translation": "",
+      "Comment": "Direct translation. Fearsome black dragon."
+    },
+    {
+      "Key": "Dark Pegasus",
+      "Translation": "",
+      "Comment": "Corrupted pegasus. Flying mount for heroes."
+    },
+    {
+      "Key": "Darkborn Noble",
+      "Translation": "",
+      "Comment": "Noble dark elf leader. Cruel and cunning."
+    },
+    {
+      "Key": "Darkborn Priestess",
+      "Translation": "",
+      "Comment": "Priesterin = priestess. Female dark magic user and leader."
+    },
+    {
+      "Key": "Darkborn Assassin",
+      "Translation": "",
+      "Comment": "Master of stealth and murder. Deadly hero unit."
+    }
+  ]
+}

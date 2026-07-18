@@ -1,0 +1,95 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Empire of Men Faction.",
+  "Translations": [
+    {
+      "Key": "Empires of Men",
+      "Translation": "Empires des Hommes",
+      "Comment": "Faction name - grand multi-kingdom realm"
+    },
+    {
+      "Key": "Imperial Sword",
+      "Translation": "Épées Impériales",
+      "Comment": "Elite imperial swordsmen"
+    },
+    {
+      "Key": "Foot Knights",
+      "Translation": "Chevaliers à Pied",
+      "Comment": "Knights fighting on foot"
+    },
+    {
+      "Key": "Imperial Halberd",
+      "Translation": "Hallebardiers Impériaux",
+      "Comment": "Halberd-wielding imperial troops"
+    },
+    {
+      "Key": "Imperial Spear",
+      "Translation": "Lanciers Impériaux",
+      "Comment": "Spear infantry in formation"
+    },
+    {
+      "Key": "Imperial Knights",
+      "Translation": "Chevaliers Impériaux",
+      "Comment": "Heavy cavalry elite"
+    },
+    {
+      "Key": "Imperial Light Cavalry",
+      "Translation": "Cavalerie Légère Impériale",
+      "Comment": "Fast scouts and skirmishers"
+    },
+    {
+      "Key": "Imperial Archers",
+      "Translation": "Archers Impériaux",
+      "Comment": "Ranged infantry"
+    },
+    {
+      "Key": "Imperial Crossbowmen",
+      "Translation": "Arbalétriers Impériaux",
+      "Comment": "Crossbow troops"
+    },
+    {
+      "Key": "Imperial Handguns",
+      "Translation": "Arquebusiers Impériaux",
+      "Comment": "Gunpowder infantry"
+    },
+    {
+      "Key": "Imperial Cannon",
+      "Translation": "Canon Impérial",
+      "Comment": "Heavy artillery"
+    },
+    {
+      "Key": "Imperial Mortar",
+      "Translation": "Mortier Impérial",
+      "Comment": "Indirect fire artillery"
+    },
+    {
+      "Key": "Imperial Dreadnought",
+      "Translation": "Cuirassé Impérial",
+      "Comment": "Massive war machine"
+    },
+    {
+      "Key": "Gryphon",
+      "Translation": "Griffon",
+      "Comment": "Majestic flying creature"
+    },
+    {
+      "Key": "Imperial Dragon",
+      "Translation": "Dragon Impérial",
+      "Comment": "Imperial dragon mount"
+    },
+    {
+      "Key": "Captain",
+      "Translation": "Capitaine",
+      "Comment": "Military leader"
+    },
+    {
+      "Key": "Knight Commander",
+      "Translation": "Commandeur de Chevaliers",
+      "Comment": "Leader of knightly orders"
+    },
+    {
+      "Key": "Imperial Wizard",
+      "Translation": "Sorcier Impérial",
+      "Comment": "Imperial magic user"
+    }
+  ]
+}

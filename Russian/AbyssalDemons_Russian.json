@@ -1,0 +1,75 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Abyssal Demons Faction.",
+  "Translations": [
+    {
+      "Key": "Abyssal Demons",
+      "Translation": "",
+      "Comment": "Abgrund = abyss, Dämonen = demons. Creatures from the darkest depths."
+    },
+    {
+      "Key": "Abyssal Vipers",
+      "Translation": "",
+      "Comment": "Vipern = vipers. Serpentine demonic creatures."
+    },
+    {
+      "Key": "Devilspawn",
+      "Translation": "",
+      "Comment": "Teufel = devil, Brut = spawn/brood. Lesser demonic infantry."
+    },
+    {
+      "Key": "Plague Walkers",
+      "Translation": "",
+      "Comment": "Seuche = plague, Wandler = walkers. Disease-bearing demons."
+    },
+    {
+      "Key": "Plaguelings",
+      "Translation": "",
+      "Comment": "Created a diminutive form of plague creatures. Small plague demons."
+    },
+    {
+      "Key": "Fire Devils",
+      "Translation": "",
+      "Comment": "Direct compound. Demons wreathed in flames."
+    },
+    {
+      "Key": "Plague Flies",
+      "Translation": "",
+      "Comment": "Flying plague-bearing insects. Grotesque and diseased."
+    },
+    {
+      "Key": "Abyssal Reapers",
+      "Translation": "",
+      "Comment": "Sensenträger = scythe-bearers/reapers. Death-dealing demons."
+    },
+    {
+      "Key": "Demonic Hounds",
+      "Translation": "",
+      "Comment": "Direct compound. Hellish hunting beasts."
+    },
+    {
+      "Key": "Hell Riders",
+      "Translation": "",
+      "Comment": "Hölle = hell. Demonic cavalry."
+    },
+    {
+      "Key": "Plague Hulk",
+      "Translation": "",
+      "Comment": "Koloss = hulk/colossus. Massive plague monster."
+    },
+    {
+      "Key": "Archdevil",
+      "Translation": "",
+      "Comment": "Erz- prefix = arch-/chief. Greater demon lord."
+    },
+    {
+      "Key": "Abyssal Prince",
+      "Translation": "",
+      "Comment": "Fürst = prince/lord. Powerful demonic ruler."
+    },
+    {
+      "Key": "Abyssal Herald",
+      "Translation": "",
+      "Comment": "Herold = herald. Messenger and champion of the abyss."
+    }
+  ]
+}

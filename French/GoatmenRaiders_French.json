@@ -1,0 +1,80 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Goatmen Raiders Faction.",
+  "Translations": [
+    {
+      "Key": "Goatmen Raiders",
+      "Translation": "Pillards Hommes-Boucs",
+      "Comment": "Beast-men with goat features, savage raiders"
+    },
+    {
+      "Key": "Ibex Warriors",
+      "Translation": "Guerriers Bouquetins",
+      "Comment": "Mountain goat warriors, fierce and agile"
+    },
+    {
+      "Key": "Goatmen Warriors",
+      "Translation": "Guerriers Hommes-Boucs",
+      "Comment": "Standard goat-men warriors"
+    },
+    {
+      "Key": "Mongrel Pack",
+      "Translation": "Meute de Bâtards",
+      "Comment": "Chaotic mass of lesser beast-men"
+    },
+    {
+      "Key": "Mongrel Spear",
+      "Translation": "Lanciers Bâtards",
+      "Comment": "Mongrel troops armed with spears"
+    },
+    {
+      "Key": "Raiding Chariot",
+      "Translation": "Char de Pillage",
+      "Comment": "Fast attack chariot"
+    },
+    {
+      "Key": "Feral Hounds",
+      "Translation": "Molosses Sauvages",
+      "Comment": "Savage war beasts"
+    },
+    {
+      "Key": "Mongrel Skirmishers",
+      "Translation": "Tirailleurs Bâtards",
+      "Comment": "Light troops for harassment"
+    },
+    {
+      "Key": "Centaurs",
+      "Translation": "Centaures",
+      "Comment": "Half-man, half-horse"
+    },
+    {
+      "Key": "Minotaurs",
+      "Translation": "Minotaures",
+      "Comment": "Bull-headed warriors"
+    },
+    {
+      "Key": "Harpies",
+      "Translation": "Harpies",
+      "Comment": "Flying monsters"
+    },
+    {
+      "Key": "Feral Giant",
+      "Translation": "Géant Sauvage",
+      "Comment": "Untamed giant serving the beast-men"
+    },
+    {
+      "Key": "Goatman Shaman",
+      "Translation": "Chaman Homme-Bouc",
+      "Comment": "Tribal magic user with dark rituals"
+    },
+    {
+      "Key": "Goatman Longhorn",
+      "Translation": "Longues-Cornes Homme-Bouc",
+      "Comment": "Elite warrior with impressive horns"
+    },
+    {
+      "Key": "Minotaur Lord",
+      "Translation": "Seigneur Minotaure",
+      "Comment": "Mighty minotaur leader"
+    }
+  ]
+}

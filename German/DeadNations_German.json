@@ -1,0 +1,85 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Dead Nations Faction.",
+  "Translations": [
+    {
+      "Key": "Dead Nations",
+      "Translation": "Totennationen",
+      "Comment": "Direct compound. Evokes the undead kingdoms rising from ancient graves."
+    },
+    {
+      "Key": "Skeleton Warriors",
+      "Translation": "Skelettkrieger",
+      "Comment": "Skelett = skeleton. Basic undead infantry."
+    },
+    {
+      "Key": "Zombies",
+      "Translation": "Zombies",
+      "Comment": "Zombie is universally recognized. Shambling undead hordes."
+    },
+    {
+      "Key": "Wight Guard",
+      "Translation": "Gruftgarde",
+      "Comment": "Gruft = crypt/tomb. Garde = guard. Elite undead warriors guarding ancient tombs."
+    },
+    {
+      "Key": "Skeleton Spear",
+      "Translation": "Skelett-Speerkämpfer",
+      "Comment": "Skeletal spear-wielding troops. Disciplined undead formations."
+    },
+    {
+      "Key": "Unearthed Catapult",
+      "Translation": "Ausgegrabenes Katapult",
+      "Comment": "Ausgegraben = unearthed/excavated. Ancient siege weapon raised from the dead."
+    },
+    {
+      "Key": "Skeleton Bowmen",
+      "Translation": "Skelettbogenschützen",
+      "Comment": "Undead archers. Silent and deadly."
+    },
+    {
+      "Key": "Dire Wolves",
+      "Translation": "Schattenwölfe",
+      "Comment": "Schattenwölfe (shadow wolves) conveys the supernatural, cursed nature. Alternative: Grimmwölfe."
+    },
+    {
+      "Key": "Skeleton Knights",
+      "Translation": "Skelettritter",
+      "Comment": "Undead cavalry. Former knights now serving in death."
+    },
+    {
+      "Key": "Dread Knights",
+      "Translation": "Schreckensritter",
+      "Comment": "Schrecken = dread/terror. Elite undead knights radiating fear."
+    },
+    {
+      "Key": "Fell Bats",
+      "Translation": "Grausige Fledermäuse",
+      "Comment": "Grausig = fell/dreadful. Fledermaus = bat. Monstrous flying creatures."
+    },
+    {
+      "Key": "Zombie Giant",
+      "Translation": "Zombieriese",
+      "Comment": "Compound of zombie and giant. Massive reanimated corpse."
+    },
+    {
+      "Key": "Bone Dragon",
+      "Translation": "Knochendrache",
+      "Comment": "Direct compound. Terrifying undead dragon of pure bone."
+    },
+    {
+      "Key": "Wight Lord",
+      "Translation": "Gruftherr",
+      "Comment": "Gruft = crypt, Herr = lord. Ancient undead noble commanding the armies."
+    },
+    {
+      "Key": "Vampire Knight",
+      "Translation": "Vampirritter",
+      "Comment": "Vampir = vampire. Undead knight with vampiric powers."
+    },
+    {
+      "Key": "Necromancer",
+      "Translation": "Nekromant",
+      "Comment": "Standard German term for necromancer. Master of death magic."
+    }
+  ]
+}
