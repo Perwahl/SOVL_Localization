@@ -438,7 +438,7 @@
     },
     {
       "Key": "Resume Ongoing",
-      "Translation": "Reprendre en cours",
+      "Translation": "Reprendre",
       "Comment": ""
     },
     {
@@ -648,7 +648,7 @@
     },
     {
       "Key": "joins your army!",
-      "Translation": "rejoint votre armée !",
+      "Translation": "rejoindre votre armée !",
       "Comment": "Campaign event message"
     },
     {
