@@ -83,7 +83,7 @@
     },
     {
       "Key": "Knight Commander",
-      "Translation": "Commandeur de Chevaliers",
+      "Translation": "Commandeur de Chevaliers", > Commandeur de Chevalerie (more poetic) or Chevalier Commandeur
       "Comment": "Leader of knightly orders"
     },
     {
