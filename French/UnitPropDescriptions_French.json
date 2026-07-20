@@ -18,12 +18,12 @@
     },
     {
       "Key": "Reroll failed Discipline Tests",
-      "Translation": "Relancer ratés tests de Discipline",
+      "Translation": "Relance les tests ratés de Discipline",
       "Comment": ""
     },
     {
       "Key": "Unit counts as being in Cover. (-1 to Ranged attack rolls against it).",
-      "Translation": "Unit compte comme étant à Couvert. (-1 to Attaque à distance rolls contre elle).",
+      "Translation": "L'Unité compte comme étant à Couvert. (-1 aux Attaques à distance rolls contre elle).",
       "Comment": ""
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "Key": "Unit has +1 Attack this turn. Activate once per battle.",
-      "Translation": "L'unité a +1 Attaque ce tour. Activer une fois par bataille.",
+      "Translation": "L'unité a +1 Attaque ce tour. Activation une fois par bataille.",
       "Comment": ""
     },
     {
@@ -48,17 +48,17 @@
     },
     {
       "Key": "If a Commander is part of this unit it re-rolls failed Discipline tests.",
-      "Translation": "Si un Commandant fait partie de cette unité, elle relance ratés tests de Discipline.",
+      "Translation": "Si un Commandant fait partie de cette unité, elle relance les tests ratés de Discipline.",
       "Comment": ""
     },
     {
       "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 4+.",
-      "Translation": "Bonus de Charge: +1 Puissance \nSauvegardes de Dégâts against cette arme ne sont jamais meilleures que 4+.",
+      "Translation": "Bonus de Charge: +1 Puissance \n Les Sauvegardes de Dégâts contre cette arme ne sont jamais meilleures que 4+.",
       "Comment": ""
     },
     {
       "Key": "+1 Defense. Extra Rank supporting attacks when not charging.",
-      "Translation": "+1 Défense. Attaques de soutien de rang supplémentaire lorsqu'elle ne charge pas.",
+      "Translation": "+1 Défense. Combat sur un rang supplémentaire lorsqu'elle ne charge pas.",
       "Comment": ""
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "Key": "Ignores all penalties to Discipline tests.",
-      "Translation": "Ignorers toutes les pénalités to tests de Discipline.",
+      "Translation": "Ignore toutes les pénalités de test de Discipline.",
       "Comment": ""
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "Key": "Activate once per battle. Give all your units +1 Combat Score for one turn.",
-      "Translation": "Activer une fois par bataille. Donne à toutes vos unités +1 Score de Combat pour un tour.",
+      "Translation": "Activation une fois par bataille. Donne à toutes vos unités +1 Score de Combat pour un tour.",
       "Comment": ""
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "Key": "Reroll failed damage saves.",
-      "Translation": "Relancer ratés sauvegardes de dégâts.",
+      "Translation": "Relance les sauvegardes ratées de dégâts.",
       "Comment": ""
     },
     {
@@ -108,7 +108,7 @@
     },
     {
       "Key": "Opponent re-rolls successful damage saves.",
-      "Translation": "L'adversaire relance réussis sauvegardes de dégâts.",
+      "Translation": "L'adversaire relance les sauvegardes réussies de dégâts.",
       "Comment": ""
     },
     {
@@ -128,27 +128,27 @@
     },
     {
       "Key": "Reroll missed attacks.",
-      "Translation": "Relancer ratés attacks.",
+      "Translation": "Relance les attaques ratés.",
       "Comment": ""
     },
     {
       "Key": "Activate once per battle. Commander and Retinue rerolls Attack Rolls for one turn.",
-      "Translation": "Activer une fois par bataille. Le Commandant et sa Suite relancent jets d'Attaque pour un tour.",
+      "Translation": "Activation une fois par bataille. Le Commandant et sa Suite relancent les jets d'Attaque pour un tour.",
       "Comment": ""
     },
     {
       "Key": "Target unit gets +1 to Damage Saves for one turn. It must re-roll succesfull Attack and Ranged Attack rolls.",
-      "Translation": "L'unité ciblée obtient +1 to Sauvegardes de Dégâts pour un tour. Elle doit relancer réussis Attaque and jets d'Attaque à Distance.",
+      "Translation": "L'unité ciblée obtient +1 à la Sauvegarde de Dégâts pour un tour. Elle doit relancer les jets d'Attaques réussis au corps à corps et à Distance.",
       "Comment": ""
     },
     {
       "Key": "Target unit gets +1 Skill and rerolls failed Discipline tests for one turn.",
-      "Translation": "L'unité ciblée obtient +1 Compétence and rerolls ratés tests de Discipline pour un tour.",
+      "Translation": "L'unité ciblée obtient +1 Compétence et relance les tests de Discipline ratés pour un tour.",
       "Comment": ""
     },
     {
       "Key": "Target unit rerolls failed damage saves for one turn.",
-      "Translation": "L'unité ciblée relance ratés sauvegardes de dégâts pour un tour.",
+      "Translation": "L'unité ciblée relance les sauvegardes ratées de dégâts pour un tour.",
       "Comment": ""
     },
     {
@@ -158,32 +158,32 @@
     },
     {
       "Key": "Ignore movement penalties from Difficult Terrain",
-      "Translation": "Ignorer pénalités de déplacement from Terrain Difficile",
+      "Translation": "Ignore la pénalité de déplacement des Terrains Difficiles",
       "Comment": ""
     },
     {
       "Key": "All your units have +1 Power for one turn.",
-      "Translation": "Toutes vos unités have +1 Puissance pour un tour.",
+      "Translation": "Toutes vos unités ont +1 Puissance pour un tour.",
       "Comment": ""
     },
     {
       "Key": "Target unit has +1 Power and rerolls missed Attack Rolls for one turn.",
-      "Translation": "L'unité ciblée a +1 Puissance and rerolls ratés jets d'Attaque pour un tour.",
+      "Translation": "L'unité ciblée a +1 Puissance et relance les jets d'Attaque ratés pour un tour.",
       "Comment": ""
     },
     {
       "Key": "Target unit counts as being in Cover against ranged attacks until it's next combat.",
-      "Translation": "L'unité ciblée compte as being à Couvert contre les attaques à distance jusqu'à son prochain combat.",
+      "Translation": "L'unité ciblée compte comme étant à Couvert contre les attaques à distance jusqu'à son prochain combat.",
       "Comment": ""
     },
     {
       "Key": "All your Goblins are Fearless for one turn. Activate once per battle. ",
-      "Translation": "All your Gobelins are Intrépide pour un tour. Activer une fois par bataille. ",
+      "Translation": "Tout vos Gobelins sont Intrépide pour un tour. Activation une fois par bataille. ",
       "Comment": ""
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor.",
-      "Translation": "-1 Déplacement. Ignorer the pénalité de déplacement from Armure Lourde.",
+      "Translation": "-1 Déplacement. Ignore les pénalités de déplacement de l'Armure Lourde.",
       "Comment": ""
     },
     {
@@ -193,42 +193,42 @@
     },
     {
       "Key": "Re-roll missed Attack Rolls in the first round of combat.",
-      "Translation": "Re-roll ratés jets d'Attaque au premier round de combat.",
+      "Translation": "Relance les jets d'Attaque ratés au premier round de combat.",
       "Comment": ""
     },
     {
       "Key": "+1 to Damage Saves",
-      "Translation": "+1 to Sauvegardes de Dégâts",
+      "Translation": "+1 aux Sauvegardes de Dégâts",
       "Comment": ""
     },
     {
       "Key": "Activate once per battle: All your units have +1 Defense for one turn.",
-      "Translation": "Activer une fois par bataille: Toutes vos unités have +1 Défense pour un tour.",
+      "Translation": "Activation une fois par bataille: Toutes vos unités ont +1 Défence pour un tour.",
       "Comment": ""
     },
     {
       "Key": "Re-roll missed Attack Rolls.",
-      "Translation": "Re-roll ratés jets d'Attaque.",
+      "Translation": "Relance les jets d'Attaque ratés.",
       "Comment": ""
     },
     {
       "Key": "Rally a fleeing unit. One use per battle.",
-      "Translation": "Rally a fleeing unit. One use par bataille.",
+      "Translation": "Rallie une unitée en Fuite. Activation une fois par bataille.",
       "Comment": ""
     },
     {
       "Key": "Reduce target units movement speed to 0 for one turn.",
-      "Translation": "Reduce target units movement speed to 0 pour un tour.",
+      "Translation": "Reduis le mouvenment d'une unité choisi à 0 pour un tour.",
       "Comment": ""
     },
     {
       "Key": "Target unit gets +1 Power on their next Ranged or Close Combat Attack.",
-      "Translation": "L'unité ciblée obtient +1 Puissance on their next Portéed or Close Combat Attaque.",
+      "Translation": "L'unité ciblée obtient +1 Puissance à sa prochaine attaque à distance ou au corps à corps.",
       "Comment": ""
     },
     {
       "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "-1 Déplacement. Never fails tests de Discipline, loses D3 wounds on lost combat.",
+      "Translation": "-1 Déplacement. Ne rate jamais un jet de Discipline, perds D3 blessures durant un combat perdu.",
       "Comment": ""
     },
     {
@@ -238,12 +238,12 @@
     },
     {
       "Key": "Opponents re-roll hits in close combat.",
-      "Translation": "L'adversaires relancer hits in close combat.",
+      "Translation": "L'adversaires relance ses jets de touche au corps à corps.",
       "Comment": ""
     },
     {
       "Key": "Reduce Crumble by 1. Regeneration (restore all lost wounds at end of turn).",
-      "Translation": "Reduce Crumble by 1. Regeneration (restore all lost wounds à la fin du tour).",
+      "Translation": "Reduis la déterioration de 1. Regeneration (restaure toutes les blessures à la fin du tour).",
       "Comment": ""
     },
     {
@@ -258,32 +258,32 @@
     },
     {
       "Key": "Target unit has -1 Skill and -1 Move Speed. Lasts until end of battle.",
-      "Translation": "L'unité ciblée a -1 Compétence and -1 Move Speed. Lasts until end of battle.",
+      "Translation": "L'unité ciblée a -1 Compétence and -1 Vitesse de Mouvement. Reste jusqu'à la fin de la Bataille.",
       "Comment": ""
     },
     {
       "Key": "Raise D3+3 models on a Zombie or Skeleton Warrior, Spear or Archer unit. ",
-      "Translation": "Raise D3+3 models on a Zombie or Skeleton Warrior, Spear or Archer unit. ",
+      "Translation": "Relève D3+3 modéles d'une unité de Zombie ou de Squelette Guerrier, Lancier ou Archer. ",
       "Comment": ""
     },
     {
       "Key": "Target unit loses D3 wounds and gains +1 Attack this turn.",
-      "Translation": "Cible unit loses D3 wounds and gains +1 Attaque ce tour.",
+      "Translation": "L'unité ciblée perd D3 blessures et gagne +1 Attaque à ce tour.",
       "Comment": ""
     },
     {
       "Key": "Commanders retinue deploys with Ambush.",
-      "Translation": "Commandants retinue deploys with Embuscade.",
+      "Translation": "La suite du Commandant gagne deploiement en Embuscade.",
       "Comment": ""
     },
     {
       "Key": "Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "Never fails tests de Discipline, loses D3 wounds on lost combat.",
+      "Translation": "Ne rate jamais un jet de Discipline, perds D3 blessures durant un combat perdu.",
       "Comment": ""
     },
     {
       "Key": "Favoured by War. Unit has Frenzy (re-roll failed Attack Rolls in the first round of combat).",
-      "Translation": "Favoured by War. L'unité a Frenzy (relancer ratés jets d'Attaque au premier round de combat).",
+      "Translation": "Favorisé par la  Guerre. L'unité a Frénésie (relance les jets d'Attaque ratés au premier tour de combat).",
       "Comment": ""
     },
     {
@@ -293,42 +293,42 @@
     },
     {
       "Key": "Gain +3 Attacks this turm. Lose 1 Wound.",
-      "Translation": "Gain +3 Attaques this turm. Lose 1 Wound.",
+      "Translation": "Gagne +3 Attaques pendant ce tour. Perd 1 Blessure.",
       "Comment": ""
     },
     {
       "Key": "Target a friendly unit that is attacking an enemy unit in the flank/rear. It re-rolls failed Attack rolls this turn.",
-      "Translation": "Cible a friendly unit that is attacking an enemy unit in the flank/rear. It relance ratés jets d'Attaque ce tour.",
+      "Translation": "Cible une unité ami qui attaque un ennemi de flanc/ à l'arrière. Elle relance les jets d'Attaque ratés ce tour.",
       "Comment": ""
     },
     {
       "Key": "All your Northmen are Fearless for one turn. Activate once per battle. ",
-      "Translation": "All your Northmen are Intrépide pour un tour. Activer une fois par bataille. ",
+      "Translation": "Tous vos Hommes du Nord sont Intrépide pour un tour. Activation une fois par bataille. ",
       "Comment": ""
     },
     {
       "Key": "Restore all used spell charges. ",
-      "Translation": "Restore all used spell charges. ",
+      "Translation": "Restaure toutes les charges de sort utilisés. ",
       "Comment": ""
     },
     {
       "Key": "All your units have Frenzy (reroll failed Attack Rolls) this turn. Activate once per battle.",
-      "Translation": "Toutes vos unités have Frenzy (reroll ratés jets d'Attaque) ce tour. Activer une fois par bataille.",
+      "Translation": "Toutes vos unités ont Frénésie (relance les jets d'Attaque raté) ce tour. Activation une fois par bataille.",
       "Comment": ""
     },
     {
       "Key": "Commander is hidden from your opponent until engaged in combat or damaged.",
-      "Translation": "Commandant is hidden from your opponent until engaged in combat or damaged.",
+      "Translation": "Votre Commandant est caché de vos ennemis jusqu'à ce qu'il engage le combat ou subis des dégâts.",
       "Comment": ""
     },
     {
       "Key": "A spirit of nature. Ignores Difficult Terrain.",
-      "Translation": "A spirit of nature. Ignorers Terrain Difficile.",
+      "Translation": "Un esprit de la nature. Ignore les Terrains Difficiles.",
       "Comment": ""
     },
     {
       "Key": "Re-roll missed Ranged Attack Rolls.",
-      "Translation": "Re-roll ratés Attaque à Distance Rolls.",
+      "Translation": "Relance les jets d'Attaque à Distance ratés .",
       "Comment": ""
     },
     {
@@ -338,7 +338,7 @@
     },
     {
       "Key": "All your units have +1 Skill for one turn.",
-      "Translation": "Toutes vos unités have +1 Compétence pour un tour.",
+      "Translation": "Toutes vos unités ont +1 Compétence pour un tour.",
       "Comment": ""
     },
     {
@@ -348,22 +348,22 @@
     },
     {
       "Key": "For one turn, reduce move speed to zero. Re-roll failed damage saves and discipline tests. Activate once per battle.",
-      "Translation": "For one turn, reduce move speed to zero. Re-roll ratés sauvegardes de dégâts and discipline tests. Activer une fois par bataille.",
+      "Translation": "Pour un tour, reduis la vitesse de mouvement à zéro. Relance les sauvegardes de dégâts et les test de discipline ratés. Activation une fois par bataille.",
       "Comment": ""
     },
     {
       "Key": "Target another friendly unit. It immediately makes a retreat move. One use per battle.",
-      "Translation": "Cible another friendly unit. It immediately makes a retreat move. One use par bataille.",
+      "Translation": "Cible une autre unité ami. Elle fait immédiatement un mouvement de retraite. Une utilisation par bataille.",
       "Comment": ""
     },
     {
       "Key": "Favoured by Trickery. Unit has Ambush Deployment and +1 Move Speed",
-      "Translation": "Favoured by Trickery. L'unité a Embuscade Deployment and +1 Move Speed",
+      "Translation": "Favorisé par Trickery. L'unité a le déploiement en embuscade and +1 vitesse de mouvement",
       "Comment": ""
     },
     {
       "Key": "Favoured by Decay. +1 Wounds. -1 Move Speed.",
-      "Translation": "Favoured by Decay. +1 Blessure. -1 Move Speed.",
+      "Translation": "Favorisé par Decay. +1 Blessure. -1 Move Speed.",
       "Comment": ""
     },
     {
