@@ -4,87 +4,87 @@
     {
       "Key": "Dwarf Holds",
       "Translation": "Forteresses Naines",
-      "Comment": "Faction name - Forteresses for the mountain strongholds"
+      "Comment": "Faction name - Forteresses des bastions de la Montagne"
     },
     {
       "Key": "Dwarf Warriors",
       "Translation": "Guerriers Nains",
-      "Comment": "Core infantry unit"
+      "Comment": "Unité d'infanterie de base"
     },
     {
       "Key": "Dwarf Veterans",
       "Translation": "Vétérans Nains",
-      "Comment": "Elite experienced warriors"
+      "Comment": "Guerriers d'élite"
     },
     {
       "Key": "Dwarf Miners",
       "Translation": "Mineurs Nains",
-      "Comment": "Mining warriors with picks"
+      "Comment": "Guerrier mineur armé de pioche"
     },
     {
       "Key": "Dwarf Crossbows",
       "Translation": "Arbalétriers Nains",
-      "Comment": "Crossbow troops"
+      "Comment": "Troupe à arbalète"
     },
     {
       "Key": "Dwarf Handguns",
       "Translation": "Arquebusiers Nains",
-      "Comment": "Gunpowder infantry"
+      "Comment": "Infanterie à poudre"
     },
     {
       "Key": "Dwarf Rangers",
       "Translation": "Rôdeurs Nains",
-      "Comment": "Scout and skirmisher troops"
+      "Comment": "Troupe d'éclaireurs et de tirailleurs"
     },
     {
       "Key": "Dwarf Cannon",
       "Translation": "Canon Nain",
-      "Comment": "Artillery piece"
+      "Comment": "Pièce d'artillerie"
     },
     {
       "Key": "Dwarf Bolt Thrower",
       "Translation": "Baliste Naine",
-      "Comment": "Siege weapon"
+      "Comment": "Arme de siège"
     },
     {
       "Key": "Dwarf Stonethrower",
-      "Translation": "Lance-Pierres Nain",
-      "Comment": "Stone artillery"
+      "Translation": "Lance-Pierres Naine",
+      "Comment": "Catalpulte naine"
     },
     {
       "Key": "Dwarf Berserkers",
       "Translation": "Berserkers Nains",
-      "Comment": "Frenzied warriors"
+      "Comment": "Guerriers Frénétiques"
     },
     {
       "Key": "Deep Guard",
       "Translation": "Garde des Profondeurs",
-      "Comment": "Elite guards from deep mines"
+      "Comment": "Guarde d'élite des mines profondes"
     },
     {
       "Key": "Inferno Cannon",
       "Translation": "Canon Infernal",
-      "Comment": "Fire-based artillery"
+      "Comment": "Artillerie lance-flamme"
     },
     {
       "Key": "Dwarf Flying Machine",
       "Translation": "Machine Volante Naine",
-      "Comment": "Gyrocopter/flying contraption"
+      "Comment": "Gyrocopter/bidule volant"
     },
     {
       "Key": "Dwarf Foreman",
       "Translation": "Contremaître Nain",
-      "Comment": "Engineering leader"
+      "Comment": "Commandant des forteresses"
     },
     {
       "Key": "Ranger Captain",
       "Translation": "Capitaine Rôdeur",
-      "Comment": "Leader of scouts"
+      "Comment": "Commandant des Scouts"
     },
     {
       "Key": "Dwarf Engineer",
       "Translation": "Ingénieur Nain",
-      "Comment": "Master of machines and artillery"
+      "Comment": "Maitre des machines et de l'artillerie"
     }
   ]
 }
