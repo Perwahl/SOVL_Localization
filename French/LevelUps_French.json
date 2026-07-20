@@ -213,12 +213,12 @@
     },
     {
       "Key": "Greater Regrowth",
-      "Translation": "Recroissance Supérieure",
+      "Translation": "Recroissance Supérieure", Croissance Accelerée
       "Comment": ""
     },
     {
       "Key": "Upgrades Regrowth to target any unit.",
-      "Translation": "Améliore Recroissance pour cibler n'importe quelle unité.",
+      "Translation": "Améliore Recroissance pour cibler n'importe quelle unité.", Améliore Croissance Accelerée pour cibler n'importe quelle unité
       "Comment": ""
     },
     {
@@ -268,7 +268,7 @@
     },
     {
       "Key": "Upgrades Thousand Mouths to Power 3.",
-      "Translation": "Améliore Mille Bouches à Puissance 3.",
+      "Translation": "Améliore Mille Bouches à Puissance 3.", Améliore Mille Geules à Puissance 3
       "Comment": ""
     },
     {
@@ -418,7 +418,7 @@
     },
     {
       "Key": "Fearless (Ignores penalties to Discipline tests).",
-      "Translation": "Intrep  ide (Ignore les pénalités aux tests de Discipline).",
+      "Translation": "Intrep  ide (Ignore les pénalités aux tests de Discipline).", Intrépide (Ignore...
       "Comment": ""
     },
     {
@@ -518,7 +518,7 @@
     },
     {
       "Key": "Elf Bow Mastery I",
-      "Translation": "Maîtrise de l'Arc Elfique I",
+      "Translation": "Maîtrise de l'Arc Elfique I", Maîtrise Elfique de l'Arc I
       "Comment": ""
     },
     {
@@ -528,7 +528,7 @@
     },
     {
       "Key": "Elf Bow Mastery II",
-      "Translation": "Maîtrise de l'Arc Elfique II",
+      "Translation": "Maîtrise de l'Arc Elfique II", see above
       "Comment": ""
     },
     {
@@ -538,7 +538,7 @@
     },
     {
       "Key": "Elf Spear Mastery I",
-      "Translation": "Maîtrise de la Lance Elfique I",
+      "Translation": "Maîtrise de la Lance Elfique I", Maîtrise Elfique de la Lance I
       "Comment": ""
     },
     {
@@ -548,17 +548,17 @@
     },
     {
       "Key": "Elf Spear Mastery II",
-      "Translation": "Maîtrise de la Lance Elfique II",
+      "Translation": "Maîtrise de la Lance Elfique II", see above
       "Comment": ""
     },
     {
       "Key": "Elf Steed Mastery I",
-      "Translation": "Maîtrise du Destrier Elfique I",
+      "Translation": "Maîtrise du Destrier Elfique I", see above
       "Comment": ""
     },
     {
       "Key": "Elf Steed Mastery II",
-      "Translation": "Maîtrise du Destrier Elfique II",
+      "Translation": "Maîtrise du Destrier Elfique II", see above
       "Comment": ""
     },
     {
@@ -663,17 +663,17 @@
     },
     {
       "Key": "Activate once per battle, +1 Attack and Fearless.",
-      "Translation": "Active une fois par bataille, +1 Attaque et Intrépide.",
+      "Translation": "Active une fois par bataille, +1 Attaque et Intrépide.", Activable une fois par...
       "Comment": ""
     },
     {
       "Key": "Won't Stay Down",
-      "Translation": "Ne Reste Pas à Terre",
+      "Translation": "Ne Reste Pas à Terre", Endurant, Coriace or Borné are good choices
       "Comment": ""
     },
     {
       "Key": "Recover an extra model that died after each battle.",
-      "Translation": "Récupérer une figurine supplémentaire morte après chaque bataille.",
+      "Translation": "Récupérer une figurine supplémentaire morte après chaque bataille.", Après chaque bataille, récupère une figurine morte supplémentaire
       "Comment": ""
     },
     {
@@ -703,7 +703,7 @@
     },
     {
       "Key": "Unit earns 1 gold per enemy killed in combat after each battle.",
-      "Translation": "L'unité gagne 1 or par ennemi tué au combat après chaque bataille.",
+      "Translation": "L'unité gagne 1 or par ennemi tué au combat après chaque bataille.", Après chaque bataille, l'unité gagne 1 or par ennemi tué au combat
       "Comment": ""
     },
     {
