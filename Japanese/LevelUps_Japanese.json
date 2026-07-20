@@ -69,7 +69,7 @@
     {
       "Key": "Coin Counter I",
       "Translation": "",
-      "Comment": "Gold income bonus"
+      "Comment": ""
     },
     {
       "Key": "+3% post battle income",
@@ -119,7 +119,7 @@
     {
       "Key": "Veteran Crew",
       "Translation": "",
-      "Comment": "For war machines/artillery"
+      "Comment": ""
     },
     {
       "Key": "+1 Ranged Attack",
@@ -214,7 +214,7 @@
     {
       "Key": "Greater Regrowth",
       "Translation": "",
-      "Comment": "Healing spell"
+      "Comment": ""
     },
     {
       "Key": "Upgrades Regrowth to target any unit.",
@@ -344,7 +344,7 @@
     {
       "Key": "Oath of Vengeance",
       "Translation": "",
-      "Comment": "Different oath than Reckoning but same translation fits"
+      "Comment": ""
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
@@ -499,7 +499,7 @@
     {
       "Key": "Reduce Crumble rolls by 1",
       "Translation": "",
-      "Comment": "Crumble is a special mechanic for summoned units"
+      "Comment": ""
     },
     {
       "Key": "Stronger Summons II",
@@ -534,7 +534,7 @@
     {
       "Key": "Damage saves against units Ranged Attack are reduced by 1.",
       "Translation": "",
-      "Comment": "Typo in source: 'units' should be 'unit's'"
+      "Comment": ""
     },
     {
       "Key": "Elf Spear Mastery I",
@@ -644,7 +644,7 @@
     {
       "Key": "Backstabbers",
       "Translation": "",
-      "Comment": "Plural form for units"
+      "Comment": ""
     },
     {
       "Key": "Reroll missed Attack Rolls when attacking from Flank or Rear",
@@ -664,7 +664,7 @@
     {
       "Key": "Won't Stay Down",
       "Translation": "",
-      "Comment": "Colloquial phrase for resilience"
+      "Comment": ""
     },
     {
       "Key": "Recover an extra model that died after each battle.",
@@ -883,6 +883,16 @@
     },
     {
       "Key": "Aura of Protection can be activated to affect all Knights",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Newly recruited units gain an additonal level",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "+3 range to Ranged Atacks.",
       "Translation": "",
       "Comment": ""
     }

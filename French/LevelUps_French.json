@@ -452,8 +452,8 @@
       "Comment": ""
     },
     {
-      "Key": "Newly recruited units gain an additonal level",
-      "Translation": "Les unités nouvellement recrutées gagnent un niveau supplémentaire",
+      "Key": "Newly recruited units gain an additional level",
+      "Translation": "",
       "Comment": ""
     },
     {
@@ -569,11 +569,6 @@
     {
       "Key": "Eagle Aspect",
       "Translation": "Aspect de l'Aigle",
-      "Comment": ""
-    },
-    {
-      "Key": "+3 range to Ranged Atacks.",
-      "Translation": "+3 de portée aux Attaques à Distance.",
       "Comment": ""
     },
     {
@@ -889,6 +884,16 @@
     {
       "Key": "Aura of Protection can be activated to affect all Knights",
       "Translation": "Aura de Protection peut être activée pour affecter tous les Chevaliers",
+      "Comment": ""
+    },
+    {
+      "Key": "Newly recruited units gain an additonal level",
+      "Translation": "Les unités nouvellement recrutées gagnent un niveau supplémentaire",
+      "Comment": ""
+    },
+    {
+      "Key": "+3 range to Ranged Atacks.",
+      "Translation": "+3 de portée aux Attaques à Distance.",
       "Comment": ""
     }
   ]

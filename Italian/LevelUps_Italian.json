@@ -885,6 +885,16 @@
       "Key": "Aura of Protection can be activated to affect all Knights",
       "Translation": "",
       "Comment": ""
+    },
+    {
+      "Key": "Newly recruited units gain an additonal level",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "+3 range to Ranged Atacks.",
+      "Translation": "",
+      "Comment": ""
     }
   ]
 }

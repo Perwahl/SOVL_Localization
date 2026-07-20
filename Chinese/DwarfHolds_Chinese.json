@@ -3,88 +3,88 @@
   "Translations": [
     {
       "Key": "Dwarf Holds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "矮人堡垒",
+      "Comment": "Literal faction name. '堡垒' means fortress/stronghold, fitting for dwarven settlements."
     },
     {
       "Key": "Dwarf Warriors",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "矮人战士",
+      "Comment": "Basic infantry unit. '战士' is the standard term for warrior in fantasy context."
     },
     {
       "Key": "Dwarf Veterans",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "矮人老兵",
+      "Comment": "Experienced infantry. '老兵' conveys seasoned, battle-hardened soldiers."
     },
     {
       "Key": "Dwarf Miners",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "矮人矿工",
+      "Comment": "Workers/laborers. Dwarves are renowned for mining in fantasy lore."
     },
     {
       "Key": "Dwarf Crossbows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "矮人弩手",
+      "Comment": "Crossbow unit. '弩手' is the standard term for crossbowmen."
     },
     {
       "Key": "Dwarf Handguns",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "矮人火枪手",
+      "Comment": "Gunpowder unit. '火枪手' means gunner/musketeer, fitting the early firearm aesthetic."
     },
     {
       "Key": "Dwarf Rangers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "矮人游侠",
+      "Comment": "Ranged scouts. '游侠' means ranger/wanderer, conveying mobility and skill."
     },
     {
       "Key": "Dwarf Cannon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "矮人大炮",
+      "Comment": "Artillery unit. Simple and direct term for heavy cannon."
     },
     {
       "Key": "Dwarf Bolt Thrower",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "矮人弩炮",
+      "Comment": "Siege weapon. '弩炮' combines crossbow and cannon concepts, fitting a hybrid siege weapon."
     },
     {
       "Key": "Dwarf Stonethrower",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "矮人投石机",
+      "Comment": "Siege weapon. '投石机' is the traditional term for catapult/trebuchet."
     },
     {
       "Key": "Dwarf Berserkers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "矮人狂战士",
+      "Comment": "Elite melee unit. '狂战士' conveys savage fury and combat prowess."
     },
     {
       "Key": "Deep Guard",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "深渊卫士",
+      "Comment": "Elite unit, suggesting underground/deep origins. '深渊卫士' conveys guardian of the depths."
     },
     {
       "Key": "Inferno Cannon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "地狱大炮",
+      "Comment": "Specialized artillery, likely fire-based. '地狱' means inferno/hell, emphasizing its destructive power."
     },
     {
       "Key": "Dwarf Flying Machine",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "矮人飞行器",
+      "Comment": "Unique unit. '飞行器' means flying machine/aircraft, maintaining the technological/steampunk vibe."
     },
     {
       "Key": "Dwarf Foreman",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "矮人工头",
+      "Comment": "Leader unit, likely from worker ranks. '工头' means foreman/overseer, fitting for a dwarven leader."
     },
     {
       "Key": "Ranger Captain",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "游侠队长",
+      "Comment": "Elite ranged leader. '队长' means captain/commander, maintaining consistency with ranger terminology."
     },
     {
       "Key": "Dwarf Engineer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "矮人工程师",
+      "Comment": "Technical specialist. '工程师' means engineer, reflecting dwarven craftsmanship and technology."
     }
   ]
 }
