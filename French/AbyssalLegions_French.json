@@ -8,8 +8,8 @@
     },
     {
       "Key": "Northmen Axe",
-      "Translation": "Haches Nordiques",
-      "Comment": "Corrupted northern barbarian axe warriors"
+      "Translation": "Haches Nordiques", Guerriers nordiques or Hordes Nordiques
+      "Comment": "Corrupted northern barbarian axe warriors" 'Haches Nordiques' means more of a weapon made in the North (but it can be used as you do, it's more of a "Battalion name" type)
     },
     {
       "Key": "Abyssal Warriors",
@@ -18,7 +18,7 @@
     },
     {
       "Key": "Dragon Spawn",
-      "Translation": "Géniture Draconique",
+      "Translation": "Géniture Draconique", Progénu
       "Comment": "Corrupted dragon-like creatures"
     },
     {
@@ -49,7 +49,7 @@
     {
       "Key": "Devilspawn",
       "Translation": "Géniture Diabolique",
-      "Comment": "Lesser demons"
+      "Comment": "Lesser demons" Progéniture Diabolique (diablo like) ou Progéniture infernale (from hell)
     },
     {
       "Key": "War Mammoth",
