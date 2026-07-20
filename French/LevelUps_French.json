@@ -213,12 +213,12 @@
     },
     {
       "Key": "Greater Regrowth",
-      "Translation": "Recroissance Supérieure",
+      "Translation": "croissance Supérieure",
       "Comment": ""
     },
     {
       "Key": "Upgrades Regrowth to target any unit.",
-      "Translation": "Améliore Recroissance pour cibler n'importe quelle unité.",
+      "Translation": "Améliore croissance pour cibler n'importe quelle unité.",
       "Comment": ""
     },
     {
@@ -268,7 +268,7 @@
     },
     {
       "Key": "Upgrades Thousand Mouths to Power 3.",
-      "Translation": "Améliore Mille Bouches à Puissance 3.",
+      "Translation": "Améliore Mille Geules à Puissance 3.",
       "Comment": ""
     },
     {
@@ -328,7 +328,7 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Monsters.",
-      "Translation": "Relancer les Attaques à Distance et de Combat contre les Monstres.",
+      "Translation": "Relance les Attaques à Distance et de Combat contre les Monstres.",
       "Comment": ""
     },
     {
@@ -338,7 +338,7 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Ranged Units",
-      "Translation": "Relancer les Attaques à Distance et de Combat contre les Unités à Distance",
+      "Translation": "Relance les Attaques à Distance et de Combat contre les Unités à Distance",
       "Comment": ""
     },
     {
@@ -348,7 +348,7 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "Relancer les Attaques à Distance et de Combat contre la Cavalerie et les Chars",
+      "Translation": "Relance les Attaques à Distance et de Combat contre la Cavalerie et les Chars",
       "Comment": ""
     },
     {
@@ -418,7 +418,7 @@
     },
     {
       "Key": "Fearless (Ignores penalties to Discipline tests).",
-      "Translation": "Intrep  ide (Ignore les pénalités aux tests de Discipline).",
+      "Translation": "Intrépide (Ignore les pénalités aux tests de Discipline).",
       "Comment": ""
     },
     {
@@ -498,7 +498,7 @@
     },
     {
       "Key": "Reduce Crumble rolls by 1",
-      "Translation": "Réduire les jets d'Éffondrement de 1",
+      "Translation": "Réduit les jets d'Éffondrement de 1",
       "Comment": ""
     },
     {
@@ -628,7 +628,7 @@
     },
     {
       "Key": "+10 gold when looting",
-      "Translation": "+10 or lors du pillage",
+      "Translation": "+10 ors lors du pillage",
       "Comment": ""
     },
     {
@@ -648,7 +648,7 @@
     },
     {
       "Key": "Reroll missed Attack Rolls when attacking from Flank or Rear",
-      "Translation": "Relancer les jets d'Attaque ratés lors d'une attaque de Flanc ou d'Arrière",
+      "Translation": "Relance les jets d'Attaque ratés lors d'une attaque de Flanc ou d'Arrière",
       "Comment": ""
     },
     {
@@ -658,7 +658,7 @@
     },
     {
       "Key": "Activate once per battle, +1 Attack and Fearless.",
-      "Translation": "Active une fois par bataille, +1 Attaque et Intrépide.",
+      "Translation": "Activée une fois par bataille, +1 Attaque et Intrépide.",
       "Comment": ""
     },
     {
@@ -668,7 +668,7 @@
     },
     {
       "Key": "Recover an extra model that died after each battle.",
-      "Translation": "Récupérer une figurine supplémentaire morte après chaque bataille.",
+      "Translation": "Récupére une figurine supplémentaire morte après chaque bataille.",
       "Comment": ""
     },
     {
@@ -743,7 +743,7 @@
     },
     {
       "Key": "+1 Damage Save vs Ranged",
-      "Translation": "+1 Sauvegarde de Dégâts contre Distance",
+      "Translation": "+1 Sauvegarde de Dégâts contre les Dégâts à Distance",
       "Comment": ""
     },
     {
