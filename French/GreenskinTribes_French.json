@@ -43,7 +43,7 @@
     },
     {
       "Key": "Goblin Shortbows",
-      "Translation": "Archers Courts Gobelins",
+      "Translation": "Archers Courts Gobelins", Short Goblins with Bows litteraly. > Archers Gobelins
       "Comment": "Goblin archers with shortbows"
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "Key": "Goblin Stonethrower",
-      "Translation": "Lance-Pierres Gobelin",
+      "Translation": "Lance-Pierres Gobelin", Keep it like this, I said to use 'Catapulte' for the dwarves, but here 'lance-pierres' is better, it gives the idea of an unrefined war machine
       "Comment": "Crude goblin artillery"
     },
     {
