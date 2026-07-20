@@ -40,6 +40,10 @@
       "Key": "Newt Ambushers",
       "Translation": "Embusqueurs Tritons",
       "Comment": "Lizardmen ambush party"
+      "Triton" is very straightforward as an amphibious lizard. It fit, i just never thought about it.
+Lézard is more versatile.
+Embusqueur isn't a real french word. You can use 'Tritons embusqués' as in in ambush. 'Tritons assaillants' is more aggressive, it means Newt assailing the ennemy.
+
     },
     {
       "Key": "Mossbeard",
@@ -54,7 +58,7 @@
     {
       "Key": "Goblin Warparty",
       "Translation": "Parti de Guerre Gobelin",
-      "Comment": ""
+      "Comment": "" Bande de Guerre Gobeline (Parti is like political)
     },
     {
       "Key": "Orc Raiders",
@@ -74,7 +78,7 @@
     {
       "Key": "Vermin Tunnelers",
       "Translation": "Fouisseurs de Vermine",
-      "Comment": "Ratkin tunnel diggers"
+      "Comment": "Ratkin tunnel diggers" Vermine fouisseuses
     },
     {
       "Key": "Darkborn Slavers",
@@ -94,12 +98,12 @@
     {
       "Key": "Colossal Dreadmaw",
       "Translation": "Gueule de l'Effroi Colossale",
-      "Comment": "Giant monster name"
+      "Comment": "Giant monster name"  Gueule Effroyable or Gueule Colossale
     },
     {
       "Key": "Knight Of Flowers",
       "Translation": "Chevalier des Fleurs",
-      "Comment": "Chivalric knight title"
+      "Comment": "Chivalric knight title"  Chevalier aux Fleurs
     },
     {
       "Key": "Korgak",
@@ -139,7 +143,7 @@
     {
       "Key": "Marius the Undying",
       "Translation": "Marius l'Impérissable",
-      "Comment": "Vampire/undead lord"
+      "Comment": "Vampire/undead lord" You can use 'L'Eternel' (eternal) or 'L'Immortel' (undying) instead. It's just a question about sonority but Impérissable is ok
     },
     {
       "Key": "Lirael the Ancient",
@@ -173,7 +177,7 @@
     },
     {
       "Key": "Risen Invaders",
-      "Translation": "Envahisseurs Ressuscités",
+      "Translation": "Envahisseurs Ressuscités", Envahisseurs revenants
       "Comment": "Undead risen army"
     },
     {
@@ -183,12 +187,12 @@
     },
     {
       "Key": "Brood Swarm",
-      "Translation": "Nuée de Couvée",
+      "Translation": "Nuée de Couvée", Nuée reptilienne
       "Comment": "Lizardmen/reptilian swarm"
     },
     {
       "Key": "Dreadnought Fleet",
-      "Translation": "Flotte Cuirassée",
+      "Translation": "Flotte Cuirassée",  Flotte de Cuirassés
       "Comment": "Powerful naval force"
     },
     {
@@ -253,7 +257,7 @@
     },
     {
       "Key": "Gravethorn",
-      "Translation": "Épine-Tombale",
+      "Translation": "Épine-Tombale", 
       "Comment": "Undead/vampire lord name"
     },
     {
@@ -273,7 +277,7 @@
     },
     {
       "Key": "Master Itch",
-      "Translation": "Maître Démangeaison",
+      "Translation": "Maître Démangeaison",  Maître de la Démangeaison, Maître de la Pestilence
       "Comment": "Ratkin clan master with plague theme"
     },
     {
