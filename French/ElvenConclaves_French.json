@@ -13,7 +13,7 @@
     },
     {
       "Key": "Elf City Guard",
-      "Translation": "Garde Urbaine Elfe",
+      "Translation": "Garde Urbaine Elfe", > Patrouille Urbaine Elfe or Défenseur de la Cité Elf seems more poetic
       "Comment": "City defenders"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "Key": "Elf Watchers",
-      "Translation": "Guetteurs Elfes",
+      "Translation": "Guetteurs Elfes", > Sentinelles Elfes is mor on the war side both are great
       "Comment": "Vigilant scouts and sentinels"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "Key": "Elf Reavers",
-      "Translation": "Écumeurs Elfes",
+      "Translation": "Écumeurs Elfes", > Francs-Tireurs Elfes or Tirailleurs Elfes
       "Comment": "Fast light cavalry raiders"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "Key": "Elf Mage",
-      "Translation": "Mage Elfe",
+      "Translation": "Mage Elfe", Lame-Magicien Elf (Lame-Magicienne Elfe) for poetry or Mage de Bataille
       "Comment": "Elven wizard"
     },
     {
