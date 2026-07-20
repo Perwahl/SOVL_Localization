@@ -13,7 +13,7 @@
     },
     {
       "Key": "Elf City Guard",
-      "Translation": "Garde Urbaine Elfe",
+      "Translation": "Défenseur de la Cité Elf",
       "Comment": "City defenders"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "Key": "Elf Watchers",
-      "Translation": "Guetteurs Elfes",
+      "Translation": "Sentinelles Elfes",
       "Comment": "Vigilant scouts and sentinels"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "Key": "Elf Reavers",
-      "Translation": "Écumeurs Elfes",
+      "Translation": "Francs-Tireurs Elfes",
       "Comment": "Fast light cavalry raiders"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "Key": "Elf Mage",
-      "Translation": "Mage Elfe",
+      "Translation": "Lame-Magicien Elf",
       "Comment": "Elven wizard"
     },
     {
