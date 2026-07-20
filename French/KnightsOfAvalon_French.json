@@ -18,12 +18,12 @@
     },
     {
       "Key": "Halberd Militia",
-      "Translation": "Milice à la Hallebarde",
+      "Translation": "Milice à la Hallebarde", Hallebardiers de la Milice is more cool but both are ok
       "Comment": "Militia armed with halberds"
     },
     {
       "Key": "Spear Militia",
-      "Translation": "Milice à la Lance",
+      "Translation": "Milice à la Lance", Same as the halberd, Lanciers de la Milice seems better
       "Comment": "Basic spear-wielding militia"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "Key": "Sworn Knights",
-      "Translation": "Chevaliers Jurés",
+      "Translation": "Chevaliers Jurés", Chevaliers au Serment
       "Comment": "Knights who have taken sacred oaths"
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "Key": "Trebuchet",
-      "Translation": "Trébuchet",
+      "Translation": "Trébuchet", the superior siege engine
       "Comment": "Siege catapult"
     },
     {
