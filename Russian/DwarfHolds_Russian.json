@@ -3,88 +3,88 @@
   "Translations": [
     {
       "Key": "Dwarf Holds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Крепости Гномов",
+      "Comment": "Plural form referring to dwarf fortresses collectively"
     },
     {
       "Key": "Dwarf Warriors",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Гномьи Воины",
+      "Comment": "Standard infantry unit; formal adjective for dwarf-related"
     },
     {
       "Key": "Dwarf Veterans",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Гномьи Ветераны",
+      "Comment": "Experienced, elite infantry unit"
     },
     {
       "Key": "Dwarf Miners",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Гномьи Шахтеры",
+      "Comment": "Worker unit that excavates; maintains connection to dwarf heritage"
     },
     {
       "Key": "Dwarf Crossbows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Гномьи Арбалетчики",
+      "Comment": "Ranged infantry with crossbows; military term for crossbow wielders"
     },
     {
       "Key": "Dwarf Handguns",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Гномьи Аркебузиры",
+      "Comment": "Firearms infantry; period-appropriate term for musketeers"
     },
     {
       "Key": "Dwarf Rangers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Гномьи Разведчики",
+      "Comment": "Scout/ranger unit; more grounded than transliterating English term"
     },
     {
       "Key": "Dwarf Cannon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Гномья Пушка",
+      "Comment": "Artillery piece; singular form"
     },
     {
       "Key": "Dwarf Bolt Thrower",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Гномий Болтомет",
+      "Comment": "Heavy crossbow weapon; combines bolt + thrower into single term"
     },
     {
       "Key": "Dwarf Stonethrower",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Гномий Катапульт",
+      "Comment": "Siege weapon; using established term for stone-throwing artillery"
     },
     {
       "Key": "Dwarf Berserkers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Гномьи Берсерки",
+      "Comment": "Elite melee warriors; term retained for recognizable mythological context"
     },
     {
       "Key": "Deep Guard",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Стражи Глубин",
+      "Comment": "Elite guard unit from dwarf mines; 'deep' refers to underground fortresses"
     },
     {
       "Key": "Inferno Cannon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Адская Пушка",
+      "Comment": "Special fire-based artillery; 'infernal' conveys magical/devastating nature"
     },
     {
       "Key": "Dwarf Flying Machine",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Гномья Летающая Машина",
+      "Comment": "Distinctive dwarf-tech unit; maintains fantastical tone"
     },
     {
       "Key": "Dwarf Foreman",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Гномий Мастер",
+      "Comment": "Leader unit; 'master' implies authority and craftsmanship"
     },
     {
       "Key": "Ranger Captain",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Капитан Разведчиков",
+      "Comment": "Commander of scout/ranger units; clear rank designation"
     },
     {
       "Key": "Dwarf Engineer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Гномий Инженер",
+      "Comment": "Technical specialist unit; reflects dwarf civilization's engineering prowess"
     }
   ]
 }

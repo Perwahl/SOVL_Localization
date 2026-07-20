@@ -2315,6 +2315,21 @@
       "Key": "Language",
       "Translation": "Langue",
       "Comment": "UI-Einstellung"
+    },
+    {
+      "Key": "Elites",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Machines of War",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "113pts",
+      "Translation": "",
+      "Comment": ""
     }
   ]
 }
