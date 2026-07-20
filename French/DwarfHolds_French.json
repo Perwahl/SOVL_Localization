@@ -7,7 +7,7 @@
       "Comment": "Faction name - Forteresses for the mountain strongholds"
     },
     {
-      "Key": "Dwarf Warriors",
+      "Key": "Dwarf Warriors", 
       "Translation": "Guerriers Nains",
       "Comment": "Core infantry unit"
     },
@@ -48,7 +48,7 @@
     },
     {
       "Key": "Dwarf Stonethrower",
-      "Translation": "Lance-Pierres Nain",
+      "Translation": "Lance-Pierres Nain", > Catapulte Naine speak more of a refined war engine
       "Comment": "Stone artillery"
     },
     {
