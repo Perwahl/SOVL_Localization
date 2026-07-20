@@ -3,7 +3,7 @@
   "Translations": [
     {
       "Key": "Dead Nations",
-      "Translation": "Nations Mortes",
+      "Translation": "Nations Mortes", Empire des Morts, Nation des Morts. "Nations mortes" means it is the Nation that is dead. But it may work like that
       "Comment": "Undead kingdoms risen from ancient graves"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "Key": "Wight Guard",
-      "Translation": "Garde des Nécrophages",
+      "Translation": "Garde des Nécrophages", > Gardien des Morts (or you mean the guard some flesh eaters (nécrophage) like a vampire ?)
       "Comment": "Elite undead tomb guardians"
     },
     {
