@@ -18,12 +18,12 @@
     },
     {
       "Key": "Plague Walkers",
-      "Translation": "Marcheurs de Peste",
-      "Comment": "Disease-bearing demons"
+      "Translation": "Marcheurs de Peste", Porteurs de Peste
+      "Comment": "Disease-bearing demons" The idea of bringing plague instead of walking with plague
     },
     {
       "Key": "Plaguelings",
-      "Translation": "Pestiferons",
+      "Translation": "Pestiferons", Pestiférés des Abysses 
       "Comment": "Small plague demons, diminutive plague creatures"
     },
     {
