@@ -359,47 +359,47 @@
     {
       "Key": "Favoured by Trickery. Unit has Ambush Deployment and +1 Move Speed",
       "Translation": "Favorisé par Trickery. L'unité a le déploiement en embuscade and +1 vitesse de mouvement",
-      "Comment": ""
+      "Comment": "Favorisé par le Dieu de la Ruse. L'unité a le déploiement en Embuscade et +1 vitesse de mouvement."
     },
     {
       "Key": "Favoured by Decay. +1 Wounds. -1 Move Speed.",
       "Translation": "Favorisé par Decay. +1 Blessure. -1 Move Speed.",
-      "Comment": ""
+      "Comment": "Favorisé par le Dieu de la Décadence. +1 Blessure. -1 à la vitesse de mouvement"
     },
     {
       "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.",
       "Translation": "Once par bataille, all friendly units with Gift of Decay relancer ratés sauvegardes de dégâts.",
-      "Comment": ""
+      "Comment": "Une fois par bataille, toutes les unités amies avec le Don de la Décadence relances leurs jets de sauvegardes de dégât ratés."
     },
     {
       "Key": "Once per battle, all friendly units with Gift of Trickery gain +3 move speed and Cover for one turn.",
       "Translation": "Once par bataille, all friendly units with Gift of Trickery gain +3 move speed and Cover pour un tour.",
-      "Comment": ""
+      "Comment": "Une fois par bataille, toutes les unités amies avec le Don de la Ruse gagnent +3 Mouvement et A Couvert pour un tour"
     },
     {
       "Key": "Ignores movement penalty from Heavy Armor.\nWhen deployed 3 wide, models in flanks can attack as if in the front rank.",
       "Translation": "Ignorers pénalité de déplacement from Armure Lourde.\nWhen deployed 3 wide, models in flanks can attack as if in the front rank.",
-      "Comment": ""
+      "Comment": "Ignore les pénalités de déplacement pour port d'Armure Lourde. \nQuand l'unité est déployée sur 3 figurines, les figurines sur les flancs peuvent attaquer comme si elles étaient au premier rang"
     },
     {
       "Key": "Reroll all successful Attack and Ranged Attack rolls against this unit.\nIgnores Difficult Terrain.",
       "Translation": "Relancer all réussis Attaque and jets d'Attaque à Distance against cette unité.\nIgnorers Terrain Difficile.",
-      "Comment": ""
+      "Comment": "Relance tout les jets d'Attaque à Distance et au Corps à Corps réussis contre cette unité.\Ignores les Terrain Difficile."
     },
     {
       "Key": "Maiden and retinue rerolls 1s on Damage Saves.",
       "Translation": "Maiden and retinue rerolls 1s on Sauvegardes de Dégâts.",
-      "Comment": ""
+      "Comment": "La Pucelle et sa Suite relance les 1s sur leurs Sauvegardes de Dégât."
     },
     {
       "Key": "Caster has +1 Power and deals double wounds against Monsters this turn.",
       "Translation": "Caster has +1 Puissance and deals double wounds against Monsters ce tour.",
-      "Comment": ""
+      "Comment": "Le Lanceur de Sort gagne +1 Puissance et inglige le double de dégâts contre les Monstres ce tour."
     },
     {
       "Key": "Paladin and retinue rerolls 1s on Attack Rolls.",
       "Translation": "Paladin and retinue rerolls 1s on jets d'Attaque.",
-      "Comment": ""
+      "Comment": "Le Paladin et sa Suite relance les 1s sur leurs jets d'Attaque."
     },
     {
       "Key": "Range 13. 3D3 Power 3.",
@@ -414,12 +414,12 @@
     {
       "Key": "Always counts as being in Cover. -3 Defense in Close Combat. Unit can't charge.",
       "Translation": "Always compte comme étant à Couvert. -3 Défense in Close Combat. Unit can't charge.",
-      "Comment": "Pavise/static defense weapon"
+      "Comment": "Pavise/static defense weapon" "Compte comme étant toujours à Couvert. -3 Défence au Corps à Corps. L'Unité ne peut pas charger."
     },
     {
       "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 3+.",
       "Translation": "Bonus de Charge: +1 Puissance \nSauvegardes de Dégâts against cette arme ne sont jamais meilleures que 3+.",
-      "Comment": "Armor-piercing lance"
+      "Comment": "Armor-piercing lance" Bonus de Charge: +1 Puissance \n Les Sauvegardes de Dégâts contre cette arme ne sont jamais meilleures que 3+."
     },
     {
       "Key": "+1 Defense. Charge Bonus: +3 Power",
