@@ -344,7 +344,7 @@
     {
       "Key": "Thousand Mouths",
       "Translation": "Mille Bouches",
-      "Comment": "Horrific monster ability"
+      "Comment": "Horrific monster ability" "Mille Geules" (Geule is the animal/monster name for the mouth)
     },
     {
       "Key": "Shroud",
@@ -359,7 +359,7 @@
     {
       "Key": "Power Of Many",
       "Translation": "Pouvoir du Nombre",
-      "Comment": "Strength in numbers"
+      "Comment": "Strength in numbers" "Pouvoir par le nombre"
     },
     {
       "Key": "Explosive Charges",
@@ -464,7 +464,7 @@
     {
       "Key": "Raise Dead",
       "Translation": "Lever les Morts",
-      "Comment": "Classic necromancy spell"
+      "Comment": "Classic necromancy spell" "Relever les morts"
     },
     {
       "Key": "Javelins",
@@ -579,7 +579,7 @@
     {
       "Key": "Cruel Motivation",
       "Translation": "Motivation Cruelle",
-      "Comment": "Evil leadership through fear"
+      "Comment": "Evil leadership through fear" "Cruelle Motivation"
     },
     {
       "Key": "Deadly Strike",
@@ -979,17 +979,17 @@
     {
       "Key": "Elf Bow Mastery",
       "Translation": "Maîtrise de l'Arc Elfique",
-      "Comment": ""
+      "Comment": "" "Maîtrise Elfique de l'Arc" (the elf master the bow. Maitrise de l'arc elfique : mastery of the elf bow)
     },
     {
       "Key": "Elf Spear Mastery",
       "Translation": "Maîtrise de la Lance Elfique",
-      "Comment": ""
+      "Comment": "" See above
     },
     {
       "Key": "Elf Steed Mastery",
       "Translation": "Maîtrise de la Monture Elfique",
-      "Comment": ""
+      "Comment": "" See above
     },
     {
       "Key": "Eagle Aspect",
