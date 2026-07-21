@@ -19,17 +19,17 @@
     {
       "Key": "Reroll failed Discipline Tests",
       "Translation": "Relance les tests ratés de Discipline",
-      "Comment": ""
+      "Comment": "" "Relance les tests de Discipline ratés"
     },
     {
       "Key": "Unit counts as being in Cover. (-1 to Ranged attack rolls against it).",
       "Translation": "L'Unité compte comme étant à Couvert. (-1 aux Attaques à distance rolls contre elle).",
-      "Comment": ""
+      "Comment": "" L'Unité compte comme étant à Couvert. (-1 aux jets d'Attaques à distance contre elle)
     },
     {
       "Key": "+1 Combat Score",
       "Translation": "+1 Score de Combat",
-      "Comment": ""
+      "Comment": "+1 au Score de Combat"
     },
     {
       "Key": "Unit has +1 Attack this turn. Activate once per battle.",
@@ -49,7 +49,7 @@
     {
       "Key": "If a Commander is part of this unit it re-rolls failed Discipline tests.",
       "Translation": "Si un Commandant fait partie de cette unité, elle relance les tests ratés de Discipline.",
-      "Comment": ""
+      "Comment": "Si un Commandant fait partie de cette unité, elle relance les tests de Discipline ratés"
     },
     {
       "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 4+.",
@@ -94,7 +94,7 @@
     {
       "Key": "Reroll failed damage saves.",
       "Translation": "Relance les sauvegardes ratées de dégâts.",
-      "Comment": ""
+      "Comment": "Relance les sauvegardes de dégâts ratées."
     },
     {
       "Key": "+1 Discipline",
@@ -109,7 +109,7 @@
     {
       "Key": "Opponent re-rolls successful damage saves.",
       "Translation": "L'adversaire relance les sauvegardes réussies de dégâts.",
-      "Comment": ""
+      "Comment": "L'adversaire relance les sauvegardes de dégâts réussies."
     },
     {
       "Key": "+1 Power.",
@@ -149,7 +149,7 @@
     {
       "Key": "Target unit rerolls failed damage saves for one turn.",
       "Translation": "L'unité ciblée relance les sauvegardes ratées de dégâts pour un tour.",
-      "Comment": ""
+      "Comment": "L'unité ciblée relance les sauvegardes de dégâts ratées pour un tour."
     },
     {
       "Key": "Unit recovers all missing wounds at end of turn.",
@@ -244,7 +244,7 @@
     {
       "Key": "Reduce Crumble by 1. Regeneration (restore all lost wounds at end of turn).",
       "Translation": "Reduis la déterioration de 1. Regeneration (restaure toutes les blessures à la fin du tour).",
-      "Comment": ""
+      "Comment": "Reduis la Déterioration de 1. Régénération (restaure toutes les blessures à la fin du tour)."
     },
     {
       "Key": "Increase the move speed of target Reanimated unit by 3 until its next combat.",
@@ -264,7 +264,7 @@
     {
       "Key": "Raise D3+3 models on a Zombie or Skeleton Warrior, Spear or Archer unit. ",
       "Translation": "Relève D3+3 modéles d'une unité de Zombie ou de Squelette Guerrier, Lancier ou Archer. ",
-      "Comment": ""
+      "Comment": "Relève D3+3 modèles d'une unité de Zombie ou de Squelette Guerrier, Lancier ou Archer."
     },
     {
       "Key": "Target unit loses D3 wounds and gains +1 Attack this turn.",
@@ -369,7 +369,7 @@
     {
       "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.",
       "Translation": "Once par bataille, all friendly units with Gift of Decay relancer ratés sauvegardes de dégâts.",
-      "Comment": ""
+      "Comment": "Une fois par bataille, toutes les unités amies avec  "
     },
     {
       "Key": "Once per battle, all friendly units with Gift of Trickery gain +3 move speed and Cover for one turn.",
