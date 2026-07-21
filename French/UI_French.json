@@ -178,7 +178,7 @@
     },
     {
       "Key": "SOVL",
-      "Translation": "SOVL",
+      "Translation": "SOVL", SOVL
       "Comment": ""
     },
     {
@@ -193,7 +193,7 @@
     },
     {
       "Key": "Trail Of Death",
-      "Translation": "Sentier de la mort",
+      "Translation": "Sentier de la mort", Sentier de la Mort
       "Comment": ""
     },
     {
@@ -548,7 +548,7 @@
     },
     {
       "Key": "Cantrips",
-      "Translation": "Tours de magie",
+      "Translation": "Tours de magie", Magie Mineure, Magie Secondaire
       "Comment": "Minor magic effects"
     },
     {
@@ -688,7 +688,7 @@
     },
     {
       "Key": "The lost regiment is found! Some soldiers are missing, but those who remain have strenghtened resolve.",
-      "Translation": "Le régiment perdu est retrouvé ! Certains soldats manquent, mais ceux qui restent ont renforcé leur détermination.",
+      "Translation": "Le régiment perdu est retrouvé ! Certains soldats manquent, mais ceux qui restent ont renforcé leur détermination.", ", mais ceux qui restent voient leur détermination renforcée."
       "Comment": "Campaign event - positive outcome"
     },
     {
@@ -793,7 +793,7 @@
     },
     {
       "Key": "Great Weapon <color=#B3F333>+1",
-      "Translation": "Grande arme <color=#B3F333>+1",
+      "Translation": "Grande arme <color=#B3F333>+1", Arme lourde ??
       "Comment": ""
     },
     {
@@ -948,7 +948,7 @@
     },
     {
       "Key": "Guldan the Conqueror",
-      "Translation": "Guldan le conquérant",
+      "Translation": "Guldan le conquérant", Guldan le Conquérant
       "Comment": "Proper name with title translation"
     },
     {
@@ -1108,7 +1108,7 @@
     },
     {
       "Key": "Shaving a dwarf can seem like a fun idea at the time, but it's not worth the consequences in the long run.",
-      "Translation": "Raser un nain peut sembler amusant sur le moment, mais les conséquences ne valent pas le coup à long terme.",
+      "Translation": "Raser un nain peut sembler amusant sur le moment, mais les conséquences ne valent pas le coup à long terme.",  "Raser un nain peut sembler amusant sur le moment, mais les conséquences n'en valent pas le coup à long terme."
       "Comment": "Humorous loading screen tip"
     },
     {
@@ -1243,7 +1243,7 @@
     },
     {
       "Key": "Torin Sheildbreaker",
-      "Translation": "Torin le briseur de boucliers",
+      "Translation": "Torin le briseur de boucliers", Torin le Briseur de boucliers
       "Comment": "Character name - translate title part"
     },
     {
@@ -1808,7 +1808,7 @@
     },
     {
       "Key": "Ask the Ancestors for Strength",
-      "Translation": "Demandez la force aux ancêtres",
+      "Translation": "Demandez la force aux ancêtres", 'Demandez leur force aux ancêtres' (ask the strenght of the ancestors) 'Demandez de la force aux ancêtres'(closer to the english wording)
       "Comment": ""
     },
     {
@@ -1888,7 +1888,7 @@
     },
     {
       "Key": "A hideout in the trees, \nonly known to the Deepwood Elves",
-      "Translation": "Une cachette dans les arbres, \nconnue seulement des elfes de Profondebois",
+      "Translation": "Une cachette dans les arbres, \nconnue seulement des elfes de Profondebois", 'des elfes de la Forêt Profonde' to stay true to the Deepwood translation
       "Comment": "Deepwood faction event"
     },
     {
@@ -1918,7 +1918,7 @@
     },
     {
       "Key": "Deadly arrows crafted by the Deepwood Elves. Pick one.",
-      "Translation": "Flèches mortelles fabriquées par les elfes de Profondebois. Choisissez-en une.",
+      "Translation": "Flèches mortelles fabriquées par les elfes de Profondebois. Choisissez-en une.", see above
       "Comment": ""
     },
     {
@@ -1978,7 +1978,7 @@
     },
     {
       "Key": "Banner of Big Moon",
-      "Translation": "Bannière de la grande lune",
+      "Translation": "Bannière de la grande lune", Bannière de la Grande Lune
       "Comment": "Item name - Greenskin faction"
     },
     {
@@ -2228,7 +2228,7 @@
     },
     {
       "Key": "fled off the board!",
-      "Translation": "a fui hors du plateau !",
+      "Translation": "a fui hors du plateau !", A fuie hors du plateau if we speak about 'an unit'
       "Comment": "Unit routed off table"
     },
     {
