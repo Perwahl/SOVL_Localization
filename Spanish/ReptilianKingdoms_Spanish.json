@@ -3,83 +3,83 @@
   "Translations": [
     {
       "Key": "Reptilian Kingdoms",
-      "Translation": "",
-      "Comment": "Königreiche = kingdoms. Ancient lizard-men empires."
+      "Translation": "Reinos Saurios",
+      "Comment": "Saurios = saurian/lizard. Reinos = kingdoms. Ancient lizard-men empires."
     },
     {
       "Key": "Saurian Warriors",
-      "Translation": "",
-      "Comment": "Saurier = saurian/lizard. Core lizard-men warriors."
+      "Translation": "Guerreros Saurios",
+      "Comment": "Core lizard-men warriors. Guerreros = warriors, Saurios = saurian."
     },
     {
       "Key": "Crocolisk Bruisers",
-      "Translation": "",
-      "Comment": "Krokolisk (crocodile-like). Schläger = bruisers. Heavy reptilian warriors."
+      "Translation": "Golpeadores Crocólidos",
+      "Comment": "Heavy reptilian warriors. Golpeadores = bruisers/strikers, Crocólidos = crocodile-like creatures."
     },
     {
       "Key": "Newt Braves",
-      "Translation": "",
-      "Comment": "Molch = newt. Krieger = braves/warriors. Lesser lizard troops."
+      "Translation": "Bravos Tritones",
+      "Comment": "Lesser lizard troops. Bravos = braves/warriors, Tritones = newts. Uses classical Spanish naming."
     },
     {
       "Key": "Saurian Spear",
-      "Translation": "",
-      "Comment": "Spear-wielding saurian infantry."
+      "Translation": "Lanzadores Saurios",
+      "Comment": "Spear-wielding saurian infantry. Lanzadores = spear-throwers/lancers."
     },
     {
       "Key": "Raptor Riders",
-      "Translation": "",
-      "Comment": "Fast cavalry riding velociraptors. Lightning strikes."
+      "Translation": "Montadores de Raptores",
+      "Comment": "Fast cavalry riding velociraptors. Lightning strikes. Montadores = riders."
     },
     {
       "Key": "Pterodactyl Riders",
-      "Translation": "",
-      "Comment": "Flying cavalry on pterodactyls. Air superiority."
+      "Translation": "Jinetes Pterodáctilo",
+      "Comment": "Flying cavalry on pterodactyls. Air superiority. Jinetes = riders."
     },
     {
       "Key": "Newt Skirmishers",
-      "Translation": "",
-      "Comment": "Light skirmishing troops."
+      "Translation": "Tiradores Tritones",
+      "Comment": "Light skirmishing troops. Tiradores = skirmishers/shooters."
     },
     {
       "Key": "Firelizard",
-      "Translation": "",
-      "Comment": "Fire-breathing lizard monster. Feuer = fire, Eidechse = lizard."
+      "Translation": "Lagarto Ígneo",
+      "Comment": "Fire-breathing lizard monster. Ígneo = fiery/igneous. Suggests mythical heat and power."
     },
     {
       "Key": "Triceratops",
-      "Translation": "",
-      "Comment": "Kept as dinosaur name. Massive horned beast."
+      "Translation": "Triceratops",
+      "Comment": "Kept as dinosaur name. Massive horned beast. Scientific name translates equally to Spanish."
     },
     {
       "Key": "Jungle Swarm",
-      "Translation": "",
-      "Comment": "Swarm of small reptilian creatures from the jungle."
+      "Translation": "Enjambre de la Selva",
+      "Comment": "Swarm of small reptilian creatures from the jungle. Enjambre = swarm. Fantasy wargame terminology."
     },
     {
       "Key": "Dreadmaw",
-      "Translation": "",
-      "Comment": "Schrecken = dread, Maul = maw. Terrifying predator."
+      "Translation": "Fauces del Terror",
+      "Comment": "Terrifying predator. Fauces = fanged jaws/maw, Terror = dread. Evokes mythical menace."
     },
     {
       "Key": "Tyrannosaur",
-      "Translation": "",
-      "Comment": "Kept as dinosaur name. King of the lizards."
+      "Translation": "Tiranosaurio",
+      "Comment": "King of the lizards. Tiranosaurio = Spanish form of tyrannosaur. Scientific name widely recognized."
     },
     {
       "Key": "Newt Priest",
-      "Translation": "",
-      "Comment": "Religious leader of the lesser reptilians."
+      "Translation": "Sacerdote Tritón",
+      "Comment": "Religious leader of the lesser reptilians. Sacerdote = priest. Formal, serious tone for wargame."
     },
     {
       "Key": "Saurian Warlord",
-      "Translation": "",
-      "Comment": "Kriegsherr = warlord. Powerful military commander."
+      "Translation": "Señor de la Guerra Saurio",
+      "Comment": "Powerful military commander. Señor de la Guerra = warlord (literal: lord of war). Conveys authority and military might."
     },
     {
       "Key": "Ancient Toad",
-      "Translation": "",
-      "Comment": "Uralt = ancient. Kröte = toad. Mystical amphibian sage."
+      "Translation": "Sapo Ancestral",
+      "Comment": "Mystical amphibian sage. Ancestral = ancient/primal. Emphasizes mystical and primordial nature."
     }
   ]
 }

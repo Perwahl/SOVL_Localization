@@ -3,93 +3,93 @@
   "Translations": [
     {
       "Key": "Greenskin Tribes",
-      "Translation": "",
-      "Comment": "Literal translation maintaining the fantasy wargame tone. Grünhaut is the standard German term for greenskins."
+      "Translation": "Tribù Pelleverde",
+      "Comment": "Greenskin essence. 'Pelleverde' combines 'pelle' (skin) and 'verde' (green) to convey fantasy tone."
     },
     {
       "Key": "Orc Warriors",
-      "Translation": "",
-      "Comment": "Standard compound word for Orc Warriors. Keeps the brutal and direct feel."
+      "Translation": "Guerrieri Orcheschi",
+      "Comment": "Brutal warriors. Direct and forceful translation maintaining orc warrior aesthetic."
     },
     {
       "Key": "Orc Brutes",
-      "Translation": "",
-      "Comment": "Schläger conveys brutality and thuggish nature, fitting for Orc brutes."
+      "Translation": "Orchi Brutali",
+      "Comment": "Savage strength. 'Brutali' conveys thuggish, aggressive nature of elite orc troops."
     },
     {
       "Key": "Goblin Mob",
-      "Translation": "",
-      "Comment": "Mob works well in German and conveys the chaotic horde-like nature."
+      "Translation": "Frotta di Goblin",
+      "Comment": "Chaotic horde. 'Frotta' emphasizes disorganized, swarming nature of goblin forces."
     },
     {
       "Key": "Goblin Spear Mob",
-      "Translation": "",
-      "Comment": "Added hyphen for clarity between weapon type and mob."
+      "Translation": "Frotta di Goblin Lancieri",
+      "Comment": "Spear horde. 'Lancieri' clarifies weapon specialty while maintaining chaotic horde essence."
     },
     {
       "Key": "Boar Riders",
-      "Translation": "",
-      "Comment": "Eber is wild boar, appropriate for the savage greenskin aesthetic."
+      "Translation": "Cavalieri di Cinghiale",
+      "Comment": "Savage mounted troops. 'Cinghiale' (wild boar) creates appropriately warlike unit name."
     },
     {
       "Key": "Goblin Wolf Riders",
-      "Translation": "",
-      "Comment": "Compound word with hyphen for readability."
+      "Translation": "Cavalieri di Lupo Goblin",
+      "Comment": "Predatory cavalry. Combines mounted warriors with wolf mounts for fast, aggressive unit."
     },
     {
       "Key": "Orc Boar Chariot",
-      "Translation": "",
-      "Comment": "Streitwagen is chariot, compound with Eber for boar. Epic and warlike."
+      "Translation": "Carro da Guerra Orchesco di Cinghiale",
+      "Comment": "Epic war machine. Emphasizes military might and imposing scale of chariot unit."
     },
     {
       "Key": "Goblin Shortbows",
-      "Translation": "",
-      "Comment": "Kurzbogenschützen = shortbow archers. Added 'schützen' for clarity that these are the bow-wielding troops."
+      "Translation": "Arcieri Goblin di Arco Corto",
+      "Comment": "Ranged troops. Clearly identifies these as archers with shortbows."
     },
     {
       "Key": "Goblin Bolt Throwers",
-      "Translation": "",
-      "Comment": "Bolzenwerfer matches the term used in UnitProps for bolt thrower weapons."
+      "Translation": "Lanciaprogettili Goblin",
+      "Comment": "Artillery unit. Captures crossbow bolt-throwing nature of ranged siege weapon."
     },
     {
       "Key": "Goblin Stonethrower",
-      "Translation": "",
-      "Comment": "Steinschleuder for stone thrower, consistent with Dwarf artillery naming."
+      "Translation": "Lanciapietre Goblin",
+      "Comment": "Stone artillery. Straightforward designation consistent with fantasy wargaming."
     },
     {
       "Key": "Trolls",
-      "Translation": "",
-      "Comment": "Standard German plural for trolls."
+      "Translation": "Troll",
+      "Comment": "Classic creature. Universally recognized fantasy creature in Italian contexts."
     },
     {
       "Key": "Giant",
-      "Translation": "",
-      "Comment": "Classic German word for giant, fits the mythical fantasy tone."
+      "Translation": "Gigante",
+      "Comment": "Colossal monster. Powerful term fitting mythical epic scale of wargame."
     },
     {
       "Key": "Wyvern",
-      "Translation": "",
-      "Comment": "Wyvern is kept as is - it's a fantasy creature name recognized internationally."
+      "Translation": "Viverna",
+      "Comment": "Winged dragon-beast. Traditional Italian term for wyvern in fantasy."
     },
     {
       "Key": "Giant Spider",
-      "Translation": "",
-      "Comment": "Direct translation, evokes the monstrous nature of the creature."
+      "Translation": "Ragno Gigante",
+      "Comment": "Monstrous creature. Combines spider with size to create appropriately fearsome designation."
     },
     {
       "Key": "War Chief",
-      "Translation": "",
-      "Comment": "Häuptling conveys tribal leadership, Kriegs- adds the martial aspect."
+      "Translation": "Capo di Guerra",
+      "Comment": "Tribal leader. Conveys military leadership and authority of legendary commander."
     },
     {
       "Key": "Goblin Shaman",
-      "Translation": "",
-      "Comment": "Schamane is shaman, fits the tribal mysticism of goblin magic users."
+      "Translation": "Sciamano Goblin",
+      "Comment": "Magical practitioner. 'Sciamano' captures tribal mysticism of goblin spellcasters."
     },
     {
       "Key": "Goblin King",
-      "Translation": "",
-      "Comment": "Direct translation, König is king. Grand title for the faction leader."
+      "Translation": "Re Goblin",
+      "Comment": "Faction leader. Grand title conveying both goblin nature and royal authority."
     }
   ]
 }

@@ -3,88 +3,88 @@
   "Translations": [
     {
       "Key": "Darkborn Elves",
-      "Translation": "",
-      "Comment": "Dunkelgeboren = darkborn. Dark elves with a sinister edge."
+      "Translation": "Elfos Nacidos de la Oscuridad",
+      "Comment": "Dunkelgeboren = darkborn. Dark elves with a sinister edge. 'Natos' would be shorter alternative."
     },
     {
       "Key": "Darkborn Spears",
-      "Translation": "",
-      "Comment": "Spear-wielding dark elf infantry."
+      "Translation": "Lanceros Oscuros",
+      "Comment": "Spear-wielding dark elf infantry. Concise and martial."
     },
     {
       "Key": "Darkborn Dreadguard",
-      "Translation": "",
-      "Comment": "Schrecken = dread. Elite heavy infantry radiating fear."
+      "Translation": "Guardia del Terror",
+      "Comment": "Schrecken = dread. Elite heavy infantry radiating fear. Conveys menace and military hierarchy."
     },
     {
       "Key": "Darkborn Witches",
-      "Translation": "",
-      "Comment": "Hexen = witches. Dark magic users of the dark elves."
+      "Translation": "Brujas Oscuras",
+      "Comment": "Hexen = witches. Dark magic users of the dark elves. Classic and evocative."
     },
     {
       "Key": "Darkborn Crossbows",
-      "Translation": "",
-      "Comment": "Crossbow-wielding dark elves. Deadly ranged troops."
+      "Translation": "Ballesteros Oscuros",
+      "Comment": "Crossbow-wielding dark elves. Deadly ranged troops. Professional military terminology."
     },
     {
       "Key": "Darkborn Shadows",
-      "Translation": "",
-      "Comment": "Schatten = shadows. Stealthy infiltrators and assassins."
+      "Translation": "Sombras Oscuras",
+      "Comment": "Schatten = shadows. Stealthy infiltrators and assassins. Evokes stealth and darkness."
     },
     {
       "Key": "Darkborn Boltthrower",
-      "Translation": "",
-      "Comment": "Heavy artillery. Consistent with other bolt thrower translations."
+      "Translation": "Ballista Oscura",
+      "Comment": "Heavy artillery. Consistent with other bolt thrower translations. Ballista is standard Spanish term for siege weapon."
     },
     {
       "Key": "Raptor Knights",
-      "Translation": "",
-      "Comment": "Knights riding vicious raptors. Fast and deadly cavalry."
+      "Translation": "Caballeros Raptores",
+      "Comment": "Knights riding vicious raptors. Fast and deadly cavalry. Concise; preserves 'Raptores' as magical beast type."
     },
     {
       "Key": "Darkborn Riders",
-      "Translation": "",
-      "Comment": "Dark elf cavalry on dark steeds."
+      "Translation": "Jinetes Oscuros",
+      "Comment": "Dark elf cavalry on dark steeds. Military and straightforward."
     },
     {
       "Key": "Darkborn Chariot",
-      "Translation": "",
-      "Comment": "Dark elf chariot. Swift and cruel."
+      "Translation": "Carro de Guerra Oscuro",
+      "Comment": "Dark elf chariot. Swift and cruel. 'Carro de Guerra' emphasizes martial purpose."
     },
     {
       "Key": "Hydra",
-      "Translation": "",
-      "Comment": "Standard German term for hydra. Multi-headed monster."
+      "Translation": "Hidra",
+      "Comment": "Standard German term for hydra. Multi-headed monster. Same in Spanish; mythological term."
     },
     {
       "Key": "Harpies",
-      "Translation": "",
-      "Comment": "Harpyien = harpies. Flying monsters in service of dark elves."
+      "Translation": "Arpías",
+      "Comment": "Harpyien = harpies. Flying monsters in service of dark elves. Standard mythological term."
     },
     {
       "Key": "Black Dragon",
-      "Translation": "",
-      "Comment": "Direct translation. Fearsome black dragon."
+      "Translation": "Dragón Negro",
+      "Comment": "Direct translation. Fearsome black dragon. Classic and imposing."
     },
     {
       "Key": "Dark Pegasus",
-      "Translation": "",
-      "Comment": "Corrupted pegasus. Flying mount for heroes."
+      "Translation": "Pegaso Oscuro",
+      "Comment": "Corrupted pegasus. Flying mount for heroes. Pegaso kept as mythological term; Oscuro emphasizes corruption."
     },
     {
       "Key": "Darkborn Noble",
-      "Translation": "",
-      "Comment": "Noble dark elf leader. Cruel and cunning."
+      "Translation": "Noble Oscuro",
+      "Comment": "Noble dark elf leader. Cruel and cunning. Emphasizes both dark nature and high status."
     },
     {
       "Key": "Darkborn Priestess",
-      "Translation": "",
-      "Comment": "Priesterin = priestess. Female dark magic user and leader."
+      "Translation": "Sacerdotisa Oscura",
+      "Comment": "Priesterin = priestess. Female dark magic user and leader. Sacerdotisa conveys religious authority and magic."
     },
     {
       "Key": "Darkborn Assassin",
-      "Translation": "",
-      "Comment": "Master of stealth and murder. Deadly hero unit."
+      "Translation": "Asesino Oscuro",
+      "Comment": "Master of stealth and murder. Deadly hero unit. Direct and menacing; fits dark elf aesthetic."
     }
   ]
 }

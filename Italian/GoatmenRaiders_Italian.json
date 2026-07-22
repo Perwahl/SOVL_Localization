@@ -3,78 +3,78 @@
   "Translations": [
     {
       "Key": "Goatmen Raiders",
-      "Translation": "",
-      "Comment": "Ziegenmenschen = goatmen (beast-men with goat features). Plünderer = raiders."
+      "Translation": "Razziatori Uomini Capra",
+      "Comment": "Beast-men raiders. 'Razziatori' conveys raiding/pillaging nature of faction."
     },
     {
       "Key": "Ibex Warriors",
-      "Translation": "",
-      "Comment": "Steinbock = ibex (mountain goat). Fierce warriors."
+      "Translation": "Guerrieri Stambecco",
+      "Comment": "Mountain warriors. 'Stambecco' is Italian term for ibex, emphasizing fierce mountain-dwelling nature."
     },
     {
       "Key": "Goatmen Warriors",
-      "Translation": "",
-      "Comment": "Standard goat-men warriors. Savage and brutal."
+      "Translation": "Guerrieri Uomini Capra",
+      "Comment": "Standard troops. Direct translation maintaining consistency with faction name."
     },
     {
       "Key": "Mongrel Pack",
-      "Translation": "",
-      "Comment": "Mischling = mongrel/mixed breed. Horde = pack. Chaotic mass of lesser beast-men."
+      "Translation": "Branco di Bastardi",
+      "Comment": "Mixed-breed hordes. 'Branco' emphasizes pack/horde nature; 'Bastardi' conveys mongrel nature."
     },
     {
       "Key": "Mongrel Spear",
-      "Translation": "",
-      "Comment": "Mongrel troops armed with spears."
+      "Translation": "Lancieri Bastardi",
+      "Comment": "Spear troops. Standard military term for spear-armed units."
     },
     {
       "Key": "Raiding Chariot",
-      "Translation": "",
-      "Comment": "Plünder- prefix = raiding. Fast attack chariot."
+      "Translation": "Carro d'Assalto",
+      "Comment": "Fast attack vehicle. Conveys rapid assault tactics and raiding purpose."
     },
     {
       "Key": "Feral Hounds",
-      "Translation": "",
-      "Comment": "Wilde = feral/wild. Jagdhunde = hunting hounds. Savage war beasts."
+      "Translation": "Mastini Selvaggi",
+      "Comment": "War beasts. 'Mastini' emphasizes hunting hounds; 'Selvaggi' conveys feral nature."
     },
     {
       "Key": "Mongrel Skirmishers",
-      "Translation": "",
-      "Comment": "Plänkler = skirmishers. Light troops for harassment."
+      "Translation": "Cavalleria Leggera Bastarda",
+      "Comment": "Light cavalry. Standard term for skirmishing cavalry troops."
     },
     {
       "Key": "Centaurs",
-      "Translation": "",
-      "Comment": "Standard German for centaurs. Half-man, half-horse."
+      "Translation": "Centauri",
+      "Comment": "Half-man, half-horse. Standard Italian term for mythological creatures."
     },
     {
       "Key": "Minotaurs",
-      "Translation": "",
-      "Comment": "Standard German for minotaurs. Bull-headed warriors."
+      "Translation": "Minotauri",
+      "Comment": "Bull-headed warriors. Standard Italian term matching fantasy terminology."
     },
     {
       "Key": "Harpies",
-      "Translation": "",
-      "Comment": "Flying monsters allied with the beast-men."
+      "Translation": "Arpie",
+      "Comment": "Flying monsters. Standard Italian term for mythological harpies."
     },
     {
       "Key": "Feral Giant",
-      "Translation": "",
-      "Comment": "Wilder = feral/wild. Untamed giant serving the beast-men."
+      "Translation": "Gigante Selvaggio",
+      "Comment": "Untamed giant. Simple, direct translation fitting wargame terminology."
     },
     {
       "Key": "Goatman Shaman",
-      "Translation": "",
-      "Comment": "Tribal magic user. Dark rituals and curses."
+      "Translation": "Sciamano Uomo Capra",
+      "Comment": "Tribal magic user. 'Sciamano' is standard Italian; maintains faction name consistency."
     },
     {
       "Key": "Goatman Longhorn",
-      "Translation": "",
-      "Comment": "Langhorn = longhorn. Elite warrior with impressive horns."
+      "Translation": "Longhorn Uomo Capra",
+      "Comment": "Elite horn-bearing warrior. Captures impressive horn aesthetic while maintaining wargame tone."
     },
     {
       "Key": "Minotaur Lord",
-      "Translation": "",
-      "Comment": "Mighty minotaur leader. Powerful hero."
+      "Translation": "Signore Minotauro",
+      "Comment": "Faction hero. 'Signore' conveys nobility and command authority befitting hero unit."
     }
   ]
 }

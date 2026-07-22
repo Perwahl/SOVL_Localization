@@ -3,83 +3,83 @@
   "Translations": [
     {
       "Key": "Deepwood Guardians",
-      "Translation": "",
-      "Comment": "Tiefwald = deepwood, Hüter = guardians. Protectors of the ancient forest."
+      "Translation": "Guardiani della Foresta Profonda",
+      "Comment": "Protectors of ancient forest. Used 'Foresta Profonda' to convey timeless, primordial nature of faction."
     },
     {
       "Key": "Deepwood Guard",
-      "Translation": "",
-      "Comment": "Wache = guard. Basic forest defenders."
+      "Translation": "Sentinella del Bosco",
+      "Comment": "Basic forest defenders. 'Sentinella' conveys watchful role befitting basic troops."
     },
     {
       "Key": "Dryads",
-      "Translation": "",
-      "Comment": "Standard German term for dryads. Tree spirits in elven form."
+      "Translation": "Driadi",
+      "Comment": "Tree spirits. Standard Italian adaptation of fantasy term; maintains classic fantasy creature designation."
     },
     {
       "Key": "Deepwood Dancers",
-      "Translation": "",
-      "Comment": "Tänzer = dancers. Swift and graceful forest warriors."
+      "Translation": "Danzatori del Bosco",
+      "Comment": "Swift and graceful warriors. 'Danzatori' conveys both grace and combat prowess of agile forest units."
     },
     {
       "Key": "Deepwood Archers",
-      "Translation": "",
-      "Comment": "Forest archers. Masters of woodland archery."
+      "Translation": "Arcieri del Bosco",
+      "Comment": "Forest archers. Direct translation emphasizing their woodland domain and archery mastery."
     },
     {
       "Key": "Deepwood Rangers",
-      "Translation": "",
-      "Comment": "Waldläufer = rangers. Elite scouts and hunters of the deep forest."
+      "Translation": "Esploratori del Bosco",
+      "Comment": "Elite scouts. 'Esploratori' captures roving, elite scout nature of deep forest hunters."
     },
     {
       "Key": "Deepwood Riders",
-      "Translation": "",
-      "Comment": "Fast cavalry of the forest. Riding forest creatures."
+      "Translation": "Cavalieri del Bosco",
+      "Comment": "Forest cavalry. Classic term for mounted warriors riding forest creatures with fantasy flair."
     },
     {
       "Key": "Deepwood Chariot",
-      "Translation": "",
-      "Comment": "Nature-powered chariot."
+      "Translation": "Carro da Guerra del Bosco",
+      "Comment": "Nature-powered war machine. Full military designation conveys importance befitting powerful unit."
     },
     {
       "Key": "Giant Eagle",
-      "Translation": "",
-      "Comment": "Majestic flying creature of the forest."
+      "Translation": "Aquila Monumental",
+      "Comment": "Majestic flying creature. 'Monumental' emphasizes size and grandeur of aerial unit."
     },
     {
       "Key": "Stag Riders",
-      "Translation": "",
-      "Comment": "Hirsch = stag. Cavalry riding majestic forest stags."
+      "Translation": "Cavalieri di Cervo",
+      "Comment": "Cavalry riding forest stags. Paired term with other cavalry units for consistency across faction."
     },
     {
       "Key": "Treant",
-      "Translation": "",
-      "Comment": "Baumriese = tree giant. Living tree creature. Alternative: Treant (kept as fantasy term)."
+      "Translation": "Treante",
+      "Comment": "Living tree creature. Adapted fantasy term to Italian phonetics while maintaining classic nomenclature."
     },
     {
       "Key": "Forest Dragon",
-      "Translation": "",
-      "Comment": "Dragon of the forest. Ancient guardian."
+      "Translation": "Drago della Foresta",
+      "Comment": "Ancient forest dragon. Classic, straightforward naming befitting the faction's mightiest aerial unit."
     },
     {
       "Key": "Gryphon",
-      "Translation": "",
-      "Comment": "Standard German term for gryphon."
+      "Translation": "Grifone",
+      "Comment": "Mythological creature. Italian adaptation of gryphon maintains classic fantasy creature designation."
     },
     {
       "Key": "Deepwood Noble",
-      "Translation": "",
-      "Comment": "Noble leader of the forest folk."
+      "Translation": "Nobile del Bosco",
+      "Comment": "Forest leader. Direct translation emphasizing both noble rank and forest affinity."
     },
     {
       "Key": "Deepwood Druid",
-      "Translation": "",
-      "Comment": "Druide = druid. Nature magic user."
+      "Translation": "Druido del Bosco",
+      "Comment": "Nature magic user. Italian form of fantasy term paired with forest affiliation for consistency."
     },
     {
       "Key": "Treant Elder",
-      "Translation": "",
-      "Comment": "Ancient and powerful tree creature. Wise forest spirit."
+      "Translation": "Treante Antico",
+      "Comment": "Ancient tree spirit leader. Builds on 'Treante', emphasizing age and wisdom fitting an elder unit."
     }
   ]
 }

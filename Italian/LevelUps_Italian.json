@@ -3,898 +3,898 @@
   "Translations": [
     {
       "Key": "Unit Size I",
-      "Translation": "",
+      "Translation": "Dimensione Unità I",
       "Comment": ""
     },
     {
       "Key": "Max Unit size +3",
-      "Translation": "",
+      "Translation": "Dimensione Massima Unità +3",
       "Comment": ""
     },
     {
       "Key": "Unit Size II",
-      "Translation": "",
+      "Translation": "Dimensione Unità II",
       "Comment": ""
     },
     {
       "Key": "Unit Size III",
-      "Translation": "",
+      "Translation": "Dimensione Unità III",
       "Comment": ""
     },
     {
       "Key": "Replenish I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ricostituimento I",
+      "Comment": "Refers to replenishing troop losses"
     },
     {
       "Key": "+30% base unit Replenishment",
-      "Translation": "",
+      "Translation": "+30% Ricostituimento Unità Base",
       "Comment": ""
     },
     {
       "Key": "Replenish II",
-      "Translation": "",
+      "Translation": "Ricostituimento II",
       "Comment": ""
     },
     {
       "Key": "Replenish III",
-      "Translation": "",
+      "Translation": "Ricostituimento III",
       "Comment": ""
     },
     {
       "Key": "Veteran Discipline",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Disciplina Veterana",
+      "Comment": "Military discipline, suggests well-trained veterans"
     },
     {
       "Key": "Increase Discipline by 1",
-      "Translation": "",
+      "Translation": "Aumenta Disciplina di 1",
       "Comment": ""
     },
     {
       "Key": "Veteran Skill",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Abilità Veterana",
+      "Comment": "Combat prowess of experienced warriors"
     },
     {
       "Key": "Increase Skill by 1",
-      "Translation": "",
+      "Translation": "Aumenta Abilità di 1",
       "Comment": ""
     },
     {
       "Key": "Veteran Skill II",
-      "Translation": "",
+      "Translation": "Abilità Veterana II",
       "Comment": ""
     },
     {
       "Key": "Coin Counter I",
-      "Translation": "",
-      "Comment": "Gold income bonus"
+      "Translation": "Incassatore di Monete I",
+      "Comment": "Gold income bonus - maintains wargame flavor with mercenary context"
     },
     {
       "Key": "+3% post battle income",
-      "Translation": "",
+      "Translation": "+3% Guadagno Post-Battaglia",
       "Comment": ""
     },
     {
       "Key": "Coin Counter II",
-      "Translation": "",
+      "Translation": "Incassatore di Monete II",
       "Comment": ""
     },
     {
       "Key": "Battle Hardened I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Indurito in Battaglia I",
+      "Comment": "Veteran soldiers hardened by combat"
     },
     {
       "Key": "+1 Wounds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Ferita",
+      "Comment": "Increased durability/health"
     },
     {
       "Key": "Battle Hardened II",
-      "Translation": "",
+      "Translation": "Indurito in Battaglia II",
       "Comment": ""
     },
     {
       "Key": "Offensive Mastery I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maestria Offensiva I",
+      "Comment": "Combat expertise in offense"
     },
     {
       "Key": "+1 Attack",
-      "Translation": "",
+      "Translation": "+1 Attacco",
       "Comment": ""
     },
     {
       "Key": "Offensive Mastery II",
-      "Translation": "",
+      "Translation": "Maestria Offensiva II",
       "Comment": ""
     },
     {
       "Key": "Offensive Mastery III",
-      "Translation": "",
+      "Translation": "Maestria Offensiva III",
       "Comment": ""
     },
     {
       "Key": "Veteran Crew",
-      "Translation": "",
-      "Comment": "For war machines/artillery"
+      "Translation": "Equipaggio Veterano",
+      "Comment": "For war machines/artillery - experienced crew members"
     },
     {
       "Key": "+1 Ranged Attack",
-      "Translation": "",
+      "Translation": "+1 Attacco a Distanza",
       "Comment": ""
     },
     {
       "Key": "Marksman I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Tiratore Scelto I",
+      "Comment": "Elite archer/ranged specialist"
     },
     {
       "Key": "Marksman II",
-      "Translation": "",
+      "Translation": "Tiratore Scelto II",
       "Comment": ""
     },
     {
       "Key": "Marksman III",
-      "Translation": "",
+      "Translation": "Tiratore Scelto III",
       "Comment": ""
     },
     {
       "Key": "Greater Fireball",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Palla di Fuoco Potenziata",
+      "Comment": "Fantasy spell terminology - 'Greater' suggests improved version"
     },
     {
       "Key": "Upgrades Fireball to 3D3 hits.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Migliora Palla di Fuoco a 3D3 colpi.",
+      "Comment": "Maintains game mechanics notation"
     },
     {
       "Key": "Greater Favour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Favore Divino Potenziato",
+      "Comment": "Religious/divine magic theme"
     },
     {
       "Key": "Upgrades Divine Favour to target all units.",
-      "Translation": "",
+      "Translation": "Migliora Favore Divino per colpire tutte le unità.",
       "Comment": ""
     },
     {
       "Key": "Greater Ruin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Rovina Potenziata",
+      "Comment": "Destructive curse spell"
     },
     {
       "Key": "Hex of Ruin also reduces Power.",
-      "Translation": "",
+      "Translation": "Maledizione di Rovina riduce anche la Potenza.",
       "Comment": ""
     },
     {
       "Key": "Greater Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Furia Potenziata",
+      "Comment": "Primal/bestial magic"
     },
     {
       "Key": "Upgrades Primal Fury to give +3 Power.",
-      "Translation": "",
+      "Translation": "Migliora Furia Primordiale per dare +3 Potenza.",
       "Comment": ""
     },
     {
       "Key": "Greater Web",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ragnatela Potenziata",
+      "Comment": "Arcane magic spell"
     },
     {
       "Key": "Gives 1 extra charge to Arcane Web.",
-      "Translation": "",
+      "Translation": "Aggiunge 1 utilizzo extra a Ragnatela Arcana.",
       "Comment": ""
     },
     {
       "Key": "Greater Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Scudo Potenziato",
+      "Comment": "Protective magic"
     },
     {
       "Key": "Gives 1 extra charge to Radiant Shield.",
-      "Translation": "",
+      "Translation": "Aggiunge 1 utilizzo extra a Scudo Radiante.",
       "Comment": ""
     },
     {
       "Key": "Greater Shadowbolt",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Freccia d'Ombra Potenziata",
+      "Comment": "Dark magic ranged spell"
     },
     {
       "Key": "Upgrades Shadow Bolt to Power 3 and Range 33.",
-      "Translation": "",
+      "Translation": "Migliora Freccia d'Ombra a Potenza 3 e Portata 33.",
       "Comment": ""
     },
     {
       "Key": "Greater Regrowth",
-      "Translation": "",
-      "Comment": "Healing spell"
+      "Translation": "Rigenerazione Potenziata",
+      "Comment": "Healing spell - nature magic theme"
     },
     {
       "Key": "Upgrades Regrowth to target any unit.",
-      "Translation": "",
+      "Translation": "Migliora Rigenerazione per colpire qualsiasi unità.",
       "Comment": ""
     },
     {
       "Key": "Greater Wildform",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Forma Selvaggia Potenziata",
+      "Comment": "Shapeshifting/beast form magic"
     },
     {
       "Key": "Upgrades Wildform to give +3 Attacks.",
-      "Translation": "",
+      "Translation": "Migliora Forma Selvaggia per dare +3 Attacchi.",
       "Comment": ""
     },
     {
       "Key": "Greater Raise",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Resurrezione Potenziata",
+      "Comment": "Necromantic spell - summoning undead"
     },
     {
       "Key": "Upgrades Raise Dead to raise an additional D3 models.",
-      "Translation": "",
+      "Translation": "Migliora Richiama i Morti per evocare D3 modelli aggiuntivi.",
       "Comment": ""
     },
     {
       "Key": "Greater Reanimate",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Rianima Potenziata",
+      "Comment": "Necromantic enhancement spell"
     },
     {
       "Key": "Reanimate also gives +1 Power and Defense.",
-      "Translation": "",
+      "Translation": "Rianima dona anche +1 Potenza e Difesa.",
       "Comment": ""
     },
     {
       "Key": "Greater Vigour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Vigore Potenziato",
+      "Comment": "Unholy/dark blessing"
     },
     {
       "Key": "Unholy Vigour also lets the unit reroll missed Attack Rolls.",
-      "Translation": "",
+      "Translation": "Vigore Profano permette all'unità di ripetere i Tiri Attacco falliti.",
       "Comment": ""
     },
     {
       "Key": "Thousand Maws",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mille Fauci",
+      "Comment": "Primal, bestial spell name"
     },
     {
       "Key": "Upgrades Thousand Mouths to Power 3.",
-      "Translation": "",
+      "Translation": "Migliora Mille Bocche a Potenza 3.",
       "Comment": ""
     },
     {
       "Key": "Greater Blades",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Lame Potenzziate",
+      "Comment": "Enchanted weapons"
     },
     {
       "Key": "Upgrades Fiery Blades to give +3 Power.",
-      "Translation": "",
+      "Translation": "Migliora Lame Infuocate per dare +3 Potenza.",
       "Comment": ""
     },
     {
       "Key": "Greater Shroud",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Velo Potenziato",
+      "Comment": "Concealment/protection magic"
     },
     {
       "Key": "Upgrades Shroud to target all friendly units.",
-      "Translation": "",
+      "Translation": "Migliora Velo per colpire tutte le unità alleate.",
       "Comment": ""
     },
     {
       "Key": "Greater Ward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Protezione Potenziata",
+      "Comment": "Defensive spell ward"
     },
     {
       "Key": "Removes the Re-roll penalties from Frost Ward",
-      "Translation": "",
+      "Translation": "Rimuove le penalità di Ripetizione da Protezione dal Gelo",
       "Comment": ""
     },
     {
       "Key": "Looter I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Saccheggiatore I",
+      "Comment": "Military plunder theme"
     },
     {
       "Key": "+3 gold when looting",
-      "Translation": "",
+      "Translation": "+3 Oro durante il saccheggio",
       "Comment": ""
     },
     {
       "Key": "Looter II",
-      "Translation": "",
+      "Translation": "Saccheggiatore II",
       "Comment": ""
     },
     {
       "Key": "Looter III",
-      "Translation": "",
+      "Translation": "Saccheggiatore III",
       "Comment": ""
     },
     {
       "Key": "Oath of Reckoning",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Giuramento di Resa dei Conti",
+      "Comment": "Solemn vow against specific enemies"
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Monsters.",
-      "Translation": "",
+      "Translation": "Ripeti gli Attacchi a Distanza e da Combattimento contro Mostri.",
       "Comment": ""
     },
     {
       "Key": "Oath of Retribution",
-      "Translation": "",
+      "Translation": "Giuramento di Vendetta",
       "Comment": ""
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Ranged Units",
-      "Translation": "",
+      "Translation": "Ripeti gli Attacchi a Distanza e da Combattimento contro Unità a Distanza",
       "Comment": ""
     },
     {
       "Key": "Oath of Vengeance",
-      "Translation": "",
-      "Comment": "Different oath than Reckoning but same translation fits"
+      "Translation": "Giuramento di Vendetta",
+      "Comment": "Different oath than Reckoning but similar martial focus"
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "",
+      "Translation": "Ripeti gli Attacchi a Distanza e da Combattimento contro Cavalleria e Carri",
       "Comment": ""
     },
     {
       "Key": "Rune Of Flame",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Runa di Fiamma",
+      "Comment": "Runic magic tradition"
     },
     {
       "Key": "+1 Power to Ranged Attacks.",
-      "Translation": "",
+      "Translation": "+1 Potenza agli Attacchi a Distanza.",
       "Comment": ""
     },
     {
       "Key": "Rune Of Resilience",
-      "Translation": "",
+      "Translation": "Runa di Resistenza",
       "Comment": ""
     },
     {
       "Key": "Unit re-rolls failed Damage Saves",
-      "Translation": "",
+      "Translation": "L'unità ripete i Tiri Salvezza da Danno falliti",
       "Comment": ""
     },
     {
       "Key": "Rune Of Farsight",
-      "Translation": "",
+      "Translation": "Runa di Visione Lontana",
       "Comment": ""
     },
     {
       "Key": "Ranged attack range increased by 3.",
-      "Translation": "",
+      "Translation": "Portata Attacchi a Distanza aumentata di 3.",
       "Comment": ""
     },
     {
       "Key": "Rune Of Speed",
-      "Translation": "",
+      "Translation": "Runa di Velocità",
       "Comment": ""
     },
     {
       "Key": "Unit can move and fire ranged weapons.",
-      "Translation": "",
+      "Translation": "L'unità può muoversi e sparare con armi a distanza.",
       "Comment": ""
     },
     {
       "Key": "Demonic Gift",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Dono Demoniaco",
+      "Comment": "Dark, otherworldly tone"
     },
     {
       "Key": "+1 to a random Stat",
-      "Translation": "",
+      "Translation": "+1 a una Statistica Casuale",
       "Comment": ""
     },
     {
       "Key": "Imperial Elites I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Élite Imperiale I",
+      "Comment": "Elite soldier designation"
     },
     {
       "Key": "Unit re-rolls missed Attack Rolls.",
-      "Translation": "",
+      "Translation": "L'unità ripete gli Attacchi falliti.",
       "Comment": ""
     },
     {
       "Key": "Imperial Elites II",
-      "Translation": "",
+      "Translation": "Élite Imperiale II",
       "Comment": ""
     },
     {
       "Key": "Fearless (Ignores penalties to Discipline tests).",
-      "Translation": "",
+      "Translation": "Senza Paura (Ignora le penalità ai test di Disciplina).",
       "Comment": ""
     },
     {
       "Key": "Imperial Veterans I",
-      "Translation": "",
+      "Translation": "Veterani Imperiali I",
       "Comment": ""
     },
     {
       "Key": "Unit gets +1 Combat Score",
-      "Translation": "",
+      "Translation": "L'unità ottiene +1 al Punteggio di Combattimento",
       "Comment": ""
     },
     {
       "Key": "Imperial Veterans II",
-      "Translation": "",
+      "Translation": "Veterani Imperiali II",
       "Comment": ""
     },
     {
       "Key": "Unit has +3 range for Ranged attacks.",
-      "Translation": "",
+      "Translation": "L'unità ha +3 di portata per gli Attacchi a Distanza.",
       "Comment": ""
     },
     {
       "Key": "Unit ignores penalties for difficult terrain.",
-      "Translation": "",
+      "Translation": "L'unità ignora le penalità del terreno difficile.",
       "Comment": ""
     },
     {
       "Key": "Recruiter I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Reclutatore I",
+      "Comment": "Unit recruitment specialist"
     },
     {
       "Key": "Newly recruited units gain an additional level",
-      "Translation": "",
+      "Translation": "Le unità appena reclutate guadagnano un livello aggiuntivo",
       "Comment": ""
     },
     {
       "Key": "Recruiter II",
-      "Translation": "",
+      "Translation": "Reclutatore II",
       "Comment": ""
     },
     {
       "Key": "Mutation",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mutazione",
+      "Comment": "Evolutionary/biological transformation"
     },
     {
       "Key": "Random Mutation",
-      "Translation": "",
+      "Translation": "Mutazione Casuale",
       "Comment": ""
     },
     {
       "Key": "Veteran Accuracy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Precisione Veterana",
+      "Comment": "Combat experience improves accuracy"
     },
     {
       "Key": "Unit rerolls 1s on Ranged Attack Rolls.",
-      "Translation": "",
+      "Translation": "L'unità ripete i 1 nei Tiri Attacco a Distanza.",
       "Comment": ""
     },
     {
       "Key": "Veteran Accuracy II",
-      "Translation": "",
+      "Translation": "Precisione Veterana II",
       "Comment": ""
     },
     {
       "Key": "Unit can fire ranged weapons in one additional rank",
-      "Translation": "",
+      "Translation": "L'unità può sparare con armi a distanza in un rango aggiuntivo",
       "Comment": ""
     },
     {
       "Key": "Stronger Summons I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Evocazioni Più Forti I",
+      "Comment": "Summoned units become more powerful"
     },
     {
       "Key": "Reduce Crumble rolls by 1",
-      "Translation": "",
-      "Comment": "Crumble is a special mechanic for summoned units"
+      "Translation": "Riduci di 1 i tiri di Dissoluzione",
+      "Comment": "Crumble is a special mechanic for summoned units - maintains game terminology"
     },
     {
       "Key": "Stronger Summons II",
-      "Translation": "",
+      "Translation": "Evocazioni Più Forti II",
       "Comment": ""
     },
     {
       "Key": "+1 Move Speed.",
-      "Translation": "",
+      "Translation": "+1 Velocità di Movimento.",
       "Comment": ""
     },
     {
       "Key": "Stronger Summons III",
-      "Translation": "",
+      "Translation": "Evocazioni Più Forti III",
       "Comment": ""
     },
     {
       "Key": "Elf Bow Mastery I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maestria dell'Arco Elfico I",
+      "Comment": "Racial specialization in ranged combat"
     },
     {
       "Key": "+3 range for Ranged Attacks.",
-      "Translation": "",
+      "Translation": "+3 Portata agli Attacchi a Distanza.",
       "Comment": ""
     },
     {
       "Key": "Elf Bow Mastery II",
-      "Translation": "",
+      "Translation": "Maestria dell'Arco Elfico II",
       "Comment": ""
     },
     {
       "Key": "Damage saves against units Ranged Attack are reduced by 1.",
-      "Translation": "",
-      "Comment": "Typo in source: 'units' should be 'unit's'"
+      "Translation": "I Tiri Salvezza da Danno contro Attacchi a Distanza dell'unità sono ridotti di 1.",
+      "Comment": "Clarified: enemy units have reduced saves against this unit's ranged attacks"
     },
     {
       "Key": "Elf Spear Mastery I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maestria della Lancia Elfica I",
+      "Comment": "Racial specialization in melee combat"
     },
     {
       "Key": "Unit fights in one additional rank when not charging.",
-      "Translation": "",
+      "Translation": "L'unità combatte in un rango aggiuntivo quando non carica.",
       "Comment": ""
     },
     {
       "Key": "Elf Spear Mastery II",
-      "Translation": "",
+      "Translation": "Maestria della Lancia Elfica II",
       "Comment": ""
     },
     {
       "Key": "Elf Steed Mastery I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maestria del Destriero Elfico I",
+      "Comment": "Mounted combat specialization"
     },
     {
       "Key": "Elf Steed Mastery II",
-      "Translation": "",
+      "Translation": "Maestria del Destriero Elfico II",
       "Comment": ""
     },
     {
       "Key": "Charge Bonus: +1 Attack.",
-      "Translation": "",
+      "Translation": "Bonus di Carica: +1 Attacco.",
       "Comment": ""
     },
     {
       "Key": "Eagle Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspetto dell'Aquila",
+      "Comment": "Shapeshifting/animal form grants aerial dominance"
     },
     {
       "Key": "Jaguar Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspetto del Giaguaro",
+      "Comment": "Predatory, mobile combatant"
     },
     {
       "Key": "Unit gains +1 Move Speed and ignores Difficult Terrain",
-      "Translation": "",
+      "Translation": "L'unità ottiene +1 Velocità di Movimento e ignora il Terreno Difficile",
       "Comment": ""
     },
     {
       "Key": "Turtle Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspetto della Tartaruga",
+      "Comment": "Defensive, armored form"
     },
     {
       "Key": "Unit re-rolls 1s on Damage Saves.",
-      "Translation": "",
+      "Translation": "L'unità ripete i 1 nei Tiri Salvezza da Danno.",
       "Comment": ""
     },
     {
       "Key": "Raptor Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspetto del Rapace",
+      "Comment": "Aggressive aerial hunter"
     },
     {
       "Key": "Unit gains Lethal attacks. (deals 3x wounds)",
-      "Translation": "",
+      "Translation": "L'unità ottiene Attacchi Letali. (infligge 3x Ferite)",
       "Comment": ""
     },
     {
       "Key": "Serpent Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspetto del Serpente",
+      "Comment": "Venomous, sinuous combatant"
     },
     {
       "Key": "Unit gains Poisoned Attacks (enemies re-roll 3s on Damage Saves)",
-      "Translation": "",
+      "Translation": "L'unità ottiene Attacchi Avvelenati (i nemici ripetono i 3 nei Tiri Salvezza da Danno)",
       "Comment": ""
     },
     {
       "Key": "Salamander Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspetto della Salamandra",
+      "Comment": "Fiery, infernal manifestation"
     },
     {
       "Key": "Unit gains Regeneration. (restores lost wounds at end of turn)",
-      "Translation": "",
+      "Translation": "L'unità ottiene Rigenerazione. (ripristina le Ferite perse alla fine del turno)",
       "Comment": ""
     },
     {
       "Key": "Goblin Greed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Avidità Goblin",
+      "Comment": "Race-specific loot motivation"
     },
     {
       "Key": "+10 gold when looting",
-      "Translation": "",
+      "Translation": "+10 Oro durante il saccheggio",
       "Comment": ""
     },
     {
       "Key": "Strength In Numbers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Forza nel Numero",
+      "Comment": "Goblin swarm tactics"
     },
     {
       "Key": "Max Unit size +10",
-      "Translation": "",
+      "Translation": "Dimensione Massima Unità +10",
       "Comment": ""
     },
     {
       "Key": "Backstabbers",
-      "Translation": "",
-      "Comment": "Plural form for units"
+      "Translation": "Pugnalatori",
+      "Comment": "Underhanded combat specialty - fitting for Goblins"
     },
     {
       "Key": "Reroll missed Attack Rolls when attacking from Flank or Rear",
-      "Translation": "",
+      "Translation": "Ripeti gli Attacchi falliti quando attacchi dal Fianco o da Dietro",
       "Comment": ""
     },
     {
       "Key": "Bloodlust",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Sete di Sangue",
+      "Comment": "Primal berserker rage"
     },
     {
       "Key": "Activate once per battle, +1 Attack and Fearless.",
-      "Translation": "",
+      "Translation": "Attivabile una volta per battaglia, +1 Attacco e Senza Paura.",
       "Comment": ""
     },
     {
       "Key": "Won't Stay Down",
-      "Translation": "",
-      "Comment": "Colloquial phrase for resilience"
+      "Translation": "Non Rimangono a Terra",
+      "Comment": "Resilience and defiance - reflects stubborn durability"
     },
     {
       "Key": "Recover an extra model that died after each battle.",
-      "Translation": "",
+      "Translation": "Recupera un modello aggiuntivo che è morto dopo ogni battaglia.",
       "Comment": ""
     },
     {
       "Key": "Tough As Nails",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Duro come l'Acciaio",
+      "Comment": "Metaphor for extreme durability"
     },
     {
       "Key": "Unit Rerolls 1s on Damage Saves",
-      "Translation": "",
+      "Translation": "L'unità ripete i 1 nei Tiri Salvezza da Danno",
       "Comment": ""
     },
     {
       "Key": "Greater Warcry",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Grido di Guerra Potenziato",
+      "Comment": "Enhanced battle cry with morale-boosting effect"
     },
     {
       "Key": "Warcry also gives +3 Move Speed to all units.",
-      "Translation": "",
+      "Translation": "Il Grido di Guerra dona anche +3 Velocità di Movimento a tutte le unità.",
       "Comment": ""
     },
     {
       "Key": "Slavers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Schiavisti",
+      "Comment": "Dark mercenary theme - economic exploitation"
     },
     {
       "Key": "Unit earns 1 gold per enemy killed in combat after each battle.",
-      "Translation": "",
+      "Translation": "L'unità guadagna 1 Oro per ogni nemico ucciso in combattimento dopo ogni battaglia.",
       "Comment": ""
     },
     {
       "Key": "Blessing of Decay I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Benedizione del Decadimento I",
+      "Comment": "Chaotic, corrupting divine blessing"
     },
     {
       "Key": "Blessing of Decay II",
-      "Translation": "",
+      "Translation": "Benedizione del Decadimento II",
       "Comment": ""
     },
     {
       "Key": "Gain Poisoned Attacks",
-      "Translation": "",
+      "Translation": "Ottieni Attacchi Avvelenati",
       "Comment": ""
     },
     {
       "Key": "Blessing of Trickery I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Benedizione dell'Inganno I",
+      "Comment": "Mischievous, cunning divine blessing"
     },
     {
       "Key": "+1 Move Speed",
-      "Translation": "",
+      "Translation": "+1 Velocità di Movimento",
       "Comment": ""
     },
     {
       "Key": "Blessing of Trickery II",
-      "Translation": "",
+      "Translation": "Benedizione dell'Inganno II",
       "Comment": ""
     },
     {
       "Key": "Once per battle: Gain Flying for one turn.",
-      "Translation": "",
+      "Translation": "Una volta per battaglia: Ottieni Volo per un turno.",
       "Comment": ""
     },
     {
       "Key": "War Gods Blessing I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Benedizione del Dio della Guerra I",
+      "Comment": "Martial, warlike divine blessing"
     },
     {
       "Key": "+1 Damage Save vs Ranged",
-      "Translation": "",
+      "Translation": "+1 Tiro Salvezza da Danno vs Attacchi a Distanza",
       "Comment": ""
     },
     {
       "Key": "War Gods Blessing II",
-      "Translation": "",
+      "Translation": "Benedizione del Dio della Guerra II",
       "Comment": ""
     },
     {
       "Key": "Once per battle: Gain +1 Attack",
-      "Translation": "",
+      "Translation": "Una volta per battaglia: Ottieni +1 Attacco",
       "Comment": ""
     },
     {
       "Key": "Lord of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Signore del Decadimento",
+      "Comment": "Divine patron title - highest rank of devotion"
     },
     {
       "Key": "Become a servant to the god of Decay",
-      "Translation": "",
+      "Translation": "Diventa servitore del dio del Decadimento",
       "Comment": ""
     },
     {
       "Key": "Master of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maestro del Decadimento",
+      "Comment": "Ultimate expression of corrupting power"
     },
     {
       "Key": "Gain Regeneration",
-      "Translation": "",
+      "Translation": "Ottieni Rigenerazione",
       "Comment": ""
     },
     {
       "Key": "Lord of Trickery",
-      "Translation": "",
+      "Translation": "Signore dell'Inganno",
       "Comment": ""
     },
     {
       "Key": "Become a servant to the god of Trickery",
-      "Translation": "",
+      "Translation": "Diventa servitore del dio dell'Inganno",
       "Comment": ""
     },
     {
       "Key": "Master of Trickery",
-      "Translation": "",
+      "Translation": "Maestro dell'Inganno",
       "Comment": ""
     },
     {
       "Key": "Gain Ambush deployment",
-      "Translation": "",
+      "Translation": "Ottieni Schieramento da Imboscata",
       "Comment": ""
     },
     {
       "Key": "Lord of War",
-      "Translation": "",
+      "Translation": "Signore della Guerra",
       "Comment": ""
     },
     {
       "Key": "Become a servant to the god of War",
-      "Translation": "",
+      "Translation": "Diventa servitore del dio della Guerra",
       "Comment": ""
     },
     {
       "Key": "Master of War",
-      "Translation": "",
+      "Translation": "Maestro della Guerra",
       "Comment": ""
     },
     {
       "Key": "Gain Deadly Strikes (deal 3x Wounds)",
-      "Translation": "",
+      "Translation": "Ottieni Colpi Mortali (infliggi 3x Ferite)",
       "Comment": ""
     },
     {
       "Key": "Knightly Vow",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Giuramento Cavalleresco",
+      "Comment": "Chivalric oath marking noble elevation"
     },
     {
       "Key": "Unit is upgraded to Sworn Knights",
-      "Translation": "",
+      "Translation": "L'unità è promossa a Cavalieri Giurati",
       "Comment": ""
     },
     {
       "Key": "Kings Vow",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Giuramento Regale",
+      "Comment": "Royal patronage and blessing"
     },
     {
       "Key": "Unit is upgraded to Kings Guard",
-      "Translation": "",
+      "Translation": "L'unità è promossa alla Guardia Reale",
       "Comment": ""
     },
     {
       "Key": "Loyal Serfs I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Servi Fedeli I",
+      "Comment": "Feudal loyal peasant soldiers"
     },
     {
       "Key": "Loyal Serfs II",
-      "Translation": "",
+      "Translation": "Servi Fedeli II",
       "Comment": ""
     },
     {
       "Key": "Avalon Marksmen I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Tiratori di Avalon I",
+      "Comment": "Legendary realm elite archers"
     },
     {
       "Key": "Unit has +3 range for Ranged Attacks.",
-      "Translation": "",
+      "Translation": "L'unità ha +3 di portata per gli Attacchi a Distanza.",
       "Comment": ""
     },
     {
       "Key": "Avalon Marksmen II",
-      "Translation": "",
+      "Translation": "Tiratori di Avalon II",
       "Comment": ""
     },
     {
       "Key": "Unit has +10 range for Ranged Attacks.",
-      "Translation": "",
+      "Translation": "L'unità ha +10 di portata per gli Attacchi a Distanza.",
       "Comment": ""
     },
     {
       "Key": "Greater Vengeance",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Vendetta Potenziata",
+      "Comment": "Enhanced aura of righteous wrath"
     },
     {
       "Key": "Aura of Vengeance can be activated to affect all Knights",
-      "Translation": "",
+      "Translation": "L'Aura di Vendetta può essere attivata per colpire tutti i Cavalieri",
       "Comment": ""
     },
     {
       "Key": "Greater Protection",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Protezione Potenziata",
+      "Comment": "Enhanced defensive aura"
     },
     {
       "Key": "Aura of Protection can be activated to affect all Knights",
-      "Translation": "",
+      "Translation": "L'Aura di Protezione può essere attivata per colpire tutti i Cavalieri",
       "Comment": ""
     },
     {
       "Key": "Newly recruited units gain an additonal level",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Le unità appena reclutate guadagnano un livello aggiuntivo",
+      "Comment": "Typo in source: 'additonal' should be 'additional' - translated correctly"
     },
     {
       "Key": "+3 range to Ranged Atacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3 Portata agli Attacchi a Distanza.",
+      "Comment": "Typo in source: 'Atacks' should be 'Attacks' - translated correctly"
     }
   ]
 }

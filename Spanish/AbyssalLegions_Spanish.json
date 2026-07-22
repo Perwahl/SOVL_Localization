@@ -3,28 +3,28 @@
   "Translations": [
     {
       "Key": "Abyssal Legions",
-      "Translation": "",
-      "Comment": "Legionen = legions. Organized demonic armies, mixed with corrupted mortals."
+      "Translation": "Legiones Abisales",
+      "Comment": "Legiones = legions. Organized demonic armies, mixed with corrupted mortals. Abisales emphasizes the dark, corrupting nature of the abyss."
     },
     {
       "Key": "Northmen Axe",
-      "Translation": "",
-      "Comment": "Nordmänner = Northmen (barbarians). Axtkrieger = axe warriors. Corrupted northern warriors."
+      "Translation": "Nórdicos de Hacha",
+      "Comment": "Nórdicos = Northmen/Nordic warriors. Maintains barbarian warrior identity while showing corruption through unit type classification."
     },
     {
       "Key": "Abyssal Warriors",
-      "Translation": "",
-      "Comment": "Armored warriors corrupted by the abyss."
+      "Translation": "Guerreros Abisales",
+      "Comment": "Guerreros = warriors. Core infantry unit expressing the demonic corruption through faction classification."
     },
     {
       "Key": "Dragon Spawn",
-      "Translation": "",
-      "Comment": "Brut = spawn. Corrupted dragon-like creatures."
+      "Translation": "Cría de Dragón",
+      "Comment": "Cría = spawn/offspring. Conveys bestial corruption and dragon heritage with mythological weight."
     },
     {
       "Key": "Northmen Horse",
-      "Translation": "",
-      "Comment": "Reiter = riders/cavalry. Northern barbarian cavalry."
+      "Translation": "Jinetes Nórdicos",
+      "Comment": "Jinetes = riders/cavalry. Emphasizes mounted warriors from the northern tribes."
     },
     {
       "Key": "Abyssal Knights",
@@ -33,53 +33,53 @@
     },
     {
       "Key": "Abyssal Hounds",
-      "Translation": "",
-      "Comment": "War hounds from the abyss. Fast attack beasts."
+      "Translation": "Sabuesos Abisales",
+      "Comment": "Sabuesos = war hounds/hunting dogs. Evokes ferocious, demonic beasts serving the abyss. More martial than perros."
     },
     {
       "Key": "Abyssal Chariot",
-      "Translation": "",
-      "Comment": "Demonic chariot. Brutal and swift."
+      "Translation": "Carro Abisal",
+      "Comment": "Carro = chariot/war cart. Simple and direct, emphasizing the demonic war machine's brutality and speed."
     },
     {
       "Key": "Archdevil",
-      "Translation": "",
-      "Comment": "Greater demon. Same as in Abyssal Demons faction."
+      "Translation": "Archidemonio",
+      "Comment": "Archidemonio = Archdevil/Greater demon. Maintains consistency with Abyssal Demons faction. Conveys supreme demonic authority."
     },
     {
       "Key": "Devilspawn",
-      "Translation": "",
-      "Comment": "Lesser demons. Same as in Abyssal Demons faction."
+      "Translation": "Demoniocría",
+      "Comment": "Demoniocría = Devilspawn/Demon offspring. Maintains consistency with Abyssal Demons faction. Emphasizes infernal breeding and corruption."
     },
     {
       "Key": "War Mammoth",
-      "Translation": "",
-      "Comment": "Corrupted war mammoth. Massive beast of war."
+      "Translation": "Mamut de Guerra",
+      "Comment": "Mamut de Guerra = War Mammoth. Direct translation that emphasizes the massive, unstoppable nature of the corrupted beast."
     },
     {
       "Key": "Abyssal Dragon",
-      "Translation": "",
-      "Comment": "Dragon corrupted by the abyss. Terrifying flying monster."
+      "Translation": "Dragón Abisal",
+      "Comment": "Dragón Abisal = Abyssal Dragon. Premier aerial threat of the faction. Conveys terrifying power and ancient corruption."
     },
     {
       "Key": "Manticore",
-      "Translation": "",
-      "Comment": "Standard German term for manticore. Mythological beast."
+      "Translation": "Mantícora",
+      "Comment": "Mantícora = Manticore. Standard Spanish term for the mythological beast. Maintains the creature's fearsome, ancient nature."
     },
     {
       "Key": "Abyssal Champion",
-      "Translation": "",
-      "Comment": "Elite warrior of the abyss. Mighty hero unit."
+      "Translation": "Campeón Abisal",
+      "Comment": "Campeón Abisal = Abyssal Champion. Elite hero unit embodying abyssal might. Conveys singular power and demonic mastery."
     },
     {
       "Key": "Abyssal Sorcerer",
-      "Translation": "",
-      "Comment": "Dark sorcerer wielding abyssal magic."
+      "Translation": "Hechicero Abisal",
+      "Comment": "Hechicero Abisal = Abyssal Sorcerer. Dark spellcaster serving the abyss. Conveys arcane corruption and malevolent intent."
     },
     {
       "Key": "Northmen Packleader",
-      "Translation": "",
-      "Comment": "Rudelführer = pack leader. Barbarian warlord."
+      "Translation": "Líder de Manada Nórdico",
+      "Comment": "Líder de Manada = Pack leader/Warlord. Emphasizes the brutal, animalistic leadership of corrupted northern warriors. Alpha predator figure."
     }
   ]
 }

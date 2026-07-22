@@ -3,88 +3,88 @@
   "Translations": [
     {
       "Key": "Darkborn Elves",
-      "Translation": "",
-      "Comment": "Dunkelgeboren = darkborn. Dark elves with a sinister edge."
+      "Translation": "Elfi Nati dall'Oscurità",
+      "Comment": "Dark elves. Used 'Nati dall'Oscurità' to convey darkborn nature; parallel to Spanish 'Nacidos de la Oscuridad' while maintaining Italian elegance."
     },
     {
       "Key": "Darkborn Spears",
-      "Translation": "",
-      "Comment": "Spear-wielding dark elf infantry."
+      "Translation": "Lancieri Oscuri",
+      "Comment": "Spear infantry. 'Lancieri' emphasizes professional soldiers; 'Oscuri' shows dark elf identity. Martial and concise."
     },
     {
       "Key": "Darkborn Dreadguard",
-      "Translation": "",
-      "Comment": "Schrecken = dread. Elite heavy infantry radiating fear."
+      "Translation": "Guardia del Terrore",
+      "Comment": "Elite heavy infantry. Used 'Guardia del Terrore' to convey fear-radiating menace, parallel to Spanish 'Guardia del Terror'."
     },
     {
       "Key": "Darkborn Witches",
-      "Translation": "",
-      "Comment": "Hexen = witches. Dark magic users of the dark elves."
+      "Translation": "Streghe Oscure",
+      "Comment": "Dark magic users. 'Streghe' is classic Italian for witches; 'Oscure' (feminine plural) shows dark elf affiliation. Evocative."
     },
     {
       "Key": "Darkborn Crossbows",
-      "Translation": "",
-      "Comment": "Crossbow-wielding dark elves. Deadly ranged troops."
+      "Translation": "Balestrier Oscuri",
+      "Comment": "Crossbow troops. 'Balestrier' emphasizes professional soldiers; 'Oscuri' maintains faction identity. Deadly ranged troops."
     },
     {
       "Key": "Darkborn Shadows",
-      "Translation": "",
-      "Comment": "Schatten = shadows. Stealthy infiltrators and assassins."
+      "Translation": "Ombre Oscure",
+      "Comment": "Stealthy infiltrators. Feminine plural 'Ombre' with 'Oscure' evokes stealth and darkness; maintains assassin aesthetic."
     },
     {
       "Key": "Darkborn Boltthrower",
-      "Translation": "",
-      "Comment": "Heavy artillery. Consistent with other bolt thrower translations."
+      "Translation": "Balista Oscura",
+      "Comment": "Heavy siege weapon. 'Balista Oscura' maintains consistency with war machine terminology across factions."
     },
     {
       "Key": "Raptor Knights",
-      "Translation": "",
-      "Comment": "Knights riding vicious raptors. Fast and deadly cavalry."
+      "Translation": "Cavalieri Rapaci",
+      "Comment": "Mounted beast cavalry. 'Cavalieri' (knights) with 'Rapaci' (raptors/predatory) emphasizes fast, deadly nature."
     },
     {
       "Key": "Darkborn Riders",
-      "Translation": "",
-      "Comment": "Dark elf cavalry on dark steeds."
+      "Translation": "Cavalieri Oscuri",
+      "Comment": "Dark elf cavalry. Direct and military; 'Cavalieri Oscuri' shows dark mounted warriors on dark steeds."
     },
     {
       "Key": "Darkborn Chariot",
-      "Translation": "",
-      "Comment": "Dark elf chariot. Swift and cruel."
+      "Translation": "Carro da Guerra Oscuro",
+      "Comment": "War chariot. Masculine adjective 'Oscuro' emphasizes martial purpose and dark elf craftsmanship."
     },
     {
       "Key": "Hydra",
-      "Translation": "",
-      "Comment": "Standard German term for hydra. Multi-headed monster."
+      "Translation": "Idra",
+      "Comment": "Multi-headed monster. Standard Italian mythological term for hydra, maintaining beast's fearsome nature."
     },
     {
       "Key": "Harpies",
-      "Translation": "",
-      "Comment": "Harpyien = harpies. Flying monsters in service of dark elves."
+      "Translation": "Arpie",
+      "Comment": "Flying monsters. Standard Italian term; mythological creatures in service of dark elves."
     },
     {
       "Key": "Black Dragon",
-      "Translation": "",
-      "Comment": "Direct translation. Fearsome black dragon."
+      "Translation": "Drago Nero",
+      "Comment": "Fearsome dragon. Direct translation; classic and imposing. Simple adjective emphasizes color and menace."
     },
     {
       "Key": "Dark Pegasus",
-      "Translation": "",
-      "Comment": "Corrupted pegasus. Flying mount for heroes."
+      "Translation": "Pegaso Oscuro",
+      "Comment": "Corrupted flying mount. Kept mythological term 'Pegaso' with 'Oscuro' (dark) to show corruption and noble status."
     },
     {
       "Key": "Darkborn Noble",
-      "Translation": "",
-      "Comment": "Noble dark elf leader. Cruel and cunning."
+      "Translation": "Nobile Oscuro",
+      "Comment": "Dark elf leader. Emphasizes both noble status and dark nature; singular form shows individual authority."
     },
     {
       "Key": "Darkborn Priestess",
-      "Translation": "",
-      "Comment": "Priesterin = priestess. Female dark magic user and leader."
+      "Translation": "Sacerdotessa Oscura",
+      "Comment": "Female dark magic leader. 'Sacerdotessa' conveys religious authority and magical power; feminine form appropriate."
     },
     {
       "Key": "Darkborn Assassin",
-      "Translation": "",
-      "Comment": "Master of stealth and murder. Deadly hero unit."
+      "Translation": "Assassino Oscuro",
+      "Comment": "Master of stealth. Direct and menacing; singular form emphasizes deadly hero unit status and dark elf expertise."
     }
   ]
 }

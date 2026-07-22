@@ -3,83 +3,83 @@
   "Translations": [
     {
       "Key": "Reptilian Kingdoms",
-      "Translation": "",
-      "Comment": "Königreiche = kingdoms. Ancient lizard-men empires."
+      "Translation": "Regni Rettili",
+      "Comment": "Lizard empires. Ancient dinosaur-men kingdoms."
     },
     {
       "Key": "Saurian Warriors",
-      "Translation": "",
-      "Comment": "Saurier = saurian/lizard. Core lizard-men warriors."
+      "Translation": "Guerrieri Sauriani",
+      "Comment": "Core lizard troops. Fierce reptilian warriors."
     },
     {
       "Key": "Crocolisk Bruisers",
-      "Translation": "",
-      "Comment": "Krokolisk (crocodile-like). Schläger = bruisers. Heavy reptilian warriors."
+      "Translation": "Picchiatori Crocoidali",
+      "Comment": "Heavy reptilian strikers. 'Picchiatori' conveys brute striking force."
     },
     {
       "Key": "Newt Braves",
-      "Translation": "",
-      "Comment": "Molch = newt. Krieger = braves/warriors. Lesser lizard troops."
+      "Translation": "Prodi Tritoni",
+      "Comment": "Lesser lizard troops. Uses classical naming for newt warriors."
     },
     {
       "Key": "Saurian Spear",
-      "Translation": "",
-      "Comment": "Spear-wielding saurian infantry."
+      "Translation": "Lancieri Sauriani",
+      "Comment": "Spear-wielding infantry. Professional spear troops."
     },
     {
       "Key": "Raptor Riders",
-      "Translation": "",
-      "Comment": "Fast cavalry riding velociraptors. Lightning strikes."
+      "Translation": "Cavalieri Rapaci",
+      "Comment": "Dinosaur cavalry. Fast and deadly mounted troops."
     },
     {
       "Key": "Pterodactyl Riders",
-      "Translation": "",
-      "Comment": "Flying cavalry on pterodactyls. Air superiority."
+      "Translation": "Cavalieri Pterodattilo",
+      "Comment": "Flying cavalry. Air superiority troops riding pterodactyls."
     },
     {
       "Key": "Newt Skirmishers",
-      "Translation": "",
-      "Comment": "Light skirmishing troops."
+      "Translation": "Tiratori Tritoni",
+      "Comment": "Light skirmishing troops. Mobile ranged units."
     },
     {
       "Key": "Firelizard",
-      "Translation": "",
-      "Comment": "Fire-breathing lizard monster. Feuer = fire, Eidechse = lizard."
+      "Translation": "Lucertola Infuocata",
+      "Comment": "Fire-breathing monster. Suggests mythical heat and power."
     },
     {
       "Key": "Triceratops",
-      "Translation": "",
-      "Comment": "Kept as dinosaur name. Massive horned beast."
+      "Translation": "Triceratopo",
+      "Comment": "Horned dinosaur. Massive armored beast."
     },
     {
       "Key": "Jungle Swarm",
-      "Translation": "",
-      "Comment": "Swarm of small reptilian creatures from the jungle."
+      "Translation": "Sciame della Giungla",
+      "Comment": "Swarm of reptilian creatures. From jungle ecosystem."
     },
     {
       "Key": "Dreadmaw",
-      "Translation": "",
-      "Comment": "Schrecken = dread, Maul = maw. Terrifying predator."
+      "Translation": "Fauci del Terrore",
+      "Comment": "Terrifying predator. 'Fauci' (maws) conveys fanged menace."
     },
     {
       "Key": "Tyrannosaur",
-      "Translation": "",
-      "Comment": "Kept as dinosaur name. King of the lizards."
+      "Translation": "Tirannosauro",
+      "Comment": "King of dinosaurs. Mighty prehistoric predator."
     },
     {
       "Key": "Newt Priest",
-      "Translation": "",
-      "Comment": "Religious leader of the lesser reptilians."
+      "Translation": "Sacerdote Tritone",
+      "Comment": "Religious leader. Formal, serious tone for priest-warrior."
     },
     {
       "Key": "Saurian Warlord",
-      "Translation": "",
-      "Comment": "Kriegsherr = warlord. Powerful military commander."
+      "Translation": "Signore della Guerra Sauriano",
+      "Comment": "Military commander. Powerful and authoritative warlord."
     },
     {
       "Key": "Ancient Toad",
-      "Translation": "",
-      "Comment": "Uralt = ancient. Kröte = toad. Mystical amphibian sage."
+      "Translation": "Rospo Ancestrale",
+      "Comment": "Mystical amphibian sage. Emphasizes ancient and primordial nature."
     }
   ]
 }

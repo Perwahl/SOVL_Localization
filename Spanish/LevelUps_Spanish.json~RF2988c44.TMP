@@ -183,12 +183,12 @@
     },
     {
       "Key": "Greater Web",
-      "Translation": "Red Arcana Mejorada",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Gives 1 extra charge to Arcane Web.",
-      "Translation": "Otorga 1 uso adicional a Red Arcana.",
+      "Translation": "",
       "Comment": ""
     },
     {
@@ -213,22 +213,22 @@
     },
     {
       "Key": "Greater Regrowth",
-      "Translation": "Regeneración Mejorada",
+      "Translation": "",
       "Comment": "Healing spell"
     },
     {
       "Key": "Upgrades Regrowth to target any unit.",
-      "Translation": "Mejora Regeneración para afectar cualquier unidad.",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Greater Wildform",
-      "Translation": "Forma Salvaje Mejorada",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Upgrades Wildform to give +3 Attacks.",
-      "Translation": "Mejora Forma Salvaje para otorgar +3 Ataques.",
+      "Translation": "",
       "Comment": ""
     },
     {
@@ -423,12 +423,12 @@
     },
     {
       "Key": "Imperial Veterans I",
-      "Translation": "Veteranos Imperiales I",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Unit gets +1 Combat Score",
-      "Translation": "La unidad obtiene +1 de Puntuación de Combate",
+      "Translation": "",
       "Comment": ""
     },
     {
@@ -458,7 +458,7 @@
     },
     {
       "Key": "Recruiter II",
-      "Translation": "Reclutador II",
+      "Translation": "",
       "Comment": ""
     },
     {
@@ -558,12 +558,12 @@
     },
     {
       "Key": "Elf Steed Mastery II",
-      "Translation": "Dominio del Corcel Élfico II",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Charge Bonus: +1 Attack.",
-      "Translation": "Bonificación de Carga: +1 de Ataque.",
+      "Translation": "",
       "Comment": ""
     },
     {
@@ -623,12 +623,12 @@
     },
     {
       "Key": "Goblin Greed",
-      "Translation": "Codicia Goblin",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "+10 gold when looting",
-      "Translation": "+10 de oro al saquear",
+      "Translation": "",
       "Comment": ""
     },
     {
@@ -703,57 +703,57 @@
     },
     {
       "Key": "Blessing of Decay I",
-      "Translation": "Bendición de Decadencia I",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Blessing of Decay II",
-      "Translation": "Bendición de Decadencia II",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Gain Poisoned Attacks",
-      "Translation": "Obtiene Ataques Envenenados",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Blessing of Trickery I",
-      "Translation": "Bendición de Engaño I",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "+1 Move Speed",
-      "Translation": "+1 de Velocidad de Movimiento",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Blessing of Trickery II",
-      "Translation": "Bendición de Engaño II",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Once per battle: Gain Flying for one turn.",
-      "Translation": "Una vez por batalla: Obtiene Vuelo por un turno.",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "War Gods Blessing I",
-      "Translation": "Bendición del Dios de la Guerra I",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "+1 Damage Save vs Ranged",
-      "Translation": "+1 de Salvada de Daño vs Ataque a Distancia",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "War Gods Blessing II",
-      "Translation": "Bendición del Dios de la Guerra II",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Once per battle: Gain +1 Attack",
-      "Translation": "Una vez por batalla: Obtiene +1 de Ataque",
+      "Translation": "",
       "Comment": ""
     },
     {
@@ -768,132 +768,132 @@
     },
     {
       "Key": "Master of Decay",
-      "Translation": "Maestro de la Decadencia",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Gain Regeneration",
-      "Translation": "Obtiene Regeneración",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Lord of Trickery",
-      "Translation": "Señor del Engaño",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Become a servant to the god of Trickery",
-      "Translation": "Conviértete en sirviente del dios del Engaño",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Master of Trickery",
-      "Translation": "Maestro del Engaño",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Gain Ambush deployment",
-      "Translation": "Obtiene despliegue de Emboscada",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Lord of War",
-      "Translation": "Señor de la Guerra",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Become a servant to the god of War",
-      "Translation": "Conviértete en sirviente del dios de la Guerra",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Master of War",
-      "Translation": "Maestro de la Guerra",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Gain Deadly Strikes (deal 3x Wounds)",
-      "Translation": "Obtiene Golpes Mortales (inflige 3x heridas)",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Knightly Vow",
-      "Translation": "Voto Caballeresco",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Unit is upgraded to Sworn Knights",
-      "Translation": "La unidad se mejora a Caballeros Juramentados",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Kings Vow",
-      "Translation": "Voto Real",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Unit is upgraded to Kings Guard",
-      "Translation": "La unidad se mejora a Guardia Real",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Loyal Serfs I",
-      "Translation": "Siervos Leales I",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Loyal Serfs II",
-      "Translation": "Siervos Leales II",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Avalon Marksmen I",
-      "Translation": "Tiradores de Avalon I",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Unit has +3 range for Ranged Attacks.",
-      "Translation": "La unidad tiene +3 de rango para Ataques a Distancia.",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Avalon Marksmen II",
-      "Translation": "Tiradores de Avalon II",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Unit has +10 range for Ranged Attacks.",
-      "Translation": "La unidad tiene +10 de rango para Ataques a Distancia.",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Greater Vengeance",
-      "Translation": "Venganza Mejorada",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Aura of Vengeance can be activated to affect all Knights",
-      "Translation": "Aura de Venganza puede ser activada para afectar todos los Caballeros",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Greater Protection",
-      "Translation": "Protección Mejorada",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Aura of Protection can be activated to affect all Knights",
-      "Translation": "Aura de Protección puede ser activada para afectar todos los Caballeros",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Newly recruited units gain an additonal level",
-      "Translation": "Las unidades reclutadas recientemente ganan un nivel adicional",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "+3 range to Ranged Atacks.",
-      "Translation": "+3 de rango a Ataques a Distancia.",
+      "Translation": "",
       "Comment": ""
     }
   ]

@@ -1,90 +1,90 @@
 {
-  "TranslationContext": "This file contains strings from Unit Deeds and acheivements.",
+  "TranslationContext": "This file contains strings from Unit Deeds and achievements.",
   "Translations": [
     {
       "Key": "Steadfast",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Irremovibile",
+      "Comment": "Unwavering resolve in battle. Maintains heroic tone."
     },
     {
       "Key": "Passed 1 Break Tests.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Superato 1 Test di Resistenza.",
+      "Comment": "Morale test terminology. Italian maintains wargaming accuracy."
     },
     {
       "Key": "Dragon Slayer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ammazzadraghi",
+      "Comment": "Classic fantasy achievement. Maintains epic tone."
     },
     {
       "Key": "Killed 1 dragon.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ucciso 1 drago.",
+      "Comment": "Direct description of deed. Clear and simple."
     },
     {
       "Key": "Deadly",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mortale",
+      "Comment": "Conveys combat prowess. Serious wargame tone."
     },
     {
       "Key": "Killed 1 enemies in combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ucciso 1 nemico in combattimento.",
+      "Comment": "Direct combat kills. Italian emphasizes melee nature."
     },
     {
       "Key": "Marksman",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Tiratore Scelto",
+      "Comment": "Emphasizes ranged weapon skill. Maintains martial tone."
     },
     {
       "Key": "Killed 1 enemies with ranged weapons.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ucciso 1 nemico con armi a distanza.",
+      "Comment": "Distinguishes ranged from melee. Wargaming terminology."
     },
     {
       "Key": "Lucky",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Fortunato",
+      "Comment": "Relates to dice roll fortune in wargaming."
     },
     {
       "Key": "Rolled 1 natural six (33 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Lanciato 1 sei naturale (33% di tutti i tiri).",
+      "Comment": "Dice mechanic description. Technical wargaming term."
     },
     {
       "Key": "Scorer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Conquistatore",
+      "Comment": "Objective capture achievement. Emphasizes victory."
     },
     {
       "Key": "Captured 1 objective.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Catturato 1 obiettivo.",
+      "Comment": "Direct objective capture. Clear tactical term."
     },
     {
       "Key": "Giant Slayer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ammazzagiganti",
+      "Comment": "Monster hunter achievement. Maintains fantasy tone."
     },
     {
       "Key": "Killed 1 giant.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ucciso 1 gigante.",
+      "Comment": "Simple direct deed. Clear and concise."
     },
     {
       "Key": "Treefeller",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Abbattitore di Alberi",
+      "Comment": "Treant/forest spirit slayer. Specific monster type."
     },
     {
       "Key": "Felled 1 tree monster.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Abbattuto 1 mostro arboreo.",
+      "Comment": "Forest creature killer. Clear creature designation."
     },
     {
       "Key": "Dino Hunter",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Cacciatore di Dinosauri",
+      "Comment": "Dinosaur slayer. Fantasy creature hunter."
     },
     {
       "Key": "Killed 1 dinosaur.",

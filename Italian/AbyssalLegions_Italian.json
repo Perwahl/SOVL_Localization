@@ -3,83 +3,83 @@
   "Translations": [
     {
       "Key": "Abyssal Legions",
-      "Translation": "",
-      "Comment": "Legionen = legions. Organized demonic armies, mixed with corrupted mortals."
+      "Translation": "Legioni Abissali",
+      "Comment": "Organized demonic armies. Used plural 'Legioni' with 'Abissali' adjective to match Spanish pattern and emphasize corruption from the abyss."
     },
     {
       "Key": "Northmen Axe",
-      "Translation": "",
-      "Comment": "Nordmänner = Northmen (barbarians). Axtkrieger = axe warriors. Corrupted northern warriors."
+      "Translation": "Nordici dell'Ascia",
+      "Comment": "Northern warriors. Used 'Nordici' for warriors and 'dell'Ascia' (of the axe) to emphasize barbarian identity and weapon specialization."
     },
     {
       "Key": "Abyssal Warriors",
-      "Translation": "",
-      "Comment": "Armored warriors corrupted by the abyss."
+      "Translation": "Guerrieri Abissali",
+      "Comment": "Core infantry unit. 'Guerrieri' with 'Abissali' expresses the demonic corruption, consistent with previous faction patterns."
     },
     {
       "Key": "Dragon Spawn",
-      "Translation": "",
-      "Comment": "Brut = spawn. Corrupted dragon-like creatures."
+      "Translation": "Cria di Drago",
+      "Comment": "Corrupted dragon-like creatures. Used 'Cria' (spawn/brood) paralleling Spanish 'Cría' to convey bestial nature and dragon heritage."
     },
     {
       "Key": "Northmen Horse",
-      "Translation": "",
-      "Comment": "Reiter = riders/cavalry. Northern barbarian cavalry."
+      "Translation": "Cavalieri Nordici",
+      "Comment": "Northern cavalry. Masculine 'Cavalieri' emphasizes mounted warriors from the barbaric north, parallel to Spanish 'Jinetes Nórdicos'."
     },
     {
       "Key": "Abyssal Knights",
-      "Translation": "",
-      "Comment": "Corrupted knights serving the abyss. Heavy demonic cavalry."
+      "Translation": "Cavalieri Abissali",
+      "Comment": "Corrupted knights. Heavy demonic cavalry unit. 'Cavalieri Abissali' maintains nobility theme while showing corruption."
     },
     {
       "Key": "Abyssal Hounds",
-      "Translation": "",
-      "Comment": "War hounds from the abyss. Fast attack beasts."
+      "Translation": "Mastini Abissali",
+      "Comment": "War hounds. Used 'Mastini' (mastiff-type hounds) for martial ferocity; 'Abissali' shows corruption, matching Spanish 'Sabuesos'."
     },
     {
       "Key": "Abyssal Chariot",
-      "Translation": "",
-      "Comment": "Demonic chariot. Brutal and swift."
+      "Translation": "Carro Abissale",
+      "Comment": "Demonic war machine. Direct compound emphasizes brutal speed and infernal engineering, parallel to Spanish 'Carro Abisal'."
     },
     {
       "Key": "Archdevil",
-      "Translation": "",
-      "Comment": "Greater demon. Same as in Abyssal Demons faction."
+      "Translation": "Arcidimone",
+      "Comment": "Greater demon lord. Maintains consistency with Abyssal Demons faction translation, conveying supreme demonic authority."
     },
     {
       "Key": "Devilspawn",
-      "Translation": "",
-      "Comment": "Lesser demons. Same as in Abyssal Demons faction."
+      "Translation": "Prole Demoniaca",
+      "Comment": "Lesser demons. Maintains consistency with Abyssal Demons faction translation, emphasizing infernal breeding."
     },
     {
       "Key": "War Mammoth",
-      "Translation": "",
-      "Comment": "Corrupted war mammoth. Massive beast of war."
+      "Translation": "Mammut da Guerra",
+      "Comment": "Corrupted mammoth. Direct translation emphasizing massive, unstoppable nature of the corrupted beast."
     },
     {
       "Key": "Abyssal Dragon",
-      "Translation": "",
-      "Comment": "Dragon corrupted by the abyss. Terrifying flying monster."
+      "Translation": "Drago Abissale",
+      "Comment": "Premier flying threat. Conveys terrifying power and ancient corruption, parallel to Spanish 'Dragón Abisal'."
     },
     {
       "Key": "Manticore",
-      "Translation": "",
-      "Comment": "Standard German term for manticore. Mythological beast."
+      "Translation": "Manticora",
+      "Comment": "Mythological beast. Standard Italian term for manticore, maintaining the creature's fearsome and ancient nature."
     },
     {
       "Key": "Abyssal Champion",
-      "Translation": "",
-      "Comment": "Elite warrior of the abyss. Mighty hero unit."
+      "Translation": "Campione Abissale",
+      "Comment": "Elite hero unit. Singular form emphasizes individual might and demonic mastery, parallel to Spanish 'Campeón Abisal'."
     },
     {
       "Key": "Abyssal Sorcerer",
-      "Translation": "",
-      "Comment": "Dark sorcerer wielding abyssal magic."
+      "Translation": "Stregone Abissale",
+      "Comment": "Dark spellcaster. Used 'Stregone' to convey arcane corruption and malevolent intent in the abyssal service."
     },
     {
       "Key": "Northmen Packleader",
-      "Translation": "",
-      "Comment": "Rudelführer = pack leader. Barbarian warlord."
+      "Translation": "Capo Branco Nordico",
+      "Comment": "Barbarian warlord. Used 'Capo Branco' (pack leader) to emphasize brutal, animalistic leadership of corrupted northern warriors."
     }
   ]
 }

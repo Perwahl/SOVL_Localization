@@ -183,12 +183,12 @@
     },
     {
       "Key": "Greater Web",
-      "Translation": "Red Arcana Mejorada",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Gives 1 extra charge to Arcane Web.",
-      "Translation": "Otorga 1 uso adicional a Red Arcana.",
+      "Translation": "",
       "Comment": ""
     },
     {
@@ -213,22 +213,22 @@
     },
     {
       "Key": "Greater Regrowth",
-      "Translation": "Regeneración Mejorada",
+      "Translation": "",
       "Comment": "Healing spell"
     },
     {
       "Key": "Upgrades Regrowth to target any unit.",
-      "Translation": "Mejora Regeneración para afectar cualquier unidad.",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Greater Wildform",
-      "Translation": "Forma Salvaje Mejorada",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Upgrades Wildform to give +3 Attacks.",
-      "Translation": "Mejora Forma Salvaje para otorgar +3 Ataques.",
+      "Translation": "",
       "Comment": ""
     },
     {
@@ -423,12 +423,12 @@
     },
     {
       "Key": "Imperial Veterans I",
-      "Translation": "Veteranos Imperiales I",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Unit gets +1 Combat Score",
-      "Translation": "La unidad obtiene +1 de Puntuación de Combate",
+      "Translation": "",
       "Comment": ""
     },
     {
@@ -458,7 +458,7 @@
     },
     {
       "Key": "Recruiter II",
-      "Translation": "Reclutador II",
+      "Translation": "",
       "Comment": ""
     },
     {
@@ -558,12 +558,12 @@
     },
     {
       "Key": "Elf Steed Mastery II",
-      "Translation": "Dominio del Corcel Élfico II",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Charge Bonus: +1 Attack.",
-      "Translation": "Bonificación de Carga: +1 de Ataque.",
+      "Translation": "",
       "Comment": ""
     },
     {
@@ -623,12 +623,12 @@
     },
     {
       "Key": "Goblin Greed",
-      "Translation": "Codicia Goblin",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "+10 gold when looting",
-      "Translation": "+10 de oro al saquear",
+      "Translation": "",
       "Comment": ""
     },
     {
@@ -798,12 +798,12 @@
     },
     {
       "Key": "Lord of War",
-      "Translation": "Señor de la Guerra",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Become a servant to the god of War",
-      "Translation": "Conviértete en sirviente del dios de la Guerra",
+      "Translation": "",
       "Comment": ""
     },
     {
@@ -818,12 +818,12 @@
     },
     {
       "Key": "Knightly Vow",
-      "Translation": "Voto Caballeresco",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Unit is upgraded to Sworn Knights",
-      "Translation": "La unidad se mejora a Caballeros Juramentados",
+      "Translation": "",
       "Comment": ""
     },
     {
@@ -843,7 +843,7 @@
     },
     {
       "Key": "Loyal Serfs II",
-      "Translation": "Siervos Leales II",
+      "Translation": "",
       "Comment": ""
     },
     {
@@ -878,17 +878,17 @@
     },
     {
       "Key": "Greater Protection",
-      "Translation": "Protección Mejorada",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Aura of Protection can be activated to affect all Knights",
-      "Translation": "Aura de Protección puede ser activada para afectar todos los Caballeros",
+      "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Newly recruited units gain an additonal level",
-      "Translation": "Las unidades reclutadas recientemente ganan un nivel adicional",
+      "Translation": "",
       "Comment": ""
     },
     {

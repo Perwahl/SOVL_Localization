@@ -3,98 +3,98 @@
   "Translations": [
     {
       "Key": "Knights of Avalon",
-      "Translation": "",
-      "Comment": "Direct translation. Noble knights of the legendary kingdom."
+      "Translation": "Caballeros de Avalón",
+      "Comment": "Direct translation. Noble knights of the legendary kingdom. Avalón is the standard Spanish name for Avalon."
     },
     {
       "Key": "Sword Militia",
-      "Translation": "",
-      "Comment": "Miliz = militia. Citizen soldiers with swords."
+      "Translation": "Milicia Espadachín",
+      "Comment": "Militia with swords. Espadachín conveys skilled sword-wielders, giving them a more martial feel than just 'sword militia'."
     },
     {
       "Key": "Peasant Mob",
-      "Translation": "",
-      "Comment": "Bauern = peasants. Untrained levies."
+      "Translation": "Chusma Aldeana",
+      "Comment": "Untrained levies of peasants. Chusma suggests disorganized masses while aldeana denotes village folk. Conveys lack of discipline."
     },
     {
       "Key": "Halberd Militia",
-      "Translation": "",
-      "Comment": "Militia armed with halberds."
+      "Translation": "Milicia Alabardera",
+      "Comment": "Militia armed with halberds. Alabarda is the Spanish word for halberd; alabardera refers to those who wield it."
     },
     {
       "Key": "Spear Militia",
-      "Translation": "",
-      "Comment": "Basic spear-wielding militia."
+      "Translation": "Milicia Lancera",
+      "Comment": "Basic spear-wielding militia. Lancera denotes those armed with lances or spears, fitting the military hierarchy of basic infantry."
     },
     {
       "Key": "Knight Aspirants",
-      "Translation": "",
-      "Comment": "Aspiranten = aspirants. Young warriors training to become knights."
+      "Translation": "Aspirantes a Caballeros",
+      "Comment": "Young warriors training to become knights. Direct and clear, emphasizing their path to knighthood."
     },
     {
       "Key": "Mounted Hunters",
-      "Translation": "",
-      "Comment": "Beritten = mounted. Jäger = hunters. Light cavalry."
+      "Translation": "Cazadores Montados",
+      "Comment": "Light cavalry scouts. Cazadores montados emphasizes their mounted and hunting role as light cavalry and reconnaissance units."
     },
     {
       "Key": "Sworn Knights",
-      "Translation": "",
-      "Comment": "Geschworene = sworn. Knights who have taken sacred oaths."
+      "Translation": "Caballeros Juramentados",
+      "Comment": "Knights bound by sacred oaths. Juramentados conveys the solemnity of sworn vows and duty inherent to their order."
     },
     {
       "Key": "Hunting Dogs",
-      "Translation": "",
-      "Comment": "War dogs used in battle."
+      "Translation": "Perros de Caza",
+      "Comment": "War dogs used in battle. Simple and direct, maintains their hunting/combat nature without military formality."
     },
     {
       "Key": "Hunters",
-      "Translation": "",
-      "Comment": "Skilled hunters serving as scouts and archers."
+      "Translation": "Cazadores",
+      "Comment": "Skilled hunters serving as scouts and archers. Generic but effective; cazadores are versatile ranged combatants and scouts."
     },
     {
       "Key": "Trebuchet",
-      "Translation": "",
-      "Comment": "Trebuchet as technical term for the catapult. Alternative: Wurfmaschine."
+      "Translation": "Trebuchete",
+      "Comment": "Siege weapon. Trebuchete is the direct Spanish adoption of the technical term, maintaining its technical precision in a fantasy wargame context."
     },
     {
       "Key": "Longbowmen",
-      "Translation": "",
-      "Comment": "Famous archers with longbows. Elite ranged troops."
+      "Translation": "Arqueros Largos",
+      "Comment": "Elite archers with longbows. Arqueros largos directly conveys 'long archers', emphasizing their specialized ranged prowess and status."
     },
     {
       "Key": "Kings Guard",
-      "Translation": "",
-      "Comment": "Elite guards protecting the king. Best warriors of the realm."
+      "Translation": "Guardia Real",
+      "Comment": "Elite royal guards. Guardia Real (Royal Guard) is the standard term, emphasizing their elite status and direct service to the crown."
     },
     {
       "Key": "Pegasus Knights",
-      "Translation": "",
-      "Comment": "Knights riding pegasi. Flying cavalry."
+      "Translation": "Caballeros Pegaso",
+      "Comment": "Flying cavalry on pegasi. Caballeros Pegaso maintains the fantasy aesthetic while clearly identifying them as mounted knights of the skies."
     },
     {
       "Key": "Hippogryph",
-      "Translation": "",
-      "Comment": "Kept as fantasy creature name. Gryphon-horse hybrid."
+      "Translation": "Hipogrifo",
+      "Comment": "Fantasy creature name (gryphon-horse hybrid). Hipogrifo is the standard Spanish term for this mythical hybrid, kept true to fantasy conventions."
     },
     {
       "Key": "Pegasus",
-      "Translation": "",
-      "Comment": "Mythological winged horse. Kept as is."
+      "Translation": "Pegaso",
+      "Comment": "Mythological winged horse. Pegaso is the standard Spanish adaptation of the classical mythological name, universally recognized in fantasy contexts."
     },
     {
       "Key": "Unicorn",
-      "Translation": "",
-      "Comment": "Standard German for unicorn. Magical pure creature."
+      "Translation": "Unicornio",
+      "Comment": "Magical unicorn creature. Unicornio is the standard Spanish term, easily recognizable to Spanish-speaking fantasy enthusiasts."
     },
     {
       "Key": "Maiden",
-      "Translation": "",
-      "Comment": "Jungfrau = maiden. Holy warrior blessed by the divine. Alternative: Heilige Jungfrau."
+      "Translation": "Doncella",
+      "Comment": "Holy warrior maiden blessed by the divine. Doncella carries the noble and sacred connotation appropriate for a holy warrior, distinct from simple maiden."
     },
     {
       "Key": "Paladin",
-      "Translation": "",
-      "Comment": "Paladin is universally recognized. Holy knight champion."
+      "Translation": "Paladín",
+      "Comment": "Holy knight champion. Paladín is the direct Spanish adaptation of the universal fantasy term, maintaining recognition across all fantasy media."
     }
   ]
 }

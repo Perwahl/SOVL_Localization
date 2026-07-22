@@ -3,1128 +3,1128 @@
   "Translations": [
     {
       "Key": "Spear and Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Lancia e Scudo",
+      "Comment": "Classic defensive pairing; direct military terminology"
     },
     {
       "Key": "Swift",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Veloce",
+      "Comment": "Describes movement agility; 'rapido' alternative more military-focused but 'veloce' better captures agility"
     },
     {
       "Key": "Bolt Thrower",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Lanciatore di Quadrelli",
+      "Comment": "Maintains the descriptive unit role; 'quadrello' is proper crossbow bolt terminology"
     },
     {
       "Key": "Lethal Shots",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Colpi Mortali",
+      "Comment": "Emphasizes deadly accuracy; threatening and serious tone"
     },
     {
       "Key": "Crewed Weapon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Arma di Equipaggio",
+      "Comment": "Indicates multi-operator weapon; 'equipaggio' mirrors military terminology"
     },
     {
       "Key": "Reposition",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ridisposizione",
+      "Comment": "Tactical movement ability; formal military terminology"
     },
     {
       "Key": "Hand Weapon+Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Arma da Mano + Scudo",
+      "Comment": "Maintains game notation while Italian; straightforward equipment designation"
     },
     {
       "Key": "Sturdy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Robusto",
+      "Comment": "Describes durability; conveys strength and resilience"
     },
     {
       "Key": "Fearless",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Intrepido",
+      "Comment": "Emphasizes bravery in combat; 'senza paura' too literal, 'intrepido' has warrior connotation"
     },
     {
       "Key": "Greatweapon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Arma Colossale",
+      "Comment": "Translates fantasy game term; 'colossale' conveys size and power appropriate to greatswords"
     },
     {
       "Key": "Hand Weapon and Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Arma da Mano e Scudo",
+      "Comment": "Standard medieval equipment pairing; formal presentation"
     },
     {
       "Key": "Mountain's Will",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Volontà della Montagna",
+      "Comment": "Poetic defensive ability; 'volontà' captures unwavering resolve of mountainous forces"
     },
     {
       "Key": "Ramming Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Velocità di Ariete",
+      "Comment": "Vehicle assault ability; 'ariete' (ram) clarifies crushing impact nature"
     },
     {
       "Key": "Steam Gun",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Cannone a Vapore",
+      "Comment": "Steampunk fantasy tech; direct terminology maintaining genre tone"
     },
     {
       "Key": "Flying",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Volo",
+      "Comment": "Simple but imposing; describes supernatural/creature ability"
     },
     {
       "Key": "Masterwork Armor",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Armatura di Maestria",
+      "Comment": "Premium equipment designation; 'maestria' denotes master-crafted quality"
     },
     {
       "Key": "Bodyguard",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Guardia del Corpo",
+      "Comment": "Protective role designation; formal military hierarchy term"
     },
     {
       "Key": "Frenzy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Furia",
+      "Comment": "Intense combat state; single powerful word conveys uncontrolled aggression"
     },
     {
       "Key": "Two Hand Weapons",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Armi a Due Mani",
+      "Comment": "Equipment designation; 'a due mani' is standard Italian gaming term for dual-wielding"
     },
     {
       "Key": "Crossbows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Balestre",
+      "Comment": "Plural weapon type; 'balestra' is proper Italian term for crossbow"
     },
     {
       "Key": "Scout",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Esploratore",
+      "Comment": "Reconnaissance role; military term denoting forward observer capability"
     },
     {
       "Key": "Cannon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Cannone",
+      "Comment": "Standard siege weapon; direct Italian military terminology"
     },
     {
       "Key": "Handguns",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Moschetti",
+      "Comment": "Historical firearms; 'moschetto' used in both fantasy and historical contexts"
     },
     {
       "Key": "Catapult",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Catapulta",
+      "Comment": "Siege engine; Latin-derived term common across Romance languages"
     },
     {
       "Key": "Banner of Swiftness",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Stendardo della Velocità",
+      "Comment": "Magical banner; 'stendardo' appropriate for unit banner, 'velocità' for movement bonus"
     },
     {
       "Key": "Banner of Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Stendardo della Furia",
+      "Comment": "Aggressive buff banner; 'furia' conveys unleashed combat power"
     },
     {
       "Key": "Banner of Valor",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Stendardo del Valore",
+      "Comment": "Morale/courage banner; 'valore' denotes both courage and power in Italian"
     },
     {
       "Key": "Banner of Mist",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Stendardo della Nebbia",
+      "Comment": "Evasion/defense magical effect; 'nebbia' (mist) creates appropriate mystical tone"
     },
     {
       "Key": "War Banner",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Stendardo di Guerra",
+      "Comment": "Standard military banner; straightforward, dignified terminology"
     },
     {
       "Key": "Cursed Standard",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Insegna Maledetta",
+      "Comment": "Dark/evil banner; 'maledetta' emphasizes curse and dread"
     },
     {
       "Key": "Heavy Armor",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Armatura Pesante",
+      "Comment": "Equipment tier; standard wargame armor classification"
     },
     {
       "Key": "Halberd",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Alabarda",
+      "Comment": "Historical polearm; 'alabarda' is established Italian term for this weapon"
     },
     {
       "Key": "Lance and Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Lancia e Scudo",
+      "Comment": "Mounted/cavalry equipment; classic knightly configuration"
     },
     {
       "Key": "Hand Weapon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Arma da Mano",
+      "Comment": "Generic melee weapon term; covers swords, axes, maces"
     },
     {
       "Key": "Brace of Pistols",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Coppia di Pistole",
+      "Comment": "Pair of ranged weapons; 'coppia' denotes matched set"
     },
     {
       "Key": "Longbows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Lunghi Archi",
+      "Comment": "Ranged weapon; 'lunghi archi' maintains equipment classification tone"
     },
     {
       "Key": "Mortar",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mortaio",
+      "Comment": "Siege artillery; standard Italian military terminology"
     },
     {
       "Key": "Armor Plating",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Piastra d'Armatura",
+      "Comment": "Enhanced/reinforced armor; 'piastra' denotes armor plates or reinforcement"
     },
     {
       "Key": "Full Steam",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Massimo Vapore",
+      "Comment": "Steampunk power boost; conveys maximum engine output and aggression"
     },
     {
       "Key": "Claws",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Artigli",
+      "Comment": "Natural beast weapon; menacing and primal"
     },
     {
       "Key": "Fangs",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Zanne",
+      "Comment": "Natural creature attack; bestial and dangerous"
     },
     {
       "Key": "Fire Breath",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Fiato Ardente",
+      "Comment": "Dragon/creature power; 'fiato ardente' conveys scorching dragon fire"
     },
     {
       "Key": "Inspire Valor",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ispira Valore",
+      "Comment": "Leadership buff; 'ispira' and 'valore' convey heroic morale effect"
     },
     {
       "Key": "Vitality",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Vitalità",
+      "Comment": "Life force/health stat; denotes robust vigor"
     },
     {
       "Key": "Unyielding",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Implacabile",
+      "Comment": "Immovable/resolute trait; 'implacabile' conveys unstoppable determination"
     },
     {
       "Key": "Command",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Comando",
+      "Comment": "Leadership ability; formal military hierarchy term"
     },
     {
       "Key": "Prowess",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Prodezza",
+      "Comment": "Combat skill/mastery; archaic Italian term fitting fantasy tone"
     },
     {
       "Key": "Unnatural Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Potere Sovrumano",
+      "Comment": "Supernatural ability; 'sovrumano' denotes otherworldly force"
     },
     {
       "Key": "Potion of Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Pozione di Potere",
+      "Comment": "Magic item; straightforward fantasy item designation"
     },
     {
       "Key": "Cruelty",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Crudeltà",
+      "Comment": "Malevolent trait; emphasizes sadistic combat style"
     },
     {
       "Key": "Flametongue",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Lingua di Fuoco",
+      "Comment": "Magical weapon; poetic fantasy item name"
     },
     {
       "Key": "Relentless",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Inesorabile",
+      "Comment": "Persistent/unstoppable trait; conveys remorseless advance"
     },
     {
       "Key": "Heart Seeker",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ricerca del Cuore",
+      "Comment": "Deadly attack ability; 'ricerca del cuore' suggests lethal precision"
     },
     {
       "Key": "True Strike",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Colpo Vero",
+      "Comment": "Accurate attack; 'colpo vero' denotes devastating precision strike"
     },
     {
       "Key": "Furious Charge",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Carica Furente",
+      "Comment": "Aggressive assault; 'furente' conveys raging momentum"
     },
     {
       "Key": "Fireball",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Palla di Fuoco",
+      "Comment": "Spell; classic fantasy magic terminology"
     },
     {
       "Key": "Frost Ward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Barriera di Gelo",
+      "Comment": "Defensive ice spell; 'barriera' and 'gelo' convey protective cold magic"
     },
     {
       "Key": "Divine Favour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Favore Divino",
+      "Comment": "Holy blessing; serious spiritual terminology"
     },
     {
       "Key": "Shadow Bolt",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Dardo d'Ombra",
+      "Comment": "Dark spell; 'dardo' (bolt) conveys swift shadow magic"
     },
     {
       "Key": "Radiant Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Scudo Raggiante",
+      "Comment": "Holy protection spell; 'raggiante' denotes shining divine light"
     },
     {
       "Key": "Hex Of Ruin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maledizione della Rovina",
+      "Comment": "Destructive curse; 'maledizione della rovina' conveys inevitable doom"
     },
     {
       "Key": "Shortbows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Archi Corti",
+      "Comment": "Ranged weapon; standard equipment classification"
     },
     {
       "Key": "Crushing Charge",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Carica Schiacciante",
+      "Comment": "Heavy impact ability; 'schiacciante' denotes overwhelming force"
     },
     {
       "Key": "Regeneration",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Rigenerazione",
+      "Comment": "Healing ability; classic fantasy terminology"
     },
     {
       "Key": "Poisoned Attacks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Attacchi Avvelenati",
+      "Comment": "Toxic damage modifier; straightforward combat effect"
     },
     {
       "Key": "Web",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ragnatela",
+      "Comment": "Entangling trap; suggests creature ability (spider-like)"
     },
     {
       "Key": "Warcry",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Grido di Guerra",
+      "Comment": "Morale/combat initiator; traditional warrior battle call"
     },
     {
       "Key": "Primal Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Furia Primordiale",
+      "Comment": "Beast/savage ability; 'primordiale' denotes ancient, raw power"
     },
     {
       "Key": "Thousand Mouths",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mille Bocche",
+      "Comment": "Exotic creature ability; maintains mystical/horror tone"
     },
     {
       "Key": "Shroud",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Velo",
+      "Comment": "Concealment/defense ability; 'velo' (veil) suggests magical obscurement"
     },
     {
       "Key": "Wildform",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Forma Selvaggia",
+      "Comment": "Shape-shifting ability; fantasy transformation power"
     },
     {
       "Key": "Power Of Many",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Potere della Moltitudine",
+      "Comment": "Collective strength ability; 'moltitudine' emphasizes hive-mind or swarm tactics"
     },
     {
       "Key": "Explosive Charges",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Cariche Esplosive",
+      "Comment": "Explosive ordnance; military demolition terminology"
     },
     {
       "Key": "Ambusher",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Imboscatore",
+      "Comment": "Tactical predator role; military ambush specialist"
     },
     {
       "Key": "Inferno Cannon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Cannone Infernale",
+      "Comment": "Flaming artillery; 'infernale' conveys hellish destructive power"
     },
     {
       "Key": "Marksman Rifle",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Fucile da Tiratore Scelto",
+      "Comment": "Precision firearm; 'tiratore scelto' (sniper) emphasizes accuracy"
     },
     {
       "Key": "Ranger",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ranger",
+      "Comment": "Remains in English; established fantasy gaming term without clear Italian equivalent"
     },
     {
       "Key": "Dwarf Pistol",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Pistola Nanica",
+      "Comment": "Dwarf-crafted firearm; faction-specific technology"
     },
     {
       "Key": "Mechanical Expertise",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Perizia Meccanica",
+      "Comment": "Dwarf technical skill; emphasizes craftsmanship"
     },
     {
       "Key": "Elven Mastery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maestria Elfica",
+      "Comment": "Elf racial ability; supernatural grace and skill"
     },
     {
       "Key": "Bows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Archi",
+      "Comment": "Generic bow weapons; standard ranged equipment"
     },
     {
       "Key": "Rallying Cry",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Grido di Riscossa",
+      "Comment": "Morale restoration; 'riscossa' denotes heroic comeback"
     },
     {
       "Key": "Arcane Web",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ragnatela Arcana",
+      "Comment": "Magical trap; mystical variant of entanglement"
     },
     {
       "Key": "Reality Rift",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Frattura della Realtà",
+      "Comment": "Reality-warping spell; 'frattura' (breach) emphasizes dimensional distortion"
     },
     {
       "Key": "Fiery Blades",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Lame di Fuoco",
+      "Comment": "Flaming weapon enhancement; straightforward combat buff"
     },
     {
       "Key": "Reanimated",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Rianimate",
+      "Comment": "Undead state; raised by necromancy"
     },
     {
       "Key": "Unarmed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Disarmato",
+      "Comment": "No weapon equipped; denotes bare-handed combat"
     },
     {
       "Key": "Putrid Stench",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Fetore Putrefatto",
+      "Comment": "Undead debuff; 'putrefatto' emphasizes decay and disease"
     },
     {
       "Key": "Eternal Reign",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Regno Eterno",
+      "Comment": "Immortal leadership ability; denotes undying authority"
     },
     {
       "Key": "Unholy Vigour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Vigore Profano",
+      "Comment": "Undead strength enhancement; evil supernatural power"
     },
     {
       "Key": "Reanimate",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Rianimazione",
+      "Comment": "Necromantic resurrection spell; central undead ability"
     },
     {
       "Key": "Plague",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Pestilenza",
+      "Comment": "Disease effect; undead corruption ability"
     },
     {
       "Key": "Raise Dead",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Risuscita i Morti",
+      "Comment": "Necromantic summoning; creates undead units"
     },
     {
       "Key": "Javelins",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Giavellotti",
+      "Comment": "Thrown weapons; missile infantry equipment"
     },
     {
       "Key": "Boulder Throw",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Lancio di Macigni",
+      "Comment": "Giant/creature ranged attack; massive projectile weapon"
     },
     {
       "Key": "Blood Frenzy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Furia di Sangue",
+      "Comment": "Savage combat state; rage fueled by violence"
     },
     {
       "Key": "Raider",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Predatore",
+      "Comment": "Savage assault role; emphasizes pillaging nature"
     },
     {
       "Key": "Blood Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Furia di Sangue",
+      "Comment": "Combat fury state; unstoppable warrior rage"
     },
     {
       "Key": "Abyssal Armor",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Armatura Abissale",
+      "Comment": "Demonic protection; dark supernatural armor"
     },
     {
       "Key": "Scaly Skin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Pelle Squamata",
+      "Comment": "Natural armor; reptilian/draconic trait"
     },
     {
       "Key": "Demonic",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Demoniaco",
+      "Comment": "Infernal nature; evil supernatural classification"
     },
     {
       "Key": "Gift Of War",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Dono di Guerra",
+      "Comment": "Bestowed combat ability; divine/dark blessing"
     },
     {
       "Key": "Tusks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Zanne Enormi",
+      "Comment": "Bestial melee weapon; orc/animal natural attack"
     },
     {
       "Key": "Demonic Possession",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Possessione Demoniaca",
+      "Comment": "Spiritual corruption; infernal control"
     },
     {
       "Key": "Pack Tactics",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Tattica di Branco",
+      "Comment": "Coordinated assault; predator unit synergy"
     },
     {
       "Key": "Howl",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ululato",
+      "Comment": "Beast communication/buff; wolf/predator cry"
     },
     {
       "Key": "Horns",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Corna",
+      "Comment": "Melee weapon attachment; beast natural weapon"
     },
     {
       "Key": "Newt Shortbows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Corti Archi di Tritone",
+      "Comment": "Newt-specific ranged weapon; faction equipment"
     },
     {
       "Key": "Roar!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ruggito!",
+      "Comment": "Beast intimidation ability; primal power display"
     },
     {
       "Key": "Ancient Knowledge",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Sapienza Antica",
+      "Comment": "Magical knowledge ability; mystical wisdom"
     },
     {
       "Key": "Throwing Stars",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Stelle Lanciate",
+      "Comment": "Exotic ranged weapon; ninja/assassin tools"
     },
     {
       "Key": "Longrifle",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Fucile Lungo",
+      "Comment": "Long-range firearm; precision rifle weapon"
     },
     {
       "Key": "Sling",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Fionda",
+      "Comment": "Ancient ranged weapon; simple missile thrower"
     },
     {
       "Key": "Flamer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Lanciafiamme",
+      "Comment": "Flamethrower weapon; fire-based ranged attack"
     },
     {
       "Key": "Doom Bell",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Campana della Rovina",
+      "Comment": "Ominous artifact; mystical curse device"
     },
     {
       "Key": "Cruel Motivation",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Motivazione Crudele",
+      "Comment": "Dark leadership buff; uses fear and cruelty as incentive"
     },
     {
       "Key": "Deadly Strike",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Colpo Mortale",
+      "Comment": "Enhanced lethal attack; precision killing technique"
     },
     {
       "Key": "Hidden",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Nascosto",
+      "Comment": "Concealment status; invisible to enemies"
     },
     {
       "Key": "Barkskin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Pelle di Corteccia",
+      "Comment": "Nature-based armor; tree-like protective covering"
     },
     {
       "Key": "Forest Spirit",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Spirito della Foresta",
+      "Comment": "Nature entity; woodland mystical being"
     },
     {
       "Key": "Elven Accuracy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Precisione Elfica",
+      "Comment": "Elf racial archery bonus; supernatural aim"
     },
     {
       "Key": "Hunters Bow",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Arco del Cacciatore",
+      "Comment": "Specialized hunting weapon; skilled archer tool"
     },
     {
       "Key": "Hunters Call",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Richiamo del Cacciatore",
+      "Comment": "Hunting coordination ability; tracker communication"
     },
     {
       "Key": "Regrowth",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ricrescita",
+      "Comment": "Nature healing; regeneration through magic"
     },
     {
       "Key": "Take Root",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mettere Radici",
+      "Comment": "Plant immobilization; nature lock spell"
     },
     {
       "Key": "Light Crossbow",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Balestra Leggera",
+      "Comment": "Lightweight ranged weapon; faster-firing variant"
     },
     {
       "Key": "Hooves",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Zoccoli",
+      "Comment": "Animal attack weapon; mounted unit natural weapon"
     },
     {
       "Key": "Feint",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Finta",
+      "Comment": "Tactical evasion; combat dodge maneuver"
     },
     {
       "Key": "Gift Of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Dono dell'Inganno",
+      "Comment": "Deception blessing; cunning enhancement"
     },
     {
       "Key": "Gift Of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Dono del Decadimento",
+      "Comment": "Corruption blessing; decay enhancement"
     },
     {
       "Key": "Phase Out",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Fase Immateriale",
+      "Comment": "Teleportation/ethereal dodge; dimensional escape"
     },
     {
       "Key": "Lord of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Signore del Decadimento",
+      "Comment": "Mastery of corruption; plague lord status"
     },
     {
       "Key": "Lord of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Signore dell'Inganno",
+      "Comment": "Mastery of deception; ultimate cunning"
     },
     {
       "Key": "Lord Of War",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Signore di Guerra",
+      "Comment": "Supreme military commander; ultimate warrior status"
     },
     {
       "Key": "Horse Masters",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maestri di Cavalli",
+      "Comment": "Equestrian expertise; mounted cavalry proficiency"
     },
     {
       "Key": "Fey",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Fatato",
+      "Comment": "Fey nature; otherworldly magical being"
     },
     {
       "Key": "Aura of Protection",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aura di Protezione",
+      "Comment": "Defensive battlefield effect; holy defensive aura"
     },
     {
       "Key": "Holy Blade",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Lama Sacra",
+      "Comment": "Divine weapon; blessed holy sword"
     },
     {
       "Key": "Aura of Vengeance",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aura di Vendetta",
+      "Comment": "Offensive battlefield effect; wrathful aura"
     },
     {
       "Key": "3 Hand Weapons",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "3 Armi da Mano",
+      "Comment": "Triple weapon loadout; notation matches game syntax"
     },
     {
       "Key": "3x Pistols",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "3x Pistole",
+      "Comment": "Triple pistol loadout; notation matches game syntax"
     },
     {
       "Key": "Lance+Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Lancia+Scudo",
+      "Comment": "Combined equipment notation; game mechanics formatting"
     },
     {
       "Key": "Dark Gift",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Dono Oscuro",
+      "Comment": "Evil blessing; dark power enhancement"
     },
     {
       "Key": "Divine Protection",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Protezione Divina",
+      "Comment": "Holy defense buff; sacred shielding"
     },
     {
       "Key": "Battle Hardened",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Indurito in Battaglia",
+      "Comment": "Experience-based toughness; veteran resilience"
     },
     {
       "Key": "Marksman",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Tiratore Scelto",
+      "Comment": "Precision archer role; sniper expertise"
     },
     {
       "Key": "Spell Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Potere Magico",
+      "Comment": "Magical strength enhancement; spell potency boost"
     },
     {
       "Key": "Spell Weaver",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Tessitore di Magie",
+      "Comment": "Advanced magic mastery; spellcasting expertise"
     },
     {
       "Key": "Offensive Mastery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maestria Offensiva",
+      "Comment": "Attack expertise; combat prowess enhancement"
     },
     {
       "Key": "Veteran Crew",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Equipaggio Veterano",
+      "Comment": "Experienced multi-operator unit; seasoned crew"
     },
     {
       "Key": "Veteran Discipline",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Disciplina Veterana",
+      "Comment": "Combat discipline from experience; tactical training"
     },
     {
       "Key": "Veteran Accuracy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Precisione Veterana",
+      "Comment": "Seasoned marksmanship; experienced accuracy"
     },
     {
       "Key": "Veteran Skill",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Abilità Veterana",
+      "Comment": "Combat mastery from experience; veteran expertise"
     },
     {
       "Key": "Demonic Discipline",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Disciplina Demoniaca",
+      "Comment": "Infernal combat training; demonic warrior focus"
     },
     {
       "Key": "Demonic Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Furia Demoniaca",
+      "Comment": "Hellish rage; infernal combat power"
     },
     {
       "Key": "Demonic Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Potere Demoniaco",
+      "Comment": "Hellish strength; infernal force"
     },
     {
       "Key": "Demonic Resilience",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Resistenza Demoniaca",
+      "Comment": "Hellish toughness; infernal durability"
     },
     {
       "Key": "Demonic Skill",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Abilità Demoniaca",
+      "Comment": "Infernal combat expertise; hellish mastery"
     },
     {
       "Key": "Demonic Defense",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Difesa Demoniaca",
+      "Comment": "Infernal protection; hellish defensive capability"
     },
     {
       "Key": "Sword Of Ruin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Spada della Rovina",
+      "Comment": "Artifact weapon; legendary destructive blade"
     },
     {
       "Key": "Cloak Of Shadows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mantello delle Ombre",
+      "Comment": "Artifact item; magical invisibility cloak"
     },
     {
       "Key": "Horn Of Discord",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Corno della Discordia",
+      "Comment": "Artifact item; chaotic magical instrument"
     },
     {
       "Key": "Veteran Marksmen",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Tiratori Selti Veterani",
+      "Comment": "Elite archer unit; experienced marksman squad"
     },
     {
       "Key": "Oath Of Retribution",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Giuramento di Ritorsione",
+      "Comment": "Binding curse; vengeance pact"
     },
     {
       "Key": "Oath Of Reckoning",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Giuramento del Reckoning",
+      "Comment": "Binding judgment; day of reckoning pact"
     },
     {
       "Key": "Oath Of Vengeance",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Giuramento di Vendetta",
+      "Comment": "Binding curse; eternal vengeance pact"
     },
     {
       "Key": "Ancestral Strength",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Forza Ancestrale",
+      "Comment": "Heritage-based power; inherited bloodline strength"
     },
     {
       "Key": "Greater Blades",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Lame Superiori",
+      "Comment": "Enhanced weapon version; superior blade quality"
     },
     {
       "Key": "Greater Favour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Favore Superiore",
+      "Comment": "Enhanced blessing; greater divine favor"
     },
     {
       "Key": "Greater Fireball",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Palla di Fuoco Superiore",
+      "Comment": "Enhanced spell; more powerful fireball"
     },
     {
       "Key": "Greater Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Furia Superiore",
+      "Comment": "Enhanced combat rage; greater fury ability"
     },
     {
       "Key": "Greater Raise",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Resurrezione Superiore",
+      "Comment": "Enhanced necromancy; greater resurrection power"
     },
     {
       "Key": "Greater Reanimate",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Rianimazione Superiore",
+      "Comment": "Enhanced undead spell; greater reanimation power"
     },
     {
       "Key": "Greater Regrowth",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ricrescita Superiore",
+      "Comment": "Enhanced nature healing; greater regeneration"
     },
     {
       "Key": "Greater Ruin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Rovina Superiore",
+      "Comment": "Enhanced curse; greater destruction hex"
     },
     {
       "Key": "Greater Shadowbolt",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Dardo d'Ombra Superiore",
+      "Comment": "Enhanced dark spell; greater shadow magic"
     },
     {
       "Key": "Greater Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Scudo Superiore",
+      "Comment": "Enhanced protection spell; greater defensive magic"
     },
     {
       "Key": "Greater Vigour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Vigore Superiore",
+      "Comment": "Enhanced vitality; greater strength increase"
     },
     {
       "Key": "Greater Web",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ragnatela Superiore",
+      "Comment": "Enhanced entanglement spell; stronger web trap"
     },
     {
       "Key": "Greater Wildform",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Forma Selvaggia Superiore",
+      "Comment": "Enhanced transformation; more powerful wildform"
     },
     {
       "Key": "Thousand Maws",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mille Fauci",
+      "Comment": "Exotic creature ability; many-mouthed horror"
     },
     {
       "Key": "Rune Of Farsight",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Runa della Visione Lontana",
+      "Comment": "Magical rune; long-distance perception enhancement"
     },
     {
       "Key": "Rune Of Flame",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Runa della Fiamma",
+      "Comment": "Magical rune; fire magic enhancement"
     },
     {
       "Key": "Rune Of Resilience",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Runa della Resilienza",
+      "Comment": "Magical rune; defense/durability enhancement"
     },
     {
       "Key": "Rune Of Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Runa della Velocità",
+      "Comment": "Magical rune; movement speed enhancement"
     },
     {
       "Key": "Imperial Elites",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Elite Imperiali",
+      "Comment": "Elite unit designation; premium warrior class"
     },
     {
       "Key": "Imperial Veterans",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Veterani Imperiali",
+      "Comment": "Veteran soldier classification; seasoned imperial troops"
     },
     {
       "Key": "Stronger Summons",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Invocazioni Più Forti",
+      "Comment": "Enhanced summoning; more powerful creatures summoned"
     },
     {
       "Key": "Extra Limb",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Arto Aggiuntivo",
+      "Comment": "Mutation enhancement; additional limb for combat"
     },
     {
       "Key": "Extra Limbs",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Arti Aggiuntivi",
+      "Comment": "Multiple mutations; extra limbs for increased attacks"
     },
     {
       "Key": "Grafted Wings",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ali Innestatte",
+      "Comment": "Mutation enhancement; artificial flight capability"
     },
     {
       "Key": "Necrotic Infusion",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Infusione Necrotica",
+      "Comment": "Death magic enhancement; undead power augmentation"
     },
     {
       "Key": "Putrid Hide",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Pelle Putrefatta",
+      "Comment": "Undead natural armor; decayed protective covering"
     },
     {
       "Key": "Tunneling Claws",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Artigli Scavatori",
+      "Comment": "Creature ability; burrowing attack weapon"
     },
     {
       "Key": "Unnatural Size",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Dimensione Sovrumana",
+      "Comment": "Giant/titan enhancement; supernatural growth"
     },
     {
       "Key": "Elf Bow Mastery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maestria Arco Elfico",
+      "Comment": "Elf archery specialization; supernatural accuracy"
     },
     {
       "Key": "Elf Spear Mastery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maestria Lancia Elfica",
+      "Comment": "Elf polearm specialization; fluid weapon technique"
     },
     {
       "Key": "Elf Steed Mastery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maestria Cavallo Elfico",
+      "Comment": "Elf mounted combat specialization; cavalry expertise"
     },
     {
       "Key": "Eagle Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspetto dell'Aquila",
+      "Comment": "Beast form; flight and predatory abilities"
     },
     {
       "Key": "Jaguar Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspetto del Giaguaro",
+      "Comment": "Beast form; speed and savage melee attacks"
     },
     {
       "Key": "Raptor Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspetto del Rapace",
+      "Comment": "Beast form; aerial predator with talons"
     },
     {
       "Key": "Salamander Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspetto della Salamandra",
+      "Comment": "Beast form; fire immunity and flame attacks"
     },
     {
       "Key": "Serpent Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspetto del Serpente",
+      "Comment": "Beast form; poison and venomous attacks"
     },
     {
       "Key": "Turtle Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspetto della Tartaruga",
+      "Comment": "Beast form; heavy armor and defensive shell"
     },
     {
       "Key": "Backstabbers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Pugnalatori alle Spalle",
+      "Comment": "Rogue tactic ability; surprise assassination expertise"
     },
     {
       "Key": "Bloodlust",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Sete di Sangue",
+      "Comment": "Combat frenzy; uncontrolled killing instinct"
     },
     {
       "Key": "Tough As Nails",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Duro Come l'Acciaio",
+      "Comment": "Extreme durability; exceptional hardness"
     },
     {
       "Key": "Greater Warcry",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Grido di Guerra Superiore",
+      "Comment": "Enhanced battle cry; more powerful morale effect"
     },
     {
       "Key": "Slavers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Schiavisti",
+      "Comment": "Capture/subjugation ability; enslaver unit role"
     },
     {
       "Key": "Greater Shroud",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Velo Superiore",
+      "Comment": "Enhanced concealment; stronger magical obscurement"
     },
     {
       "Key": "Greater Ward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Protezione Superiore",
+      "Comment": "Enhanced protection spell; stronger defensive ward"
     },
     {
       "Key": "War Gods Blessing",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Benedizione del Dio di Guerra",
+      "Comment": "Divine blessing; war deity favor"
     },
     {
       "Key": "Blessing Of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Benedizione del Decadimento",
+      "Comment": "Corruption blessing; plague deity favor"
     },
     {
       "Key": "Blessing Of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Benedizione dell'Inganno",
+      "Comment": "Cunning blessing; trickster deity favor"
     },
     {
       "Key": "Master of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maestro del Decadimento",
+      "Comment": "Advanced plague magic; master necromantic corruption"
     },
     {
       "Key": "Master of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maestro dell'Inganno",
+      "Comment": "Advanced deception magic; master cunning arts"
     },
     {
       "Key": "Master Of War",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maestro di Guerra",
+      "Comment": "Advanced military skill; master tactician status"
     },
     {
       "Key": "Loyal Serfs",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Servi Fedeli",
+      "Comment": "Faction military unit; bound warrior troop"
     },
     {
       "Key": "Avalon Marksmen",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Arcieri di Avalon",
+      "Comment": "Legendary archer unit; mystical faction elite"
     },
     {
       "Key": "Greater Vengeance",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Vendetta Superiore",
+      "Comment": "Enhanced vengeance ability; greater retribution power"
     },
     {
       "Key": "Greater Protection",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Protezione Superiore",
+      "Comment": "Enhanced defense; greater protective power"
     },
     {
       "Key": "Bodkin Arrows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Frecce Bodkin",
+      "Comment": "Armor-piercing ammunition; specialized arrows"
     },
     {
       "Key": "Serrated Arrows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Frecce Seghettate",
+      "Comment": "Wounding ammunition; barbed arrowheads"
     },
     {
       "Key": "Splitting Arrow",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Freccia Dividente",
+      "Comment": "Explosive ammunition; fragmenting arrowhead"
     },
     {
       "Key": "Trueflight Arrows",
-      "Translation": "",
-      "Comment": ""
-    }
-  ]
+      "Translation": "Frecce di Volo Vero",
+      "Comment": "Magical ammunition; unerring arrows"
+    }\n  ]
 }
+

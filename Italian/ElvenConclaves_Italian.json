@@ -3,88 +3,88 @@
   "Translations": [
     {
       "Key": "Elven Conclaves",
-      "Translation": "",
-      "Comment": "Konklave conveys the organized, council-like nature of Elven society. Singular form is more elegant in German."
+      "Translation": "Concilii Elfici",
+      "Comment": "Council assemblies. 'Concilii' conveys organized, council-like nature of elven society."
     },
     {
       "Key": "Elf Spears",
-      "Translation": "",
-      "Comment": "Speerkämpfer = spear fighters. More specific than just 'spears' and fits military unit naming."
+      "Translation": "Lancieri Elfici",
+      "Comment": "Spear infantry. Direct martial terminology emphasizing disciplined spear-wielders."
     },
     {
       "Key": "Elf City Guard",
-      "Translation": "",
-      "Comment": "Stadtwache is city guard, compound word maintains the defensive role."
+      "Translation": "Guardia della Città",
+      "Comment": "City defenders. Traditional term for civic guard with defensive duty."
     },
     {
       "Key": "Weapon Masters",
-      "Translation": "",
-      "Comment": "Direct translation. Conveys elite skill and mastery, fitting for Elven warriors."
+      "Translation": "Maestri d'Armi",
+      "Comment": "Elite warriors. Directly conveys mastery and elite martial skill."
     },
     {
       "Key": "Elf Archers",
-      "Translation": "",
-      "Comment": "Bogenschützen = archers. Elves are famous for their archery, this captures that."
+      "Translation": "Arcieri Elfici",
+      "Comment": "Legendary archers. Captures the famed archery skill of elves."
     },
     {
       "Key": "Elf Watchers",
-      "Translation": "",
-      "Comment": "Wächter = watchers/guardians. Implies vigilance and protection."
+      "Translation": "Sentinelle Elfiche",
+      "Comment": "Vigilant guardians. Implies watchfulness and protection duty."
     },
     {
       "Key": "Elf Bolt Thrower",
-      "Translation": "",
-      "Comment": "Consistent with other bolt thrower translations. Hyphen for clarity."
+      "Translation": "Lanciaprogettili Elfico",
+      "Comment": "Siege weapon. Captures the projectile-throwing nature of this artillery."
     },
     {
       "Key": "Elf Lancers",
-      "Translation": "",
-      "Comment": "Lanzenreiter = lance riders/cavalry. Elegant compound for mounted troops."
+      "Translation": "Cavalleria Lanciera Elfica",
+      "Comment": "Lance cavalry. Elegant compound conveying mounted elite troops."
     },
     {
       "Key": "Elf Reavers",
-      "Translation": "",
-      "Comment": "Plünderer = reavers/raiders. Fast cavalry that strikes and withdraws."
+      "Translation": "Razziatori Elfici",
+      "Comment": "Fast raiders. Conveys raiding nature of swift cavalry units."
     },
     {
       "Key": "Elf Chariot",
-      "Translation": "",
-      "Comment": "Streitwagen = chariot. Classic military vehicle terminology."
+      "Translation": "Carro da Guerra Elfico",
+      "Comment": "War chariot. Classic military terminology befitting elven forces."
     },
     {
       "Key": "Giant Eagle",
-      "Translation": "",
-      "Comment": "Direct translation. Majestic creature fitting for Elven forces."
+      "Translation": "Aquila Gigante",
+      "Comment": "Majestic flyer. Direct and captures nobility of this creature for elves."
     },
     {
       "Key": "Dragon Knights",
-      "Translation": "",
-      "Comment": "Elite dragon-riding warriors. Compound conveys both mount and rider."
+      "Translation": "Cavalieri Dragone",
+      "Comment": "Dragon-riding elite. Elegant compound conveying both rider prestige and mount power."
     },
     {
       "Key": "Ancient Dragon",
-      "Translation": "",
-      "Comment": "Uralter emphasizes ancient age and power. More evocative than 'alter'."
+      "Translation": "Dragone Ancestrale",
+      "Comment": "Primordial wyrm. Emphasizes age, wisdom, and ancient power."
     },
     {
       "Key": "Gryphon",
-      "Translation": "",
-      "Comment": "Standard German term for gryphon/griffin. Mythological creature."
+      "Translation": "Grifone",
+      "Comment": "Mythological creature. Standard Italian term for gryphon/griffin."
     },
     {
       "Key": "Elf Noble",
-      "Translation": "",
-      "Comment": "Edelmann = nobleman. Traditional term for aristocratic leader."
+      "Translation": "Nobile Elfico",
+      "Comment": "Aristocratic leader. Conveys grace, authority, and noble heritage."
     },
     {
       "Key": "Elf Mage",
-      "Translation": "",
-      "Comment": "Magier is the standard term for mage/wizard in German fantasy."
+      "Translation": "Mago Elfico",
+      "Comment": "Wizard. Standard Italian fantasy term for mage/sorcerer."
     },
     {
       "Key": "Elf Spellsword",
-      "Translation": "",
-      "Comment": "Klingenschmied literally 'blade smith' but conveys the martial-magical hybrid warrior. Alternative: Zauberklinge (magic blade)."
+      "Translation": "Lama Magica",
+      "Comment": "Martial-magical hybrid. 'Lama Magica' (magical blade) conveys sword-wielder with magical power."
     }
   ]
 }

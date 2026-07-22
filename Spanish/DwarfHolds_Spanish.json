@@ -3,88 +3,88 @@
   "Translations": [
     {
       "Key": "Dwarf Holds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Fortalezas Enanas",
+      "Comment": "Formal term for the faction strongholds; 'fortalezas' conveys strength and military purpose."
     },
     {
       "Key": "Dwarf Warriors",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Guerreros Enanos",
+      "Comment": "Standard infantry unit; straightforward military terminology."
     },
     {
       "Key": "Dwarf Veterans",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Veteranos Enanos",
+      "Comment": "Experienced soldiers; 'veteranos' implies seasoned combat experience."
     },
     {
       "Key": "Dwarf Miners",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mineros Enanos",
+      "Comment": "Worker-soldiers from the mines; maintains industrial heritage of dwarves."
     },
     {
       "Key": "Dwarf Crossbows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ballesteros Enanos",
+      "Comment": "Ranged infantry with crossbows; 'ballesteros' is the traditional Spanish term."
     },
     {
       "Key": "Dwarf Handguns",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mosqueteros Enanos",
+      "Comment": "Firearm-armed soldiers; 'mosqueteros' evokes fantasy gunpowder troops."
     },
     {
       "Key": "Dwarf Rangers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Exploradores Enanos",
+      "Comment": "Scout/ranger units; 'exploradores' emphasizes their reconnaissance role."
     },
     {
       "Key": "Dwarf Cannon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Cañón Enano",
+      "Comment": "Artillery piece; standard military terminology, singular form for equipment."
     },
     {
       "Key": "Dwarf Bolt Thrower",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Lanzador de Proyectiles",
+      "Comment": "Siege weapon; generic term fitting fantasy wargame aesthetic."
     },
     {
       "Key": "Dwarf Stonethrower",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Lanzapiedras Enano",
+      "Comment": "Siege artillery; 'lanzapiedras' is a single compound word for impact."
     },
     {
       "Key": "Dwarf Berserkers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Berserkers Enanos",
+      "Comment": "Elite melee units; kept from English as 'berserker' is recognized in Spanish fantasy contexts."
     },
     {
       "Key": "Deep Guard",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Guardia de las Profundidades",
+      "Comment": "Elite unit from deep dwarf holds; poetic yet martial tone."
     },
     {
       "Key": "Inferno Cannon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Cañón Infernal",
+      "Comment": "Magical artillery; 'infernal' conveys both fire and otherworldly power."
     },
     {
       "Key": "Dwarf Flying Machine",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Máquina Voladora Enana",
+      "Comment": "Fantasy war machine; 'máquina voladora' maintains the steam/dwarf-tech aesthetic."
     },
     {
       "Key": "Dwarf Foreman",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Capataz Enano",
+      "Comment": "Leader/commander type; 'capataz' implies authority and craftsmanship."
     },
     {
       "Key": "Ranger Captain",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Capitán Explorador",
+      "Comment": "Officer rank; 'capitán explorador' maintains military hierarchy."
     },
     {
       "Key": "Dwarf Engineer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ingeniero Enano",
+      "Comment": "Specialist unit; reflects dwarven expertise in construction and mechanics."
     }
   ]
 }

@@ -3,83 +3,83 @@
   "Translations": [
     {
       "Key": "Deepwood Guardians",
-      "Translation": "",
-      "Comment": "Tiefwald = deepwood, Hüter = guardians. Protectors of the ancient forest."
+      "Translation": "Guardianes del Bosque Antiguo",
+      "Comment": "Tiefwald = deepwood, Hüter = guardians. Protectors of the ancient forest. 'Bosque Antiguo' emphasizes the timeless, primordial nature of the faction."
     },
     {
       "Key": "Deepwood Guard",
-      "Translation": "",
-      "Comment": "Wache = guard. Basic forest defenders."
+      "Translation": "Centinela del Bosque",
+      "Comment": "Wache = guard. Basic forest defenders. 'Centinela' conveys a watch-like role befitting basic troops."
     },
     {
       "Key": "Dryads",
-      "Translation": "",
-      "Comment": "Standard German term for dryads. Tree spirits in elven form."
+      "Translation": "Dríadas",
+      "Comment": "Standard fantasy term adapted to Spanish. Tree spirits in elven form. Direct transliteration maintains the classic fantasy terminology."
     },
     {
       "Key": "Deepwood Dancers",
-      "Translation": "",
-      "Comment": "Tänzer = dancers. Swift and graceful forest warriors."
+      "Translation": "Danzarines del Bosque",
+      "Comment": "Tänzer = dancers. Swift and graceful forest warriors. 'Danzarines' conveys both the grace and combat prowess of these agile units."
     },
     {
       "Key": "Deepwood Archers",
-      "Translation": "",
-      "Comment": "Forest archers. Masters of woodland archery."
+      "Translation": "Arqueros del Bosque",
+      "Comment": "Forest archers. Masters of woodland archery. Direct translation that emphasizes their forest domain."
     },
     {
       "Key": "Deepwood Rangers",
-      "Translation": "",
-      "Comment": "Waldläufer = rangers. Elite scouts and hunters of the deep forest."
+      "Translation": "Merodeadores del Bosque",
+      "Comment": "Waldläufer = rangers. Elite scouts and hunters of the deep forest. 'Merodeadores' captures their roving, elite scout nature."
     },
     {
       "Key": "Deepwood Riders",
-      "Translation": "",
-      "Comment": "Fast cavalry of the forest. Riding forest creatures."
+      "Translation": "Jinetes del Bosque",
+      "Comment": "Fast cavalry of the forest. Riding forest creatures. Classic term for mounted warriors with fantasy flair."
     },
     {
       "Key": "Deepwood Chariot",
-      "Translation": "",
-      "Comment": "Nature-powered chariot."
+      "Translation": "Carro de Guerra del Bosque",
+      "Comment": "Nature-powered chariot. Full military designation conveys importance and gravitas befitting a powerful unit."
     },
     {
       "Key": "Giant Eagle",
-      "Translation": "",
-      "Comment": "Majestic flying creature of the forest."
+      "Translation": "Águila Monumental",
+      "Comment": "Majestic flying creature of the forest. 'Monumental' emphasizes the size and grandeur of this aerial unit."
     },
     {
       "Key": "Stag Riders",
-      "Translation": "",
-      "Comment": "Hirsch = stag. Cavalry riding majestic forest stags."
+      "Translation": "Jinetes de Ciervo",
+      "Comment": "Hirsch = stag. Cavalry riding majestic forest stags. Paired term with other mounted units for consistency."
     },
     {
       "Key": "Treant",
-      "Translation": "",
-      "Comment": "Baumriese = tree giant. Living tree creature. Alternative: Treant (kept as fantasy term)."
+      "Translation": "Treante",
+      "Comment": "Baumriese = tree giant. Living tree creature. Alternative: Treant (kept as fantasy term). Adapted to Spanish phonetics while maintaining fantasy nomenclature."
     },
     {
       "Key": "Forest Dragon",
-      "Translation": "",
-      "Comment": "Dragon of the forest. Ancient guardian."
+      "Translation": "Dragón del Bosque",
+      "Comment": "Dragon of the forest. Ancient guardian. Classic, straightforward naming befitting the faction's mightiest unit."
     },
     {
       "Key": "Gryphon",
-      "Translation": "",
-      "Comment": "Standard German term for gryphon."
+      "Translation": "Grifo",
+      "Comment": "Standard fantasy term for gryphon. Spanish adaptation maintains the classic fantasy creature designation."
     },
     {
       "Key": "Deepwood Noble",
-      "Translation": "",
-      "Comment": "Noble leader of the forest folk."
+      "Translation": "Noble del Bosque",
+      "Comment": "Noble leader of the forest folk. Direct translation emphasizing both nobility and forest affinity."
     },
     {
       "Key": "Deepwood Druid",
-      "Translation": "",
-      "Comment": "Druide = druid. Nature magic user."
+      "Translation": "Druida del Bosque",
+      "Comment": "Druide = druid. Nature magic user. Spanish form of the universal fantasy term paired with forest affiliation."
     },
     {
       "Key": "Treant Elder",
-      "Translation": "",
-      "Comment": "Ancient and powerful tree creature. Wise forest spirit."
+      "Translation": "Treante Anciano",
+      "Comment": "Ancient and powerful tree creature. Wise forest spirit. Builds upon 'Treante' translation, emphasizing age and wisdom fitting an elder unit."
     }
   ]
 }

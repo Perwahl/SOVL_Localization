@@ -3,343 +3,343 @@
   "Translations": [
     {
       "Key": "Steadfast",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Inquebrantable",
+      "Comment": "Refers to unwavering resolve in battle; maintains the heroic tone of the achievement."
     },
     {
       "Key": "Passed 1 Break Tests.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Pasó 1 Prueba de Resistencia.",
+      "Comment": "Refers to morale/break tests in wargaming. 'Prueba de Resistencia' is the standard terminology."
     },
     {
       "Key": "Dragon Slayer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Matador de Dragones",
+      "Comment": "Classic fantasy achievement; maintains epic fantasy tone."
     },
     {
       "Key": "Killed 1 dragon.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mató 1 dragón.",
+      "Comment": "Direct and clear description of the deed achieved."
     },
     {
       "Key": "Deadly",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mortal",
+      "Comment": "Conveys combat prowess and danger; serious wargame tone."
     },
     {
       "Key": "Killed 1 enemies in combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mató 1 enemigo en combate.",
+      "Comment": "Clear description; 'mató' used for direct combat kills."
     },
     {
       "Key": "Marksman",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Tirador de Precisión",
+      "Comment": "Emphasizes skill with ranged weapons; maintains martial tone."
     },
     {
       "Key": "Killed 1 enemies with ranged weapons.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mató 1 enemigo con armas a distancia.",
+      "Comment": "Distinguishes ranged combat from melee; appropriate terminology for wargaming."
     },
     {
       "Key": "Lucky",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Afortunado",
+      "Comment": "Simple and direct; relates to dice roll fortune in wargaming."
     },
     {
       "Key": "Rolled 1 natural six (33 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Rodó 1 seis natural (33 % de todos los dados).",
+      "Comment": "Preserves wargaming dice terminology; 'natural' indicates unmodified roll."
     },
     {
       "Key": "Scorer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Conquistador",
+      "Comment": "'Conquistador' conveys capturing objectives in battle; more evocative than direct 'anotador'."
     },
     {
       "Key": "Captured 1 objective.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Capturó 1 objetivo.",
+      "Comment": "Standard wargaming terminology; clear and direct."
     },
     {
       "Key": "Giant Slayer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Matador de Gigantes",
+      "Comment": "Epic fantasy terminology; maintains consistency with other 'Slayer' titles."
     },
     {
       "Key": "Killed 1 giant.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mató 1 gigante.",
+      "Comment": "Direct deed description."
     },
     {
       "Key": "Treefeller",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Tala-árboles",
+      "Comment": "Refers to wood elf or tree-like creatures; maintains fantasy tone with compound form."
     },
     {
       "Key": "Felled 1 tree monster.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Derribó 1 monstruo arbóreo.",
+      "Comment": "'Derribó' is the appropriate verb for felling tree creatures; 'arbóreo' maintains fantasy tone."
     },
     {
       "Key": "Dino Hunter",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Cazador de Dinosaurios",
+      "Comment": "Maintains the fantasy-meets-prehistoric tone of the original English."
     },
     {
       "Key": "Killed 1 dinosaur.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mató 1 dinosaurio.",
+      "Comment": "Direct and clear; 'dinosaurio' is standard Spanish term."
     },
     {
       "Key": "Warmachine Hunter",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Cazador de Máquinas de Guerra",
+      "Comment": "Maintains the original's blend of fantasy and mechanical elements."
     },
     {
       "Key": "Killed 1 warmachine.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Destruyó 1 máquina de guerra.",
+      "Comment": "'Destruyó' is more appropriate than 'mató' for machines; wargaming terminology."
     },
     {
       "Key": "Demon Hunter",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Cazador de Demonios",
+      "Comment": "Classic fantasy hunter title; maintains epic tone."
     },
     {
       "Key": "Slain 1 greater demon.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mató 1 demonio mayor.",
+      "Comment": "'Mató' or 'Derrotó' both work; 'demonio mayor' emphasizes the creature's power."
     },
     {
       "Key": "Duelist",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Duelista",
+      "Comment": "Direct translation; maintains the martial prestige of this achievement."
     },
     {
       "Key": "Killed 1 Commander.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mató 1 Comandante.",
+      "Comment": "Preserves capitalization for military rank; indicates high-value target defeated."
     },
     {
       "Key": "Spellslinger",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Lanzador de Hechizos",
+      "Comment": "Idiomatic translation; 'lanzador' conveys the action of casting spells in combat."
     },
     {
       "Key": "Cast 1 spell.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Lanzó 1 hechizo.",
+      "Comment": "Standard fantasy terminology; 'lanzó' is the perfect past for casting spells."
     },
     {
       "Key": "Coward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Cobarde",
+      "Comment": "Direct translation; reflects the shameful nature of this 'achievement'."
     },
     {
       "Key": "Fled off the battlefield with zero casualties.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Huyó del campo de batalla sin pérdidas.",
+      "Comment": "'Huyó' emphasizes shameful retreat; 'sin pérdidas' means no losses sustained."
     },
     {
       "Key": "Unlucky",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Desafortunado",
+      "Comment": "Counterpart to 'Afortunado'; relates to poor dice rolls in wargaming."
     },
     {
       "Key": "Rolled 1 one (33 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Rodó 1 uno (33 % de todos los dados).",
+      "Comment": "Mirrors the 'Lucky' achievement structure; 'uno' refers to lowest die result."
     },
     {
       "Key": "Last Man Standing",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Último en Pie",
+      "Comment": "Heroic achievement; 'en pie' emphasizes last survivor's defiant stance."
     },
     {
       "Key": "Only 1 model left standing.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Solo 1 miniatura quedó en pie.",
+      "Comment": "'Miniatura' or 'modelo' both used in wargaming context; preserves game terminology."
     },
     {
       "Key": "Short Career",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Carrera Breve",
+      "Comment": "Darkly humorous achievement; straightforward translation."
     },
     {
       "Key": "Died on the first turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Murió en el primer turno.",
+      "Comment": "Clear wargaming reference; 'turno' is standard Spanish term for game turn."
     },
     {
       "Key": "Emotional Support",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Apoyo Emocional",
+      "Comment": "Ironic title for useless unit; maintains humorous tone of the original."
     },
     {
       "Key": "Killed no enemies, lost no models, took no objectives.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "No mató enemigos, no perdió miniaturas, no capturó objetivos.",
+      "Comment": "Parallel structure emphasizes complete uselessness; wargaming terminology preserved."
     },
     {
       "Key": "Flanker",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Flanqueador",
+      "Comment": "Tactical military term; demonstrates strategic acumen in combat."
     },
     {
       "Key": "Performed 1 flank/rear charge.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Realizó 1 carga de flanco/retaguardia.",
+      "Comment": "Preserves wargaming terminology; 'carga' (charge) is a key tactical action."
     },
     {
       "Key": "Dragon Slayers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Matadores de Dragones",
+      "Comment": "Plural form; refers to the unit or group that achieved dragon kills."
     },
     {
       "Key": "Marksmen",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Tiradores de Precisión",
+      "Comment": "Plural form emphasizing the skilled ranged unit."
     },
     {
       "Key": "Giant Slayers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Matadores de Gigantes",
+      "Comment": "Plural form; maintains consistency with singular version."
     },
     {
       "Key": "Treefellers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Tala-árboles",
+      "Comment": "Plural form; maintains the compound structure."
     },
     {
       "Key": "Dino Hunters",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Cazadores de Dinosaurios",
+      "Comment": "Plural form maintaining the fantasy-prehistoric theme."
     },
     {
       "Key": "Warmachine Hunters",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Cazadores de Máquinas de Guerra",
+      "Comment": "Plural form; preserves the military-mechanical theme."
     },
     {
       "Key": "Demon Hunters",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Cazadores de Demonios",
+      "Comment": "Plural form; epic fantasy terminology."
     },
     {
       "Key": "Duelists",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Duelistas",
+      "Comment": "Plural form; straightforward translation maintaining prestige."
     },
     {
       "Key": "Spellslingers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Lanzadores de Hechizos",
+      "Comment": "Plural form; maintains the magical warrior aesthetic."
     },
     {
       "Key": "Cowards",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Cobardes",
+      "Comment": "Plural form; maintains the shameful tone."
     },
     {
       "Key": "Passed 3 Break Tests.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Pasó 3 Pruebas de Resistencia.",
+      "Comment": "Escalated version; maintains terminology consistency."
     },
     {
       "Key": "Killed 3 dragons.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mató 3 dragones.",
+      "Comment": "Escalated achievement; demonstrates exceptional prowess."
     },
     {
       "Key": "Killed 3 enemies in combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mató 3 enemigos en combate.",
+      "Comment": "Escalated combat achievement; mirrors the singular form."
     },
     {
       "Key": "Killed 3 enemies with ranged weapons.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mató 3 enemigos con armas a distancia.",
+      "Comment": "Escalated ranged achievement; demonstrates superior marksmanship."
     },
     {
       "Key": "Blessed!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "¡Bendecido!",
+      "Comment": "Exclamatory title showing divine favor; contrasts with 'Cursed!' achievement."
     },
     {
       "Key": "Rolled 3 natural sixes (33 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Rodó 3 seises naturales (33 % de todos los dados).",
+      "Comment": "Escalated lucky rolls; 'seises' is plural of the number six in wargaming context."
     },
     {
       "Key": "Captured 3 objectives.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Capturó 3 objetivos.",
+      "Comment": "Escalated tactical achievement; demonstrates strategic dominance."
     },
     {
       "Key": "Killed 3 giants.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mató 3 gigantes.",
+      "Comment": "Escalated achievement; extraordinary feat of strength."
     },
     {
       "Key": "Felled 3 tree monsters.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Derribó 3 monstruos arbóreos.",
+      "Comment": "Escalated version; demonstrates dominance over nature-based creatures."
     },
     {
       "Key": "Killed 3 dinosaurs.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mató 3 dinosaurios.",
+      "Comment": "Escalated prehistoric achievement; shows mastery over ancient beasts."
     },
     {
       "Key": "Killed 3 warmachines.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Destruyó 3 máquinas de guerra.",
+      "Comment": "Escalated mechanical destruction; demonstrates anti-armor effectiveness."
     },
     {
       "Key": "Slain 3 greater demons.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mató 3 demonios mayores.",
+      "Comment": "Escalated supernatural achievement; demonstrates divine favor or heroic power."
     },
     {
       "Key": "Killed 3 Commanders.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mató 3 Comandantes.",
+      "Comment": "Escalated military achievement; slaying enemy officers shows exceptional valor."
     },
     {
       "Key": "Cast 3 spells.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Lanzó 3 hechizos.",
+      "Comment": "Escalated magical achievement; demonstrates sorcerous prowess."
     },
     {
       "Key": "Cursed!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "¡Maldito!",
+      "Comment": "Exclamatory title showing ill fortune; direct opposite of 'Blessed!'."
     },
     {
       "Key": "Rolled 3 ones (33 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Rodó 3 unos (33 % de todos los dados).",
+      "Comment": "Escalated unlucky rolls; mirror of the blessed dice achievement."
     },
     {
       "Key": "Performed 3 flank/rear charges.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Realizó 3 cargas de flanco/retaguardia.",
+      "Comment": "Escalated tactical achievement; shows sustained strategic brilliance."
     },
     {
       "Key": "Rolled 3 natural sixes (100 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Rodó 3 seises naturales (100 % de todos los dados).",
+      "Comment": "Perfect luck achievement; every roll was maximum—impossible without divine intervention or perfect fortune."
     },
     {
       "Key": "Rolled 3 ones (100 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Rodó 3 unos (100 % de todos los dados).",
+      "Comment": "Catastrophic curse; every roll was minimum—represents complete failure and misfortune."
     },
     {
       "Key": "Killed 13 enemies with ranged weapons.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mató 13 enemigos con armas a distancia.",
+      "Comment": "Ultimate ranged achievement; 13 is a lucky/unlucky number that emphasizes the extraordinary feat."
     }
   ]
 }

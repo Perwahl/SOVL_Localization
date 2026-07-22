@@ -3,73 +3,73 @@
   "Translations": [
     {
       "Key": "Ratkin Clans",
-      "Translation": "",
-      "Comment": "Rattenmensch = rat-people. Klans maintains the tribal structure."
+      "Translation": "Clan Rattoidi",
+      "Comment": "Rat-people tribes. 'Rattoidi' emphasizes rat-like nature while maintaining tribal structure."
     },
     {
       "Key": "Ratkin Legionaries",
-      "Translation": "",
-      "Comment": "Legionäre = legionaries. Organized rat-men infantry."
+      "Translation": "Legionari Rattoidi",
+      "Comment": "Organized infantry. Standard militant terminology for organized rat-man troops."
     },
     {
       "Key": "Ratkin Conscripts",
-      "Translation": "",
-      "Comment": "Wehrpflichtige = conscripts. Forced levies of rat-men."
+      "Translation": "Coscritti Rattoidi",
+      "Comment": "Forced levies. 'Coscritti' emphasizes forced recruitment of rat-men soldiers."
     },
     {
       "Key": "Ratkin Skulkers",
-      "Translation": "",
-      "Comment": "Schleicher = skulkers/sneakers. Stealthy infiltrators."
+      "Translation": "Ladri Rattoidi",
+      "Comment": "Stealthy infiltrators. Conveys sneaking and skulking behavior."
     },
     {
       "Key": "Ratkin Longrifles",
-      "Translation": "",
-      "Comment": "Ratkin sharpshooters with long rifles. Technological advantage."
+      "Translation": "Fucilieri di Lungo Raggio Rattoidi",
+      "Comment": "Sharpshooters. Full descriptor emphasizes technological firearm advantage."
     },
     {
       "Key": "Ratkin Slingers",
-      "Translation": "",
-      "Comment": "Schleuderer = slingers. Simple ranged troops."
+      "Translation": "Frombolieri Rattoidi",
+      "Comment": "Simple ranged troops. Traditional Italian term for slingers."
     },
     {
       "Key": "Ratkin Flamers",
-      "Translation": "",
-      "Comment": "Flammenwerfer troops. Dangerous experimental weapons."
+      "Translation": "Lanciafiamme Rattoidi",
+      "Comment": "Flamethrower troops. Direct translation with dangerous, ominous tone."
     },
     {
       "Key": "Ratkin Monstrosity",
-      "Translation": "",
-      "Comment": "Monstrum = monstrosity. Twisted creation of dark experiments."
+      "Translation": "Aberrazione Rattoidea",
+      "Comment": "Twisted experimental creature. 'Aberrazione' emphasizes unnatural horror of twisted creation."
     },
     {
       "Key": "Ratkin Alphas",
-      "Translation": "",
-      "Comment": "Alpha kept as term. Elite warriors of the clans."
+      "Translation": "Alfa Rattoidi",
+      "Comment": "Elite warriors. 'Alfa' retains gaming terminology indicating dominance within clans."
     },
     {
       "Key": "Rat Swarms",
-      "Translation": "",
-      "Comment": "Schwärme = swarms. Masses of vermin."
+      "Translation": "Sciami di Ratti",
+      "Comment": "Masses of vermin. 'Sciami' evokes overwhelming nature of rat swarms."
     },
     {
       "Key": "Doom Bell",
-      "Translation": "",
-      "Comment": "Ominous bell that tolls doom. Same as in UnitProps."
+      "Translation": "Campana della Perdizione",
+      "Comment": "Ominous bell. 'Perdizione' emphasizes doom and foreboding omen of bell."
     },
     {
       "Key": "Ratkin Warlock",
-      "Translation": "",
-      "Comment": "Hexenmeister = warlock. Dark magic user."
+      "Translation": "Stregone Rattoidea",
+      "Comment": "Dark magic user. 'Stregone' establishes dark magic theme for clan sorcerers."
     },
     {
       "Key": "Ratkin Chieftain",
-      "Translation": "",
-      "Comment": "Clan leader. Cunning and ruthless."
+      "Translation": "Capo Tribale Rattoidea",
+      "Comment": "Clan leader. Emphasizes tribal hierarchy and cunning, ruthless leadership."
     },
     {
       "Key": "Ratkin Infiltrator",
-      "Translation": "",
-      "Comment": "Master spy and assassin. Sneaks behind enemy lines."
+      "Translation": "Infiltratore Maestro Rattoidea",
+      "Comment": "Master spy and assassin. 'Maestro' emphasizes skill and mastery in covert operations behind enemy lines."
     }
   ]
 }

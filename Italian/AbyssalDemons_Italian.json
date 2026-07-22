@@ -3,73 +3,73 @@
   "Translations": [
     {
       "Key": "Abyssal Demons",
-      "Translation": "",
-      "Comment": "Abgrund = abyss, Dämonen = demons. Creatures from the darkest depths."
+      "Translation": "Demoni Abissali",
+      "Comment": "Faction name. Used formal plural form 'Demoni' with descriptive adjective 'Abissali' to match Spanish/French pattern and fantasy tone."
     },
     {
       "Key": "Abyssal Vipers",
-      "Translation": "",
-      "Comment": "Vipern = vipers. Serpentine demonic creatures."
+      "Translation": "Vipere Abissali",
+      "Comment": "Serpentine demonic creatures. Feminine plural 'Vipere' with consistent 'Abissali' adjective for parallel structure with faction name."
     },
     {
       "Key": "Devilspawn",
-      "Translation": "",
-      "Comment": "Teufel = devil, Brut = spawn/brood. Lesser demonic infantry."
+      "Translation": "Prole Demoniaca",
+      "Comment": "Lesser demonic infantry. Used 'Prole' (brood/offspring) to convey 'spawn' meaning similar to Spanish 'Vástagos' and German 'Brut'."
     },
     {
       "Key": "Plague Walkers",
-      "Translation": "",
-      "Comment": "Seuche = plague, Wandler = walkers. Disease-bearing demons."
+      "Translation": "Camminatori della Peste",
+      "Comment": "Disease-bearing demons. Compound form 'Camminatori della Peste' maintains serious wargame tone; literal translation of 'walkers of plague'."
     },
     {
       "Key": "Plaguelings",
-      "Translation": "",
-      "Comment": "Created a diminutive form of plague creatures. Small plague demons."
+      "Translation": "Pestilini",
+      "Comment": "Small plague demons. Created diminutive with '-ini' suffix (Italian diminutive) on 'Peste' root, similar to German 'Seuchenlinge' and Spanish 'Pestillejos'."
     },
     {
       "Key": "Fire Devils",
-      "Translation": "",
-      "Comment": "Direct compound. Demons wreathed in flames."
+      "Translation": "Demoni di Fuoco",
+      "Comment": "Demons wreathed in flames. Used 'Demoni di Fuoco' following Spanish compound pattern for consistency with other demon types."
     },
     {
       "Key": "Plague Flies",
-      "Translation": "",
-      "Comment": "Flying plague-bearing insects. Grotesque and diseased."
+      "Translation": "Mosche della Peste",
+      "Comment": "Flying plague-bearing insects. Feminine plural form 'Mosche' with genitive 'della Peste' parallel to Spanish 'Moscas de la Peste'."
     },
     {
       "Key": "Abyssal Reapers",
-      "Translation": "",
-      "Comment": "Sensenträger = scythe-bearers/reapers. Death-dealing demons."
+      "Translation": "Mietitori Abissali",
+      "Comment": "Death-dealing demons. Used 'Mietitori' (reapers) to convey harvesting/death imagery; 'Abissali' maintains consistency with faction naming."
     },
     {
       "Key": "Demonic Hounds",
-      "Translation": "",
-      "Comment": "Direct compound. Hellish hunting beasts."
+      "Translation": "Cani Demoniaci",
+      "Comment": "Hellish hunting beasts. Direct compound with masculine plural 'Cani' and adjective 'Demoniaci' for clarity and wargame tone."
     },
     {
       "Key": "Hell Riders",
-      "Translation": "",
-      "Comment": "Hölle = hell. Demonic cavalry."
+      "Translation": "Cavalieri dell'Inferno",
+      "Comment": "Demonic cavalry. Used 'Cavalieri dell'Inferno' (Knights of Hell) with genitive for authoritative, ominous tone matching Spanish pattern."
     },
     {
       "Key": "Plague Hulk",
-      "Translation": "",
-      "Comment": "Koloss = hulk/colossus. Massive plague monster."
+      "Translation": "Colosso della Peste",
+      "Comment": "Massive plague monster. 'Colosso' conveys imposing, titanic presence; genitive 'della Peste' shows plague affiliation."
     },
     {
       "Key": "Archdevil",
-      "Translation": "",
-      "Comment": "Erz- prefix = arch-/chief. Greater demon lord."
+      "Translation": "Arcidimone",
+      "Comment": "Greater demon lord. Created with 'Arci-' prefix (Italian for 'arch-') + 'dimone' to convey supreme authority, similar to Spanish 'Archidemonio'."
     },
     {
       "Key": "Abyssal Prince",
-      "Translation": "",
-      "Comment": "Fürst = prince/lord. Powerful demonic ruler."
+      "Translation": "Principe Abissale",
+      "Comment": "Powerful demonic ruler. Used singular masculine 'Principe' with adjective 'Abissale' to emphasize noble rank and abyssal origin."
     },
     {
       "Key": "Abyssal Herald",
-      "Translation": "",
-      "Comment": "Herold = herald. Messenger and champion of the abyss."
+      "Translation": "Araldo Abissale",
+      "Comment": "Messenger and champion of the abyss. Formal 'Araldo' with 'Abissale' maintains authoritative tone of a demonic champion messenger."
     }
   ]
 }

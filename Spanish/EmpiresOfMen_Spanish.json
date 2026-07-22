@@ -3,93 +3,93 @@
   "Translations": [
     {
       "Key": "Empires of Men",
-      "Translation": "",
-      "Comment": "Reich = empire/realm. Plural form maintains the grand, multi-kingdom nature."
+      "Translation": "Reinos de los Hombres",
+      "Comment": "Reich = empire/realm. Plural form maintains the grand, multi-kingdom nature. Spanish maintains the plural form emphasizing multiple kingdoms and their imperial scope."
     },
     {
       "Key": "Imperial Sword",
-      "Translation": "",
-      "Comment": "Kaiserlich = imperial. Schwertkämpfer = swordsmen for clarity."
+      "Translation": "Espadachín Imperial",
+      "Comment": "Espadachín conveys skilled swordsman; Imperial emphasizes service to the empire."
     },
     {
       "Key": "Foot Knights",
-      "Translation": "",
-      "Comment": "Compound word for knights on foot, as opposed to mounted knights."
+      "Translation": "Caballeros de a Pie",
+      "Comment": "De a Pie clearly indicates dismounted/on-foot knights distinguishing from cavalry."
     },
     {
       "Key": "Imperial Halberd",
-      "Translation": "",
-      "Comment": "Hellebardiere = halberdiers. Professional term for halberd-wielding troops."
+      "Translation": "Alabardero Imperial",
+      "Comment": "Alabardero is the professional Spanish term for halberd-wielders, maintaining the serious military tone."
     },
     {
       "Key": "Imperial Spear",
-      "Translation": "",
-      "Comment": "Speerkämpfer = spearmen. Standard military formation troops."
+      "Translation": "Lancero Imperial",
+      "Comment": "Lancero emphasizes pike/lance-based formations typical of imperial armies."
     },
     {
       "Key": "Imperial Knights",
-      "Translation": "",
-      "Comment": "Heavy cavalry, the elite of the empire. Direct and powerful."
+      "Translation": "Caballeros Imperiales",
+      "Comment": "Direct translation emphasizing elite heavy cavalry; the mainstay of imperial power."
     },
     {
       "Key": "Imperial Light Cavalry",
-      "Translation": "",
-      "Comment": "Leichte Kavallerie = light cavalry. Scouts and skirmishers."
+      "Translation": "Caballería Ligera Imperial",
+      "Comment": "Caballería Ligera is the standard term for light cavalry, agile scouts and skirmishers."
     },
     {
       "Key": "Imperial Archers",
-      "Translation": "",
-      "Comment": "Bogenschützen = archers. Classic ranged infantry."
+      "Translation": "Arqueros Imperiales",
+      "Comment": "Arqueros is the standard term for archers; classic ranged support for formations."
     },
     {
       "Key": "Imperial Crossbowmen",
-      "Translation": "",
-      "Comment": "Armbrustschützen = crossbowmen. More powerful ranged troops."
+      "Translation": "Ballesteros Imperiales",
+      "Comment": "Ballesteros denotes crossbow specialists; more heavily armored and powerful than archers."
     },
     {
       "Key": "Imperial Handguns",
-      "Translation": "",
-      "Comment": "Büchsenschützen = handgunners/arquebusiers. Renaissance-era firearms."
+      "Translation": "Arcabuceros Imperiales",
+      "Comment": "Arcabuceros specifically denotes arquebusiers/musketeers; Renaissance-era firearms specialists."
     },
     {
       "Key": "Imperial Cannon",
-      "Translation": "",
-      "Comment": "Direct translation of cannon. Heavy artillery."
+      "Translation": "Cañón Imperial",
+      "Comment": "Direct translation; heavy siege artillery that emphasizes imperial firepower."
     },
     {
       "Key": "Imperial Mortar",
-      "Translation": "",
-      "Comment": "Mörser = mortar. Indirect fire artillery."
+      "Translation": "Mortero Imperial",
+      "Comment": "Mortero is the Spanish equivalent; indirect fire artillery support."
     },
     {
       "Key": "Imperial Dreadnought",
-      "Translation": "",
-      "Comment": "Koloss (colossus) conveys massive war machine. Alternative to anglicized 'Dreadnought'."
+      "Translation": "Titán Imperial",
+      "Comment": "Titán conveys colossal, intimidating power; fitting for massive war machine."
     },
     {
       "Key": "Gryphon",
-      "Translation": "",
-      "Comment": "Standard German term for gryphon. Majestic imperial symbol."
+      "Translation": "Grifón",
+      "Comment": "Grifón is the standard Spanish term; majestic heraldic symbol of imperial power."
     },
     {
       "Key": "Imperial Dragon",
-      "Translation": "",
-      "Comment": "Dragon under imperial control. Ultimate flying unit."
+      "Translation": "Dragón Imperial",
+      "Comment": "Dragón commands respect and awe; ultimate aerial weapon of the empire."
     },
     {
       "Key": "Captain",
-      "Translation": "",
-      "Comment": "Traditional German military rank for captain. Battle-hardened leader."
+      "Translation": "Capitán",
+      "Comment": "Capitán is the universal Spanish military rank; seasoned battle commander."
     },
     {
       "Key": "Knight Commander",
-      "Translation": "",
-      "Comment": "Kommandant = commander. Leader of knightly orders."
+      "Translation": "Comandante de Caballería",
+      "Comment": "Comandante de Caballería emphasizes military authority over mounted knights; leader of knightly orders."
     },
     {
       "Key": "Imperial Wizard",
-      "Translation": "",
-      "Comment": "Zauberer = wizard. Magic user in service of the empire."
+      "Translation": "Mago Imperial",
+      "Comment": "Mago emphasizes magical prowess; arcane support serving the imperial cause."
     }
   ]
 }

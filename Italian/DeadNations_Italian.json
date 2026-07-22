@@ -3,83 +3,83 @@
   "Translations": [
     {
       "Key": "Dead Nations",
-      "Translation": "",
-      "Comment": "Direct compound. Evokes the undead kingdoms rising from ancient graves."
+      "Translation": "Nazioni Morte",
+      "Comment": "Risen undead kingdoms. Direct translation capturing dark, regal tone of ancient nations returned from grave."
     },
     {
       "Key": "Skeleton Warriors",
-      "Translation": "",
-      "Comment": "Skelett = skeleton. Basic undead infantry."
+      "Translation": "Guerrieri Scheletro",
+      "Comment": "Basic undead infantry. Direct translation; emphasizes skeletal warriors with martial discipline."
     },
     {
       "Key": "Zombies",
-      "Translation": "",
-      "Comment": "Zombie is universally recognized. Shambling undead hordes."
+      "Translation": "Zombie",
+      "Comment": "Cognate term recognized across languages. Shambling undead hordes with primal, chaotic nature."
     },
     {
       "Key": "Wight Guard",
-      "Translation": "",
-      "Comment": "Gruft = crypt/tomb. Garde = guard. Elite undead warriors guarding ancient tombs."
+      "Translation": "Custode Spettrale",
+      "Comment": "Elite tomb guardians. Used 'Spettrale' to convey supernatural wight nature, parallel to Spanish 'Espectral'."
     },
     {
       "Key": "Skeleton Spear",
-      "Translation": "",
-      "Comment": "Skeletal spear-wielding troops. Disciplined undead formations."
+      "Translation": "Lancia Scheletro",
+      "Comment": "Disciplined spear formations. Direct translation; compound shows skeletal warriors forming ordered undead lines."
     },
     {
       "Key": "Unearthed Catapult",
-      "Translation": "",
-      "Comment": "Ausgegraben = unearthed/excavated. Ancient siege weapon raised from the dead."
+      "Translation": "Catapulta Disseppellita",
+      "Comment": "Ancient siege weapon exhumed. 'Disseppellita' (unearthed/exhumed) captures gothic imagery of risen war machines."
     },
     {
       "Key": "Skeleton Bowmen",
-      "Translation": "",
-      "Comment": "Undead archers. Silent and deadly."
+      "Translation": "Arcieri Scheletro",
+      "Comment": "Silent archers. Composite noun showing skeletal precision and supernatural silence."
     },
     {
       "Key": "Dire Wolves",
-      "Translation": "",
-      "Comment": "Schattenwölfe (shadow wolves) conveys the supernatural, cursed nature. Alternative: Grimmwölfe."
+      "Translation": "Lupi Lugubri",
+      "Comment": "Cursed supernatural beasts. 'Lugubri' conveys darkness and dread, parallel to Spanish 'Sombríos'."
     },
     {
       "Key": "Skeleton Knights",
-      "Translation": "",
-      "Comment": "Undead cavalry. Former knights now serving in death."
+      "Translation": "Cavalieri Scheletro",
+      "Comment": "Undead cavalry from noble houses. Maintains knightly bearing and tactical discipline even in death."
     },
     {
       "Key": "Dread Knights",
-      "Translation": "",
-      "Comment": "Schrecken = dread/terror. Elite undead knights radiating fear."
+      "Translation": "Cavalieri del Terrore",
+      "Comment": "Elite undead cavalry. Their presence radiates supernatural dread; maintains noble cavalry aesthetic."
     },
     {
       "Key": "Fell Bats",
-      "Translation": "",
-      "Comment": "Grausig = fell/dreadful. Fledermaus = bat. Monstrous flying creatures."
+      "Translation": "Pipistrelli Orribili",
+      "Comment": "Monstrous flying creatures. 'Orribili' (dreadful/horrible) emphasizes supernatural horror of the undead beasts."
     },
     {
       "Key": "Zombie Giant",
-      "Translation": "",
-      "Comment": "Compound of zombie and giant. Massive reanimated corpse."
+      "Translation": "Gigante Zombie",
+      "Comment": "Massive reanimated corpse. Direct compound showing terrible size and undead nature."
     },
     {
       "Key": "Bone Dragon",
-      "Translation": "",
-      "Comment": "Direct compound. Terrifying undead dragon of pure bone."
+      "Translation": "Drago di Osso",
+      "Comment": "Skeletal undead wyrm. Evokes primal dread of bone draconic horror rising from ancient tombs."
     },
     {
       "Key": "Wight Lord",
-      "Translation": "",
-      "Comment": "Gruft = crypt, Herr = lord. Ancient undead noble commanding the armies."
+      "Translation": "Signore Spettrale",
+      "Comment": "Ancient undead noble commander. 'Spettrale' conveys otherworldly power and supreme authority."
     },
     {
       "Key": "Vampire Knight",
-      "Translation": "",
-      "Comment": "Vampir = vampire. Undead knight with vampiric powers."
+      "Translation": "Cavaliere Vampiro",
+      "Comment": "Blood-drinking undead knight. Combines martial prowess with vampiric sorcery and immortal hunger."
     },
     {
       "Key": "Necromancer",
-      "Translation": "",
-      "Comment": "Standard German term for necromancer. Master of death magic."
+      "Translation": "Negromante",
+      "Comment": "Master of death magic. Standard Italian fantasy term; commands undead legions through dark sorcery."
     }
   ]
 }

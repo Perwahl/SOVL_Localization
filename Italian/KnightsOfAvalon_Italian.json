@@ -3,98 +3,98 @@
   "Translations": [
     {
       "Key": "Knights of Avalon",
-      "Translation": "",
-      "Comment": "Direct translation. Noble knights of the legendary kingdom."
+      "Translation": "Cavalieri di Avalon",
+      "Comment": "Noble knights. Direct translation emphasizing legendary kingdom heritage."
     },
     {
       "Key": "Sword Militia",
-      "Translation": "",
-      "Comment": "Miliz = militia. Citizen soldiers with swords."
+      "Translation": "Milizia Spadaccino",
+      "Comment": "Sword troops. 'Spadaccino' conveys skilled sword-wielder, giving martial feel."
     },
     {
       "Key": "Peasant Mob",
-      "Translation": "",
-      "Comment": "Bauern = peasants. Untrained levies."
+      "Translation": "Chierici Contadini",
+      "Comment": "Untrained levies. Emphasizes disorganized masses of village folk."
     },
     {
       "Key": "Halberd Militia",
-      "Translation": "",
-      "Comment": "Militia armed with halberds."
+      "Translation": "Milizia Alabardiera",
+      "Comment": "Halberd troops. 'Alabardiera' denotes those who wield halberds professionally."
     },
     {
       "Key": "Spear Militia",
-      "Translation": "",
-      "Comment": "Basic spear-wielding militia."
+      "Translation": "Milizia Lanciera",
+      "Comment": "Spear troops. 'Lanciera' denotes lance/spear-armed basic infantry."
     },
     {
       "Key": "Knight Aspirants",
-      "Translation": "",
-      "Comment": "Aspiranten = aspirants. Young warriors training to become knights."
+      "Translation": "Aspiranti Cavalieri",
+      "Comment": "Training knights. Clear designation of young warriors on path to knighthood."
     },
     {
       "Key": "Mounted Hunters",
-      "Translation": "",
-      "Comment": "Beritten = mounted. Jäger = hunters. Light cavalry."
+      "Translation": "Cacciatori Montati",
+      "Comment": "Light cavalry. Emphasizes mounted reconnaissance and hunting role."
     },
     {
       "Key": "Sworn Knights",
-      "Translation": "",
-      "Comment": "Geschworene = sworn. Knights who have taken sacred oaths."
+      "Translation": "Cavalieri Giurati",
+      "Comment": "Oath-bound knights. 'Giurati' conveys solemnity of sacred vows and duty."
     },
     {
       "Key": "Hunting Dogs",
-      "Translation": "",
-      "Comment": "War dogs used in battle."
+      "Translation": "Cani da Caccia",
+      "Comment": "War dogs. Simple, direct designation of hunting/combat beasts."
     },
     {
       "Key": "Hunters",
-      "Translation": "",
-      "Comment": "Skilled hunters serving as scouts and archers."
+      "Translation": "Cacciatori",
+      "Comment": "Scout archers. Versatile ranged combatants and reconnaissance troops."
     },
     {
       "Key": "Trebuchet",
-      "Translation": "",
-      "Comment": "Trebuchet as technical term for the catapult. Alternative: Wurfmaschine."
+      "Translation": "Trabucco",
+      "Comment": "Siege weapon. Italian adaptation maintains technical precision in wargame context."
     },
     {
       "Key": "Longbowmen",
-      "Translation": "",
-      "Comment": "Famous archers with longbows. Elite ranged troops."
+      "Translation": "Arcieri Lunghi",
+      "Comment": "Elite archers. 'Arcieri lunghi' emphasizes specialized ranged prowess."
     },
     {
       "Key": "Kings Guard",
-      "Translation": "",
-      "Comment": "Elite guards protecting the king. Best warriors of the realm."
+      "Translation": "Guardia Reale",
+      "Comment": "Royal elite. Standard term emphasizing service to crown and elite status."
     },
     {
       "Key": "Pegasus Knights",
-      "Translation": "",
-      "Comment": "Knights riding pegasi. Flying cavalry."
+      "Translation": "Cavalieri Pegaso",
+      "Comment": "Flying cavalry. Maintains fantasy aesthetic while identifying sky-riders."
     },
     {
       "Key": "Hippogryph",
-      "Translation": "",
-      "Comment": "Kept as fantasy creature name. Gryphon-horse hybrid."
+      "Translation": "Ippogrifo",
+      "Comment": "Fantasy hybrid creature. Standard Italian term for gryphon-horse hybrid."
     },
     {
       "Key": "Pegasus",
-      "Translation": "",
-      "Comment": "Mythological winged horse. Kept as is."
+      "Translation": "Pegaso",
+      "Comment": "Winged horse. Standard Italian adaptation of mythological name."
     },
     {
       "Key": "Unicorn",
-      "Translation": "",
-      "Comment": "Standard German for unicorn. Magical pure creature."
+      "Translation": "Unicorno",
+      "Comment": "Magical beast. Standard Italian term for unicorn."
     },
     {
       "Key": "Maiden",
-      "Translation": "",
-      "Comment": "Jungfrau = maiden. Holy warrior blessed by the divine. Alternative: Heilige Jungfrau."
+      "Translation": "Donzella",
+      "Comment": "Holy warrior maiden. 'Donzella' carries noble and sacred connotations for divine warrior."
     },
     {
       "Key": "Paladin",
-      "Translation": "",
-      "Comment": "Paladin is universally recognized. Holy knight champion."
+      "Translation": "Paladino",
+      "Comment": "Holy knight. Direct Italian adaptation of universal fantasy term."
     }
   ]
 }

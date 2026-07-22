@@ -1,350 +1,350 @@
 {
-  "TranslationContext": "This file contains names of enemu armies in the campaign.",
+  "TranslationContext": "This file contains names of enemy armies in the campaign.",
   "Translations": [
     {
       "Key": "Worlds Hope",
-      "Translation": "",
-      "Comment": "Poetic/prophetic army name"
+      "Translation": "Speranza del Mondo",
+      "Comment": "Poetic prophetic army name. Maintains dignity and hope."
     },
     {
       "Key": "Worlds End",
-      "Translation": "",
-      "Comment": "Apocalyptic army name"
+      "Translation": "Fine del Mondo",
+      "Comment": "Apocalyptic army name. Conveys dread."
     },
     {
       "Key": "Shambling Host",
-      "Translation": "",
-      "Comment": "Undead army - 'shambling' = slow zombie movement"
+      "Translation": "Orda Traballante",
+      "Comment": "Undead army. 'Traballante' captures lurching zombie movement."
     },
     {
       "Key": "Goblin Raiders",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Razziatori Goblin",
+      "Comment": "Kept creature name for fantasy authenticity."
     },
     {
       "Key": "Roaming Brigands",
-      "Translation": "",
-      "Comment": "Classic fantasy bandits"
+      "Translation": "Briganti Nomadi",
+      "Comment": "Classic fantasy bandits. Italian conveys threatening tone."
     },
     {
       "Key": "Orc Scouts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Scout Orcheschi",
+      "Comment": "Kept race name for clarity and fantasy convention."
     },
     {
       "Key": "Vermin Pack",
-      "Translation": "",
-      "Comment": "Ratkin/Skaven-style enemies"
+      "Translation": "Branco di Parassiti",
+      "Comment": "Ratkin enemies. 'Parassiti' emphasizes vermin nature."
     },
     {
       "Key": "Newt Ambushers",
-      "Translation": "",
-      "Comment": "Lizardmen ambush party"
+      "Translation": "Imboscatori Tritone",
+      "Comment": "Lizardmen ambush party. 'Tritone' for amphibious creature."
     },
     {
       "Key": "Mossbeard",
-      "Translation": "",
-      "Comment": "Treant/forest spirit name"
+      "Translation": "Barbamuschio",
+      "Comment": "Treant/forest spirit name. Poetic compound."
     },
     {
       "Key": "Bandit Gang",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Banda di Banditi",
+      "Comment": "Direct translation works well for generic group."
     },
     {
       "Key": "Goblin Warparty",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Partita di Guerra Goblin",
+      "Comment": "Military group. Italian maintains hierarchy."
     },
     {
       "Key": "Orc Raiders",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Razziatori Orcheschi",
+      "Comment": "Parallel construction. Maintains faction parallelism."
     },
     {
       "Key": "Elf Patrol",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Pattuglia Elfica",
+      "Comment": "Military unit. Maintains formal professional tone."
     },
     {
       "Key": "Mining Crew",
-      "Translation": "",
-      "Comment": "Dwarf miners"
+      "Translation": "Squadra Miniera",
+      "Comment": "Dwarf miners. 'Squadra' emphasizes organized labor."
     },
     {
       "Key": "Vermin Tunnelers",
-      "Translation": "",
-      "Comment": "Ratkin tunnel diggers"
+      "Translation": "Scavatori Parassiti",
+      "Comment": "Ratkin tunnel diggers. Technical military unit."
     },
     {
       "Key": "Darkborn Slavers",
-      "Translation": "",
-      "Comment": "Dark elf slavers"
+      "Translation": "Schiavisti Nati dall'Oscurità",
+      "Comment": "Dark elf slavers. Emphasizes evil."
     },
     {
       "Key": "Rat Swarm",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Sciame di Ratti",
+      "Comment": "Direct threat. Conveys overwhelming menace."
     },
     {
       "Key": "The Red Goblin",
-      "Translation": "",
-      "Comment": "Boss/champion name"
+      "Translation": "Il Goblin Rosso",
+      "Comment": "Boss/champion name. Article adds emphasis."
     },
     {
       "Key": "Colossal Dreadmaw",
-      "Translation": "",
-      "Comment": "Giant monster name"
+      "Translation": "Fauci del Terrore Colossale",
+      "Comment": "Giant monster. 'Fauci' emphasizes predatory threat."
     },
     {
       "Key": "Knight Of Flowers",
-      "Translation": "",
-      "Comment": "Chivalric knight title"
+      "Translation": "Cavaliere dei Fiori",
+      "Comment": "Chivalric knight. Maintains romantic medieval tone."
     },
     {
       "Key": "Korgak",
-      "Translation": "",
-      "Comment": "Orc warlord proper name"
+      "Translation": "Korgak",
+      "Comment": "Orc warlord proper name. Keep as is."
     },
     {
       "Key": "Gundrik Anvilhide",
-      "Translation": "",
-      "Comment": "Dwarf champion - surname translated for flavor"
+      "Translation": "Gundrik Pelle-yunque",
+      "Comment": "Dwarf champion. Surname: pelle=hide, yunque=anvil."
     },
     {
       "Key": "Von Platen",
-      "Translation": "",
-      "Comment": "German noble name - keep as is"
+      "Translation": "Von Platen",
+      "Comment": "German noble name. Keep as is."
     },
     {
       "Key": "Shadowtail",
-      "Translation": "",
-      "Comment": "Ratkin assassin name"
+      "Translation": "Codasombra",
+      "Comment": "Ratkin assassin name. Compound conveys stealth."
     },
     {
       "Key": "Valeria",
-      "Translation": "",
-      "Comment": "Female champion proper name"
+      "Translation": "Valeria",
+      "Comment": "Female champion. Already works in Italian."
     },
     {
       "Key": "Prince Aias",
-      "Translation": "",
-      "Comment": "Elf prince"
+      "Translation": "Principe Aias",
+      "Comment": "Elf prince. Italian title adds formality."
     },
     {
       "Key": "Draz'gog",
-      "Translation": "",
-      "Comment": "Orc/demon warlord proper name"
+      "Translation": "Draz'gog",
+      "Comment": "Orc/demon warlord. Keep as is."
     },
     {
       "Key": "Marius the Undying",
-      "Translation": "",
-      "Comment": "Vampire/undead lord"
+      "Translation": "Marius l'Eterno",
+      "Comment": "Vampire/undead lord. 'Eterno' captures immortality."
     },
     {
       "Key": "Lirael the Ancient",
-      "Translation": "",
-      "Comment": "Female elf/spirit - feminine article"
+      "Translation": "Lirael l'Antica",
+      "Comment": "Female elf. Feminine article and adjective forms."
     },
     {
       "Key": "Rasha Blackfur",
-      "Translation": "",
-      "Comment": "Beastman/Ratkin chieftain"
+      "Translation": "Rasha Peloscuro",
+      "Comment": "Beastman chieftain. Compound emphasizes animal nature."
     },
     {
       "Key": "Beastherd",
-      "Translation": "",
-      "Comment": "Beastman warband"
+      "Translation": "Branco di Bestie",
+      "Comment": "Beastman warband. 'Branco' emphasizes herd mentality."
     },
     {
       "Key": "Northmen Raiders",
-      "Translation": "",
-      "Comment": "Viking-style warriors"
+      "Translation": "Razziatori del Nord",
+      "Comment": "Viking-style warriors. Italian conveys menace."
     },
     {
       "Key": "Elf Garrison",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Guarnigione Elfica",
+      "Comment": "Military installation. Maintains professional tone."
     },
     {
       "Key": "Imperial Regiment",
-      "Translation": "",
-      "Comment": "Empire/human professional army"
+      "Translation": "Reggimento Imperiale",
+      "Comment": "Professional army. Formal military structure."
     },
     {
       "Key": "Risen Invaders",
-      "Translation": "",
-      "Comment": "Undead risen army"
+      "Translation": "Invasori Resuscitati",
+      "Comment": "Undead army. Emphasizes supernatural threat."
     },
     {
       "Key": "Deepwood Protectors",
-      "Translation": "",
-      "Comment": "Wood elf defenders"
+      "Translation": "Protettori della Foresta Profonda",
+      "Comment": "Wood elf defenders. Maintains ethereal nature tone."
     },
     {
       "Key": "Brood Swarm",
-      "Translation": "",
-      "Comment": "Lizardmen/reptilian swarm"
+      "Translation": "Sciame Rettiliano",
+      "Comment": "Lizardmen swarm. 'Rettiliano' clarifies reptilian."
     },
     {
       "Key": "Dreadnought Fleet",
-      "Translation": "",
-      "Comment": "Powerful naval force"
+      "Translation": "Flotta Corazzata del Terrore",
+      "Comment": "Naval force. Italian adds martial intensity."
     },
     {
       "Key": "Treant March",
-      "Translation": "",
-      "Comment": "Forest spirits on the move"
+      "Translation": "Marcia degli Alberi Antichi",
+      "Comment": "Forest spirits. Maintains mythological weight."
     },
     {
       "Key": "War Host",
-      "Translation": "",
-      "Comment": "Large military force"
+      "Translation": "Hueste di Guerra",
+      "Comment": "Large military force. Archaic term conveys epic scale."
     },
     {
       "Key": "Abyssal Raiders",
-      "Translation": "",
-      "Comment": "Demon raiders from the abyss"
+      "Translation": "Razziatori dell'Abisso",
+      "Comment": "Demon raiders. Maintains demonic tone."
     },
     {
       "Key": "Beasthost",
-      "Translation": "",
-      "Comment": "Large beastman army"
+      "Translation": "Hueste di Bestie",
+      "Comment": "Large beastman army. Suggests organized horde."
     },
     {
       "Key": "Dwarf Gunline",
-      "Translation": "",
-      "Comment": "Dwarf gunpowder army formation"
+      "Translation": "Linea di Fuoco Nanica",
+      "Comment": "Gunpowder formation. Technical military term."
     },
     {
       "Key": "Goblin Legion",
-      "Translation": "",
-      "Comment": "Massive goblin army"
+      "Translation": "Legione Goblin",
+      "Comment": "Massive goblin army. Direct and clear."
     },
     {
       "Key": "Doom Swarm",
-      "Translation": "",
-      "Comment": "Apocalyptic ratkin horde"
+      "Translation": "Sciame della Rovina",
+      "Comment": "Apocalyptic ratkin horde. Emphasizes doom."
     },
     {
       "Key": "Forest Wrath",
-      "Translation": "",
-      "Comment": "Angry forest spirits"
+      "Translation": "Ira della Foresta",
+      "Comment": "Angry forest spirits. Conveys nature's fury."
     },
     {
       "Key": "Temple Guard",
-      "Translation": "",
-      "Comment": "Lizardmen elite guardians"
+      "Translation": "Guardia del Tempio",
+      "Comment": "Lizardmen elite. Direct and professional."
     },
     {
       "Key": "Toad King",
-      "Translation": "",
-      "Comment": "Lizardmen slann/toad priest"
+      "Translation": "Re Rospo",
+      "Comment": "Lizardmen priest leader. Maintains authority."
     },
     {
       "Key": "Northmen War Pack",
-      "Translation": "",
-      "Comment": "Viking warband"
+      "Translation": "Branco di Guerra del Nord",
+      "Comment": "Viking warband. 'Branco' emphasizes savage pack."
     },
     {
       "Key": "Trickery",
-      "Translation": "",
-      "Comment": "Chaos/trickster god alignment or themed army"
+      "Translation": "Inganno",
+      "Comment": "Chaos trickster army. Emphasizes deception theme."
     },
     {
       "Key": "Gravethorn",
-      "Translation": "",
-      "Comment": "Undead/vampire lord name"
+      "Translation": "Spina Sepolcrale",
+      "Comment": "Undead/vampire lord name. Conveys death theme."
     },
     {
       "Key": "Malificar the Despoiler",
-      "Translation": "",
-      "Comment": "Chaos/demon lord boss"
+      "Translation": "Malifar lo Devastatore",
+      "Comment": "Chaos/demon lord. Emphasizes destructive power."
     },
     {
       "Key": "Sir Dagrik",
-      "Translation": "",
-      "Comment": "Human/Bretonnian knight"
+      "Translation": "Sir Dagrik",
+      "Comment": "Human knight. Keep as is for authenticity."
     },
     {
       "Key": "Ajolote",
-      "Translation": "",
-      "Comment": "Lizardmen proper name (axolotl-inspired)"
+      "Translation": "Ajolote",
+      "Comment": "Lizardmen proper name. Keep as is."
     },
     {
       "Key": "Master Itch",
-      "Translation": "",
-      "Comment": "Ratkin clan master - 'Itch' = plague theme"
+      "Translation": "Maestro Prurito",
+      "Comment": "Ratkin clan master. 'Prurito' emphasizes plague theme."
     },
     {
       "Key": "Thorbjorn",
-      "Translation": "",
-      "Comment": "Norse/Viking proper name - authentic"
+      "Translation": "Thorbjorn",
+      "Comment": "Norse/Viking proper name. Keep as is."
     },
     {
       "Key": "Abraxas The Decayed ",
-      "Translation": "",
-      "Comment": "Nurgle/decay demon lord"
+      "Translation": "Abraxas il Putrefatto",
+      "Comment": "Decay demon lord. Emphasizes rot and corruption."
     },
     {
       "Key": "The Dark Battalion",
-      "Translation": "",
-      "Comment": "Dark elf/chaos elite army"
+      "Translation": "Il Battaglione Oscuro",
+      "Comment": "Dark elf/chaos army. Article adds formality."
     },
     {
       "Key": "The Silver Host",
-      "Translation": "",
-      "Comment": "High elf/noble army"
+      "Translation": "La Hueste Argentea",
+      "Comment": "High elf/noble army. Emphasizes nobility."
     },
     {
       "Key": "The Unholy Alliance",
-      "Translation": "",
-      "Comment": "Chaos/evil coalition"
+      "Translation": "L'Alleanza Profana",
+      "Comment": "Chaos coalition. Emphasizes evil union."
     },
     {
       "Key": "Verdant Sentinels",
-      "Translation": "",
-      "Comment": "Forest/nature spirit guardians"
+      "Translation": "Sentinelle Verdeggianti",
+      "Comment": "Forest guardian spirits. Emphasizes natural growth."
     },
     {
       "Key": "Corrupted Legion",
-      "Translation": "",
-      "Comment": "Chaos-corrupted army"
+      "Translation": "Legione Corrotta",
+      "Comment": "Chaos-corrupted army. Direct and clear."
     },
     {
       "Key": "Roaming Vampires",
-      "Translation": "",
-      "Comment": "Vampire encounter"
+      "Translation": "Vampiri Erranti",
+      "Comment": "Vampire encounter. Emphasizes nocturnal nature."
     },
     {
       "Key": "Rogue Wizards",
-      "Translation": "",
-      "Comment": "Renegade mages - mirrors UI translation"
+      "Translation": "Maghi Rinnegati",
+      "Comment": "Renegade mages. Professional designation."
     },
     {
       "Key": "Wild Bulls",
-      "Translation": "",
-      "Comment": "Minotaur/beastman encounter"
+      "Translation": "Tori Selvaggi",
+      "Comment": "Minotaur/beastman encounter. Emphasizes savage nature."
     },
     {
       "Key": "Angry Giants",
-      "Translation": "",
-      "Comment": "Giant monster encounter"
+      "Translation": "Giganti Furiosi",
+      "Comment": "Giant monster encounter. Simple and effective."
     },
     {
       "Key": "Swamp Trolls",
-      "Translation": "",
-      "Comment": "Monster encounter"
+      "Translation": "Troll della Palude",
+      "Comment": "Monster encounter. Establishes habitat."
     },
     {
       "Key": "Wolf Pack",
-      "Translation": "",
-      "Comment": "Beast/wolf encounter"
+      "Translation": "Branco di Lupi",
+      "Comment": "Beast/wolf encounter. Emphasizes pack hunting."
     },
     {
       "Key": "Zombie Horde",
-      "Translation": "",
-      "Comment": "Undead encounter"
+      "Translation": "Orda di Zombie",
+      "Comment": "Undead encounter. Shambling undead masses."
     }
   ]
 }

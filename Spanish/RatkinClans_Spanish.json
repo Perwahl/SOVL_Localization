@@ -3,73 +3,73 @@
   "Translations": [
     {
       "Key": "Ratkin Clans",
-      "Translation": "",
-      "Comment": "Rattenmensch = rat-people. Klans maintains the tribal structure."
+      "Translation": "Clanes Ratoides",
+      "Comment": "Rattenmensch = rat-people. Klans maintains the tribal structure. 'Ratoides' = rat-like; maintains the tribal faction feel."
     },
     {
       "Key": "Ratkin Legionaries",
-      "Translation": "",
-      "Comment": "Legionäre = legionaries. Organized rat-men infantry."
+      "Translation": "Legionarios Ratoides",
+      "Comment": "Legionäre = legionaries. Organized rat-men infantry. Standard militant terminology for organized troops."
     },
     {
       "Key": "Ratkin Conscripts",
-      "Translation": "",
-      "Comment": "Wehrpflichtige = conscripts. Forced levies of rat-men."
+      "Translation": "Conscriptos Ratoides",
+      "Comment": "Wehrpflichtige = conscripts. Forced levies of rat-men. 'Conscriptos' emphasizes forced recruitment."
     },
     {
       "Key": "Ratkin Skulkers",
-      "Translation": "",
-      "Comment": "Schleicher = skulkers/sneakers. Stealthy infiltrators."
+      "Translation": "Merodeadores Ratoides",
+      "Comment": "Schleicher = skulkers/sneakers. Stealthy infiltrators. 'Merodeadores' conveys sneaking/skulking behavior."
     },
     {
       "Key": "Ratkin Longrifles",
-      "Translation": "",
-      "Comment": "Ratkin sharpshooters with long rifles. Technological advantage."
+      "Translation": "Fusileros de Largo Alcance Ratoides",
+      "Comment": "Ratkin sharpshooters with long rifles. Technological advantage. Full descriptor emphasizes the technological edge."
     },
     {
       "Key": "Ratkin Slingers",
-      "Translation": "",
-      "Comment": "Schleuderer = slingers. Simple ranged troops."
+      "Translation": "Honderos Ratoides",
+      "Comment": "Schleuderer = slingers. Simple ranged troops. 'Hondero' is the traditional Spanish term for slingers."
     },
     {
       "Key": "Ratkin Flamers",
-      "Translation": "",
-      "Comment": "Flammenwerfer troops. Dangerous experimental weapons."
+      "Translation": "Lanzallamas Ratoides",
+      "Comment": "Flammenwerfer troops. Dangerous experimental weapons. Direct translation; dangerous and ominous tone."
     },
     {
       "Key": "Ratkin Monstrosity",
-      "Translation": "",
-      "Comment": "Monstrum = monstrosity. Twisted creation of dark experiments."
+      "Translation": "Aberración Ratiode",
+      "Comment": "Monstrum = monstrosity. Twisted creation of dark experiments. 'Aberración' emphasizes the unnatural horror."
     },
     {
       "Key": "Ratkin Alphas",
-      "Translation": "",
-      "Comment": "Alpha kept as term. Elite warriors of the clans."
+      "Translation": "Alfas Ratoides",
+      "Comment": "Alpha kept as term. Elite warriors of the clans. 'Alfa' retains the gaming terminology; indicates dominance."
     },
     {
       "Key": "Rat Swarms",
-      "Translation": "",
-      "Comment": "Schwärme = swarms. Masses of vermin."
+      "Translation": "Enjambres de Ratas",
+      "Comment": "Schwärme = swarms. Masses of vermin. 'Enjambre' evokes the overwhelming nature of swarms."
     },
     {
       "Key": "Doom Bell",
-      "Translation": "",
-      "Comment": "Ominous bell that tolls doom. Same as in UnitProps."
+      "Translation": "Campana de la Perdición",
+      "Comment": "Ominous bell that tolls doom. Same as in UnitProps. 'Perdición' = perdition/doom; ominous and foreboding."
     },
     {
       "Key": "Ratkin Warlock",
-      "Translation": "",
-      "Comment": "Hexenmeister = warlock. Dark magic user."
+      "Translation": "Brujo Ratiode",
+      "Comment": "Hexenmeister = warlock. Dark magic user. 'Brujo' = warlock/sorcerer; establishes dark magic theme."
     },
     {
       "Key": "Ratkin Chieftain",
-      "Translation": "",
-      "Comment": "Clan leader. Cunning and ruthless."
+      "Translation": "Jefe Tribal Ratiode",
+      "Comment": "Clan leader. Cunning and ruthless. 'Jefe Tribal' emphasizes clan hierarchy and leadership."
     },
     {
       "Key": "Ratkin Infiltrator",
-      "Translation": "",
-      "Comment": "Master spy and assassin. Sneaks behind enemy lines."
+      "Translation": "Infiltrador Maestro Ratiode",
+      "Comment": "Master spy and assassin. Sneaks behind enemy lines. 'Maestro' emphasizes skill and mastery in covert operations."
     }
   ]
 }

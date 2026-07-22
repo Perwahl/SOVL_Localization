@@ -3,78 +3,78 @@
   "Translations": [
     {
       "Key": "Goatmen Raiders",
-      "Translation": "",
-      "Comment": "Ziegenmenschen = goatmen (beast-men with goat features). Plünderer = raiders."
+      "Translation": "Asaltantes Hombres Cabra",
+      "Comment": "Ziegenmenschen = goatmen (beast-men with goat features). Plünderer = raiders. Asaltantes conveys the raiding/pillaging nature."
     },
     {
       "Key": "Ibex Warriors",
-      "Translation": "",
-      "Comment": "Steinbock = ibex (mountain goat). Fierce warriors."
+      "Translation": "Guerreros Íbice",
+      "Comment": "Steinbock = ibex (mountain goat). Fierce warriors. Íbice is the Spanish term for ibex, emphasizing their mountain-dwelling nature."
     },
     {
       "Key": "Goatmen Warriors",
-      "Translation": "",
-      "Comment": "Standard goat-men warriors. Savage and brutal."
+      "Translation": "Guerreros Hombres Cabra",
+      "Comment": "Standard goat-men warriors. Savage and brutal. Direct translation maintaining consistency with faction name."
     },
     {
       "Key": "Mongrel Pack",
-      "Translation": "",
-      "Comment": "Mischling = mongrel/mixed breed. Horde = pack. Chaotic mass of lesser beast-men."
+      "Translation": "Jauría de Mestizos",
+      "Comment": "Mischling = mongrel/mixed breed. Jauría emphasizes the pack/horde nature, used for both beasts and rabid armies."
     },
     {
       "Key": "Mongrel Spear",
-      "Translation": "",
-      "Comment": "Mongrel troops armed with spears."
+      "Translation": "Lanceros Mestizos",
+      "Comment": "Mongrel troops armed with spears. Lanceros is the standard term for spear-armed troops in Spanish fantasy contexts."
     },
     {
       "Key": "Raiding Chariot",
-      "Translation": "",
-      "Comment": "Plünder- prefix = raiding. Fast attack chariot."
+      "Translation": "Carro de Asalto",
+      "Comment": "Plünder- prefix = raiding. Fast attack chariot. Carro de Asalto conveys rapid assault tactics."
     },
     {
       "Key": "Feral Hounds",
-      "Translation": "",
-      "Comment": "Wilde = feral/wild. Jagdhunde = hunting hounds. Savage war beasts."
+      "Translation": "Sabuesos Salvajes",
+      "Comment": "Wilde = feral/wild. Jagdhunde = hunting hounds. Sabuesos Salvajes emphasizes both the hunting nature and feral aspect."
     },
     {
       "Key": "Mongrel Skirmishers",
-      "Translation": "",
-      "Comment": "Plänkler = skirmishers. Light troops for harassment."
+      "Translation": "Caballeros Ligeros Mestizos",
+      "Comment": "Plänkler = skirmishers. Light troops for harassment. Caballeros Ligeros is the classical term for light skirmishing cavalry."
     },
     {
       "Key": "Centaurs",
-      "Translation": "",
-      "Comment": "Standard German for centaurs. Half-man, half-horse."
+      "Translation": "Centauros",
+      "Comment": "Standard German for centaurs. Half-man, half-horse. Direct translation is identical to German."
     },
     {
       "Key": "Minotaurs",
-      "Translation": "",
-      "Comment": "Standard German for minotaurs. Bull-headed warriors."
+      "Translation": "Minotauros",
+      "Comment": "Standard German for minotaurs. Bull-headed warriors. Direct translation matching German cognate."
     },
     {
       "Key": "Harpies",
-      "Translation": "",
-      "Comment": "Flying monsters allied with the beast-men."
+      "Translation": "Arpías",
+      "Comment": "Flying monsters allied with the beast-men. Standard Spanish term for mythological harpies."
     },
     {
       "Key": "Feral Giant",
-      "Translation": "",
-      "Comment": "Wilder = feral/wild. Untamed giant serving the beast-men."
+      "Translation": "Gigante Salvaje",
+      "Comment": "Wilder = feral/wild. Untamed giant serving the beast-men. Simple, direct translation fitting wargame terminology."
     },
     {
       "Key": "Goatman Shaman",
-      "Translation": "",
-      "Comment": "Tribal magic user. Dark rituals and curses."
+      "Translation": "Chamán Hombre Cabra",
+      "Comment": "Tribal magic user. Dark rituals and curses. Chamán is standard Spanish for shaman; maintains consistency with faction naming."
     },
     {
       "Key": "Goatman Longhorn",
-      "Translation": "",
-      "Comment": "Langhorn = longhorn. Elite warrior with impressive horns."
+      "Translation": "Cuernilargo Hombre Cabra",
+      "Comment": "Langhorn = longhorn. Elite warrior with impressive horns. Cuernilargo captures the impressive horn aesthetic while maintaining fantasy wargame tone."
     },
     {
       "Key": "Minotaur Lord",
-      "Translation": "",
-      "Comment": "Mighty minotaur leader. Powerful hero."
+      "Translation": "Señor Minotauro",
+      "Comment": "Mighty minotaur leader. Powerful hero. Señor conveys nobility and command authority befitting a faction hero unit."
     }
   ]
 }

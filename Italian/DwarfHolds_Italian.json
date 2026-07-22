@@ -3,88 +3,88 @@
   "Translations": [
     {
       "Key": "Dwarf Holds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Fortezze Naniche",
+      "Comment": "Faction strongholds. Formal term conveying strength and military purpose."
     },
     {
       "Key": "Dwarf Warriors",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Guerrieri Nani",
+      "Comment": "Standard infantry. Straightforward military terminology."
     },
     {
       "Key": "Dwarf Veterans",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Veterani Nani",
+      "Comment": "Experienced soldiers. 'Veterani' implies seasoned combat experience."
     },
     {
       "Key": "Dwarf Miners",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Minatori Nani",
+      "Comment": "Worker-soldiers. Maintains industrial and mining heritage of dwarves."
     },
     {
       "Key": "Dwarf Crossbows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Balestrier Nani",
+      "Comment": "Ranged infantry. Professional crossbow terminology."
     },
     {
       "Key": "Dwarf Handguns",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Moschettieri Nani",
+      "Comment": "Firearm soldiers. 'Moschettieri' evokes fantasy gunpowder troops."
     },
     {
       "Key": "Dwarf Rangers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Scout Nani",
+      "Comment": "Reconnaissance units. Emphasizes their scout and ranger role."
     },
     {
       "Key": "Dwarf Cannon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Cannone Nano",
+      "Comment": "Artillery piece. Standard military terminology, singular form for equipment."
     },
     {
       "Key": "Dwarf Bolt Thrower",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Lanciaprogettili Nano",
+      "Comment": "Siege weapon. Generic term fitting fantasy wargame aesthetic."
     },
     {
       "Key": "Dwarf Stonethrower",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Lanciapietre Nano",
+      "Comment": "Siege artillery. Compound word emphasizing stone-throwing function."
     },
     {
       "Key": "Dwarf Berserkers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Berserk Nani",
+      "Comment": "Elite melee units. Kept as fantasy term recognized in Italian contexts."
     },
     {
       "Key": "Deep Guard",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Guardia delle Profondità",
+      "Comment": "Elite deep hold unit. Poetic yet martial tone befitting elite status."
     },
     {
       "Key": "Inferno Cannon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Cannone Infernale",
+      "Comment": "Magical artillery. 'Infernale' conveys both fire and otherworldly power."
     },
     {
       "Key": "Dwarf Flying Machine",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Macchina Volante Nanica",
+      "Comment": "Fantasy war machine. Maintains the steam/dwarf-tech aesthetic."
     },
     {
       "Key": "Dwarf Foreman",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Caposquadra Nano",
+      "Comment": "Leader type. Implies authority and craftsmanship expertise."
     },
     {
       "Key": "Ranger Captain",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Capitano Scout",
+      "Comment": "Officer rank. Maintains military hierarchy with command title."
     },
     {
       "Key": "Dwarf Engineer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ingegnere Nano",
+      "Comment": "Specialist unit. Reflects dwarven expertise in construction and mechanics."
     }
   ]
 }
