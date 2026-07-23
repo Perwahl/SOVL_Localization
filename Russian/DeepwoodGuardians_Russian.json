@@ -3,83 +3,83 @@
   "Translations": [
     {
       "Key": "Deepwood Guardians",
-      "Translation": "",
-      "Comment": "Tiefwald = deepwood, Hüter = guardians. Protectors of the ancient forest."
+      "Translation": "Хранители Глубокого Леса",
+      "Comment": "Глубокий лес = Deepwood. Хранители = Guardians. Защитники древнего леса. Величественное название фракции."
     },
     {
       "Key": "Deepwood Guard",
-      "Translation": "",
-      "Comment": "Wache = guard. Basic forest defenders."
+      "Translation": "Страж Леса",
+      "Comment": "Базовый боевой юнит. Простой защитник лесного королевства."
     },
     {
       "Key": "Dryads",
-      "Translation": "",
-      "Comment": "Standard German term for dryads. Tree spirits in elven form."
+      "Translation": "Дриады",
+      "Comment": "Стандартный фэнтези-термин. Духи деревьев в облике эльфов."
     },
     {
       "Key": "Deepwood Dancers",
-      "Translation": "",
-      "Comment": "Tänzer = dancers. Swift and graceful forest warriors."
+      "Translation": "Танцоры Леса",
+      "Comment": "Быстрые и грациозные лесные воины. Используют маневренность в бою."
     },
     {
       "Key": "Deepwood Archers",
-      "Translation": "",
-      "Comment": "Forest archers. Masters of woodland archery."
+      "Translation": "Лучники Леса",
+      "Comment": "Мастера лесной архерии. Дальнобойные боевые юниты."
     },
     {
       "Key": "Deepwood Rangers",
-      "Translation": "",
-      "Comment": "Waldläufer = rangers. Elite scouts and hunters of the deep forest."
+      "Translation": "Рейнджеры Глубокого Леса",
+      "Comment": "Лесные разведчики = rangers/waldläufer. Элитные охотники и следопыты."
     },
     {
       "Key": "Deepwood Riders",
-      "Translation": "",
-      "Comment": "Fast cavalry of the forest. Riding forest creatures."
+      "Translation": "Всадники Леса",
+      "Comment": "Быстрая кавалерия лесного королевства. Верховые на лесных существах."
     },
     {
       "Key": "Deepwood Chariot",
-      "Translation": "",
-      "Comment": "Nature-powered chariot."
+      "Translation": "Боевая Колесница Леса",
+      "Comment": "Боевой механизм, приводимый в движение природной магией."
     },
     {
       "Key": "Giant Eagle",
-      "Translation": "",
-      "Comment": "Majestic flying creature of the forest."
+      "Translation": "Гигантский Орёл",
+      "Comment": "Величественное летающее существо леса. Воздушная поддержка."
     },
     {
       "Key": "Stag Riders",
-      "Translation": "",
-      "Comment": "Hirsch = stag. Cavalry riding majestic forest stags."
+      "Translation": "Всадники Оленей",
+      "Comment": "Кавалерия, верховые на величественных лесных оленях. Элегантная и сильная сила."
     },
     {
       "Key": "Treant",
-      "Translation": "",
-      "Comment": "Baumriese = tree giant. Living tree creature. Alternative: Treant (kept as fantasy term)."
+      "Translation": "Древень",
+      "Comment": "Огромное живое существо-дерево. Гигант растительной природы. Сохранено фэнтези-название (Древень)."
     },
     {
       "Key": "Forest Dragon",
-      "Translation": "",
-      "Comment": "Dragon of the forest. Ancient guardian."
+      "Translation": "Лесной Дракон",
+      "Comment": "Дракон из глубины леса. Древний и могущественный стражник."
     },
     {
       "Key": "Gryphon",
-      "Translation": "",
-      "Comment": "Standard German term for gryphon."
+      "Translation": "Грифон",
+      "Comment": "Стандартный фэнтези-термин. Гибридное существо орла и льва."
     },
     {
       "Key": "Deepwood Noble",
-      "Translation": "",
-      "Comment": "Noble leader of the forest folk."
+      "Translation": "Благородный Эльф Леса",
+      "Comment": "Аристократический вождь лесного народа. Командир верхний ранг."
     },
     {
       "Key": "Deepwood Druid",
-      "Translation": "",
-      "Comment": "Druide = druid. Nature magic user."
+      "Translation": "Друид Леса",
+      "Comment": "Мастер природной магии. Волшебник, связанный с силами природы."
     },
     {
       "Key": "Treant Elder",
-      "Translation": "",
-      "Comment": "Ancient and powerful tree creature. Wise forest spirit."
+      "Translation": "Старейший Древень",
+      "Comment": "Древний и могущественный древесный гигант. Мудрый дух леса первозданных времён."
     }
   ]
 }

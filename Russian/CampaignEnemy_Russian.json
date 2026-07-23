@@ -3,348 +3,348 @@
   "Translations": [
     {
       "Key": "Worlds Hope",
-      "Translation": "",
-      "Comment": "Poetic/prophetic army name"
+      "Translation": "Надежда Миров",
+      "Comment": "Poetic/prophetic army name - feminine gender for abstract concept"
     },
     {
       "Key": "Worlds End",
-      "Translation": "",
-      "Comment": "Apocalyptic army name"
+      "Translation": "Конец Миров",
+      "Comment": "Apocalyptic army name - masculine for 'End'"
     },
     {
       "Key": "Shambling Host",
-      "Translation": "",
-      "Comment": "Undead army - 'shambling' = slow zombie movement"
+      "Translation": "Шатающееся Воинство",
+      "Comment": "Undead army - 'shambling' = slow zombie movement, participial form captures ungainly movement"
     },
     {
       "Key": "Goblin Raiders",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Гоблинские Налётчики",
+      "Comment": "Military terminology for aggressive cavalry-style raiders"
     },
     {
       "Key": "Roaming Brigands",
-      "Translation": "",
-      "Comment": "Classic fantasy bandits"
+      "Translation": "Кочующие Разбойники",
+      "Comment": "Classic fantasy bandits - 'roaming' emphasizes their nomadic nature"
     },
     {
       "Key": "Orc Scouts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Orcкие Разведчики",
+      "Comment": "Military unit terminology"
     },
     {
       "Key": "Vermin Pack",
-      "Translation": "",
-      "Comment": "Ratkin/Skaven-style enemies"
+      "Translation": "Стая Тварей",
+      "Comment": "Ratkin/Skaven-style enemies - pack mentality emphasized"
     },
     {
       "Key": "Newt Ambushers",
-      "Translation": "",
-      "Comment": "Lizardmen ambush party"
+      "Translation": "Тритоньи Засадчики",
+      "Comment": "Lizardmen ambush party - 'тритонь' for amphibious lizardmen"
     },
     {
       "Key": "Mossbeard",
-      "Translation": "",
-      "Comment": "Treant/forest spirit name"
+      "Translation": "Мхобород",
+      "Comment": "Treant/forest spirit name - compound word suggests ancient forest creature"
     },
     {
       "Key": "Bandit Gang",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Разбойничья Банда",
+      "Comment": "Generic bandit group terminology"
     },
     {
       "Key": "Goblin Warparty",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Гоблинский Боевой Отряд",
+      "Comment": "Military terminology for organized goblin force"
     },
     {
       "Key": "Orc Raiders",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Orcкие Налётчики",
+      "Comment": "Military unit terminology - more aggressive than scouts"
     },
     {
       "Key": "Elf Patrol",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Эльфийский Патруль",
+      "Comment": "Military terminology for elven scouts"
     },
     {
       "Key": "Mining Crew",
-      "Translation": "",
-      "Comment": "Dwarf miners"
+      "Translation": "Горняцкая Бригада",
+      "Comment": "Dwarf miners - occupational terminology"
     },
     {
       "Key": "Vermin Tunnelers",
-      "Translation": "",
-      "Comment": "Ratkin tunnel diggers"
+      "Translation": "Подземные Крысолюди",
+      "Comment": "Ratkin tunnel diggers - 'подземные' emphasizes their subterranean nature"
     },
     {
       "Key": "Darkborn Slavers",
-      "Translation": "",
-      "Comment": "Dark elf slavers"
+      "Translation": "Тёмнорождённые Работорговцы",
+      "Comment": "Dark elf slavers - menacing and oppressive tone"
     },
     {
       "Key": "Rat Swarm",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Крысиный Рой",
+      "Comment": "Ratkin horde - conveys overwhelming numbers"
     },
     {
       "Key": "The Red Goblin",
-      "Translation": "",
-      "Comment": "Boss/champion name"
+      "Translation": "Красный Гоблин",
+      "Comment": "Boss/champion name - distinctive epithet for legendary warrior"
     },
     {
       "Key": "Colossal Dreadmaw",
-      "Translation": "",
-      "Comment": "Giant monster name"
+      "Translation": "Колоссальный Ужасопас",
+      "Comment": "Giant monster name - compound word suggests terrifying creature"
     },
     {
       "Key": "Knight Of Flowers",
-      "Translation": "",
-      "Comment": "Chivalric knight title"
+      "Translation": "Рыцарь Цветов",
+      "Comment": "Chivalric knight title - poetic, romantic tradition"
     },
     {
       "Key": "Korgak",
-      "Translation": "",
-      "Comment": "Orc warlord proper name"
+      "Translation": "Коргак",
+      "Comment": "Orc warlord proper name - keep phonetic spelling"
     },
     {
       "Key": "Gundrik Anvilhide",
-      "Translation": "",
-      "Comment": "Dwarf champion - surname translated for flavor"
+      "Translation": "Гундрик Наковальнешкур",
+      "Comment": "Dwarf champion - surname translated for dwarven flavor (anvil + hide)"
     },
     {
       "Key": "Von Platen",
-      "Translation": "",
-      "Comment": "German noble name - keep as is"
+      "Translation": "фон Платен",
+      "Comment": "German noble name - transliterate with Russian 'фон' particle"
     },
     {
       "Key": "Shadowtail",
-      "Translation": "",
-      "Comment": "Ratkin assassin name"
+      "Translation": "Теневой Хвост",
+      "Comment": "Ratkin assassin name - sinister, stealthy epithet"
     },
     {
       "Key": "Valeria",
-      "Translation": "",
-      "Comment": "Female champion proper name"
+      "Translation": "Валерия",
+      "Comment": "Female champion proper name - Slavic adaptation"
     },
     {
       "Key": "Prince Aias",
-      "Translation": "",
-      "Comment": "Elf prince"
+      "Translation": "Принц Аиас",
+      "Comment": "Elf prince - title retained in Russian form"
     },
     {
       "Key": "Draz'gog",
-      "Translation": "",
-      "Comment": "Orc/demon warlord proper name"
+      "Translation": "Драз'гог",
+      "Comment": "Orc/demon warlord proper name - keep apostrophe for fantasy effect"
     },
     {
       "Key": "Marius the Undying",
-      "Translation": "",
-      "Comment": "Vampire/undead lord"
+      "Translation": "Марий Бессмертный",
+      "Comment": "Vampire/undead lord - classical name with sinister epithet"
     },
     {
       "Key": "Lirael the Ancient",
-      "Translation": "",
-      "Comment": "Female elf/spirit - feminine article"
+      "Translation": "Лираэль Древняя",
+      "Comment": "Female elf/spirit - feminine adjective agreement"
     },
     {
       "Key": "Rasha Blackfur",
-      "Translation": "",
-      "Comment": "Beastman/Ratkin chieftain"
+      "Translation": "Раша Чёрнобык",
+      "Comment": "Beastman/Ratkin chieftain - surname is descriptive epithet"
     },
     {
       "Key": "Beastherd",
-      "Translation": "",
-      "Comment": "Beastman warband"
+      "Translation": "Звероватага",
+      "Comment": "Beastman warband - compound suggests savage herd"
     },
     {
       "Key": "Northmen Raiders",
-      "Translation": "",
-      "Comment": "Viking-style warriors"
+      "Translation": "Северные Налётчики",
+      "Comment": "Viking-style warriors - emphasizes northern origin and raiding tactics"
     },
     {
       "Key": "Elf Garrison",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Эльфийский Гарнизон",
+      "Comment": "Military fortification terminology"
     },
     {
       "Key": "Imperial Regiment",
-      "Translation": "",
-      "Comment": "Empire/human professional army"
+      "Translation": "Имперский Полк",
+      "Comment": "Empire/human professional army - grand, organized military term"
     },
     {
       "Key": "Risen Invaders",
-      "Translation": "",
-      "Comment": "Undead risen army"
+      "Translation": "Восставшие Захватчики",
+      "Comment": "Undead risen army - past participle emphasizes supernatural origin"
     },
     {
       "Key": "Deepwood Protectors",
-      "Translation": "",
-      "Comment": "Wood elf defenders"
+      "Translation": "Защитники Древних Лесов",
+      "Comment": "Wood elf defenders - emphasizes deep forest guardianship"
     },
     {
       "Key": "Brood Swarm",
-      "Translation": "",
-      "Comment": "Lizardmen/reptilian swarm"
+      "Translation": "Выводок Тварей",
+      "Comment": "Lizardmen/reptilian swarm - 'brood' suggests mass hatching"
     },
     {
       "Key": "Dreadnought Fleet",
-      "Translation": "",
-      "Comment": "Powerful naval force"
+      "Translation": "Флот Ужастанов",
+      "Comment": "Powerful naval force - imposing military terminology"
     },
     {
       "Key": "Treant March",
-      "Translation": "",
-      "Comment": "Forest spirits on the move"
+      "Translation": "Шествие Древознаков",
+      "Comment": "Forest spirits on the move - 'march' suggests ancient, deliberate movement"
     },
     {
       "Key": "War Host",
-      "Translation": "",
-      "Comment": "Large military force"
+      "Translation": "Военное Воинство",
+      "Comment": "Large military force - archaic fantasy terminology"
     },
     {
       "Key": "Abyssal Raiders",
-      "Translation": "",
-      "Comment": "Demon raiders from the abyss"
+      "Translation": "Адские Налётчики",
+      "Comment": "Demon raiders from the abyss - infernal menace"
     },
     {
       "Key": "Beasthost",
-      "Translation": "",
-      "Comment": "Large beastman army"
+      "Translation": "Звероватага",
+      "Comment": "Large beastman army - unified beastman faction"
     },
     {
       "Key": "Dwarf Gunline",
-      "Translation": "",
-      "Comment": "Dwarf gunpowder army formation"
+      "Translation": "Дварфийская Артиллерийская Линия",
+      "Comment": "Dwarf gunpowder army formation - military discipline and technology"
     },
     {
       "Key": "Goblin Legion",
-      "Translation": "",
-      "Comment": "Massive goblin army"
+      "Translation": "Гоблинский Легион",
+      "Comment": "Massive goblin army - grand scale military unit"
     },
     {
       "Key": "Doom Swarm",
-      "Translation": "",
-      "Comment": "Apocalyptic ratkin horde"
+      "Translation": "Рой Гибели",
+      "Comment": "Apocalyptic ratkin horde - catastrophic inevitability"
     },
     {
       "Key": "Forest Wrath",
-      "Translation": "",
-      "Comment": "Angry forest spirits"
+      "Translation": "Гнев Леса",
+      "Comment": "Angry forest spirits - elemental fury of nature"
     },
     {
       "Key": "Temple Guard",
-      "Translation": "",
-      "Comment": "Lizardmen elite guardians"
+      "Translation": "Храмовая Стража",
+      "Comment": "Lizardmen elite guardians - religious military order"
     },
     {
       "Key": "Toad King",
-      "Translation": "",
-      "Comment": "Lizardmen slann/toad priest"
+      "Translation": "Король Жаб",
+      "Comment": "Lizardmen slann/toad priest - ancient mystical ruler"
     },
     {
       "Key": "Northmen War Pack",
-      "Translation": "",
-      "Comment": "Viking warband"
+      "Translation": "Северная Боевая Свора",
+      "Comment": "Viking warband - 'pack' emphasizes tribal organization and ferocity"
     },
     {
       "Key": "Trickery",
-      "Translation": "",
-      "Comment": "Chaos/trickster god alignment or themed army"
+      "Translation": "Коварство",
+      "Comment": "Chaos/trickster god alignment or themed army - deceptive forces"
     },
     {
       "Key": "Gravethorn",
-      "Translation": "",
-      "Comment": "Undead/vampire lord name"
+      "Translation": "Могильный Шип",
+      "Comment": "Undead/vampire lord name - dark, menacing epithet"
     },
     {
       "Key": "Malificar the Despoiler",
-      "Translation": "",
-      "Comment": "Chaos/demon lord boss"
+      "Translation": "Малификар Разоритель",
+      "Comment": "Chaos/demon lord boss - classical evil overlord name"
     },
     {
       "Key": "Sir Dagrik",
-      "Translation": "",
-      "Comment": "Human/Bretonnian knight"
+      "Translation": "Сэр Дагрик",
+      "Comment": "Human/Bretonnian knight - knightly title retained"
     },
     {
       "Key": "Ajolote",
-      "Translation": "",
-      "Comment": "Lizardmen proper name (axolotl-inspired)"
+      "Translation": "Аджолот",
+      "Comment": "Lizardmen proper name (axolotl-inspired) - phonetic adaptation"
     },
     {
       "Key": "Master Itch",
-      "Translation": "",
-      "Comment": "Ratkin clan master - 'Itch' = plague theme"
+      "Translation": "Мастер Чесотка",
+      "Comment": "Ratkin clan master - 'Itch' = plague/disease theme suggests pestilence"
     },
     {
       "Key": "Thorbjorn",
-      "Translation": "",
-      "Comment": "Norse/Viking proper name - authentic"
+      "Translation": "Торбьёрн",
+      "Comment": "Norse/Viking proper name - authentic Scandinavian adaptation"
     },
     {
       "Key": "Abraxas The Decayed ",
-      "Translation": "",
-      "Comment": "Nurgle/decay demon lord"
+      "Translation": "Абраксас Разложившийся",
+      "Comment": "Nurgle/decay demon lord - past participle emphasizes corruption"
     },
     {
       "Key": "The Dark Battalion",
-      "Translation": "",
-      "Comment": "Dark elf/chaos elite army"
+      "Translation": "Тёмный Батальон",
+      "Comment": "Dark elf/chaos elite army - military nomenclature"
     },
     {
       "Key": "The Silver Host",
-      "Translation": "",
-      "Comment": "High elf/noble army"
+      "Translation": "Серебряное Воинство",
+      "Comment": "High elf/noble army - bright, noble connotations"
     },
     {
       "Key": "The Unholy Alliance",
-      "Translation": "",
-      "Comment": "Chaos/evil coalition"
+      "Translation": "Нечестивый Союз",
+      "Comment": "Chaos/evil coalition - religious corruption tone"
     },
     {
       "Key": "Verdant Sentinels",
-      "Translation": "",
-      "Comment": "Forest/nature spirit guardians"
+      "Translation": "Зелёные Дозорные",
+      "Comment": "Forest/nature spirit guardians - nature-aligned protectors"
     },
     {
       "Key": "Corrupted Legion",
-      "Translation": "",
-      "Comment": "Chaos-corrupted army"
+      "Translation": "Развращённый Легион",
+      "Comment": "Chaos-corrupted army - corrupted warriors, large formation"
     },
     {
       "Key": "Roaming Vampires",
-      "Translation": "",
-      "Comment": "Vampire encounter"
+      "Translation": "Кочующие Вампиры",
+      "Comment": "Vampire encounter - immortal, hungry predators"
     },
     {
       "Key": "Rogue Wizards",
-      "Translation": "",
-      "Comment": "Renegade mages - mirrors UI translation"
+      "Translation": "Беглые Волшебники",
+      "Comment": "Renegade mages - unpredictable magical threat"
     },
     {
       "Key": "Wild Bulls",
-      "Translation": "",
-      "Comment": "Minotaur/beastman encounter"
+      "Translation": "Дикие Быки",
+      "Comment": "Minotaur/beastman encounter - savage, brutal creatures"
     },
     {
       "Key": "Angry Giants",
-      "Translation": "",
-      "Comment": "Giant monster encounter"
+      "Translation": "Разъярённые Великаны",
+      "Comment": "Giant monster encounter - towering, wrathful beings"
     },
     {
       "Key": "Swamp Trolls",
-      "Translation": "",
-      "Comment": "Monster encounter"
+      "Translation": "Болотные Тролли",
+      "Comment": "Monster encounter - creatures of fetid marshes"
     },
     {
       "Key": "Wolf Pack",
-      "Translation": "",
-      "Comment": "Beast/wolf encounter"
+      "Translation": "Волчья Стая",
+      "Comment": "Beast/wolf encounter - coordinated predatory threat"
     },
     {
       "Key": "Zombie Horde",
-      "Translation": "",
-      "Comment": "Undead encounter"
+      "Translation": "Орда Зомби",
+      "Comment": "Undead encounter - mindless, relentless undead mass"
     }
   ]
 }

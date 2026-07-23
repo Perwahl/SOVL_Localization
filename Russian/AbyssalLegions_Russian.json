@@ -3,83 +3,83 @@
   "Translations": [
     {
       "Key": "Abyssal Legions",
-      "Translation": "",
-      "Comment": "Legionen = legions. Organized demonic armies, mixed with corrupted mortals."
+      "Translation": "Легионы Бездны",
+      "Comment": "Legionen = legions. Organized demonic armies, mixed with corrupted mortals. Бездна = the abyss, emphasizing the demonic nature."
     },
     {
       "Key": "Northmen Axe",
-      "Translation": "",
-      "Comment": "Nordmänner = Northmen (barbarians). Axtkrieger = axe warriors. Corrupted northern warriors."
+      "Translation": "Топор Северян",
+      "Comment": "Nordmänner = Northmen (barbarians). Axtkrieger = axe warriors. Corrupted northern warriors. Топор = axe, Северяне = Northmen."
     },
     {
       "Key": "Abyssal Warriors",
-      "Translation": "",
-      "Comment": "Armored warriors corrupted by the abyss."
+      "Translation": "Воины Бездны",
+      "Comment": "Armored warriors corrupted by the abyss. Воины = warriors, heavy and corrupted."
     },
     {
       "Key": "Dragon Spawn",
-      "Translation": "",
-      "Comment": "Brut = spawn. Corrupted dragon-like creatures."
+      "Translation": "Отродье Дракона",
+      "Comment": "Brut = spawn. Corrupted dragon-like creatures. Отродье = spawn/brood, emphasizing demonic origin."
     },
     {
       "Key": "Northmen Horse",
-      "Translation": "",
-      "Comment": "Reiter = riders/cavalry. Northern barbarian cavalry."
+      "Translation": "Конница Северян",
+      "Comment": "Reiter = riders/cavalry. Northern barbarian cavalry. Конница = cavalry units."
     },
     {
       "Key": "Abyssal Knights",
-      "Translation": "",
-      "Comment": "Corrupted knights serving the abyss. Heavy demonic cavalry."
+      "Translation": "Рыцари Бездны",
+      "Comment": "Corrupted knights serving the abyss. Heavy demonic cavalry. Рыцари = knights, elite warriors."
     },
     {
       "Key": "Abyssal Hounds",
-      "Translation": "",
-      "Comment": "War hounds from the abyss. Fast attack beasts."
+      "Translation": "Гончие Бездны",
+      "Comment": "War hounds from the abyss. Fast attack beasts. Гончие = hunting hounds, fierce and aggressive."
     },
     {
       "Key": "Abyssal Chariot",
-      "Translation": "",
-      "Comment": "Demonic chariot. Brutal and swift."
+      "Translation": "Колесница Бездны",
+      "Comment": "Demonic chariot. Brutal and swift. Колесница = war chariot, used in classical fantasy warfare."
     },
     {
       "Key": "Archdevil",
-      "Translation": "",
-      "Comment": "Greater demon. Same as in Abyssal Demons faction."
+      "Translation": "Архидемон",
+      "Comment": "Greater demon. Same as in Abyssal Demons faction. Архидемон = arch-demon, highest ranking demon."
     },
     {
       "Key": "Devilspawn",
-      "Translation": "",
-      "Comment": "Lesser demons. Same as in Abyssal Demons faction."
+      "Translation": "Дьяволята",
+      "Comment": "Lesser demons. Same as in Abyssal Demons faction. Дьяволята = imp-like demonic creatures, lesser demons."
     },
     {
       "Key": "War Mammoth",
-      "Translation": "",
-      "Comment": "Corrupted war mammoth. Massive beast of war."
+      "Translation": "Боевой Мамонт",
+      "Comment": "Corrupted war mammoth. Massive beast of war. Боевой = war/combat, Мамонт = mammoth."
     },
     {
       "Key": "Abyssal Dragon",
-      "Translation": "",
-      "Comment": "Dragon corrupted by the abyss. Terrifying flying monster."
+      "Translation": "Дракон Бездны",
+      "Comment": "Dragon corrupted by the abyss. Terrifying flying monster. Дракон = dragon, most powerful flying unit."
     },
     {
       "Key": "Manticore",
-      "Translation": "",
-      "Comment": "Standard German term for manticore. Mythological beast."
+      "Translation": "Мантикора",
+      "Comment": "Standard German term for manticore. Mythological beast. Мантикора = direct translation of mythological creature."
     },
     {
       "Key": "Abyssal Champion",
-      "Translation": "",
-      "Comment": "Elite warrior of the abyss. Mighty hero unit."
+      "Translation": "Чемпион Бездны",
+      "Comment": "Elite warrior of the abyss. Mighty hero unit. Чемпион = champion, supreme warrior."
     },
     {
       "Key": "Abyssal Sorcerer",
-      "Translation": "",
-      "Comment": "Dark sorcerer wielding abyssal magic."
+      "Translation": "Чародей Бездны",
+      "Comment": "Dark sorcerer wielding abyssal magic. Чародей = sorcerer/wizard, master of dark arts."
     },
     {
       "Key": "Northmen Packleader",
-      "Translation": "",
-      "Comment": "Rudelführer = pack leader. Barbarian warlord."
+      "Translation": "Вожак Стаи Северян",
+      "Comment": "Rudelführer = pack leader. Barbarian warlord. Вожак = leader of pack, Стаи = of the pack/horde."
     }
   ]
 }

@@ -3,343 +3,343 @@
   "Translations": [
     {
       "Key": "Steadfast",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Стойкий",
+      "Comment": "Trait name - steadfast defender"
     },
     {
       "Key": "Passed 1 Break Tests.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Прошел 1 тест на стойкость.",
+      "Comment": "Break test = morale/discipline test in wargames"
     },
     {
       "Key": "Dragon Slayer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убийца драконов",
+      "Comment": "Achievement title for slaying dragons"
     },
     {
       "Key": "Killed 1 dragon.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убил 1 дракона.",
+      "Comment": "Achievement description"
     },
     {
       "Key": "Deadly",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Смертоносный",
+      "Comment": "Trait name - lethal in combat"
     },
     {
       "Key": "Killed 1 enemies in combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убил 1 врага в боевом столкновении.",
+      "Comment": "Achievement description - melee kills"
     },
     {
       "Key": "Marksman",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Стрелок",
+      "Comment": "Achievement title for ranged combat"
     },
     {
       "Key": "Killed 1 enemies with ranged weapons.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убил 1 врага дальнобойным оружием.",
+      "Comment": "Achievement description - ranged kills"
     },
     {
       "Key": "Lucky",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Везунчик",
+      "Comment": "Trait name - fortunate in rolls"
     },
     {
       "Key": "Rolled 1 natural six (33 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Выбросил 1 шестерку (33 % всех бросков).",
+      "Comment": "Achievement description - lucky dice rolls"
     },
     {
       "Key": "Scorer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Захватчик",
+      "Comment": "Achievement title - controlling objectives"
     },
     {
       "Key": "Captured 1 objective.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Захватил 1 объект.",
+      "Comment": "Achievement description"
     },
     {
       "Key": "Giant Slayer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убийца великанов",
+      "Comment": "Achievement title for slaying giants"
     },
     {
       "Key": "Killed 1 giant.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убил 1 великана.",
+      "Comment": "Achievement description"
     },
     {
       "Key": "Treefeller",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Древорубитель",
+      "Comment": "Achievement title - tree monsters are woodland creatures"
     },
     {
       "Key": "Felled 1 tree monster.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Повалил 1 древесное чудовище.",
+      "Comment": "Achievement description - tree creatures"
     },
     {
       "Key": "Dino Hunter",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Охотник на динозавров",
+      "Comment": "Achievement title - dinosaur faction"
     },
     {
       "Key": "Killed 1 dinosaur.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убил 1 динозавра.",
+      "Comment": "Achievement description"
     },
     {
       "Key": "Warmachine Hunter",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Охотник на боевые машины",
+      "Comment": "Achievement title - war machines are mechanical units"
     },
     {
       "Key": "Killed 1 warmachine.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убил 1 боевую машину.",
+      "Comment": "Achievement description - mechanical war machine"
     },
     {
       "Key": "Demon Hunter",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Охотник на демонов",
+      "Comment": "Achievement title - slaying greater demons"
     },
     {
       "Key": "Slain 1 greater demon.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убил 1 большого демона.",
+      "Comment": "Achievement description - greater demon is elite demon unit"
     },
     {
       "Key": "Duelist",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дуэлянт",
+      "Comment": "Achievement title - killing enemy commanders"
     },
     {
       "Key": "Killed 1 Commander.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убил 1 командира.",
+      "Comment": "Achievement description - commander is a leader unit"
     },
     {
       "Key": "Spellslinger",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Волшебник",
+      "Comment": "Achievement title - casting spells"
     },
     {
       "Key": "Cast 1 spell.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Произнес 1 заклинание.",
+      "Comment": "Achievement description"
     },
     {
       "Key": "Coward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Трус",
+      "Comment": "Negative achievement - fleeing battle"
     },
     {
       "Key": "Fled off the battlefield with zero casualties.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Бежал с поля боя без потерь.",
+      "Comment": "Achievement description - retreating without losses"
     },
     {
       "Key": "Unlucky",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Невезунчик",
+      "Comment": "Trait name - unfortunate with dice rolls"
     },
     {
       "Key": "Rolled 1 one (33 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Выбросил 1 единицу (33 % всех бросков).",
+      "Comment": "Achievement description - lots of critical failures"
     },
     {
       "Key": "Last Man Standing",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Последний боец",
+      "Comment": "Achievement title - sole survivor"
     },
     {
       "Key": "Only 1 model left standing.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Остался только 1 боец в строю.",
+      "Comment": "Achievement description - model = unit/figure"
     },
     {
       "Key": "Short Career",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Короткая карьера",
+      "Comment": "Achievement title - dying immediately"
     },
     {
       "Key": "Died on the first turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Погиб на первом ходу.",
+      "Comment": "Achievement description - quick death"
     },
     {
       "Key": "Emotional Support",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Моральная поддержка",
+      "Comment": "Achievement title - unit that doesn't contribute"
     },
     {
       "Key": "Killed no enemies, lost no models, took no objectives.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Не убил врагов, не потерял бойцов, не захватил объектов.",
+      "Comment": "Achievement description - useless unit"
     },
     {
       "Key": "Flanker",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Фланговик",
+      "Comment": "Achievement title - tactical flanking attacks"
     },
     {
       "Key": "Performed 1 flank/rear charge.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Произвел 1 атаку с фланга/тыла.",
+      "Comment": "Achievement description"
     },
     {
       "Key": "Dragon Slayers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убийцы драконов",
+      "Comment": "Plural unit title"
     },
     {
       "Key": "Marksmen",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Стрелки",
+      "Comment": "Plural unit title"
     },
     {
       "Key": "Giant Slayers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убийцы великанов",
+      "Comment": "Plural unit title"
     },
     {
       "Key": "Treefellers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Древорубители",
+      "Comment": "Plural unit title"
     },
     {
       "Key": "Dino Hunters",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Охотники на динозавров",
+      "Comment": "Plural unit title"
     },
     {
       "Key": "Warmachine Hunters",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Охотники на боевые машины",
+      "Comment": "Plural unit title"
     },
     {
       "Key": "Demon Hunters",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Охотники на демонов",
+      "Comment": "Plural unit title"
     },
     {
       "Key": "Duelists",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дуэлянты",
+      "Comment": "Plural unit title"
     },
     {
       "Key": "Spellslingers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Волшебники",
+      "Comment": "Plural unit title"
     },
     {
       "Key": "Cowards",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Трусы",
+      "Comment": "Plural unit title - shameful"
     },
     {
       "Key": "Passed 3 Break Tests.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Прошел 3 теста на стойкость.",
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Killed 3 dragons.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убил 3 драконов.",
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Killed 3 enemies in combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убил 3 врагов в боевом столкновении.",
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Killed 3 enemies with ranged weapons.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убил 3 врагов дальнобойным оружием.",
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Blessed!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Благословенный!",
+      "Comment": "Higher tier lucky achievement - blessed by fortune"
     },
     {
       "Key": "Rolled 3 natural sixes (33 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Выбросил 3 шестерки (33 % всех бросков).",
+      "Comment": "Higher tier lucky achievement"
     },
     {
       "Key": "Captured 3 objectives.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Захватил 3 объекта.",
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Killed 3 giants.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убил 3 великанов.",
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Felled 3 tree monsters.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Повалил 3 древесных чудовища.",
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Killed 3 dinosaurs.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убил 3 динозавров.",
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Killed 3 warmachines.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убил 3 боевых машины.",
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Slain 3 greater demons.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убил 3 больших демона.",
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Killed 3 Commanders.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убил 3 командиров.",
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Cast 3 spells.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Произнес 3 заклинания.",
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Cursed!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Проклятый!",
+      "Comment": "Higher tier unlucky achievement - cursed with bad luck"
     },
     {
       "Key": "Rolled 3 ones (33 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Выбросил 3 единицы (33 % всех бросков).",
+      "Comment": "Higher tier unlucky achievement"
     },
     {
       "Key": "Performed 3 flank/rear charges.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Произвел 3 атаки с фланга/тыла.",
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Rolled 3 natural sixes (100 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Выбросил 3 шестерки (100 % всех бросков).",
+      "Comment": "Elite achievement - perfect lucky rolls"
     },
     {
       "Key": "Rolled 3 ones (100 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Выбросил 3 единицы (100 % всех бросков).",
+      "Comment": "Elite achievement - perfectly unlucky rolls"
     },
     {
       "Key": "Killed 13 enemies with ranged weapons.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убил 13 врагов дальнобойным оружием.",
+      "Comment": "Elite tier ranged achievement - highest level"
     }
   ]
 }

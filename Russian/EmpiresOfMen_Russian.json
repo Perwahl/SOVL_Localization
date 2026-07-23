@@ -3,93 +3,93 @@
   "Translations": [
     {
       "Key": "Empires of Men",
-      "Translation": "",
-      "Comment": "Reich = empire/realm. Plural form maintains the grand, multi-kingdom nature."
+      "Translation": "Государства Людей",
+      "Comment": "Государства (states/realms) emphasizes multiple kingdoms united. Plural form maintains grand scale typical of fantasy empires."
     },
     {
       "Key": "Imperial Sword",
-      "Translation": "",
-      "Comment": "Kaiserlich = imperial. Schwertkämpfer = swordsmen for clarity."
+      "Translation": "Имперский Мечник",
+      "Comment": "Имперский (imperial) + Мечник (swordsman). Standard infantry term consistent with military hierarchy."
     },
     {
       "Key": "Foot Knights",
-      "Translation": "",
-      "Comment": "Compound word for knights on foot, as opposed to mounted knights."
+      "Translation": "Пешие Рыцари",
+      "Comment": "Пешие (foot/on foot) distinguishes from mounted cavalry. Maintains distinction between heavy infantry and mounted knights."
     },
     {
       "Key": "Imperial Halberd",
-      "Translation": "",
-      "Comment": "Hellebardiere = halberdiers. Professional term for halberd-wielding troops."
+      "Translation": "Имперский Алебардист",
+      "Comment": "Алебардист (halberdier) is professional Russian military term for elite polearm troops in imperial service."
     },
     {
       "Key": "Imperial Spear",
-      "Translation": "",
-      "Comment": "Speerkämpfer = spearmen. Standard military formation troops."
+      "Translation": "Имперский Копейщик",
+      "Comment": "Копейщик (spearman) is traditional Russian term. Standard formation troops forming backbone of army."
     },
     {
       "Key": "Imperial Knights",
-      "Translation": "",
-      "Comment": "Heavy cavalry, the elite of the empire. Direct and powerful."
+      "Translation": "Имперские Рыцари",
+      "Comment": "Рыцари (knights) denotes mounted elite cavalry. Direct term reflecting their status as empire's elite warriors."
     },
     {
       "Key": "Imperial Light Cavalry",
-      "Translation": "",
-      "Comment": "Leichte Kavallerie = light cavalry. Scouts and skirmishers."
+      "Translation": "Имперская Лёгкая Кавалерия",
+      "Comment": "Лёгкая Кавалерия (light cavalry) for scouts and skirmishers. Contrasts with heavy mounted knights."
     },
     {
       "Key": "Imperial Archers",
-      "Translation": "",
-      "Comment": "Bogenschützen = archers. Classic ranged infantry."
+      "Translation": "Имперские Лучники",
+      "Comment": "Лучники (archers) is classic ranged infantry. Consistent fantasy wargame terminology."
     },
     {
       "Key": "Imperial Crossbowmen",
-      "Translation": "",
-      "Comment": "Armbrustschützen = crossbowmen. More powerful ranged troops."
+      "Translation": "Имперские Арбалетчики",
+      "Comment": "Арбалетчики (crossbowmen) represents more advanced ranged troops than basic archers. Professional military term."
     },
     {
       "Key": "Imperial Handguns",
-      "Translation": "",
-      "Comment": "Büchsenschützen = handgunners/arquebusiers. Renaissance-era firearms."
+      "Translation": "Имперские Аркебузиры",
+      "Comment": "Аркебузиры (arquebusiers) is historical term used in Russian military for Renaissance-era firearms troops."
     },
     {
       "Key": "Imperial Cannon",
-      "Translation": "",
-      "Comment": "Direct translation of cannon. Heavy artillery."
+      "Translation": "Имперская Пушка",
+      "Comment": "Пушка (cannon) is direct term for heavy artillery. Singular emphasizes individual cannon placement."
     },
     {
       "Key": "Imperial Mortar",
-      "Translation": "",
-      "Comment": "Mörser = mortar. Indirect fire artillery."
+      "Translation": "Имперский Миномёт",
+      "Comment": "Миномёт (mortar) for indirect fire artillery. Modern Russian term applied to fantasy wargame context."
     },
     {
       "Key": "Imperial Dreadnought",
-      "Translation": "",
-      "Comment": "Koloss (colossus) conveys massive war machine. Alternative to anglicized 'Dreadnought'."
+      "Translation": "Имперский Колосс",
+      "Comment": "Колосс (colossus) conveys massive war machine. Maintains fantasy tone better than transliterated Dreadnought."
     },
     {
       "Key": "Gryphon",
-      "Translation": "",
-      "Comment": "Standard German term for gryphon. Majestic imperial symbol."
+      "Translation": "Гриф",
+      "Comment": "Гриф (gryphon) is standard Russian term. Majestic symbol of imperial might and power in fantasy tradition."
     },
     {
       "Key": "Imperial Dragon",
-      "Translation": "",
-      "Comment": "Dragon under imperial control. Ultimate flying unit."
+      "Translation": "Имперский Дракон",
+      "Comment": "Дракон (dragon) under imperial control. Ultimate flying unit; majestic and powerful term."
     },
     {
       "Key": "Captain",
-      "Translation": "",
-      "Comment": "Traditional German military rank for captain. Battle-hardened leader."
+      "Translation": "Капитан",
+      "Comment": "Капитан (captain) is standard Russian military rank. Battle-hardened commander of troops."
     },
     {
       "Key": "Knight Commander",
-      "Translation": "",
-      "Comment": "Kommandant = commander. Leader of knightly orders."
+      "Translation": "Командант Рыцарей",
+      "Comment": "Командант (commandant) + Рыцарей (of knights). Leader of elite knightly orders."
     },
     {
       "Key": "Imperial Wizard",
-      "Translation": "",
-      "Comment": "Zauberer = wizard. Magic user in service of the empire."
+      "Translation": "Имперский Волшебник",
+      "Comment": "Волшебник (wizard) in imperial service. Classic fantasy term for magic user with mystical authority."
     }
   ]
 }

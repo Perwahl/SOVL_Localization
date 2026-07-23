@@ -3,1128 +3,1128 @@
   "Translations": [
     {
       "Key": "Spear and Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Копьё и щит",
+      "Comment": "Basic melee weapon combination"
     },
     {
       "Key": "Swift",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Проворный",
+      "Comment": "Unit ability - speed/agility bonus"
     },
     {
       "Key": "Bolt Thrower",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Баллиста",
+      "Comment": "Siege weapon - shoots bolts"
     },
     {
       "Key": "Lethal Shots",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Смертоносные выстрелы",
+      "Comment": "Ranged attack ability - increased damage"
     },
     {
       "Key": "Crewed Weapon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Осадное орудие",
+      "Comment": "Requires crew to operate - siege weapon"
     },
     {
       "Key": "Reposition",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Переместиться",
+      "Comment": "Unit action - move to new position"
     },
     {
       "Key": "Hand Weapon+Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ручное оружие + щит",
+      "Comment": "Melee weapon with shield combination"
     },
     {
       "Key": "Sturdy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Надёжный",
+      "Comment": "Unit ability - increased armor or durability"
     },
     {
       "Key": "Fearless",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Бесстрашный",
+      "Comment": "Unit ability - ignores morale penalties"
     },
     {
       "Key": "Greatweapon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Двуручное оружие",
+      "Comment": "Large melee weapon requiring two hands"
     },
     {
       "Key": "Hand Weapon and Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ручное оружие и щит",
+      "Comment": "Melee weapon with shield"
     },
     {
       "Key": "Mountain's Will",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Воля Гор",
+      "Comment": "Fantasy ability - power and steadfastness"
     },
     {
       "Key": "Ramming Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Полный ход",
+      "Comment": "Combat ability - increased charge speed"
     },
     {
       "Key": "Steam Gun",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Паровая пушка",
+      "Comment": "Ranged weapon - steam-powered"
     },
     {
       "Key": "Flying",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Полёт",
+      "Comment": "Unit ability - can fly over terrain"
     },
     {
       "Key": "Masterwork Armor",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Необычная броня",
+      "Comment": "High-quality armor - excellent protection"
     },
     {
       "Key": "Bodyguard",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Гвардия",
+      "Comment": "Combat ability - protects nearby allies"
     },
     {
       "Key": "Frenzy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "бешенство",
+      "Comment": "Combat state - increased attacks and damage"
     },
     {
       "Key": "Two Hand Weapons",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Двое ручные оружия",
+      "Comment": "Dual-wield - one weapon in each hand"
     },
     {
       "Key": "Crossbows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Арбалеты",
+      "Comment": "Ranged weapon - crossbow-armed units"
     },
     {
       "Key": "Scout",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "разведчик",
+      "Comment": "Unit ability - enhanced reconnaissance"
     },
     {
       "Key": "Cannon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Пушка",
+      "Comment": "Artillery weapon - large siege gun"
     },
     {
       "Key": "Handguns",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Пистолеты",
+      "Comment": "Ranged weapon - hand-held firearms"
     },
     {
       "Key": "Catapult",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Катапулта",
+      "Comment": "Siege weapon - launches projectiles"
     },
     {
       "Key": "Banner of Swiftness",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Баннер Проворства",
+      "Comment": "Combat banner - increases movement speed"
     },
     {
       "Key": "Banner of Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Баннер Ярости",
+      "Comment": "Combat banner - increases combat effectiveness"
     },
     {
       "Key": "Banner of Valor",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Баннер Мужества",
+      "Comment": "Combat banner - morale and courage boost"
     },
     {
       "Key": "Banner of Mist",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Баннер Тума",
+      "Comment": "Combat banner - stealth or concealment ability"
     },
     {
       "Key": "War Banner",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Боевое знамя",
+      "Comment": "Standard military banner - general bonus"
     },
     {
       "Key": "Cursed Standard",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Проклятые Полы",
+      "Comment": "Dark fantasy banner - cursed power"
     },
     {
       "Key": "Heavy Armor",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Тяжёлая броня",
+      "Comment": "Armor type - heavy protection"
     },
     {
       "Key": "Halberd",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Галберда",
+      "Comment": "Medieval polearm weapon"
     },
     {
       "Key": "Lance and Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Копьё и щит",
+      "Comment": "Cavalry melee weapon combination"
     },
     {
       "Key": "Hand Weapon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ручное оружие",
+      "Comment": "Generic melee weapon"
     },
     {
       "Key": "Brace of Pistols",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Пара Пистолетов",
+      "Comment": "Dual ranged weapons - two pistols"
     },
     {
       "Key": "Longbows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Лекалы",
+      "Comment": "Ranged weapon - long-range bows"
     },
     {
       "Key": "Mortar",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Миномёт",
+      "Comment": "Artillery weapon - siege equipment"
     },
     {
       "Key": "Armor Plating",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Обивка броней",
+      "Comment": "Reinforced armor - additional protection layer"
     },
     {
       "Key": "Full Steam",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Полные Газ",
+      "Comment": "Steam-powered ability - full power mode"
     },
     {
       "Key": "Claws",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Когти",
+      "Comment": "Natural creature weapon - sharp claws"
     },
     {
       "Key": "Fangs",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Клыки",
+      "Comment": "Natural creature weapon - sharp fangs"
     },
     {
       "Key": "Fire Breath",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Огненный дых",
+      "Comment": "Creature ability - breathes fire"
     },
     {
       "Key": "Inspire Valor",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Внушить Мужество",
+      "Comment": "Leader ability - boosts morale of nearby units"
     },
     {
       "Key": "Vitality",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Жизненность",
+      "Comment": "Unit ability - health or regeneration bonus"
     },
     {
       "Key": "Unyielding",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Непоколебимый",
+      "Comment": "Unit ability - stands firm against pressure"
     },
     {
       "Key": "Command",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Команда",
+      "Comment": "Leader ability - orders troops"
     },
     {
       "Key": "Prowess",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мастерство",
+      "Comment": "Unit ability - combat skill and expertise"
     },
     {
       "Key": "Unnatural Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Заступная Сила",
+      "Comment": "Magic ability - supernatural strength"
     },
     {
       "Key": "Potion of Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Зелье Могущества",
+      "Comment": "Magic item - grants temporary strength boost"
     },
     {
       "Key": "Cruelty",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Лютость",
+      "Comment": "Unit ability - bonus damage in melee"
     },
     {
       "Key": "Flametongue",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Огненный Меч",
+      "Comment": "Magic weapon - deals fire damage"
     },
     {
       "Key": "Relentless",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Неотступный",
+      "Comment": "Unit ability - never surrenders or retreats"
     },
     {
       "Key": "Heart Seeker",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Найдёнчик Сердец",
+      "Comment": "Magic ability - targets vital organs"
     },
     {
       "Key": "True Strike",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Точный Пора",
+      "Comment": "Combat ability - guaranteed hit"
     },
     {
       "Key": "Furious Charge",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Остановимая атака",
+      "Comment": "Combat action - powerful charge attack"
     },
     {
       "Key": "Fireball",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Огненная громова",
+      "Comment": "Magic spell - area fire damage"
     },
     {
       "Key": "Frost Ward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Награда Ледя",
+      "Comment": "Magic spell - cold protection"
     },
     {
       "Key": "Divine Favour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Божественная Ласка",
+      "Comment": "Holy blessing - divine aid"
     },
     {
       "Key": "Shadow Bolt",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Теньяная стрела",
+      "Comment": "Dark magic spell - shadow projectile"
     },
     {
       "Key": "Radiant Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Сияющий щит",
+      "Comment": "Holy protection - glowing shield spell"
     },
     {
       "Key": "Hex Of Ruin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Проклятие Гибели",
+      "Comment": "Dark magic curse - brings ruin"
     },
     {
       "Key": "Shortbows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Короткие луки",
+      "Comment": "Ranged weapon - short-range bows"
     },
     {
       "Key": "Crushing Charge",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "раздавливающая атака",
+      "Comment": "Combat action - overwhelming charge"
     },
     {
       "Key": "Regeneration",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Регенерация",
+      "Comment": "Ability - healing over time"
     },
     {
       "Key": "Poisoned Attacks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отравленные атаки",
+      "Comment": "Ability - weapons inflict poison"
     },
     {
       "Key": "Web",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Целыейная сеть",
+      "Comment": "Spider ability - creates web trap"
     },
     {
       "Key": "Warcry",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Войнский клик",
+      "Comment": "Combat ability - rallies troops"
     },
     {
       "Key": "Primal Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Первобытная ярость",
+      "Comment": "Beast ability - primal rage"
     },
     {
       "Key": "Thousand Mouths",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Тысяча Пастей",
+      "Comment": "Monster ability - hydra-like attack"
     },
     {
       "Key": "Shroud",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Привидение",
+      "Comment": "Ghost ability - spectral concealment"
     },
     {
       "Key": "Wildform",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дикая форма",
+      "Comment": "Druid ability - transforms into beast"
     },
     {
       "Key": "Power Of Many",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Могущество Многих",
+      "Comment": "Swarm ability - strength in numbers"
     },
     {
       "Key": "Explosive Charges",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Взывчатые заряды",
+      "Comment": "Dwarf ability - places explosives"
     },
     {
       "Key": "Ambusher",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Устраивающий каски",
+      "Comment": "Rogue ability - surprise attack bonus"
     },
     {
       "Key": "Inferno Cannon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Огненная Канона",
+      "Comment": "Fire-based siege weapon"
     },
     {
       "Key": "Marksman Rifle",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отметник Снайпер",
+      "Comment": "Precision ranged weapon"
     },
     {
       "Key": "Ranger",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Граница",
+      "Comment": "Scout/skirmisher unit type"
     },
     {
       "Key": "Dwarf Pistol",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Гномьий Пистолет",
+      "Comment": "Dwarven firearm"
     },
     {
       "Key": "Mechanical Expertise",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Механическое Мастерство",
+      "Comment": "Dwarf special ability - engineering"
     },
     {
       "Key": "Elven Mastery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "эльфийское магия",
+      "Comment": "Elf special ability - magical prowess"
     },
     {
       "Key": "Bows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Луки",
+      "Comment": "Ranged weapon - generic bows"
     },
     {
       "Key": "Rallying Cry",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Подвижный клик",
+      "Comment": "Leadership ability - motivates troops"
     },
     {
       "Key": "Arcane Web",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Арканная сеть",
+      "Comment": "Magic spell - magical web trap"
     },
     {
       "Key": "Reality Rift",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Нарушение Реальности",
+      "Comment": "Chaos magic - tears in reality"
     },
     {
       "Key": "Fiery Blades",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Огненные Острия",
+      "Comment": "Enchanted weapons - burning blades"
     },
     {
       "Key": "Reanimated",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Оживлённый",
+      "Comment": "Undead unit - raised from dead"
     },
     {
       "Key": "Unarmed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Безоружный",
+      "Comment": "Unit - no weapons equipped"
     },
     {
       "Key": "Putrid Stench",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ничкри Распада",
+      "Comment": "Undead aura - nauseating smell"
     },
     {
       "Key": "Eternal Reign",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Вечное Властво",
+      "Comment": "Leader ability - command power"
     },
     {
       "Key": "Unholy Vigour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Показная сила",
+      "Comment": "Dark magic - profane strength"
     },
     {
       "Key": "Reanimate",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Оживлять",
+      "Comment": "Necromancy spell - resurrects dead units"
     },
     {
       "Key": "Plague",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Эпидемия",
+      "Comment": "Dark magic - disease and poison"
     },
     {
       "Key": "Raise Dead",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Всковывать Мертвецов",
+      "Comment": "Necromancy spell - raises undead units"
     },
     {
       "Key": "Javelins",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Метательные моп",
+      "Comment": "Ranged weapon - thrown spears"
     },
     {
       "Key": "Boulder Throw",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Развалом грома",
+      "Comment": "Giant ability - throws boulders"
     },
     {
       "Key": "Blood Frenzy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Нальят Крови",
+      "Comment": "Orc/beast ability - blood rage"
     },
     {
       "Key": "Raider",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Грабитель",
+      "Comment": "Orc unit type - hit and run"
     },
     {
       "Key": "Blood Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Арумя Крови",
+      "Comment": "Orc ability - increases combat prowess"
     },
     {
       "Key": "Abyssal Armor",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Бесная броня",
+      "Comment": "Demonic protection - infernal armor"
     },
     {
       "Key": "Scaly Skin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Чешуйчатая кожа",
+      "Comment": "Dragon/beast natural armor"
     },
     {
       "Key": "Demonic",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Бесновский",
+      "Comment": "Unit type - demonic creature"
     },
     {
       "Key": "Gift Of War",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Подарок Войны",
+      "Comment": "War god blessing - combat bonus"
     },
     {
       "Key": "Tusks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Клыки",
+      "Comment": "Beast weapon - sharp tusks"
     },
     {
       "Key": "Demonic Possession",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Бесная Овладения",
+      "Comment": "Dark magic - demon takes control"
     },
     {
       "Key": "Pack Tactics",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Тактика Норов",
+      "Comment": "Beast ability - coordinated hunting"
     },
     {
       "Key": "Howl",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Выл",
+      "Comment": "Beast ability - rallies pack"
     },
     {
       "Key": "Horns",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ого",
+      "Comment": "Beast weapon - sharp horns"
     },
     {
       "Key": "Newt Shortbows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Короткие Луки Новие",
+      "Comment": "Newt/amphibian ranged weapon"
     },
     {
       "Key": "Roar!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Рык!",
+      "Comment": "Beast ability - instills fear"
     },
     {
       "Key": "Ancient Knowledge",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Древняя Мудрость",
+      "Comment": "Elf ability - ancient wisdom"
     },
     {
       "Key": "Throwing Stars",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Метательные звезды",
+      "Comment": "Ranged weapon - thrown star projectiles"
     },
     {
       "Key": "Longrifle",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мускет",
+      "Comment": "Ranged firearm - long rifle"
     },
     {
       "Key": "Sling",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Праща",
+      "Comment": "Ranged weapon - sling thrower"
     },
     {
       "Key": "Flamer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Огненност",
+      "Comment": "Fire weapon - throws flames"
     },
     {
       "Key": "Doom Bell",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Колокол Гибели",
+      "Comment": "Magical bell - brings doom"
     },
     {
       "Key": "Cruel Motivation",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Жестокая Мотивация",
+      "Comment": "Leadership ability - fear-based"
     },
     {
       "Key": "Deadly Strike",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Смертоносные удары",
+      "Comment": "Combat ability - lethal attacks"
     },
     {
       "Key": "Hidden",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Оскрытый",
+      "Comment": "Unit ability - concealed from view"
     },
     {
       "Key": "Barkskin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Краана Кора",
+      "Comment": "Nature magic - bark-like skin armor"
     },
     {
       "Key": "Forest Spirit",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Лесной дух",
+      "Comment": "Nature creature - forest entity"
     },
     {
       "Key": "Elven Accuracy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Эльфийская внетность",
+      "Comment": "Elf ranged bonus - accurate shots"
     },
     {
       "Key": "Hunters Bow",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Лук Охотника",
+      "Comment": "Ranger weapon - hunting bow"
     },
     {
       "Key": "Hunters Call",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Клик Охотника",
+      "Comment": "Ranger ability - summons aid"
     },
     {
       "Key": "Regrowth",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Восстанавление",
+      "Comment": "Nature magic - plant regrowth"
     },
     {
       "Key": "Take Root",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Постановить Корни",
+      "Comment": "Plant/nature ability - roots down"
     },
     {
       "Key": "Light Crossbow",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Легкий Арбалет",
+      "Comment": "Ranged weapon - light crossbow"
     },
     {
       "Key": "Hooves",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Копыта",
+      "Comment": "Beast/centaur weapon - kick attack"
     },
     {
       "Key": "Feint",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ловкий маневр",
+      "Comment": "Combat ability - evasive maneuver"
     },
     {
       "Key": "Gift Of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Подарок Коварства",
+      "Comment": "Fey blessing - trickster's advantage"
     },
     {
       "Key": "Gift Of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Подарок Разложения",
+      "Comment": "Dark gift - decay magic"
     },
     {
       "Key": "Phase Out",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дисперсия",
+      "Comment": "Magic ability - teleport away"
     },
     {
       "Key": "Lord of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Лорд Разложения",
+      "Comment": "Leader title - master of decay"
     },
     {
       "Key": "Lord of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Лорд Коварства",
+      "Comment": "Leader title - master of tricks"
     },
     {
       "Key": "Lord Of War",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Лорд Войны",
+      "Comment": "Leader title - war god aspect"
     },
     {
       "Key": "Horse Masters",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мастера Коней",
+      "Comment": "Cavalry expertise - horse mastery"
     },
     {
       "Key": "Fey",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Волшебный",
+      "Comment": "Magical creature type - fey"
     },
     {
       "Key": "Aura of Protection",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Поле Защиты",
+      "Comment": "Holy aura - protects nearby units"
     },
     {
       "Key": "Holy Blade",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Святое Острие",
+      "Comment": "Holy weapon - blessed sword"
     },
     {
       "Key": "Aura of Vengeance",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Поле Мести",
+      "Comment": "Holy aura - retribution aura"
     },
     {
       "Key": "3 Hand Weapons",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "3 Ручных Оружия",
+      "Comment": "Three melee weapons - multi-armed unit"
     },
     {
       "Key": "3x Pistols",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "3 Пистолета",
+      "Comment": "Three firearms - multi-armed ranged"
     },
     {
       "Key": "Lance+Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Копьё+щит",
+      "Comment": "Cavalry weapon combination"
     },
     {
       "Key": "Dark Gift",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Черный Подарок",
+      "Comment": "Dark magic blessing"
     },
     {
       "Key": "Divine Protection",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Божественная Защита",
+      "Comment": "Holy protection - blessed defense"
     },
     {
       "Key": "Battle Hardened",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Накаленные боев",
+      "Comment": "Unit ability - combat experience"
     },
     {
       "Key": "Marksman",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отметник",
+      "Comment": "Ranged specialist - accurate shooter"
     },
     {
       "Key": "Spell Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Могущество Кспелла",
+      "Comment": "Magic ability - increased spell strength"
     },
     {
       "Key": "Spell Weaver",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мантротец",
+      "Comment": "Mage specialist - spell master"
     },
     {
       "Key": "Offensive Mastery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мастерство Наступления",
+      "Comment": "Combat ability - offensive skill bonus"
     },
     {
       "Key": "Veteran Crew",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Опытные Матросы",
+      "Comment": "Siege weapon crew - experienced"
     },
     {
       "Key": "Veteran Discipline",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Опытная Дисциплина",
+      "Comment": "Unit ability - veteran soldiers discipline"
     },
     {
       "Key": "Veteran Accuracy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Опытная точность",
+      "Comment": "Veteran soldiers - accurate aim"
     },
     {
       "Key": "Veteran Skill",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Опытные Навыки",
+      "Comment": "Unit ability - veteran combat skills"
     },
     {
       "Key": "Demonic Discipline",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Бесная Дисциплина",
+      "Comment": "Demon ability - infernal order"
     },
     {
       "Key": "Demonic Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Бесная ярость",
+      "Comment": "Demon ability - infernal rage"
     },
     {
       "Key": "Demonic Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Бесная Могущество",
+      "Comment": "Demon ability - infernal strength"
     },
     {
       "Key": "Demonic Resilience",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Бесная Непоколебимость",
+      "Comment": "Demon ability - endurance"
     },
     {
       "Key": "Demonic Skill",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Бесный Навык",
+      "Comment": "Demon ability - combat expertise"
     },
     {
       "Key": "Demonic Defense",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Бесная Защита",
+      "Comment": "Demon ability - defensive power"
     },
     {
       "Key": "Sword Of Ruin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Меч Опустошения",
+      "Comment": "Artifact weapon - destructive power"
     },
     {
       "Key": "Cloak Of Shadows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Плащ Теней",
+      "Comment": "Magical cloak - shadow concealment"
     },
     {
       "Key": "Horn Of Discord",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Рог Рассорда",
+      "Comment": "Magical horn - chaos artifact"
     },
     {
       "Key": "Veteran Marksmen",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Опытные Метцы",
+      "Comment": "Experienced archers/shooters"
     },
     {
       "Key": "Oath Of Retribution",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Клятва Цели",
+      "Comment": "Dwarf oath - retributive vow"
     },
     {
       "Key": "Oath Of Reckoning",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Клятва Ответственности",
+      "Comment": "Dwarf oath - accountability vow"
     },
     {
       "Key": "Oath Of Vengeance",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Клятва Мести",
+      "Comment": "Dwarf oath - vengeance vow"
     },
     {
       "Key": "Ancestral Strength",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Потомовая Могущество",
+      "Comment": "Heritage ability - ancestral power"
     },
     {
       "Key": "Greater Blades",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мощные Острия",
+      "Comment": "Enhanced weapon - powerful blades"
     },
     {
       "Key": "Greater Favour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Основное Государственное благодеяние",
+      "Comment": "Enhanced holy magic - greater blessing"
     },
     {
       "Key": "Greater Fireball",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мощные Огненная громова",
+      "Comment": "Enhanced spell - stronger fireball"
     },
     {
       "Key": "Greater Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мощная Ярость",
+      "Comment": "Enhanced ability - greater rage"
     },
     {
       "Key": "Greater Raise",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мощное Всковывание",
+      "Comment": "Enhanced necromancy - stronger raise dead spell"
     },
     {
       "Key": "Greater Reanimate",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мощное Оживление",
+      "Comment": "Enhanced necromancy - stronger reanimation"
     },
     {
       "Key": "Greater Regrowth",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мощное Восстанавление",
+      "Comment": "Enhanced nature magic - stronger plant growth"
     },
     {
       "Key": "Greater Ruin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мощное Опустошение",
+      "Comment": "Enhanced dark magic - greater destruction"
     },
     {
       "Key": "Greater Shadowbolt",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мощная Теньяная стрела",
+      "Comment": "Enhanced dark spell - stronger shadow projectile"
     },
     {
       "Key": "Greater Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мощная Защита",
+      "Comment": "Enhanced protection - stronger shield spell"
     },
     {
       "Key": "Greater Vigour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мощная Могущество",
+      "Comment": "Enhanced health/power - greater vitality"
     },
     {
       "Key": "Greater Web",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мощная Сеть",
+      "Comment": "Enhanced spider ability - stronger web trap"
     },
     {
       "Key": "Greater Wildform",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мощная Дикая Форма",
+      "Comment": "Enhanced druid ability - stronger beast form"
     },
     {
       "Key": "Thousand Maws",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Тысяча Пастей",
+      "Comment": "Monster ability - multiple mouths attack"
     },
     {
       "Key": "Rune Of Farsight",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Новые Дальновидения",
+      "Comment": "Rune magic - long-range vision"
     },
     {
       "Key": "Rune Of Flame",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Новые Огня",
+      "Comment": "Rune magic - fire enhancement"
     },
     {
       "Key": "Rune Of Resilience",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Новые Непоколебимости",
+      "Comment": "Rune magic - durability boost"
     },
     {
       "Key": "Rune Of Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Новые Скорости",
+      "Comment": "Rune magic - speed enhancement"
     },
     {
       "Key": "Imperial Elites",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Императорские Элиты",
+      "Comment": "Military unit - elite imperial troops"
     },
     {
       "Key": "Imperial Veterans",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Императорские Ветераны",
+      "Comment": "Military unit - veteran imperial soldiers"
     },
     {
       "Key": "Stronger Summons",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Более Мощные Всестники",
+      "Comment": "Magic ability - summons stronger creatures"
     },
     {
       "Key": "Extra Limb",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дополнительная Конечность",
+      "Comment": "Creature modification - extra appendage"
     },
     {
       "Key": "Extra Limbs",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дополнительные Конечности",
+      "Comment": "Creature modification - multiple extra appendages"
     },
     {
       "Key": "Grafted Wings",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Привитые Крылья",
+      "Comment": "Creature modification - attached wings"
     },
     {
       "Key": "Necrotic Infusion",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Некротическая Инфекция",
+      "Comment": "Dark magic - infuses with death energy"
     },
     {
       "Key": "Putrid Hide",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Гнилая Шкура",
+      "Comment": "Undead feature - decayed skin armor"
     },
     {
       "Key": "Tunneling Claws",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Когти для Копания",
+      "Comment": "Beast ability - dig through terrain"
     },
     {
       "Key": "Unnatural Size",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Неестественные Пропорции",
+      "Comment": "Creature trait - enlarged form"
     },
     {
       "Key": "Elf Bow Mastery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Эльфийское Мастерство Лука",
+      "Comment": "Elf specialization - bow expertise"
     },
     {
       "Key": "Elf Spear Mastery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Эльфийское Мастерство Копье",
+      "Comment": "Elf specialization - spear expertise"
     },
     {
       "Key": "Elf Steed Mastery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Эльфийское Мастерство Коня",
+      "Comment": "Elf specialization - horsemanship"
     },
     {
       "Key": "Eagle Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Орлиная Останца",
+      "Comment": "Beast form - eagle transformation"
     },
     {
       "Key": "Jaguar Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ягуаровая Останца",
+      "Comment": "Beast form - jaguar transformation"
     },
     {
       "Key": "Raptor Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Хищная Останца",
+      "Comment": "Beast form - raptor transformation"
     },
     {
       "Key": "Salamander Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Останца Саламандры",
+      "Comment": "Beast form - fire salamander transformation"
     },
     {
       "Key": "Serpent Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Останца Змеи",
+      "Comment": "Beast form - serpent transformation"
     },
     {
       "Key": "Turtle Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Останца Черепахи",
+      "Comment": "Beast form - turtle transformation"
     },
     {
       "Key": "Backstabbers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Колючники",
+      "Comment": "Rogue unit - sneaky attackers"
     },
     {
       "Key": "Bloodlust",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Жажда Крови",
+      "Comment": "Combat trait - hunger for blood"
     },
     {
       "Key": "Tough As Nails",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Неусыпающий",
+      "Comment": "Unit trait - exceptionally hard/tough"
     },
     {
       "Key": "Greater Warcry",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мощные Войнские Крики",
+      "Comment": "Enhanced ability - powerful battle cry"
     },
     {
       "Key": "Slavers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Орх",
+      "Comment": "Evil unit - slavers/captors"
     },
     {
       "Key": "Greater Shroud",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мощное Оскрытие",
+      "Comment": "Enhanced concealment - stronger invisibility"
     },
     {
       "Key": "Greater Ward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мощная Охрана",
+      "Comment": "Enhanced protection - stronger ward spell"
     },
     {
       "Key": "War Gods Blessing",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Благословение Бога Войны",
+      "Comment": "War deity blessing - martial power"
     },
     {
       "Key": "Blessing Of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Благословение Разложения",
+      "Comment": "Dark blessing - decay magic"
     },
     {
       "Key": "Blessing Of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Благословение Коварства",
+      "Comment": "Trickster blessing - cunning and deception"
     },
     {
       "Key": "Master of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мастер Разложения",
+      "Comment": "Master title - decay magic master"
     },
     {
       "Key": "Master of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мастер Коварства",
+      "Comment": "Master title - trickery expert"
     },
     {
       "Key": "Master Of War",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мастер Войны",
+      "Comment": "Master title - war master/commander"
     },
     {
       "Key": "Loyal Serfs",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Лояльные Кметье",
+      "Comment": "Unit type - faithful peasants/servants"
     },
     {
       "Key": "Avalon Marksmen",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Метцы Авалона",
+      "Comment": "Legendary archers - Avalon warriors"
     },
     {
       "Key": "Greater Vengeance",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мощная Месть",
+      "Comment": "Enhanced retribution - greater vengeance"
     },
     {
       "Key": "Greater Protection",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мощная Защита",
+      "Comment": "Enhanced defense - stronger protection"
     },
     {
       "Key": "Bodkin Arrows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Бодкин стрелы",
+      "Comment": "Arrow type - armor-piercing bodkin points"
     },
     {
       "Key": "Serrated Arrows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Узубренные стрелы",
+      "Comment": "Arrow type - jagged cutting arrows"
     },
     {
       "Key": "Splitting Arrow",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Расколол стрелы",
+      "Comment": "Arrow type - arrows that split on impact"
     },
     {
       "Key": "Trueflight Arrows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Настоящие Летящие стрелы",
+      "Comment": "Arrow type - magically guided arrows"
     }
   ]
 }

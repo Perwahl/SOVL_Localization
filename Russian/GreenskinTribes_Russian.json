@@ -3,93 +3,93 @@
   "Translations": [
     {
       "Key": "Greenskin Tribes",
-      "Translation": "",
-      "Comment": "Literal translation maintaining the fantasy wargame tone. Grünhaut is the standard German term for greenskins."
+      "Translation": "Зеленокожие племена",
+      "Comment": "Literal translation maintaining the fantasy wargame tone. Maintains the tribal and savage nature of the faction."
     },
     {
       "Key": "Orc Warriors",
-      "Translation": "",
-      "Comment": "Standard compound word for Orc Warriors. Keeps the brutal and direct feel."
+      "Translation": "Orks Воины",
+      "Comment": "Standard compound word for Orc Warriors. Keeps the brutal and direct feel of ork military units."
     },
     {
       "Key": "Orc Brutes",
-      "Translation": "",
-      "Comment": "Schläger conveys brutality and thuggish nature, fitting for Orc brutes."
+      "Translation": "Orks Грубияны",
+      "Comment": "Грубияны conveys brutality and crude nature, fitting for the savage Orc brutes."
     },
     {
       "Key": "Goblin Mob",
-      "Translation": "",
-      "Comment": "Mob works well in German and conveys the chaotic horde-like nature."
+      "Translation": "Толпа гоблинов",
+      "Comment": "Толпа (mob/horde) conveys the chaotic, swarming nature of goblin troops."
     },
     {
       "Key": "Goblin Spear Mob",
-      "Translation": "",
-      "Comment": "Added hyphen for clarity between weapon type and mob."
+      "Translation": "Толпа копьеносцев",
+      "Comment": "Копьеносцев (spear-carriers) differentiates this mob type from other goblin formations."
     },
     {
       "Key": "Boar Riders",
-      "Translation": "",
-      "Comment": "Eber is wild boar, appropriate for the savage greenskin aesthetic."
+      "Translation": "Всадники на кабанах",
+      "Comment": "Кабаны (wild boars) emphasize the savage, primal nature of greenskin cavalry."
     },
     {
       "Key": "Goblin Wolf Riders",
-      "Translation": "",
-      "Comment": "Compound word with hyphen for readability."
+      "Translation": "Волчьи всадники гоблинов",
+      "Comment": "Волчьи (wolf) emphasizes the wild, dangerous nature of goblin cavalry units."
     },
     {
       "Key": "Orc Boar Chariot",
-      "Translation": "",
-      "Comment": "Streitwagen is chariot, compound with Eber for boar. Epic and warlike."
+      "Translation": "Боевая колесница орков",
+      "Comment": "Боевая колесница (war chariot) conveys the epic, mythical power of this heavy unit."
     },
     {
       "Key": "Goblin Shortbows",
-      "Translation": "",
-      "Comment": "Kurzbogenschützen = shortbow archers. Added 'schützen' for clarity that these are the bow-wielding troops."
+      "Translation": "Гоблины-лучники",
+      "Comment": "Лучники (archers) clearly identifies these as bow-wielding goblin troops."
     },
     {
       "Key": "Goblin Bolt Throwers",
-      "Translation": "",
-      "Comment": "Bolzenwerfer matches the term used in UnitProps for bolt thrower weapons."
+      "Translation": "Гоблины-метатели болтов",
+      "Comment": "Метатели болтов (bolt throwers) maintains consistency with siege weapon terminology."
     },
     {
       "Key": "Goblin Stonethrower",
-      "Translation": "",
-      "Comment": "Steinschleuder for stone thrower, consistent with Dwarf artillery naming."
+      "Translation": "Метатель камней гоблина",
+      "Comment": "Метатель камней (stone thrower) maintains consistent artillery terminology across factions."
     },
     {
       "Key": "Trolls",
-      "Translation": "",
-      "Comment": "Standard German plural for trolls."
+      "Translation": "Тролли",
+      "Comment": "Standard Russian plural for trolls, a classic fantasy creature type."
     },
     {
       "Key": "Giant",
-      "Translation": "",
-      "Comment": "Classic German word for giant, fits the mythical fantasy tone."
+      "Translation": "Великан",
+      "Comment": "Великан (giant) is the classic Russian fantasy term, evoking mythical power."
     },
     {
       "Key": "Wyvern",
-      "Translation": "",
-      "Comment": "Wyvern is kept as is - it's a fantasy creature name recognized internationally."
+      "Translation": "Виверна",
+      "Comment": "Виверна is the Russian transliteration of wyvern, a recognized fantasy creature."
     },
     {
       "Key": "Giant Spider",
-      "Translation": "",
-      "Comment": "Direct translation, evokes the monstrous nature of the creature."
+      "Translation": "Гигантский паук",
+      "Comment": "Гигантский паук (giant spider) evokes the monstrous, horrifying nature of this creature."
     },
     {
       "Key": "War Chief",
-      "Translation": "",
-      "Comment": "Häuptling conveys tribal leadership, Kriegs- adds the martial aspect."
+      "Translation": "Военный вождь",
+      "Comment": "Военный вождь (war chief) conveys both tribal authority and martial prowess."
     },
     {
       "Key": "Goblin Shaman",
-      "Translation": "",
-      "Comment": "Schamane is shaman, fits the tribal mysticism of goblin magic users."
+      "Translation": "Гоблин-шаман",
+      "Comment": "Шаман (shaman) fits the tribal mysticism and magical nature of goblin spellcasters."
     },
     {
       "Key": "Goblin King",
-      "Translation": "",
-      "Comment": "Direct translation, König is king. Grand title for the faction leader."
+      "Translation": "Король гоблинов",
+      "Comment": "Король гоблинов (Goblin King) is a grand title befitting the faction leader."
     }
   ]
 }

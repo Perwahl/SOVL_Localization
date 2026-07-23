@@ -3,72 +3,72 @@
   "Translations": [
     {
       "Key": "Abyssal Demons",
-      "Translation": "",
+      "Translation": "Бездонные Демоны",
       "Comment": "Abgrund = abyss, Dämonen = demons. Creatures from the darkest depths."
     },
     {
       "Key": "Abyssal Vipers",
-      "Translation": "",
+      "Translation": "Бездонные Гадюки",
       "Comment": "Vipern = vipers. Serpentine demonic creatures."
     },
     {
       "Key": "Devilspawn",
-      "Translation": "",
+      "Translation": "Отродье Бездны",
       "Comment": "Teufel = devil, Brut = spawn/brood. Lesser demonic infantry."
     },
     {
       "Key": "Plague Walkers",
-      "Translation": "",
+      "Translation": "Шествующие Моры",
       "Comment": "Seuche = plague, Wandler = walkers. Disease-bearing demons."
     },
     {
       "Key": "Plaguelings",
-      "Translation": "",
+      "Translation": "Мориные Мошки",
       "Comment": "Created a diminutive form of plague creatures. Small plague demons."
     },
     {
       "Key": "Fire Devils",
-      "Translation": "",
+      "Translation": "Огненные Дьяволы",
       "Comment": "Direct compound. Demons wreathed in flames."
     },
     {
       "Key": "Plague Flies",
-      "Translation": "",
+      "Translation": "Мориные Мухи",
       "Comment": "Flying plague-bearing insects. Grotesque and diseased."
     },
     {
       "Key": "Abyssal Reapers",
-      "Translation": "",
+      "Translation": "Бездонные Жнецы",
       "Comment": "Sensenträger = scythe-bearers/reapers. Death-dealing demons."
     },
     {
       "Key": "Demonic Hounds",
-      "Translation": "",
+      "Translation": "Адские Псы",
       "Comment": "Direct compound. Hellish hunting beasts."
     },
     {
       "Key": "Hell Riders",
-      "Translation": "",
+      "Translation": "Адские Всадники",
       "Comment": "Hölle = hell. Demonic cavalry."
     },
     {
       "Key": "Plague Hulk",
-      "Translation": "",
+      "Translation": "Мориный Колосс",
       "Comment": "Koloss = hulk/colossus. Massive plague monster."
     },
     {
       "Key": "Archdevil",
-      "Translation": "",
+      "Translation": "Верховный Дьявол",
       "Comment": "Erz- prefix = arch-/chief. Greater demon lord."
     },
     {
       "Key": "Abyssal Prince",
-      "Translation": "",
+      "Translation": "Бездонный Князь",
       "Comment": "Fürst = prince/lord. Powerful demonic ruler."
     },
     {
       "Key": "Abyssal Herald",
-      "Translation": "",
+      "Translation": "Бездонный Вестник",
       "Comment": "Herold = herald. Messenger and champion of the abyss."
     }
   ]

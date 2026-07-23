@@ -3,2333 +3,2333 @@
   "Translations": [
     {
       "Key": "Warband",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Группа воинов",
+      "Comment": "Military unit/group of soldiers"
     },
     {
       "Key": "Enter text...",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Введите текст...",
+      "Comment": "Placeholder text for input field"
     },
     {
       "Key": "Primary",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Основной",
+      "Comment": "Primary option/choice"
     },
     {
       "Key": "Secondary",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Вторичный",
+      "Comment": "Secondary option/choice"
     },
     {
       "Key": "Icon Color",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Цвет значка",
+      "Comment": "Color of the icon"
     },
     {
       "Key": " Icon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": " Значок",
+      "Comment": "Icon (note: leading space in key preserved)"
     },
     {
       "Key": "Save",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Сохранить",
+      "Comment": "Save action"
     },
     {
       "Key": "Copy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Копировать",
+      "Comment": "Copy action"
     },
     {
       "Key": "Copied list to clipboard",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Список скопирован в буфер обмена",
+      "Comment": "Feedback message after copy action"
     },
     {
       "Key": "Points:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Очки:",
+      "Comment": "Game points counter label"
     },
     {
       "Key": "Units:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Воинские отряды:",
+      "Comment": "Units counter label"
     },
     {
       "Key": "Minimum: 1",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Минимум: 1",
+      "Comment": "Minimum requirement"
     },
     {
       "Key": "Spells",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Заклинания",
+      "Comment": "Magic spells menu"
     },
     {
       "Key": "Weapons",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Оружие",
+      "Comment": "Weapons menu"
     },
     {
       "Key": "Banners\n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Штандарты\n",
+      "Comment": "Banners/standards (newline preserved for formatting)"
     },
     {
       "Key": "Items",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Предметы",
+      "Comment": "Items menu"
     },
     {
       "Key": "Shield,  Light Armor, General",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Щит, Лёгкая броня, Полководец",
+      "Comment": "Equipment categories"
     },
     {
       "Key": "Remove?",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Удалить?",
+      "Comment": "Confirmation question for removal"
     },
     {
       "Key": "Options",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Параметры",
+      "Comment": "Options/settings menu"
     },
     {
       "Key": "Weapon Enchantments",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Чары оружия",
+      "Comment": "Weapon magic enhancements"
     },
     {
       "Key": "Heart Seeker",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Сердцеискатель",
+      "Comment": "Weapon enchantment name - a wargame artifact"
     },
     {
       "Key": "Retinues",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Свита",
+      "Comment": "Military retinue/entourage"
     },
     {
       "Key": "Add Unit",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Добавить отряд",
+      "Comment": "Action to add a unit"
     },
     {
       "Key": "Cancel",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отмена",
+      "Comment": "Cancel action"
     },
     {
       "Key": "Choose Name...",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Выберите имя...",
+      "Comment": "Placeholder for name selection"
     },
     {
       "Key": "Effect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Эффект",
+      "Comment": "Effect/ability"
     },
     {
       "Key": "Skill",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Умение",
+      "Comment": "Skill attribute"
     },
     {
       "Key": "Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мощь",
+      "Comment": "Power attribute"
     },
     {
       "Key": "Defense",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Защита",
+      "Comment": "Defense attribute"
     },
     {
       "Key": "Attacks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Атаки",
+      "Comment": "Attacks stat"
     },
     {
       "Key": "Wounds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Раны",
+      "Comment": "Wounds/damage stat"
     },
     {
       "Key": "Discipline",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дисциплина",
+      "Comment": "Discipline attribute"
     },
     {
       "Key": "Back to menu?",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Вернуться в меню?",
+      "Comment": "Confirmation question"
     },
     {
       "Key": "Unsaved changes will be lost",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Несохранённые изменения будут потеряны",
+      "Comment": "Warning message"
     },
     {
       "Key": "Exit",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Выход",
+      "Comment": "Exit action"
     },
     {
       "Key": "SOVL",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "SOVL",
+      "Comment": "Game title - proper noun, keep as is"
     },
     {
       "Key": "Feedback & Bug Reports",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отзывы и сообщения об ошибках",
+      "Comment": "Menu option for feedback"
     },
     {
       "Key": "Campaign",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Кампания",
+      "Comment": "Campaign mode"
     },
     {
       "Key": "Trail Of Death",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Тропа Смерти",
+      "Comment": "Campaign name - fantasy theme"
     },
     {
       "Key": "Multiplayer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Многопользовательский режим",
+      "Comment": "Multiplayer mode"
     },
     {
       "Key": "Ranked",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Рейтинговые матчи",
+      "Comment": "Ranked game mode"
     },
     {
       "Key": "Custom Game",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Пользовательская игра",
+      "Comment": "Custom game mode"
     },
     {
       "Key": "vs AI",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "против ИИ",
+      "Comment": "versus AI game mode"
     },
     {
       "Key": "Army Builder",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Конструктор армии",
+      "Comment": "Army building tool"
     },
     {
       "Key": "Settings",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Настройки",
+      "Comment": "Settings menu"
     },
     {
       "Key": "Replays",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Повторы",
+      "Comment": "Game replays"
     },
     {
       "Key": "Rules Reference",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Справка по правилам",
+      "Comment": "Rules documentation"
     },
     {
       "Key": "Feedback",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отзыв",
+      "Comment": "Feedback option"
     },
     {
       "Key": "offline",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "оффлайн",
+      "Comment": "Offline mode indicator"
     },
     {
       "Key": "Game Browser",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Браузер игр",
+      "Comment": "Game browser interface"
     },
     {
       "Key": "Game Name",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Название игры",
+      "Comment": "Game name field"
     },
     {
       "Key": "Create Public Game",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Создать публичную игру",
+      "Comment": "Action to create public game"
     },
     {
       "Key": "Create Private Game",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Создать приватную игру",
+      "Comment": "Action to create private game"
     },
     {
       "Key": "Join Game",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Присоединиться к игре",
+      "Comment": "Action to join a game"
     },
     {
       "Key": "Button",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Кнопка",
+      "Comment": "UI button element"
     },
     {
       "Key": "AI Battle",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Боевой ИИ",
+      "Comment": "AI battle mode"
     },
     {
       "Key": "Select List",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Выбрать список",
+      "Comment": "Select warband list"
     },
     {
       "Key": "-Warband-",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "-Группа воинов-",
+      "Comment": "Warband label with dashes"
     },
     {
       "Key": "Start Game\n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Начать игру\n",
+      "Comment": "Start game button (newline preserved)"
     },
     {
       "Key": "Small",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Маленький",
+      "Comment": "Small size option"
     },
     {
       "Key": "Random Map",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Случайная карта",
+      "Comment": "Random map option"
     },
     {
       "Key": "Pitched Battle",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Полевое сражение",
+      "Comment": "Battle type - wargame terminology"
     },
     {
       "Key": "Get on Steam",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Получить в Steam",
+      "Comment": "Link to Steam store"
     },
     {
       "Key": "Faction Pack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Пакет фракции",
+      "Comment": "DLC/expansion pack"
     },
     {
       "Key": "Into the Abyss",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "В Бездну",
+      "Comment": "DLC/campaign name - fantasy themed"
     },
     {
       "Key": "Edit List",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Редактировать список",
+      "Comment": "Action to edit warband list"
     },
     {
       "Key": "New List",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Новый список",
+      "Comment": "Create new warband list"
     },
     {
       "Key": "Delete List?",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Удалить список?",
+      "Comment": "Confirmation question"
     },
     {
       "Key": "List Name...",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Название списка...",
+      "Comment": "Placeholder for list name"
     },
     {
       "Key": "Warband (500pts)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Группа воинов (500 очков)",
+      "Comment": "Warband with points value"
     },
     {
       "Key": "Create",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Создать",
+      "Comment": "Create action"
     },
     {
       "Key": "Select a Border Patrol List\n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Выберите список Пограничного дозора\n",
+      "Comment": "Campaign mode option (newline preserved)"
     },
     {
       "Key": "Alternate",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Альтернативный",
+      "Comment": "Alternate option/variant"
     },
     {
       "Key": "Next:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Далее:",
+      "Comment": "Campaign progression label"
     },
     {
       "Key": "Campaign Unlock",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Разблокировка кампании",
+      "Comment": "Campaign progression mechanic"
     },
     {
       "Key": "Start",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Начать",
+      "Comment": "Start action"
     },
     {
       "Key": "Reward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Награда",
+      "Comment": "Reward item"
     },
     {
       "Key": "Variant",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Вариант",
+      "Comment": "Variant/alternative option"
     },
     {
       "Key": "TBD",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "TBD",
+      "Comment": "To Be Determined - acronym, keep as is"
     },
     {
       "Key": "The End",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Конец",
+      "Comment": "Campaign conclusion"
     },
     {
       "Key": "Harder Bosses",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Сложнейшие боссы",
+      "Comment": "Difficulty modifier"
     },
     {
       "Key": "Enemies Rally",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Враги объединяются",
+      "Comment": "Difficulty modifier - enemy behavior"
     },
     {
       "Key": "Harder Elites",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Сложнейшая элита",
+      "Comment": "Difficulty modifier"
     },
     {
       "Key": "Smaller Starting Unit",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Меньше начальных отрядов",
+      "Comment": "Difficulty modifier"
     },
     {
       "Key": "Harder Battles",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Сложнейшие сражения",
+      "Comment": "Difficulty modifier"
     },
     {
       "Key": "Less Starting Gold",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Меньше начального золота",
+      "Comment": "Difficulty modifier"
     },
     {
       "Key": "Challenge Levels",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Уровни сложности",
+      "Comment": "Challenge difficulty options"
     },
     {
       "Key": "Resume Ongoing",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Продолжить текущую",
+      "Comment": "Resume ongoing campaign"
     },
     {
       "Key": "Abandon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отступить",
+      "Comment": "Abandon campaign"
     },
     {
       "Key": "Really Abandon?",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Действительно отступить?",
+      "Comment": "Confirmation question"
     },
     {
       "Key": "Ranked Multiplayer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Рейтинговый многопользовательский режим",
+      "Comment": "Ranked multiplayer mode"
     },
     {
       "Key": "Rating:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Рейтинг:",
+      "Comment": "Player rating label"
     },
     {
       "Key": "Points",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Очки",
+      "Comment": "Rating points"
     },
     {
       "Key": "Elo",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ело",
+      "Comment": "Elo rating system - keep as is"
     },
     {
       "Key": "Top Ranked Players",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Топ рейтинговых игроков",
+      "Comment": "Leaderboard title"
     },
     {
       "Key": "Match History",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "История матчей",
+      "Comment": "Game match history"
     },
     {
       "Key": "Find Match",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Найти матч",
+      "Comment": "Find multiplayer game"
     },
     {
       "Key": "Stats",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Статистика",
+      "Comment": "Statistics"
     },
     {
       "Key": "Recruit",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Нанять",
+      "Comment": "Recruit unit"
     },
     {
       "Key": "Searching.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Поиск...",
+      "Comment": "Search in progress indicator"
     },
     {
       "Key": "Factions",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Фракции",
+      "Comment": "Game factions"
     },
     {
       "Key": "Units Played",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Использованные отряды",
+      "Comment": "Unit statistics"
     },
     {
       "Key": "Full Screen",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Полный экран",
+      "Comment": "Full screen option"
     },
     {
       "Key": "Audio Volume",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Громкость звука",
+      "Comment": "Audio volume setting"
     },
     {
       "Key": "Window Size",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Размер окна",
+      "Comment": "Window size setting"
     },
     {
       "Key": "Music",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Музыка",
+      "Comment": "Music setting"
     },
     {
       "Key": "Camera Shake",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Тряска камеры",
+      "Comment": "Camera shake effect setting"
     },
     {
       "Key": "Unit Icon Zoom Distance",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Расстояние увеличения значков отрядов",
+      "Comment": "Unit icon zoom distance setting"
     },
     {
       "Key": "Back",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Назад",
+      "Comment": "Back button"
     },
     {
       "Key": "Cantrips",
-      "Translation": "",
+      "Translation": "Заговоры",
       "Comment": "Minor magic effects"
     },
     {
       "Key": "Banners",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Штандарты",
+      "Comment": "Banners equipment"
     },
     {
       "Key": "Item Enchantments",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Чары предметов",
+      "Comment": "Item magic enhancements"
     },
     {
       "Key": "DLC Commander",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Полководец DLC",
+      "Comment": "DLC content"
     },
     {
       "Key": "Unlocked!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Разблокировано!",
+      "Comment": "Unlock notification"
     },
     {
       "Key": "Final Turn!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Финальный ход!",
+      "Comment": "Final turn notification"
     },
     {
       "Key": "- Defeat the enemy Army -",
-      "Translation": "",
+      "Translation": "- Победите вражескую армию -",
       "Comment": "Battle objective"
     },
     {
       "Key": "- Survive for 3 Turns -",
-      "Translation": "",
+      "Translation": "- Выживайте 3 хода -",
       "Comment": "Survival objective"
     },
     {
       "Key": "Unclaimed",
-      "Translation": "",
+      "Translation": "Невзято",
       "Comment": "Objective marker status"
     },
     {
       "Key": "Contested",
-      "Translation": "",
+      "Translation": "Оспариваемый",
       "Comment": ""
     },
     {
       "Key": "Claimed",
-      "Translation": "",
+      "Translation": "Завоёвано",
       "Comment": ""
     },
     {
       "Key": "Opponents",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Противники",
+      "Comment": "Opponent list/counter"
     },
     {
       "Key": "(New difficulty unlocked)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "(Новый уровень сложности разблокирован)",
+      "Comment": "Difficulty unlock notification"
     },
     {
       "Key": "...can you finally rest?",
-      "Translation": "",
+      "Translation": "...можете ли вы наконец отдохнуть?",
       "Comment": "Campaign ending flavor text"
     },
     {
       "Key": "...but more challenges await",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "...но впереди ещё больше вызовов",
+      "Comment": "Campaign continuation message"
     },
     {
       "Key": "0 pts",
-      "Translation": "",
+      "Translation": "0 очк",
       "Comment": "Points abbreviation - consistent with existing translations"
     },
     {
       "Key": "Opponent Disconnected",
-      "Translation": "",
+      "Translation": "Противник отключился",
       "Comment": "Network disconnection message"
     },
     {
       "Key": "Defeat",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Поражение",
+      "Comment": "Defeat status"
     },
     {
       "Key": "Victory!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Победа!",
+      "Comment": "Victory result"
     },
     {
       "Key": "Draw!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ничья!",
+      "Comment": "Draw result"
     },
     {
       "Key": "joins your army!",
-      "Translation": "",
+      "Translation": "присоединяется к вашей армии!",
       "Comment": "Campaign event message"
     },
     {
       "Key": "A Foe Joins You",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Враг присоединяется к вам",
+      "Comment": "Recruitment title"
     },
     {
       "Key": "Your commander gains a level!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ваш полководец получает уровень!",
+      "Comment": "Level up message"
     },
     {
       "Key": "Target Eliminated",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Цель устранена",
+      "Comment": "Objective completion"
     },
     {
       "Key": "Assassination complete. Claim your bounty!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убийство выполнено. Требуйте вознаграждение!",
+      "Comment": "Campaign event - assassination"
     },
     {
       "Key": "1% gold income",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "1% золотого дохода",
+      "Comment": "Economy bonus"
     },
     {
       "Key": "3% gold income",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "3% золотого дохода",
+      "Comment": "Economy bonus"
     },
     {
       "Key": "Your regiment returns in the morning. But something has changed them...",
-      "Translation": "",
+      "Translation": "Ваш полк возвращается с утра. Но что-то изменило их...",
       "Comment": "Campaign event - ominous tone"
     },
     {
       "Key": "The lost regiment is found! Some soldiers are missing, but those who remain have strenghtened resolve.",
-      "Translation": "",
+      "Translation": "Потерянный полк найден! Некоторые солдаты отсутствуют, но те, кто остался, укрепили решимость.",
       "Comment": "Campaign event - positive outcome"
     },
     {
       "Key": "v",
-      "Translation": "",
+      "Translation": "в",
       "Comment": "Variable or version marker"
     },
     {
       "Key": "x",
-      "Translation": "",
+      "Translation": "х",
       "Comment": "Multiplication symbol"
     },
     {
       "Key": "pts",
-      "Translation": "",
+      "Translation": "очк",
       "Comment": "Points abbreviation"
     },
     {
       "Key": "Battles:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Сражения:",
+      "Comment": "Battle counter label"
     },
     {
       "Key": "Points Earned:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Полученные очки:",
+      "Comment": "Score label"
     },
     {
       "Key": "W/L:",
-      "Translation": "",
+      "Translation": "П/П:",
       "Comment": "Siege/Niederlagen (Wins/Losses)"
     },
     {
       "Key": "Enemies Killed:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Врагов уничтожено:",
+      "Comment": "Enemy kill count"
     },
     {
       "Key": "<b>Draw<size=30%></color></b>\\n",
-      "Translation": "",
+      "Translation": "<b>Ничья<size=30%></color></b>\\n",
       "Comment": "Rich text formatting preserved"
     },
     {
       "Key": "Win <size=30%><color=green>+",
-      "Translation": "",
+      "Translation": "Победа <size=30%><color=green>+",
       "Comment": "Rich text formatting preserved"
     },
     {
       "Key": "Loss <size=30%>",
-      "Translation": "",
+      "Translation": "Поражение <size=30%>",
       "Comment": "Rich text formatting preserved"
     },
     {
       "Key": "Total Points: <color=#3EFEFF>",
-      "Translation": "",
+      "Translation": "Всего очков: <color=#3EFEFF>",
       "Comment": "Rich text formatting preserved"
     },
     {
       "Key": "Elo:  <color=#3EFEFF>",
-      "Translation": "",
+      "Translation": "Ело:  <color=#3EFEFF>",
       "Comment": "Keep Elo as international rating term"
     },
     {
       "Key": "Restored 1 wound",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Восстановлена 1 рана",
+      "Comment": "Unit healing"
     },
     {
       "Key": "Restored 3 wounds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Восстановлены 3 раны",
+      "Comment": "Unit healing"
     },
     {
       "Key": "Replenished 1 model",
-      "Translation": "",
+      "Translation": "Восполнена 1 модель",
       "Comment": "Unit replenishment"
     },
     {
       "Key": "Replenished 3 models",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Восполнены 3 модели",
+      "Comment": "Unit replenishment"
     },
     {
       "Key": "1 XP",
-      "Translation": "",
+      "Translation": "1 ОП",
       "Comment": "EP = Erfahrungspunkte (Experience Points)"
     },
     {
       "Key": "3 XP",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "3 ОП",
+      "Comment": "Experience Points"
     },
     {
       "Key": "Defeated by <color=#FFDF3C>",
-      "Translation": "",
+      "Translation": "Поражение от <color=#FFDF3C>",
       "Comment": "Campaign defeat message"
     },
     {
       "Key": "</color> in Act",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "</color> в Акте",
+      "Comment": "Campaign act indicator"
     },
     {
       "Key": "Great Weapon <color=#B3F333>+1",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Великое оружие <color=#B3F333>+1",
+      "Comment": "Weapon item"
     },
     {
       "Key": "Menu",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Меню",
+      "Comment": "Menu button"
     },
     {
       "Key": "- Deployment Phase -",
-      "Translation": "",
+      "Translation": "- Фаза развёртывания -",
       "Comment": "Battle phase"
     },
     {
       "Key": "No Combats, Skipping Phase",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Нет боёв, пропуск фазы",
+      "Comment": "Auto-skip phase message"
     },
     {
       "Key": "- Charge Phase -",
-      "Translation": "",
+      "Translation": "- Фаза атаки -",
       "Comment": "Battle phase"
     },
     {
       "Key": "- Strategic Phase -",
-      "Translation": "",
+      "Translation": "- Стратегическая фаза -",
       "Comment": "Battle phase"
     },
     {
       "Key": "- Combat Phase -",
-      "Translation": "",
+      "Translation": "- Боевая фаза -",
       "Comment": "Battle phase"
     },
     {
       "Key": "Turn",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ход",
+      "Comment": "Battle turn"
     },
     {
       "Key": "You have first activation this phase.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Вы активируете первым в этой фазе.",
+      "Comment": "Turn order message"
     },
     {
       "Key": "Opponent has first activation this phase.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Противник активирует первым в этой фазе.",
+      "Comment": "Turn order message"
     },
     {
       "Key": "Swift",
-      "Translation": "",
+      "Translation": "Быстрый",
       "Comment": "Consistent with UnitProps_German.json"
     },
     {
       "Key": "Activate",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Активировать",
+      "Comment": "Unit activation"
     },
     {
       "Key": "Waiting for opponent...",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ожидание противника...",
+      "Comment": "Multiplayer waiting message"
     },
     {
       "Key": "Ready",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Готово",
+      "Comment": "Ready status"
     },
     {
       "Key": "Opponent starts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Противник начинает",
+      "Comment": "Initiative choice"
     },
     {
       "Key": "I start",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Я начинаю",
+      "Comment": "Initiative choice"
     },
     {
       "Key": "Skip Phase",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Пропустить фазу",
+      "Comment": "Skip button"
     },
     {
       "Key": "- Opponents Turn -",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "- Ход противника -",
+      "Comment": "Turn indicator"
     },
     {
       "Key": "Declare a Charge",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Объявить атаку",
+      "Comment": "Charge action"
     },
     {
       "Key": "Charge Reaction",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Реакция на атаку",
+      "Comment": "Charge response options"
     },
     {
       "Key": "No Charges, Skipping Phase",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Нет атак, пропуск фазы",
+      "Comment": "Auto-skip phase message"
     },
     {
       "Key": "Really Skip?",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Действительно пропустить?",
+      "Comment": "Confirmation question"
     },
     {
       "Key": "Pass",
-      "Translation": "",
+      "Translation": "Пропустить",
       "Comment": "Skip/pass turn action"
     },
     {
       "Key": "- Activate a Unit - ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "- Активируйте отряд -",
+      "Comment": "Phase instruction"
     },
     {
       "Key": "Unit Active. \n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд активирован.\n",
+      "Comment": "Status message"
     },
     {
       "Key": "Done",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Готово",
+      "Comment": "Completion button"
     },
     {
       "Key": "-Moving-",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "-Движение-",
+      "Comment": "Movement phase indicator"
     },
     {
       "Key": "Right Click: Undo Step",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Правый клик: отменить шаг",
+      "Comment": "Movement control hint"
     },
     {
       "Key": "Double Click: Execute Move.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Двойной клик: выполнить движение.",
+      "Comment": "Movement control hint"
     },
     {
       "Key": "Greatweapon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Великое оружие",
+      "Comment": "Weapon type"
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "-1 Движение. Игнорирует штраф движения от тяжёлой брони",
+      "Comment": "Ability description"
     },
     {
       "Key": "Guldan the Conqueror",
-      "Translation": "",
+      "Translation": "Гульдан Завоеватель",
       "Comment": "Proper name with title translation"
     },
     {
       "Key": "Greatweapon and Shield, ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Великое оружие и щит, ",
+      "Comment": "Equipment combination"
     },
     {
       "Key": "Greatweapon +1",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Великое оружие +1",
+      "Comment": "Enchanted weapon"
     },
     {
       "Key": "3 Units",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "3 отряда",
+      "Comment": "Unit count"
     },
     {
       "Key": "VS",
-      "Translation": "",
+      "Translation": "VS",
       "Comment": "Versus - universally understood"
     },
     {
       "Key": "Goblin Wolf Riders",
-      "Translation": "",
+      "Translation": "Гоблины верховые волков",
       "Comment": "Consistent with faction translations"
     },
     {
       "Key": "Attack Roll",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Бросок атаки",
+      "Comment": "Combat action"
     },
     {
       "Key": "Flanks:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Фланги:",
+      "Comment": "Combat position"
     },
     {
       "Key": "Rear:",
-      "Translation": "",
+      "Translation": "Тыл:",
       "Comment": "Rear attack position"
     },
     {
       "Key": "Bonus:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Бонус:",
+      "Comment": "Modifier indicator"
     },
     {
       "Key": "Kills:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убийств:",
+      "Comment": "Kill counter"
     },
     {
       "Key": "Rank Bonus:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Бонус рядов:",
+      "Comment": "Combat bonus"
     },
     {
       "Key": "Damage Save",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Спасение от урона",
+      "Comment": "Armor save roll"
     },
     {
       "Key": "Opponent:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Противник:",
+      "Comment": "Opponent label"
     },
     {
       "Key": "<color=#31D3E3>3+ <size=33%></color> To Save",
-      "Translation": "",
+      "Translation": "<color=#31D3E3>3+ <size=33%></color> Спас",
       "Comment": "Rich text formatting preserved"
     },
     {
       "Key": "Reroll Failures",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Переброс неудач",
+      "Comment": "Dice action"
     },
     {
       "Key": "Blaha vs Blaha",
-      "Translation": "",
+      "Translation": "Плаха vs Плаха",
       "Comment": "Example/placeholder text"
     },
     {
       "Key": "<color=#30F3FF> 3x</color> Auto Hits",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "<color=#30F3FF> 3x</color> Автопопадание",
+      "Comment": "Combat result"
     },
     {
       "Key": "Event Panel",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Панель событий",
+      "Comment": "UI panel name"
     },
     {
       "Key": "Dwarf Handgunners fire at the Orc Warriors!Dwarf Orc Warriors!Dwarf Handgunners fire at the Orc Warriors!",
-      "Translation": "",
+      "Translation": "Дворфийские аркебузиры стреляют по боевикам-оркам! Дворф Боевики-орки! Дворфийские аркебузиры стреляют по боевикам-оркам!",
       "Comment": "Example/template text - appears to have formatting issue in original"
     },
     {
       "Key": "Power <color=#31D3E3><size=133%>3</color> </size>VS Defense <color=#31D3E3><size=133%>3</color> ",
-      "Translation": "",
+      "Translation": "Мощь <color=#31D3E3><size=133%>3</color> </size>VS Защита <color=#31D3E3><size=133%>3</color> ",
       "Comment": "Rich text formatting preserved"
     },
     {
       "Key": "-Opponent Roll-",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "-Бросок противника-",
+      "Comment": "Combat phase"
     },
     {
       "Key": "Roll to Hit",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Бросок на попадание",
+      "Comment": "Attack roll action"
     },
     {
       "Key": "Power 3 vs Defense 3",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Мощь 3 против Защиты 3",
+      "Comment": "Combat comparison"
     },
     {
       "Key": "Score\n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Счёт\n",
+      "Comment": "Score indicator"
     },
     {
       "Key": "Inspired by Commander",
-      "Translation": "",
+      "Translation": "Вдохновлены полководцем",
       "Comment": "Morale buff"
     },
     {
       "Key": "Enemy Morale",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Боевой дух противника",
+      "Comment": "Enemy morale"
     },
     {
       "Key": "Commander Name ",
-      "Translation": "",
+      "Translation": "Имя полководца ",
       "Comment": "Placeholder/template"
     },
     {
       "Key": "Enemy Commanders:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Полководцы противника:",
+      "Comment": "Enemy commander list"
     },
     {
       "Key": "Turns Left",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ходов осталось",
+      "Comment": "Turn counter"
     },
     {
       "Key": "Survive!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Выживайте!",
+      "Comment": "Objective"
     },
     {
       "Key": "- Battle Starting -",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "- Начало сражения -",
+      "Comment": "Battle phase"
     },
     {
       "Key": "Shaving a dwarf can seem like a fun idea at the time, but it's not worth the consequences in the long run.",
-      "Translation": "",
+      "Translation": "Брить дварфа может показаться хорошей идеей, но это не стоит последствий.",
       "Comment": "Humorous loading screen tip"
     },
     {
       "Key": "You can roll dice by pressing Spacebar (    ). Hold it down to fast forward in combat.",
-      "Translation": "",
+      "Translation": "Вы можете бросать кубики, нажав пробел (    ). Удерживайте, чтобы ускорить боевые действия.",
       "Comment": "Tutorial tip"
     },
     {
       "Key": "Display charge ranges by pressing         -Your Units         - Opponents Units\n",
-      "Translation": "",
+      "Translation": "Показать диапазоны атак нажатием         -Ваши отряды         - Отряды противника\n",
       "Comment": "Tutorial tip with key binding placeholder"
     },
     {
       "Key": "Also hold Shift to show Ranged Weapon ranges.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Также нажмите Shift, чтобы показать диапазоны дальнобойного оружия.",
+      "Comment": "Tutorial tip"
     },
     {
       "Key": "Found a bug or just want to talk about the game?",
-      "Translation": "",
+      "Translation": "Нашли ошибку или просто хотите поговорить об игре?",
       "Comment": "Community engagement prompt"
     },
     {
       "Key": "Discord",
-      "Translation": "",
+      "Translation": "Discord",
       "Comment": "Platform name"
     },
     {
       "Key": "Reddit",
-      "Translation": "",
+      "Translation": "Reddit",
       "Comment": "Platform name"
     },
     {
       "Key": "Units always add their rank bonus to Discipline Tests",
-      "Translation": "",
+      "Translation": "Отряды всегда добавляют бонус рядов к проверкам дисциплины",
       "Comment": "Rules tip"
     },
     {
       "Key": "Flank and Rear charges add +1 to Combat Score!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Атаки во фланг и с тыла добавляют +1 к боевому счёту!",
+      "Comment": "Rules tip"
     },
     {
       "Key": "A units <color=#33FAFF>Skill</color> is a measure of its training and general ability to fight. It  detemines Hit Chance for close combat and ranged attacks.",
-      "Translation": "",
+      "Translation": "Умение отряда <color=#33FAFF>это</color> мера его подготовки и общей боевой способности. Оно определяет вероятность попадания в ближнем бою и дальнобойных атаках.",
       "Comment": "Stat explanation - note typo 'detemines' in original"
     },
     {
       "Key": "The <color=#33FAFF>Power</color> stat describes a units physical strength and striking power. It's used in combat to overcome an opponents <color=#33FAFF>Defense.",
-      "Translation": "",
+      "Translation": "Статистика <color=#33FAFF>Мощь</color> описывает физическую силу отряда и его разрушительную силу. Используется в бою для преодоления <color=#33FAFF>Защиты</color> противника.",
       "Comment": "Stat explanation"
     },
     {
       "Key": "The <color=#33FAFF>Defense</color> stat is a combination of a units general toughness and armor. It determines the units Damage Save against incoming attacks.",
-      "Translation": "",
+      "Translation": "Статистика <color=#33FAFF>Защита</color> - это сочетание общей живучести отряда и брони. Она определяет спасение отряда от урона от входящих атак.",
       "Comment": "Stat explanation"
     },
     {
       "Key": "The dice in SOVL are mathematically fair. They are also cursed by a demon, who is evil. But they are fair!",
-      "Translation": "",
+      "Translation": "Кубики в SOVL математически справедливы. Они также прокляты демоном, который злобный. Но они справедливы!",
       "Comment": "Humorous tip about RNG"
     },
     {
       "Key": "Concede",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Признать поражение",
+      "Comment": "Surrender action"
     },
     {
       "Key": "Continue",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Продолжить",
+      "Comment": "Continue button"
     },
     {
       "Key": "Cancel\n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отмена\n",
+      "Comment": "Cancel button with newline"
     },
     {
       "Key": "Victory",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Победа",
+      "Comment": "Victory result"
     },
     {
       "Key": "Battle Over",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Сражение окончено",
+      "Comment": "Battle end message"
     },
     {
       "Key": "- Scoring Objectives -",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "- Подсчёт целей -",
+      "Comment": "Results phase"
     },
     {
       "Key": "Results",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Результаты",
+      "Comment": "Results panel"
     },
     {
       "Key": "Return",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Возврат",
+      "Comment": "Return button"
     },
     {
       "Key": "Details",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Детали",
+      "Comment": "Details button"
     },
     {
       "Key": "Unit",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд",
+      "Comment": "Battle results column"
     },
     {
       "Key": "Kills",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Убийств",
+      "Comment": "Kill count"
     },
     {
       "Key": "Models",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Модели",
+      "Comment": "Unit models/figures"
     },
     {
       "Key": "Status",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Статус",
+      "Comment": "Unit status column"
     },
     {
       "Key": "Dwarf Engineer",
-      "Translation": "",
+      "Translation": "Дварфийский инженер",
       "Comment": "Consistent with faction translations"
     },
     {
       "Key": "Torin Sheildbreaker",
-      "Translation": "",
+      "Translation": "Торин Щитолом",
       "Comment": "Character name - translate title part"
     },
     {
       "Key": "DESTROYED",
-      "Translation": "",
+      "Translation": "УНИЧТОЖЕНА",
       "Comment": "All caps for emphasis"
     },
     {
       "Key": "Save Replay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Сохранить повтор",
+      "Comment": "Save action"
     },
     {
       "Key": "Enemies Defeated",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Враги повержены",
+      "Comment": "Victory condition"
     },
     {
       "Key": "3333 pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "3333 очк",
+      "Comment": "Example points"
     },
     {
       "Key": "Objectives:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Цели:",
+      "Comment": "Objectives label"
     },
     {
       "Key": "Deeds of Valor",
-      "Translation": "",
+      "Translation": "Деяния доблести",
       "Comment": "Achievement/deed name"
     },
     {
       "Key": "Bloodthirsty",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Кровожадный",
+      "Comment": "Achievement title"
     },
     {
       "Key": "Imperial Sword",
-      "Translation": "",
+      "Translation": "Имперский меч",
       "Comment": "Item name"
     },
     {
       "Key": "Deeds of Infamy",
-      "Translation": "",
+      "Translation": "Деяния бесчестия",
       "Comment": "Anti-achievement/deed name"
     },
     {
       "Key": "Army View",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Просмотр армии",
+      "Comment": "View option"
     },
     {
       "Key": "Asassination complete. Claim your reward!",
-      "Translation": "",
+      "Translation": "Убийство выполнено. Требуйте вознаграждение!",
       "Comment": "Note: typo 'Asassination' in original key"
     },
     {
       "Key": "Ok",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ОК",
+      "Comment": "Confirmation button"
     },
     {
       "Key": "Level Up!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Уровень повышен!",
+      "Comment": "Level up notification"
     },
     {
       "Key": "Map View",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Просмотр карты",
+      "Comment": "View option"
     },
     {
       "Key": "Challenge Level:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Уровень сложности:",
+      "Comment": "Challenge indicator"
     },
     {
       "Key": "Less Starting Gold\nHarder Minor Battles\nHarder Elites\nSmaller Starting Unit\nHarder Bosses",
-      "Translation": "",
+      "Translation": "Меньше начального золота\nСложнейшие боевые столкновения\nСложнейшая элита\nМеньше начальных отрядов\nСложнейшие боссы",
       "Comment": "List of active challenge modifiers"
     },
     {
       "Key": "Act 1",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Акт 1",
+      "Comment": "Campaign act"
     },
     {
       "Key": "Save & Exit",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Сохранить и выход",
+      "Comment": "Menu action"
     },
     {
       "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 33.",
-      "Translation": "",
+      "Translation": "Поражение от <color=blue>Гундрик Наковальник</color> на этапе 33.",
       "Comment": "Campaign defeat message with character name"
     },
     {
       "Key": "Unlocked 1/3",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Разблокировано 1/3",
+      "Comment": "Progress indicator"
     },
     {
       "Key": "Your army has been wiped out...\n",
-      "Translation": "",
+      "Translation": "Ваша армия полностью разгромлена...\n",
       "Comment": "Campaign defeat message"
     },
     {
       "Key": "A trail of death behind you...",
-      "Translation": "",
+      "Translation": "Тропа смерти позади вас...",
       "Comment": "Campaign progress flavor"
     },
     {
       "Key": "Battles Won",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Сражений выиграно",
+      "Comment": "Campaign statistic"
     },
     {
       "Key": "Elite Battles Won",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Элитных сражений выиграно",
+      "Comment": "Campaign statistic"
     },
     {
       "Key": "Boss Battles Won",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Боссовых сражений выиграно",
+      "Comment": "Campaign statistic"
     },
     {
       "Key": "Enemies Killed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Врагов убито",
+      "Comment": "Campaign statistic"
     },
     {
       "Key": "Models Lost",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Моделей потеряно",
+      "Comment": "Campaign statistic"
     },
     {
       "Key": "Gold Earned",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Золота заработано",
+      "Comment": "Campaign statistic"
     },
     {
       "Key": "Gold Spent",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Золота потрачено",
+      "Comment": "Campaign statistic"
     },
     {
       "Key": "Units Hired",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отрядов нанято",
+      "Comment": "Campaign statistic"
     },
     {
       "Key": "...but more challenges await.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "...но впереди ещё больше вызовов.",
+      "Comment": "Campaign continuation message"
     },
     {
       "Key": "Level",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Уровень",
+      "Comment": "Campaign level indicator"
     },
     {
       "Key": "You've reached the end...",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Вы достигли конца...",
+      "Comment": "Campaign ending message"
     },
     {
       "Key": "The trail of dead conquered.",
-      "Translation": "",
+      "Translation": "Тропа смерти завоёвана.",
       "Comment": "Campaign victory message"
     },
     {
       "Key": "But more foes remain!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Но враги остаются!",
+      "Comment": "Campaign continuation"
     },
     {
       "Key": "Thanks for playing!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Спасибо за игру!",
+      "Comment": "Closing message"
     },
     {
       "Key": "Dwarf Berserkers",
-      "Translation": "",
+      "Translation": "Дварфийские берсеркеры",
       "Comment": "Unit name - consistent with faction translations"
     },
     {
       "Key": "New Unit Unlocked!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Новый отряд разблокирован!",
+      "Comment": "Unlock notification"
     },
     {
       "Key": "Starting Units",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Начальные отряды",
+      "Comment": "Campaign start option"
     },
     {
       "Key": "Pick One",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Выберите один",
+      "Comment": "Selection instruction"
     },
     {
       "Key": "Dwarven Handgunners",
-      "Translation": "",
+      "Translation": "Дварфийские аркебузиры",
       "Comment": "Unit name"
     },
     {
       "Key": "Embark!",
-      "Translation": "",
+      "Translation": "Отправиться!",
       "Comment": "Campaign start button"
     },
     {
       "Key": "Replenishment:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Пополнение:",
+      "Comment": "Unit restoration option"
     },
     {
       "Key": "Models:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Модели:",
+      "Comment": "Unit models label"
     },
     {
       "Key": "Veteran Discipline III",
-      "Translation": "",
+      "Translation": "Ветеранская дисциплина III",
       "Comment": "Ability name"
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "",
+      "Translation": "Переброс дальнобойных и боевых атак против кавалерии и колесниц",
       "Comment": "Ability description"
     },
     {
       "Key": "Act",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Акт",
+      "Comment": "Campaign act"
     },
     {
       "Key": "Lost",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Потеряно",
+      "Comment": "Status indicator"
     },
     {
       "Key": "XP",
-      "Translation": "",
+      "Translation": "ОП",
       "Comment": "Erfahrungspunkte"
     },
     {
       "Key": "Rest / Loot",
-      "Translation": "",
+      "Translation": "Отдых / Добыча",
       "Comment": "Camp action"
     },
     {
       "Key": "OR",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ИЛИ",
+      "Comment": "Choice separator"
     },
     {
       "Key": "Mercenary Cut: <indent=33%><color=green><b>+10%",
-      "Translation": "",
+      "Translation": "Доля наёмника: <indent=33%><color=green><b>+10%",
       "Comment": "Rich text formatting preserved"
     },
     {
       "Key": "- Legend -",
-      "Translation": "",
+      "Translation": "- Легенда -",
       "Comment": "Map legend header"
     },
     {
       "Key": "Battle",
-      "Translation": "",
+      "Translation": "Сражение",
       "Comment": "Map node type"
     },
     {
       "Key": "Random Event",
-      "Translation": "",
+      "Translation": "Случайное событие",
       "Comment": "Map node type"
     },
     {
       "Key": "Armory",
-      "Translation": "",
+      "Translation": "Арсенал",
       "Comment": "Map node type"
     },
     {
       "Key": "Camp Site",
-      "Translation": "",
+      "Translation": "Лагерь",
       "Comment": "Map node type"
     },
     {
       "Key": "Elite Battle",
-      "Translation": "",
+      "Translation": "Элитное сражение",
       "Comment": "Map node type"
     },
     {
       "Key": "Assassination",
-      "Translation": "",
+      "Translation": "Убийство",
       "Comment": "Map node type"
     },
     {
       "Key": "Quest",
-      "Translation": "",
+      "Translation": "Квест",
       "Comment": "Map node type - common gaming term"
     },
     {
       "Key": "Recruit Regiment",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Нанять полк",
+      "Comment": "Recruitment action"
     },
     {
       "Key": "Retinue",
-      "Translation": "",
+      "Translation": "Свита",
       "Comment": "Singular form"
     },
     {
       "Key": "Unit Upgrades",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Улучшения отрядов",
+      "Comment": "Upgrade option"
     },
     {
       "Key": "Upgrades",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Улучшения",
+      "Comment": "General upgrades"
     },
     {
       "Key": "Heavy Armor",
-      "Translation": "",
+      "Translation": "Тяжёлая броня",
       "Comment": "Equipment upgrade"
     },
     {
       "Key": "Replenish or train your units",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Пополните или обучите ваши отряды",
+      "Comment": "Camp action instruction"
     },
     {
       "Key": "Train / Replenish",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Тренировка / Пополнение",
+      "Comment": "Camp action"
     },
     {
       "Key": "+1 XP",
-      "Translation": "",
-      "Comment": "Erfahrungspunkte"
+      "Translation": "+1 ОП",
+      "Comment": "Experience points"
     },
     {
       "Key": "This is a holy place. Your soldiers can ask for a blessing, but make your choice carefully. ",
-      "Translation": "",
+      "Translation": "Это священное место. Ваши солдаты могут попросить благословение, но выбирайте тщательно.",
       "Comment": "Event description"
     },
     {
       "Key": "- Select a Unit -",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "- Выберите отряд -",
+      "Comment": "Selection instruction"
     },
     {
       "Key": "Ask for protection.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Попросите защиту.",
+      "Comment": "Blessing option"
     },
     {
       "Key": "(Unit re-rolls failed Damage Saves)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "(Отряд перебрасывает неудачные спасения от урона)",
+      "Comment": "Ability description"
     },
     {
       "Key": "Rest and gather strength.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отдохните и наберитесь сил.",
+      "Comment": "Blessing option"
     },
     {
       "Key": "(Unit is restored to full strenght)",
-      "Translation": "",
+      "Translation": "(Отряд восстановлен на полную мощь)",
       "Comment": "Typo 'strenght' in original"
     },
     {
       "Key": "- The unit is restored -",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "- Отряд восстановлен -",
+      "Comment": "Event outcome"
     },
     {
       "Key": "Choose a Unit",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Выберите отряд",
+      "Comment": "Selection instruction"
     },
     {
       "Key": "A mysterious altar covered in eldritch runes. Your soldiers can ask for a favor, but at what cost...",
-      "Translation": "",
+      "Translation": "Таинственный алтарь, покрытый мистическими рунами. Ваши солдаты могут просить милость, но какой ценой...",
       "Comment": "Event description - mystical tone"
     },
     {
       "Key": "Losses",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Потери",
+      "Comment": "Outcome type"
     },
     {
       "Key": "Succeses",
-      "Translation": "",
+      "Translation": "Успехи",
       "Comment": "Typo 'Succeses' in original"
     },
     {
       "Key": "Roll",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Бросок",
+      "Comment": "Action button"
     },
     {
       "Key": "Some rogue wizards have been spotted in the area. Eliminate them for a reward.",
-      "Translation": "",
+      "Translation": "В этой местности замечены опасные волшебники. Уничтожьте их за награду.",
       "Comment": "Quest description"
     },
     {
       "Key": "Reward: 1 magic item for your commander",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Награда: 1 магический предмет для вашего полководца",
+      "Comment": "Reward description"
     },
     {
       "Key": "Seek them out!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ищите их!",
+      "Comment": "Quest instruction"
     },
     {
       "Key": "Sent",
-      "Translation": "",
+      "Translation": "Отправлено",
       "Comment": "Unit sent on quest"
     },
     {
       "Key": "Your army has found  a forgotten tomb in the wilderness. Does it contain ancient treasure or slumbering evil?\n\n\n\n\n\nForm a search party to investigate or leave it be...\n",
-      "Translation": "",
+      "Translation": "Ваша армия нашла забытую гробницу в дикой местности. Содержит ли она древние сокровища или спящее зло?\n\n\n\n\n\nСформируйте поисковую группу для расследования или оставьте в покое...\n",
       "Comment": "Event description - preserve extra newlines"
     },
     {
       "Key": "Enter The Darkness",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Войти во тьму",
+      "Comment": "Action button"
     },
     {
       "Key": "Search Party:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Поисковая группа:",
+      "Comment": "Selection label"
     },
     {
       "Key": "Treasures Found",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Найдено сокровищ",
+      "Comment": "Result counter"
     },
     {
       "Key": "Mercenaries are offering to join your warband in exchange for a cut of your income.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Наёмники предлагают присоединиться к вашей группе в обмен на часть вашего дохода.",
+      "Comment": "Event description"
     },
     {
       "Key": "Elven City Guard are expensive but skilled fighters.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Эльфийская городская стража дорогая, но опытные бойцы.",
+      "Comment": "Unit description"
     },
     {
       "Key": "10% of gold income",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "10% золотого дохода",
+      "Comment": "Cost indicator"
     },
     {
       "Key": "Hire",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Нанять",
+      "Comment": "Hiring action"
     },
     {
       "Key": "Wait...",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Подождите...",
+      "Comment": "Decline action"
     },
     {
       "Key": "Search",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Искать",
+      "Comment": "Action button"
     },
     {
       "Key": "You come across a treacherous swamp. As you attempt to cross it, one of your regiments fall behind and is lost in the fog. You can wait for them to return or risk sending a search party.",
-      "Translation": "",
+      "Translation": "Вы сталкиваетесь с коварным болотом. Когда вы пытаетесь его пересечь, один из ваших полков отстаёт и теряется в тумане. Вы можете ждать их возвращения или рискнуть послать поисковую группу.",
       "Comment": "Event description"
     },
     {
       "Key": "A mercenary captain and his trusty gryphon offers to join your army for coin.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Капитан наёмников и его верный гриф предлагают присоединиться к вашей армии за плату.",
+      "Comment": "Event description"
     },
     {
       "Key": "An ancient place of power. ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Древнее место силы.",
+      "Comment": "Location description"
     },
     {
       "Key": "Enter the Circle",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Войти в круг",
+      "Comment": "Action button"
     },
     {
       "Key": "Arcane Reversal",
-      "Translation": "",
+      "Translation": "Магическое возмещение",
       "Comment": "Spell/ability name"
     },
     {
       "Key": "Learn Spell",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Выучить заклинание",
+      "Comment": "Learning action"
     },
     {
       "Key": "A good place to purchase some firepower...",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Хорошее место для приобретения огневой мощи...",
+      "Comment": "Armory description"
     },
     {
       "Key": "Dwarf Cannon",
-      "Translation": "",
+      "Translation": "Дварфийская пушка",
       "Comment": "Unit name"
     },
     {
       "Key": "Mount",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Верхом",
+      "Comment": "Equipment type"
     },
     {
       "Key": "Your soldiers have found an ancient artifact. Make use of its power or sell it in the nearest settlement...",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ваши солдаты нашли древний артефакт. Используйте его мощь или продайте в ближайшем поселении...",
+      "Comment": "Event description"
     },
     {
       "Key": "Sword of Ruin",
-      "Translation": "",
+      "Translation": "Меч разрушения",
       "Comment": "Artifact name"
     },
     {
       "Key": "+1 Power. Once per battle, cast the Fireball spell.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Мощь. Один раз за сражение, используйте заклинание огненного шара.",
+      "Comment": "Artifact ability"
     },
     {
       "Key": "Use It",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Использовать",
+      "Comment": "Action button"
     },
     {
       "Key": "Sell:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Продать:",
+      "Comment": "Sell option label"
     },
     {
       "Key": "An old dwarven weapon cache. We can probably salvage something.\n Pick one...",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Старый дварфийский запас оружия. Мы можем что-то спасти.\n Выберите один...",
+      "Comment": "Event description"
     },
     {
       "Key": "Ranged Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дальнобойная атака",
+      "Comment": "Ability type"
     },
     {
       "Key": "Equip",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Экипировать",
+      "Comment": "Equipment action"
     },
     {
       "Key": "A shrine to the ancient Dwarven ancestors. \nThis is a sacred place for all Dwarves.",
-      "Translation": "",
+      "Translation": "Святилище древних дварфийских предков.\nЭто святое место для всех дварфов.",
       "Comment": "Dwarf faction event"
     },
     {
       "Key": "Ask the Ancestors for Strength",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Попросите силу у предков",
+      "Comment": "Blessing action"
     },
     {
       "Key": "(Unit gains a powerful ability)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "(Отряд получает мощную способность)",
+      "Comment": "Bonus description"
     },
     {
       "Key": "- Choose One -",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "- Выберите один -",
+      "Comment": "Selection instruction"
     },
     {
       "Key": "A blessing from the Lady.",
-      "Translation": "",
+      "Translation": "Благословение Леди.",
       "Comment": "Knights of Avalon faction event"
     },
     {
       "Key": "Choose",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Выбрать",
+      "Comment": "Selection button"
     },
     {
       "Key": "Restoration",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Восстановление",
+      "Comment": "Blessing type"
     },
     {
       "Key": "Replenish all units fully.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Полностью пополните все отряды.",
+      "Comment": "Blessing effect"
     },
     {
       "Key": "Lady's Prayer",
-      "Translation": "",
+      "Translation": "Молитва Леди",
       "Comment": "Knights of Avalon ability"
     },
     {
       "Key": "Gain the Lady's Blessing for the next 3 battles.\n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Получите благословение Леди на следующие 3 сражения.\n",
+      "Comment": "Blessing effect"
     },
     {
       "Key": "(Your Knights are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "",
+      "Translation": "(Ваши рыцари бесстрашны и получают бонус атаки при атаке: +1 Атака)",
       "Comment": "Effect description"
     },
     {
       "Key": "The drums of war are sounding!",
-      "Translation": "",
+      "Translation": "Барабаны войны звучат!",
       "Comment": "Greenskin/Orc faction event"
     },
     {
       "Key": "Take Command",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Взять командование",
+      "Comment": "Action button"
     },
     {
       "Key": "Your Commander gains one level.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ваш полководец получает один уровень.",
+      "Comment": "Bonus description"
     },
     {
       "Key": "Rally the Tribes",
-      "Translation": "",
+      "Translation": "Соберите племена",
       "Comment": "Greenskin ability"
     },
     {
       "Key": "Gain Tribal Fury for the next 3 battles.\n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Получите боевой клич племён на следующие 3 сражения.\n",
+      "Comment": "Bonus description"
     },
     {
       "Key": "(Your units are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "(Ваши отряды бесстрашны и получают бонус атаки: +1 Атака)",
+      "Comment": "Bonus effect"
     },
     {
       "Key": "A hideout in the trees, \nonly known to the Deepwood Elves",
-      "Translation": "",
+      "Translation": "Убежище на деревьях,\nизвестное только лесным эльфам",
       "Comment": "Deepwood faction event"
     },
     {
       "Key": "Rest",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отдых",
+      "Comment": "Rest action"
     },
     {
       "Key": "Replenish all Units fully.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Полностью пополните все отряды.",
+      "Comment": "Bonus effect"
     },
     {
       "Key": "Commune with Forest Spirits",
-      "Translation": "",
+      "Translation": "Взаимодействие с духами леса",
       "Comment": "Deepwood faction ability"
     },
     {
       "Key": "Gain Forest Spirits Aid for the next 3 battles.\n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Получите помощь духов леса на следующие 3 сражения.\n",
+      "Comment": "Bonus description"
     },
     {
       "Key": "(Your units have +3 Move Speed and +1 to Ranged Attack Rolls) ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "(Ваши отряды получают +3 к скорости движения и +1 к броскам дальнобойных атак)",
+      "Comment": "Bonus effect"
     },
     {
       "Key": "Deadly arrows crafted by the Deepwood Elves. Pick one.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Смертельные стрелы, созданные лесными эльфами. Выберите один.",
+      "Comment": "Equipment choice"
     },
     {
       "Key": "Event Name",
-      "Translation": "",
+      "Translation": "Название события",
       "Comment": "Placeholder string"
     },
     {
       "Key": "Light Infantry - 33 pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Лёгкая пехота - 33 очк",
+      "Comment": "Unit with cost"
     },
     {
       "Key": "Level:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Уровень:",
+      "Comment": "Level indicator"
     },
     {
       "Key": "XP:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ОП:",
+      "Comment": "Experience points"
     },
     {
       "Key": "- Dwarf Warriors",
-      "Translation": "",
+      "Translation": "- Дварфийские воины",
       "Comment": "Unit name in list"
     },
     {
       "Key": "33 pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "33 очк",
+      "Comment": "Point cost"
     },
     {
       "Key": "Select Unit",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Выбрать отряд",
+      "Comment": "Selection instruction"
     },
     {
       "Key": "Apply",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Применить",
+      "Comment": "Apply action"
     },
     {
       "Key": "Magic Weapons",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Магическое оружие",
+      "Comment": "Item category"
     },
     {
       "Key": "Magic Items",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Магические предметы",
+      "Comment": "Item category"
     },
     {
       "Key": "Magic Banners",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Магические штандарты",
+      "Comment": "Item category"
     },
     {
       "Key": "Banner of Big Moon",
-      "Translation": "",
+      "Translation": "Штандарт большой луны",
       "Comment": "Item name - Greenskin faction"
     },
     {
       "Key": "130pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "130 очк",
+      "Comment": "Point cost"
     },
     {
       "Key": "Item Rules Effect\n",
-      "Translation": "",
+      "Translation": "Эффект правил предмета\n",
       "Comment": "Placeholder text"
     },
     {
       "Key": "Unlocked ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Разблокировано",
+      "Comment": "Status indicator"
     },
     {
       "Key": "33pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "33 очк",
+      "Comment": "Point cost"
     },
     {
       "Key": "<color=#31D3E3>3<size=33%></color> D3",
-      "Translation": "",
+      "Translation": "<color=#31D3E3>3<size=33%></color> K3",
       "Comment": "Rich text dice notation - W3 = Würfel3"
     },
     {
       "Key": "< <color=#31D3E3>3",
-      "Translation": "",
+      "Translation": "< <color=#31D3E3>3",
       "Comment": "Rich text comparison - keep as is"
     },
     {
       "Key": "<color=#31D3E3>1<size=33%></color> D3",
-      "Translation": "",
+      "Translation": "<color=#31D3E3>1<size=33%></color> K3",
       "Comment": "Rich text dice notation"
     },
     {
       "Key": "30pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "30 очк",
+      "Comment": "Point cost"
     },
     {
       "Key": "333 pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "333 очк",
+      "Comment": "Point value"
     },
     {
       "Key": "BorderPatrol",
-      "Translation": "",
+      "Translation": "Пограничный дозор",
       "Comment": "Game mode name"
     },
     {
       "Key": "invalid",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "недействительно",
+      "Comment": "Invalid status"
     },
     {
       "Key": "Battalion",
-      "Translation": "",
+      "Translation": "Батальон",
       "Comment": "Army size category"
     },
     {
       "Key": "Unnamed List",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Безымянный список",
+      "Comment": "Default list name"
     },
     {
       "Key": "Screenshot sent to Steam",
-      "Translation": "",
+      "Translation": "Скриншот отправлен в Steam",
       "Comment": "System message"
     },
     {
       "Key": "Battle Line",
-      "Translation": "",
+      "Translation": "Боевая линия",
       "Comment": "Unit category"
     },
     {
       "Key": "Fast Attack",
-      "Translation": "",
+      "Translation": "Быстрая атака",
       "Comment": "Unit category"
     },
     {
       "Key": "Ranged Support",
-      "Translation": "",
+      "Translation": "Дальнобойная поддержка",
       "Comment": "Unit category"
     },
     {
       "Key": "Imperial Armory",
-      "Translation": "",
+      "Translation": "Имперский арсенал",
       "Comment": "Game mode name"
     },
     {
       "Key": "Border Patrol",
-      "Translation": "",
+      "Translation": "Пограничный дозор",
       "Comment": "Game mode name"
     },
     {
       "Key": "Legion",
-      "Translation": "",
+      "Translation": "Легион",
       "Comment": "Army size category"
     },
     {
       "Key": "Unrestricted",
-      "Translation": "",
+      "Translation": "Без ограничений",
       "Comment": "Game mode"
     },
     {
       "Key": "103pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "103 очк",
+      "Comment": "Point cost"
     },
     {
       "Key": "133pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "133 очк",
+      "Comment": "Point cost"
     },
     {
       "Key": "Commander Ability",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Способность полководца",
+      "Comment": "Equipment slot"
     },
     {
       "Key": "Weapon Set",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Набор оружия",
+      "Comment": "Equipment slot"
     },
     {
       "Key": "Magic Banner",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Магический штандарт",
+      "Comment": "Equipment slot"
     },
     {
       "Key": "131pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "131 очк",
+      "Comment": "Point cost"
     },
     {
       "Key": "13pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "13 очк",
+      "Comment": "Point cost"
     },
     {
       "Key": "10pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "10 очк",
+      "Comment": "Point cost"
     },
     {
       "Key": "Weapon Enchantment",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Чара оружия",
+      "Comment": "Equipment type"
     },
     {
       "Key": "Item Enchantment",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Чара предмета",
+      "Comment": "Equipment type"
     },
     {
       "Key": "Spell",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Заклинание",
+      "Comment": "Ability type"
     },
     {
       "Key": "<b>Draw<size=30%></color></b>\n",
-      "Translation": "",
+      "Translation": "<b>Ничья<size=30%></color></b>\n",
       "Comment": "Battle result - preserve rich text tags"
     },
     {
       "Key": "Challenge Level: 3",
-      "Translation": "",
+      "Translation": "Уровень сложности: 3",
       "Comment": "Campaign difficulty indicator"
     },
     {
       "Key": "A collection of fierce beasts...",
-      "Translation": "",
+      "Translation": "Собрание жестоких зверей...",
       "Comment": "Campaign encounter description"
     },
     {
       "Key": "Turn 1 begins!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Начинается ход 1!",
+      "Comment": "Battle start message"
     },
     {
       "Key": "Confident",
-      "Translation": "",
+      "Translation": "Уверенный",
       "Comment": "Morale state"
     },
     {
       "Key": "Turn 3 begins!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Начинается ход 3!",
+      "Comment": "Battle phase message"
     },
     {
       "Key": "activates",
-      "Translation": "",
+      "Translation": "активируется",
       "Comment": "Ability/unit activation message"
     },
     {
       "Key": "You are starting player!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Вы начинающий игрок!",
+      "Comment": "Starting player message"
     },
     {
       "Key": "Confirm?",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Подтвердить?",
+      "Comment": "Confirmation question"
     },
     {
       "Key": " Attack Roll",
-      "Translation": "",
+      "Translation": " Бросок атаки",
       "Comment": "Preserve leading space"
     },
     {
       "Key": "Next",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Далее",
+      "Comment": "Next button"
     },
     {
       "Key": "Opponent",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Противник",
+      "Comment": "Opponent label"
     },
     {
       "Key": "Break Test",
-      "Translation": "",
+      "Translation": "Проверка боевого духа",
       "Comment": "Test to see if unit breaks and flees"
     },
     {
       "Key": "3 or lower to Hold",
-      "Translation": "",
+      "Translation": "3 или меньше чтобы держать",
       "Comment": "Morale test success condition"
     },
     {
       "Key": "rally!",
-      "Translation": "",
+      "Translation": "восстать!",
       "Comment": "Unit regains morale"
     },
     {
       "Key": "3 or lower to Rally",
-      "Translation": "",
+      "Translation": "3 или меньше чтобы восстать",
       "Comment": "Rally test success condition"
     },
     {
       "Key": "0 or lower to Hold",
-      "Translation": "",
+      "Translation": "0 или меньше чтобы держать",
       "Comment": "Auto-break situation"
     },
     {
       "Key": "fled off the board!",
-      "Translation": "",
+      "Translation": "сбежали со стола!",
       "Comment": "Unit routed off table"
     },
     {
       "Key": "Wavering",
-      "Translation": "",
+      "Translation": "Колеблющийся",
       "Comment": "Morale state - unit close to breaking"
     },
     {
       "Key": "Confirm",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Подтвердить",
+      "Comment": "Confirm button"
     },
     {
       "Key": "Routing this turn!",
-      "Translation": "",
+      "Translation": "Отступление в этом ходу!",
       "Comment": "Unit is fleeing"
     },
     {
       "Key": " has been wiped out!",
-      "Translation": "",
+      "Translation": " была уничтожена!",
       "Comment": "Unit destroyed message - preserve leading space"
     },
     {
       "Key": "Beast Master",
-      "Translation": "",
+      "Translation": "Повелитель зверей",
       "Comment": "Unit type or commander class"
     },
     {
       "Key": "",
       "Translation": "",
-      "Comment": ""
+      "Comment": "Empty placeholder"
     },
     {
       "Key": "You can roll dice by pressing Spacebar. Hold it down to fast forward in combat.",
-      "Translation": "",
-      "Comment": "Anleitung für Spielmechanik"
+      "Translation": "Вы можете бросить кости, нажав пробел. Удерживайте его для ускорения боя.",
+      "Comment": "Tutorial - gameplay mechanic"
     },
     {
       "Key": "Forest",
-      "Translation": "",
-      "Comment": "Geländeart"
+      "Translation": "Лес",
+      "Comment": "Terrain type"
     },
     {
       "Key": "-Difficult Terrain-",
-      "Translation": "",
-      "Comment": "Geländeeigenschaft die Bewegung behindert"
+      "Translation": "-Сложная местность-",
+      "Comment": "Terrain property that impedes movement"
     },
     {
       "Key": "Building",
-      "Translation": "",
-      "Comment": "Geländeart"
+      "Translation": "Здание",
+      "Comment": "Terrain type"
     },
     {
       "Key": "-Impassable-",
-      "Translation": "",
-      "Comment": "Geländeeigenschaft - kann nicht betreten werden"
+      "Translation": "-Непроходимо-",
+      "Comment": "Terrain property - cannot be entered"
     },
     {
       "Key": "Chasm",
-      "Translation": "",
-      "Comment": "Geländeart - tiefe Schlucht"
+      "Translation": "Пропасть",
+      "Comment": "Terrain type - deep gorge"
     },
     {
       "Key": "Cliff",
-      "Translation": "",
-      "Comment": "Geländeart - steiler Felsabsatz"
+      "Translation": "Скала",
+      "Comment": "Terrain type - steep rock face"
     },
     {
       "Key": "Lava",
-      "Translation": "",
-      "Comment": "Geländeart - gleiches Wort in Deutsch"
+      "Translation": "Лава",
+      "Comment": "Terrain type - same word as German"
     },
     {
       "Key": "Scoring Objective",
-      "Translation": "",
-      "Comment": "Spielziel das Punkte bringt"
+      "Translation": "Цель для подсчета очков",
+      "Comment": "Objective that grants points"
     },
     {
       "Key": "Water",
-      "Translation": "",
-      "Comment": "Geländeart"
+      "Translation": "Вода",
+      "Comment": "Terrain type"
     },
     {
       "Key": "Language",
-      "Translation": "",
-      "Comment": "UI-Einstellung"
+      "Translation": "Язык",
+      "Comment": "UI setting"
     },
     {
       "Key": "Elites",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Элита",
+      "Comment": "Unit category"
     },
     {
       "Key": "Machines of War",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Боевые машины",
+      "Comment": "Unit category"
     },
     {
       "Key": "113pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "113 очк",
+      "Comment": "Point cost"
     }
   ]
 }

@@ -3,97 +3,97 @@
   "Translations": [
     {
       "Key": "Knights of Avalon",
-      "Translation": "",
+      "Translation": "Рыцари Авалона",
       "Comment": "Direct translation. Noble knights of the legendary kingdom."
     },
     {
       "Key": "Sword Militia",
-      "Translation": "",
+      "Translation": "Мечная Милиция",
       "Comment": "Miliz = militia. Citizen soldiers with swords."
     },
     {
       "Key": "Peasant Mob",
-      "Translation": "",
+      "Translation": "Крестьянская Толпа",
       "Comment": "Bauern = peasants. Untrained levies."
     },
     {
       "Key": "Halberd Militia",
-      "Translation": "",
+      "Translation": "Алебардная Милиция",
       "Comment": "Militia armed with halberds."
     },
     {
       "Key": "Spear Militia",
-      "Translation": "",
+      "Translation": "Копейная Милиция",
       "Comment": "Basic spear-wielding militia."
     },
     {
       "Key": "Knight Aspirants",
-      "Translation": "",
+      "Translation": "Кандидаты в Рыцари",
       "Comment": "Aspiranten = aspirants. Young warriors training to become knights."
     },
     {
       "Key": "Mounted Hunters",
-      "Translation": "",
+      "Translation": "Конные Охотники",
       "Comment": "Beritten = mounted. Jäger = hunters. Light cavalry."
     },
     {
       "Key": "Sworn Knights",
-      "Translation": "",
+      "Translation": "Присягнувшие Рыцари",
       "Comment": "Geschworene = sworn. Knights who have taken sacred oaths."
     },
     {
       "Key": "Hunting Dogs",
-      "Translation": "",
+      "Translation": "Боевые Собаки",
       "Comment": "War dogs used in battle."
     },
     {
       "Key": "Hunters",
-      "Translation": "",
+      "Translation": "Охотники",
       "Comment": "Skilled hunters serving as scouts and archers."
     },
     {
       "Key": "Trebuchet",
-      "Translation": "",
+      "Translation": "Требюше",
       "Comment": "Trebuchet as technical term for the catapult. Alternative: Wurfmaschine."
     },
     {
       "Key": "Longbowmen",
-      "Translation": "",
+      "Translation": "Лучники с Длинными Луками",
       "Comment": "Famous archers with longbows. Elite ranged troops."
     },
     {
       "Key": "Kings Guard",
-      "Translation": "",
+      "Translation": "Королевская Гвардия",
       "Comment": "Elite guards protecting the king. Best warriors of the realm."
     },
     {
       "Key": "Pegasus Knights",
-      "Translation": "",
+      "Translation": "Рыцари Пегаса",
       "Comment": "Knights riding pegasi. Flying cavalry."
     },
     {
       "Key": "Hippogryph",
-      "Translation": "",
+      "Translation": "Гипогриф",
       "Comment": "Kept as fantasy creature name. Gryphon-horse hybrid."
     },
     {
       "Key": "Pegasus",
-      "Translation": "",
+      "Translation": "Пегас",
       "Comment": "Mythological winged horse. Kept as is."
     },
     {
       "Key": "Unicorn",
-      "Translation": "",
+      "Translation": "Единорог",
       "Comment": "Standard German for unicorn. Magical pure creature."
     },
     {
       "Key": "Maiden",
-      "Translation": "",
+      "Translation": "Дева",
       "Comment": "Jungfrau = maiden. Holy warrior blessed by the divine. Alternative: Heilige Jungfrau."
     },
     {
       "Key": "Paladin",
-      "Translation": "",
+      "Translation": "Паладин",
       "Comment": "Paladin is universally recognized. Holy knight champion."
     }
   ]

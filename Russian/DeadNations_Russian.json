@@ -3,83 +3,83 @@
   "Translations": [
     {
       "Key": "Dead Nations",
-      "Translation": "",
-      "Comment": "Direct compound. Evokes the undead kingdoms rising from ancient graves."
+      "Translation": "Мертвые Государства",
+      "Comment": "Direct translation. Мертвые (Dead) + Государства (Nations). Evokes the undead kingdoms rising from ancient graves."
     },
     {
       "Key": "Skeleton Warriors",
-      "Translation": "",
-      "Comment": "Skelett = skeleton. Basic undead infantry."
+      "Translation": "Воины-Скелеты",
+      "Comment": "Скелет (skeleton) + Воины (warriors). Basic undead infantry. Hyphenated for compound clarity."
     },
     {
       "Key": "Zombies",
-      "Translation": "",
-      "Comment": "Zombie is universally recognized. Shambling undead hordes."
+      "Translation": "Зомби",
+      "Comment": "Зомби (zombie) - loanword universally recognized in Russian. Shambling undead hordes."
     },
     {
       "Key": "Wight Guard",
-      "Translation": "",
-      "Comment": "Gruft = crypt/tomb. Garde = guard. Elite undead warriors guarding ancient tombs."
+      "Translation": "Стража Бармалея",
+      "Comment": "Бармалей (wight/spectre) is an archaic Russian term evoking ancient evil. Стража (guard) conveys elite warriors. Alternative: Привидение could be used but is too modern."
     },
     {
       "Key": "Skeleton Spear",
-      "Translation": "",
-      "Comment": "Skeletal spear-wielding troops. Disciplined undead formations."
+      "Translation": "Копьеносцы-Скелеты",
+      "Comment": "Копьеносцы (spear-bearers) + Скелеты (skeletons). Emphasizes disciplined undead formations with classical terminology."
     },
     {
       "Key": "Unearthed Catapult",
-      "Translation": "",
-      "Comment": "Ausgegraben = unearthed/excavated. Ancient siege weapon raised from the dead."
+      "Translation": "Вырытая Катапульта",
+      "Comment": "Вырытая (unearthed/excavated) + Катапульта (catapult). Ancient siege weapon raised from burial grounds."
     },
     {
       "Key": "Skeleton Bowmen",
-      "Translation": "",
-      "Comment": "Undead archers. Silent and deadly."
+      "Translation": "Лучники-Скелеты",
+      "Comment": "Лучники (archers) + Скелеты (skeletons). Undead archers - silent and deadly. Consistent naming pattern with other skeleton units."
     },
     {
       "Key": "Dire Wolves",
-      "Translation": "",
-      "Comment": "Schattenwölfe (shadow wolves) conveys the supernatural, cursed nature. Alternative: Grimmwölfe."
+      "Translation": "Теневые Волки",
+      "Comment": "Теневые (shadow) Волки (wolves) conveys supernatural, cursed nature. Alternative: Грозные Волки (dread wolves) for more menace."
     },
     {
       "Key": "Skeleton Knights",
-      "Translation": "",
-      "Comment": "Undead cavalry. Former knights now serving in death."
+      "Translation": "Рыцари-Скелеты",
+      "Comment": "Рыцари (knights) + Скелеты (skeletons). Undead cavalry - former knights serving in death. Hyphenated for compound clarity."
     },
     {
       "Key": "Dread Knights",
-      "Translation": "",
-      "Comment": "Schrecken = dread/terror. Elite undead knights radiating fear."
+      "Translation": "Рыцари Страха",
+      "Comment": "Страх (dread/fear) + Рыцари (knights). Elite undead knights radiating terror and supernatural menace."
     },
     {
       "Key": "Fell Bats",
-      "Translation": "",
-      "Comment": "Grausig = fell/dreadful. Fledermaus = bat. Monstrous flying creatures."
+      "Translation": "Ужасные Летучие Мыши",
+      "Comment": "Ужасные (fell/dreadful) + Летучие мыши (bats). Monstrous flying creatures of darkness. Alternative: Мрачные летучие мыши (grim bats)."
     },
     {
       "Key": "Zombie Giant",
-      "Translation": "",
-      "Comment": "Compound of zombie and giant. Massive reanimated corpse."
+      "Translation": "Зомби-Великан",
+      "Comment": "Зомби (zombie) + Великан (giant). Hyphenated compound. Massive reanimated corpse of immense power."
     },
     {
       "Key": "Bone Dragon",
-      "Translation": "",
-      "Comment": "Direct compound. Terrifying undead dragon of pure bone."
+      "Translation": "Костяной Дракон",
+      "Comment": "Костяной (bone/osseous) + Дракон (dragon). Direct compound. Terrifying undead dragon of pure bone and malice."
     },
     {
       "Key": "Wight Lord",
-      "Translation": "",
-      "Comment": "Gruft = crypt, Herr = lord. Ancient undead noble commanding the armies."
+      "Translation": "Властелин-Привидение",
+      "Comment": "Властелин (lord/master) + Привидение (wight/spectre). Ancient undead noble commanding the armies of the dead. Hyphenated for mythic weight."
     },
     {
       "Key": "Vampire Knight",
-      "Translation": "",
-      "Comment": "Vampir = vampire. Undead knight with vampiric powers."
+      "Translation": "Рыцарь-Вампир",
+      "Comment": "Рыцарь (knight) + Вампир (vampire). Hyphenated compound. Undead knight blessed with vampiric powers and immortal hunger."
     },
     {
       "Key": "Necromancer",
-      "Translation": "",
-      "Comment": "Standard German term for necromancer. Master of death magic."
+      "Translation": "Некромант",
+      "Comment": "Некромант (necromancer) - direct loanword used in Russian fantasy literature. Master of death magic commanding undead legions."
     }
   ]
 }

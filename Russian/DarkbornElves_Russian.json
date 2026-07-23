@@ -3,88 +3,88 @@
   "Translations": [
     {
       "Key": "Darkborn Elves",
-      "Translation": "",
-      "Comment": "Dunkelgeboren = darkborn. Dark elves with a sinister edge."
+      "Translation": "Темнорождённые эльфы",
+      "Comment": "Dunkelgeboren = darkborn. Dark elves with a sinister edge. Темнорождённые emphasizes the ominous, cursed origin of these dark elves."
     },
     {
       "Key": "Darkborn Spears",
-      "Translation": "",
-      "Comment": "Spear-wielding dark elf infantry."
+      "Translation": "Темнорождённые копейщики",
+      "Comment": "Spear-wielding dark elf infantry. Копейщики = spearmen/spear-wielders, common military terminology."
     },
     {
       "Key": "Darkborn Dreadguard",
-      "Translation": "",
-      "Comment": "Schrecken = dread. Elite heavy infantry radiating fear."
+      "Translation": "Страж ужаса",
+      "Comment": "Schrecken = dread. Elite heavy infantry radiating fear. Страж ужаса conveys both protection/guard and the terrifying nature of these elite warriors."
     },
     {
       "Key": "Darkborn Witches",
-      "Translation": "",
-      "Comment": "Hexen = witches. Dark magic users of the dark elves."
+      "Translation": "Темнорождённые ведьмы",
+      "Comment": "Hexen = witches. Dark magic users of the dark elves. Ведьмы = witches, emphasizing dark arcane power."
     },
     {
       "Key": "Darkborn Crossbows",
-      "Translation": "",
-      "Comment": "Crossbow-wielding dark elves. Deadly ranged troops."
+      "Translation": "Темнорождённые арбалетчики",
+      "Comment": "Crossbow-wielding dark elves. Deadly ranged troops. Арбалетчики = crossbowmen, precise ranged specialists."
     },
     {
       "Key": "Darkborn Shadows",
-      "Translation": "",
-      "Comment": "Schatten = shadows. Stealthy infiltrators and assassins."
+      "Translation": "Тени смерти",
+      "Comment": "Schatten = shadows. Stealthy infiltrators and assassins. Тени смерти (Shadows of Death) emphasizes both stealth and lethal intent."
     },
     {
       "Key": "Darkborn Boltthrower",
-      "Translation": "",
-      "Comment": "Heavy artillery. Consistent with other bolt thrower translations."
+      "Translation": "Болтомёт",
+      "Comment": "Heavy artillery. Consistent with other bolt thrower translations. Болтомёт = bolt thrower, standard fantasy artillery terminology."
     },
     {
       "Key": "Raptor Knights",
-      "Translation": "",
-      "Comment": "Knights riding vicious raptors. Fast and deadly cavalry."
+      "Translation": "Рыцари рапторов",
+      "Comment": "Knights riding vicious raptors. Fast and deadly cavalry. Рыцари рапторов emphasizes the mounted warrior aspect and their exotic mounts."
     },
     {
       "Key": "Darkborn Riders",
-      "Translation": "",
-      "Comment": "Dark elf cavalry on dark steeds."
+      "Translation": "Темнорождённые всадники",
+      "Comment": "Dark elf cavalry on dark steeds. Всадники = riders/cavalry, denoting mounted warriors."
     },
     {
       "Key": "Darkborn Chariot",
-      "Translation": "",
-      "Comment": "Dark elf chariot. Swift and cruel."
+      "Translation": "Темнорождённая колесница",
+      "Comment": "Dark elf chariot. Swift and cruel. Колесница = chariot, a classic fantasy wargame war machine."
     },
     {
       "Key": "Hydra",
-      "Translation": "",
-      "Comment": "Standard German term for hydra. Multi-headed monster."
+      "Translation": "Гидра",
+      "Comment": "Standard German term for hydra. Multi-headed monster. Гидра is the universal Russian term for this mythical creature."
     },
     {
       "Key": "Harpies",
-      "Translation": "",
-      "Comment": "Harpyien = harpies. Flying monsters in service of dark elves."
+      "Translation": "Гарпии",
+      "Comment": "Harpyien = harpies. Flying monsters in service of dark elves. Гарпии is the standard Russian term for these mythical flying creatures."
     },
     {
       "Key": "Black Dragon",
-      "Translation": "",
-      "Comment": "Direct translation. Fearsome black dragon."
+      "Translation": "Чёрный дракон",
+      "Comment": "Direct translation. Fearsome black dragon. Чёрный дракон emphasizes the sinister, dark nature of this mighty beast."
     },
     {
       "Key": "Dark Pegasus",
-      "Translation": "",
-      "Comment": "Corrupted pegasus. Flying mount for heroes."
+      "Translation": "Тёмный пегас",
+      "Comment": "Corrupted pegasus. Flying mount for heroes. Тёмный пегас conveys corruption of the noble pegasus, fitting the dark elf aesthetic."
     },
     {
       "Key": "Darkborn Noble",
-      "Translation": "",
-      "Comment": "Noble dark elf leader. Cruel and cunning."
+      "Translation": "Темнорождённый дворянин",
+      "Comment": "Noble dark elf leader. Cruel and cunning. Дворянин = noble/nobleman, denoting aristocratic leadership and authority."
     },
     {
       "Key": "Darkborn Priestess",
-      "Translation": "",
-      "Comment": "Priesterin = priestess. Female dark magic user and leader."
+      "Translation": "Темнорождённая жрица",
+      "Comment": "Priesterin = priestess. Female dark magic user and leader. Жрица = priestess, emphasizing religious/magical authority and feminine power."
     },
     {
       "Key": "Darkborn Assassin",
-      "Translation": "",
-      "Comment": "Master of stealth and murder. Deadly hero unit."
+      "Translation": "Темнорождённый убийца",
+      "Comment": "Master of stealth and murder. Deadly hero unit. Убийца = assassin/killer, reflecting the lethal expertise and sinister nature of this hero."
     }
   ]
 }

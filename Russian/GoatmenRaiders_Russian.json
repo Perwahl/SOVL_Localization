@@ -3,78 +3,78 @@
   "Translations": [
     {
       "Key": "Goatmen Raiders",
-      "Translation": "",
-      "Comment": "Ziegenmenschen = goatmen (beast-men with goat features). Plünderer = raiders."
+      "Translation": "Козлолюдские Мародёры",
+      "Comment": "Козлолюдские = goat-human beast-men. Мародёры = raiders/plunderers. The primary faction unit type."
     },
     {
       "Key": "Ibex Warriors",
-      "Translation": "",
-      "Comment": "Steinbock = ibex (mountain goat). Fierce warriors."
+      "Translation": "Воины Горных Козлов",
+      "Comment": "Ибекс (горный козёл) - более яростные воины. Used 'горных козлов' for mountain goats, fitting the elite warrior archetype."
     },
     {
       "Key": "Goatmen Warriors",
-      "Translation": "",
-      "Comment": "Standard goat-men warriors. Savage and brutal."
+      "Translation": "Козлолюдские Воины",
+      "Comment": "Standard goat-men warriors with savage brutality. Matches the core faction aesthetic."
     },
     {
       "Key": "Mongrel Pack",
-      "Translation": "",
-      "Comment": "Mischling = mongrel/mixed breed. Horde = pack. Chaotic mass of lesser beast-men."
+      "Translation": "Стая Ублюдков",
+      "Comment": "Ублюдок = mongrel/half-breed. Стая = pack/horde. Conveys chaotic lesser beast-men as a mass unit."
     },
     {
       "Key": "Mongrel Spear",
-      "Translation": "",
-      "Comment": "Mongrel troops armed with spears."
+      "Translation": "Ублюдки с Копьями",
+      "Comment": "Mongrel troops armed with spears for melee combat."
     },
     {
       "Key": "Raiding Chariot",
-      "Translation": "",
-      "Comment": "Plünder- prefix = raiding. Fast attack chariot."
+      "Translation": "Боевая Колесница Мародёров",
+      "Comment": "Мародёров = raiding. Colourful, mobile assault unit fitting the faction's raiding nature."
     },
     {
       "Key": "Feral Hounds",
-      "Translation": "",
-      "Comment": "Wilde = feral/wild. Jagdhunde = hunting hounds. Savage war beasts."
+      "Translation": "Дикие Боевые Псы",
+      "Comment": "Дикие = feral/wild. Боевые = war. Psы = hounds. Savage war beasts allied with the faction."
     },
     {
       "Key": "Mongrel Skirmishers",
-      "Translation": "",
-      "Comment": "Plänkler = skirmishers. Light troops for harassment."
+      "Translation": "Ублюдки-Стрелки",
+      "Comment": "Стрелки = skirmishers/archers. Light, mobile harassment troops."
     },
     {
       "Key": "Centaurs",
-      "Translation": "",
-      "Comment": "Standard German for centaurs. Half-man, half-horse."
+      "Translation": "Кентавры",
+      "Comment": "Standard Russian term. Half-man, half-horse mythological creatures allied with the goatmen."
     },
     {
       "Key": "Minotaurs",
-      "Translation": "",
-      "Comment": "Standard German for minotaurs. Bull-headed warriors."
+      "Translation": "Минотавры",
+      "Comment": "Standard Russian term. Bull-headed warriors of immense power."
     },
     {
       "Key": "Harpies",
-      "Translation": "",
-      "Comment": "Flying monsters allied with the beast-men."
+      "Translation": "Гарпии",
+      "Comment": "Standard Russian term. Flying monster servants of the beast-men faction."
     },
     {
       "Key": "Feral Giant",
-      "Translation": "",
-      "Comment": "Wilder = feral/wild. Untamed giant serving the beast-men."
+      "Translation": "Дикий Великан",
+      "Comment": "Дикий = feral/wild. Великан = giant. Untamed behemoth serving the beast-men forces."
     },
     {
       "Key": "Goatman Shaman",
-      "Translation": "",
-      "Comment": "Tribal magic user. Dark rituals and curses."
+      "Translation": "Козлолюдский Шаман",
+      "Comment": "Tribal magic user wielding dark rituals and curses. Fills a spellcaster role in the army."
     },
     {
       "Key": "Goatman Longhorn",
-      "Translation": "",
-      "Comment": "Langhorn = longhorn. Elite warrior with impressive horns."
+      "Translation": "Козлолюдский Длиннорог",
+      "Comment": "Длиннорог = longhorn. Elite warrior with distinctive impressive horns, marking him as a superior commander."
     },
     {
       "Key": "Minotaur Lord",
-      "Translation": "",
-      "Comment": "Mighty minotaur leader. Powerful hero."
+      "Translation": "Повелитель Минотавров",
+      "Comment": "Mighty minotaur leader and powerful hero unit. Conveys authority and strength befitting a faction champion."
     }
   ]
 }

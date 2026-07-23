@@ -3,88 +3,88 @@
   "Translations": [
     {
       "Key": "Elven Conclaves",
-      "Translation": "",
-      "Comment": "Konklave conveys the organized, council-like nature of Elven society. Singular form is more elegant in German."
+      "Translation": "Эльфийские Соборы",
+      "Comment": "Соборы (Sobory - Cathedrals/Councils) conveys the organized, council-like nature of Elven society. Maintains dignity and fantasy tone."
     },
     {
       "Key": "Elf Spears",
-      "Translation": "",
-      "Comment": "Speerkämpfer = spear fighters. More specific than just 'spears' and fits military unit naming."
+      "Translation": "Эльфийские Копьеносцы",
+      "Comment": "Копьеносцы (Spear-bearers) is more specific than just 'копья' (spears) and fits military unit naming conventions."
     },
     {
       "Key": "Elf City Guard",
-      "Translation": "",
-      "Comment": "Stadtwache is city guard, compound word maintains the defensive role."
+      "Translation": "Эльфийская Городская Стража",
+      "Comment": "Городская Стража (City Guard) is a compound construction that maintains the defensive role and military formality."
     },
     {
       "Key": "Weapon Masters",
-      "Translation": "",
-      "Comment": "Direct translation. Conveys elite skill and mastery, fitting for Elven warriors."
+      "Translation": "Мастера Оружия",
+      "Comment": "Direct translation conveying elite skill and mastery, fitting for Elven warriors in a wargame setting."
     },
     {
       "Key": "Elf Archers",
-      "Translation": "",
-      "Comment": "Bogenschützen = archers. Elves are famous for their archery, this captures that."
+      "Translation": "Эльфийские Лучники",
+      "Comment": "Лучники (Archers) is the standard term. Elves are famous for their archery; this captures that heritage perfectly."
     },
     {
       "Key": "Elf Watchers",
-      "Translation": "",
-      "Comment": "Wächter = watchers/guardians. Implies vigilance and protection."
+      "Translation": "Эльфийские Дозорные",
+      "Comment": "Дозорные (Sentries/Watchers) implies vigilance and protective duty, fitting for their role."
     },
     {
       "Key": "Elf Bolt Thrower",
-      "Translation": "",
-      "Comment": "Consistent with other bolt thrower translations. Hyphen for clarity."
+      "Translation": "Эльфийский Баллист",
+      "Comment": "Баллист (Ballista operator) is consistent with siege weapon terminology in fantasy wargames."
     },
     {
       "Key": "Elf Lancers",
-      "Translation": "",
-      "Comment": "Lanzenreiter = lance riders/cavalry. Elegant compound for mounted troops."
+      "Translation": "Эльфийские Копьеносцы на Конях",
+      "Comment": "Копьеносцы на Конях (Lance riders/cavalry) elegantly conveys mounted cavalry troops with martial elegance."
     },
     {
       "Key": "Elf Reavers",
-      "Translation": "",
-      "Comment": "Plünderer = reavers/raiders. Fast cavalry that strikes and withdraws."
+      "Translation": "Эльфийские Рейдеры",
+      "Comment": "Рейдеры (Raiders) captures the swift cavalry that strikes and withdraws. Conveys aggressive mobility."
     },
     {
       "Key": "Elf Chariot",
-      "Translation": "",
-      "Comment": "Streitwagen = chariot. Classic military vehicle terminology."
+      "Translation": "Эльфийская Боевая Колесница",
+      "Comment": "Боевая Колесница (War Chariot) is classic military vehicle terminology appropriate for fantasy wargames."
     },
     {
       "Key": "Giant Eagle",
-      "Translation": "",
-      "Comment": "Direct translation. Majestic creature fitting for Elven forces."
+      "Translation": "Огромный Орёл",
+      "Comment": "Огромный Орёл (Giant Eagle) is direct translation. Majestic creature fitting for Elven air forces."
     },
     {
       "Key": "Dragon Knights",
-      "Translation": "",
-      "Comment": "Elite dragon-riding warriors. Compound conveys both mount and rider."
+      "Translation": "Драконьи Рыцари",
+      "Comment": "Драконьи Рыцари (Dragon Knights) conveys elite dragon-riding warriors; the compound form captures both mount and rider nobility."
     },
     {
       "Key": "Ancient Dragon",
-      "Translation": "",
-      "Comment": "Uralter emphasizes ancient age and power. More evocative than 'alter'."
+      "Translation": "Древний Дракон",
+      "Comment": "Древний (Ancient) emphasizes age and power. Conveys the wisdom and majesty befitting elder dragons."
     },
     {
       "Key": "Gryphon",
-      "Translation": "",
-      "Comment": "Standard German term for gryphon/griffin. Mythological creature."
+      "Translation": "Грифон",
+      "Comment": "Грифон is the standard Russian term for gryphon/griffin. Mythological creature appropriate for Elven forces."
     },
     {
       "Key": "Elf Noble",
-      "Translation": "",
-      "Comment": "Edelmann = nobleman. Traditional term for aristocratic leader."
+      "Translation": "Эльфийский Дворянин",
+      "Comment": "Дворянин (Nobleman) is a traditional term for aristocratic leaders fitting for Elven nobility."
     },
     {
       "Key": "Elf Mage",
-      "Translation": "",
-      "Comment": "Magier is the standard term for mage/wizard in German fantasy."
+      "Translation": "Эльфийский Маг",
+      "Comment": "Маг is the standard Russian term for mage/wizard in fantasy. Conveys magical expertise and mystical power."
     },
     {
       "Key": "Elf Spellsword",
-      "Translation": "",
-      "Comment": "Klingenschmied literally 'blade smith' but conveys the martial-magical hybrid warrior. Alternative: Zauberklinge (magic blade)."
+      "Translation": "Эльфийский Боевой Маг",
+      "Comment": "Боевой Маг (Battle Mage) conveys the martial-magical hybrid warrior. Alternative: Чародей-Клинок (Sorcerer-Blade). Chosen form emphasizes both combat and magic equally."
     }
   ]
 }

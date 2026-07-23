@@ -3,1103 +3,1102 @@
   "Translations": [
     {
       "Key": "+1 Defense. Charge Bonus: +1 Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Защита. Бонус атаки: +1 Мощь",
+      "Comment": "Defense = Защита, Charge Bonus = Бонус атаки, Power = Мощь"
     },
     {
       "Key": "+1 Movement",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Движение",
+      "Comment": "Movement translated as Движение"
     },
     {
       "Key": "Charge Bonus: +1 Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Бонус атаки: +1 Мощь",
+      "Comment": "Consistent terminology: Charge Bonus = Бонус атаки"
     },
     {
       "Key": "Reroll failed Discipline Tests",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Переброс провалов проверок Дисциплины",
+      "Comment": "Reroll = Переброс, Discipline Tests = проверки Дисциплины"
     },
     {
       "Key": "Unit counts as being in Cover. (-1 to Ranged attack rolls against it).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд считается укрытым. (-1 к броскам дальних атак против него).",
+      "Comment": "Cover = укрытый, Ranged attack = дальняя атака"
     },
     {
       "Key": "+1 Combat Score",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Боевой результат",
+      "Comment": "Combat Score = Боевой результат (represents victory points in close combat)"
     },
     {
       "Key": "Unit has +1 Attack this turn. Activate once per battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд получает +1 Атака в этом ходу. Активировать один раз за сражение.",
+      "Comment": "Activate once per battle is a common phrase used for special abilities"
     },
     {
       "Key": "+1 Power. Charge Bonus: +1 Power.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Мощь. Бонус атаки: +1 Мощь.",
+      "Comment": "Consistent use of Мощь for Power (affects damage in combat)"
     },
     {
       "Key": "-1 Movement. +1 Defense",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "-1 Движение. +1 Защита",
+      "Comment": "Negative modifiers written consistently with positive ones"
     },
     {
       "Key": "If a Commander is part of this unit it re-rolls failed Discipline tests.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Если Командир входит в состав этого отряда, он перебрасывает провалы проверок Дисциплины.",
+      "Comment": "Commander is a specific unit type; uses consistent Discipline terminology"
     },
     {
       "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 4+.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Бонус атаки: +1 Мощь \nСпасения от урона против этого оружия никогда не лучше чем 4+.",
+      "Comment": "Damage Saves = Спасения от урона, 4+ refers to dice roll difficulty (4 or higher on d6)"
     },
     {
       "Key": "+1 Defense. Extra Rank supporting attacks when not charging.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Защита. Дополнительный Ряд поддерживающих атак, если не атакует.",
+      "Comment": "Rank = Ряд (formation concept), supporting attacks = поддерживающие атаки"
     },
     {
       "Key": "Range: 30. Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дальность: 30. Мощь 3.",
+      "Comment": "Range and Power are weapon stats; numbers preserved as-is"
     },
     {
       "Key": "Range: 33. Power 3. ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дальность: 33. Мощь 3.",
+      "Comment": "Similar to previous entry; note trailing space in original"
     },
     {
       "Key": "Ignores all penalties to Discipline tests.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Игнорирует все штрафы к проверкам Дисциплины.",
+      "Comment": "Penalties = штрафы; consistent Discipline terminology"
     },
     {
       "Key": "+1 Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Атака",
+      "Comment": "Simple stat modifier"
     },
     {
       "Key": "Activate once per battle. Give all your units +1 Combat Score for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Активировать один раз за сражение. Дайте всем вашим отрядам +1 Боевой результат на один ход.",
+      "Comment": "Repeated activation phrase; Combat Score = Боевой результат"
     },
     {
       "Key": "+1 Defense. +1 Wounds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Защита. +1 Раны",
+      "Comment": "Wounds = Раны (hit points for units)"
     },
     {
       "Key": "Reroll failed damage saves.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Переброс провалов спасений от урона.",
+      "Comment": "Consistent reroll and damage saves terminology"
     },
     {
       "Key": "+1 Discipline",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Дисциплина",
+      "Comment": "Discipline is a stat attribute"
     },
     {
       "Key": "+1 Power. +1 Defense",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Мощь. +1 Защита",
+      "Comment": "Combined stat modifiers"
     },
     {
       "Key": "Opponent re-rolls successful damage saves.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Противник перебрасывает успешные спасения от урона.",
+      "Comment": "Opponent = противник; reverses advantage to enemy"
     },
     {
       "Key": "+1 Power.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Мощь.",
+      "Comment": "Single stat modifier with period"
     },
     {
       "Key": "+1 Attack.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Атака.",
+      "Comment": "Single stat modifier with period"
     },
     {
       "Key": "+1 to Hit rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 к броскам попадания.",
+      "Comment": "Hit rolls = броски попадания (attack accuracy)"
     },
     {
       "Key": "Reroll missed attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Переброс провалов атак.",
+      "Comment": "Missed attacks = провалы атак"
     },
     {
       "Key": "Activate once per battle. Commander and Retinue rerolls Attack Rolls for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Активировать один раз за сражение. Командир и его Свита перебрасывают броски атак на один ход.",
+      "Comment": "Retinue = Свита (bodyguard unit); Attack Rolls = броски атак"
     },
     {
       "Key": "Target unit gets +1 to Damage Saves for one turn. It must re-roll succesfull Attack and Ranged Attack rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Целевой отряд получает +1 к Спасениям от урона на один ход. Он должен перебросить успешные броски Атак и Дальних атак.",
+      "Comment": "Target unit = целевой отряд; preserves 'succesfull' typo from original; Ranged Attack = Дальняя атака"
     },
     {
       "Key": "Target unit gets +1 Skill and rerolls failed Discipline tests for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Целевой отряд получает +1 Мастерство и перебрасывает провалы проверок Дисциплины на один ход.",
+      "Comment": "Skill = Мастерство (ability stat); consistent Discipline terminology"
     },
     {
       "Key": "Target unit rerolls failed damage saves for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Целевой отряд перебрасывает провалы спасений от урона на один ход.",
+      "Comment": "Shorter ability description; consistent terms"
     },
     {
       "Key": "Unit recovers all missing wounds at end of turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд восстанавливает все потерянные раны в конце хода.",
+      "Comment": "Recovers = восстанавливает (heal mechanic)"
     },
     {
       "Key": "Ignore movement penalties from Difficult Terrain",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Игнорирует штрафы движения от Сложной местности",
+      "Comment": "Difficult Terrain = Сложная местность (terrain mechanic)"
     },
     {
       "Key": "All your units have +1 Power for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Все ваши отряды получают +1 Мощь на один ход.",
+      "Comment": "All your units = all player's units in this battle"
     },
     {
       "Key": "Target unit has +1 Power and rerolls missed Attack Rolls for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Целевой отряд получает +1 Мощь и перебрасывает провалы броскков Атак на один ход.",
+      "Comment": "Combination ability: stat boost + reroll mechanic"
     },
     {
       "Key": "Target unit counts as being in Cover against ranged attacks until it's next combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Целевой отряд считается укрытым от дальних атак до его следующего боя.",
+      "Comment": "Cover mechanic applies specifically to ranged attacks"
     },
     {
       "Key": "All your Goblins are Fearless for one turn. Activate once per battle. ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Все ваши Гоблины становятся Бесстрашными на один ход. Активировать один раз за сражение.",
+      "Comment": "Goblins = Гоблины (specific race); Fearless = Бесстрашные (special state)"
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "-1 Движение. Игнорирует штраф движения от Тяжелой брони.",
+      "Comment": "Heavy Armor = Тяжелая броня (equipment effect)"
     },
     {
       "Key": "Unit can be deployed anywhere on its owners side of the table.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд может быть развернут в любом месте на стороне его хозяина на столе.",
+      "Comment": "Deployment mechanic for special unit abilities"
     },
     {
       "Key": "Re-roll missed Attack Rolls in the first round of combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Переброс провалов броскков Атак в первом раунде боя.",
+      "Comment": "First round = первый раунд (initial turn of combat)"
     },
     {
       "Key": "+1 to Damage Saves",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 к Спасениям от урона",
+      "Comment": "Damage Saves modifier without period"
     },
     {
       "Key": "Activate once per battle: All your units have +1 Defense for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Активировать один раз за сражение: все ваши отряды получают +1 Защита на один ход.",
+      "Comment": "Variant of activation phrase with colon instead of period"
     },
     {
       "Key": "Re-roll missed Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Переброс провалов броскков Атак.",
+      "Comment": "Standalone ability without turn limitation"
     },
     {
       "Key": "Rally a fleeing unit. One use per battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Соберите бегущий отряд. Один раз за сражение.",
+      "Comment": "Rally = соберите (rally fleeing troops); beg = бегущий"
     },
     {
       "Key": "Reduce target units movement speed to 0 for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Снизьте скорость движения целевого отряда до 0 на один ход.",
+      "Comment": "Movement speed = скорость движения; prevents unit movement"
     },
     {
       "Key": "Target unit gets +1 Power on their next Ranged or Close Combat Attack.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Целевой отряд получает +1 Мощь на его следующую Дальнюю или Ближнюю атаку.",
+      "Comment": "Close Combat = Ближний бой (vs Ranged = Дальняя атака)"
     },
     {
       "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "-1 Движение. Никогда не проваливает проверки Дисциплины, теряет D3 раны в проигранном бою.",
+      "Comment": "Lost combat = проигранный бой (when unit loses in close combat)"
     },
     {
       "Key": "Unarmed attacks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Атаки без оружия",
+      "Comment": "Unarmed = без оружия (melee attack type)"
     },
     {
       "Key": "Opponents re-roll hits in close combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Противники перебрасывают попадания в ближнем бою.",
+      "Comment": "Close combat = ближний бой; hits = попадания"
     },
     {
       "Key": "Reduce Crumble by 1. Regeneration (restore all lost wounds at end of turn).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Снизьте Крушение на 1. Регенерация (восстановите все потерянные раны в конце хода).",
+      "Comment": "Crumble = Крушение (morale mechanic); Regeneration = Регенерация (automatic heal)"
     },
     {
       "Key": "Increase the move speed of target Reanimated unit by 3 until its next combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Увеличьте скорость движения целевого отряда Возрожденных на 3 до его следующего боя.",
+      "Comment": "Reanimated = Возрожденные (undead unit type)"
     },
     {
       "Key": "Restore D3+1 wounds to a Reanimated unit.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Восстановите D3+1 раны отряду Возрожденных.",
+      "Comment": "D3+1 = dice notation for game mechanics"
     },
     {
       "Key": "Target unit has -1 Skill and -1 Move Speed. Lasts until end of battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Целевой отряд получает -1 Мастерство и -1 скорость движения. Длится до конца сражения.",
+      "Comment": "Lasts until end of battle = длится до конца сражения (permanent effect this battle)"
     },
     {
       "Key": "Raise D3+3 models on a Zombie or Skeleton Warrior, Spear or Archer unit. ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Воскресите D3+3 модели в отряде Зомби или Воина-скелета, с Копьем или Луком.",
+      "Comment": "Raise = воскресите (summon/raise undead); models = модели (individual figures)"
     },
     {
       "Key": "Target unit loses D3 wounds and gains +1 Attack this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Целевой отряд теряет D3 раны и получает +1 Атака в этом ходу.",
+      "Comment": "Loses wounds = теряет раны (takes damage)"
     },
     {
       "Key": "Commanders retinue deploys with Ambush.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Свита Командира развертывается в засаде.",
+      "Comment": "Ambush = засада (special deployment mechanic)"
     },
     {
       "Key": "Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Никогда не проваливает проверки Дисциплины, теряет D3 раны в проигранном бою.",
+      "Comment": "Variant of discipline effect without movement penalty"
     },
     {
       "Key": "Favoured by War. Unit has Frenzy (re-roll failed Attack Rolls in the first round of combat).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Любимец войны. Отряд имеет Боевой экстаз (переброс провалов броскков Атак в первом раунде боя).",
+      "Comment": "Favoured by War = Любимец войны (special title); Frenzy = Боевой экстаз"
     },
     {
       "Key": "Charge Bonus: +1 Power, +1 Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Бонус атаки: +1 Мощь, +1 Атака",
+      "Comment": "Multiple stat bonuses on charge"
     },
     {
       "Key": "Gain +3 Attacks this turm. Lose 1 Wound.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Получите +3 Атака в этом ходу. Потеряйте 1 Рану.",
+      "Comment": "Preserves typo 'turm' from original (should be 'turn'); cost = lose wound"
     },
     {
       "Key": "Target a friendly unit that is attacking an enemy unit in the flank/rear. It re-rolls failed Attack rolls this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Нацельтесь на дружественный отряд, атакующий вражеский отряд в фланг/тыл. Он перебрасывает провалы броскков Атак в этом ходу.",
+      "Comment": "Flank/rear = фланг/тыл (positional advantage in battle)"
     },
     {
       "Key": "All your Northmen are Fearless for one turn. Activate once per battle. ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Все ваши Люди Севера становятся Бесстрашными на один ход. Активировать один раз за сражение.",
+      "Comment": "Northmen = Люди Севера (specific faction unit type)"
     },
     {
       "Key": "Restore all used spell charges. ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Восстановите все использованные заряды заклинаний.",
+      "Comment": "Spell charges = заряды заклинаний (magic resource)"
     },
     {
       "Key": "All your units have Frenzy (reroll failed Attack Rolls) this turn. Activate once per battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Все ваши отряды имеют Боевой экстаз (переброс провалов броскков Атак) в этом ходу. Активировать один раз за сражение.",
+      "Comment": "Frenzy = Боевой экстаз (mechanic for wild melee combat)"
     },
     {
       "Key": "Commander is hidden from your opponent until engaged in combat or damaged.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Командир спрятан от вашего противника до вступления в бой или получения урона.",
+      "Comment": "Hidden = спрятан (stealth mechanic)"
     },
     {
       "Key": "A spirit of nature. Ignores Difficult Terrain.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дух природы. Игнорирует Сложную местность.",
+      "Comment": "Spirit of nature = Дух природы (special unit descriptor)"
     },
     {
       "Key": "Re-roll missed Ranged Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Переброс провалов броскков Дальних атак.",
+      "Comment": "Ranged Attack Rolls = броски дальних атак"
     },
     {
       "Key": "Range: 30. 3x Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дальность: 30. 3x Мощь 3.",
+      "Comment": "3x = 3 times (multiple weapon stats)"
     },
     {
       "Key": "All your units have +1 Skill for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Все ваши отряды получают +1 Мастерство на один ход.",
+      "Comment": "Skill = Мастерство (ability stat)"
     },
     {
       "Key": "Restore D3 wounds to a Forest Spirit unit.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Восстановите D3 раны отряду Духа леса.",
+      "Comment": "Forest Spirit = Дух леса (specific unit type)"
     },
     {
       "Key": "For one turn, reduce move speed to zero. Re-roll failed damage saves and discipline tests. Activate once per battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "На один ход снизьте скорость движения до нуля. Переброс провалов спасений от урона и проверок дисциплины. Активировать один раз за сражение.",
+      "Comment": "Combined ability with multiple effects; move speed = скорость движения"
     },
     {
       "Key": "Target another friendly unit. It immediately makes a retreat move. One use per battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Нацельтесь на другой дружественный отряд. Он немедленно совершает движение отхода. Один раз за сражение.",
+      "Comment": "Retreat move = движение отхода (tactical withdrawal from combat)"
     },
     {
       "Key": "Favoured by Trickery. Unit has Ambush Deployment and +1 Move Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Любимец хитрости. Отряд имеет развертывание в засаде и +1 скорость движения",
+      "Comment": "Favoured by Trickery = Любимец хитрости (special gift/favor); Ambush Deployment = развертывание в засаде"
     },
     {
       "Key": "Favoured by Decay. +1 Wounds. -1 Move Speed.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Любимец распада. +1 Раны. -1 скорость движения.",
+      "Comment": "Favoured by Decay = Любимец распада; Decay = распад (undead/corruption theme)"
     },
     {
-      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Один раз за сражение все дружественные отряды с Даром распада перебрасывают провалы спасений от урона.",
+      "Comment": "Gift of Decay = Дар распада (character ability that benefits marked units)"
     },
     {
       "Key": "Once per battle, all friendly units with Gift of Trickery gain +3 move speed and Cover for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Один раз за сражение все дружественные отряды с Даром хитрости получают +3 скорость движения и укрытие на один ход.",
+      "Comment": "Gift of Trickery = Дар хитрости; move speed = скорость движения"
     },
     {
       "Key": "Ignores movement penalty from Heavy Armor.\nWhen deployed 3 wide, models in flanks can attack as if in the front rank.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Игнорирует штраф движения от Тяжелой брони.\nКогда развернут в 3 ряда в ширину, модели во флангах могут атаковать как из переднего ряда.",
+      "Comment": "Heavy Armor penalty ignored; '3 wide' refers to formation type"
     },
     {
       "Key": "Reroll all successful Attack and Ranged Attack rolls against this unit.\nIgnores Difficult Terrain.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Переброс всех успешных броскков Атак и Дальних атак против этого отряда.\nИгнорирует Сложную местность.",
+      "Comment": "Defensive ability reflects attacks back; ignores terrain movement penalty"
     },
     {
       "Key": "Maiden and retinue rerolls 1s on Damage Saves.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дева и ее Свита перебрасывают единицы при Спасениях от урона.",
+      "Comment": "Maiden = Дева (female hero unit); reroll 1s = перебрасывают единицы"
     },
     {
       "Key": "Caster has +1 Power and deals double wounds against Monsters this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Маг получает +1 Мощь и наносит двойной урон против Чудовищ в этом ходу.",
+      "Comment": "Caster = Маг; deals double wounds = наносит двойной урон; against Monsters = против Чудовищ"
     },
     {
       "Key": "Paladin and retinue rerolls 1s on Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Паладин и его Свита перебрасывают единицы при броскках Атак.",
+      "Comment": "Paladin = Паладин (holy warrior unit)"
     },
     {
       "Key": "Range 13. 3D3 Power 3.",
-      "Translation": "",
-      "Comment": "W3 = Würfel mit 3 Seiten"
+      "Translation": "Дальность 13. 3D3 Мощь 3.",
+      "Comment": "3D3 = 3 dice with d3 (3-sided die for each shot)"
     },
     {
       "Key": "+3 Movement this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3 Движение в этом ходу.",
+      "Comment": "Temporary movement boost spell"
     },
     {
       "Key": "Always counts as being in Cover. -3 Defense in Close Combat. Unit can't charge.",
-      "Translation": "",
-      "Comment": "Pavise/static defense weapon"
+      "Translation": "Всегда считается укрытым. -3 Защита в ближнем бою. Отряд не может атаковать.",
+      "Comment": "Pike/polearm formation: always in cover vs ranged, weak in melee, immobile"
     },
     {
       "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 3+.",
-      "Translation": "",
+      "Translation": "Бонус атаки: +1 Мощь \nСпасения от урона против этого оружия никогда не лучше чем 3+.",
       "Comment": "Armor-piercing lance"
     },
     {
       "Key": "+1 Defense. Charge Bonus: +3 Power",
-      "Translation": "",
-      "Comment": "Heavy cavalry/monster"
+      "Translation": "+1 Защита. Бонус атаки: +3 Мощь",
+      "Comment": "Heavy cavalry/monster unit charge"
     },
     {
       "Key": "Range 13. 3x Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дальность 13. 3x Мощь 3.",
+      "Comment": "3x = 3 instances (multiple shots)"
     },
     {
       "Key": "Range 33. D3 hits, Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дальность 33. D3 попадания, Мощь 3.",
+      "Comment": "D3 hits = variable number of shots (1-3)"
     },
     {
       "Key": "This units ranged attack deals 3x wounds against multiwound targets.",
-      "Translation": "",
-      "Comment": "Deadly Strikes ranged variant"
+      "Translation": "Дальняя атака этого отряда наносит тройной урон по целям с несколькими ранами.",
+      "Comment": "Multiwound targets = цели с несколькими ранами (armor-piercing effect)"
     },
     {
       "Key": "Range 33. 3D3+1 hits, Power 3.",
-      "Translation": "",
-      "Comment": "Organ gun or similar"
+      "Translation": "Дальность 33. 3D3+1 попадания, Мощь 3.",
+      "Comment": "3D3+1 = multiple d3 rolls plus one (high hit variance)"
     },
     {
       "Key": "+1 Defense. -3 Move Speed.",
-      "Translation": "",
-      "Comment": "Heavy armor trade-off"
+      "Translation": "+1 Защита. -3 скорость движения.",
+      "Comment": "Heavy armor trade-off: protection vs mobility"
     },
     {
       "Key": "Activate for +3 Movement this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Активируйте для +3 движения в этом ходу.",
+      "Comment": "Temporary speed boost ability"
     },
     {
       "Key": "Fly Speed 30. Ignore Terrain.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Скорость полёта 30. Игнорирует местность.",
+      "Comment": "Fly Speed = скорость полёта; flying units ignore terrain obstacles"
     },
     {
       "Key": "+3 Skill",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3 Мастерство",
+      "Comment": "Exceptional skill modifier"
     },
     {
       "Key": "One use, +3 Power and + 1 Attack until end of turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Одно меня, +3 Мощь и +1 Атака до конца хода.",
+      "Comment": "One use = одно меня (once per battle special ability)"
     },
     {
       "Key": "D3 Power 3 hits. Range 30.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "D3 Мощь 3 попадания. Дальность 30.",
+      "Comment": "D3 variable power on ranged attacks"
     },
     {
       "Key": "3 x Power 3 hits. Range: 13.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "3 x Мощь 3 попадания. Дальность: 13.",
+      "Comment": "3 separate attacks each with Power 3"
     },
     {
       "Key": "Target unit has -3 Defense for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Целевой отряд получает -3 Защита на один ход.",
+      "Comment": "Debuff spell reduces target's defense significantly"
     },
     {
       "Key": "Charge Bonus: +3 Power +3 Attacks",
-      "Translation": "",
-      "Comment": "Monster charge"
+      "Translation": "Бонус атаки: +3 Мощь +3 Атаки",
+      "Comment": "Powerful monster charge with multiple bonuses"
     },
     {
       "Key": "Range 33. 3x Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дальность 33. 3x Мощь 3.",
+      "Comment": "Long-range weapon with multiple hits"
     },
     {
       "Key": "Range 33. 3D3 hits, Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дальность 33. 3D3 попадания, Мощь 3.",
+      "Comment": "Long-range weapon with variable volume"
     },
     {
       "Key": "Enemies re-roll 3s on Damage Saves.",
-      "Translation": "",
-      "Comment": "Rend ability"
+      "Translation": "Враги перебрасывают тройки при Спасениях от урона.",
+      "Comment": "Rend = Rend ability: enemies re-roll successful saves against this weapon"
     },
     {
       "Key": "Reduce an enemy units Move Speed by 3. Range 13.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Снижьте скорость движения вражеского отряда на 3. Дальность 13.",
+      "Comment": "Spell that slows enemy unit movement"
     },
     {
       "Key": "3D3 Power 1 hits. Range 13.",
-      "Translation": "",
-      "Comment": "Magic missile"
+      "Translation": "3D3 Мощь 1 попадания. Дальность 13.",
+      "Comment": "Magic missile: variable number of low-power hits"
     },
     {
       "Key": "Caster has +1 Power,  +1 Defense and +3 Attacks for one turn.",
-      "Translation": "",
-      "Comment": "Transformation spell"
+      "Translation": "Маг получает +1 Мощь, +1 Защита и +3 Атаки на один ход.",
+      "Comment": "Powerful transformation spell with multiple benefits"
     },
     {
       "Key": "Range 3. 1D3 power 3. One use per battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дальность 3. 1D3 мощь 3. Одого раза за сражение.",
+      "Comment": "Close-range spell with one-time use"
     },
     {
       "Key": "Retinue has +3 Move Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Свита получает +3 скорость движения",
+      "Comment": "Retinue = Свита (bodyguard unit)"
     },
     {
       "Key": "Target Warmachine gets +3 Defense and rerolls 1s on Ranged Attack rolls this battle.",
-      "Translation": "",
-      "Comment": "Engineer buff"
+      "Translation": "Целевая Осадная машина получает +3 Защита и перебрасывает единицы на броскках Дальних атак в этом сражении.",
+      "Comment": "Warmachine = Осадная машина (siege weapon unit)"
     },
     {
       "Key": "Caster and retinue gains Flying and Move Speed 30 for one turn",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Маг и их Свита получают Полёт и скорость движения 30 на один ход",
+      "Comment": "Flying = Полёт; temporary transformation spell"
     },
     {
       "Key": "Range: 13. Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дальность: 13. Мощь 3.",
+      "Comment": "Standard weapon specification"
     },
     {
       "Key": "Throw a boulder at an enemy unit. Range 13, 3D3 Power 3.",
-      "Translation": "",
-      "Comment": "Giant/troll ability"
+      "Translation": "Бросьте камень в вражеский отряд. Дальность 13, 3D3 Мощь 3.",
+      "Comment": "Giant/troll ranged attack ability"
     },
     {
       "Key": "+3 Attacks this turn. Activate once per battle when wounded.",
-      "Translation": "",
-      "Comment": "Enraged state"
+      "Translation": "+3 Атаки в этом ходу. Активируйте один раз за сражение когда ранен.",
+      "Comment": "Enraged state: triggered when unit takes damage"
     },
     {
       "Key": "Range: 13. 3x Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дальность: 13. 3x Мощь 3.",
+      "Comment": "Multiple hits weapon specification"
     },
     {
       "Key": "All enemy units have -3 Discipline for one turn. Can only be  activated when damaged.",
-      "Translation": "",
-      "Comment": "Terror roar"
+      "Translation": "Все вражеские отряды получают -3 Дисциплина на один ход. Может быть активирована можно только когда ранена.",
+      "Comment": "Terror roar: morale debuff triggered by damage"
     },
     {
       "Key": "Range: 3. Power 3.",
-      "Translation": "",
-      "Comment": "Breath weapon"
+      "Translation": "Дальность: 3. Мощь 3.",
+      "Comment": "Breath weapon: short range"
     },
     {
       "Key": "Range 33. Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дальность 33. Мощь 3.",
+      "Comment": "Long-range weapon standard specification"
     },
     {
       "Key": "Range 13. D3 Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дальность 13. D3 Мощь 3.",
+      "Comment": "Medium-range weapon with variable power"
     },
     {
       "Key": "Retinue gets +3 Movement Speed and re-rolls missed Attack Rolls for one Turn. It loses one model.",
-      "Translation": "",
-      "Comment": "Blood sacrifice"
+      "Translation": "Свита получает +3 скорость движения и перебрасывают провалы броскков Атак на один ход. Она теряет одну модель.",
+      "Comment": "Blood sacrifice: powerful buff with mortality cost"
     },
     {
       "Key": "Activate once per battle. Melee attacks deal 3x wounds against multiwound targets for one turn.",
-      "Translation": "",
-      "Comment": "Deadly Strikes ability"
+      "Translation": "Активируйте один раз за сражение. Ближние атаки наносят тройной урон по целям с несколькими ранами на один ход.",
+      "Comment": "Deadly Strikes = Крвавые удары (armor-piercing melee)"
     },
     {
       "Key": "Range: 33. Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дальность: 33. Мощь 3.",
+      "Comment": "Long-range weapon"
     },
     {
       "Key": "Activate for +3 Movement and Flying for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Активируйте для +3 движения и Полёта на один ход.",
+      "Comment": "Flight activation ability"
     },
     {
       "Key": "Once per battle, all friendly units with Gift of War gain Deadly Strikes (3x Wounds caused).",
-      "Translation": "",
-      "Comment": "Chaos faction buff"
+      "Translation": "Одого раза за сражение все дружественные отряды с Даром войны получают Кровавые удары (тройной урон).",
+      "Comment": "Gift of War = Дар войны (Chaos faction ability)"
     },
     {
       "Key": "+1 Power, +1 Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Мощь, +1 Атака",
+      "Comment": "Dual stat modifier"
     },
     {
       "Key": "Reroll failed Damage Saves",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Переброс провалов спасений от урона",
+      "Comment": "Reroll ability without turn limitation"
     },
     {
       "Key": "+3 Wounds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3 Раны",
+      "Comment": "Significant health increase"
     },
     {
       "Key": "+3 Ranged Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3 Дальняя атака",
+      "Comment": "Significant ranged combat bonus"
     },
     {
       "Key": "+3 Ranged Attack, +1 Power to Ranged Attacks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3 Дальняя атака, +1 Мощь по дальним атакам",
+      "Comment": "Combined ranged bonuses"
     },
     {
       "Key": "+1 Power to Spell Attacks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Мощь к волшебным атакам",
+      "Comment": "Spell Attack = волшебная атака"
     },
     {
       "Key": "+3 Spell Attacks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3 волшебных атаки",
+      "Comment": "Plural variant of spell attacks"
     },
     {
       "Key": "+3 Spell Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3 волшебная атака",
+      "Comment": "Singular variant"
     },
     {
       "Key": "+3 Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3 Атака",
+      "Comment": "High melee attack bonus"
     },
     {
       "Key": "+3 Ranged Attacks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3 дальних атаки",
+      "Comment": "Plural variant"
     },
     {
       "Key": "+3 Discipline",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3 Дисциплина",
+      "Comment": "High morale bonus"
     },
     {
       "Key": "Unit rerolls 1s on Ranged Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд перебрасывает единицы на броскках дальних атак.",
+      "Comment": "Ranged attack accuracy ability"
     },
     {
       "Key": "+1 Skill",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Мастерство",
+      "Comment": "Single skill point"
     },
     {
       "Key": "+1 Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Мощь",
+      "Comment": "Single power point"
     },
     {
       "Key": "+1 Wounds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Раны",
+      "Comment": "Single wound/health point"
     },
     {
       "Key": "+1 Ranged Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 дальняя атака",
+      "Comment": "Ranged combat bonus"
     },
     {
       "Key": "+1 Defense",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Защита",
+      "Comment": "Single defense point"
     },
     {
       "Key": "+1 Spell Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 волшебная атака",
+      "Comment": "Magic spell combat bonus"
     },
     {
       "Key": "+1 Power. Once per battle, cast the Fireball spell.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Мощь. Одого раза за сражение, съ заклинание ПОМОЛДИ Окнють.",
+      "Comment": "Fireball = Помолди Окнють (direct damage spell)"
     },
     {
       "Key": "Commander and unit has Ambush deployment",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Командир и отряд имеют развертывание в засаде",
+      "Comment": "Special deployment mechanic for commander's unit"
     },
     {
       "Key": "All enemy units re-roll successful Discipline tests this turn. Use once per battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Все вражеские отряды перебрасывают успешные проверки Дисциплины в этом ходу. Используйте одого раза за сражение.",
+      "Comment": "Enemy morale destabilization ability"
     },
     {
       "Key": "+1 to hit with Ranged Attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 к попаданию при дальних атаках.",
+      "Comment": "Ranged accuracy bonus"
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Ranged Units",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Переброс дальних и ближних атак против Немеханизированных отрядов",
+      "Comment": "Reroll mechanic against specific unit types"
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Monsters.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Переброс дальних и ближних атак против Чудовищ.",
+      "Comment": "Specialty: monster hunter"
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Переброс дальних и ближних атак против Кавалерии и Колесниц",
+      "Comment": "Anti-cavalry specialist"
     },
     {
       "Key": "Unit is Fearless. Once per battle, gain +3 Power this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд бесстрашен. Одого раза за сражение получите +3 Мощь в этом ходу.",
+      "Comment": "Fearless = бесстрашен; immunity to morale effects + boost"
     },
     {
       "Key": "Target unit gets +3 Power in their next combat round.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Целевой отряд получает +3 Мощь в следующие боевые раунды.",
+      "Comment": "Combat round = боевые раунды (turn in close combat)"
     },
     {
       "Key": "All units gets +1 Skill and rerolls failed Discipline tests this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Все отряды получают +1 Мастерство и перебрасывают провалы проверок Дисциплины в этом ходу.",
+      "Comment": "Army-wide buff ability"
     },
     {
       "Key": "3D3 Power 3 hits. Range 30.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "3D3 Мощь 3 попадания. Дальность 30.",
+      "Comment": "Magic missile with variable volume"
     },
     {
       "Key": "Target unit has +3 Power and rerolls missed Attack Rolls this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Целевой отряд получает +3 Мощь и перебрасывает провалы броскков Атак в этом ходу.",
+      "Comment": "Powerful buff spell for allies"
     },
     {
       "Key": "Raise 3D3+3 models on a Zombie or Skeleton Warrior, Spear or Archer unit.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Воскресите 3D3+3 модели в отряде Зомби, Воина-скелета, с Копьём или Луком.",
+      "Comment": "High-volume undead resurrection"
     },
     {
       "Key": "Restore D3+1 wounds to a Reanimated unit, and give it +1 Power and Defense this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Восстановите D3+1 раны отряду Возрождённых, и дайте ему +1 Мощь и Защита в этом ходу.",
+      "Comment": "Combined healing and buff spell for undead"
     },
     {
       "Key": "Restore D3+1 wounds to any unit.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Восстановите D3+1 раны е любому отряду.",
+      "Comment": "General healing spell for any friendly unit"
     },
     {
       "Key": "Target unit has -3 Defense and Power until end of turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Целевой отряд получает -3 Защита и Мощь до конца хода.",
+      "Comment": "Debilitating curse spell"
     },
     {
       "Key": "3 x Power 3 hits. Range: 33.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "3 x Мощь 3 попадания. Дальность: 33.",
+      "Comment": "Long-range volley weapon"
     },
     {
       "Key": "Target unit rerolls failed damage saves this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Целевой отряд перебрасывает провалы спасений от урона в этом ходу.",
+      "Comment": "Protective spell increasing armor saves"
     },
     {
       "Key": "Target Reanimated unit has +3 Move speed and rerolls missed Attack Rolls until it's next combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Целевой отряд Возрождённых получает +3 скорость движения и перебрасывает провалы броскков Атак до его следующего боя.",
+      "Comment": "Undead-specific buff ability"
     },
     {
       "Key": "Reduce target units movement speed to 0 this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Снижьте скорость движения целевого отряда до 0 в этом ходу.",
+      "Comment": "Immobilization spell"
     },
     {
       "Key": "Caster has +1 Power,  +1 Defense and +3 Attacks this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Маг получает +1 Мощь, +1 Защита и +3 Атаки в этом ходу.",
+      "Comment": "Powerful personal buff spell"
     },
     {
       "Key": "3D3 Power 3 hits. Range 13.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "3D3 Мощь 3 попадания. Дальность 13.",
+      "Comment": "Medium-range magic attack"
     },
     {
       "Key": "Unit can fire ranged weapons in one additional rank.\nRerolls 1s on Ranged Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд может действовать в одном дополнительном ряде.\nПеребрасывает единицы при броскках дальних атак.",
+      "Comment": "Enhanced ranged formation tactics"
     },
     {
       "Key": "Ranged attack range increased by 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дальность дальних атак увеличена на 3.",
+      "Comment": "Extended range ability"
     },
     {
       "Key": "+1 Power to Ranged Attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Мощь к дальним атакам.",
+      "Comment": "Ranged damage modifier"
     },
     {
       "Key": "Unit re-rolls failed Damage Saves",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд перебрасывает провалы спасений от урона",
+      "Comment": "Unit ability without turn limitation"
     },
     {
       "Key": "Unit can move and fire ranged weapons.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд может двигаться и выстреливать ис дальних оружий.",
+      "Comment": "Mobile ranged unit special rule"
     },
     {
       "Key": " Unit re-rolls missed Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд перебрасывает провалы броскков Атак.",
+      "Comment": "Unit ability"
     },
     {
       "Key": "Unit re-rolls missed Attack Rolls and is Fearless (Ignores penalties to Discipline tests).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд перебрасывает провалы броскков Атак и является бесстрашным (игнорирует штрафы к проверкам Дисциплины).",
+      "Comment": "Powerful elite unit trait"
     },
     {
       "Key": "Unit has +1 to Combat Score and is Fearless (Ignores penalties to Discipline tests).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд получает +1 к Боевому результату и является бесстрашным (игнорирует штрафы к проверкам Дисциплины).",
+      "Comment": "Veteran elite unit special trait"
     },
     {
       "Key": "Unit has +3 range for Ranged attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд получает +3 дальность при дальних атаках.",
+      "Comment": "Extended ranged weapon range"
     },
     {
       "Key": "Unit has +3 range for Ranged attacks and ignores penalties for difficult terrain.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд получает +3 дальность при дальних атаках и игнорирует штрафы для сложной местности.",
+      "Comment": "Ranged advantage in varied terrain"
     },
     {
       "Key": "Unit has +1 to Combat Score.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд получает +1 к Боевому результату.",
+      "Comment": "Close combat victory point bonus"
     },
     {
       "Key": "Reduce Crumble rolls by 1. Increase Move Speed by 1. +3 Wounds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Снижьте броски Крушения на 1. Увеличьте скорость движения на 1. +3 Раны",
+      "Comment": "Powerful undead enhancement combo"
     },
     {
       "Key": "Reduce Crumble rolls by 1.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Снижьте броски Крушения на 1.",
+      "Comment": "Undead stability improvement"
     },
     {
       "Key": "Reduce Crumble rolls by 1. Increase Move Speed by 1.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Снижьте броски Крушения на 1. Увеличьте скорость движения на 1.",
+      "Comment": "Undead buff with morale and mobility"
     },
     {
       "Key": "+1 Attack, -1 Skill.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Атака, -1 Мастерство.",
+      "Comment": "Balanced trade-off: aggression vs accuracy"
     },
     {
       "Key": "+3 Attacks, -1 Skill.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3 Атаки, -1 Мастерство.",
+      "Comment": "Significant attack bonus at cost of skill"
     },
     {
       "Key": "+1 Ranged Attack, -1 Skill.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 дальняя атака, -1 Мастерство.",
+      "Comment": "Ranged specialist trade-off"
     },
     {
       "Key": "Range 13. 3D3 Power 3. -1 Defense.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дальность 13. 3D3 Мощь 3. -1 Защита.",
+      "Comment": "Medium-range weapon with accuracy variance and defense trade-off"
     },
     {
       "Key": "Range 13. D3 Power 3. -1 Defense.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дальность 13. D3 Мощь 3. -1 Защита.",
+      "Comment": "Medium-range low-powered with weak armor"
     },
     {
       "Key": "Fly Speed 13. Ignore Terrain. -1 Discipline.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Скорость полёта 13. Игнорирует местность. -1 Дисциплина.",
+      "Comment": "Flying unit with morale weakness"
     },
     {
       "Key": "Unit counts as Reanimated. (Never fails Discipline tests, loses D3 wounds on lost combat )+1 Defense,  -1 Move Speed.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд считается Возрожденным. (Никогда не проваливает проверки Дисциплины, теряет D3 раны в проигранном бою )+1 Защита, -1 скорость движения.",
+      "Comment": "Undead unit classification with mechanics"
     },
     {
       "Key": "Opponents re-roll hits in close combat. ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Противники перебрасывают попадания в ближнем бою.",
+      "Comment": "Defensive ability reflecting attacks"
     },
     {
       "Key": "Ambush deployment.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Развертывание в засаде.",
+      "Comment": "Special deployment rule"
     },
     {
       "Key": "+1 Wound. -1 Move Speed.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Раны. -1 скорость движения.",
+      "Comment": "Durability vs mobility trade-off"
     },
     {
       "Key": "+1 Wounds. +1Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Раны. +1 Мощь",
+      "Comment": "Combined health and damage boost"
     },
     {
       "Key": "+3 Wounds. -1 Move Speed.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3 Раны. -1 скорость движения.",
+      "Comment": "Tank unit with durability at expense of speed"
     },
     {
       "Key": "+3 range to Ranged Attacks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3 дальность к дальним атакам",
+      "Comment": "Extended ranged weapon range"
     },
     {
       "Key": "+3 range to Ranged Attacks. Damage saves against units Ranged Attack are reduced by 1.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3 дальность к дальним атакам. Спасения от урона против дальних атак снижены на 1.",
+      "Comment": "Armor-piercing ranged weapon"
     },
     {
       "Key": "Unit gets supporting attacks from one extra rank.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд получает поддерживающие атаки ещё из одного ряда.",
+      "Comment": "Formation bonus allowing deeper ranks to attack"
     },
     {
       "Key": "Unit gets supporting attacks from one extra rank and re-rolls missed Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд получает поддерживающие атаки ещё из одного ряда и перебрасывает провалы броскков Атак.",
+      "Comment": "Formation and accuracy bonus"
     },
     {
       "Key": "+1 Move Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 скорость движения",
+      "Comment": "Mobility increase"
     },
     {
       "Key": "+1 Move Speed. Charge Bonus: +1 Attack.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 скорость движения. Бонус атаки: +1 Атака.",
+      "Comment": "Fast charging unit"
     },
     {
       "Key": "+1 Move Speed and ignores Difficult Terrain",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 скорость движения и игнорирует сложную местность",
+      "Comment": "Mobile unit with terrain advantage"
     },
     {
       "Key": "Lethal Attacks. (3x wounds)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Смертельные атаки. (3кратные раны)",
+      "Comment": "High damage multiplier ability"
     },
     {
       "Key": "Regeneration. (restores all wounds at end of turn)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Регенерация. (восстанавливает все раны в конце хода)",
+      "Comment": "Automatic healing ability"
     },
     {
       "Key": "Poisoned Attacks (enemies re-roll 3s on Damage Saves)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отравленные атаки (враги перебрасывают тройки при спасениях от урона)",
+      "Comment": "Poison = Отрава; reduces armor effectiveness"
     },
     {
       "Key": "Unit re-rolls 1s on Damage Saves",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд перебрасывает единицы при спасениях от урона",
+      "Comment": "Unit armor save ability"
     },
     {
       "Key": "Reroll missed Attack Rolls when attacking from Flank or Rear",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Переброс провалов броскков Атак при атаке с фланга или тыла",
+      "Comment": "Tactical positioning bonus"
     },
     {
       "Key": " +1 Attack and Fearless. Activate once per battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Атака и бесстрашные. Активируйте одного раза за сражение.",
+      "Comment": "Activation ability combining attack and morale"
     },
     {
       "Key": " Reroll 1s on Damage Saves",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Переброс единиц при спасениях от урона",
+      "Comment": "Armor save ability"
     },
     {
       "Key": "All your units have +1 Power  and +3 Move Speed for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Все ваши отряды получают +1 Мощь и +3 скорость движения на один ход.",
+      "Comment": "Powerful army-wide buff"
     },
     {
       "Key": "Earns 1 gold for each enemy killed in Combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Получает 1 золото за каждого врага, киллед в бою.",
+      "Comment": "Economy mechanic: unit kills generate resources"
     },
     {
       "Key": "All friendly units counts as being in Cover against ranged attacks untill it's next combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Все дружественные отряды считаются укрытыми против дальних атак до его следующего боя.",
+      "Comment": "Army-wide defensive buff"
     },
     {
       "Key": "Target unit gets +3 to Damage Saves this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Целевой отряд получает +3 к спасениям от урона в этом ходу.",
+      "Comment": "Powerful armor buff"
     },
     {
       "Key": "+1 Damage Save vs Ranged",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 спасение от травмы вс. дальные",
+      "Comment": "Specific ranged armor value"
     },
     {
       "Key": "Once per battle: Gain +1 Attack\n+1 Damage Save vs Ranged",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Одого раза за сражение: Получите +1 Атака\n+1 спасение от травмы вс. дальные",
+      "Comment": "One-time ability with dual benefits"
     },
     {
       "Key": " +1 Wounds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 Раны",
+      "Comment": "Health increase"
     },
     {
       "Key": "Poisoned Attacks. (Opponent rerolls 3s on Damage Saves)\n+1 Wounds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отравленные атаки. (Противник перебрасывает тройки при спасениях от урона)\n+1 Раны",
+      "Comment": "Combined poison and health"
     },
     {
       "Key": "Once per battle: Gain Flying for one turn. \n+1 Move Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Одого раза за сражение: Получите Полёт на один ход. \n+1 скорость движения",
+      "Comment": "One-time flying transformation"
     },
     {
       "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Одого раза за сражение, все дружественные отряды с Даром распада перебрасывают провалы спасений от урона.\nРегенерация.",
+      "Comment": "Chaos faction ability with self-healing"
     },
     {
       "Key": "Once per battle, all friendly units with Gift of Trickery gain +3 move speed and Cover.\nAmbush Deployment.\n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Одого раза за сражение, все дружественные отряды с Даром хитрости получают +3 скорость движения и укрытие.\nРазвертывание в засаде.\n",
+      "Comment": "Chaos faction mobility and positioning buff"
     },
     {
       "Key": "Once per battle, all friendly units with Gift of War gain Deadly Strikes  (3x Wounds caused).\nCommander has Deadly Strikes.\n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Одого раза за сражение, все дружественные отряды с Даром войны получают Кровавые удары (тройной урон).\nКомандир имеет Кровавые удары.\n",
+      "Comment": "Chaos faction damage buff"
     },
     {
       "Key": "Unit has +10 range for Ranged attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Отряд получает +10 дальность к дальним атакам.",
+      "Comment": "Extreme range weapon bonus"
     },
     {
       "Key": "Paladin and retinue rerolls 1s on Attack Rolls. Activate once per battle; all friendly Knights reroll failed Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Паладин и его свита перебрасывают единицы при броскках Атак. Активируйте одного раза за сражение; все дружественные Книжты перебрасывают провалы броскков Атак.",
+      "Comment": "Knights = Книжты; faction-wide buff ability"
     },
     {
       "Key": "Maiden and retinue rerolls 1s on Damage Saves.. Activate once per battle; all friendly Knights reroll failed Damage Saves. ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дева и ее свита перебрасывают единицы при спасениях от урона. Активируйте одного раза за сражение; все дружественные Книжты перебрасывают провалы спасений от урона.",
+      "Comment": "Female hero with armor save faction buff"
     },
     {
       "Key": "-1 to targets Damage Save",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "-1 к спасениям от урона цели",
+      "Comment": "Armor penetration mechanic"
     },
     {
       "Key": "These arrows deal 3x wounds against multiwound targets.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Эти стрелы наносят тройной урон по целям с несколькими ранами.",
+      "Comment": "Deadly strikes arrows = armor-piercing ammunition"
     },
     {
       "Key": "Gain +3 ranged attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Получите +3 дальних атаки.",
+      "Comment": "Increased shooting volume"
     },
     {
       "Key": "Ranged attacks have +10 range and ignores cover.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Дальние атаки имеют +10 дальность и игнорируют укрытие.",
+      "Comment": "Ultimate ranged weapon: extreme range and armor penetration"
     }
   ]
 }
