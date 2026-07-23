@@ -3,348 +3,348 @@
   "Translations": [
     {
       "Key": "Worlds Hope",
-      "Translation": "",
-      "Comment": "Poetic/prophetic army name"
+      "Translation": "世界的希望",
+      "Comment": "诗意/预言性的军队名称，象征拯救世界的力量。"
     },
     {
       "Key": "Worlds End",
-      "Translation": "",
-      "Comment": "Apocalyptic army name"
+      "Translation": "世界末日",
+      "Comment": "启示录式的军队名称，代表绝望与毁灭。"
     },
     {
       "Key": "Shambling Host",
-      "Translation": "",
-      "Comment": "Undead army - 'shambling' = slow zombie movement"
+      "Translation": "蹒跚行军",
+      "Comment": "不死族军队，shambling表现出僵尸缓慢的行走方式。"
     },
     {
       "Key": "Goblin Raiders",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "地精掠夺者",
+      "Comment": "哥布林装备精良的战士，入侵并掠夺。"
     },
     {
       "Key": "Roaming Brigands",
-      "Translation": "",
-      "Comment": "Classic fantasy bandits"
+      "Translation": "流浪强盗",
+      "Comment": "经典幻想设定中的盗匪团伙。"
     },
     {
       "Key": "Orc Scouts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "兽人侦察队",
+      "Comment": "兽人的侦查小队，快速移动。"
     },
     {
       "Key": "Vermin Pack",
-      "Translation": "",
-      "Comment": "Ratkin/Skaven-style enemies"
+      "Translation": "鼠人虫群",
+      "Comment": "鼠人/类似Skaven的敌人，传播疾病的害兽。"
     },
     {
       "Key": "Newt Ambushers",
-      "Translation": "",
-      "Comment": "Lizardmen ambush party"
+      "Translation": "蜥蜴人伏击者",
+      "Comment": "蜥蜴人的伏击部队，突袭战术。"
     },
     {
       "Key": "Mossbeard",
-      "Translation": "",
-      "Comment": "Treant/forest spirit name"
+      "Translation": "苔藓须",
+      "Comment": "树人/森林灵的名字，古老而强大。"
     },
     {
       "Key": "Bandit Gang",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "盗匪团",
+      "Comment": "常见的盗匪武装集团。"
     },
     {
       "Key": "Goblin Warparty",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "地精战争队",
+      "Comment": "哥布林的战争小队，凶狠且无序。"
     },
     {
       "Key": "Orc Raiders",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "兽人掠夺者",
+      "Comment": "兽人战士的掠夺军队。"
     },
     {
       "Key": "Elf Patrol",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "精灵巡逻队",
+      "Comment": "精灵的巡逻卫队。"
     },
     {
       "Key": "Mining Crew",
-      "Translation": "",
-      "Comment": "Dwarf miners"
+      "Translation": "矿工队",
+      "Comment": "矮人矿工，可能被征入军队。"
     },
     {
       "Key": "Vermin Tunnelers",
-      "Translation": "",
-      "Comment": "Ratkin tunnel diggers"
+      "Translation": "鼠人挖掘者",
+      "Comment": "鼠人的地下挖掘部队。"
     },
     {
       "Key": "Darkborn Slavers",
-      "Translation": "",
-      "Comment": "Dark elf slavers"
+      "Translation": "暗生黑暗精灵贩奴者",
+      "Comment": "黑暗精灵的奴隶贩子部队。"
     },
     {
       "Key": "Rat Swarm",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "鼠群",
+      "Comment": "密集的鼠人蜂群。"
     },
     {
       "Key": "The Red Goblin",
-      "Translation": "",
-      "Comment": "Boss/champion name"
+      "Translation": "红色地精",
+      "Comment": "首领/冠军怪物的名字。"
     },
     {
       "Key": "Colossal Dreadmaw",
-      "Translation": "",
-      "Comment": "Giant monster name"
+      "Translation": "巨大恐怖兽",
+      "Comment": "巨型怪物的名字，令人畏惧。"
     },
     {
       "Key": "Knight Of Flowers",
-      "Translation": "",
-      "Comment": "Chivalric knight title"
-    },
+      "Translation": "花之骑士",
+      "Comment": "骑士的英勇头衔，象征高尚的品质。"
+    }
     {
       "Key": "Korgak",
-      "Translation": "",
-      "Comment": "Orc warlord proper name"
+      "Translation": "克尔加克",
+      "Comment": "兽人军阀的专属名字，听起来凶悍有力。"
     },
     {
       "Key": "Gundrik Anvilhide",
-      "Translation": "",
-      "Comment": "Dwarf champion - surname translated for flavor"
+      "Translation": "贡德瑞克·铁肤",
+      "Comment": "矮人冠军的名字，姓氏翻译为\"铁肤\"以体现矮人特质。"
     },
     {
       "Key": "Von Platen",
-      "Translation": "",
-      "Comment": "German noble name - keep as is"
+      "Translation": "冯·普拉腾",
+      "Comment": "日耳曼贵族名字，保持原音。"
     },
     {
       "Key": "Shadowtail",
-      "Translation": "",
-      "Comment": "Ratkin assassin name"
+      "Translation": "暗尾",
+      "Comment": "鼠人刺客的名字，体现隐秘与致命。"
     },
     {
       "Key": "Valeria",
-      "Translation": "",
-      "Comment": "Female champion proper name"
+      "Translation": "瓦莱丽亚",
+      "Comment": "女性冠军的专属名字。"
     },
     {
       "Key": "Prince Aias",
-      "Translation": "",
-      "Comment": "Elf prince"
+      "Translation": "艾亚斯王子",
+      "Comment": "精灵王子的名字。"
     },
     {
       "Key": "Draz'gog",
-      "Translation": "",
-      "Comment": "Orc/demon warlord proper name"
+      "Translation": "德拉兹戈格",
+      "Comment": "兽人/恶魔军阀的专属名字，听起来凶狠。"
     },
     {
       "Key": "Marius the Undying",
-      "Translation": "",
-      "Comment": "Vampire/undead lord"
+      "Translation": "玛瑞乌斯·不死者",
+      "Comment": "吸血鬼/不死生物的领主名字。"
     },
     {
       "Key": "Lirael the Ancient",
-      "Translation": "",
-      "Comment": "Female elf/spirit - feminine article"
+      "Translation": "丽拉艾尔·古老者",
+      "Comment": "女性精灵/灵魂的名字，体现其久远的岁月。"
     },
     {
       "Key": "Rasha Blackfur",
-      "Translation": "",
-      "Comment": "Beastman/Ratkin chieftain"
+      "Translation": "拉莎·黑毛",
+      "Comment": "野兽人/鼠人首领的名字。"
     },
     {
       "Key": "Beastherd",
-      "Translation": "",
-      "Comment": "Beastman warband"
+      "Translation": "野兽群",
+      "Comment": "野兽人的军队集合。"
     },
     {
       "Key": "Northmen Raiders",
-      "Translation": "",
-      "Comment": "Viking-style warriors"
+      "Translation": "北地掠夺者",
+      "Comment": "维京风格的战士部队，以掠夺著称。"
     },
     {
       "Key": "Elf Garrison",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "精灵驻军",
+      "Comment": "驻守的精灵军队。"
     },
     {
       "Key": "Imperial Regiment",
-      "Translation": "",
-      "Comment": "Empire/human professional army"
+      "Translation": "帝国军团",
+      "Comment": "帝国/人类专业军队。"
     },
     {
       "Key": "Risen Invaders",
-      "Translation": "",
-      "Comment": "Undead risen army"
+      "Translation": "复起入侵者",
+      "Comment": "被复活的不死族入侵军队。"
     },
     {
       "Key": "Deepwood Protectors",
-      "Translation": "",
-      "Comment": "Wood elf defenders"
+      "Translation": "深林卫士",
+      "Comment": "木精灵的防御部队，守护森林。"
     },
     {
       "Key": "Brood Swarm",
-      "Translation": "",
-      "Comment": "Lizardmen/reptilian swarm"
+      "Translation": "蜥蜴人群",
+      "Comment": "蜥蜴人/爬行动物的蜂群。"
     },
     {
       "Key": "Dreadnought Fleet",
-      "Translation": "",
-      "Comment": "Powerful naval force"
+      "Translation": "无畏舰队",
+      "Comment": "强大的海军力量，不可阻挡。"
     },
     {
       "Key": "Treant March",
-      "Translation": "",
-      "Comment": "Forest spirits on the move"
+      "Translation": "树人行军",
+      "Comment": "森林灵移动的景象，缓慢而势不可当。"
     },
     {
       "Key": "War Host",
-      "Translation": "",
-      "Comment": "Large military force"
-    },
+      "Translation": "战争军队",
+      "Comment": "大规模的军事力量。"
+    }
     {
       "Key": "Abyssal Raiders",
-      "Translation": "",
-      "Comment": "Demon raiders from the abyss"
+      "Translation": "深渊掠夺者",
+      "Comment": "来自深渊的恶魔掠夺军队。"
     },
     {
       "Key": "Beasthost",
-      "Translation": "",
-      "Comment": "Large beastman army"
+      "Translation": "野兽军团",
+      "Comment": "大规模的野兽人军队。"
     },
     {
       "Key": "Dwarf Gunline",
-      "Translation": "",
-      "Comment": "Dwarf gunpowder army formation"
+      "Translation": "矮人炮手线",
+      "Comment": "矮人火药军队阵列，装备重型火器。"
     },
     {
       "Key": "Goblin Legion",
-      "Translation": "",
-      "Comment": "Massive goblin army"
+      "Translation": "地精军团",
+      "Comment": "庞大的哥布林军队。"
     },
     {
       "Key": "Doom Swarm",
-      "Translation": "",
-      "Comment": "Apocalyptic ratkin horde"
+      "Translation": "末日虫群",
+      "Comment": "启示录式的鼠人蜂群，来势汹汹。"
     },
     {
       "Key": "Forest Wrath",
-      "Translation": "",
-      "Comment": "Angry forest spirits"
+      "Translation": "森林之怒",
+      "Comment": "愤怒的森林灵，对入侵者的回应。"
     },
     {
       "Key": "Temple Guard",
-      "Translation": "",
-      "Comment": "Lizardmen elite guardians"
+      "Translation": "庙宇卫士",
+      "Comment": "蜥蜴人的精锐守护者。"
     },
     {
       "Key": "Toad King",
-      "Translation": "",
-      "Comment": "Lizardmen slann/toad priest"
+      "Translation": "蟾蜍之王",
+      "Comment": "蜥蜴人的斯兰/蟾蜍祭司，强大而古老。"
     },
     {
       "Key": "Northmen War Pack",
-      "Translation": "",
-      "Comment": "Viking warband"
+      "Translation": "北地战争狼群",
+      "Comment": "维京风格的战争部队。"
     },
     {
       "Key": "Trickery",
-      "Translation": "",
-      "Comment": "Chaos/trickster god alignment or themed army"
+      "Translation": "欺诈",
+      "Comment": "混沌/欺诈神的阵营或以此为主题的军队。"
     },
     {
       "Key": "Gravethorn",
-      "Translation": "",
-      "Comment": "Undead/vampire lord name"
+      "Translation": "坟墓刺",
+      "Comment": "不死族/吸血鬼领主的名字。"
     },
     {
       "Key": "Malificar the Despoiler",
-      "Translation": "",
-      "Comment": "Chaos/demon lord boss"
+      "Translation": "掠夺者玛利菲卡尔",
+      "Comment": "混沌/恶魔领主的首领名字。"
     },
     {
       "Key": "Sir Dagrik",
-      "Translation": "",
-      "Comment": "Human/Bretonnian knight"
+      "Translation": "达格瑞克爵士",
+      "Comment": "人类/布列塔尼亚骑士的头衔。"
     },
     {
       "Key": "Ajolote",
-      "Translation": "",
-      "Comment": "Lizardmen proper name (axolotl-inspired)"
+      "Translation": "阿霍洛特",
+      "Comment": "蜥蜴人的专属名字（受美西螈启发）。"
     },
     {
       "Key": "Master Itch",
-      "Translation": "",
-      "Comment": "Ratkin clan master - 'Itch' = plague theme"
+      "Translation": "痒痒大师",
+      "Comment": "鼠人军阀的名字，\"Itch\"表现瘟疫主题。"
     },
     {
       "Key": "Thorbjorn",
-      "Translation": "",
-      "Comment": "Norse/Viking proper name - authentic"
+      "Translation": "托尔比约恩",
+      "Comment": "北欧/维京人的真实名字。"
     },
     {
       "Key": "Abraxas The Decayed ",
-      "Translation": "",
-      "Comment": "Nurgle/decay demon lord"
+      "Translation": "腐烂者阿布拉克萨斯",
+      "Comment": "腐烂/衰变恶魔领主名字。"
     },
     {
       "Key": "The Dark Battalion",
-      "Translation": "",
-      "Comment": "Dark elf/chaos elite army"
+      "Translation": "暗黑营团",
+      "Comment": "黑暗精灵/混沌精锐军队。"
     },
     {
       "Key": "The Silver Host",
-      "Translation": "",
-      "Comment": "High elf/noble army"
+      "Translation": "白银军队",
+      "Comment": "高等精灵/贵族军队。"
     },
     {
       "Key": "The Unholy Alliance",
-      "Translation": "",
-      "Comment": "Chaos/evil coalition"
+      "Translation": "邪恶同盟",
+      "Comment": "混沌/邪恶的联合部队。"
     },
     {
       "Key": "Verdant Sentinels",
-      "Translation": "",
-      "Comment": "Forest/nature spirit guardians"
+      "Translation": "翠绿哨兵",
+      "Comment": "森林/自然灵的守卫者。"
     },
     {
       "Key": "Corrupted Legion",
-      "Translation": "",
-      "Comment": "Chaos-corrupted army"
+      "Translation": "腐蚀军团",
+      "Comment": "被混沌腐蚀的军队。"
     },
     {
       "Key": "Roaming Vampires",
-      "Translation": "",
-      "Comment": "Vampire encounter"
+      "Translation": "漂泊吸血鬼",
+      "Comment": "游荡的吸血鬼遭遇。"
     },
     {
       "Key": "Rogue Wizards",
-      "Translation": "",
-      "Comment": "Renegade mages - mirrors UI translation"
+      "Translation": "流浪法师",
+      "Comment": "背叛的法师，与UI翻译相呼应。"
     },
     {
       "Key": "Wild Bulls",
-      "Translation": "",
-      "Comment": "Minotaur/beastman encounter"
+      "Translation": "野蛮公牛",
+      "Comment": "牛头人/野兽人的遭遇。"
     },
     {
       "Key": "Angry Giants",
-      "Translation": "",
-      "Comment": "Giant monster encounter"
+      "Translation": "愤怒巨人",
+      "Comment": "巨型怪物的遭遇。"
     },
     {
       "Key": "Swamp Trolls",
-      "Translation": "",
-      "Comment": "Monster encounter"
+      "Translation": "沼泽巨魔",
+      "Comment": "怪物遭遇。"
     },
     {
       "Key": "Wolf Pack",
-      "Translation": "",
-      "Comment": "Beast/wolf encounter"
+      "Translation": "狼群",
+      "Comment": "野兽/狼类遭遇。"
     },
     {
       "Key": "Zombie Horde",
-      "Translation": "",
-      "Comment": "Undead encounter"
+      "Translation": "僵尸群",
+      "Comment": "不死族遭遇。"
     }
   ]
 }

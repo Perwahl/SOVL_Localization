@@ -3,83 +3,83 @@
   "Translations": [
     {
       "Key": "Deepwood Guardians",
-      "Translation": "",
-      "Comment": "Tiefwald = deepwood, Hüter = guardians. Protectors of the ancient forest."
+      "Translation": "深林守卫者",
+      "Comment": "古老森林的保护者，与自然和谐共处。"
     },
     {
       "Key": "Deepwood Guard",
-      "Translation": "",
-      "Comment": "Wache = guard. Basic forest defenders."
+      "Translation": "深林守卫",
+      "Comment": "基础的森林防御者。"
     },
     {
       "Key": "Dryads",
-      "Translation": "",
-      "Comment": "Standard German term for dryads. Tree spirits in elven form."
+      "Translation": "树精",
+      "Comment": "树木精灵的化身，具有森林的优雅。"
     },
     {
       "Key": "Deepwood Dancers",
-      "Translation": "",
-      "Comment": "Tänzer = dancers. Swift and graceful forest warriors."
+      "Translation": "深林舞者",
+      "Comment": "迅速而优雅的森林战士，如同舞蹈般灵动。"
     },
     {
       "Key": "Deepwood Archers",
-      "Translation": "",
-      "Comment": "Forest archers. Masters of woodland archery."
+      "Translation": "深林弓手",
+      "Comment": "森林弓箭手，精通林间射术。"
     },
     {
       "Key": "Deepwood Rangers",
-      "Translation": "",
-      "Comment": "Waldläufer = rangers. Elite scouts and hunters of the deep forest."
+      "Translation": "深林游侠",
+      "Comment": "深林的精锐侦察兵与猎手。"
     },
     {
       "Key": "Deepwood Riders",
-      "Translation": "",
-      "Comment": "Fast cavalry of the forest. Riding forest creatures."
+      "Translation": "深林骑兵",
+      "Comment": "森林快速骑兵，骑乘森林生物。"
     },
     {
       "Key": "Deepwood Chariot",
-      "Translation": "",
-      "Comment": "Nature-powered chariot."
+      "Translation": "深林战车",
+      "Comment": "由自然力量驱动的战车。"
     },
     {
       "Key": "Giant Eagle",
-      "Translation": "",
-      "Comment": "Majestic flying creature of the forest."
+      "Translation": "巨鹰",
+      "Comment": "森林中的宏伟飞行生物，象征自由。"
     },
     {
       "Key": "Stag Riders",
-      "Translation": "",
-      "Comment": "Hirsch = stag. Cavalry riding majestic forest stags."
+      "Translation": "雄鹿骑士",
+      "Comment": "骑乘宏伟森林雄鹿的骑兵。"
     },
     {
       "Key": "Treant",
-      "Translation": "",
-      "Comment": "Baumriese = tree giant. Living tree creature. Alternative: Treant (kept as fantasy term)."
+      "Translation": "树人",
+      "Comment": "活动的树木生物，森林的化身。"
     },
     {
       "Key": "Forest Dragon",
-      "Translation": "",
-      "Comment": "Dragon of the forest. Ancient guardian."
+      "Translation": "森林龙",
+      "Comment": "森林的龙兽，古老的守护者。"
     },
     {
       "Key": "Gryphon",
-      "Translation": "",
-      "Comment": "Standard German term for gryphon."
+      "Translation": "狮鹫",
+      "Comment": "鹰头狮身的神话生物，力量与优雅的结合。"
     },
     {
       "Key": "Deepwood Noble",
-      "Translation": "",
-      "Comment": "Noble leader of the forest folk."
+      "Translation": "深林贵族",
+      "Comment": "森林民族的贵族领导者。"
     },
     {
       "Key": "Deepwood Druid",
-      "Translation": "",
-      "Comment": "Druide = druid. Nature magic user."
+      "Translation": "深林德鲁伊",
+      "Comment": "使用自然魔法的法师。"
     },
     {
       "Key": "Treant Elder",
-      "Translation": "",
-      "Comment": "Ancient and powerful tree creature. Wise forest spirit."
+      "Translation": "树人长者",
+      "Comment": "古老强大的树木生物，森林的智慧象征。"
     }
   ]
 }

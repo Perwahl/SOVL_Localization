@@ -3,98 +3,98 @@
   "Translations": [
     {
       "Key": "Knights of Avalon",
-      "Translation": "",
-      "Comment": "Direct translation. Noble knights of the legendary kingdom."
+      "Translation": "阿瓦隆骑士",
+      "Comment": "阿瓦隆 (Avalon) kept as proper noun. Classic fantasy realm reference."
     },
     {
       "Key": "Sword Militia",
-      "Translation": "",
-      "Comment": "Miliz = militia. Citizen soldiers with swords."
+      "Translation": "剑兵民兵",
+      "Comment": "民兵 (militia) = citizen soldiers. 剑 = sword."
     },
     {
       "Key": "Peasant Mob",
-      "Translation": "",
-      "Comment": "Bauern = peasants. Untrained levies."
+      "Translation": "农民暴民",
+      "Comment": "农民 = peasants. 暴民 = mob/rabble. Untrained levies."
     },
     {
       "Key": "Halberd Militia",
-      "Translation": "",
-      "Comment": "Militia armed with halberds."
+      "Translation": "戟兵民兵",
+      "Comment": "戟 = halberd (polearm). Militia armed with pole weapons."
     },
     {
       "Key": "Spear Militia",
-      "Translation": "",
-      "Comment": "Basic spear-wielding militia."
+      "Translation": "矛兵民兵",
+      "Comment": "矛 = spear. Basic spear-wielding militia."
     },
     {
       "Key": "Knight Aspirants",
-      "Translation": "",
-      "Comment": "Aspiranten = aspirants. Young warriors training to become knights."
+      "Translation": "骑士学徒",
+      "Comment": "学徒 = aspirant/trainee. Young warriors in training."
     },
     {
       "Key": "Mounted Hunters",
-      "Translation": "",
-      "Comment": "Beritten = mounted. Jäger = hunters. Light cavalry."
+      "Translation": "骑射手",
+      "Comment": "骑 = mounted. 射手 = archer/hunter. Light cavalry archers."
     },
     {
       "Key": "Sworn Knights",
-      "Translation": "",
-      "Comment": "Geschworene = sworn. Knights who have taken sacred oaths."
+      "Translation": "宣誓骑士",
+      "Comment": "宣誓 = sworn/oath-bound. Elite knights with sacred vows."
     },
     {
       "Key": "Hunting Dogs",
-      "Translation": "",
-      "Comment": "War dogs used in battle."
+      "Translation": "猎犬",
+      "Comment": "猎犬 = hunting/war dogs. Used as beast units in battle."
     },
     {
       "Key": "Hunters",
-      "Translation": "",
-      "Comment": "Skilled hunters serving as scouts and archers."
+      "Translation": "猎人",
+      "Comment": "猎人 = hunters. Skilled scouts and ranged troops."
     },
     {
       "Key": "Trebuchet",
-      "Translation": "",
-      "Comment": "Trebuchet as technical term for the catapult. Alternative: Wurfmaschine."
+      "Translation": "投石机",
+      "Comment": "投石机 = trebuchet/catapult (stone-throwing machine). Technical siege term."
     },
     {
       "Key": "Longbowmen",
-      "Translation": "",
-      "Comment": "Famous archers with longbows. Elite ranged troops."
+      "Translation": "长弓兵",
+      "Comment": "长弓 = longbow. Elite ranged troops famous for archery skill."
     },
     {
       "Key": "Kings Guard",
-      "Translation": "",
-      "Comment": "Elite guards protecting the king. Best warriors of the realm."
+      "Translation": "国王卫队",
+      "Comment": "国王卫队 = King's Guard. Elite warriors serving as royal bodyguards."
     },
     {
       "Key": "Pegasus Knights",
-      "Translation": "",
-      "Comment": "Knights riding pegasi. Flying cavalry."
+      "Translation": "天马骑士",
+      "Comment": "天马 = celestial/pegasus horse (mythological). Flying cavalry unit."
     },
     {
       "Key": "Hippogryph",
-      "Translation": "",
-      "Comment": "Kept as fantasy creature name. Gryphon-horse hybrid."
+      "Translation": "鹰狮兽",
+      "Comment": "鹰狮 = gryphon hybrid. Fantasy creature name for game consistency."
     },
     {
       "Key": "Pegasus",
-      "Translation": "",
-      "Comment": "Mythological winged horse. Kept as is."
+      "Translation": "天马",
+      "Comment": "天马 = celestial/pegasus horse. Mythological creature name."
     },
     {
       "Key": "Unicorn",
-      "Translation": "",
-      "Comment": "Standard German for unicorn. Magical pure creature."
+      "Translation": "独角兽",
+      "Comment": "独角兽 = unicorn (single-horned beast). Magical pure creature."
     },
     {
       "Key": "Maiden",
-      "Translation": "",
-      "Comment": "Jungfrau = maiden. Holy warrior blessed by the divine. Alternative: Heilige Jungfrau."
+      "Translation": "圣女",
+      "Comment": "圣女 = holy maiden/priestess. Divine warrior blessed by the gods."
     },
     {
       "Key": "Paladin",
-      "Translation": "",
-      "Comment": "Paladin is universally recognized. Holy knight champion."
+      "Translation": "圣骑士",
+      "Comment": "圣骑士 = holy knight/paladin. Universal term for righteous champion."
     }
   ]
 }

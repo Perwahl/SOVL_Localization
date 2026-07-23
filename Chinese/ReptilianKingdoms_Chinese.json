@@ -3,83 +3,83 @@
   "Translations": [
     {
       "Key": "Reptilian Kingdoms",
-      "Translation": "",
-      "Comment": "Königreiche = kingdoms. Ancient lizard-men empires."
+      "Translation": "爬行帝国",
+      "Comment": "爬行 (reptilian) + 帝国 (empire). Emphasizes ancient, sprawling civilization."
     },
     {
       "Key": "Saurian Warriors",
-      "Translation": "",
-      "Comment": "Saurier = saurian/lizard. Core lizard-men warriors."
+      "Translation": "蜥蜴战士",
+      "Comment": "蜥蜴 (lizard/saurian) + 战士 (warrior). Core unit of the faction."
     },
     {
       "Key": "Crocolisk Bruisers",
-      "Translation": "",
-      "Comment": "Krokolisk (crocodile-like). Schläger = bruisers. Heavy reptilian warriors."
+      "Translation": "鳄力士",
+      "Comment": "鳄 (crocodile) + 力士 (strong warrior/bruiser). Portmanteau captures crocodile-like strength."
     },
     {
       "Key": "Newt Braves",
-      "Translation": "",
-      "Comment": "Molch = newt. Krieger = braves/warriors. Lesser lizard troops."
+      "Translation": "蝾螈勇士",
+      "Comment": "蝾螈 (newt) + 勇士 (brave/warrior). Emphasizes lesser but spirited troops."
     },
     {
       "Key": "Saurian Spear",
-      "Translation": "",
-      "Comment": "Spear-wielding saurian infantry."
+      "Translation": "蜥蜴枪兵",
+      "Comment": "蜥蜴 (saurian) + 枪兵 (spearmen). Standard infantry with polearm weapons."
     },
     {
       "Key": "Raptor Riders",
-      "Translation": "",
-      "Comment": "Fast cavalry riding velociraptors. Lightning strikes."
+      "Translation": "迅猛龙骑手",
+      "Comment": "迅猛 (swift/rapid) + 龙 (dragon/raptor) + 骑手 (riders). Emphasizes speed and striking power."
     },
     {
       "Key": "Pterodactyl Riders",
-      "Translation": "",
-      "Comment": "Flying cavalry on pterodactyls. Air superiority."
+      "Translation": "翼龙骑手",
+      "Comment": "翼龙 (pterodactyl - literal: winged dragon) + 骑手 (riders). Air cavalry unit."
     },
     {
       "Key": "Newt Skirmishers",
-      "Translation": "",
-      "Comment": "Light skirmishing troops."
+      "Translation": "蝾螈轻骑兵",
+      "Comment": "蝾螈 (newt) + 轻 (light) + 骑兵 (cavalry/troops). Fast, harassing skirmishers."
     },
     {
       "Key": "Firelizard",
-      "Translation": "",
-      "Comment": "Fire-breathing lizard monster. Feuer = fire, Eidechse = lizard."
+      "Translation": "火蜥蜴",
+      "Comment": "火 (fire) + 蜥蜴 (lizard). Straightforward compound for fire-breathing beast."
     },
     {
       "Key": "Triceratops",
-      "Translation": "",
-      "Comment": "Kept as dinosaur name. Massive horned beast."
+      "Translation": "三角龙",
+      "Comment": "三 (three) + 角 (horn) + 龙 (dragon). Standard Chinese term for triceratops."
     },
     {
       "Key": "Jungle Swarm",
-      "Translation": "",
-      "Comment": "Swarm of small reptilian creatures from the jungle."
+      "Translation": "丛林虫群",
+      "Comment": "丛林 (jungle) + 虫群 (swarm/horde). Captures mass of small creatures."
     },
     {
       "Key": "Dreadmaw",
-      "Translation": "",
-      "Comment": "Schrecken = dread, Maul = maw. Terrifying predator."
+      "Translation": "恐怖之颌",
+      "Comment": "恐怖 (dread/terror) + 之 (possessive) + 颌 (maw/jaw). Evokes terror and predatory threat."
     },
     {
       "Key": "Tyrannosaur",
-      "Translation": "",
-      "Comment": "Kept as dinosaur name. King of the lizards."
+      "Translation": "暴龙",
+      "Comment": "暴 (violent/tyrant) + 龙 (dragon). Standard Chinese term for tyrannosaurus rex."
     },
     {
       "Key": "Newt Priest",
-      "Translation": "",
-      "Comment": "Religious leader of the lesser reptilians."
+      "Translation": "蝾螈祭司",
+      "Comment": "蝾螈 (newt) + 祭司 (priest/shaman). Spiritual leader of lesser reptilian forces."
     },
     {
       "Key": "Saurian Warlord",
-      "Translation": "",
-      "Comment": "Kriegsherr = warlord. Powerful military commander."
+      "Translation": "蜥蜴军阀",
+      "Comment": "蜥蜴 (saurian) + 军阀 (warlord). Emphasizes military power and authority."
     },
     {
       "Key": "Ancient Toad",
-      "Translation": "",
-      "Comment": "Uralt = ancient. Kröte = toad. Mystical amphibian sage."
+      "Translation": "远古蟾蜍",
+      "Comment": "远古 (ancient) + 蟾蜍 (toad). Mystical, elder amphibian figure; distinct from reptilian units."
     }
   ]
 }

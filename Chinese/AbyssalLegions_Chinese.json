@@ -3,83 +3,83 @@
   "Translations": [
     {
       "Key": "Abyssal Legions",
-      "Translation": "",
-      "Comment": "Legionen = legions. Organized demonic armies, mixed with corrupted mortals."
+      "Translation": "深渊军团",
+      "Comment": "有组织的恶魔军队，混合了被腐蚀的凡人士兵。"
     },
     {
       "Key": "Northmen Axe",
-      "Translation": "",
-      "Comment": "Nordmänner = Northmen (barbarians). Axtkrieger = axe warriors. Corrupted northern warriors."
+      "Translation": "北地斧兵",
+      "Comment": "被深渊腐蚀的北方蛮族战士，手持巨斧。"
     },
     {
       "Key": "Abyssal Warriors",
-      "Translation": "",
-      "Comment": "Armored warriors corrupted by the abyss."
+      "Translation": "深渊战士",
+      "Comment": "被深渊力量腐蚀的铠甲战士，战斗力凶悍。"
     },
     {
       "Key": "Dragon Spawn",
-      "Translation": "",
-      "Comment": "Brut = spawn. Corrupted dragon-like creatures."
+      "Translation": "龙之杂种",
+      "Comment": "被腐蚀的龙形生物，拥有龙族的血脉。"
     },
     {
       "Key": "Northmen Horse",
-      "Translation": "",
-      "Comment": "Reiter = riders/cavalry. Northern barbarian cavalry."
+      "Translation": "北地骑士",
+      "Comment": "北方蛮族骑兵，机动性强且悍不畏死。"
     },
     {
       "Key": "Abyssal Knights",
-      "Translation": "",
-      "Comment": "Corrupted knights serving the abyss. Heavy demonic cavalry."
+      "Translation": "深渊骑士",
+      "Comment": "被深渊腐蚀的堕落骑士，重甲且强大。"
     },
     {
       "Key": "Abyssal Hounds",
-      "Translation": "",
-      "Comment": "War hounds from the abyss. Fast attack beasts."
+      "Translation": "深渊猎犬",
+      "Comment": "来自深渊的战争猎犬，快速且致命。"
     },
     {
       "Key": "Abyssal Chariot",
-      "Translation": "",
-      "Comment": "Demonic chariot. Brutal and swift."
+      "Translation": "深渊战车",
+      "Comment": "恶魔战车，蛮横且迅速，在战场上难以阻挡。"
     },
     {
       "Key": "Archdevil",
-      "Translation": "",
-      "Comment": "Greater demon. Same as in Abyssal Demons faction."
+      "Translation": "大恶魔",
+      "Comment": "强大的恶魔领主，统治深渊军团的存在。"
     },
     {
       "Key": "Devilspawn",
-      "Translation": "",
-      "Comment": "Lesser demons. Same as in Abyssal Demons faction."
+      "Translation": "魔鬼之子",
+      "Comment": "低级恶魔兵卒，在军团中数量众多。"
     },
     {
       "Key": "War Mammoth",
-      "Translation": "",
-      "Comment": "Corrupted war mammoth. Massive beast of war."
+      "Translation": "战争猛犸象",
+      "Comment": "被腐蚀的古代战兽，体型庞大且防御力强。"
     },
     {
       "Key": "Abyssal Dragon",
-      "Translation": "",
-      "Comment": "Dragon corrupted by the abyss. Terrifying flying monster."
+      "Translation": "深渊龙兽",
+      "Comment": "被深渊腐蚀的龙类，会飞行的恐怖怪物。"
     },
     {
       "Key": "Manticore",
-      "Translation": "",
-      "Comment": "Standard German term for manticore. Mythological beast."
+      "Translation": "狮身蝎尾兽",
+      "Comment": "神话中的混合生物，拥有多种生物的特征。"
     },
     {
       "Key": "Abyssal Champion",
-      "Translation": "",
-      "Comment": "Elite warrior of the abyss. Mighty hero unit."
+      "Translation": "深渊冠军",
+      "Comment": "深渊的精锐战士，拥有无可匹敌的力量。"
     },
     {
       "Key": "Abyssal Sorcerer",
-      "Translation": "",
-      "Comment": "Dark sorcerer wielding abyssal magic."
+      "Translation": "深渊术士",
+      "Comment": "掌握深渊魔法的黑暗法师，威力巨大。"
     },
     {
       "Key": "Northmen Packleader",
-      "Translation": "",
-      "Comment": "Rudelführer = pack leader. Barbarian warlord."
+      "Translation": "北地狼群之首",
+      "Comment": "蛮族战争头领，指挥北地军队的强大统帅。"
     }
   ]
 }

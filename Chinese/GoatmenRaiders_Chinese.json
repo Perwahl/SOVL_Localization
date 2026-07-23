@@ -3,78 +3,78 @@
   "Translations": [
     {
       "Key": "Goatmen Raiders",
-      "Translation": "",
-      "Comment": "Ziegenmenschen = goatmen (beast-men with goat features). Plünderer = raiders."
+      "Translation": "山羊人掠夺者",
+      "Comment": "具有山羊特征的野兽人，以掠夺为生。"
     },
     {
       "Key": "Ibex Warriors",
-      "Translation": "",
-      "Comment": "Steinbock = ibex (mountain goat). Fierce warriors."
+      "Translation": "北山羊战士",
+      "Comment": "山地山羊的战士，凶悍而勇敢。"
     },
     {
       "Key": "Goatmen Warriors",
-      "Translation": "",
-      "Comment": "Standard goat-men warriors. Savage and brutal."
+      "Translation": "山羊人战士",
+      "Comment": "标准的山羊人战士，野蛮且残暴。"
     },
     {
       "Key": "Mongrel Pack",
-      "Translation": "",
-      "Comment": "Mischling = mongrel/mixed breed. Horde = pack. Chaotic mass of lesser beast-men."
+      "Translation": "杂种野兽群",
+      "Comment": "混合的低等野兽人，混乱而凶狠。"
     },
     {
       "Key": "Mongrel Spear",
-      "Translation": "",
-      "Comment": "Mongrel troops armed with spears."
+      "Translation": "杂种矛兵",
+      "Comment": "持矛的杂种野兽人。"
     },
     {
       "Key": "Raiding Chariot",
-      "Translation": "",
-      "Comment": "Plünder- prefix = raiding. Fast attack chariot."
+      "Translation": "掠夺战车",
+      "Comment": "快速的掠夺式攻击战车。"
     },
     {
       "Key": "Feral Hounds",
-      "Translation": "",
-      "Comment": "Wilde = feral/wild. Jagdhunde = hunting hounds. Savage war beasts."
+      "Translation": "野性猎犬",
+      "Comment": "野生且凶悍的战争猎犬。"
     },
     {
       "Key": "Mongrel Skirmishers",
-      "Translation": "",
-      "Comment": "Plänkler = skirmishers. Light troops for harassment."
+      "Translation": "杂种骚扰兵",
+      "Comment": "轻装部队，进行骚扰与骚动。"
     },
     {
       "Key": "Centaurs",
-      "Translation": "",
-      "Comment": "Standard German for centaurs. Half-man, half-horse."
+      "Translation": "半人马",
+      "Comment": "半人半马的神话生物，迅速而强大。"
     },
     {
       "Key": "Minotaurs",
-      "Translation": "",
-      "Comment": "Standard German for minotaurs. Bull-headed warriors."
+      "Translation": "牛头人",
+      "Comment": "牛头人形的强大战士。"
     },
     {
       "Key": "Harpies",
-      "Translation": "",
-      "Comment": "Flying monsters allied with the beast-men."
+      "Translation": "鹰身女妖",
+      "Comment": "与野兽人结盟的飞行怪物。"
     },
     {
       "Key": "Feral Giant",
-      "Translation": "",
-      "Comment": "Wilder = feral/wild. Untamed giant serving the beast-men."
+      "Translation": "野性巨人",
+      "Comment": "未驯化的巨人，为野兽人效力。"
     },
     {
       "Key": "Goatman Shaman",
-      "Translation": "",
-      "Comment": "Tribal magic user. Dark rituals and curses."
+      "Translation": "山羊人萨满",
+      "Comment": "部落的魔法使用者，施行黑暗仪式。"
     },
     {
       "Key": "Goatman Longhorn",
-      "Translation": "",
-      "Comment": "Langhorn = longhorn. Elite warrior with impressive horns."
+      "Translation": "山羊人长角者",
+      "Comment": "拥有令人印象深刻长角的精锐战士。"
     },
     {
       "Key": "Minotaur Lord",
-      "Translation": "",
-      "Comment": "Mighty minotaur leader. Powerful hero."
+      "Translation": "牛头人领主",
+      "Comment": "强大的牛头人领导者，英雄级单位。"
     }
   ]
 }

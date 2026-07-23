@@ -3,2257 +3,2257 @@
   "Translations": [
     {
       "Key": "Warband",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "战队",
+      "Comment": "Military unit group in the game, consistent wargame terminology"
     },
     {
       "Key": "Enter text...",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "输入文本...",
+      "Comment": "Placeholder for text input fields"
     },
     {
       "Key": "Primary",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "主要",
+      "Comment": "Used for primary selection/category"
     },
     {
       "Key": "Secondary",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "次要",
+      "Comment": "Used for secondary selection/category"
     },
     {
       "Key": "Icon Color",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "图标颜色",
+      "Comment": "Color customization for unit icons"
     },
     {
       "Key": " Icon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "图标",
+      "Comment": "Icon label with leading space"
     },
     {
       "Key": "Save",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "保存",
+      "Comment": "Common UI action button"
     },
     {
       "Key": "Copy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "复制",
+      "Comment": "Common UI action button"
     },
     {
       "Key": "Copied list to clipboard",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "列表已复制到剪贴板",
+      "Comment": "Confirmation message after copying"
     },
     {
       "Key": "Points:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "点数：",
+      "Comment": "Army building currency, used in wargame points system"
     },
     {
       "Key": "Units:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位：",
+      "Comment": "Game unit count label"
     },
     {
       "Key": "Minimum: 1",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "最少：1",
+      "Comment": "Constraint message for unit selection"
     },
     {
       "Key": "Spells",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "法术",
+      "Comment": "Magic abilities in fantasy wargame setting"
     },
     {
       "Key": "Weapons",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "武器",
+      "Comment": "Unit equipment category"
     },
     {
       "Key": "Banners\n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "军旗\n",
+      "Comment": "Special unit equipment with newline character preserved"
     },
     {
       "Key": "Items",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "物品",
+      "Comment": "Equipment/artifact category"
     },
     {
       "Key": "Shield,  Light Armor, General",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "盾牌，轻甲，将军",
+      "Comment": "Wargame equipment categories with generic descriptions"
     },
     {
       "Key": "Remove?",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "移除？",
+      "Comment": "Confirmation prompt for deletion"
     },
     {
       "Key": "Options",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "选项",
+      "Comment": "Settings menu label"
     },
     {
       "Key": "Weapon Enchantments",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "武器魔法",
+      "Comment": "Special weapon modifications in fantasy setting"
     },
     {
       "Key": "Heart Seeker",
-      "Translation": "",
-      "Comment": ""
-    },
+      "Translation": "心寻者",
+      "Comment": "Specific weapon enchantment name, preserved as fantasy title"
+    }
     {
       "Key": "Retinues",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "随仁团",
+      "Comment": "Follower units/companions in wargame, traditional fantasy term"
     },
     {
       "Key": "Add Unit",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "添加单位",
+      "Comment": "UI action button for adding units to warband"
     },
     {
       "Key": "Cancel",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "取消",
+      "Comment": "Common action button"
     },
     {
       "Key": "Choose Name...",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "选择名称...",
+      "Comment": "Placeholder for name selection"
     },
     {
       "Key": "Effect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "效果",
+      "Comment": "Game mechanic attribute label"
     },
     {
       "Key": "Skill",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "技能",
+      "Comment": "Unit ability/skill attribute in wargame"
     },
     {
       "Key": "Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "力量",
+      "Comment": "Unit stat representing combat power"
     },
     {
       "Key": "Defense",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "防御",
+      "Comment": "Unit stat representing armor/protection"
     },
     {
       "Key": "Attacks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "攻击",
+      "Comment": "Unit combat action count"
     },
     {
       "Key": "Wounds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "伤口",
+      "Comment": "Unit health/damage track label"
     },
     {
       "Key": "Discipline",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "纪律",
+      "Comment": "Unit morale/discipline stat in wargame"
     },
     {
       "Key": "Back to menu?",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "返回菜单？",
+      "Comment": "Confirmation prompt for navigation"
     },
     {
       "Key": "Unsaved changes will be lost",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "未保存的改动将丢失",
+      "Comment": "Warning message for user"
     },
     {
       "Key": "Exit",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "退出",
+      "Comment": "Common action button"
     },
     {
       "Key": "SOVL",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "SOVL",
+      "Comment": "Game title - kept as proper noun"
     },
     {
       "Key": "Feedback & Bug Reports",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "反馈与错误报告",
+      "Comment": "Menu option for community feedback"
     },
     {
       "Key": "Campaign",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "战争",
+      "Comment": "Single-player story mode"
     },
     {
       "Key": "Trail Of Death",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "死了之跡",
+      "Comment": "Campaign chapter name - fantasy tone preserved"
     },
     {
       "Key": "Multiplayer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "多人游戏",
+      "Comment": "Online multiplayer game mode"
     },
     {
       "Key": "Ranked",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "排位赛",
+      "Comment": "Competitive ranked multiplayer"
     },
     {
       "Key": "Custom Game",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "自定义游戏",
+      "Comment": "Player-configured multiplayer game mode"
     },
     {
       "Key": "vs AI",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "对戰AI",
+      "Comment": "Single-player vs computer mode"
     },
     {
       "Key": "Army Builder",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "军队配置",
+      "Comment": "Army list creation tool for building warbands"
     },
     {
       "Key": "Settings",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "设置",
+      "Comment": "Game options menu"
     },
     {
       "Key": "Replays",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "回放",
+      "Comment": "Game replay viewing system"
     },
     {
       "Key": "Rules Reference",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "规则全书",
+      "Comment": "In-game rules documentation"
     },
     {
       "Key": "Feedback",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "反馈",
+      "Comment": "Feedback submission option"
     },
     {
       "Key": "offline",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "离线",
+      "Comment": "Connection status indicator"
     },
     {
       "Key": "Game Browser",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "游戏浏览",
+      "Comment": "Interface for browsing available games"
     },
     {
       "Key": "Game Name",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "游戏名称",
+      "Comment": "Label for game naming field"
     },
     {
       "Key": "Create Public Game",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "创建公开游戏",
+      "Comment": "Create publicly visible multiplayer game"
     },
     {
       "Key": "Create Private Game",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "创建私有游戏",
+      "Comment": "Create private multiplayer game"
     },
     {
       "Key": "Join Game",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "加入游戏",
+      "Comment": "Action to join existing multiplayer game"
     },
     {
       "Key": "Button",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "按钮",
+      "Comment": "UI button element"
     },
     {
       "Key": "AI Battle",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "人工智能战争",
+      "Comment": "Single-player battle against computer opponent"
     },
     {
       "Key": "Select List",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "选择列表",
+      "Comment": "Menu to select an army list"
     },
     {
       "Key": "-Warband-",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "-战队-",
+      "Comment": "Warband title with decorative dashes"
     },
     {
       "Key": "Start Game\n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "开始游戏\n",
+      "Comment": "Button to start game, newline preserved"
     },
     {
       "Key": "Small",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "小",
+      "Comment": "Map size selection"
     },
     {
       "Key": "Random Map",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "随机地图",
+      "Comment": "Procedurally generated map selection"
     },
     {
       "Key": "Pitched Battle",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "正式战争",
+      "Comment": "Standard open-field battle scenario"
     },
     {
       "Key": "Get on Steam",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "在Steam中蓝",
+      "Comment": "Link to Steam store page"
     },
     {
       "Key": "Faction Pack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "阵营气",
+      "Comment": "Game expansion/DLC containing faction content"
     },
     {
       "Key": "Into the Abyss",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "下上深渊",
+      "Comment": "Expansion title - maintains fantasy tone"
     },
     {
       "Key": "Edit List",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "编辑列表",
+      "Comment": "Modify existing army list"
     },
     {
       "Key": "New List",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "新列表",
+      "Comment": "Create new army list"
     },
     {
       "Key": "Delete List?",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "删除列表？",
+      "Comment": "Confirmation prompt for deletion"
     },
     {
       "Key": "List Name...",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "列表名称...",
+      "Comment": "Placeholder for list naming input"
     },
     {
       "Key": "Warband (500pts)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "战队(500点)",
+      "Comment": "Standard warband with point value in wargame"
     },
     {
       "Key": "Create",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "创建",
+      "Comment": "Action button to create new item"
     },
     {
       "Key": "Select a Border Patrol List\n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "选择一个边界巡选列表\n",
+      "Comment": "Campaign scenario selection with newline preserved"
     },
     {
       "Key": "Alternate",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "交替",
+      "Comment": "Alternative choice or variant option"
     },
     {
       "Key": "Next:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "下一个：",
+      "Comment": "Label for next item in sequence"
     },
     {
       "Key": "Campaign Unlock",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "战争解锁",
+      "Comment": "Campaign milestone achievement"
     },
     {
       "Key": "Start",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "开始",
+      "Comment": "Common action button"
     },
     {
       "Key": "Reward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "奖励",
+      "Comment": "Campaign victory reward"
     },
     {
       "Key": "Variant",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "变体",
+      "Comment": "Alternative version or rule variant"
     },
     {
       "Key": "TBD",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "TBD",
+      "Comment": "Acronym kept as-is: To Be Determined"
     },
     {
       "Key": "The End",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "结束",
+      "Comment": "Campaign conclusion message"
     },
     {
       "Key": "Harder Bosses",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "更强的部万",
+      "Comment": "Campaign difficulty modifier - tougher enemy leaders"
     },
     {
       "Key": "Enemies Rally",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "敌人集结",
+      "Comment": "Campaign difficulty modifier - enemy reinforcements"
     },
     {
       "Key": "Harder Elites",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "更强的精锐",
+      "Comment": "Campaign difficulty modifier - tougher elite units"
     },
     {
       "Key": "Smaller Starting Unit",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "较小的启动单位",
+      "Comment": "Campaign difficulty modifier - reduced starting forces"
     },
     {
       "Key": "Harder Battles",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "更严肃的战争",
+      "Comment": "Campaign difficulty modifier - more challenging battles"
     },
     {
       "Key": "Less Starting Gold",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "较少的启动资中",
+      "Comment": "Campaign difficulty modifier - reduced starting funds"
     },
     {
       "Key": "Challenge Levels",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "挑战级别",
+      "Comment": "Difficulty settings menu"
     },
     {
       "Key": "Resume Ongoing",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "继续进行中",
+      "Comment": "Continue in-progress campaign"
     },
     {
       "Key": "Abandon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "舍弃",
+      "Comment": "Quit campaign without saving"
     },
     {
       "Key": "Really Abandon?",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "真的欲放弃？",
+      "Comment": "Confirmation prompt for campaign abandonment"
     },
     {
       "Key": "Ranked Multiplayer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "排位赛多人游戏",
+      "Comment": "Competitive ranked online game mode"
     },
     {
       "Key": "Rating:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "等级：",
+      "Comment": "Player ranking display label"
     },
     {
       "Key": "Points",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "点数",
+      "Comment": "Ranking points in multiplayer"
     },
     {
       "Key": "Elo",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Elo",
+      "Comment": "Elo rating system - kept as proper noun"
     },
     {
       "Key": "Top Ranked Players",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "顶级排位选手",
+      "Comment": "Leaderboard of top players"
     },
     {
       "Key": "Match History",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "比赛历史",
+      "Comment": "Record of played matches"
     },
     {
       "Key": "Find Match",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "对阵比赛",
+      "Comment": "Search for multiplayer opponent"
     },
     {
       "Key": "Stats",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "统计数据",
+      "Comment": "Player statistics display"
     },
     {
       "Key": "Recruit",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "征兵",
+      "Comment": "Unit recruitment in army building"
     },
     {
       "Key": "Searching.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "正在搜索...",
+      "Comment": "Status message during matchmaking"
     },
     {
       "Key": "Factions",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "阵营",
+      "Comment": "Playable factions/armies in game"
     },
     {
       "Key": "Units Played",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "已使用的单位",
+      "Comment": "Units the player has used in battles"
     },
     {
       "Key": "Full Screen",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "全屏",
+      "Comment": "Display mode setting"
     },
     {
       "Key": "Audio Volume",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "音频音量",
+      "Comment": "Sound level control"
     },
     {
       "Key": "Window Size",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "窗口大小",
+      "Comment": "Display resolution/window size setting"
     },
     {
       "Key": "Music",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "音乐",
+      "Comment": "Background music toggle"
     },
     {
       "Key": "Camera Shake",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "摄像机震动",
+      "Comment": "Screen shake effect setting"
     },
     {
       "Key": "Unit Icon Zoom Distance",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位图标缩放距离",
+      "Comment": "Camera zoom distance for unit icons"
     },
     {
       "Key": "Back",
-      "Translation": "",
-      "Comment": ""
-    },
+      "Translation": "返回",
+      "Comment": "Button to go back to previous menu"
+    }
     {
       "Key": "Cantrips",
-      "Translation": "",
+      "Translation": "戏法",
       "Comment": "Minor magic effects"
     },
     {
       "Key": "Banners",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "军旗",
+      "Comment": "Special unit equipment"
     },
     {
       "Key": "Item Enchantments",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "物品魔法",
+      "Comment": "Equipment modifications"
     },
     {
       "Key": "DLC Commander",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "DLC指挥官",
+      "Comment": "Downloadable content unit"
     },
     {
       "Key": "Unlocked!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "已解锁！",
+      "Comment": "Achievement/unlock notification"
     },
     {
       "Key": "Final Turn!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "最后一轮！",
+      "Comment": "Battle turn limit notification"
     },
     {
       "Key": "- Defeat the enemy Army -",
-      "Translation": "",
+      "Translation": "- 击败敌军 -",
       "Comment": "Battle objective"
     },
     {
       "Key": "- Survive for 3 Turns -",
-      "Translation": "",
+      "Translation": "- 生存3轮 -",
       "Comment": "Survival objective"
     },
     {
       "Key": "Unclaimed",
-      "Translation": "",
+      "Translation": "未领取",
       "Comment": "Objective marker status"
     },
     {
       "Key": "Contested",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "争夺中",
+      "Comment": "Objective under dispute"
     },
     {
       "Key": "Claimed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "已领取",
+      "Comment": "Objective controlled"
     },
     {
       "Key": "Opponents",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "对手",
+      "Comment": "Enemy players list"
     },
     {
       "Key": "(New difficulty unlocked)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "（新难度已解锁）",
+      "Comment": "Difficulty unlock message"
     },
     {
       "Key": "...can you finally rest?",
-      "Translation": "",
+      "Translation": "...你终于可以休息了吗？",
       "Comment": "Campaign ending flavor text"
     },
     {
       "Key": "...but more challenges await",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "...但更多挑战在等待",
+      "Comment": "Campaign continuation message"
     },
     {
       "Key": "0 pts",
-      "Translation": "",
+      "Translation": "0分",
       "Comment": "Points abbreviation - consistent with existing translations"
     },
     {
       "Key": "Opponent Disconnected",
-      "Translation": "",
+      "Translation": "对手断开连接",
       "Comment": "Network disconnection message"
     },
     {
       "Key": "Defeat",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "失败",
+      "Comment": "Battle outcome"
     },
     {
       "Key": "Victory!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "胜利！",
+      "Comment": "Battle outcome"
     },
     {
       "Key": "Draw!",
-      "Translation": "",
-      "Comment": ""
-    },
+      "Translation": "平局！",
+      "Comment": "Battle tie result"
+    }
     {
       "Key": "joins your army!",
-      "Translation": "",
+      "Translation": "加入了你的军队！",
       "Comment": "Campaign event message"
     },
     {
       "Key": "A Foe Joins You",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "敌人加入你",
+      "Comment": "Campaign recruitment event"
     },
     {
       "Key": "Your commander gains a level!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "你的指挥官升级了！",
+      "Comment": "Commander advancement notification"
     },
     {
       "Key": "Target Eliminated",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目标已消灭",
+      "Comment": "Assassination mission complete"
     },
     {
       "Key": "Assassination complete. Claim your bounty!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "暗杀完成。领取你的赏金！",
+      "Comment": "Mission reward notification"
     },
     {
       "Key": "1% gold income",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "1%金币收入",
+      "Comment": "Economic bonus"
     },
     {
       "Key": "3% gold income",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "3%金币收入",
+      "Comment": "Economic bonus"
     },
     {
       "Key": "Your regiment returns in the morning. But something has changed them...",
-      "Translation": "",
+      "Translation": "你的团队在早上回来了。但某些东西改变了他们...",
       "Comment": "Campaign event - ominous tone"
     },
     {
       "Key": "The lost regiment is found! Some soldiers are missing, but those who remain have strenghtened resolve.",
-      "Translation": "",
+      "Translation": "丢失的团队被找到了！一些士兵失踪了，但幸存者的决心加强了。",
       "Comment": "Campaign event - positive outcome"
     },
     {
       "Key": "v",
-      "Translation": "",
+      "Translation": "v",
       "Comment": "Variable or version marker"
     },
     {
       "Key": "x",
-      "Translation": "",
+      "Translation": "x",
       "Comment": "Multiplication symbol"
     },
     {
       "Key": "pts",
-      "Translation": "",
+      "Translation": "分",
       "Comment": "Points abbreviation"
     },
     {
       "Key": "Battles:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "战斗：",
+      "Comment": "Battle count label"
     },
     {
       "Key": "Points Earned:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "获得的点数：",
+      "Comment": "Score display"
     },
     {
       "Key": "W/L:",
-      "Translation": "",
-      "Comment": "Siege/Niederlagen (Wins/Losses)"
+      "Translation": "胜/负：",
+      "Comment": "Wins/Losses ratio"
     },
     {
       "Key": "Enemies Killed:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "敌人消灭数：",
+      "Comment": "Kill count statistic"
     },
     {
       "Key": "<b>Draw<size=30%></color></b>\\n",
-      "Translation": "",
+      "Translation": "<b>平局<size=30%></color></b>\\n",
       "Comment": "Rich text formatting preserved"
     },
     {
       "Key": "Win <size=30%><color=green>+",
-      "Translation": "",
+      "Translation": "胜<size=30%><color=green>+",
       "Comment": "Rich text formatting preserved"
     },
     {
       "Key": "Loss <size=30%>",
-      "Translation": "",
+      "Translation": "负<size=30%>",
       "Comment": "Rich text formatting preserved"
     },
     {
       "Key": "Total Points: <color=#3EFEFF>",
-      "Translation": "",
+      "Translation": "总分：<color=#3EFEFF>",
       "Comment": "Rich text formatting preserved"
-    },
+    }
     {
       "Key": "Elo:  <color=#3EFEFF>",
-      "Translation": "",
+      "Translation": "Elo：<color=#3EFEFF>",
       "Comment": "Keep Elo as international rating term"
     },
     {
       "Key": "Restored 1 wound",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恢复1处伤口",
+      "Comment": "Healing notification"
     },
     {
       "Key": "Restored 3 wounds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恢复3处伤口",
+      "Comment": "Healing notification"
     },
     {
       "Key": "Replenished 1 model",
-      "Translation": "",
+      "Translation": "补充1个模型",
       "Comment": "Unit replenishment"
     },
     {
       "Key": "Replenished 3 models",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "补充3个模型",
+      "Comment": "Unit replenishment"
     },
     {
       "Key": "1 XP",
-      "Translation": "",
-      "Comment": "EP = Erfahrungspunkte (Experience Points)"
+      "Translation": "1 XP",
+      "Comment": "Experience Points"
     },
     {
       "Key": "3 XP",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "3 XP",
+      "Comment": "Experience Points"
     },
     {
       "Key": "Defeated by <color=#FFDF3C>",
-      "Translation": "",
+      "Translation": "被<color=#FFDF3C>击败",
       "Comment": "Campaign defeat message"
     },
     {
       "Key": "</color> in Act",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "</color>在第幕中击败",
+      "Comment": "Campaign act reference"
     },
     {
       "Key": "Great Weapon <color=#B3F333>+1",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "伟大武器<color=#B3F333>+1",
+      "Comment": "Equipment bonus"
     },
     {
       "Key": "Menu",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "菜单",
+      "Comment": "Main menu access"
     },
     {
       "Key": "- Deployment Phase -",
-      "Translation": "",
+      "Translation": "- 部署阶段 -",
       "Comment": "Battle phase"
     },
     {
       "Key": "No Combats, Skipping Phase",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "没有战斗，跳过阶段",
+      "Comment": "No combat notification"
     },
     {
       "Key": "- Charge Phase -",
-      "Translation": "",
+      "Translation": "- 冲锋阶段 -",
       "Comment": "Battle phase"
     },
     {
       "Key": "- Strategic Phase -",
-      "Translation": "",
+      "Translation": "- 战略阶段 -",
       "Comment": "Battle phase"
     },
     {
       "Key": "- Combat Phase -",
-      "Translation": "",
+      "Translation": "- 战斗阶段 -",
       "Comment": "Battle phase"
     },
     {
       "Key": "Turn",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "轮次",
+      "Comment": "Game turn"
     },
     {
       "Key": "You have first activation this phase.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "你在这个阶段有首次激活。",
+      "Comment": "Turn order indicator"
     },
     {
       "Key": "Opponent has first activation this phase.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "对手在这个阶段有首次激活。",
+      "Comment": "Turn order indicator"
     },
     {
       "Key": "Swift",
-      "Translation": "",
-      "Comment": "Consistent with UnitProps_German.json"
-    },
+      "Translation": "迅速",
+      "Comment": "Unit trait - fast moving"
+    }
     {
       "Key": "Activate",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "激活",
+      "Comment": "Unit activation command"
     },
     {
       "Key": "Waiting for opponent...",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "等待对手...",
+      "Comment": "Multiplayer synchronization"
     },
     {
       "Key": "Ready",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "准备好",
+      "Comment": "Player readiness status"
     },
     {
       "Key": "Opponent starts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "对手开始",
+      "Comment": "Turn order choice"
     },
     {
       "Key": "I start",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "我开始",
+      "Comment": "Turn order choice"
     },
     {
       "Key": "Skip Phase",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "跳过阶段",
+      "Comment": "Phase control action"
     },
     {
       "Key": "- Opponents Turn -",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "- 对手的轮次 -",
+      "Comment": "Battle phase indicator"
     },
     {
       "Key": "Declare a Charge",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "宣布冲锋",
+      "Comment": "Combat action"
     },
     {
       "Key": "Charge Reaction",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "冲锋反应",
+      "Comment": "Defensive action"
     },
     {
       "Key": "No Charges, Skipping Phase",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "没有冲锋，跳过阶段",
+      "Comment": "Phase skip notification"
     },
     {
       "Key": "Really Skip?",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "真的跳过？",
+      "Comment": "Confirmation prompt"
     },
     {
       "Key": "Pass",
-      "Translation": "",
+      "Translation": "通过",
       "Comment": "Skip/pass turn action"
     },
     {
       "Key": "- Activate a Unit - ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "- 激活一个单位 -",
+      "Comment": "Action prompt"
     },
     {
       "Key": "Unit Active. \n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位已激活。\n",
+      "Comment": "Status message with newline"
     },
     {
       "Key": "Done",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "完成",
+      "Comment": "Action completion"
     },
     {
       "Key": "-Moving-",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "-移动中-",
+      "Comment": "Unit movement status"
     },
     {
       "Key": "Right Click: Undo Step",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "右键：撤销步骤",
+      "Comment": "Control instructions"
     },
     {
       "Key": "Double Click: Execute Move.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "双击：执行移动",
+      "Comment": "Control instructions"
     },
     {
       "Key": "Greatweapon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "伟大武器",
+      "Comment": "Equipment type"
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor",
-      "Translation": "",
-      "Comment": ""
-    },
+      "Translation": "-1移动。忽视重甲的移动惩罚",
+      "Comment": "Equipment effect"
+    }
     {
       "Key": "Guldan the Conqueror",
-      "Translation": "",
+      "Translation": "征服者古尔丹",
       "Comment": "Proper name with title translation"
     },
     {
       "Key": "Greatweapon and Shield, ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "伟大武器和盾牌，",
+      "Comment": "Equipment combination"
     },
     {
       "Key": "Greatweapon +1",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "伟大武器+1",
+      "Comment": "Equipment bonus"
     },
     {
       "Key": "3 Units",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "3个单位",
+      "Comment": "Unit count"
     },
     {
       "Key": "VS",
-      "Translation": "",
+      "Translation": "VS",
       "Comment": "Versus - universally understood"
     },
     {
       "Key": "Goblin Wolf Riders",
-      "Translation": "",
-      "Comment": "Consistent with faction translations"
+      "Translation": "地精狼骑兵",
+      "Comment": "Unit type name"
     },
     {
       "Key": "Attack Roll",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "攻击投骰",
+      "Comment": "Combat mechanics"
     },
     {
       "Key": "Flanks:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "侧翼：",
+      "Comment": "Positioning label"
     },
     {
       "Key": "Rear:",
-      "Translation": "",
+      "Translation": "后方：",
       "Comment": "Rear attack position"
     },
     {
       "Key": "Bonus:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "奖励：",
+      "Comment": "Combat modifier"
     },
     {
       "Key": "Kills:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "杀伤：",
+      "Comment": "Casualty count"
     },
     {
       "Key": "Rank Bonus:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "等级奖励：",
+      "Comment": "Formation bonus"
     },
     {
       "Key": "Damage Save",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "伤害豁免",
+      "Comment": "Armor save test"
     },
     {
       "Key": "Opponent:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "对手：",
+      "Comment": "Combat participant"
     },
     {
       "Key": "<color=#31D3E3>3+ <size=33%></color> To Save",
-      "Translation": "",
+      "Translation": "<color=#31D3E3>3+<size=33%></color>豁免",
       "Comment": "Rich text formatting preserved"
     },
     {
       "Key": "Reroll Failures",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "重新投掷失败",
+      "Comment": "Combat action"
     },
     {
       "Key": "Blaha vs Blaha",
-      "Translation": "",
+      "Translation": "布拉哈对布拉哈",
       "Comment": "Example/placeholder text"
     },
     {
       "Key": "<color=#30F3FF> 3x</color> Auto Hits",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "<color=#30F3FF>3x</color>自动命中",
+      "Comment": "Combat result"
     },
     {
       "Key": "Event Panel",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "事件面板",
+      "Comment": "UI element"
     },
     {
       "Key": "Dwarf Handgunners fire at the Orc Warriors!Dwarf Orc Warriors!Dwarf Handgunners fire at the Orc Warriors!",
-      "Translation": "",
+      "Translation": "矮人枪手对兽人战士开火！矮人兽人战士！矮人枪手对兽人战士开火！",
       "Comment": "Example/template text - appears to have formatting issue in original"
-    },
+    }
     {
       "Key": "Power <color=#31D3E3><size=133%>3</color> </size>VS Defense <color=#31D3E3><size=133%>3</color> ",
-      "Translation": "",
+      "Translation": "力量<color=#31D3E3><size=133%>3</color></size>对防御<color=#31D3E3><size=133%>3</color>",
       "Comment": "Rich text formatting preserved"
     },
     {
       "Key": "-Opponent Roll-",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "-对手投掷-",
+      "Comment": "Combat phase"
     },
     {
       "Key": "Roll to Hit",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "投掷命中",
+      "Comment": "Combat action"
     },
     {
       "Key": "Power 3 vs Defense 3",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "力量3对防御3",
+      "Comment": "Combat comparison"
     },
     {
       "Key": "Score\n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "分数\n",
+      "Comment": "Score label with newline"
     },
     {
       "Key": "Inspired by Commander",
-      "Translation": "",
+      "Translation": "受指挥官启发",
       "Comment": "Morale buff"
     },
     {
       "Key": "Enemy Morale",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "敌方士气",
+      "Comment": "Status indicator"
     },
     {
       "Key": "Commander Name ",
-      "Translation": "",
+      "Translation": "指挥官名称",
       "Comment": "Placeholder/template"
     },
     {
       "Key": "Enemy Commanders:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "敌方指挥官：",
+      "Comment": "Opponent info"
     },
     {
       "Key": "Turns Left",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "剩余轮次",
+      "Comment": "Turn counter"
     },
     {
       "Key": "Survive!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "生存！",
+      "Comment": "Objective"
     },
     {
       "Key": "- Battle Starting -",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "- 战斗开始 -",
+      "Comment": "Battle phase"
     },
     {
       "Key": "Shaving a dwarf can seem like a fun idea at the time, but it's not worth the consequences in the long run.",
-      "Translation": "",
+      "Translation": "剃须矮人看起来是个有趣的主意，但从长远来看不值得付出代价。",
       "Comment": "Humorous loading screen tip"
     },
     {
       "Key": "You can roll dice by pressing Spacebar (    ). Hold it down to fast forward in combat.",
-      "Translation": "",
+      "Translation": "你可以按空格键(    )投掷骰子。按住可以在战斗中快速前进。",
       "Comment": "Tutorial tip"
     },
     {
       "Key": "Display charge ranges by pressing         -Your Units         - Opponents Units\n",
-      "Translation": "",
+      "Translation": "按下显示冲锋范围-你的单位-对手的单位\n",
       "Comment": "Tutorial tip with key binding placeholder"
     },
     {
       "Key": "Also hold Shift to show Ranged Weapon ranges.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "还可以按住Shift显示远程武器范围。",
+      "Comment": "Control instruction"
     },
     {
       "Key": "Found a bug or just want to talk about the game?",
-      "Translation": "",
+      "Translation": "找到bug或只是想谈论这个游戏？",
       "Comment": "Community engagement prompt"
     },
     {
       "Key": "Discord",
-      "Translation": "",
+      "Translation": "Discord",
       "Comment": "Platform name"
     },
     {
       "Key": "Reddit",
-      "Translation": "",
+      "Translation": "Reddit",
       "Comment": "Platform name"
     },
     {
       "Key": "Units always add their rank bonus to Discipline Tests",
-      "Translation": "",
+      "Translation": "单位总是将他们的等级奖励加入纪律测试中",
+      "Comment": "Rules tip"
+    }
+    {
+      "Key": "Flank and Rear charges add +1 to Combat Score!",
+      "Translation": "侧翼和后方冲锋为战斗分数增加+1！",
       "Comment": "Rules tip"
     },
     {
-      "Key": "Flank and Rear charges add +1 to Combat Score!",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
       "Key": "A units <color=#33FAFF>Skill</color> is a measure of its training and general ability to fight. It  detemines Hit Chance for close combat and ranged attacks.",
-      "Translation": "",
-      "Comment": "Stat explanation - note typo 'detemines' in original"
+      "Translation": "一个单位的<color=#33FAFF>技能</color>是其训练和总体战斗能力的衡量。它决定了近战和远程攻击的命中机会。",
+      "Comment": "Stat explanation - note typo in original"
     },
     {
       "Key": "The <color=#33FAFF>Power</color> stat describes a units physical strength and striking power. It's used in combat to overcome an opponents <color=#33FAFF>Defense.",
-      "Translation": "",
+      "Translation": "该<color=#33FAFF>力量</color>属性描述了一个单位的物理力量和打击力。它在战斗中用于克服对手的<color=#33FAFF>防御",
       "Comment": "Stat explanation"
     },
     {
       "Key": "The <color=#33FAFF>Defense</color> stat is a combination of a units general toughness and armor. It determines the units Damage Save against incoming attacks.",
-      "Translation": "",
+      "Translation": "<color=#33FAFF>防御</color>属性是一个单位一般韧性和装甲的组合。它决定了该单位对传入攻击的伤害豁免。",
       "Comment": "Stat explanation"
     },
     {
       "Key": "The dice in SOVL are mathematically fair. They are also cursed by a demon, who is evil. But they are fair!",
-      "Translation": "",
+      "Translation": "SOVL中的骰子在数学上是公平的。它们也被一个邪恶的恶魔诅咒。但他们是公平的！",
       "Comment": "Humorous tip about RNG"
     },
     {
       "Key": "Concede",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "认输",
+      "Comment": "Battle action - surrender"
     },
     {
       "Key": "Continue",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "继续",
+      "Comment": "Action button"
     },
     {
       "Key": "Cancel\n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "取消\n",
+      "Comment": "Action button with newline"
     },
     {
       "Key": "Victory",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "胜利",
+      "Comment": "Battle result"
     },
     {
       "Key": "Battle Over",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "战斗结束",
+      "Comment": "Status message"
     },
     {
       "Key": "- Scoring Objectives -",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "- 计分目标 -",
+      "Comment": "Results section"
     },
     {
       "Key": "Results",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "结果",
+      "Comment": "Section header"
     },
     {
       "Key": "Return",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "返回",
+      "Comment": "Navigation button"
     },
     {
       "Key": "Details",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "详情",
+      "Comment": "Information display"
     },
     {
       "Key": "Unit",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位",
+      "Comment": "Column header"
     },
     {
       "Key": "Kills",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "杀伤",
+      "Comment": "Column header"
     },
     {
       "Key": "Models",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "模型",
+      "Comment": "Column header - unit members"
     },
     {
       "Key": "Status",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "状态",
+      "Comment": "Column header"
     },
     {
       "Key": "Dwarf Engineer",
-      "Translation": "",
-      "Comment": "Consistent with faction translations"
+      "Translation": "矮人工程师",
+      "Comment": "Unit type"
     },
     {
       "Key": "Torin Sheildbreaker",
-      "Translation": "",
+      "Translation": "托林盾破者",
       "Comment": "Character name - translate title part"
-    },
+    }
     {
       "Key": "DESTROYED",
-      "Translation": "",
+      "Translation": "已摧毁",
       "Comment": "All caps for emphasis"
     },
     {
       "Key": "Save Replay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "保存回放",
+      "Comment": "Battle action"
     },
     {
       "Key": "Enemies Defeated",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "敌人被击败",
+      "Comment": "Battle result"
     },
     {
       "Key": "3333 pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "3333分",
+      "Comment": "Point value"
     },
     {
       "Key": "Objectives:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目标：",
+      "Comment": "Section header"
     },
     {
       "Key": "Deeds of Valor",
-      "Translation": "",
+      "Translation": "英勇行为",
       "Comment": "Achievement/deed name"
     },
     {
       "Key": "Bloodthirsty",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "嗜血",
+      "Comment": "Achievement trait"
     },
     {
       "Key": "Imperial Sword",
-      "Translation": "",
+      "Translation": "帝国之剑",
       "Comment": "Item name"
     },
     {
       "Key": "Deeds of Infamy",
-      "Translation": "",
+      "Translation": "恶名昭彰的行为",
       "Comment": "Anti-achievement/deed name"
     },
     {
       "Key": "Army View",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "军队视图",
+      "Comment": "Display mode"
     },
     {
       "Key": "Asassination complete. Claim your reward!",
-      "Translation": "",
-      "Comment": "Note: typo 'Asassination' in original key"
+      "Translation": "暗杀完成。领取你的奖励！",
+      "Comment": "Note: typo in original key"
     },
     {
       "Key": "Ok",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "确认",
+      "Comment": "Confirmation button"
     },
     {
       "Key": "Level Up!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "升级了！",
+      "Comment": "Advancement notification"
     },
     {
       "Key": "Map View",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "地图视图",
+      "Comment": "Display mode"
     },
     {
       "Key": "Challenge Level:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "挑战级别：",
+      "Comment": "Difficulty indicator"
     },
     {
       "Key": "Less Starting Gold\nHarder Minor Battles\nHarder Elites\nSmaller Starting Unit\nHarder Bosses",
-      "Translation": "",
+      "Translation": "较少的启动资中\n更难的次要战斗\n更强的精锐\n较小的启动单位\n更强的部万",
       "Comment": "List of active challenge modifiers"
     },
     {
       "Key": "Act 1",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "第一幕",
+      "Comment": "Campaign chapter"
     },
     {
       "Key": "Save & Exit",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "保存并退出",
+      "Comment": "Menu action"
     },
     {
       "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 33.",
-      "Translation": "",
+      "Translation": "在第33步被<color=blue>古德里克铁砧隐者</color>击败",
       "Comment": "Campaign defeat message with character name"
     },
     {
       "Key": "Unlocked 1/3",
-      "Translation": "",
-      "Comment": ""
-    },
+      "Translation": "已解锁1/3",
+      "Comment": "Unlock progress"
+    }
     {
       "Key": "Your army has been wiped out...\n",
-      "Translation": "",
+      "Translation": "你的军队被彻底消灭了...\n",
       "Comment": "Campaign defeat message"
     },
     {
       "Key": "A trail of death behind you...",
-      "Translation": "",
+      "Translation": "你身后的死亡之迹...",
       "Comment": "Campaign progress flavor"
     },
     {
       "Key": "Battles Won",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "赢得的战斗",
+      "Comment": "Statistics"
     },
     {
       "Key": "Elite Battles Won",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "赢得的精锐战斗",
+      "Comment": "Statistics"
     },
     {
       "Key": "Boss Battles Won",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "赢得的部万战斗",
+      "Comment": "Statistics"
     },
     {
       "Key": "Enemies Killed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "敌人消灭数",
+      "Comment": "Statistics"
     },
     {
       "Key": "Models Lost",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "模型损失数",
+      "Comment": "Statistics"
     },
     {
       "Key": "Gold Earned",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "赚得的金币",
+      "Comment": "Statistics"
     },
     {
       "Key": "Gold Spent",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "花费的金币",
+      "Comment": "Statistics"
     },
     {
       "Key": "Units Hired",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "招募的单位数",
+      "Comment": "Statistics"
     },
     {
       "Key": "...but more challenges await.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "...但更多挑战在等待",
+      "Comment": "Continuation message"
     },
     {
       "Key": "Level",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "等级",
+      "Comment": "Progression indicator"
     },
     {
       "Key": "You've reached the end...",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "你已经到达了尽头...",
+      "Comment": "Campaign completion message"
     },
     {
       "Key": "The trail of dead conquered.",
-      "Translation": "",
+      "Translation": "死亡之迹被征服",
       "Comment": "Campaign victory message"
     },
     {
       "Key": "But more foes remain!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "但更多的敌人仍然存在！",
+      "Comment": "Teaser for next content"
     },
     {
       "Key": "Thanks for playing!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "感谢游玩！",
+      "Comment": "Closing message"
     },
     {
       "Key": "Dwarf Berserkers",
-      "Translation": "",
-      "Comment": "Unit name - consistent with faction translations"
+      "Translation": "矮人狂战士",
+      "Comment": "Unit name"
     },
     {
       "Key": "New Unit Unlocked!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "新单位已解锁！",
+      "Comment": "Unlock notification"
     },
     {
       "Key": "Starting Units",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "起始单位",
+      "Comment": "Selection menu"
     },
     {
       "Key": "Pick One",
-      "Translation": "",
-      "Comment": ""
-    },
+      "Translation": "选择一个",
+      "Comment": "Selection prompt"
+    }
     {
       "Key": "Dwarven Handgunners",
-      "Translation": "",
+      "Translation": "矮人枪手",
       "Comment": "Unit name"
     },
     {
       "Key": "Embark!",
-      "Translation": "",
+      "Translation": "启航！",
       "Comment": "Campaign start button"
     },
     {
       "Key": "Replenishment:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "补充：",
+      "Comment": "Unit management label"
     },
     {
       "Key": "Models:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "模型：",
+      "Comment": "Unit member count"
     },
     {
       "Key": "Veteran Discipline III",
-      "Translation": "",
+      "Translation": "老兵纪律III",
       "Comment": "Ability name"
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "",
+      "Translation": "对骑兵和战车重新投掷远程和近战攻击",
       "Comment": "Ability description"
     },
     {
       "Key": "Act",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "幕",
+      "Comment": "Campaign chapter"
     },
     {
       "Key": "Lost",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "损失",
+      "Comment": "Unit casualties"
     },
     {
       "Key": "XP",
-      "Translation": "",
-      "Comment": "Erfahrungspunkte"
+      "Translation": "XP",
+      "Comment": "Experience points"
     },
     {
       "Key": "Rest / Loot",
-      "Translation": "",
+      "Translation": "休息/掠夺",
       "Comment": "Camp action"
     },
     {
       "Key": "OR",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "或",
+      "Comment": "Choice separator"
     },
     {
       "Key": "Mercenary Cut: <indent=33%><color=green><b>+10%",
-      "Translation": "",
+      "Translation": "雇佣兵分成：<indent=33%><color=green><b>+10%",
       "Comment": "Rich text formatting preserved"
     },
     {
       "Key": "- Legend -",
-      "Translation": "",
+      "Translation": "- 图例 -",
       "Comment": "Map legend header"
     },
     {
       "Key": "Battle",
-      "Translation": "",
+      "Translation": "战斗",
       "Comment": "Map node type"
     },
     {
       "Key": "Random Event",
-      "Translation": "",
+      "Translation": "随机事件",
       "Comment": "Map node type"
     },
     {
       "Key": "Armory",
-      "Translation": "",
+      "Translation": "军械库",
       "Comment": "Map node type"
     },
     {
       "Key": "Camp Site",
-      "Translation": "",
+      "Translation": "营地",
       "Comment": "Map node type"
     },
     {
       "Key": "Elite Battle",
-      "Translation": "",
+      "Translation": "精锐战斗",
       "Comment": "Map node type"
     },
     {
       "Key": "Assassination",
-      "Translation": "",
+      "Translation": "暗杀",
       "Comment": "Map node type"
     },
     {
       "Key": "Quest",
-      "Translation": "",
-      "Comment": "Map node type - common gaming term"
-    },
+      "Translation": "任务",
+      "Comment": "Map node type"
+    }
     {
       "Key": "Recruit Regiment",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "招募团队",
+      "Comment": "Campaign action"
     },
     {
       "Key": "Retinue",
-      "Translation": "",
+      "Translation": "随从",
       "Comment": "Singular form"
     },
     {
       "Key": "Unit Upgrades",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位升级",
+      "Comment": "Menu option"
     },
     {
       "Key": "Upgrades",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "升级",
+      "Comment": "Button label"
     },
     {
       "Key": "Heavy Armor",
-      "Translation": "",
+      "Translation": "重甲",
       "Comment": "Equipment upgrade"
     },
     {
       "Key": "Replenish or train your units",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "补充或训练你的单位",
+      "Comment": "Camp action description"
     },
     {
       "Key": "Train / Replenish",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "训练/补充",
+      "Comment": "Action button"
     },
     {
       "Key": "+1 XP",
-      "Translation": "",
-      "Comment": "Erfahrungspunkte"
+      "Translation": "+1 XP",
+      "Comment": "Experience bonus"
     },
     {
       "Key": "This is a holy place. Your soldiers can ask for a blessing, but make your choice carefully. ",
-      "Translation": "",
+      "Translation": "这是一个圣地。你的士兵可以请求祝福，但要谨慎选择。",
       "Comment": "Event description"
     },
     {
       "Key": "- Select a Unit -",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "- 选择一个单位 -",
+      "Comment": "Prompt"
     },
     {
       "Key": "Ask for protection.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "请求保护",
+      "Comment": "Event choice"
     },
     {
       "Key": "(Unit re-rolls failed Damage Saves)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "（单位重新投掷失败的伤害豁免）",
+      "Comment": "Ability description"
     },
     {
       "Key": "Rest and gather strength.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "休息并积蓄力量",
+      "Comment": "Event choice"
     },
     {
       "Key": "(Unit is restored to full strenght)",
-      "Translation": "",
-      "Comment": "Typo 'strenght' in original"
+      "Translation": "（单位恢复到完整状态）",
+      "Comment": "Typo in original"
     },
     {
       "Key": "- The unit is restored -",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "- 单位已恢复 -",
+      "Comment": "Event result"
     },
     {
       "Key": "Choose a Unit",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "选择一个单位",
+      "Comment": "Prompt"
     },
     {
       "Key": "A mysterious altar covered in eldritch runes. Your soldiers can ask for a favor, but at what cost...",
-      "Translation": "",
+      "Translation": "一个神秘的祭坛，上面覆盖着诡异的符文。你的士兵可以请求帮助，但代价是什么...",
       "Comment": "Event description - mystical tone"
     },
     {
       "Key": "Losses",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "损失",
+      "Comment": "Result category"
     },
     {
       "Key": "Succeses",
-      "Translation": "",
-      "Comment": "Typo 'Succeses' in original"
+      "Translation": "成功",
+      "Comment": "Result category - typo in original"
     },
     {
       "Key": "Roll",
-      "Translation": "",
-      "Comment": ""
-    },
+      "Translation": "投掷",
+      "Comment": "Action button"
+    }
     {
       "Key": "Some rogue wizards have been spotted in the area. Eliminate them for a reward.",
-      "Translation": "",
+      "Translation": "该地区发现了一些流浪法师。消灭他们以获得奖励。",
       "Comment": "Quest description"
     },
     {
       "Key": "Reward: 1 magic item for your commander",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "奖励：为你的指挥官获得1件魔法物品",
+      "Comment": "Quest reward"
     },
     {
       "Key": "Seek them out!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "寻找他们！",
+      "Comment": "Quest action"
     },
     {
       "Key": "Sent",
-      "Translation": "",
+      "Translation": "已发送",
       "Comment": "Unit sent on quest"
     },
     {
       "Key": "Your army has found  a forgotten tomb in the wilderness. Does it contain ancient treasure or slumbering evil?\n\n\n\n\n\nForm a search party to investigate or leave it be...\n",
-      "Translation": "",
+      "Translation": "你的军队在荒野中发现了一个被遗忘的墓穴。它包含古老的宝藏还是沉睡的邪恶？\n\n\n\n\n\n组建搜索队调查或离开...\n",
       "Comment": "Event description - preserve extra newlines"
     },
     {
       "Key": "Enter The Darkness",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "进入黑暗",
+      "Comment": "Event choice"
     },
     {
       "Key": "Search Party:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "搜索队：",
+      "Comment": "Unit selection"
     },
     {
       "Key": "Treasures Found",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "发现的宝藏",
+      "Comment": "Result category"
     },
     {
       "Key": "Mercenaries are offering to join your warband in exchange for a cut of your income.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "雇佣兵愿意加入你的战队以换取你收入的一部分。",
+      "Comment": "Event description"
     },
     {
       "Key": "Elven City Guard are expensive but skilled fighters.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "精灵城卫兵很昂贵但技艺高超。",
+      "Comment": "Unit description"
     },
     {
       "Key": "10% of gold income",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "10%的金币收入",
+      "Comment": "Cost"
     },
     {
       "Key": "Hire",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "雇用",
+      "Comment": "Action button"
     },
     {
       "Key": "Wait...",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "等等...",
+      "Comment": "Event choice"
     },
     {
       "Key": "Search",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "搜索",
+      "Comment": "Action button"
     },
     {
       "Key": "You come across a treacherous swamp. As you attempt to cross it, one of your regiments fall behind and is lost in the fog. You can wait for them to return or risk sending a search party.",
-      "Translation": "",
+      "Translation": "你遇到了一个危险的沼泽。当你尝试穿过它时，你的一个团队落后并在雾中迷失。你可以等待他们归来或冒着风险派遣搜索队。",
       "Comment": "Event description"
     },
     {
       "Key": "A mercenary captain and his trusty gryphon offers to join your army for coin.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "一个雇佣兵队长和他可靠的狮鹫提议以钱币加入你的军队。",
+      "Comment": "Unit recruitment"
     },
     {
       "Key": "An ancient place of power. ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "一个古老的力量之地。",
+      "Comment": "Location description"
     },
     {
       "Key": "Enter the Circle",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "进入圆圈",
+      "Comment": "Event choice"
     },
     {
       "Key": "Arcane Reversal",
-      "Translation": "",
+      "Translation": "秘法逆转",
       "Comment": "Spell/ability name"
     },
     {
       "Key": "Learn Spell",
-      "Translation": "",
-      "Comment": ""
-    },
+      "Translation": "学习法术",
+      "Comment": "Action button"
+    }
     {
       "Key": "A good place to purchase some firepower...",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "一个购买火力的好地方...",
+      "Comment": "Location description"
     },
     {
       "Key": "Dwarf Cannon",
-      "Translation": "",
+      "Translation": "矮人大炮",
       "Comment": "Unit name"
     },
     {
       "Key": "Mount",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "坐骑",
+      "Comment": "Equipment type"
     },
     {
       "Key": "Your soldiers have found an ancient artifact. Make use of its power or sell it in the nearest settlement...",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "你的士兵发现了一个古老的工艺品。利用它的力量或在最近的定居点出售...",
+      "Comment": "Event description"
     },
     {
       "Key": "Sword of Ruin",
-      "Translation": "",
+      "Translation": "毁灭之剑",
       "Comment": "Artifact name"
     },
     {
       "Key": "+1 Power. Once per battle, cast the Fireball spell.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1力量。每场战斗一次，施放火球法术。",
+      "Comment": "Artifact effect"
     },
     {
       "Key": "Use It",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "使用它",
+      "Comment": "Event choice"
     },
     {
       "Key": "Sell:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "出售：",
+      "Comment": "Financial option"
     },
     {
       "Key": "An old dwarven weapon cache. We can probably salvage something.\n Pick one...",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "一个古老的矮人武器缓存。我们可能可以抢救一些东西。\n选择一个...",
+      "Comment": "Event description"
     },
     {
       "Key": "Ranged Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "远程攻击",
+      "Comment": "Weapon type"
     },
     {
       "Key": "Equip",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "装备",
+      "Comment": "Action button"
     },
     {
       "Key": "A shrine to the ancient Dwarven ancestors. \nThis is a sacred place for all Dwarves.",
-      "Translation": "",
+      "Translation": "一个献给古老矮人祖先的神殿。\n这是所有矮人的神圣之地。",
       "Comment": "Dwarf faction event"
     },
     {
       "Key": "Ask the Ancestors for Strength",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "向祖先请求力量",
+      "Comment": "Event choice"
     },
     {
       "Key": "(Unit gains a powerful ability)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "（单位获得强大的能力）",
+      "Comment": "Effect description"
     },
     {
       "Key": "- Choose One -",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "- 选择一个 -",
+      "Comment": "Selection prompt"
     },
     {
       "Key": "A blessing from the Lady.",
-      "Translation": "",
-      "Comment": "Knights of Avalon faction event"
+      "Translation": "来自女士的祝福",
+      "Comment": "Faction event"
     },
     {
       "Key": "Choose",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "选择",
+      "Comment": "Action button"
     },
     {
       "Key": "Restoration",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "复原",
+      "Comment": "Ability name"
     },
     {
       "Key": "Replenish all units fully.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "完全补充所有单位",
+      "Comment": "Effect description"
     },
     {
       "Key": "Lady's Prayer",
-      "Translation": "",
-      "Comment": "Knights of Avalon ability"
-    },
+      "Translation": "女士的祈祷",
+      "Comment": "Ability name"
+    }
     {
       "Key": "Gain the Lady's Blessing for the next 3 battles.\n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "在接下来的3场战斗中获得女士的祝福。\n",
+      "Comment": "Ability effect"
     },
     {
       "Key": "(Your Knights are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "",
+      "Translation": "（你的骑士无所畏惧，拥有冲锋奖励：+1攻击）",
       "Comment": "Effect description"
     },
     {
       "Key": "The drums of war are sounding!",
-      "Translation": "",
-      "Comment": "Greenskin/Orc faction event"
+      "Translation": "战争的战鼓声响起！",
+      "Comment": "Faction event"
     },
     {
       "Key": "Take Command",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "指挥",
+      "Comment": "Event choice"
     },
     {
       "Key": "Your Commander gains one level.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "你的指挥官获得一个等级。",
+      "Comment": "Effect description"
     },
     {
       "Key": "Rally the Tribes",
-      "Translation": "",
-      "Comment": "Greenskin ability"
+      "Translation": "召集部落",
+      "Comment": "Ability name"
     },
     {
       "Key": "Gain Tribal Fury for the next 3 battles.\n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "在接下来的3场战斗中获得部落狂怒。\n",
+      "Comment": "Ability effect"
     },
     {
       "Key": "(Your units are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "（你的单位无所畏惧，拥有冲锋奖励：+1攻击）",
+      "Comment": "Effect description"
     },
     {
       "Key": "A hideout in the trees, \nonly known to the Deepwood Elves",
-      "Translation": "",
-      "Comment": "Deepwood faction event"
+      "Translation": "树林中的一个隐藏处，\n只有深林精灵知道",
+      "Comment": "Faction event"
     },
     {
       "Key": "Rest",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "休息",
+      "Comment": "Event choice"
     },
     {
       "Key": "Replenish all Units fully.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "完全补充所有单位",
+      "Comment": "Effect description"
     },
     {
       "Key": "Commune with Forest Spirits",
-      "Translation": "",
-      "Comment": "Deepwood faction ability"
+      "Translation": "与森林之灵交流",
+      "Comment": "Ability name"
     },
     {
       "Key": "Gain Forest Spirits Aid for the next 3 battles.\n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "在接下来的3场战斗中获得森林之灵的帮助。\n",
+      "Comment": "Ability effect"
     },
     {
       "Key": "(Your units have +3 Move Speed and +1 to Ranged Attack Rolls) ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "（你的单位拥有+3移动速度和+1远程攻击投掷）",
+      "Comment": "Effect description"
     },
     {
       "Key": "Deadly arrows crafted by the Deepwood Elves. Pick one.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "由深林精灵制作的致命箭矢。选择一个。",
+      "Comment": "Equipment choice"
     },
     {
       "Key": "Event Name",
-      "Translation": "",
+      "Translation": "事件名称",
       "Comment": "Placeholder string"
     },
     {
       "Key": "Light Infantry - 33 pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "轻步兵 - 33分",
+      "Comment": "Unit cost display"
     },
     {
       "Key": "Level:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "等级：",
+      "Comment": "Character stat"
     },
     {
       "Key": "XP:",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "XP：",
+      "Comment": "Character stat"
     },
     {
       "Key": "- Dwarf Warriors",
-      "Translation": "",
+      "Translation": "- 矮人战士",
       "Comment": "Unit name in list"
-    },
+    }
     {
       "Key": "33 pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "33分",
+      "Comment": "Points value"
     },
     {
       "Key": "Select Unit",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "选择单位",
+      "Comment": "UI button"
     },
     {
       "Key": "Apply",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "应用",
+      "Comment": "Action button"
     },
     {
       "Key": "Magic Weapons",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "魔法武器",
+      "Comment": "Equipment category"
     },
     {
       "Key": "Magic Items",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "魔法物品",
+      "Comment": "Equipment category"
     },
     {
       "Key": "Magic Banners",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "魔法军旗",
+      "Comment": "Equipment category"
     },
     {
       "Key": "Banner of Big Moon",
-      "Translation": "",
-      "Comment": "Item name - Greenskin faction"
+      "Translation": "大月军旗",
+      "Comment": "Item name"
     },
     {
       "Key": "130pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "130分",
+      "Comment": "Points value"
     },
     {
       "Key": "Item Rules Effect\n",
-      "Translation": "",
+      "Translation": "物品规则效果\n",
       "Comment": "Placeholder text"
     },
     {
       "Key": "Unlocked ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "已解锁",
+      "Comment": "Status indicator"
     },
     {
       "Key": "33pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "33分",
+      "Comment": "Points value"
     },
     {
       "Key": "<color=#31D3E3>3<size=33%></color> D3",
-      "Translation": "",
-      "Comment": "Rich text dice notation - W3 = Würfel3"
+      "Translation": "<color=#31D3E3>3<size=33%></color> D3",
+      "Comment": "Rich text dice notation - preserved as is"
     },
     {
       "Key": "< <color=#31D3E3>3",
-      "Translation": "",
+      "Translation": "< <color=#31D3E3>3",
       "Comment": "Rich text comparison - keep as is"
     },
     {
       "Key": "<color=#31D3E3>1<size=33%></color> D3",
-      "Translation": "",
+      "Translation": "<color=#31D3E3>1<size=33%></color> D3",
       "Comment": "Rich text dice notation"
     },
     {
       "Key": "30pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "30分",
+      "Comment": "Points value"
     },
     {
       "Key": "333 pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "333分",
+      "Comment": "Points value"
     },
     {
       "Key": "BorderPatrol",
-      "Translation": "",
+      "Translation": "边界巡逻",
       "Comment": "Game mode name"
     },
     {
       "Key": "invalid",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "无效",
+      "Comment": "Error state"
     },
     {
       "Key": "Battalion",
-      "Translation": "",
+      "Translation": "营",
       "Comment": "Army size category"
     },
     {
       "Key": "Unnamed List",
-      "Translation": "",
-      "Comment": ""
-    },
+      "Translation": "未命名列表",
+      "Comment": "Default list name"
+    }
     {
       "Key": "Screenshot sent to Steam",
-      "Translation": "",
+      "Translation": "截图已发送到Steam",
       "Comment": "System message"
     },
     {
       "Key": "Battle Line",
-      "Translation": "",
+      "Translation": "战斗线",
       "Comment": "Unit category"
     },
     {
       "Key": "Fast Attack",
-      "Translation": "",
+      "Translation": "快速攻击",
       "Comment": "Unit category"
     },
     {
       "Key": "Ranged Support",
-      "Translation": "",
+      "Translation": "远程支持",
       "Comment": "Unit category"
     },
     {
       "Key": "Imperial Armory",
-      "Translation": "",
+      "Translation": "帝国军械库",
       "Comment": "Game mode name"
     },
     {
       "Key": "Border Patrol",
-      "Translation": "",
+      "Translation": "边界巡逻",
       "Comment": "Game mode name"
     },
     {
       "Key": "Legion",
-      "Translation": "",
+      "Translation": "军团",
       "Comment": "Army size category"
     },
     {
       "Key": "Unrestricted",
-      "Translation": "",
+      "Translation": "无限制",
       "Comment": "Game mode"
     },
     {
       "Key": "103pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "103分",
+      "Comment": "Points value"
     },
     {
       "Key": "133pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "133分",
+      "Comment": "Points value"
     },
     {
       "Key": "Commander Ability",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "指挥官能力",
+      "Comment": "Equipment slot"
     },
     {
       "Key": "Weapon Set",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "武器套装",
+      "Comment": "Equipment slot"
     },
     {
       "Key": "Magic Banner",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "魔法军旗",
+      "Comment": "Equipment slot"
     },
     {
       "Key": "131pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "131分",
+      "Comment": "Points value"
     },
     {
       "Key": "13pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "13分",
+      "Comment": "Points value"
     },
     {
       "Key": "10pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "10分",
+      "Comment": "Points value"
     },
     {
       "Key": "Weapon Enchantment",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "武器附魔",
+      "Comment": "Equipment type"
     },
     {
       "Key": "Item Enchantment",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "物品附魔",
+      "Comment": "Equipment type"
     },
     {
       "Key": "Spell",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "法术",
+      "Comment": "Equipment type"
     },
     {
       "Key": "<b>Draw<size=30%></color></b>\n",
-      "Translation": "",
+      "Translation": "<b>平局<size=30%></color></b>\n",
       "Comment": "Battle result - preserve rich text tags"
-    },
+    }
     {
       "Key": "Challenge Level: 3",
-      "Translation": "",
+      "Translation": "挑战等级：3",
       "Comment": "Campaign difficulty indicator"
     },
     {
       "Key": "A collection of fierce beasts...",
-      "Translation": "",
+      "Translation": "一群凶猛的野兽...",
       "Comment": "Campaign encounter description"
     },
     {
       "Key": "Turn 1 begins!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "第1轮开始！",
+      "Comment": "Battle phase message"
     },
     {
       "Key": "Confident",
-      "Translation": "",
+      "Translation": "自信",
       "Comment": "Morale state"
     },
     {
       "Key": "Turn 3 begins!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "第3轮开始！",
+      "Comment": "Battle phase message"
     },
     {
       "Key": "activates",
-      "Translation": "",
+      "Translation": "激活",
       "Comment": "Ability/unit activation message"
     },
     {
       "Key": "You are starting player!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "你是先手玩家！",
+      "Comment": "Turn order notification"
     },
     {
       "Key": "Confirm?",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "确认？",
+      "Comment": "Confirmation prompt"
     },
     {
       "Key": " Attack Roll",
-      "Translation": "",
+      "Translation": " 攻击投掷",
       "Comment": "Preserve leading space"
     },
     {
       "Key": "Next",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "下一个",
+      "Comment": "Navigation button"
     },
     {
       "Key": "Opponent",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "对手",
+      "Comment": "Reference"
     },
     {
       "Key": "Break Test",
-      "Translation": "",
-      "Comment": "Test to see if unit breaks and flees"
+      "Translation": "破裂测试",
+      "Comment": "Morale test type"
     },
     {
       "Key": "3 or lower to Hold",
-      "Translation": "",
+      "Translation": "3或更低才能坚守",
       "Comment": "Morale test success condition"
     },
     {
       "Key": "rally!",
-      "Translation": "",
+      "Translation": "集结！",
       "Comment": "Unit regains morale"
     },
     {
       "Key": "3 or lower to Rally",
-      "Translation": "",
+      "Translation": "3或更低才能集结",
       "Comment": "Rally test success condition"
     },
     {
       "Key": "0 or lower to Hold",
-      "Translation": "",
+      "Translation": "0或更低才能坚守",
       "Comment": "Auto-break situation"
     },
     {
       "Key": "fled off the board!",
-      "Translation": "",
+      "Translation": "逃离了棋盘！",
       "Comment": "Unit routed off table"
     },
     {
       "Key": "Wavering",
-      "Translation": "",
-      "Comment": "Morale state - unit close to breaking"
+      "Translation": "摇摇欲坠",
+      "Comment": "Morale state"
     },
     {
       "Key": "Confirm",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "确认",
+      "Comment": "Action button"
     },
     {
       "Key": "Routing this turn!",
-      "Translation": "",
+      "Translation": "这轮正在溃逃！",
       "Comment": "Unit is fleeing"
     },
     {
       "Key": " has been wiped out!",
-      "Translation": "",
+      "Translation": " 已被彻底消灭！",
       "Comment": "Unit destroyed message - preserve leading space"
     },
     {
       "Key": "Beast Master",
-      "Translation": "",
+      "Translation": "兽群驯兽师",
       "Comment": "Unit type or commander class"
     },
     {
@@ -2263,73 +2263,73 @@
     },
     {
       "Key": "You can roll dice by pressing Spacebar. Hold it down to fast forward in combat.",
-      "Translation": "",
-      "Comment": "Anleitung für Spielmechanik"
+      "Translation": "你可以按空格键投掷骰子。按住可以在战斗中快速前进。",
+      "Comment": "Game mechanic tutorial"
     },
     {
       "Key": "Forest",
-      "Translation": "",
-      "Comment": "Geländeart"
+      "Translation": "森林",
+      "Comment": "Terrain type"
     },
     {
       "Key": "-Difficult Terrain-",
-      "Translation": "",
-      "Comment": "Geländeeigenschaft die Bewegung behindert"
+      "Translation": "-困难地形-",
+      "Comment": "Terrain property that impedes movement"
     },
     {
       "Key": "Building",
-      "Translation": "",
-      "Comment": "Geländeart"
+      "Translation": "建筑",
+      "Comment": "Terrain type"
     },
     {
       "Key": "-Impassable-",
-      "Translation": "",
-      "Comment": "Geländeeigenschaft - kann nicht betreten werden"
+      "Translation": "-不可通行-",
+      "Comment": "Terrain property - cannot be entered"
     },
     {
       "Key": "Chasm",
-      "Translation": "",
-      "Comment": "Geländeart - tiefe Schlucht"
+      "Translation": "裂谷",
+      "Comment": "Terrain type - deep ravine"
     },
     {
       "Key": "Cliff",
-      "Translation": "",
-      "Comment": "Geländeart - steiler Felsabsatz"
+      "Translation": "悬崖",
+      "Comment": "Terrain type - steep cliff"
     },
     {
       "Key": "Lava",
-      "Translation": "",
-      "Comment": "Geländeart - gleiches Wort in Deutsch"
+      "Translation": "熔岩",
+      "Comment": "Terrain type"
     },
     {
       "Key": "Scoring Objective",
-      "Translation": "",
-      "Comment": "Spielziel das Punkte bringt"
+      "Translation": "计分目标",
+      "Comment": "Game objective that grants points"
     },
     {
       "Key": "Water",
-      "Translation": "",
-      "Comment": "Geländeart"
+      "Translation": "水",
+      "Comment": "Terrain type"
     },
     {
       "Key": "Language",
-      "Translation": "",
-      "Comment": "UI-Einstellung"
+      "Translation": "语言",
+      "Comment": "UI setting"
     },
     {
       "Key": "Elites",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "精锐",
+      "Comment": "Unit tier"
     },
     {
       "Key": "Machines of War",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "战争机器",
+      "Comment": "Unit category"
     },
     {
       "Key": "113pts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "113分",
+      "Comment": "Points value"
     }
   ]
 }

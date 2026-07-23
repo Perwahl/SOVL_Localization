@@ -3,1128 +3,1128 @@
   "Translations": [
     {
       "Key": "Spear and Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "矛与盾",
+      "Comment": "Basic melee weapon combination"
     },
     {
       "Key": "Swift",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "迅捷",
+      "Comment": "Speed/mobility attribute"
     },
     {
       "Key": "Bolt Thrower",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "弩枪手",
+      "Comment": "Ranged weapon specialist"
     },
     {
       "Key": "Lethal Shots",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "致命射击",
+      "Comment": "Deadly shooting ability"
     },
     {
       "Key": "Crewed Weapon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "搭载武器",
+      "Comment": "Multi-person operated weapon"
     },
     {
       "Key": "Reposition",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "重新部署",
+      "Comment": "Tactical movement ability"
     },
     {
       "Key": "Hand Weapon+Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "手持武器+盾",
+      "Comment": "Basic melee loadout with shield"
     },
     {
       "Key": "Sturdy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "坚固",
+      "Comment": "Durability/defensive attribute"
     },
     {
       "Key": "Fearless",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "无畏",
+      "Comment": "Morale/courage attribute"
     },
     {
       "Key": "Greatweapon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "巨型武器",
+      "Comment": "Large two-handed weapon"
     },
     {
       "Key": "Hand Weapon and Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "手持武器与盾",
+      "Comment": "Standard melee weapon and shield combination"
     },
     {
       "Key": "Mountain's Will",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "山岳之意志",
+      "Comment": "Stance/stance ability with terrain theme"
     },
     {
       "Key": "Ramming Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "冲撞速度",
+      "Comment": "Charge/ram ability for mounted or vehicle units"
     },
     {
       "Key": "Steam Gun",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "蒸汽枪",
+      "Comment": "Steampunk-style ranged weapon"
     },
     {
       "Key": "Flying",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "飞行",
+      "Comment": "Aerial movement ability"
     },
     {
       "Key": "Masterwork Armor",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "精工铠甲",
+      "Comment": "High-quality crafted armor"
     },
     {
       "Key": "Bodyguard",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "保镖",
+      "Comment": "Protection/escort ability"
     },
     {
       "Key": "Frenzy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "狂患",
+      "Comment": "Rage/berserk ability"
     },
     {
       "Key": "Two Hand Weapons",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "双手武器",
+      "Comment": "Dual-wielding weapons"
     },
     {
       "Key": "Crossbows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "弸瞭",
+      "Comment": "Ranged weapon type"
     },
     {
       "Key": "Scout",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "伋出",
+      "Comment": "Reconnaissance/scouting role"
     },
     {
       "Key": "Cannon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大炂",
+      "Comment": "Artillery siege weapon"
     },
     {
       "Key": "Handguns",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "手捣枪",
+      "Comment": "Firearm type weapon"
     },
     {
       "Key": "Catapult",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "投石机",
+      "Comment": "Siege weapon for projectiles"
     },
     {
       "Key": "Banner of Swiftness",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "迅捷旗",
+      "Comment": "Standard that grants speed bonus"
     },
     {
       "Key": "Banner of Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "烽怒旗",
+      "Comment": "Standard that grants combat aggression"
     },
     {
       "Key": "Banner of Valor",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "勇气旗",
+      "Comment": "Standard that grants morale/courage"
     },
     {
       "Key": "Banner of Mist",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "雾气旗",
+      "Comment": "Standard that provides concealment"
     },
     {
       "Key": "War Banner",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "战旗",
+      "Comment": "Standard military banner"
     },
     {
       "Key": "Cursed Standard",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "咕上旗",
+      "Comment": "Banner with dark/evil enchantment"
     },
     {
       "Key": "Heavy Armor",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "重甲",
+      "Comment": "Maximum protection armor type"
     },
     {
       "Key": "Halberd",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "武器",
+      "Comment": "Polearm weapon combining spear and axe"
     },
     {
       "Key": "Lance and Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "\u9495与盧",
+      "Comment": "Mounted melee weapon combination"
     },
     {
       "Key": "Hand Weapon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "手持武器",
+      "Comment": "Basic melee weapon"
     },
     {
       "Key": "Brace of Pistols",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "手捣枪帀",
+      "Comment": "Pair of firearms"
     },
     {
       "Key": "Longbows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "长弓",
+      "Comment": "Ranged weapon type"
     },
     {
       "Key": "Mortar",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "迫击炮",
+      "Comment": "Indirect-fire siege weapon"
     },
     {
       "Key": "Armor Plating",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "铠甲板",
+      "Comment": "Metal reinforcement for vehicles"
     },
     {
       "Key": "Full Steam",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "满气运作",
+      "Comment": "Maximum power for steam-based units"
     },
     {
       "Key": "Claws",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "爪爪",
+      "Comment": "Natural weapon for beasts"
     },
     {
       "Key": "Fangs",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "尖牙",
+      "Comment": "Natural melee weapon for creatures"
     },
     {
       "Key": "Fire Breath",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "喷火",
+      "Comment": "Dragon/magical ranged attack"
     },
     {
       "Key": "Inspire Valor",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "鼓舞勇气",
+      "Comment": "Leadership ability to boost morale"
     },
     {
       "Key": "Vitality",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "活力",
+      "Comment": "Life force/regeneration attribute"
     },
     {
       "Key": "Unyielding",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "不屈不挠",
+      "Comment": "Unbreakable/stubborn defensive trait"
     },
     {
       "Key": "Command",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "指挥",
+      "Comment": "Leadership/authority ability"
     },
     {
       "Key": "Prowess",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "武艺",
+      "Comment": "Combat skill/expertise"
     },
     {
       "Key": "Unnatural Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "超自然力量",
+      "Comment": "Magical or supernatural strength"
     },
     {
       "Key": "Potion of Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "力量药剂",
+      "Comment": "Consumable buff item"
     },
     {
       "Key": "Cruelty",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "残忍",
+      "Comment": "Brutal/vicious combat trait"
     },
     {
       "Key": "Flametongue",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "烈焰剑",
+      "Comment": "Enchanted fire weapon"
     },
     {
       "Key": "Relentless",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "不罢不休",
+      "Comment": "Persistent/unceasing ability"
     },
     {
       "Key": "Heart Seeker",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "心矛之弩",
+      "Comment": "Armor-piercing ranged weapon"
     },
     {
       "Key": "True Strike",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "真往",
+      "Comment": "Accuracy-enhancing ability"
     },
     {
       "Key": "Furious Charge",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "狂怒冲锋",
+      "Comment": "Aggressive charge ability"
     },
     {
       "Key": "Fireball",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "火球术",
+      "Comment": "Magical spell attack"
     },
     {
       "Key": "Frost Ward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "冰霜护罩",
+      "Comment": "Defensive ice magic"
     },
     {
       "Key": "Divine Favour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "神圣恩宠",
+      "Comment": "Holy blessing ability"
     },
     {
       "Key": "Shadow Bolt",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "暗影箭",
+      "Comment": "Dark ranged spell"
     },
     {
       "Key": "Radiant Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "辉煌盾",
+      "Comment": "Holy defensive magic"
     },
     {
       "Key": "Hex Of Ruin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "毁灭诅咒",
+      "Comment": "Destructive curse spell"
     },
     {
       "Key": "Shortbows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "短弓",
+      "Comment": "Close-range bow type"
     },
     {
       "Key": "Crushing Charge",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "粉碎冲锋",
+      "Comment": "Heavy impact charge attack"
     },
     {
       "Key": "Regeneration",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "再生",
+      "Comment": "Healing/recovery ability"
     },
     {
       "Key": "Poisoned Attacks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "毒性攻击",
+      "Comment": "Venomous damage effect"
     },
     {
       "Key": "Web",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "蛛布",
+      "Comment": "Entangling web trap"
     },
     {
       "Key": "Warcry",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "战吼",
+      "Comment": "Intimidating shout ability"
     },
     {
       "Key": "Primal Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "原始怒火",
+      "Comment": "Primitive rage ability"
     },
     {
       "Key": "Thousand Mouths",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "千口之流",
+      "Comment": "Multi-headed creature ability"
     },
     {
       "Key": "Shroud",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "隐袍",
+      "Comment": "Concealment/invisibility effect"
     },
     {
       "Key": "Wildform",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "野兽形态",
+      "Comment": "Transformation into beast form"
     },
     {
       "Key": "Power Of Many",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "众上之力",
+      "Comment": "Collective strength ability"
     },
     {
       "Key": "Explosive Charges",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "爆炸装置",
+      "Comment": "Explosive attack device"
     },
     {
       "Key": "Ambusher",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "伏击者",
+      "Comment": "Sneak attack specialist"
     },
     {
       "Key": "Inferno Cannon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "炼狱炮",
+      "Comment": "Fiery artillery weapon"
     },
     {
       "Key": "Marksman Rifle",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "狙击步枪",
+      "Comment": "Precision ranged weapon"
     },
     {
       "Key": "Ranger",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "游侠",
+      "Comment": "Ranged combat specialist"
     },
     {
       "Key": "Dwarf Pistol",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "矮人手枪",
+      "Comment": "Dwarf-crafted firearm"
     },
     {
       "Key": "Mechanical Expertise",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "机械精通",
+      "Comment": "Technical/mechanical mastery"
     },
     {
       "Key": "Elven Mastery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "精灵掌法",
+      "Comment": "Elven-heritage combat skill"
     },
     {
       "Key": "Bows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "弓",
+      "Comment": "Basic ranged weapon type"
     },
     {
       "Key": "Rallying Cry",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "集结呐喊",
+      "Comment": "Morale-boosting rally call"
     },
     {
       "Key": "Arcane Web",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "秘法蛛网",
+      "Comment": "Magical web entanglement spell"
     },
     {
       "Key": "Reality Rift",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "现实裂隙",
+      "Comment": "Planar/dimensional tear spell"
     },
     {
       "Key": "Fiery Blades",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "烈焰刀刃",
+      "Comment": "Fire-enchanted weapons"
     },
     {
       "Key": "Reanimated",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "复活的",
+      "Comment": "Undead/resurrected state"
     },
     {
       "Key": "Unarmed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "无武装",
+      "Comment": "Hand-to-hand combat without weapons"
     },
     {
       "Key": "Putrid Stench",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "腐烂恶臭",
+      "Comment": "Nauseating decay aura"
     },
     {
       "Key": "Eternal Reign",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "永恒统治",
+      "Comment": "Undying rule/dominion"
     },
     {
       "Key": "Unholy Vigour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "邪恶活力",
+      "Comment": "Dark vitality enhancement"
     },
     {
       "Key": "Reanimate",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "复活术",
+      "Comment": "Spell to raise undead"
     },
     {
       "Key": "Plague",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "瘟疫",
+      "Comment": "Disease curse/ability"
     },
     {
       "Key": "Raise Dead",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "唤起亡灵",
+      "Comment": "Necromancy summoning spell"
     },
     {
       "Key": "Javelins",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "标枪",
+      "Comment": "Thrown ranged weapon"
     },
     {
       "Key": "Boulder Throw",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "投掷巨石",
+      "Comment": "Giant projectile attack"
     },
     {
       "Key": "Blood Frenzy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "血色狂怒",
+      "Comment": "Bestial rage fueled by bloodlust"
     },
     {
       "Key": "Raider",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "掠夺者",
+      "Comment": "Aggressive military unit"
     },
     {
       "Key": "Blood Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "血怒",
+      "Comment": "Combat ability fueled by violence"
     },
     {
       "Key": "Abyssal Armor",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "深渊甲",
+      "Comment": "Dark/demonic armor"
     },
     {
       "Key": "Scaly Skin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "鳞皮",
+      "Comment": "Dragon/reptile natural armor"
     },
     {
       "Key": "Demonic",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恶魔",
+      "Comment": "Infernal/hellish trait"
     },
     {
       "Key": "Gift Of War",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "战争之赐",
+      "Comment": "War-granted blessing or power"
     },
     {
       "Key": "Tusks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "獠牙",
+      "Comment": "Tusks as natural weapon"
     },
     {
       "Key": "Demonic Possession",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恶魔附身",
+      "Comment": "Infernal entity control"
     },
     {
       "Key": "Pack Tactics",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "群体战术",
+      "Comment": "Coordinated group combat"
     },
     {
       "Key": "Howl",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "怒吼",
+      "Comment": "Beast vocalization ability"
     },
     {
       "Key": "Horns",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "尖角",
+      "Comment": "Horns as natural weapon"
     },
     {
       "Key": "Newt Shortbows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "蝾螈短弓",
+      "Comment": "Small creature ranged weapon"
     },
     {
       "Key": "Roar!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "咆哮！",
+      "Comment": "Intimidating roar attack"
     },
     {
       "Key": "Ancient Knowledge",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "古老知识",
+      "Comment": "Primordial wisdom/lore"
     },
     {
       "Key": "Throwing Stars",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "飞镖",
+      "Comment": "Ranged throwing weapon"
     },
     {
       "Key": "Longrifle",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "长步枪",
+      "Comment": "Long-range firearm"
     },
     {
       "Key": "Sling",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "投石器",
+      "Comment": "Simple projectile weapon"
     },
     {
       "Key": "Flamer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "喷火枪",
+      "Comment": "Incendiary weapon"
     },
     {
       "Key": "Doom Bell",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "厄运钟",
+      "Comment": "Cursed magical artifact"
     },
     {
       "Key": "Cruel Motivation",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "残忍驱使",
+      "Comment": "Dark motivational ability"
     },
     {
       "Key": "Deadly Strike",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "致命一击",
+      "Comment": "Lethal attack ability"
     },
     {
       "Key": "Hidden",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "隐匿",
+      "Comment": "Stealth/concealment ability"
     },
     {
       "Key": "Barkskin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "树皮肤",
+      "Comment": "Plant-based natural armor"
     },
     {
       "Key": "Forest Spirit",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "森林精灵",
+      "Comment": "Nature deity/spirit"
     },
     {
       "Key": "Elven Accuracy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "精灵精准",
+      "Comment": "Elf-like accuracy/aim"
     },
     {
       "Key": "Hunters Bow",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "猎人弓",
+      "Comment": "Hunter-class ranged weapon"
     },
     {
       "Key": "Hunters Call",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "猎人呼声",
+      "Comment": "Coordinated hunting ability"
     },
     {
       "Key": "Regrowth",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "再生",
+      "Comment": "Plant-based regeneration"
     },
     {
       "Key": "Take Root",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "扎根",
+      "Comment": "Plant immobility trait"
     },
     {
       "Key": "Light Crossbow",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "轻弩",
+      "Comment": "Lighter ranged weapon"
     },
     {
       "Key": "Hooves",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "马蹄",
+      "Comment": "Natural mounted unit attribute"
     },
     {
       "Key": "Feint",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "虚招",
+      "Comment": "Tactical deceptive move"
     },
     {
       "Key": "Gift Of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "欺诈之赐",
+      "Comment": "Deceptive power"
     },
     {
       "Key": "Gift Of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "腐烂之赐",
+      "Comment": "Decay/rot power"
     },
     {
       "Key": "Phase Out",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "相位移位",
+      "Comment": "Dimensional displacement ability"
     },
     {
       "Key": "Lord of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "腐烂之主",
+      "Comment": "Decay-aligned lord"
     },
     {
       "Key": "Lord of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "欺诈之主",
+      "Comment": "Deception-aligned lord"
     },
     {
       "Key": "Lord Of War",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "战争之主",
+      "Comment": "War-aligned lord"
     },
     {
       "Key": "Horse Masters",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "马术大师",
+      "Comment": "Mounted combat mastery"
     },
     {
       "Key": "Fey",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "仙灵",
+      "Comment": "Fay/magical nature"
     },
     {
       "Key": "Aura of Protection",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "保护光环",
+      "Comment": "Defensive aura effect"
     },
     {
       "Key": "Holy Blade",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "圣剑",
+      "Comment": "Divine weapon"
     },
     {
       "Key": "Aura of Vengeance",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "复仇光环",
+      "Comment": "Offensive aura effect"
     },
     {
       "Key": "3 Hand Weapons",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "三把手持武器",
+      "Comment": "Triple wielding attack"
     },
     {
       "Key": "3x Pistols",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "三支手枪",
+      "Comment": "Triple pistol attack"
     },
     {
       "Key": "Lance+Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "长枪+盾",
+      "Comment": "Cavalry weapon configuration"
     },
     {
       "Key": "Dark Gift",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "黑暗之赐",
+      "Comment": "Evil/dark power"
     },
     {
       "Key": "Divine Protection",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "神圣守护",
+      "Comment": "Holy defensive ability"
     },
     {
       "Key": "Battle Hardened",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "久经沙场",
+      "Comment": "Combat veteran status"
     },
     {
       "Key": "Marksman",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "神枪手",
+      "Comment": "Precision shooter"
     },
     {
       "Key": "Spell Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "法力",
+      "Comment": "Magical energy/strength"
     },
     {
       "Key": "Spell Weaver",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "织法师",
+      "Comment": "Advanced mage"
     },
     {
       "Key": "Offensive Mastery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "进攻精通",
+      "Comment": "Advanced combat skill"
     },
     {
       "Key": "Veteran Crew",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "老兵船员",
+      "Comment": "Experienced unit crew"
     },
     {
       "Key": "Veteran Discipline",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "老兵纪律",
+      "Comment": "Experienced combat discipline"
     },
     {
       "Key": "Veteran Accuracy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "老兵精准",
+      "Comment": "Experienced marksman accuracy"
     },
     {
       "Key": "Veteran Skill",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "老兵技艺",
+      "Comment": "Veteran combat expertise"
     },
     {
       "Key": "Demonic Discipline",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恶魔纪律",
+      "Comment": "Demonic unit training"
     },
     {
       "Key": "Demonic Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恶魔狂怒",
+      "Comment": "Infernal rage"
     },
     {
       "Key": "Demonic Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恶魔之力",
+      "Comment": "Infernal strength"
     },
     {
       "Key": "Demonic Resilience",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恶魔韧性",
+      "Comment": "Infernal durability"
     },
     {
       "Key": "Demonic Skill",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恶魔技艺",
+      "Comment": "Infernal combat expertise"
     },
     {
       "Key": "Demonic Defense",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恶魔防御",
+      "Comment": "Infernal defensive trait"
     },
     {
       "Key": "Sword Of Ruin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "毁灭之剑",
+      "Comment": "Destructive magical sword"
     },
     {
       "Key": "Cloak Of Shadows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "影子披风",
+      "Comment": "Stealth/concealment item"
     },
     {
       "Key": "Horn Of Discord",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "不和之角",
+      "Comment": "Confusion/disorder artifact"
     },
     {
       "Key": "Veteran Marksmen",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "老兵射手",
+      "Comment": "Experienced archers"
     },
     {
       "Key": "Oath Of Retribution",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "报复誓言",
+      "Comment": "Vengeful oath"
     },
     {
       "Key": "Oath Of Reckoning",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "清算誓言",
+      "Comment": "Justice-bound oath"
     },
     {
       "Key": "Oath Of Vengeance",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "复仇誓言",
+      "Comment": "Vengeance-bound oath"
     },
     {
       "Key": "Ancestral Strength",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "祖先之力",
+      "Comment": "Inherited power from ancestors"
     },
     {
       "Key": "Greater Blades",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大型刀刃",
+      "Comment": "Enhanced blade weapons"
     },
     {
       "Key": "Greater Favour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大型恩惠",
+      "Comment": "Enhanced blessing spell"
     },
     {
       "Key": "Greater Fireball",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大火球术",
+      "Comment": "Powerful fireball spell"
     },
     {
       "Key": "Greater Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大狂怒",
+      "Comment": "Enhanced rage ability"
     },
     {
       "Key": "Greater Raise",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大招魂术",
+      "Comment": "Enhanced summoning spell"
     },
     {
       "Key": "Greater Reanimate",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大复活术",
+      "Comment": "Enhanced undead raising spell"
     },
     {
       "Key": "Greater Regrowth",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大再生术",
+      "Comment": "Enhanced plant regeneration"
     },
     {
       "Key": "Greater Ruin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大毁灭术",
+      "Comment": "Enhanced ruin spell"
     },
     {
       "Key": "Greater Shadowbolt",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大暗影箭",
+      "Comment": "Enhanced shadow bolt spell"
     },
     {
       "Key": "Greater Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大盾术",
+      "Comment": "Enhanced shield spell"
     },
     {
       "Key": "Greater Vigour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大活力术",
+      "Comment": "Enhanced vitality spell"
     },
     {
       "Key": "Greater Web",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大蛛网术",
+      "Comment": "Enhanced web spell"
     },
     {
       "Key": "Greater Wildform",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大野兽形态",
+      "Comment": "Enhanced transformation spell"
     },
     {
       "Key": "Thousand Maws",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "千个利齿",
+      "Comment": "Multi-jawed creature ability"
     },
     {
       "Key": "Rune Of Farsight",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "远视符文",
+      "Comment": "Vision-enhancing rune"
     },
     {
       "Key": "Rune Of Flame",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "烈焰符文",
+      "Comment": "Fire-enhancing rune"
     },
     {
       "Key": "Rune Of Resilience",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "韧性符文",
+      "Comment": "Durability-enhancing rune"
     },
     {
       "Key": "Rune Of Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "速度符文",
+      "Comment": "Speed-enhancing rune"
     },
     {
       "Key": "Imperial Elites",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "帝国精英",
+      "Comment": "Top-tier imperial units"
     },
     {
       "Key": "Imperial Veterans",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "帝国老兵",
+      "Comment": "Experienced imperial units"
     },
     {
       "Key": "Stronger Summons",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "更强召唤物",
+      "Comment": "Enhanced summoned creatures"
     },
     {
       "Key": "Extra Limb",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "额外肢体",
+      "Comment": "Additional body appendage"
     },
     {
       "Key": "Extra Limbs",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "额外肢体",
+      "Comment": "Multiple additional body appendages"
     },
     {
       "Key": "Grafted Wings",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "接种翼",
+      "Comment": "Surgically added wings"
     },
     {
       "Key": "Necrotic Infusion",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "坏死注入",
+      "Comment": "Death-based enhancement"
     },
     {
       "Key": "Putrid Hide",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "腐烂皮肤",
+      "Comment": "Diseased/rotting skin"
     },
     {
       "Key": "Tunneling Claws",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "挖掘爪",
+      "Comment": "Digging capability"
     },
     {
       "Key": "Unnatural Size",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "不自然的体型",
+      "Comment": "Magically enlarged form"
     },
     {
       "Key": "Elf Bow Mastery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "精灵弓术精通",
+      "Comment": "Elven bow expertise"
     },
     {
       "Key": "Elf Spear Mastery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "精灵长枪精通",
+      "Comment": "Elven spear expertise"
     },
     {
       "Key": "Elf Steed Mastery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "精灵骑术精通",
+      "Comment": "Elven mounted combat expertise"
     },
     {
       "Key": "Eagle Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "鹰之姿态",
+      "Comment": "Eagle form transformation"
     },
     {
       "Key": "Jaguar Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "美洲虎姿态",
+      "Comment": "Jaguar form transformation"
     },
     {
       "Key": "Raptor Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "猛禽姿态",
+      "Comment": "Raptor form transformation"
     },
     {
       "Key": "Salamander Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "火蜥蜴姿态",
+      "Comment": "Fire elemental form"
     },
     {
       "Key": "Serpent Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "蛇形姿态",
+      "Comment": "Snake form transformation"
     },
     {
       "Key": "Turtle Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "龟形姿态",
+      "Comment": "Turtle form transformation"
     },
     {
       "Key": "Backstabbers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "背刺者",
+      "Comment": "Treacherous assassins"
     },
     {
       "Key": "Bloodlust",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "嗜血",
+      "Comment": "Craving for blood/violence"
     },
     {
       "Key": "Tough As Nails",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "硬如铁钉",
+      "Comment": "Extremely durable"
     },
     {
       "Key": "Greater Warcry",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大战吼",
+      "Comment": "Enhanced war cry ability"
     },
     {
       "Key": "Slavers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "奴隶贩子",
+      "Comment": "Enslavement units"
     },
     {
       "Key": "Greater Shroud",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大隐袍术",
+      "Comment": "Enhanced invisibility spell"
     },
     {
       "Key": "Greater Ward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大防护术",
+      "Comment": "Enhanced protection spell"
     },
     {
       "Key": "War Gods Blessing",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "战神祝福",
+      "Comment": "Divine blessing from war deity"
     },
     {
       "Key": "Blessing Of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "腐烂祝福",
+      "Comment": "Blessing aligned with decay"
     },
     {
       "Key": "Blessing Of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "欺诈祝福",
+      "Comment": "Blessing aligned with deception"
     },
     {
       "Key": "Master of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "腐烂大师",
+      "Comment": "Master of decay magic"
     },
     {
       "Key": "Master of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "欺诈大师",
+      "Comment": "Master of deception"
     },
     {
       "Key": "Master Of War",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "战争大师",
+      "Comment": "Master of warfare"
     },
     {
       "Key": "Loyal Serfs",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "忠诚农奴",
+      "Comment": "Loyal peasant units"
     },
     {
       "Key": "Avalon Marksmen",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "阿瓦隆射手",
+      "Comment": "Sacred/legendary archers"
     },
     {
       "Key": "Greater Vengeance",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大复仇光环",
+      "Comment": "Enhanced vengeance aura"
     },
     {
       "Key": "Greater Protection",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大保护光环",
+      "Comment": "Enhanced protection aura"
     },
     {
       "Key": "Bodkin Arrows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "锥形箭",
+      "Comment": "Armor-piercing arrowheads"
     },
     {
       "Key": "Serrated Arrows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "锯齿箭",
+      "Comment": "Barbed/tearing arrowheads"
     },
     {
       "Key": "Splitting Arrow",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "分裂箭",
+      "Comment": "Multi-target arrow ability"
     },
     {
       "Key": "Trueflight Arrows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "真飞箭",
+      "Comment": "Guided/homing arrows"
     }
   ]
 }

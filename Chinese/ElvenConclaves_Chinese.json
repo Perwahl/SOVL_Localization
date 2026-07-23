@@ -3,88 +3,88 @@
   "Translations": [
     {
       "Key": "Elven Conclaves",
-      "Translation": "",
-      "Comment": "Konklave conveys the organized, council-like nature of Elven society. Singular form is more elegant in German."
+      "Translation": "精灵议会",
+      "Comment": "代表精灵社会中有组织的、议会式的本质。"
     },
     {
       "Key": "Elf Spears",
-      "Translation": "",
-      "Comment": "Speerkämpfer = spear fighters. More specific than just 'spears' and fits military unit naming."
+      "Translation": "精灵矛手",
+      "Comment": "持矛的精灵战士，是精灵步兵的标配。"
     },
     {
       "Key": "Elf City Guard",
-      "Translation": "",
-      "Comment": "Stadtwache is city guard, compound word maintains the defensive role."
+      "Translation": "精灵城市守卫",
+      "Comment": "守卫城市的精锐守卫队伍。"
     },
     {
       "Key": "Weapon Masters",
-      "Translation": "",
-      "Comment": "Direct translation. Conveys elite skill and mastery, fitting for Elven warriors."
+      "Translation": "武器大师",
+      "Comment": "代表精锐技艺与掌握，精灵战士的精华。"
     },
     {
       "Key": "Elf Archers",
-      "Translation": "",
-      "Comment": "Bogenschützen = archers. Elves are famous for their archery, this captures that."
+      "Translation": "精灵弓手",
+      "Comment": "精灵以箭术著称，这正是他们的特色。"
     },
     {
       "Key": "Elf Watchers",
-      "Translation": "",
-      "Comment": "Wächter = watchers/guardians. Implies vigilance and protection."
+      "Translation": "精灵守望者",
+      "Comment": "代表警觉与守护的精灵战士。"
     },
     {
       "Key": "Elf Bolt Thrower",
-      "Translation": "",
-      "Comment": "Consistent with other bolt thrower translations. Hyphen for clarity."
+      "Translation": "精灵弩炮",
+      "Comment": "远程攻城武器，精灵的重型火力。"
     },
     {
       "Key": "Elf Lancers",
-      "Translation": "",
-      "Comment": "Lanzenreiter = lance riders/cavalry. Elegant compound for mounted troops."
+      "Translation": "精灵枪骑兵",
+      "Comment": "骑乘战马的精灵骑兵，优雅而致命。"
     },
     {
       "Key": "Elf Reavers",
-      "Translation": "",
-      "Comment": "Plünderer = reavers/raiders. Fast cavalry that strikes and withdraws."
+      "Translation": "精灵掠夺者",
+      "Comment": "迅速突击并撤退的快速骑兵。"
     },
     {
       "Key": "Elf Chariot",
-      "Translation": "",
-      "Comment": "Streitwagen = chariot. Classic military vehicle terminology."
+      "Translation": "精灵战车",
+      "Comment": "精灵的经典军事载具。"
     },
     {
       "Key": "Giant Eagle",
-      "Translation": "",
-      "Comment": "Direct translation. Majestic creature fitting for Elven forces."
+      "Translation": "巨鹰",
+      "Comment": "宏伟的生物，适合精灵军队的座骑。"
     },
     {
       "Key": "Dragon Knights",
-      "Translation": "",
-      "Comment": "Elite dragon-riding warriors. Compound conveys both mount and rider."
+      "Translation": "龙骑士",
+      "Comment": "骑乘龙兽的精锐战士，力量强大。"
     },
     {
       "Key": "Ancient Dragon",
-      "Translation": "",
-      "Comment": "Uralter emphasizes ancient age and power. More evocative than 'alter'."
+      "Translation": "上古龙兽",
+      "Comment": "强调古老的年纪与无比的力量。"
     },
     {
       "Key": "Gryphon",
-      "Translation": "",
-      "Comment": "Standard German term for gryphon/griffin. Mythological creature."
+      "Translation": "狮鹫",
+      "Comment": "神话生物，代表精灵的尊贵。"
     },
     {
       "Key": "Elf Noble",
-      "Translation": "",
-      "Comment": "Edelmann = nobleman. Traditional term for aristocratic leader."
+      "Translation": "精灵贵族",
+      "Comment": "精灵社会中的贵族领导者。"
     },
     {
       "Key": "Elf Mage",
-      "Translation": "",
-      "Comment": "Magier is the standard term for mage/wizard in German fantasy."
+      "Translation": "精灵法师",
+      "Comment": "掌握魔法的精灵术士。"
     },
     {
       "Key": "Elf Spellsword",
-      "Translation": "",
-      "Comment": "Klingenschmied literally 'blade smith' but conveys the martial-magical hybrid warrior. Alternative: Zauberklinge (magic blade)."
+      "Translation": "精灵魔剑士",
+      "Comment": "战斗与魔法完美结合的混合型战士。"
     }
   ]
 }

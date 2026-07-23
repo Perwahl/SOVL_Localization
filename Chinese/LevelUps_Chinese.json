@@ -3,898 +3,898 @@
   "Translations": [
     {
       "Key": "Unit Size I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位规模 I",
+      "Comment": "单位规模等级一"
     },
     {
       "Key": "Max Unit size +3",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "最大单位规模 +3",
+      "Comment": "最大单位数量增加3"
     },
     {
       "Key": "Unit Size II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位规模 II",
+      "Comment": "单位规模等级二"
     },
     {
       "Key": "Unit Size III",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位规模 III",
+      "Comment": "单位规模等级三"
     },
     {
       "Key": "Replenish I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "补员 I",
+      "Comment": "战斗后单位补员等级一"
     },
     {
       "Key": "+30% base unit Replenishment",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "基础单位补员提升 +30%",
+      "Comment": "基础单位补员数量增加30%"
     },
     {
       "Key": "Replenish II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "补员 II",
+      "Comment": "战斗后单位补员等级二"
     },
     {
       "Key": "Replenish III",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "补员 III",
+      "Comment": "战斗后单位补员等级三"
     },
     {
       "Key": "Veteran Discipline",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "老兵纪律",
+      "Comment": "提升单位纪律属性，影响士气和防御"
     },
     {
       "Key": "Increase Discipline by 1",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "纪律 +1",
+      "Comment": "增加单位纪律值"
     },
     {
       "Key": "Veteran Skill",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "老兵技能",
+      "Comment": "提升单位技能等级"
     },
     {
       "Key": "Increase Skill by 1",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "技能 +1",
+      "Comment": "增加单位技能值"
     },
     {
       "Key": "Veteran Skill II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "老兵技能 II",
+      "Comment": "老兵技能等级二"
     },
     {
       "Key": "Coin Counter I",
-      "Translation": "",
-      "Comment": "Gold income bonus"
+      "Translation": "掠夺者 I",
+      "Comment": "战斗后获得金币奖励等级一"
     },
     {
       "Key": "+3% post battle income",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "战后收入提升 +3%",
+      "Comment": "战斗后获得的金币增加3%"
     },
     {
       "Key": "Coin Counter II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "掠夺者 II",
+      "Comment": "战斗后获得金币奖励等级二"
     },
     {
       "Key": "Battle Hardened I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "历战沙场 I",
+      "Comment": "单位承受伤害的能力增强等级一"
     },
     {
       "Key": "+1 Wounds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "伤害值 +1",
+      "Comment": "单位可承受伤害值增加1点"
     },
     {
       "Key": "Battle Hardened II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "历战沙场 II",
+      "Comment": "单位承受伤害的能力增强等级二"
     },
     {
       "Key": "Offensive Mastery I",
-      "Translation": "",
-      "Comment": ""
-    },
+      "Translation": "攻击精通 I",
+      "Comment": "单位攻击能力提升等级一"
+    }
     {
       "Key": "+1 Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "攻击力 +1",
+      "Comment": "增加单位攻击力1点"
     },
     {
       "Key": "Offensive Mastery II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "攻击精通 II",
+      "Comment": "单位攻击能力提升等级二"
     },
     {
       "Key": "Offensive Mastery III",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "攻击精通 III",
+      "Comment": "单位攻击能力提升等级三"
     },
     {
       "Key": "Veteran Crew",
-      "Translation": "",
-      "Comment": "For war machines/artillery"
+      "Translation": "老兵船员",
+      "Comment": "战争机器和炮兵单位的强化"
     },
     {
       "Key": "+1 Ranged Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "远程攻击 +1",
+      "Comment": "增加单位远程攻击力1点"
     },
     {
       "Key": "Marksman I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "神射手 I",
+      "Comment": "射手精准度提升等级一"
     },
     {
       "Key": "Marksman II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "神射手 II",
+      "Comment": "射手精准度提升等级二"
     },
     {
       "Key": "Marksman III",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "神射手 III",
+      "Comment": "射手精准度提升等级三"
     },
     {
       "Key": "Greater Fireball",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "高等火球术",
+      "Comment": "魔法强化技能，提升火球术威力"
     },
     {
       "Key": "Upgrades Fireball to 3D3 hits.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "将火球术升级为3D3命中",
+      "Comment": "骰子掷数增加，伤害提升"
     },
     {
       "Key": "Greater Favour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "高等恩宠",
+      "Comment": "神圣魔法强化"
     },
     {
       "Key": "Upgrades Divine Favour to target all units.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "将神圣恩宠升级为目标所有友军单位",
+      "Comment": "魔法范围扩大"
     },
     {
       "Key": "Greater Ruin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "高等毁灭",
+      "Comment": "诅咒魔法强化"
     },
     {
       "Key": "Hex of Ruin also reduces Power.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "毁灭之咒还降低力量",
+      "Comment": "额外效果，同时削弱敌方力量"
     },
     {
       "Key": "Greater Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "高等狂怒",
+      "Comment": "原始魔法强化"
     },
     {
       "Key": "Upgrades Primal Fury to give +3 Power.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "将原始狂怒升级为提供 +3 力量",
+      "Comment": "增加额外的力量属性加成"
     },
     {
       "Key": "Greater Web",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "高等秘法网",
+      "Comment": "秘法魔法强化"
     },
     {
       "Key": "Gives 1 extra charge to Arcane Web.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "为秘法网增加1额外充能",
+      "Comment": "可以使用更多次数"
     },
     {
       "Key": "Greater Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "高等光盾",
+      "Comment": "神圣防护魔法强化"
     },
     {
       "Key": "Gives 1 extra charge to Radiant Shield.",
-      "Translation": "",
-      "Comment": ""
-    },
+      "Translation": "为光辉盾增加1额外充能",
+      "Comment": "可以使用更多次数"
+    }
     {
       "Key": "Greater Shadowbolt",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "高等暗影箭",
+      "Comment": "暗影魔法强化"
     },
     {
       "Key": "Upgrades Shadow Bolt to Power 3 and Range 33.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "将暗影箭升级为力量 3 和射程 33",
+      "Comment": "提升魔法伤害和作用范围"
     },
     {
       "Key": "Greater Regrowth",
-      "Translation": "",
-      "Comment": "Healing spell"
+      "Translation": "高等重生术",
+      "Comment": "治疗魔法强化"
     },
     {
       "Key": "Upgrades Regrowth to target any unit.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "将重生术升级为目标任意单位",
+      "Comment": "治疗范围扩大，可作用于任何单位"
     },
     {
       "Key": "Greater Wildform",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "高等野性形态",
+      "Comment": "自然魔法强化"
     },
     {
       "Key": "Upgrades Wildform to give +3 Attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "将野性形态升级为提供 +3 攻击",
+      "Comment": "增加额外攻击次数"
     },
     {
       "Key": "Greater Raise",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "高等复活术",
+      "Comment": "死灵魔法强化"
     },
     {
       "Key": "Upgrades Raise Dead to raise an additional D3 models.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "将死亡复活升级为额外复活D3个模型",
+      "Comment": "复活的单位数量增加"
     },
     {
       "Key": "Greater Reanimate",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "高等重振术",
+      "Comment": "死灵魔法强化"
     },
     {
       "Key": "Reanimate also gives +1 Power and Defense.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "重振术还提供 +1 力量和防御",
+      "Comment": "额外的属性加成"
     },
     {
       "Key": "Greater Vigour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "高等活力",
+      "Comment": "死灵强化魔法"
     },
     {
       "Key": "Unholy Vigour also lets the unit reroll missed Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "邪恶活力还让单位重投失手的攻击骰",
+      "Comment": "增加攻击命中率"
     },
     {
       "Key": "Thousand Maws",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "千齿之兽",
+      "Comment": "怪物强化技能"
     },
     {
       "Key": "Upgrades Thousand Mouths to Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "将千张嘴升级为力量 3",
+      "Comment": "提升怪物伤害"
     },
     {
       "Key": "Greater Blades",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "高等烈焰刃",
+      "Comment": "火焰强化技能"
     },
     {
       "Key": "Upgrades Fiery Blades to give +3 Power.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "将烈焰刃升级为提供 +3 力量",
+      "Comment": "增加火焰伤害"
     },
     {
       "Key": "Greater Shroud",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "高等暗幕",
+      "Comment": "防护魔法强化"
     },
     {
       "Key": "Upgrades Shroud to target all friendly units.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "将暗幕升级为目标所有友军单位",
+      "Comment": "防护范围扩大"
     },
     {
       "Key": "Greater Ward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "高等寒冰护盾",
+      "Comment": "寒冰防护魔法强化"
     },
     {
       "Key": "Removes the Re-roll penalties from Frost Ward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "移除寒冰护盾的重投惩罚",
+      "Comment": "提升防护效果"
     },
     {
       "Key": "Looter I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "掠夺者 I",
+      "Comment": "战斗中获取金币能力等级一"
     },
     {
       "Key": "+3 gold when looting",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "掠夺时获得 +3 金币",
+      "Comment": "每次战利品增加3金币"
     },
     {
       "Key": "Looter II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "掠夺者 II",
+      "Comment": "战斗中获取金币能力等级二"
     },
     {
       "Key": "Looter III",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "掠夺者 III",
+      "Comment": "战斗中获取金币能力等级三"
     },
     {
       "Key": "Oath of Reckoning",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "清算之誓",
+      "Comment": "针对怪物的特殊能力"
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Monsters.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "对怪物重投远程和近战攻击",
+      "Comment": "专门针对怪物类敌人"
     },
     {
       "Key": "Oath of Retribution",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "复仇之誓",
+      "Comment": "针对远程单位的特殊能力"
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Ranged Units",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "对远程单位重投远程和近战攻击",
+      "Comment": "克制射手单位"
     },
     {
       "Key": "Oath of Vengeance",
-      "Translation": "",
-      "Comment": "Different oath than Reckoning but same translation fits"
+      "Translation": "复仇之誓二",
+      "Comment": "针对骑兵和战车的特殊能力"
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "对骑兵和战车重投远程和近战攻击",
+      "Comment": "克制重骑兵单位"
     },
     {
       "Key": "Rune Of Flame",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "烈焰符文",
+      "Comment": "火焰属性增强符文"
     },
     {
       "Key": "+1 Power to Ranged Attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "远程攻击 +1 力量",
+      "Comment": "增加远程伤害"
     },
     {
       "Key": "Rune Of Resilience",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "坚韧符文",
+      "Comment": "防御属性增强符文"
     },
     {
       "Key": "Unit re-rolls failed Damage Saves",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位重投失败的伤害豁免",
+      "Comment": "提高伤害减免成功率"
     },
     {
       "Key": "Rune Of Farsight",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "远视符文",
+      "Comment": "远程视野增强符文"
     },
     {
       "Key": "Ranged attack range increased by 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "远程攻击射程 +3",
+      "Comment": "增加射程距离"
     },
     {
       "Key": "Rune Of Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "速度符文",
+      "Comment": "机动性增强符文"
     },
     {
       "Key": "Unit can move and fire ranged weapons.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位可以移动并射击远程武器",
+      "Comment": "移动中可保持射击能力"
     },
     {
       "Key": "Demonic Gift",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恶魔赠礼",
+      "Comment": "随机强化能力"
     },
     {
       "Key": "+1 to a random Stat",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "随机属性 +1",
+      "Comment": "获得随机属性加成"
     },
     {
       "Key": "Imperial Elites I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "帝国精英 I",
+      "Comment": "单位精英化等级一"
     },
     {
       "Key": "Unit re-rolls missed Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位重投失手的攻击骰",
+      "Comment": "提高攻击命中率"
     },
     {
       "Key": "Imperial Elites II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "帝国精英 II",
+      "Comment": "单位精英化等级二"
     },
     {
       "Key": "Fearless (Ignores penalties to Discipline tests).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "无畏（忽视纪律测试惩罚）",
+      "Comment": "提升士气和纪律"
     },
     {
       "Key": "Imperial Veterans I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "帝国老兵 I",
+      "Comment": "单位经验等级一"
     },
     {
       "Key": "Unit gets +1 Combat Score",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位获得 +1 格斗值",
+      "Comment": "提升近战能力"
     },
     {
       "Key": "Imperial Veterans II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "帝国老兵 II",
+      "Comment": "单位经验等级二"
     },
     {
       "Key": "Unit has +3 range for Ranged attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位远程攻击射程 +3",
+      "Comment": "增加远程攻击范围"
     },
     {
       "Key": "Unit ignores penalties for difficult terrain.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位忽视困难地形惩罚",
+      "Comment": "提高地形适应性"
     },
     {
       "Key": "Recruiter I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "征兵官 I",
+      "Comment": "新兵补充能力等级一"
     },
     {
       "Key": "Newly recruited units gain an additional level",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "新招募单位获得额外等级",
+      "Comment": "新兵的初始等级提升"
     },
     {
       "Key": "Recruiter II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "征兵官 II",
+      "Comment": "新兵补充能力等级二"
     },
     {
       "Key": "Mutation",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "突变",
+      "Comment": "特殊变异能力"
     },
     {
       "Key": "Random Mutation",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "随机突变",
+      "Comment": "获得随机变异效果"
     },
     {
       "Key": "Veteran Accuracy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "老兵射术",
+      "Comment": "远程攻击精准性提升等级一"
     },
     {
       "Key": "Unit rerolls 1s on Ranged Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位重投远程攻击骰的 1 点",
+      "Comment": "提高远程射击精准度"
     },
     {
       "Key": "Veteran Accuracy II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "老兵射术 II",
+      "Comment": "远程攻击精准性提升等级二"
     },
     {
       "Key": "Unit can fire ranged weapons in one additional rank",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位可在额外一行射击远程武器",
+      "Comment": "增加射击火线"
     },
     {
       "Key": "Stronger Summons I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "更强的召唤物 I",
+      "Comment": "召唤单位强化等级一"
     },
     {
       "Key": "Reduce Crumble rolls by 1",
-      "Translation": "",
-      "Comment": "Crumble is a special mechanic for summoned units"
+      "Translation": "降低消散掷骰 1 点",
+      "Comment": "消散是召唤单位的特殊机制"
     },
     {
       "Key": "Stronger Summons II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "更强的召唤物 II",
+      "Comment": "召唤单位强化等级二"
     },
     {
       "Key": "+1 Move Speed.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "移动速度 +1",
+      "Comment": "提高单位移动力"
     },
     {
       "Key": "Stronger Summons III",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "更强的召唤物 III",
+      "Comment": "召唤单位强化等级三"
     },
     {
       "Key": "Elf Bow Mastery I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "精灵弓术精通 I",
+      "Comment": "精灵射击技能等级一"
     },
     {
       "Key": "+3 range for Ranged Attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "远程攻击射程 +3",
+      "Comment": "增加射程范围"
     },
     {
       "Key": "Elf Bow Mastery II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "精灵弓术精通 II",
+      "Comment": "精灵射击技能等级二"
     },
     {
       "Key": "Damage saves against units Ranged Attack are reduced by 1.",
-      "Translation": "",
-      "Comment": "Typo in source: 'units' should be 'unit's'"
+      "Translation": "对该单位远程攻击的伤害豁免降低 1 点",
+      "Comment": "提升远程伤害效果"
     },
     {
       "Key": "Elf Spear Mastery I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "精灵矛术精通 I",
+      "Comment": "精灵矛术技能等级一"
     },
     {
       "Key": "Unit fights in one additional rank when not charging.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位在未冲锋时可多一排进行格斗",
+      "Comment": "增加参战士兵数量"
     },
     {
       "Key": "Elf Spear Mastery II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "精灵矛术精通 II",
+      "Comment": "精灵矛术技能等级二"
     },
     {
       "Key": "Elf Steed Mastery I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "精灵骑乘精通 I",
+      "Comment": "精灵坐骑技能等级一"
     },
     {
       "Key": "Elf Steed Mastery II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "精灵骑乘精通 II",
+      "Comment": "精灵坐骑技能等级二"
     },
     {
       "Key": "Charge Bonus: +1 Attack.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "冲锋奖励：+1 攻击",
+      "Comment": "冲锋时攻击力提升"
     },
     {
       "Key": "Eagle Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "鹰隼外形",
+      "Comment": "化身为鹰隼的能力"
     },
     {
       "Key": "Jaguar Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "美洲豹外形",
+      "Comment": "化身为美洲豹的能力"
     },
     {
       "Key": "Unit gains +1 Move Speed and ignores Difficult Terrain",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位获得 +1 移动速度并忽视困难地形",
+      "Comment": "增加移动力和地形适应性"
     },
     {
       "Key": "Turtle Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "龟甲外形",
+      "Comment": "化身为乌龟的能力"
     },
     {
       "Key": "Unit re-rolls 1s on Damage Saves.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位重投伤害豁免的 1 点",
+      "Comment": "提高伤害豁免成功率"
     },
     {
       "Key": "Raptor Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "猛禽外形",
+      "Comment": "化身为猛禽的能力"
     },
     {
       "Key": "Unit gains Lethal attacks. (deals 3x wounds)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位获得致命攻击（造成3倍伤害）",
+      "Comment": "大幅提升攻击伤害"
     },
     {
       "Key": "Serpent Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "蛇形外形",
+      "Comment": "化身为蛇的能力"
     },
     {
       "Key": "Unit gains Poisoned Attacks (enemies re-roll 3s on Damage Saves)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位获得毒性攻击（敌人重投伤害豁免的 3 点）",
+      "Comment": "攻击附带毒性效果"
     },
     {
       "Key": "Salamander Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "火蜥蜴外形",
+      "Comment": "化身为火蜥蜴的能力"
     },
     {
       "Key": "Unit gains Regeneration. (restores lost wounds at end of turn)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位获得再生能力（在回合末恢复失去的伤害）",
+      "Comment": "自动恢复伤害"
     },
     {
       "Key": "Goblin Greed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "地精贪欲",
+      "Comment": "地精金币获取能力"
     },
     {
       "Key": "+10 gold when looting",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "掠夺时获得 +10 金币",
+      "Comment": "大幅增加金币收入"
     },
     {
       "Key": "Strength In Numbers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "人数优势",
+      "Comment": "数量优势能力"
     },
     {
       "Key": "Max Unit size +10",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "最大单位规模 +10",
+      "Comment": "大幅增加最大单位数量"
     },
     {
       "Key": "Backstabbers",
-      "Translation": "",
-      "Comment": "Plural form for units"
+      "Translation": "背后捅刀者",
+      "Comment": "侧翼和后方攻击的单位能力"
     },
     {
       "Key": "Reroll missed Attack Rolls when attacking from Flank or Rear",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "从侧翼或后方攻击时重投失手的攻击骰",
+      "Comment": "侧后方攻击更加精准"
     },
     {
       "Key": "Bloodlust",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "杀戮欲望",
+      "Comment": "激发战意的能力"
     },
     {
       "Key": "Activate once per battle, +1 Attack and Fearless.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "每场战斗激活一次，获得 +1 攻击和无畏",
+      "Comment": "战斗中可激活一次强大能力"
     },
     {
       "Key": "Won't Stay Down",
-      "Translation": "",
-      "Comment": "Colloquial phrase for resilience"
+      "Translation": "死而复生",
+      "Comment": "坚韧不拔的生存能力"
     },
     {
       "Key": "Recover an extra model that died after each battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "每场战斗后恢复一个阵亡的模型",
+      "Comment": "战斗中死亡的战士会自动复活"
     },
     {
       "Key": "Tough As Nails",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "坚硬如铁钉",
+      "Comment": "防御能力增强"
     },
     {
       "Key": "Unit Rerolls 1s on Damage Saves",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位重投伤害豁免的 1 点",
+      "Comment": "提高伤害豁免成功率"
     },
     {
       "Key": "Greater Warcry",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "高等战吼",
+      "Comment": "强大的战斗精神提升"
     },
     {
       "Key": "Warcry also gives +3 Move Speed to all units.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "战吼还为所有单位提供 +3 移动速度",
+      "Comment": "增强范围能力"
     },
     {
       "Key": "Slavers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "奴隶贩子",
+      "Comment": "俘虏敌军的能力"
     },
     {
       "Key": "Unit earns 1 gold per enemy killed in combat after each battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "每场战斗后，单位每杀死一个敌人可获得 1 金币",
+      "Comment": "战斗收入能力"
     },
     {
       "Key": "Blessing of Decay I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "腐烂祝福 I",
+      "Comment": "衰落魔法祝福等级一"
     },
     {
       "Key": "Blessing of Decay II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "腐烂祝福 II",
+      "Comment": "衰落魔法祝福等级二"
     },
     {
       "Key": "Gain Poisoned Attacks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "获得毒性攻击",
+      "Comment": "攻击附带毒性"
     },
     {
       "Key": "Blessing of Trickery I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "欺诈祝福 I",
+      "Comment": "欺骗魔法祝福等级一"
     },
     {
       "Key": "+1 Move Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "移动速度 +1",
+      "Comment": "增加单位移动力"
     },
     {
       "Key": "Blessing of Trickery II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "欺诈祝福 II",
+      "Comment": "欺骗魔法祝福等级二"
     },
     {
       "Key": "Once per battle: Gain Flying for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "每场战斗一次：获得一回合的飞行能力",
+      "Comment": "临时获得飞行能力"
     },
     {
       "Key": "War Gods Blessing I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "战神祝福 I",
+      "Comment": "战争之神的祝福等级一"
     },
     {
       "Key": "+1 Damage Save vs Ranged",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "远程伤害豁免 +1",
+      "Comment": "提高对远程伤害的防御"
     },
     {
       "Key": "War Gods Blessing II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "战神祝福 II",
+      "Comment": "战争之神的祝福等级二"
     },
     {
       "Key": "Once per battle: Gain +1 Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "每场战斗一次：获得 +1 攻击",
+      "Comment": "临时攻击力提升"
     },
     {
       "Key": "Lord of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "腐烂之主",
+      "Comment": "衰落之神的仆人"
     },
     {
       "Key": "Become a servant to the god of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "成为衰落之神的仆人",
+      "Comment": "获得衰落之神的力量"
     },
     {
       "Key": "Master of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "腐烂大师",
+      "Comment": "衰落魔法的大师"
     },
     {
       "Key": "Gain Regeneration",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "获得再生能力",
+      "Comment": "自动恢复伤害"
     },
     {
       "Key": "Lord of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "欺诈之主",
+      "Comment": "欺骗之神的仆人"
     },
     {
       "Key": "Become a servant to the god of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "成为欺骗之神的仆人",
+      "Comment": "获得欺骗之神的力量"
     },
     {
       "Key": "Master of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "欺诈大师",
+      "Comment": "欺骗魔法的大师"
     },
     {
       "Key": "Gain Ambush deployment",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "获得埋伏部署能力",
+      "Comment": "可以在战斗中设置埋伏"
     },
     {
       "Key": "Lord of War",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "战争之主",
+      "Comment": "战争之神的仆人"
     },
     {
       "Key": "Become a servant to the god of War",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "成为战争之神的仆人",
+      "Comment": "获得战争之神的力量"
     },
     {
       "Key": "Master of War",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "战争大师",
+      "Comment": "战争魔法的大师"
     },
     {
       "Key": "Gain Deadly Strikes (deal 3x Wounds)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "获得致命打击（造成3倍伤害）",
+      "Comment": "大幅提升攻击伤害"
     },
     {
       "Key": "Knightly Vow",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "骑士誓言",
+      "Comment": "提升为誓言骑士的能力"
     },
     {
       "Key": "Unit is upgraded to Sworn Knights",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位升级为誓言骑士",
+      "Comment": "单位类型升级"
     },
     {
       "Key": "Kings Vow",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "国王的誓言",
+      "Comment": "提升为国王卫队的能力"
     },
     {
       "Key": "Unit is upgraded to Kings Guard",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位升级为国王卫队",
+      "Comment": "最高级单位升级"
     },
     {
       "Key": "Loyal Serfs I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "忠诚农奴 I",
+      "Comment": "农奴单位强化等级一"
     },
     {
       "Key": "Loyal Serfs II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "忠诚农奴 II",
+      "Comment": "农奴单位强化等级二"
     },
     {
       "Key": "Avalon Marksmen I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "阿瓦隆射手 I",
+      "Comment": "阿瓦隆射手等级一"
     },
     {
       "Key": "Unit has +3 range for Ranged Attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位远程攻击射程 +3",
+      "Comment": "增加射程范围"
     },
     {
       "Key": "Avalon Marksmen II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "阿瓦隆射手 II",
+      "Comment": "阿瓦隆射手等级二"
     },
     {
       "Key": "Unit has +10 range for Ranged Attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位远程攻击射程 +10",
+      "Comment": "大幅增加射程范围"
     },
     {
       "Key": "Greater Vengeance",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "高等复仇",
+      "Comment": "复仇光环强化"
     },
     {
       "Key": "Aura of Vengeance can be activated to affect all Knights",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "复仇光环可被激活影响所有骑士",
+      "Comment": "增强范围能力"
     },
     {
       "Key": "Greater Protection",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "高等保护",
+      "Comment": "保护光环强化"
     },
     {
       "Key": "Aura of Protection can be activated to affect all Knights",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "保护光环可被激活影响所有骑士",
+      "Comment": "增强范围防御能力"
     },
     {
       "Key": "Newly recruited units gain an additonal level",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "新招募单位获得额外等级",
+      "Comment": "新兵初始等级提升"
     },
     {
       "Key": "+3 range to Ranged Atacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "远程攻击射程 +3",
+      "Comment": "增加射程范围"
     }
   ]
 }

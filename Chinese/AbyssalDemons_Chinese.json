@@ -3,73 +3,73 @@
   "Translations": [
     {
       "Key": "Abyssal Demons",
-      "Translation": "",
-      "Comment": "Abgrund = abyss, Dämonen = demons. Creatures from the darkest depths."
+      "Translation": "深渊恶魔",
+      "Comment": "深渊中的强大恶魔种族。体现黑暗与邪恶的本质。"
     },
     {
       "Key": "Abyssal Vipers",
-      "Translation": "",
-      "Comment": "Vipern = vipers. Serpentine demonic creatures."
+      "Translation": "深渊毒蛇",
+      "Comment": "蛇形恶魔生物，致命且敏捷。"
     },
     {
       "Key": "Devilspawn",
-      "Translation": "",
-      "Comment": "Teufel = devil, Brut = spawn/brood. Lesser demonic infantry."
+      "Translation": "魔鬼之子",
+      "Comment": "低级恶魔步兵，数量众多且具有威胁性。"
     },
     {
       "Key": "Plague Walkers",
-      "Translation": "",
-      "Comment": "Seuche = plague, Wandler = walkers. Disease-bearing demons."
+      "Translation": "瘟疫行者",
+      "Comment": "携带致命瘟疫的恶魔，散播疾病和死亡。"
     },
     {
       "Key": "Plaguelings",
-      "Translation": "",
-      "Comment": "Created a diminutive form of plague creatures. Small plague demons."
+      "Translation": "瘟疫小鬼",
+      "Comment": "小型瘟疫恶魔，虽小但数量可观。"
     },
     {
       "Key": "Fire Devils",
-      "Translation": "",
-      "Comment": "Direct compound. Demons wreathed in flames."
+      "Translation": "烈火恶魔",
+      "Comment": "被炎火包裹的恶魔，攻击力凶猛。"
     },
     {
       "Key": "Plague Flies",
-      "Translation": "",
-      "Comment": "Flying plague-bearing insects. Grotesque and diseased."
+      "Translation": "瘟疫飞虫",
+      "Comment": "能够飞行的瘟疫传播者，令人作呕的昆虫。"
     },
     {
       "Key": "Abyssal Reapers",
-      "Translation": "",
-      "Comment": "Sensenträger = scythe-bearers/reapers. Death-dealing demons."
+      "Translation": "深渊死神",
+      "Comment": "手持镰刀的死亡使者，带来绝望和毁灭。"
     },
     {
       "Key": "Demonic Hounds",
-      "Translation": "",
-      "Comment": "Direct compound. Hellish hunting beasts."
+      "Translation": "恶魔猎犬",
+      "Comment": "地狱中的猎手，凶悍且忠诚于其主人。"
     },
     {
       "Key": "Hell Riders",
-      "Translation": "",
-      "Comment": "Hölle = hell. Demonic cavalry."
+      "Translation": "地狱骑士",
+      "Comment": "恶魔骑兵部队，机动性强且防御坚固。"
     },
     {
       "Key": "Plague Hulk",
-      "Translation": "",
-      "Comment": "Koloss = hulk/colossus. Massive plague monster."
+      "Translation": "瘟疫巨人",
+      "Comment": "体型庞大的瘟疫怪物，拥有压倒性的力量。"
     },
     {
       "Key": "Archdevil",
-      "Translation": "",
-      "Comment": "Erz- prefix = arch-/chief. Greater demon lord."
+      "Translation": "大恶魔",
+      "Comment": "权力强大的恶魔领主，统治其他恶魔的存在。"
     },
     {
       "Key": "Abyssal Prince",
-      "Translation": "",
-      "Comment": "Fürst = prince/lord. Powerful demonic ruler."
+      "Translation": "深渊王子",
+      "Comment": "强大的恶魔统治者，来自深渊的权力象征。"
     },
     {
       "Key": "Abyssal Herald",
-      "Translation": "",
-      "Comment": "Herold = herald. Messenger and champion of the abyss."
+      "Translation": "深渊信使",
+      "Comment": "深渊的使者与英雄，传播其主人的意志。"
     }
   ]
 }

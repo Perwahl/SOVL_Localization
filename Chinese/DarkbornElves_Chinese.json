@@ -3,88 +3,88 @@
   "Translations": [
     {
       "Key": "Darkborn Elves",
-      "Translation": "",
-      "Comment": "Dunkelgeboren = darkborn. Dark elves with a sinister edge."
+      "Translation": "暗生精灵",
+      "Comment": "黑暗精灵，带有邪恶与诡异的气质。"
     },
     {
       "Key": "Darkborn Spears",
-      "Translation": "",
-      "Comment": "Spear-wielding dark elf infantry."
+      "Translation": "暗生矛兵",
+      "Comment": "装备长矛的黑暗精灵步兵。"
     },
     {
       "Key": "Darkborn Dreadguard",
-      "Translation": "",
-      "Comment": "Schrecken = dread. Elite heavy infantry radiating fear."
+      "Translation": "暗生恐怖卫士",
+      "Comment": "精锐重装步兵，散发恐惧与绝望。"
     },
     {
       "Key": "Darkborn Witches",
-      "Translation": "",
-      "Comment": "Hexen = witches. Dark magic users of the dark elves."
+      "Translation": "暗生女巫",
+      "Comment": "使用黑暗魔法的女巫，权力强大。"
     },
     {
       "Key": "Darkborn Crossbows",
-      "Translation": "",
-      "Comment": "Crossbow-wielding dark elves. Deadly ranged troops."
+      "Translation": "暗生弩手",
+      "Comment": "使用弩弓的黑暗精灵，远程致命。"
     },
     {
       "Key": "Darkborn Shadows",
-      "Translation": "",
-      "Comment": "Schatten = shadows. Stealthy infiltrators and assassins."
+      "Translation": "暗生影者",
+      "Comment": "隐秘的渗透者与刺客，来无影去无踪。"
     },
     {
       "Key": "Darkborn Boltthrower",
-      "Translation": "",
-      "Comment": "Heavy artillery. Consistent with other bolt thrower translations."
+      "Translation": "暗生箭炮",
+      "Comment": "重型远程武器，摧毁敌人阵地。"
     },
     {
       "Key": "Raptor Knights",
-      "Translation": "",
-      "Comment": "Knights riding vicious raptors. Fast and deadly cavalry."
+      "Translation": "猛禽骑士",
+      "Comment": "骑乘凶猛迅龙的骑士，快速且致命。"
     },
     {
       "Key": "Darkborn Riders",
-      "Translation": "",
-      "Comment": "Dark elf cavalry on dark steeds."
+      "Translation": "暗生骑士",
+      "Comment": "骑乘黑暗战马的精灵骑兵。"
     },
     {
       "Key": "Darkborn Chariot",
-      "Translation": "",
-      "Comment": "Dark elf chariot. Swift and cruel."
+      "Translation": "暗生战车",
+      "Comment": "黑暗精灵的战车，迅速且残酷。"
     },
     {
       "Key": "Hydra",
-      "Translation": "",
-      "Comment": "Standard German term for hydra. Multi-headed monster."
+      "Translation": "九头龙",
+      "Comment": "神话中的多头怪物，强大而恐怖。"
     },
     {
       "Key": "Harpies",
-      "Translation": "",
-      "Comment": "Harpyien = harpies. Flying monsters in service of dark elves."
+      "Translation": "鹰身女妖",
+      "Comment": "服侍黑暗精灵的飞行怪物。"
     },
     {
       "Key": "Black Dragon",
-      "Translation": "",
-      "Comment": "Direct translation. Fearsome black dragon."
+      "Translation": "黑龙",
+      "Comment": "可怕的黑色龙兽，毁灭的象征。"
     },
     {
       "Key": "Dark Pegasus",
-      "Translation": "",
-      "Comment": "Corrupted pegasus. Flying mount for heroes."
+      "Translation": "暗翼飞马",
+      "Comment": "被腐蚀的飞马，英雄的座骑。"
     },
     {
       "Key": "Darkborn Noble",
-      "Translation": "",
-      "Comment": "Noble dark elf leader. Cruel and cunning."
+      "Translation": "暗生贵族",
+      "Comment": "黑暗精灵的贵族领导者，残酷而狡诈。"
     },
     {
       "Key": "Darkborn Priestess",
-      "Translation": "",
-      "Comment": "Priesterin = priestess. Female dark magic user and leader."
+      "Translation": "暗生女祭司",
+      "Comment": "女性黑暗魔法使用者与领导者。"
     },
     {
       "Key": "Darkborn Assassin",
-      "Translation": "",
-      "Comment": "Master of stealth and murder. Deadly hero unit."
+      "Translation": "暗生刺客",
+      "Comment": "隐秘与谋杀的大师，致命的英雄单位。"
     }
   ]
 }

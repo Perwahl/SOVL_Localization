@@ -3,1103 +3,1103 @@
   "Translations": [
     {
       "Key": "+1 Defense. Charge Bonus: +1 Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1防御。冲锋奖励：+1力量",
+      "Comment": "Combined effect: increase defense and gain attack bonus on charge"
     },
     {
       "Key": "+1 Movement",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1移动",
+      "Comment": "Increases unit mobility"
     },
     {
       "Key": "Charge Bonus: +1 Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "冲锋奖励：+1力量",
+      "Comment": "Bonus damage when charging into combat"
     },
     {
       "Key": "Reroll failed Discipline Tests",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "重投纪律检定中失败的",
+      "Comment": "Second chance on morale tests"
     },
     {
       "Key": "Unit counts as being in Cover. (-1 to Ranged attack rolls against it).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位计为处于掩护中。（对其进行远程攻击检定-1）。",
+      "Comment": "Defensive position provides ranged protection"
     },
     {
       "Key": "+1 Combat Score",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1战斗评分",
+      "Comment": "Increases unit combat quality/effectiveness"
     },
     {
       "Key": "Unit has +1 Attack this turn. Activate once per battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "本轮单位获得+1攻击。每场战斗启用一次。",
+      "Comment": "One-use bonus for enhanced attacks"
     },
     {
       "Key": "+1 Power. Charge Bonus: +1 Power.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1力量。冲锋奖励：+1力量。",
+      "Comment": "Stacking damage bonus, enhanced on charge"
     },
     {
       "Key": "-1 Movement. +1 Defense",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "-1移动。+1防御",
+      "Comment": "Tradeoff: slower but more resilient unit"
     },
     {
       "Key": "If a Commander is part of this unit it re-rolls failed Discipline tests.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "如果指挥官属于该单位，则重投纪律检定中失败的。",
+      "Comment": "Leadership improves morale reliability"
     },
     {
       "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 4+.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "冲锋奖励：+1力量\n该武器的伤害豁免检定不会好于4+。",
+      "Comment": "Two effects: charge bonus and armor piercing quality"
     },
     {
       "Key": "+1 Defense. Extra Rank supporting attacks when not charging.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1防御。非冲锋时有额外阵列支援。",
+      "Comment": "Defensive formation grants extra supporting attacks"
     },
     {
       "Key": "Range: 30. Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "射程：30。力量3。",
+      "Comment": "Weapon specifications: ranged distance and damage"
     },
     {
       "Key": "Range: 33. Power 3. ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "射程：33。力量3。",
+      "Comment": "Weapon specifications: extended range variant"
     },
     {
       "Key": "Ignores all penalties to Discipline tests.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "忽视纪律检定的所有惩罚。",
+      "Comment": "Perfect morale immunity"
     },
     {
       "Key": "+1 Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1攻击",
+      "Comment": "Increases hit probability"
     },
     {
       "Key": "Activate once per battle. Give all your units +1 Combat Score for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "每场战斗启用一次。给予你所有单位一轮+1战斗评分。",
+      "Comment": "Army-wide morale/combat boost ability"
     },
     {
       "Key": "+1 Defense. +1 Wounds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1防御。+1伤害值",
+      "Comment": "Increases both armor and health"
     },
     {
       "Key": "Reroll failed damage saves.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "重投伤害豁免检定中失败的。",
+      "Comment": "Second chance on armor saves"
     },
     {
       "Key": "+1 Discipline",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1纪律",
+      "Comment": "Improves morale reliability"
     },
     {
       "Key": "+1 Power. +1 Defense",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1力量。+1防御",
+      "Comment": "Dual offensive and defensive enhancement"
     },
     {
       "Key": "Opponent re-rolls successful damage saves.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "对手重投伤害豁免检定中成功的。",
+      "Comment": "Armor-piercing effect: opponent's defenses less reliable"
     },
     {
       "Key": "+1 Power.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1力量。",
+      "Comment": "Increases damage output"
     },
     {
       "Key": "+1 Attack.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1攻击。",
+      "Comment": "Improves hit chance"
     },
     {
       "Key": "+1 to Hit rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1命中。",
+      "Comment": "Direct accuracy bonus on attack rolls"
     },
     {
       "Key": "Reroll missed attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "重投命中检定中失败的。",
+      "Comment": "Second chance on attack misses"
     },
     {
       "Key": "Activate once per battle. Commander and Retinue rerolls Attack Rolls for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "每场战斗启用一次。指挥官及其卫队一轮内重投攻击检定。",
+      "Comment": "Leadership ability: command group gets reliable attacks"
     },
     {
       "Key": "Target unit gets +1 to Damage Saves for one turn. It must re-roll succesfull Attack and Ranged Attack rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目标单位获得+1伤害豁免检定，持续一轮。它必须重投攻击和远程攻击检定中成功的。",
+      "Comment": "Defense spell with drawback: protected but weakened offensively. Note: preserves source typo 'succesfull'"
     },
     {
       "Key": "Target unit gets +1 Skill and rerolls failed Discipline tests for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目标单位获得+1技能且重投纪律检定中失败的，持续一轮。",
+      "Comment": "Morale and combat buff"
     },
     {
       "Key": "Target unit rerolls failed damage saves for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目标单位重投伤害豁免检定中失败的，持续一轮。",
+      "Comment": "Defensive assistance spell"
     },
     {
       "Key": "Unit recovers all missing wounds at end of turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位在轮末恢复所有缺失的伤害值。",
+      "Comment": "Healing ability"
     },
     {
       "Key": "Ignore movement penalties from Difficult Terrain",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "忽视来自地形困难的移动惩罚",
+      "Comment": "Terrain traversal ability"
     },
     {
       "Key": "All your units have +1 Power for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "你所有单位获得一轮+1力量。",
+      "Comment": "Army-wide offensive boost"
     },
     {
       "Key": "Target unit has +1 Power and rerolls missed Attack Rolls for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目标单位获得+1力量且重投攻击检定中失败的，持续一轮。",
+      "Comment": "Offensive support spell"
     },
     {
       "Key": "Target unit counts as being in Cover against ranged attacks until it's next combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目标单位计为处于掩护中对抗远程攻击，直至其下一场近战。",
+      "Comment": "Tactical defensive positioning"
     },
     {
       "Key": "All your Goblins are Fearless for one turn. Activate once per battle. ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "你所有地精单位一轮内无畏。每场战斗启用一次。",
+      "Comment": "Race-specific morale boost"
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "-1移动。忽视来自重甲的移动惩罚。",
+      "Comment": "Armor benefit outweighs mobility cost"
     },
     {
       "Key": "Unit can be deployed anywhere on its owners side of the table.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位可以部署在其主人棋盘的任何位置。",
+      "Comment": "Strategic deployment flexibility"
     },
     {
       "Key": "Re-roll missed Attack Rolls in the first round of combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "在近战的第一轮中重投攻击检定中失败的。",
+      "Comment": "Early combat reliability boost"
     },
     {
       "Key": "+1 to Damage Saves",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1伤害豁免",
+      "Comment": "Improves defensive saves"
     },
     {
       "Key": "Activate once per battle: All your units have +1 Defense for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "每场战斗启用一次：你所有单位获得一轮+1防御。",
+      "Comment": "Army-wide defensive boost ability"
     },
     {
       "Key": "Re-roll missed Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "重投攻击检定中失败的。",
+      "Comment": "General attack reliability"
     },
     {
       "Key": "Rally a fleeing unit. One use per battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "鼓舞一个溃退的单位。每场战斗一次。",
+      "Comment": "Leadership ability to restore morale"
     },
     {
       "Key": "Reduce target units movement speed to 0 for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "将目标单位的移动速度降低为0，持续一轮。",
+      "Comment": "Immobilization effect"
     },
     {
       "Key": "Target unit gets +1 Power on their next Ranged or Close Combat Attack.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目标单位的下一次远程或近战攻击获得+1力量。",
+      "Comment": "Single-use attack bonus"
     },
     {
       "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "-1移动。永不失败纪律检定，在失败的近战中失去D3伤害值。",
+      "Comment": "Fearless but takes heavy losses in defeat"
     },
     {
       "Key": "Unarmed attacks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "徒手攻击",
+      "Comment": "Attack type without weapons"
     },
     {
       "Key": "Opponents re-roll hits in close combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "对手在近战中重投命中检定。",
+      "Comment": "Defense against melee attacks"
     },
     {
       "Key": "Reduce Crumble by 1. Regeneration (restore all lost wounds at end of turn).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "减少1点崩溃。再生（轮末恢复所有缺失的伤害值）。",
+      "Comment": "Undead unit abilities"
     },
     {
       "Key": "Increase the move speed of target Reanimated unit by 3 until its next combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "将目标再生单位的移动速度增加3，直至其下一场近战。",
+      "Comment": "Undead-specific mobility buff"
     },
     {
       "Key": "Restore D3+1 wounds to a Reanimated unit.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恢复一个再生单位D3+1伤害值。",
+      "Comment": "Undead-specific healing"
     },
     {
       "Key": "Target unit has -1 Skill and -1 Move Speed. Lasts until end of battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目标单位获得-1技能和-1移动速度。持续至战斗结束。",
+      "Comment": "Debuff spell with persistent effect"
     },
     {
       "Key": "Raise D3+3 models on a Zombie or Skeleton Warrior, Spear or Archer unit. ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "在一个僵尸或骷髅战士、长矛兵或弓箭手单位上召唤D3+3个模型。",
+      "Comment": "Undead reinforcement spell"
     },
     {
       "Key": "Target unit loses D3 wounds and gains +1 Attack this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目标单位失去D3伤害值且本轮获得+1攻击。",
+      "Comment": "Sacrifice for combat boost"
     },
     {
       "Key": "Commanders retinue deploys with Ambush.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "指挥官的卫队以伏击方式部署。",
+      "Comment": "Command group deployment rule"
     },
     {
       "Key": "Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "永不失败纪律检定，在失败的近战中失去D3伤害值。",
+      "Comment": "Fearless but vulnerable in defeat"
     },
     {
       "Key": "Favoured by War. Unit has Frenzy (re-roll failed Attack Rolls in the first round of combat).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "被战争眷顾。单位拥有狂热（在近战第一轮中重投攻击检定中失败的）。",
+      "Comment": "Lore-based combat ability for warriors"
     },
     {
       "Key": "Charge Bonus: +1 Power, +1 Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "冲锋奖励：+1力量，+1攻击",
+      "Comment": "Enhanced charge bonus with dual benefits"
     },
     {
       "Key": "Gain +3 Attacks this turm. Lose 1 Wound.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "本轮获得+3攻击。失去1伤害值。",
+      "Comment": "Combat boost with sacrifice. Note: preserves source typo 'turm'"
     },
     {
       "Key": "Target a friendly unit that is attacking an enemy unit in the flank/rear. It re-rolls failed Attack rolls this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目标一个正在攻击侧翼或后方敌人单位的友方单位。它本轮重投攻击检定中失败的。",
+      "Comment": "Tactical support for coordinated attacks"
     },
     {
       "Key": "All your Northmen are Fearless for one turn. Activate once per battle. ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "你所有北方人单位一轮内无畏。每场战斗启用一次。",
+      "Comment": "Race-specific morale ability"
     },
     {
       "Key": "Restore all used spell charges. ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恢复所有已用法术充能。",
+      "Comment": "Magic system recharge ability"
     },
     {
       "Key": "All your units have Frenzy (reroll failed Attack Rolls) this turn. Activate once per battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "你所有单位本轮拥有狂热（重投攻击检定中失败的）。每场战斗启用一次。",
+      "Comment": "Army-wide combat enhancement"
     },
     {
       "Key": "Commander is hidden from your opponent until engaged in combat or damaged.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "指挥官对对手隐蔽，直到进入近战或受到伤害。",
+      "Comment": "Stealth/ambush ability"
     },
     {
       "Key": "A spirit of nature. Ignores Difficult Terrain.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "自然之灵。忽视地形困难。",
+      "Comment": "Elemental unit type with terrain immunity"
     },
     {
       "Key": "Re-roll missed Ranged Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "重投远程攻击检定中失败的。",
+      "Comment": "Archery reliability"
     },
     {
       "Key": "Range: 30. 3x Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "射程：30。3发×力量3。",
+      "Comment": "Multi-shot ranged weapon specification"
     },
     {
       "Key": "All your units have +1 Skill for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "你所有单位获得一轮+1技能。",
+      "Comment": "Army-wide combat ability boost"
     },
     {
       "Key": "Restore D3 wounds to a Forest Spirit unit.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恢复一个森林精灵单位D3伤害值。",
+      "Comment": "Nature-based healing"
     },
     {
       "Key": "For one turn, reduce move speed to zero. Re-roll failed damage saves and discipline tests. Activate once per battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "一轮内，移动速度降低为0。重投伤害豁免检定和纪律检定中失败的。每场战斗启用一次。",
+      "Comment": "Protective spell with immobilization"
     },
     {
       "Key": "Target another friendly unit. It immediately makes a retreat move. One use per battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目标另一个友方单位。它立即进行撤退移动。每场战斗一次。",
+      "Comment": "Tactical retreat command"
     },
     {
       "Key": "Favoured by Trickery. Unit has Ambush Deployment and +1 Move Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "被诡计眷顾。单位拥有伏击部署和+1移动。",
+      "Comment": "Lore-based trait with tactical benefits"
     },
     {
       "Key": "Favoured by Decay. +1 Wounds. -1 Move Speed.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "被衰败眷顾。+1伤害值。-1移动。",
+      "Comment": "Lore-based trait with health/mobility tradeoff"
     },
     {
       "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "每场战斗一次，所有拥有衰败恩赐的友方单位重投伤害豁免检定中失败的。",
+      "Comment": "Army-wide defensive boost for gift holders"
     },
     {
       "Key": "Once per battle, all friendly units with Gift of Trickery gain +3 move speed and Cover for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "每场战斗一次，所有拥有诡计恩赐的友方单位获得+3移动速度和掩护，持续一轮。",
+      "Comment": "Army-wide mobility and defensive boost for gift holders"
     },
     {
       "Key": "Ignores movement penalty from Heavy Armor.\nWhen deployed 3 wide, models in flanks can attack as if in the front rank.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "忽视重甲的移动惩罚。\n当以3列阵型部署时，侧翼的模型可以像前排一样进行攻击。",
+      "Comment": "Formation-based tactical ability"
     },
     {
       "Key": "Reroll all successful Attack and Ranged Attack rolls against this unit.\nIgnores Difficult Terrain.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "重投对该单位的所有攻击和远程攻击检定中成功的。\n忽视地形困难。",
+      "Comment": "Strong defensive ability with terrain mobility"
     },
     {
       "Key": "Maiden and retinue rerolls 1s on Damage Saves.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "少女及其卫队重投伤害豁免检定中的1。",
+      "Comment": "Command group defense reliability"
     },
     {
       "Key": "Caster has +1 Power and deals double wounds against Monsters this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "施法者本轮获得+1力量并对怪物造成双倍伤害值。",
+      "Comment": "Magic combat specialization"
     },
     {
       "Key": "Paladin and retinue rerolls 1s on Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "圣武士及其卫队重投攻击检定中的1。",
+      "Comment": "Command group attack reliability"
     },
     {
       "Key": "Range 13. 3D3 Power 3.",
-      "Translation": "",
-      "Comment": "W3 = Würfel mit 3 Seiten"
+      "Translation": "射程13。3D3力量3。",
+      "Comment": "Multi-die ranged weapon"
     },
     {
       "Key": "+3 Movement this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "本轮+3移动。",
+      "Comment": "Temporary mobility boost"
     },
     {
       "Key": "Always counts as being in Cover. -3 Defense in Close Combat. Unit can't charge.",
-      "Translation": "",
-      "Comment": "Pavise/static defense weapon"
+      "Translation": "始终计为处于掩护中。近战中-3防御。单位不能冲锋。",
+      "Comment": "Pavise/static defense weapon - strong ranged protection with combat vulnerability"
     },
     {
       "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 3+.",
-      "Translation": "",
-      "Comment": "Armor-piercing lance"
+      "Translation": "冲锋奖励：+1力量\n该武器的伤害豁免检定不会好于3+。",
+      "Comment": "Armor-piercing lance with charge bonus"
     },
     {
       "Key": "+1 Defense. Charge Bonus: +3 Power",
-      "Translation": "",
-      "Comment": "Heavy cavalry/monster"
+      "Translation": "+1防御。冲锋奖励：+3力量",
+      "Comment": "Heavy cavalry/monster capability"
     },
     {
       "Key": "Range 13. 3x Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "射程13。3发×力量3。",
+      "Comment": "Multi-shot weapon specification"
     },
     {
       "Key": "Range 33. D3 hits, Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "射程33。D3发，力量3。",
+      "Comment": "Variable hit ranged weapon"
     },
     {
       "Key": "This units ranged attack deals 3x wounds against multiwound targets.",
-      "Translation": "",
-      "Comment": "Deadly Strikes ranged variant"
+      "Translation": "该单位的远程攻击对多伤害值目标造成3倍伤害值。",
+      "Comment": "Deadly Strikes ranged variant - effective against large targets"
     },
     {
       "Key": "Range 33. 3D3+1 hits, Power 3.",
-      "Translation": "",
-      "Comment": "Organ gun or similar"
+      "Translation": "射程33。3D3+1发，力量3。",
+      "Comment": "Heavy artillery/organ gun specification"
     },
     {
       "Key": "+1 Defense. -3 Move Speed.",
-      "Translation": "",
-      "Comment": "Heavy armor trade-off"
+      "Translation": "+1防御。-3移动速度。",
+      "Comment": "Heavy armor trade-off: protection at cost of mobility"
     },
     {
       "Key": "Activate for +3 Movement this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "启用获得本轮+3移动。",
+      "Comment": "One-use mobility ability"
     },
     {
       "Key": "Fly Speed 30. Ignore Terrain.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "飞行速度30。忽视地形。",
+      "Comment": "Flying movement ability"
     },
     {
       "Key": "+3 Skill",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3技能",
+      "Comment": "Significant combat ability boost"
     },
     {
       "Key": "One use, +3 Power and + 1 Attack until end of turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "一次使用，+3力量和+1攻击至轮末。",
+      "Comment": "One-use offensive boost"
     },
     {
       "Key": "D3 Power 3 hits. Range 30.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "D3发力量3。射程30。",
+      "Comment": "Variable-output ranged attack"
     },
     {
       "Key": "3 x Power 3 hits. Range: 13.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "3发×力量3。射程：13。",
+      "Comment": "Close-range multi-shot attack"
     },
     {
       "Key": "Target unit has -3 Defense for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目标单位获得-3防御，持续一轮。",
+      "Comment": "Powerful debuff ability"
     },
     {
       "Key": "Charge Bonus: +3 Power +3 Attacks",
-      "Translation": "",
-      "Comment": "Monster charge"
+      "Translation": "冲锋奖励：+3力量+3攻击",
+      "Comment": "Monster charge capability"
     },
     {
       "Key": "Range 33. 3x Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "射程33。3发×力量3。",
+      "Comment": "Long-range multi-shot weapon"
     },
     {
       "Key": "Range 33. 3D3 hits, Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "射程33。3D3发，力量3。",
+      "Comment": "Long-range variable hit weapon"
     },
     {
       "Key": "Enemies re-roll 3s on Damage Saves.",
-      "Translation": "",
-      "Comment": "Rend ability"
+      "Translation": "对手重投伤害豁免检定中的3。",
+      "Comment": "Rend ability - armor-piercing effect"
     },
     {
       "Key": "Reduce an enemy units Move Speed by 3. Range 13.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "减少敌方单位3点移动速度。射程13。",
+      "Comment": "Slowing attack"
     },
     {
       "Key": "3D3 Power 1 hits. Range 13.",
-      "Translation": "",
-      "Comment": "Magic missile"
+      "Translation": "3D3发力量1。射程13。",
+      "Comment": "Magic missile - high volume, low power"
     },
     {
       "Key": "Caster has +1 Power,  +1 Defense and +3 Attacks for one turn.",
-      "Translation": "",
+      "Translation": "施法者本轮获得+1力量、+1防御和+3攻击。",
       "Comment": "Transformation spell"
     },
     {
       "Key": "Range 3. 1D3 power 3. One use per battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "射程3。1D3力量3。每场战斗一次。",
+      "Comment": "Close-range limited attack"
     },
     {
       "Key": "Retinue has +3 Move Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "卫队获得+3移动速度",
+      "Comment": "Command group mobility"
     },
     {
       "Key": "Target Warmachine gets +3 Defense and rerolls 1s on Ranged Attack rolls this battle.",
-      "Translation": "",
-      "Comment": "Engineer buff"
+      "Translation": "目标战争机器获得+3防御且本场战斗重投远程攻击检定中的1。",
+      "Comment": "Engineer buff for war machines"
     },
     {
       "Key": "Caster and retinue gains Flying and Move Speed 30 for one turn",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "施法者及其卫队获得飞行和移动速度30，持续一轮。",
+      "Comment": "Mobility transformation spell"
     },
     {
       "Key": "Range: 13. Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "射程：13。力量3。",
+      "Comment": "Close-range weapon specification"
     },
     {
       "Key": "Throw a boulder at an enemy unit. Range 13, 3D3 Power 3.",
-      "Translation": "",
+      "Translation": "向敌方单位投掷巨石。射程13，3D3力量3。",
       "Comment": "Giant/troll ability"
     },
     {
       "Key": "+3 Attacks this turn. Activate once per battle when wounded.",
-      "Translation": "",
-      "Comment": "Enraged state"
+      "Translation": "本轮+3攻击。受伤时每场战斗启用一次。",
+      "Comment": "Enraged state ability"
     },
     {
       "Key": "Range: 13. 3x Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "射程：13。3发×力量3。",
+      "Comment": "Close-range multi-shot weapon"
     },
     {
       "Key": "All enemy units have -3 Discipline for one turn. Can only be  activated when damaged.",
-      "Translation": "",
-      "Comment": "Terror roar"
+      "Translation": "所有敌方单位一轮内获得-3纪律。仅在受伤时启用。",
+      "Comment": "Terror roar ability"
     },
     {
       "Key": "Range: 3. Power 3.",
-      "Translation": "",
-      "Comment": "Breath weapon"
+      "Translation": "射程：3。力量3。",
+      "Comment": "Breath weapon specification"
     },
     {
       "Key": "Range 33. Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "射程33。力量3。",
+      "Comment": "Long-range weapon"
     },
     {
       "Key": "Range 13. D3 Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "射程13。D3力量3。",
+      "Comment": "Close-range variable power weapon"
     },
     {
       "Key": "Retinue gets +3 Movement Speed and re-rolls missed Attack Rolls for one Turn. It loses one model.",
-      "Translation": "",
-      "Comment": "Blood sacrifice"
+      "Translation": "卫队获得+3移动速度且一轮内重投攻击检定中失败的。损失一个模型。",
+      "Comment": "Blood sacrifice ability"
     },
     {
       "Key": "Activate once per battle. Melee attacks deal 3x wounds against multiwound targets for one turn.",
-      "Translation": "",
-      "Comment": "Deadly Strikes ability"
+      "Translation": "每场战斗启用一次。一轮内近战攻击对多伤害值目标造成3倍伤害值。",
+      "Comment": "Deadly Strikes melee ability"
     },
     {
       "Key": "Range: 33. Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "射程：33。力量3。",
+      "Comment": "Long-range weapon specification"
     },
     {
       "Key": "Activate for +3 Movement and Flying for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "启用获得+3移动和飞行，持续一轮。",
+      "Comment": "Mobility transformation"
     },
     {
       "Key": "Once per battle, all friendly units with Gift of War gain Deadly Strikes (3x Wounds caused).",
-      "Translation": "",
-      "Comment": "Chaos faction buff"
+      "Translation": "每场战斗一次，所有拥有战争恩赐的友方单位获得致命打击（造成3倍伤害值）。",
+      "Comment": "Chaos faction buff for gift holders"
     },
     {
       "Key": "+1 Power, +1 Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1力量，+1攻击",
+      "Comment": "Dual combat enhancement"
     },
     {
       "Key": "Reroll failed Damage Saves",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "重投伤害豁免检定中失败的",
+      "Comment": "Defensive reliability"
     },
     {
       "Key": "+3 Wounds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3伤害值",
+      "Comment": "Health boost"
     },
     {
       "Key": "+3 Ranged Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3远程攻击",
+      "Comment": "Ranged accuracy boost"
     },
     {
       "Key": "+3 Ranged Attack, +1 Power to Ranged Attacks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3远程攻击，+1远程攻击力量",
+      "Comment": "Ranged specialization"
     },
     {
       "Key": "+1 Power to Spell Attacks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "法术攻击+1力量",
+      "Comment": "Magic specialization"
     },
     {
       "Key": "+3 Spell Attacks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3法术攻击",
+      "Comment": "Magic casting boost"
     },
     {
       "Key": "+3 Spell Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3法术攻击",
+      "Comment": "Magic casting boost (singular)"
     },
     {
       "Key": "+3 Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3攻击",
+      "Comment": "General attack boost"
     },
     {
       "Key": "+3 Ranged Attacks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3远程攻击",
+      "Comment": "Ranged attack boost"
     },
     {
       "Key": "+3 Discipline",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3纪律",
+      "Comment": "Morale enhancement"
     },
     {
       "Key": "Unit rerolls 1s on Ranged Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位重投远程攻击检定中的1。",
+      "Comment": "Ranged attack reliability"
     },
     {
       "Key": "+1 Skill",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1技能",
+      "Comment": "Combat ability boost"
     },
     {
       "Key": "+1 Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1力量",
+      "Comment": "Damage boost"
     },
     {
       "Key": "+1 Wounds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1伤害值",
+      "Comment": "Health boost"
     },
     {
       "Key": "+1 Ranged Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1远程攻击",
+      "Comment": "Ranged accuracy boost"
     },
     {
       "Key": "+1 Defense",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1防御",
+      "Comment": "Armor boost"
     },
     {
       "Key": "+1 Spell Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1法术攻击",
+      "Comment": "Magic casting boost"
     },
     {
       "Key": "+1 Power. Once per battle, cast the Fireball spell.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1力量。每场战斗一次，施放火球法术。",
+      "Comment": "Enhancement with spell ability"
     },
     {
       "Key": "Commander and unit has Ambush deployment",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "指挥官及其单位拥有伏击部署",
+      "Comment": "Command group deployment option"
     },
     {
       "Key": "All enemy units re-roll successful Discipline tests this turn. Use once per battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "所有敌方单位本轮重投纪律检定中成功的。每场战斗一次。",
+      "Comment": "Demoralizing ability"
     },
     {
       "Key": "+1 to hit with Ranged Attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "远程攻击+1命中。",
+      "Comment": "Ranged accuracy improvement"
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Ranged Units",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "对远程单位重投远程攻击和近战攻击检定。",
+      "Comment": "Anti-ranged specialization"
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Monsters.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "对怪物重投远程攻击和近战攻击检定。",
+      "Comment": "Anti-monster specialization"
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "对骑兵和战车重投远程攻击和近战攻击检定。",
+      "Comment": "Anti-cavalry specialization"
     },
     {
       "Key": "Unit is Fearless. Once per battle, gain +3 Power this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位无畏。每场战斗一次，本轮获得+3力量。",
+      "Comment": "Fearless unit with damage boost"
     },
     {
       "Key": "Target unit gets +3 Power in their next combat round.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目标单位在其下一个战斗轮中获得+3力量。",
+      "Comment": "Combat enhancement ability"
     },
     {
       "Key": "All units gets +1 Skill and rerolls failed Discipline tests this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "所有单位本轮获得+1技能且重投纪律检定中失败的。",
+      "Comment": "Army-wide morale and combat boost"
     },
     {
       "Key": "3D3 Power 3 hits. Range 30.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "3D3力量3。射程30。",
+      "Comment": "Multi-die ranged weapon"
     },
     {
       "Key": "Target unit has +3 Power and rerolls missed Attack Rolls this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目标单位本轮获得+3力量且重投攻击检定中失败的。",
+      "Comment": "Combat enhancement buff"
     },
     {
       "Key": "Raise 3D3+3 models on a Zombie or Skeleton Warrior, Spear or Archer unit.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "在一个僵尸或骷髅战士、长矛兵或弓箭手单位上召唤3D3+3个模型。",
+      "Comment": "Undead reinforcement spell"
     },
     {
       "Key": "Restore D3+1 wounds to a Reanimated unit, and give it +1 Power and Defense this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恢复一个再生单位D3+1伤害值，本轮给予其+1力量和防御。",
+      "Comment": "Undead unit healing and buff"
     },
     {
       "Key": "Restore D3+1 wounds to any unit.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恢复任何单位D3+1伤害值。",
+      "Comment": "General healing spell"
     },
     {
       "Key": "Target unit has -3 Defense and Power until end of turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目标单位至轮末获得-3防御和力量。",
+      "Comment": "Significant debuff"
     },
     {
       "Key": "3 x Power 3 hits. Range: 33.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "3发×力量3。射程：33。",
+      "Comment": "Long-range multi-shot weapon"
     },
     {
       "Key": "Target unit rerolls failed damage saves this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目标单位本轮重投伤害豁免检定中失败的。",
+      "Comment": "Defensive buff"
     },
     {
       "Key": "Target Reanimated unit has +3 Move speed and rerolls missed Attack Rolls until it's next combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目标再生单位获得+3移动速度且直至其下一场近战重投攻击检定中失败的。",
+      "Comment": "Undead unit mobility and combat buff"
     },
     {
       "Key": "Reduce target units movement speed to 0 this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "本轮将目标单位的移动速度降低为0。",
+      "Comment": "Immobilization effect"
     },
     {
       "Key": "Caster has +1 Power,  +1 Defense and +3 Attacks this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "施法者本轮获得+1力量、+1防御和+3攻击。",
+      "Comment": "Transformation spell"
     },
     {
       "Key": "3D3 Power 3 hits. Range 13.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "3D3力量3。射程13。",
+      "Comment": "Close-range multi-die weapon"
     },
     {
       "Key": "Unit can fire ranged weapons in one additional rank.\nRerolls 1s on Ranged Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位可以额外一排发射远程武器。\n重投远程攻击检定中的1。",
+      "Comment": "Formation-based ranged ability"
     },
     {
       "Key": "Ranged attack range increased by 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "远程攻击射程增加3。",
+      "Comment": "Extended ranged reach"
     },
     {
       "Key": "+1 Power to Ranged Attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "远程攻击+1力量。",
+      "Comment": "Ranged damage boost"
     },
     {
       "Key": "Unit re-rolls failed Damage Saves",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位重投伤害豁免检定中失败的。",
+      "Comment": "Defensive reliability"
     },
     {
       "Key": "Unit can move and fire ranged weapons.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位可以移动并发射远程武器。",
+      "Comment": "Mobile ranged ability"
     },
     {
       "Key": " Unit re-rolls missed Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位重投攻击检定中失败的。",
+      "Comment": "Attack reliability"
     },
     {
       "Key": "Unit re-rolls missed Attack Rolls and is Fearless (Ignores penalties to Discipline tests).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位重投攻击检定中失败的且无畏（忽视纪律检定的所有惩罚）。",
+      "Comment": "Attack reliability with morale immunity"
     },
     {
       "Key": "Unit has +1 to Combat Score and is Fearless (Ignores penalties to Discipline tests).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位获得+1战斗评分且无畏（忽视纪律检定的所有惩罚）。",
+      "Comment": "Combat quality with morale immunity"
     },
     {
       "Key": "Unit has +3 range for Ranged attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位远程攻击射程+3。",
+      "Comment": "Extended ranged reach"
     },
     {
       "Key": "Unit has +3 range for Ranged attacks and ignores penalties for difficult terrain.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位远程攻击射程+3且忽视地形困难的惩罚。",
+      "Comment": "Extended ranged reach with terrain immunity"
     },
     {
       "Key": "Unit has +1 to Combat Score.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位获得+1战斗评分。",
+      "Comment": "Combat quality enhancement"
     },
     {
       "Key": "Reduce Crumble rolls by 1. Increase Move Speed by 1. +3 Wounds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "减少1点崩溃检定。移动速度增加1。+3伤害值。",
+      "Comment": "Undead enhancement with health boost"
     },
     {
       "Key": "Reduce Crumble rolls by 1.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "减少1点崩溃检定。",
+      "Comment": "Undead durability enhancement"
     },
     {
       "Key": "Reduce Crumble rolls by 1. Increase Move Speed by 1.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "减少1点崩溃检定。移动速度增加1。",
+      "Comment": "Undead enhancement"
     },
     {
       "Key": "+1 Attack, -1 Skill.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1攻击，-1技能。",
+      "Comment": "Aggressive tradeoff"
     },
     {
       "Key": "+3 Attacks, -1 Skill.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3攻击，-1技能。",
+      "Comment": "Aggressive enhancement with accuracy penalty"
     },
     {
       "Key": "+1 Ranged Attack, -1 Skill.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1远程攻击，-1技能。",
+      "Comment": "Ranged specialization with penalty"
     },
     {
       "Key": "Range 13. 3D3 Power 3. -1 Defense.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "射程13。3D3力量3。-1防御。",
+      "Comment": "Close-range weapon with defensive penalty"
     },
     {
       "Key": "Range 13. D3 Power 3. -1 Defense.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "射程13。D3力量3。-1防御。",
+      "Comment": "Close-range variable weapon with defensive penalty"
     },
     {
       "Key": "Fly Speed 13. Ignore Terrain. -1 Discipline.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "飞行速度13。忽视地形。-1纪律。",
+      "Comment": "Flying unit with morale penalty"
     },
     {
       "Key": "Unit counts as Reanimated. (Never fails Discipline tests, loses D3 wounds on lost combat )+1 Defense,  -1 Move Speed.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位计为再生的。（永不失败纪律检定，在失败的近战中失去D3伤害值）+1防御，-1移动速度。",
+      "Comment": "Undead classification with defensive tradeoff"
     },
     {
       "Key": "Opponents re-roll hits in close combat. ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "对手在近战中重投命中检定。",
+      "Comment": "Combat defense ability"
     },
     {
       "Key": "Ambush deployment.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "伏击部署。",
+      "Comment": "Deployment flexibility"
     },
     {
       "Key": "+1 Wound. -1 Move Speed.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1伤害值。-1移动速度。",
+      "Comment": "Health for mobility tradeoff"
     },
     {
       "Key": "+1 Wounds. +1Power",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1伤害值。+1力量。",
+      "Comment": "Dual combat enhancement"
     },
     {
       "Key": "+3 Wounds. -1 Move Speed.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+3伤害值。-1移动速度。",
+      "Comment": "Health for mobility tradeoff"
     },
     {
       "Key": "+3 range to Ranged Attacks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "远程攻击+3射程",
+      "Comment": "Extended ranged reach"
     },
     {
       "Key": "+3 range to Ranged Attacks. Damage saves against units Ranged Attack are reduced by 1.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "远程攻击+3射程。对该单位远程攻击的伤害豁免-1。",
+      "Comment": "Extended range with armor-piercing effect"
     },
     {
       "Key": "Unit gets supporting attacks from one extra rank.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位从额外一排获得支援攻击。",
+      "Comment": "Formation bonus"
     },
     {
       "Key": "Unit gets supporting attacks from one extra rank and re-rolls missed Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位从额外一排获得支援攻击且重投攻击检定中失败的。",
+      "Comment": "Enhanced formation bonus with attack reliability"
     },
     {
       "Key": "+1 Move Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1移动速度",
+      "Comment": "Mobility enhancement"
     },
     {
       "Key": "+1 Move Speed. Charge Bonus: +1 Attack.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1移动速度。冲锋奖励：+1攻击。",
+      "Comment": "Mobility with charge benefit"
     },
     {
       "Key": "+1 Move Speed and ignores Difficult Terrain",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1移动速度且忽视地形困难。",
+      "Comment": "Mobility with terrain traversal"
     },
     {
       "Key": "Lethal Attacks. (3x wounds)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "致命攻击。（3倍伤害值）",
+      "Comment": "Deadly Strikes ability"
     },
     {
       "Key": "Regeneration. (restores all wounds at end of turn)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "再生。（轮末恢复所有伤害值）",
+      "Comment": "Healing ability"
     },
     {
       "Key": "Poisoned Attacks (enemies re-roll 3s on Damage Saves)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "毒性攻击（敌人重投伤害豁免检定中的3）",
+      "Comment": "Armor-piercing ability"
     },
     {
       "Key": "Unit re-rolls 1s on Damage Saves",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位重投伤害豁免检定中的1",
+      "Comment": "Damage save reliability"
     },
     {
       "Key": "Reroll missed Attack Rolls when attacking from Flank or Rear",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "从侧翼或后方攻击时重投攻击检定中失败的",
+      "Comment": "Tactical advantage bonus"
     },
     {
       "Key": " +1 Attack and Fearless. Activate once per battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1攻击且无畏。每场战斗启用一次。",
+      "Comment": "Combat boost with morale immunity"
     },
     {
       "Key": " Reroll 1s on Damage Saves",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "重投伤害豁免检定中的1",
+      "Comment": "Damage save reliability"
     },
     {
       "Key": "All your units have +1 Power  and +3 Move Speed for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "你所有单位一轮内获得+1力量和+3移动速度。",
+      "Comment": "Army-wide offensive and mobility boost"
     },
     {
       "Key": "Earns 1 gold for each enemy killed in Combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "每杀死一个近战中的敌人获得1金币。",
+      "Comment": "Economic ability"
     },
     {
       "Key": "All friendly units counts as being in Cover against ranged attacks untill it's next combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "所有友方单位计为对抗远程攻击处于掩护中，直至其下一场近战。",
+      "Comment": "Defensive positioning ability"
     },
     {
       "Key": "Target unit gets +3 to Damage Saves this turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目标单位本轮伤害豁免+3。",
+      "Comment": "Defensive buff"
     },
     {
       "Key": "+1 Damage Save vs Ranged",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "对远程攻击+1伤害豁免",
+      "Comment": "Anti-ranged defense"
     },
     {
       "Key": "Once per battle: Gain +1 Attack\n+1 Damage Save vs Ranged",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "每场战斗一次：获得+1攻击\n对远程攻击+1伤害豁免",
+      "Comment": "Combat and anti-ranged boost"
     },
     {
       "Key": " +1 Wounds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1伤害值",
+      "Comment": "Health boost"
     },
     {
       "Key": "Poisoned Attacks. (Opponent rerolls 3s on Damage Saves)\n+1 Wounds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "毒性攻击。（对手重投伤害豁免检定中的3）\n+1伤害值",
+      "Comment": "Armor-piercing with health boost"
     },
     {
       "Key": "Once per battle: Gain Flying for one turn. \n+1 Move Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "每场战斗一次：获得飞行一轮。\n+1移动速度",
+      "Comment": "Temporary flying with permanent mobility"
     },
     {
       "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "每场战斗一次，所有拥有衰败恩赐的友方单位重投伤害豁免检定中失败的。\n再生。",
+      "Comment": "Gift holder buff with healing"
     },
     {
       "Key": "Once per battle, all friendly units with Gift of Trickery gain +3 move speed and Cover.\nAmbush Deployment.\n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "每场战斗一次，所有拥有诡计恩赐的友方单位获得+3移动速度和掩护。\n伏击部署。\n",
+      "Comment": "Gift holder buff with deployment option"
     },
     {
       "Key": "Once per battle, all friendly units with Gift of War gain Deadly Strikes  (3x Wounds caused).\nCommander has Deadly Strikes.\n",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "每场战斗一次，所有拥有战争恩赐的友方单位获得致命打击（造成3倍伤害值）。\n指挥官拥有致命打击。\n",
+      "Comment": "Gift holder buff with command group benefit"
     },
     {
       "Key": "Unit has +10 range for Ranged attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "单位远程攻击+10射程。",
+      "Comment": "Extreme long-range weapon"
     },
     {
       "Key": "Paladin and retinue rerolls 1s on Attack Rolls. Activate once per battle; all friendly Knights reroll failed Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "圣武士及其卫队重投攻击检定中的1。每场战斗启用一次；所有友方骑士重投攻击检定中失败的。",
+      "Comment": "Command group and army-wide attack boost"
     },
     {
       "Key": "Maiden and retinue rerolls 1s on Damage Saves.. Activate once per battle; all friendly Knights reroll failed Damage Saves. ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "少女及其卫队重投伤害豁免检定中的1。每场战斗启用一次；所有友方骑士重投伤害豁免检定中失败的。",
+      "Comment": "Command group and army-wide defense boost"
     },
     {
       "Key": "-1 to targets Damage Save",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目标伤害豁免-1",
+      "Comment": "Armor-piercing effect"
     },
     {
       "Key": "These arrows deal 3x wounds against multiwound targets.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "这些箭对多伤害值目标造成3倍伤害值。",
+      "Comment": "Armor-piercing ammunition"
     },
     {
       "Key": "Gain +3 ranged attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "获得+3远程攻击。",
+      "Comment": "Ranged attack boost"
     },
     {
       "Key": "Ranged attacks have +10 range and ignores cover.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "远程攻击+10射程且忽视掩护。",
+      "Comment": "Extended range with armor piercing"
     }
   ]
 }

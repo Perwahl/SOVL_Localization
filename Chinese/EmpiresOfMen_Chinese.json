@@ -3,93 +3,93 @@
   "Translations": [
     {
       "Key": "Empires of Men",
-      "Translation": "",
-      "Comment": "Reich = empire/realm. Plural form maintains the grand, multi-kingdom nature."
+      "Translation": "人类帝国",
+      "Comment": "代表人类的伟大帝国，多个王国的联合。"
     },
     {
       "Key": "Imperial Sword",
-      "Translation": "",
-      "Comment": "Kaiserlich = imperial. Schwertkämpfer = swordsmen for clarity."
+      "Translation": "帝国剑士",
+      "Comment": "帝国配发的剑兵，基础步兵单位。"
     },
     {
       "Key": "Foot Knights",
-      "Translation": "",
-      "Comment": "Compound word for knights on foot, as opposed to mounted knights."
+      "Translation": "步兵骑士",
+      "Comment": "步行的骑士，与骑乘的骑士相对。"
     },
     {
       "Key": "Imperial Halberd",
-      "Translation": "",
-      "Comment": "Hellebardiere = halberdiers. Professional term for halberd-wielding troops."
+      "Translation": "帝国戟兵",
+      "Comment": "配备长戟的专业士兵。"
     },
     {
       "Key": "Imperial Spear",
-      "Translation": "",
-      "Comment": "Speerkämpfer = spearmen. Standard military formation troops."
+      "Translation": "帝国矛兵",
+      "Comment": "配备长矛的标准军队编制。"
     },
     {
       "Key": "Imperial Knights",
-      "Translation": "",
-      "Comment": "Heavy cavalry, the elite of the empire. Direct and powerful."
+      "Translation": "帝国骑士",
+      "Comment": "帝国最精锐的重装骑兵。"
     },
     {
       "Key": "Imperial Light Cavalry",
-      "Translation": "",
-      "Comment": "Leichte Kavallerie = light cavalry. Scouts and skirmishers."
+      "Translation": "帝国轻骑兵",
+      "Comment": "轻装骑兵，作为侦察与骚扰兵种。"
     },
     {
       "Key": "Imperial Archers",
-      "Translation": "",
-      "Comment": "Bogenschützen = archers. Classic ranged infantry."
+      "Translation": "帝国弓手",
+      "Comment": "配弓的远程步兵。"
     },
     {
       "Key": "Imperial Crossbowmen",
-      "Translation": "",
-      "Comment": "Armbrustschützen = crossbowmen. More powerful ranged troops."
+      "Translation": "帝国弩手",
+      "Comment": "使用弩弓的强力远程兵种。"
     },
     {
       "Key": "Imperial Handguns",
-      "Translation": "",
-      "Comment": "Büchsenschützen = handgunners/arquebusiers. Renaissance-era firearms."
+      "Translation": "帝国火枪手",
+      "Comment": "使用早期火枪的现代化步兵。"
     },
     {
       "Key": "Imperial Cannon",
-      "Translation": "",
-      "Comment": "Direct translation of cannon. Heavy artillery."
+      "Translation": "帝国大炮",
+      "Comment": "帝国的重型火炮。"
     },
     {
       "Key": "Imperial Mortar",
-      "Translation": "",
-      "Comment": "Mörser = mortar. Indirect fire artillery."
+      "Translation": "帝国迫击炮",
+      "Comment": "进行间接火力的攻城火炮。"
     },
     {
       "Key": "Imperial Dreadnought",
-      "Translation": "",
-      "Comment": "Koloss (colossus) conveys massive war machine. Alternative to anglicized 'Dreadnought'."
+      "Translation": "帝国巨像",
+      "Comment": "庞大的战争机器，无可阻挡。"
     },
     {
       "Key": "Gryphon",
-      "Translation": "",
-      "Comment": "Standard German term for gryphon. Majestic imperial symbol."
+      "Translation": "狮鹫",
+      "Comment": "帝国的象征，宏伟的神话生物。"
     },
     {
       "Key": "Imperial Dragon",
-      "Translation": "",
-      "Comment": "Dragon under imperial control. Ultimate flying unit."
+      "Translation": "帝国龙兽",
+      "Comment": "由帝国控制的龙兽，最强大的飞行单位。"
     },
     {
       "Key": "Captain",
-      "Translation": "",
-      "Comment": "Traditional German military rank for captain. Battle-hardened leader."
+      "Translation": "队长",
+      "Comment": "帝国军队中的传统军衔与领导者。"
     },
     {
       "Key": "Knight Commander",
-      "Translation": "",
-      "Comment": "Kommandant = commander. Leader of knightly orders."
+      "Translation": "骑士团长",
+      "Comment": "骑士军团的指挥官与领导者。"
     },
     {
       "Key": "Imperial Wizard",
-      "Translation": "",
-      "Comment": "Zauberer = wizard. Magic user in service of the empire."
+      "Translation": "帝国术士",
+      "Comment": "为帝国效力的魔法使用者。"
     }
   ]
 }

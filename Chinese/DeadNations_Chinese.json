@@ -3,83 +3,83 @@
   "Translations": [
     {
       "Key": "Dead Nations",
-      "Translation": "",
-      "Comment": "Direct compound. Evokes the undead kingdoms rising from ancient graves."
+      "Translation": "死亡国度",
+      "Comment": "从古墓中复起的不死王国，象征永恒的诅咒。"
     },
     {
       "Key": "Skeleton Warriors",
-      "Translation": "",
-      "Comment": "Skelett = skeleton. Basic undead infantry."
+      "Translation": "骷髅战士",
+      "Comment": "基础的不死步兵，白骨堆砌而成。"
     },
     {
       "Key": "Zombies",
-      "Translation": "",
-      "Comment": "Zombie is universally recognized. Shambling undead hordes."
+      "Translation": "僵尸",
+      "Comment": "通用术语，代表蹒跚行走的不死军团。"
     },
     {
       "Key": "Wight Guard",
-      "Translation": "",
-      "Comment": "Gruft = crypt/tomb. Garde = guard. Elite undead warriors guarding ancient tombs."
+      "Translation": "古墓守卫",
+      "Comment": "守卫古墓的精锐不死战士，权力强大。"
     },
     {
       "Key": "Skeleton Spear",
-      "Translation": "",
-      "Comment": "Skeletal spear-wielding troops. Disciplined undead formations."
+      "Translation": "骷髅矛兵",
+      "Comment": "持矛的骷髅部队，纪律严明的不死方阵。"
     },
     {
       "Key": "Unearthed Catapult",
-      "Translation": "",
-      "Comment": "Ausgegraben = unearthed/excavated. Ancient siege weapon raised from the dead."
+      "Translation": "挖掘投石机",
+      "Comment": "从坟墓中复起的古代攻城武器。"
     },
     {
       "Key": "Skeleton Bowmen",
-      "Translation": "",
-      "Comment": "Undead archers. Silent and deadly."
+      "Translation": "骷髅弓手",
+      "Comment": "不死弓箭手，沉默而致命。"
     },
     {
       "Key": "Dire Wolves",
-      "Translation": "",
-      "Comment": "Schattenwölfe (shadow wolves) conveys the supernatural, cursed nature. Alternative: Grimmwölfe."
+      "Translation": "暗影狼",
+      "Comment": "超自然的诅咒狼族，凶悍异常。"
     },
     {
       "Key": "Skeleton Knights",
-      "Translation": "",
-      "Comment": "Undead cavalry. Former knights now serving in death."
+      "Translation": "骷髅骑士",
+      "Comment": "不死骑兵，曾经的贵族骑士如今于死亡中转生。"
     },
     {
       "Key": "Dread Knights",
-      "Translation": "",
-      "Comment": "Schrecken = dread/terror. Elite undead knights radiating fear."
+      "Translation": "恐怖骑士",
+      "Comment": "精锐不死骑士，散发恐惧与绝望。"
     },
     {
       "Key": "Fell Bats",
-      "Translation": "",
-      "Comment": "Grausig = fell/dreadful. Fledermaus = bat. Monstrous flying creatures."
+      "Translation": "邪恶蝙蝠",
+      "Comment": "可怕的飞行怪物，昼伏夜出。"
     },
     {
       "Key": "Zombie Giant",
-      "Translation": "",
-      "Comment": "Compound of zombie and giant. Massive reanimated corpse."
+      "Translation": "僵尸巨人",
+      "Comment": "被复活的巨大尸体，战场上的恐怖。"
     },
     {
       "Key": "Bone Dragon",
-      "Translation": "",
-      "Comment": "Direct compound. Terrifying undead dragon of pure bone."
+      "Translation": "骨龙",
+      "Comment": "纯骨之躯的恐怖龙兽，令人畏惧的不死生物。"
     },
     {
       "Key": "Wight Lord",
-      "Translation": "",
-      "Comment": "Gruft = crypt, Herr = lord. Ancient undead noble commanding the armies."
+      "Translation": "古墓领主",
+      "Comment": "统治不死军团的古老不死贵族。"
     },
     {
       "Key": "Vampire Knight",
-      "Translation": "",
-      "Comment": "Vampir = vampire. Undead knight with vampiric powers."
+      "Translation": "吸血鬼骑士",
+      "Comment": "拥有吸血鬼力量的不死骑士，强大而诡异。"
     },
     {
       "Key": "Necromancer",
-      "Translation": "",
-      "Comment": "Standard German term for necromancer. Master of death magic."
+      "Translation": "死灵法师",
+      "Comment": "掌握死亡魔法的大师，复活与控制不死生物。"
     }
   ]
 }
