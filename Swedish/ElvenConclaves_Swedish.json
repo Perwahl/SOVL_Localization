@@ -3,88 +3,88 @@
   "Translations": [
     {
       "Key": "Elven Conclaves",
-      "Translation": "",
+      "Translation": "Elven Conclaves",
       "Comment": ""
     },
     {
       "Key": "Elf Spears",
-      "Translation": "",
+      "Translation": "Alviska spjut",
       "Comment": ""
     },
     {
       "Key": "Elf City Guard",
-      "Translation": "",
+      "Translation": "Alvisk stadsvakt",
       "Comment": ""
     },
     {
       "Key": "Weapon Masters",
-      "Translation": "",
+      "Translation": "Vapenmästare",
       "Comment": ""
     },
     {
       "Key": "Elf Archers",
-      "Translation": "",
+      "Translation": "Alviska bågskyttar",
       "Comment": ""
     },
     {
       "Key": "Elf Watchers",
-      "Translation": "",
+      "Translation": "Alviska väktare",
       "Comment": ""
     },
     {
       "Key": "Elf Bolt Thrower",
-      "Translation": "",
+      "Translation": "Alvisk bultkastare",
       "Comment": ""
     },
     {
       "Key": "Elf Lancers",
-      "Translation": "",
+      "Translation": "Alviska lansryttare",
       "Comment": ""
     },
     {
       "Key": "Elf Reavers",
-      "Translation": "",
+      "Translation": "Alviska plundrare",
       "Comment": ""
     },
     {
       "Key": "Elf Chariot",
-      "Translation": "",
+      "Translation": "Alvisk stridsvagn",
       "Comment": ""
     },
     {
       "Key": "Giant Eagle",
-      "Translation": "",
+      "Translation": "Jätteörn",
       "Comment": ""
     },
     {
       "Key": "Dragon Knights",
-      "Translation": "",
+      "Translation": "Drakriddare",
       "Comment": ""
     },
     {
       "Key": "Ancient Dragon",
-      "Translation": "",
+      "Translation": "Uråldrig drake",
       "Comment": ""
     },
     {
       "Key": "Gryphon",
-      "Translation": "",
+      "Translation": "Grip",
       "Comment": ""
     },
     {
       "Key": "Elf Noble",
-      "Translation": "",
+      "Translation": "Alvisk adelsman",
       "Comment": ""
     },
     {
       "Key": "Elf Mage",
-      "Translation": "",
+      "Translation": "Alvisk magiker",
       "Comment": ""
     },
     {
       "Key": "Elf Spellsword",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Alvisk svärdsmagiker",
+      "Comment": "Localized for clarity rather than keeping the English class title."
     }
   ]
 }

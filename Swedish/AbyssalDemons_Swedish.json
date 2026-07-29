@@ -3,72 +3,72 @@
   "Translations": [
     {
       "Key": "Abyssal Demons",
-      "Translation": "",
+      "Translation": "Abyssal Demons",
       "Comment": ""
     },
     {
       "Key": "Abyssal Vipers",
-      "Translation": "",
+      "Translation": "Abyssal-huggormar",
       "Comment": ""
     },
     {
       "Key": "Devilspawn",
-      "Translation": "",
+      "Translation": "Djävulsyngel",
       "Comment": ""
     },
     {
       "Key": "Plague Walkers",
-      "Translation": "",
+      "Translation": "Pestvandrare",
       "Comment": ""
     },
     {
       "Key": "Plaguelings",
-      "Translation": "",
+      "Translation": "Pestyngel",
       "Comment": ""
     },
     {
       "Key": "Fire Devils",
-      "Translation": "",
+      "Translation": "Elddjävlar",
       "Comment": ""
     },
     {
       "Key": "Plague Flies",
-      "Translation": "",
+      "Translation": "Pestflugor",
       "Comment": ""
     },
     {
       "Key": "Abyssal Reapers",
-      "Translation": "",
+      "Translation": "Abyssal-skördare",
       "Comment": ""
     },
     {
       "Key": "Demonic Hounds",
-      "Translation": "",
+      "Translation": "Demoniska hundar",
       "Comment": ""
     },
     {
       "Key": "Hell Riders",
-      "Translation": "",
+      "Translation": "Helvetesryttare",
       "Comment": ""
     },
     {
       "Key": "Plague Hulk",
-      "Translation": "",
+      "Translation": "Pestkoloss",
       "Comment": ""
     },
     {
       "Key": "Archdevil",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Archdevil",
+      "Comment": "Kept in English as the established proper unit title."
     },
     {
       "Key": "Abyssal Prince",
-      "Translation": "",
+      "Translation": "Abyssal-prins",
       "Comment": ""
     },
     {
       "Key": "Abyssal Herald",
-      "Translation": "",
+      "Translation": "Abyssal-härold",
       "Comment": ""
     }
   ]

@@ -3,82 +3,82 @@
   "Translations": [
     {
       "Key": "Dead Nations",
-      "Translation": "",
+      "Translation": "Dead Nations",
       "Comment": ""
     },
     {
       "Key": "Skeleton Warriors",
-      "Translation": "",
+      "Translation": "Skelettkrigare",
       "Comment": ""
     },
     {
       "Key": "Zombies",
-      "Translation": "",
+      "Translation": "Zombier",
       "Comment": ""
     },
     {
       "Key": "Wight Guard",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Wight-vakt",
+      "Comment": "Kept Wight in English because there is no natural established Swedish equivalent."
     },
     {
       "Key": "Skeleton Spear",
-      "Translation": "",
+      "Translation": "Skelettspjut",
       "Comment": ""
     },
     {
       "Key": "Unearthed Catapult",
-      "Translation": "",
+      "Translation": "Uppgrävd katapult",
       "Comment": ""
     },
     {
       "Key": "Skeleton Bowmen",
-      "Translation": "",
+      "Translation": "Skelettbågskyttar",
       "Comment": ""
     },
     {
       "Key": "Dire Wolves",
-      "Translation": "",
+      "Translation": "Skräckvargar",
       "Comment": ""
     },
     {
       "Key": "Skeleton Knights",
-      "Translation": "",
+      "Translation": "Skelett-riddare",
       "Comment": ""
     },
     {
       "Key": "Dread Knights",
-      "Translation": "",
+      "Translation": "Skräckriddare",
       "Comment": ""
     },
     {
       "Key": "Fell Bats",
-      "Translation": "",
+      "Translation": "Dödsfladdermöss",
       "Comment": ""
     },
     {
       "Key": "Zombie Giant",
-      "Translation": "",
+      "Translation": "Zombiejätte",
       "Comment": ""
     },
     {
       "Key": "Bone Dragon",
-      "Translation": "",
+      "Translation": "Bendrake",
       "Comment": ""
     },
     {
       "Key": "Wight Lord",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Wight-herre",
+      "Comment": "Kept Wight in English because there is no natural established Swedish equivalent."
     },
     {
       "Key": "Vampire Knight",
-      "Translation": "",
+      "Translation": "Vampyrriddare",
       "Comment": ""
     },
     {
       "Key": "Necromancer",
-      "Translation": "",
+      "Translation": "Nekromant",
       "Comment": ""
     }
   ]

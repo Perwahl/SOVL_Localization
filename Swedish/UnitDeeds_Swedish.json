@@ -3,342 +3,342 @@
   "Translations": [
     {
       "Key": "Steadfast",
-      "Translation": "",
+      "Translation": "Ståndaktig",
       "Comment": ""
     },
     {
       "Key": "Passed 1 Break Tests.",
-      "Translation": "",
+      "Translation": "Klarade 1 Flykttest.",
       "Comment": ""
     },
     {
       "Key": "Dragon Slayer",
-      "Translation": "",
+      "Translation": "Drakdräpare",
       "Comment": ""
     },
     {
       "Key": "Killed 1 dragon.",
-      "Translation": "",
+      "Translation": "Dödade 1 drake.",
       "Comment": ""
     },
     {
       "Key": "Deadly",
-      "Translation": "",
+      "Translation": "Dödlig",
       "Comment": ""
     },
     {
       "Key": "Killed 1 enemies in combat.",
-      "Translation": "",
+      "Translation": "Dödade 1 fiende i strid.",
       "Comment": ""
     },
     {
       "Key": "Marksman",
-      "Translation": "",
+      "Translation": "Prickskytt",
       "Comment": ""
     },
     {
       "Key": "Killed 1 enemies with ranged weapons.",
-      "Translation": "",
+      "Translation": "Dödade 1 fiende med avståndsvapen.",
       "Comment": ""
     },
     {
       "Key": "Lucky",
-      "Translation": "",
+      "Translation": "Lyckosam",
       "Comment": ""
     },
     {
       "Key": "Rolled 1 natural six (33 % of all rolls).",
-      "Translation": "",
+      "Translation": "Slog 1 naturlig sexa (33 % av alla slag).",
       "Comment": ""
     },
     {
       "Key": "Scorer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Poängsamlare",
+      "Comment": "Objective-capture context; rendered as a point-collector title rather than a sports-style scorer."
     },
     {
       "Key": "Captured 1 objective.",
-      "Translation": "",
+      "Translation": "Erövrade 1 mål.",
       "Comment": ""
     },
     {
       "Key": "Giant Slayer",
-      "Translation": "",
+      "Translation": "Jättedräpare",
       "Comment": ""
     },
     {
       "Key": "Killed 1 giant.",
-      "Translation": "",
+      "Translation": "Dödade 1 jätte.",
       "Comment": ""
     },
     {
       "Key": "Treefeller",
-      "Translation": "",
+      "Translation": "Trädfällare",
       "Comment": ""
     },
     {
       "Key": "Felled 1 tree monster.",
-      "Translation": "",
+      "Translation": "Fällde 1 trädmonster.",
       "Comment": ""
     },
     {
       "Key": "Dino Hunter",
-      "Translation": "",
+      "Translation": "Dinojägare",
       "Comment": ""
     },
     {
       "Key": "Killed 1 dinosaur.",
-      "Translation": "",
+      "Translation": "Dödade 1 dinosaurie.",
       "Comment": ""
     },
     {
       "Key": "Warmachine Hunter",
-      "Translation": "",
+      "Translation": "Krigsmaskinsjägare",
       "Comment": ""
     },
     {
       "Key": "Killed 1 warmachine.",
-      "Translation": "",
+      "Translation": "Förstörde 1 krigsmaskin.",
       "Comment": ""
     },
     {
       "Key": "Demon Hunter",
-      "Translation": "",
+      "Translation": "Demonjägare",
       "Comment": ""
     },
     {
       "Key": "Slain 1 greater demon.",
-      "Translation": "",
+      "Translation": "Dräpte 1 stordemon.",
       "Comment": ""
     },
     {
       "Key": "Duelist",
-      "Translation": "",
+      "Translation": "Duellant",
       "Comment": ""
     },
     {
       "Key": "Killed 1 Commander.",
-      "Translation": "",
+      "Translation": "Dödade 1 befälhavare.",
       "Comment": ""
     },
     {
       "Key": "Spellslinger",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Besvärjelsekastare",
+      "Comment": "Used a literal compound to keep the boastful deed-title tone without implying a specific caster class."
     },
     {
       "Key": "Cast 1 spell.",
-      "Translation": "",
+      "Translation": "Kastade 1 besvärjelse.",
       "Comment": ""
     },
     {
       "Key": "Coward",
-      "Translation": "",
+      "Translation": "Ynkrygg",
       "Comment": ""
     },
     {
       "Key": "Fled off the battlefield with zero casualties.",
-      "Translation": "",
+      "Translation": "Flydde från slagfältet utan några förluster.",
       "Comment": ""
     },
     {
       "Key": "Unlucky",
-      "Translation": "",
+      "Translation": "Otursam",
       "Comment": ""
     },
     {
       "Key": "Rolled 1 one (33 % of all rolls).",
-      "Translation": "",
+      "Translation": "Slog 1 etta (33 % av alla slag).",
       "Comment": ""
     },
     {
       "Key": "Last Man Standing",
-      "Translation": "",
+      "Translation": "Siste man",
       "Comment": ""
     },
     {
       "Key": "Only 1 model left standing.",
-      "Translation": "",
+      "Translation": "Endast 1 modell stod kvar.",
       "Comment": ""
     },
     {
       "Key": "Short Career",
-      "Translation": "",
+      "Translation": "Kort karriär",
       "Comment": ""
     },
     {
       "Key": "Died on the first turn.",
-      "Translation": "",
+      "Translation": "Dog under första turen.",
       "Comment": ""
     },
     {
       "Key": "Emotional Support",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Känslomässigt stöd",
+      "Comment": "Kept fairly literal to preserve the tongue-in-cheek joke achievement tone."
     },
     {
       "Key": "Killed no enemies, lost no models, took no objectives.",
-      "Translation": "",
+      "Translation": "Dödade inga fiender, förlorade inga modeller och erövrade inga mål.",
       "Comment": ""
     },
     {
       "Key": "Flanker",
-      "Translation": "",
+      "Translation": "Flankör",
       "Comment": ""
     },
     {
       "Key": "Performed 1 flank/rear charge.",
-      "Translation": "",
+      "Translation": "Utförde 1 flank- eller rygganfall.",
       "Comment": ""
     },
     {
       "Key": "Dragon Slayers",
-      "Translation": "",
+      "Translation": "Drakdräpare",
       "Comment": ""
     },
     {
       "Key": "Marksmen",
-      "Translation": "",
+      "Translation": "Prickskyttar",
       "Comment": ""
     },
     {
       "Key": "Giant Slayers",
-      "Translation": "",
+      "Translation": "Jättedräpare",
       "Comment": ""
     },
     {
       "Key": "Treefellers",
-      "Translation": "",
+      "Translation": "Trädfällare",
       "Comment": ""
     },
     {
       "Key": "Dino Hunters",
-      "Translation": "",
+      "Translation": "Dinojägare",
       "Comment": ""
     },
     {
       "Key": "Warmachine Hunters",
-      "Translation": "",
+      "Translation": "Krigsmaskinsjägare",
       "Comment": ""
     },
     {
       "Key": "Demon Hunters",
-      "Translation": "",
+      "Translation": "Demonjägare",
       "Comment": ""
     },
     {
       "Key": "Duelists",
-      "Translation": "",
+      "Translation": "Duellanter",
       "Comment": ""
     },
     {
       "Key": "Spellslingers",
-      "Translation": "",
+      "Translation": "Besvärjelsekastare",
       "Comment": ""
     },
     {
       "Key": "Cowards",
-      "Translation": "",
+      "Translation": "Ynkryggar",
       "Comment": ""
     },
     {
       "Key": "Passed 3 Break Tests.",
-      "Translation": "",
+      "Translation": "Klarade 3 Flykttest.",
       "Comment": ""
     },
     {
       "Key": "Killed 3 dragons.",
-      "Translation": "",
+      "Translation": "Dödade 3 drakar.",
       "Comment": ""
     },
     {
       "Key": "Killed 3 enemies in combat.",
-      "Translation": "",
+      "Translation": "Dödade 3 fiender i strid.",
       "Comment": ""
     },
     {
       "Key": "Killed 3 enemies with ranged weapons.",
-      "Translation": "",
+      "Translation": "Dödade 3 fiender med avståndsvapen.",
       "Comment": ""
     },
     {
       "Key": "Blessed!",
-      "Translation": "",
+      "Translation": "Välsignad!",
       "Comment": ""
     },
     {
       "Key": "Rolled 3 natural sixes (33 % of all rolls).",
-      "Translation": "",
+      "Translation": "Slog 3 naturliga sexor (33 % av alla slag).",
       "Comment": ""
     },
     {
       "Key": "Captured 3 objectives.",
-      "Translation": "",
+      "Translation": "Erövrade 3 mål.",
       "Comment": ""
     },
     {
       "Key": "Killed 3 giants.",
-      "Translation": "",
+      "Translation": "Dödade 3 jättar.",
       "Comment": ""
     },
     {
       "Key": "Felled 3 tree monsters.",
-      "Translation": "",
+      "Translation": "Fällde 3 trädmonster.",
       "Comment": ""
     },
     {
       "Key": "Killed 3 dinosaurs.",
-      "Translation": "",
+      "Translation": "Dödade 3 dinosaurier.",
       "Comment": ""
     },
     {
       "Key": "Killed 3 warmachines.",
-      "Translation": "",
+      "Translation": "Förstörde 3 krigsmaskiner.",
       "Comment": ""
     },
     {
       "Key": "Slain 3 greater demons.",
-      "Translation": "",
+      "Translation": "Dräpte 3 stordemoner.",
       "Comment": ""
     },
     {
       "Key": "Killed 3 Commanders.",
-      "Translation": "",
+      "Translation": "Dödade 3 befälhavare.",
       "Comment": ""
     },
     {
       "Key": "Cast 3 spells.",
-      "Translation": "",
+      "Translation": "Kastade 3 besvärjelser.",
       "Comment": ""
     },
     {
       "Key": "Cursed!",
-      "Translation": "",
+      "Translation": "Förbannad!",
       "Comment": ""
     },
     {
       "Key": "Rolled 3 ones (33 % of all rolls).",
-      "Translation": "",
+      "Translation": "Slog 3 ettor (33 % av alla slag).",
       "Comment": ""
     },
     {
       "Key": "Performed 3 flank/rear charges.",
-      "Translation": "",
+      "Translation": "Utförde 3 flank- eller rygganfall.",
       "Comment": ""
     },
     {
       "Key": "Rolled 3 natural sixes (100 % of all rolls).",
-      "Translation": "",
+      "Translation": "Slog 3 naturliga sexor (100 % av alla slag).",
       "Comment": ""
     },
     {
       "Key": "Rolled 3 ones (100 % of all rolls).",
-      "Translation": "",
+      "Translation": "Slog 3 ettor (100 % av alla slag).",
       "Comment": ""
     },
     {
       "Key": "Killed 13 enemies with ranged weapons.",
-      "Translation": "",
+      "Translation": "Dödade 13 fiender med avståndsvapen.",
       "Comment": ""
     }
   ]

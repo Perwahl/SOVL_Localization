@@ -3,82 +3,82 @@
   "Translations": [
     {
       "Key": "Reptilian Kingdoms",
-      "Translation": "",
+      "Translation": "Reptilian Kingdoms",
       "Comment": ""
     },
     {
       "Key": "Saurian Warriors",
-      "Translation": "",
+      "Translation": "Saurian-krigare",
       "Comment": ""
     },
     {
       "Key": "Crocolisk Bruisers",
-      "Translation": "",
+      "Translation": "Crocolisk-krossare",
       "Comment": ""
     },
     {
       "Key": "Newt Braves",
-      "Translation": "",
+      "Translation": "Newt-kämpar",
       "Comment": ""
     },
     {
       "Key": "Saurian Spear",
-      "Translation": "",
+      "Translation": "Saurian-spjut",
       "Comment": ""
     },
     {
       "Key": "Raptor Riders",
-      "Translation": "",
+      "Translation": "Raptorryttare",
       "Comment": ""
     },
     {
       "Key": "Pterodactyl Riders",
-      "Translation": "",
+      "Translation": "Pterodactyl-ryttare",
       "Comment": ""
     },
     {
       "Key": "Newt Skirmishers",
-      "Translation": "",
+      "Translation": "Newt-skärmytslare",
       "Comment": ""
     },
     {
       "Key": "Firelizard",
-      "Translation": "",
+      "Translation": "Eldödla",
       "Comment": ""
     },
     {
       "Key": "Triceratops",
-      "Translation": "",
+      "Translation": "Triceratops",
       "Comment": ""
     },
     {
       "Key": "Jungle Swarm",
-      "Translation": "",
+      "Translation": "Djungelsvärm",
       "Comment": ""
     },
     {
       "Key": "Dreadmaw",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Dreadmaw",
+      "Comment": "Kept in English as a creature proper name."
     },
     {
       "Key": "Tyrannosaur",
-      "Translation": "",
+      "Translation": "Tyrannosaur",
       "Comment": ""
     },
     {
       "Key": "Newt Priest",
-      "Translation": "",
+      "Translation": "Newt-präst",
       "Comment": ""
     },
     {
       "Key": "Saurian Warlord",
-      "Translation": "",
+      "Translation": "Saurian-krigsherre",
       "Comment": ""
     },
     {
       "Key": "Ancient Toad",
-      "Translation": "",
+      "Translation": "Uråldrig padda",
       "Comment": ""
     }
   ]

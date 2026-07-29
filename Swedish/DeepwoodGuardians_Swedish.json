@@ -3,83 +3,83 @@
   "Translations": [
     {
       "Key": "Deepwood Guardians",
-      "Translation": "",
+      "Translation": "Deepwood Guardians",
       "Comment": ""
     },
     {
       "Key": "Deepwood Guard",
-      "Translation": "",
+      "Translation": "Deepwood-vakt",
       "Comment": ""
     },
     {
       "Key": "Dryads",
-      "Translation": "",
+      "Translation": "Dryader",
       "Comment": ""
     },
     {
       "Key": "Deepwood Dancers",
-      "Translation": "",
+      "Translation": "Deepwood-dansare",
       "Comment": ""
     },
     {
       "Key": "Deepwood Archers",
-      "Translation": "",
+      "Translation": "Deepwood-bågskyttar",
       "Comment": ""
     },
     {
       "Key": "Deepwood Rangers",
-      "Translation": "",
+      "Translation": "Deepwood-jägare",
       "Comment": ""
     },
     {
       "Key": "Deepwood Riders",
-      "Translation": "",
+      "Translation": "Deepwood-ryttare",
       "Comment": ""
     },
     {
       "Key": "Deepwood Chariot",
-      "Translation": "",
+      "Translation": "Deepwood-stridsvagn",
       "Comment": ""
     },
     {
       "Key": "Giant Eagle",
-      "Translation": "",
+      "Translation": "Jätteörn",
       "Comment": ""
     },
     {
       "Key": "Stag Riders",
-      "Translation": "",
+      "Translation": "Hjortryttare",
       "Comment": ""
     },
     {
       "Key": "Treant",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Treant",
+      "Comment": "Kept in English because there is no widely used natural Swedish equivalent."
     },
     {
       "Key": "Forest Dragon",
-      "Translation": "",
+      "Translation": "Skogsdrake",
       "Comment": ""
     },
     {
       "Key": "Gryphon",
-      "Translation": "",
+      "Translation": "Grip",
       "Comment": ""
     },
     {
       "Key": "Deepwood Noble",
-      "Translation": "",
+      "Translation": "Deepwood-adelsman",
       "Comment": ""
     },
     {
       "Key": "Deepwood Druid",
-      "Translation": "",
+      "Translation": "Deepwood-druid",
       "Comment": ""
     },
     {
       "Key": "Treant Elder",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Treant-äldste",
+      "Comment": "Kept Treant in English because there is no widely used natural Swedish equivalent."
     }
   ]
 }

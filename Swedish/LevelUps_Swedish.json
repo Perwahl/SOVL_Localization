@@ -3,897 +3,897 @@
   "Translations": [
     {
       "Key": "Unit Size I",
-      "Translation": "",
+      "Translation": "Enhetsstorlek I",
       "Comment": ""
     },
     {
       "Key": "Max Unit size +3",
-      "Translation": "",
+      "Translation": "Max enhetsstorlek +3",
       "Comment": ""
     },
     {
       "Key": "Unit Size II",
-      "Translation": "",
+      "Translation": "Enhetsstorlek II",
       "Comment": ""
     },
     {
       "Key": "Unit Size III",
-      "Translation": "",
+      "Translation": "Enhetsstorlek III",
       "Comment": ""
     },
     {
       "Key": "Replenish I",
-      "Translation": "",
+      "Translation": "Återfyllning I",
       "Comment": ""
     },
     {
       "Key": "+30% base unit Replenishment",
-      "Translation": "",
+      "Translation": "+30 % grundläggande återfyllning för enheten",
       "Comment": ""
     },
     {
       "Key": "Replenish II",
-      "Translation": "",
+      "Translation": "Återfyllning II",
       "Comment": ""
     },
     {
       "Key": "Replenish III",
-      "Translation": "",
+      "Translation": "Återfyllning III",
       "Comment": ""
     },
     {
       "Key": "Veteran Discipline",
-      "Translation": "",
+      "Translation": "Veterandisciplin",
       "Comment": ""
     },
     {
       "Key": "Increase Discipline by 1",
-      "Translation": "",
+      "Translation": "Öka Disciplin med 1",
       "Comment": ""
     },
     {
       "Key": "Veteran Skill",
-      "Translation": "",
+      "Translation": "Veteranfärdighet",
       "Comment": ""
     },
     {
       "Key": "Increase Skill by 1",
-      "Translation": "",
+      "Translation": "Öka Färdighet med 1",
       "Comment": ""
     },
     {
       "Key": "Veteran Skill II",
-      "Translation": "",
+      "Translation": "Veteranfärdighet II",
       "Comment": ""
     },
     {
       "Key": "Coin Counter I",
-      "Translation": "",
+      "Translation": "Mynträknare I",
       "Comment": ""
     },
     {
       "Key": "+3% post battle income",
-      "Translation": "",
+      "Translation": "+3 % inkomst efter strid",
       "Comment": ""
     },
     {
       "Key": "Coin Counter II",
-      "Translation": "",
+      "Translation": "Mynträknare II",
       "Comment": ""
     },
     {
       "Key": "Battle Hardened I",
-      "Translation": "",
+      "Translation": "Slaghärdad I",
       "Comment": ""
     },
     {
       "Key": "+1 Wounds",
-      "Translation": "",
+      "Translation": "+1 Sår",
       "Comment": ""
     },
     {
       "Key": "Battle Hardened II",
-      "Translation": "",
+      "Translation": "Slaghärdad II",
       "Comment": ""
     },
     {
       "Key": "Offensive Mastery I",
-      "Translation": "",
+      "Translation": "Offensiv Behärskning I",
       "Comment": ""
     },
     {
       "Key": "+1 Attack",
-      "Translation": "",
+      "Translation": "+1 Attacker",
       "Comment": ""
     },
     {
       "Key": "Offensive Mastery II",
-      "Translation": "",
+      "Translation": "Offensiv Behärskning II",
       "Comment": ""
     },
     {
       "Key": "Offensive Mastery III",
-      "Translation": "",
+      "Translation": "Offensiv Behärskning III",
       "Comment": ""
     },
     {
       "Key": "Veteran Crew",
-      "Translation": "",
+      "Translation": "Veteranbesättning",
       "Comment": ""
     },
     {
       "Key": "+1 Ranged Attack",
-      "Translation": "",
+      "Translation": "+1 Avståndsattack",
       "Comment": ""
     },
     {
       "Key": "Marksman I",
-      "Translation": "",
+      "Translation": "Prickskytt I",
       "Comment": ""
     },
     {
       "Key": "Marksman II",
-      "Translation": "",
+      "Translation": "Prickskytt II",
       "Comment": ""
     },
     {
       "Key": "Marksman III",
-      "Translation": "",
+      "Translation": "Prickskytt III",
       "Comment": ""
     },
     {
       "Key": "Greater Fireball",
-      "Translation": "",
+      "Translation": "Större Eldklot",
       "Comment": ""
     },
     {
       "Key": "Upgrades Fireball to 3D3 hits.",
-      "Translation": "",
+      "Translation": "Förbättrar Eldklot till 3D3 träffar.",
       "Comment": ""
     },
     {
       "Key": "Greater Favour",
-      "Translation": "",
+      "Translation": "Större Gunst",
       "Comment": ""
     },
     {
       "Key": "Upgrades Divine Favour to target all units.",
-      "Translation": "",
+      "Translation": "Förbättrar Gudomlig Gunst så att den påverkar alla enheter.",
       "Comment": ""
     },
     {
       "Key": "Greater Ruin",
-      "Translation": "",
+      "Translation": "Större Fördärv",
       "Comment": ""
     },
     {
       "Key": "Hex of Ruin also reduces Power.",
-      "Translation": "",
+      "Translation": "Fördärvets Hex minskar också Kraft.",
       "Comment": ""
     },
     {
       "Key": "Greater Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Större Vrede",
+      "Comment": "Used 'Vrede' for Fury to keep it distinct from the rules term Frenzy = Raseri."
     },
     {
       "Key": "Upgrades Primal Fury to give +3 Power.",
-      "Translation": "",
+      "Translation": "Förbättrar Urvrede så att den ger +3 Kraft.",
       "Comment": ""
     },
     {
       "Key": "Greater Web",
-      "Translation": "",
+      "Translation": "Större Nät",
       "Comment": ""
     },
     {
       "Key": "Gives 1 extra charge to Arcane Web.",
-      "Translation": "",
+      "Translation": "Ger 1 extra laddning till Arkaniskt Nät.",
       "Comment": ""
     },
     {
       "Key": "Greater Shield",
-      "Translation": "",
+      "Translation": "Större Sköld",
       "Comment": ""
     },
     {
       "Key": "Gives 1 extra charge to Radiant Shield.",
-      "Translation": "",
+      "Translation": "Ger 1 extra laddning till Strålande Sköld.",
       "Comment": ""
     },
     {
       "Key": "Greater Shadowbolt",
-      "Translation": "",
+      "Translation": "Större Skuggpil",
       "Comment": ""
     },
     {
       "Key": "Upgrades Shadow Bolt to Power 3 and Range 33.",
-      "Translation": "",
+      "Translation": "Förbättrar Skuggpil till Kraft 3 och Räckvidd 33.",
       "Comment": ""
     },
     {
       "Key": "Greater Regrowth",
-      "Translation": "",
+      "Translation": "Större Återväxt",
       "Comment": ""
     },
     {
       "Key": "Upgrades Regrowth to target any unit.",
-      "Translation": "",
+      "Translation": "Förbättrar Återväxt så att den kan påverka valfri enhet.",
       "Comment": ""
     },
     {
       "Key": "Greater Wildform",
-      "Translation": "",
+      "Translation": "Större Vildform",
       "Comment": ""
     },
     {
       "Key": "Upgrades Wildform to give +3 Attacks.",
-      "Translation": "",
+      "Translation": "Förbättrar Vildform så att den ger +3 Attacker.",
       "Comment": ""
     },
     {
       "Key": "Greater Raise",
-      "Translation": "",
+      "Translation": "Större Uppväckelse",
       "Comment": ""
     },
     {
       "Key": "Upgrades Raise Dead to raise an additional D3 models.",
-      "Translation": "",
+      "Translation": "Förbättrar Uppväck Döda så att den uppväcker ytterligare D3 modeller.",
       "Comment": ""
     },
     {
       "Key": "Greater Reanimate",
-      "Translation": "",
+      "Translation": "Större Återuppväckelse",
       "Comment": ""
     },
     {
       "Key": "Reanimate also gives +1 Power and Defense.",
-      "Translation": "",
+      "Translation": "Återuppväckelse ger också +1 Kraft och Försvar.",
       "Comment": ""
     },
     {
       "Key": "Greater Vigour",
-      "Translation": "",
+      "Translation": "Större Vigör",
       "Comment": ""
     },
     {
       "Key": "Unholy Vigour also lets the unit reroll missed Attack Rolls.",
-      "Translation": "",
+      "Translation": "Ohelig Vigör låter också enheten slå om missade Attackslag.",
       "Comment": ""
     },
     {
       "Key": "Thousand Maws",
-      "Translation": "",
+      "Translation": "Tusen Gap",
       "Comment": ""
     },
     {
       "Key": "Upgrades Thousand Mouths to Power 3.",
-      "Translation": "",
+      "Translation": "Förbättrar Tusen Gap till Kraft 3.",
       "Comment": ""
     },
     {
       "Key": "Greater Blades",
-      "Translation": "",
+      "Translation": "Större Klingor",
       "Comment": ""
     },
     {
       "Key": "Upgrades Fiery Blades to give +3 Power.",
-      "Translation": "",
+      "Translation": "Förbättrar Eldklingor så att de ger +3 Kraft.",
       "Comment": ""
     },
     {
       "Key": "Greater Shroud",
-      "Translation": "",
+      "Translation": "Större Slöja",
       "Comment": ""
     },
     {
       "Key": "Upgrades Shroud to target all friendly units.",
-      "Translation": "",
+      "Translation": "Förbättrar Slöja så att den påverkar alla egna enheter.",
       "Comment": ""
     },
     {
       "Key": "Greater Ward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Större Värn",
+      "Comment": "Used 'Värn' for Ward to keep it distinct from Protection = Skydd later in the file."
     },
     {
       "Key": "Removes the Re-roll penalties from Frost Ward",
-      "Translation": "",
+      "Translation": "Tar bort straffen för omslag från Frostvärn",
       "Comment": ""
     },
     {
       "Key": "Looter I",
-      "Translation": "",
+      "Translation": "Plundrare I",
       "Comment": ""
     },
     {
       "Key": "+3 gold when looting",
-      "Translation": "",
+      "Translation": "+3 guld vid plundring",
       "Comment": ""
     },
     {
       "Key": "Looter II",
-      "Translation": "",
+      "Translation": "Plundrare II",
       "Comment": ""
     },
     {
       "Key": "Looter III",
-      "Translation": "",
+      "Translation": "Plundrare III",
       "Comment": ""
     },
     {
       "Key": "Oath of Reckoning",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Räkenskapens Ed",
+      "Comment": "Kept the three oath names distinct: Reckoning = Räkenskap, Retribution = Bestraffning, Vengeance = Hämnd."
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Monsters.",
-      "Translation": "",
+      "Translation": "Slå om Avstånds- och Närstridsattacker mot Monster.",
       "Comment": ""
     },
     {
       "Key": "Oath of Retribution",
-      "Translation": "",
+      "Translation": "Bestraffningens Ed",
       "Comment": ""
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Ranged Units",
-      "Translation": "",
+      "Translation": "Slå om Avstånds- och Närstridsattacker mot Avståndsenheter",
       "Comment": ""
     },
     {
       "Key": "Oath of Vengeance",
-      "Translation": "",
+      "Translation": "Hämndens Ed",
       "Comment": ""
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "",
+      "Translation": "Slå om Avstånds- och Närstridsattacker mot Kavalleri och Vagnar",
       "Comment": ""
     },
     {
       "Key": "Rune Of Flame",
-      "Translation": "",
+      "Translation": "Eldruna",
       "Comment": ""
     },
     {
       "Key": "+1 Power to Ranged Attacks.",
-      "Translation": "",
+      "Translation": "+1 Kraft till Avståndsattacker.",
       "Comment": ""
     },
     {
       "Key": "Rune Of Resilience",
-      "Translation": "",
+      "Translation": "Uthållighetsruna",
       "Comment": ""
     },
     {
       "Key": "Unit re-rolls failed Damage Saves",
-      "Translation": "",
+      "Translation": "Enheten slår om misslyckade Skyddskast",
       "Comment": ""
     },
     {
       "Key": "Rune Of Farsight",
-      "Translation": "",
+      "Translation": "Fjärrsynsruna",
       "Comment": ""
     },
     {
       "Key": "Ranged attack range increased by 3.",
-      "Translation": "",
+      "Translation": "Räckvidden för Avståndsattacker ökar med 3.",
       "Comment": ""
     },
     {
       "Key": "Rune Of Speed",
-      "Translation": "",
+      "Translation": "Hastighetsruna",
       "Comment": ""
     },
     {
       "Key": "Unit can move and fire ranged weapons.",
-      "Translation": "",
+      "Translation": "Enheten kan röra sig och avfyra avståndsvapen.",
       "Comment": ""
     },
     {
       "Key": "Demonic Gift",
-      "Translation": "",
+      "Translation": "Demonisk Gåva",
       "Comment": ""
     },
     {
       "Key": "+1 to a random Stat",
-      "Translation": "",
+      "Translation": "+1 till en slumpmässig egenskap",
       "Comment": ""
     },
     {
       "Key": "Imperial Elites I",
-      "Translation": "",
+      "Translation": "Kejserlig Elit I",
       "Comment": ""
     },
     {
       "Key": "Unit re-rolls missed Attack Rolls.",
-      "Translation": "",
+      "Translation": "Enheten slår om missade Attackslag.",
       "Comment": ""
     },
     {
       "Key": "Imperial Elites II",
-      "Translation": "",
+      "Translation": "Kejserlig Elit II",
       "Comment": ""
     },
     {
       "Key": "Fearless (Ignores penalties to Discipline tests).",
-      "Translation": "",
+      "Translation": "Orädd (Ignorerar straff för Disciplintest).",
       "Comment": ""
     },
     {
       "Key": "Imperial Veterans I",
-      "Translation": "",
+      "Translation": "Kejserliga Veteraner I",
       "Comment": ""
     },
     {
       "Key": "Unit gets +1 Combat Score",
-      "Translation": "",
+      "Translation": "Enheten får +1 Stridsvärde",
       "Comment": ""
     },
     {
       "Key": "Imperial Veterans II",
-      "Translation": "",
+      "Translation": "Kejserliga Veteraner II",
       "Comment": ""
     },
     {
       "Key": "Unit has +3 range for Ranged attacks.",
-      "Translation": "",
+      "Translation": "Enheten har +3 räckvidd för Avståndsattacker.",
       "Comment": ""
     },
     {
       "Key": "Unit ignores penalties for difficult terrain.",
-      "Translation": "",
+      "Translation": "Enheten ignorerar straff för svår terräng.",
       "Comment": ""
     },
     {
       "Key": "Recruiter I",
-      "Translation": "",
+      "Translation": "Rekryterare I",
       "Comment": ""
     },
     {
       "Key": "Newly recruited units gain an additional level",
-      "Translation": "",
+      "Translation": "Nyrekryterade enheter får ytterligare en nivå",
       "Comment": ""
     },
     {
       "Key": "Recruiter II",
-      "Translation": "",
+      "Translation": "Rekryterare II",
       "Comment": ""
     },
     {
       "Key": "Mutation",
-      "Translation": "",
+      "Translation": "Mutation",
       "Comment": ""
     },
     {
       "Key": "Random Mutation",
-      "Translation": "",
+      "Translation": "Slumpmässig mutation",
       "Comment": ""
     },
     {
       "Key": "Veteran Accuracy",
-      "Translation": "",
+      "Translation": "Veteranträffsäkerhet",
       "Comment": ""
     },
     {
       "Key": "Unit rerolls 1s on Ranged Attack Rolls.",
-      "Translation": "",
+      "Translation": "Enheten slår om 1:or på Avståndsattackslag.",
       "Comment": ""
     },
     {
       "Key": "Veteran Accuracy II",
-      "Translation": "",
+      "Translation": "Veteranträffsäkerhet II",
       "Comment": ""
     },
     {
       "Key": "Unit can fire ranged weapons in one additional rank",
-      "Translation": "",
+      "Translation": "Enheten kan avfyra avståndsvapen i ytterligare ett led",
       "Comment": ""
     },
     {
       "Key": "Stronger Summons I",
-      "Translation": "",
+      "Translation": "Starkare Manifestationer I",
       "Comment": ""
     },
     {
       "Key": "Reduce Crumble rolls by 1",
-      "Translation": "",
+      "Translation": "Minska Smulaslag med 1",
       "Comment": ""
     },
     {
       "Key": "Stronger Summons II",
-      "Translation": "",
+      "Translation": "Starkare Manifestationer II",
       "Comment": ""
     },
     {
       "Key": "+1 Move Speed.",
-      "Translation": "",
+      "Translation": "+1 Rörelsehastighet.",
       "Comment": ""
     },
     {
       "Key": "Stronger Summons III",
-      "Translation": "",
+      "Translation": "Starkare Manifestationer III",
       "Comment": ""
     },
     {
       "Key": "Elf Bow Mastery I",
-      "Translation": "",
+      "Translation": "Alvbågsbehärskning I",
       "Comment": ""
     },
     {
       "Key": "+3 range for Ranged Attacks.",
-      "Translation": "",
+      "Translation": "+3 räckvidd för Avståndsattacker.",
       "Comment": ""
     },
     {
       "Key": "Elf Bow Mastery II",
-      "Translation": "",
+      "Translation": "Alvbågsbehärskning II",
       "Comment": ""
     },
     {
       "Key": "Damage saves against units Ranged Attack are reduced by 1.",
-      "Translation": "",
+      "Translation": "Skyddskast mot enhetens Avståndsattacker minskas med 1.",
       "Comment": ""
     },
     {
       "Key": "Elf Spear Mastery I",
-      "Translation": "",
+      "Translation": "Alvspjutsbehärskning I",
       "Comment": ""
     },
     {
       "Key": "Unit fights in one additional rank when not charging.",
-      "Translation": "",
+      "Translation": "Enheten slåss i ytterligare ett led när den inte laddar.",
       "Comment": ""
     },
     {
       "Key": "Elf Spear Mastery II",
-      "Translation": "",
+      "Translation": "Alvspjutsbehärskning II",
       "Comment": ""
     },
     {
       "Key": "Elf Steed Mastery I",
-      "Translation": "",
+      "Translation": "Alvriddjursbehärskning I",
       "Comment": ""
     },
     {
       "Key": "Elf Steed Mastery II",
-      "Translation": "",
+      "Translation": "Alvriddjursbehärskning II",
       "Comment": ""
     },
     {
       "Key": "Charge Bonus: +1 Attack.",
-      "Translation": "",
+      "Translation": "Laddningsbonus: +1 Attacker.",
       "Comment": ""
     },
     {
       "Key": "Eagle Aspect",
-      "Translation": "",
+      "Translation": "Örnaspekt",
       "Comment": ""
     },
     {
       "Key": "Jaguar Aspect",
-      "Translation": "",
+      "Translation": "Jaguaraspekt",
       "Comment": ""
     },
     {
       "Key": "Unit gains +1 Move Speed and ignores Difficult Terrain",
-      "Translation": "",
+      "Translation": "Enheten får +1 Rörelsehastighet och ignorerar svår terräng",
       "Comment": ""
     },
     {
       "Key": "Turtle Aspect",
-      "Translation": "",
+      "Translation": "Sköldpaddsaspekt",
       "Comment": ""
     },
     {
       "Key": "Unit re-rolls 1s on Damage Saves.",
-      "Translation": "",
+      "Translation": "Enheten slår om 1:or på Skyddskast.",
       "Comment": ""
     },
     {
       "Key": "Raptor Aspect",
-      "Translation": "",
+      "Translation": "Rovfågelsaspekt",
       "Comment": ""
     },
     {
       "Key": "Unit gains Lethal attacks. (deals 3x wounds)",
-      "Translation": "",
+      "Translation": "Enheten får Dödliga attacker. (orsakar 3x Sår)",
       "Comment": ""
     },
     {
       "Key": "Serpent Aspect",
-      "Translation": "",
+      "Translation": "Ormaspekt",
       "Comment": ""
     },
     {
       "Key": "Unit gains Poisoned Attacks (enemies re-roll 3s on Damage Saves)",
-      "Translation": "",
+      "Translation": "Enheten får Förgiftade Attacker (fiender slår om 3:or på Skyddskast)",
       "Comment": ""
     },
     {
       "Key": "Salamander Aspect",
-      "Translation": "",
+      "Translation": "Salamanderaspekt",
       "Comment": ""
     },
     {
       "Key": "Unit gains Regeneration. (restores lost wounds at end of turn)",
-      "Translation": "",
+      "Translation": "Enheten får Regeneration. (återställer förlorade Sår vid slutet av omgången)",
       "Comment": ""
     },
     {
       "Key": "Goblin Greed",
-      "Translation": "",
+      "Translation": "Goblingirighet",
       "Comment": ""
     },
     {
       "Key": "+10 gold when looting",
-      "Translation": "",
+      "Translation": "+10 guld vid plundring",
       "Comment": ""
     },
     {
       "Key": "Strength In Numbers",
-      "Translation": "",
+      "Translation": "Styrka i Antal",
       "Comment": ""
     },
     {
       "Key": "Max Unit size +10",
-      "Translation": "",
+      "Translation": "Max enhetsstorlek +10",
       "Comment": ""
     },
     {
       "Key": "Backstabbers",
-      "Translation": "",
+      "Translation": "Ryggdolkare",
       "Comment": ""
     },
     {
       "Key": "Reroll missed Attack Rolls when attacking from Flank or Rear",
-      "Translation": "",
+      "Translation": "Slå om missade Attackslag vid anfall från flank eller bakre led",
       "Comment": ""
     },
     {
       "Key": "Bloodlust",
-      "Translation": "",
+      "Translation": "Blodtörst",
       "Comment": ""
     },
     {
       "Key": "Activate once per battle, +1 Attack and Fearless.",
-      "Translation": "",
+      "Translation": "Aktivera en gång per strid: +1 Attacker och Orädd.",
       "Comment": ""
     },
     {
       "Key": "Won't Stay Down",
-      "Translation": "",
+      "Translation": "Vägrar Falla",
       "Comment": ""
     },
     {
       "Key": "Recover an extra model that died after each battle.",
-      "Translation": "",
+      "Translation": "Återfå en extra modell som dog efter varje strid.",
       "Comment": ""
     },
     {
       "Key": "Tough As Nails",
-      "Translation": "",
+      "Translation": "Hård som Järn",
       "Comment": ""
     },
     {
       "Key": "Unit Rerolls 1s on Damage Saves",
-      "Translation": "",
+      "Translation": "Enheten slår om 1:or på Skyddskast",
       "Comment": ""
     },
     {
       "Key": "Greater Warcry",
-      "Translation": "",
+      "Translation": "Större Stridsrop",
       "Comment": ""
     },
     {
       "Key": "Warcry also gives +3 Move Speed to all units.",
-      "Translation": "",
+      "Translation": "Stridsrop ger också +3 Rörelsehastighet till alla enheter.",
       "Comment": ""
     },
     {
       "Key": "Slavers",
-      "Translation": "",
+      "Translation": "Slavhandlare",
       "Comment": ""
     },
     {
       "Key": "Unit earns 1 gold per enemy killed in combat after each battle.",
-      "Translation": "",
+      "Translation": "Enheten tjänar 1 guld per fiende som dödas i närstrid efter varje strid.",
       "Comment": ""
     },
     {
       "Key": "Blessing of Decay I",
-      "Translation": "",
+      "Translation": "Förfallets Välsignelse I",
       "Comment": ""
     },
     {
       "Key": "Blessing of Decay II",
-      "Translation": "",
+      "Translation": "Förfallets Välsignelse II",
       "Comment": ""
     },
     {
       "Key": "Gain Poisoned Attacks",
-      "Translation": "",
+      "Translation": "Får Förgiftade Attacker",
       "Comment": ""
     },
     {
       "Key": "Blessing of Trickery I",
-      "Translation": "",
+      "Translation": "Listens Välsignelse I",
       "Comment": ""
     },
     {
       "Key": "+1 Move Speed",
-      "Translation": "",
+      "Translation": "+1 Rörelsehastighet",
       "Comment": ""
     },
     {
       "Key": "Blessing of Trickery II",
-      "Translation": "",
+      "Translation": "Listens Välsignelse II",
       "Comment": ""
     },
     {
       "Key": "Once per battle: Gain Flying for one turn.",
-      "Translation": "",
+      "Translation": "En gång per strid: Får Flygande i en omgång.",
       "Comment": ""
     },
     {
       "Key": "War Gods Blessing I",
-      "Translation": "",
+      "Translation": "Krigsgudens Välsignelse I",
       "Comment": ""
     },
     {
       "Key": "+1 Damage Save vs Ranged",
-      "Translation": "",
+      "Translation": "+1 Skyddskast mot Avståndsattacker",
       "Comment": ""
     },
     {
       "Key": "War Gods Blessing II",
-      "Translation": "",
+      "Translation": "Krigsgudens Välsignelse II",
       "Comment": ""
     },
     {
       "Key": "Once per battle: Gain +1 Attack",
-      "Translation": "",
+      "Translation": "En gång per strid: Får +1 Attacker",
       "Comment": ""
     },
     {
       "Key": "Lord of Decay",
-      "Translation": "",
+      "Translation": "Förfallets Herre",
       "Comment": ""
     },
     {
       "Key": "Become a servant to the god of Decay",
-      "Translation": "",
+      "Translation": "Bli en tjänare åt förfallets gud",
       "Comment": ""
     },
     {
       "Key": "Master of Decay",
-      "Translation": "",
+      "Translation": "Förfallets Mästare",
       "Comment": ""
     },
     {
       "Key": "Gain Regeneration",
-      "Translation": "",
+      "Translation": "Får Regeneration",
       "Comment": ""
     },
     {
       "Key": "Lord of Trickery",
-      "Translation": "",
+      "Translation": "Listens Herre",
       "Comment": ""
     },
     {
       "Key": "Become a servant to the god of Trickery",
-      "Translation": "",
+      "Translation": "Bli en tjänare åt listens gud",
       "Comment": ""
     },
     {
       "Key": "Master of Trickery",
-      "Translation": "",
+      "Translation": "Listens Mästare",
       "Comment": ""
     },
     {
       "Key": "Gain Ambush deployment",
-      "Translation": "",
+      "Translation": "Får Bakhåll vid driftsättning",
       "Comment": ""
     },
     {
       "Key": "Lord of War",
-      "Translation": "",
+      "Translation": "Krigets Herre",
       "Comment": ""
     },
     {
       "Key": "Become a servant to the god of War",
-      "Translation": "",
+      "Translation": "Bli en tjänare åt krigets gud",
       "Comment": ""
     },
     {
       "Key": "Master of War",
-      "Translation": "",
+      "Translation": "Krigets Mästare",
       "Comment": ""
     },
     {
       "Key": "Gain Deadly Strikes (deal 3x Wounds)",
-      "Translation": "",
+      "Translation": "Får Dödliga slag (orsakar 3x Sår)",
       "Comment": ""
     },
     {
       "Key": "Knightly Vow",
-      "Translation": "",
+      "Translation": "Riddarlöfte",
       "Comment": ""
     },
     {
       "Key": "Unit is upgraded to Sworn Knights",
-      "Translation": "",
+      "Translation": "Enheten uppgraderas till Svurna Riddare",
       "Comment": ""
     },
     {
       "Key": "Kings Vow",
-      "Translation": "",
+      "Translation": "Kungens Löfte",
       "Comment": ""
     },
     {
       "Key": "Unit is upgraded to Kings Guard",
-      "Translation": "",
+      "Translation": "Enheten uppgraderas till Kungens Garde",
       "Comment": ""
     },
     {
       "Key": "Loyal Serfs I",
-      "Translation": "",
+      "Translation": "Lojala Livegna I",
       "Comment": ""
     },
     {
       "Key": "Loyal Serfs II",
-      "Translation": "",
+      "Translation": "Lojala Livegna II",
       "Comment": ""
     },
     {
       "Key": "Avalon Marksmen I",
-      "Translation": "",
+      "Translation": "Avalons Prickskyttar I",
       "Comment": ""
     },
     {
       "Key": "Unit has +3 range for Ranged Attacks.",
-      "Translation": "",
+      "Translation": "Enheten har +3 räckvidd för Avståndsattacker.",
       "Comment": ""
     },
     {
       "Key": "Avalon Marksmen II",
-      "Translation": "",
+      "Translation": "Avalons Prickskyttar II",
       "Comment": ""
     },
     {
       "Key": "Unit has +10 range for Ranged Attacks.",
-      "Translation": "",
+      "Translation": "Enheten har +10 räckvidd för Avståndsattacker.",
       "Comment": ""
     },
     {
       "Key": "Greater Vengeance",
-      "Translation": "",
+      "Translation": "Större Hämnd",
       "Comment": ""
     },
     {
       "Key": "Aura of Vengeance can be activated to affect all Knights",
-      "Translation": "",
+      "Translation": "Hämndens Aura kan aktiveras så att den påverkar alla riddare",
       "Comment": ""
     },
     {
       "Key": "Greater Protection",
-      "Translation": "",
+      "Translation": "Större Skydd",
       "Comment": ""
     },
     {
       "Key": "Aura of Protection can be activated to affect all Knights",
-      "Translation": "",
+      "Translation": "Skyddets Aura kan aktiveras så att den påverkar alla riddare",
       "Comment": ""
     },
     {
       "Key": "Newly recruited units gain an additonal level",
-      "Translation": "",
+      "Translation": "Nyrekryterade enheter får ytterligare en nivå",
       "Comment": ""
     },
     {
       "Key": "+3 range to Ranged Atacks.",
-      "Translation": "",
+      "Translation": "+3 räckvidd för Avståndsattacker.",
       "Comment": ""
     }
   ]

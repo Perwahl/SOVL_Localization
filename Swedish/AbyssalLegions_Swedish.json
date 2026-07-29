@@ -3,82 +3,82 @@
   "Translations": [
     {
       "Key": "Abyssal Legions",
-      "Translation": "",
+      "Translation": "Abyssal Legions",
       "Comment": ""
     },
     {
       "Key": "Northmen Axe",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Northmen-yxkrigare",
+      "Comment": "Rendered as axemen for natural Swedish unit naming."
     },
     {
       "Key": "Abyssal Warriors",
-      "Translation": "",
+      "Translation": "Abyssal-krigare",
       "Comment": ""
     },
     {
       "Key": "Dragon Spawn",
-      "Translation": "",
+      "Translation": "Drakyngel",
       "Comment": ""
     },
     {
       "Key": "Northmen Horse",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Northmen-ryttare",
+      "Comment": "Rendered as horsemen/riders for natural Swedish unit naming."
     },
     {
       "Key": "Abyssal Knights",
-      "Translation": "",
+      "Translation": "Abyssal-riddare",
       "Comment": ""
     },
     {
       "Key": "Abyssal Hounds",
-      "Translation": "",
+      "Translation": "Abyssal-hundar",
       "Comment": ""
     },
     {
       "Key": "Abyssal Chariot",
-      "Translation": "",
+      "Translation": "Abyssal-stridsvagn",
       "Comment": ""
     },
     {
       "Key": "Archdevil",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Archdevil",
+      "Comment": "Kept in English as the established proper unit title."
     },
     {
       "Key": "Devilspawn",
-      "Translation": "",
+      "Translation": "Djävulsyngel",
       "Comment": ""
     },
     {
       "Key": "War Mammoth",
-      "Translation": "",
+      "Translation": "Krigsmammut",
       "Comment": ""
     },
     {
       "Key": "Abyssal Dragon",
-      "Translation": "",
+      "Translation": "Abyssal-drake",
       "Comment": ""
     },
     {
       "Key": "Manticore",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Manticore",
+      "Comment": "Kept in English because it is the standard fantasy creature name in this context."
     },
     {
       "Key": "Abyssal Champion",
-      "Translation": "",
+      "Translation": "Abyssal-kämpe",
       "Comment": ""
     },
     {
       "Key": "Abyssal Sorcerer",
-      "Translation": "",
+      "Translation": "Abyssal-trollkarl",
       "Comment": ""
     },
     {
       "Key": "Northmen Packleader",
-      "Translation": "",
+      "Translation": "Northmen-flockledare",
       "Comment": ""
     }
   ]

@@ -3,92 +3,92 @@
   "Translations": [
     {
       "Key": "Empires of Men",
-      "Translation": "",
+      "Translation": "Empires of Men",
       "Comment": ""
     },
     {
       "Key": "Imperial Sword",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Kejserliga svärdsmän",
+      "Comment": "Expanded from the English shorthand for a natural Swedish unit name."
     },
     {
       "Key": "Foot Knights",
-      "Translation": "",
+      "Translation": "Fotriddare",
       "Comment": ""
     },
     {
       "Key": "Imperial Halberd",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Kejserliga hillebardister",
+      "Comment": "Expanded from the English shorthand for a natural Swedish unit name."
     },
     {
       "Key": "Imperial Spear",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Kejserliga spjutmän",
+      "Comment": "Expanded from the English shorthand for a natural Swedish unit name."
     },
     {
       "Key": "Imperial Knights",
-      "Translation": "",
+      "Translation": "Kejserliga riddare",
       "Comment": ""
     },
     {
       "Key": "Imperial Light Cavalry",
-      "Translation": "",
+      "Translation": "Kejserligt lätt kavalleri",
       "Comment": ""
     },
     {
       "Key": "Imperial Archers",
-      "Translation": "",
+      "Translation": "Kejserliga bågskyttar",
       "Comment": ""
     },
     {
       "Key": "Imperial Crossbowmen",
-      "Translation": "",
+      "Translation": "Kejserliga armborstskyttar",
       "Comment": ""
     },
     {
       "Key": "Imperial Handguns",
-      "Translation": "",
+      "Translation": "Kejserliga handeldvapen",
       "Comment": ""
     },
     {
       "Key": "Imperial Cannon",
-      "Translation": "",
+      "Translation": "Kejserlig kanon",
       "Comment": ""
     },
     {
       "Key": "Imperial Mortar",
-      "Translation": "",
+      "Translation": "Kejserlig granatkastare",
       "Comment": ""
     },
     {
       "Key": "Imperial Dreadnought",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Kejserlig Dreadnought",
+      "Comment": "Kept Dreadnought in English as the standard model name."
     },
     {
       "Key": "Gryphon",
-      "Translation": "",
+      "Translation": "Grip",
       "Comment": ""
     },
     {
       "Key": "Imperial Dragon",
-      "Translation": "",
+      "Translation": "Kejserlig drake",
       "Comment": ""
     },
     {
       "Key": "Captain",
-      "Translation": "",
+      "Translation": "Kapten",
       "Comment": ""
     },
     {
       "Key": "Knight Commander",
-      "Translation": "",
+      "Translation": "Riddarbefälhavare",
       "Comment": ""
     },
     {
       "Key": "Imperial Wizard",
-      "Translation": "",
+      "Translation": "Kejserlig trollkarl",
       "Comment": ""
     }
   ]

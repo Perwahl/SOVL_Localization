@@ -3,92 +3,92 @@
   "Translations": [
     {
       "Key": "Greenskin Tribes",
-      "Translation": "",
+      "Translation": "Greenskin Tribes",
       "Comment": ""
     },
     {
       "Key": "Orc Warriors",
-      "Translation": "",
+      "Translation": "Orc-krigare",
       "Comment": ""
     },
     {
       "Key": "Orc Brutes",
-      "Translation": "",
+      "Translation": "Orc-brutaler",
       "Comment": ""
     },
     {
       "Key": "Goblin Mob",
-      "Translation": "",
+      "Translation": "Goblinmobb",
       "Comment": ""
     },
     {
       "Key": "Goblin Spear Mob",
-      "Translation": "",
+      "Translation": "Goblinspjutmobb",
       "Comment": ""
     },
     {
       "Key": "Boar Riders",
-      "Translation": "",
+      "Translation": "Vildsvinsryttare",
       "Comment": ""
     },
     {
       "Key": "Goblin Wolf Riders",
-      "Translation": "",
+      "Translation": "Goblinvargsryttare",
       "Comment": ""
     },
     {
       "Key": "Orc Boar Chariot",
-      "Translation": "",
+      "Translation": "Orc-vildsvinsstridsvagn",
       "Comment": ""
     },
     {
       "Key": "Goblin Shortbows",
-      "Translation": "",
+      "Translation": "Goblinkortbågskyttar",
       "Comment": ""
     },
     {
       "Key": "Goblin Bolt Throwers",
-      "Translation": "",
+      "Translation": "Goblinbultkastare",
       "Comment": ""
     },
     {
       "Key": "Goblin Stonethrower",
-      "Translation": "",
+      "Translation": "Goblinstenkastare",
       "Comment": ""
     },
     {
       "Key": "Trolls",
-      "Translation": "",
+      "Translation": "Troll",
       "Comment": ""
     },
     {
       "Key": "Giant",
-      "Translation": "",
+      "Translation": "Jätte",
       "Comment": ""
     },
     {
       "Key": "Wyvern",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Wyvern",
+      "Comment": "Kept in English because Swedish fantasy usage commonly retains this creature name."
     },
     {
       "Key": "Giant Spider",
-      "Translation": "",
+      "Translation": "Jättespindel",
       "Comment": ""
     },
     {
       "Key": "War Chief",
-      "Translation": "",
+      "Translation": "Krigshövding",
       "Comment": ""
     },
     {
       "Key": "Goblin Shaman",
-      "Translation": "",
+      "Translation": "Goblin-schaman",
       "Comment": ""
     },
     {
       "Key": "Goblin King",
-      "Translation": "",
+      "Translation": "Goblinkung",
       "Comment": ""
     }
   ]

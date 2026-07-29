@@ -3,1127 +3,1127 @@
   "Translations": [
     {
       "Key": "Spear and Shield",
-      "Translation": "",
+      "Translation": "Spjut och Sköld",
       "Comment": ""
     },
     {
       "Key": "Swift",
-      "Translation": "",
+      "Translation": "Snabb",
       "Comment": ""
     },
     {
       "Key": "Bolt Thrower",
-      "Translation": "",
+      "Translation": "Bultkastare",
       "Comment": ""
     },
     {
       "Key": "Lethal Shots",
-      "Translation": "",
+      "Translation": "Dödliga Skott",
       "Comment": ""
     },
     {
       "Key": "Crewed Weapon",
-      "Translation": "",
+      "Translation": "Bemannat Vapen",
       "Comment": ""
     },
     {
       "Key": "Reposition",
-      "Translation": "",
+      "Translation": "Omgruppera",
       "Comment": ""
     },
     {
       "Key": "Hand Weapon+Shield",
-      "Translation": "",
+      "Translation": "Handvapen och Sköld",
       "Comment": ""
     },
     {
       "Key": "Sturdy",
-      "Translation": "",
+      "Translation": "Robust",
       "Comment": ""
     },
     {
       "Key": "Fearless",
-      "Translation": "",
+      "Translation": "Orädd",
       "Comment": ""
     },
     {
       "Key": "Greatweapon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Storvapen",
+      "Comment": "Used 'Storvapen' to distinguish this great weapon entry from dual-wielding 'Två Handvapen'."
     },
     {
       "Key": "Hand Weapon and Shield",
-      "Translation": "",
+      "Translation": "Handvapen och Sköld",
       "Comment": ""
     },
     {
       "Key": "Mountain's Will",
-      "Translation": "",
+      "Translation": "Bergets Vilja",
       "Comment": ""
     },
     {
       "Key": "Ramming Speed",
-      "Translation": "",
+      "Translation": "Rammningshastighet",
       "Comment": ""
     },
     {
       "Key": "Steam Gun",
-      "Translation": "",
+      "Translation": "Ångkanon",
       "Comment": ""
     },
     {
       "Key": "Flying",
-      "Translation": "",
+      "Translation": "Flygande",
       "Comment": ""
     },
     {
       "Key": "Masterwork Armor",
-      "Translation": "",
+      "Translation": "Mästerverksrustning",
       "Comment": ""
     },
     {
       "Key": "Bodyguard",
-      "Translation": "",
+      "Translation": "Livvakt",
       "Comment": ""
     },
     {
       "Key": "Frenzy",
-      "Translation": "",
+      "Translation": "Raseri",
       "Comment": ""
     },
     {
       "Key": "Two Hand Weapons",
-      "Translation": "",
+      "Translation": "Två Handvapen",
       "Comment": ""
     },
     {
       "Key": "Crossbows",
-      "Translation": "",
+      "Translation": "Armborst",
       "Comment": ""
     },
     {
       "Key": "Scout",
-      "Translation": "",
+      "Translation": "Spejare",
       "Comment": ""
     },
     {
       "Key": "Cannon",
-      "Translation": "",
+      "Translation": "Kanon",
       "Comment": ""
     },
     {
       "Key": "Handguns",
-      "Translation": "",
+      "Translation": "Handeldvapen",
       "Comment": ""
     },
     {
       "Key": "Catapult",
-      "Translation": "",
+      "Translation": "Katapult",
       "Comment": ""
     },
     {
       "Key": "Banner of Swiftness",
-      "Translation": "",
+      "Translation": "Snabbhetens Baner",
       "Comment": ""
     },
     {
       "Key": "Banner of Fury",
-      "Translation": "",
+      "Translation": "Rasandets Baner",
       "Comment": ""
     },
     {
       "Key": "Banner of Valor",
-      "Translation": "",
+      "Translation": "Tapperhetens Baner",
       "Comment": ""
     },
     {
       "Key": "Banner of Mist",
-      "Translation": "",
+      "Translation": "Dimmans Baner",
       "Comment": ""
     },
     {
       "Key": "War Banner",
-      "Translation": "",
+      "Translation": "Krigsbaner",
       "Comment": ""
     },
     {
       "Key": "Cursed Standard",
-      "Translation": "",
+      "Translation": "Förbannat Fältmärke",
       "Comment": ""
     },
     {
       "Key": "Heavy Armor",
-      "Translation": "",
+      "Translation": "Tung Rustning",
       "Comment": ""
     },
     {
       "Key": "Halberd",
-      "Translation": "",
+      "Translation": "Hillebard",
       "Comment": ""
     },
     {
       "Key": "Lance and Shield",
-      "Translation": "",
+      "Translation": "Lans och Sköld",
       "Comment": ""
     },
     {
       "Key": "Hand Weapon",
-      "Translation": "",
+      "Translation": "Handvapen",
       "Comment": ""
     },
     {
       "Key": "Brace of Pistols",
-      "Translation": "",
+      "Translation": "Par Pistoler",
       "Comment": ""
     },
     {
       "Key": "Longbows",
-      "Translation": "",
+      "Translation": "Långbågar",
       "Comment": ""
     },
     {
       "Key": "Mortar",
-      "Translation": "",
+      "Translation": "Mortel",
       "Comment": ""
     },
     {
       "Key": "Armor Plating",
-      "Translation": "",
+      "Translation": "Pansarplåt",
       "Comment": ""
     },
     {
       "Key": "Full Steam",
-      "Translation": "",
+      "Translation": "Full Ånga",
       "Comment": ""
     },
     {
       "Key": "Claws",
-      "Translation": "",
+      "Translation": "Klor",
       "Comment": ""
     },
     {
       "Key": "Fangs",
-      "Translation": "",
+      "Translation": "Huggtänder",
       "Comment": ""
     },
     {
       "Key": "Fire Breath",
-      "Translation": "",
+      "Translation": "Eldandedräkt",
       "Comment": ""
     },
     {
       "Key": "Inspire Valor",
-      "Translation": "",
+      "Translation": "Inge Tapperhet",
       "Comment": ""
     },
     {
       "Key": "Vitality",
-      "Translation": "",
+      "Translation": "Vitalitet",
       "Comment": ""
     },
     {
       "Key": "Unyielding",
-      "Translation": "",
+      "Translation": "Orubblig",
       "Comment": ""
     },
     {
       "Key": "Command",
-      "Translation": "",
+      "Translation": "Befäl",
       "Comment": ""
     },
     {
       "Key": "Prowess",
-      "Translation": "",
+      "Translation": "Skicklighet",
       "Comment": ""
     },
     {
       "Key": "Unnatural Power",
-      "Translation": "",
+      "Translation": "Onaturlig Kraft",
       "Comment": ""
     },
     {
       "Key": "Potion of Power",
-      "Translation": "",
+      "Translation": "Kraftdryck",
       "Comment": ""
     },
     {
       "Key": "Cruelty",
-      "Translation": "",
+      "Translation": "Grymhet",
       "Comment": ""
     },
     {
       "Key": "Flametongue",
-      "Translation": "",
+      "Translation": "Eldtunga",
       "Comment": ""
     },
     {
       "Key": "Relentless",
-      "Translation": "",
+      "Translation": "Obeveklig",
       "Comment": ""
     },
     {
       "Key": "Heart Seeker",
-      "Translation": "",
+      "Translation": "Hjärtsökare",
       "Comment": ""
     },
     {
       "Key": "True Strike",
-      "Translation": "",
+      "Translation": "Sant Hugg",
       "Comment": ""
     },
     {
       "Key": "Furious Charge",
-      "Translation": "",
+      "Translation": "Rasande Anfall",
       "Comment": ""
     },
     {
       "Key": "Fireball",
-      "Translation": "",
+      "Translation": "Eldklot",
       "Comment": ""
     },
     {
       "Key": "Frost Ward",
-      "Translation": "",
+      "Translation": "Frostvakt",
       "Comment": ""
     },
     {
       "Key": "Divine Favour",
-      "Translation": "",
+      "Translation": "Gudomlig Gunst",
       "Comment": ""
     },
     {
       "Key": "Shadow Bolt",
-      "Translation": "",
+      "Translation": "Skuggpil",
       "Comment": ""
     },
     {
       "Key": "Radiant Shield",
-      "Translation": "",
+      "Translation": "Strålande Sköld",
       "Comment": ""
     },
     {
       "Key": "Hex Of Ruin",
-      "Translation": "",
+      "Translation": "Fördärvets Förhäxelse",
       "Comment": ""
     },
     {
       "Key": "Shortbows",
-      "Translation": "",
+      "Translation": "Kortbågar",
       "Comment": ""
     },
     {
       "Key": "Crushing Charge",
-      "Translation": "",
+      "Translation": "Krossande Anfall",
       "Comment": ""
     },
     {
       "Key": "Regeneration",
-      "Translation": "",
+      "Translation": "Regenerering",
       "Comment": ""
     },
     {
       "Key": "Poisoned Attacks",
-      "Translation": "",
+      "Translation": "Förgiftade Attacker",
       "Comment": ""
     },
     {
       "Key": "Web",
-      "Translation": "",
+      "Translation": "Nät",
       "Comment": ""
     },
     {
       "Key": "Warcry",
-      "Translation": "",
+      "Translation": "Stridsrop",
       "Comment": ""
     },
     {
       "Key": "Primal Fury",
-      "Translation": "",
+      "Translation": "Urkraftens Raseri",
       "Comment": ""
     },
     {
       "Key": "Thousand Mouths",
-      "Translation": "",
+      "Translation": "Tusen Munnar",
       "Comment": ""
     },
     {
       "Key": "Shroud",
-      "Translation": "",
+      "Translation": "Slöja",
       "Comment": ""
     },
     {
       "Key": "Wildform",
-      "Translation": "",
+      "Translation": "Vildform",
       "Comment": ""
     },
     {
       "Key": "Power Of Many",
-      "Translation": "",
+      "Translation": "Mångas Kraft",
       "Comment": ""
     },
     {
       "Key": "Explosive Charges",
-      "Translation": "",
+      "Translation": "Sprängladdningar",
       "Comment": ""
     },
     {
       "Key": "Ambusher",
-      "Translation": "",
+      "Translation": "Bakhållare",
       "Comment": ""
     },
     {
       "Key": "Inferno Cannon",
-      "Translation": "",
+      "Translation": "Infernokanon",
       "Comment": ""
     },
     {
       "Key": "Marksman Rifle",
-      "Translation": "",
+      "Translation": "Prickskyttegevär",
       "Comment": ""
     },
     {
       "Key": "Ranger",
-      "Translation": "",
+      "Translation": "Jägare",
       "Comment": ""
     },
     {
       "Key": "Dwarf Pistol",
-      "Translation": "",
+      "Translation": "Dvärgpistol",
       "Comment": ""
     },
     {
       "Key": "Mechanical Expertise",
-      "Translation": "",
+      "Translation": "Mekanisk Expertis",
       "Comment": ""
     },
     {
       "Key": "Elven Mastery",
-      "Translation": "",
+      "Translation": "Alvbehärskning",
       "Comment": ""
     },
     {
       "Key": "Bows",
-      "Translation": "",
+      "Translation": "Bågar",
       "Comment": ""
     },
     {
       "Key": "Rallying Cry",
-      "Translation": "",
+      "Translation": "Samlingsrop",
       "Comment": ""
     },
     {
       "Key": "Arcane Web",
-      "Translation": "",
+      "Translation": "Arkant Nät",
       "Comment": ""
     },
     {
       "Key": "Reality Rift",
-      "Translation": "",
+      "Translation": "Verklighetsspricka",
       "Comment": ""
     },
     {
       "Key": "Fiery Blades",
-      "Translation": "",
+      "Translation": "Flammande Klingor",
       "Comment": ""
     },
     {
       "Key": "Reanimated",
-      "Translation": "",
+      "Translation": "Återuppväckt",
       "Comment": ""
     },
     {
       "Key": "Unarmed",
-      "Translation": "",
+      "Translation": "Obeväpnad",
       "Comment": ""
     },
     {
       "Key": "Putrid Stench",
-      "Translation": "",
+      "Translation": "Rutten Stank",
       "Comment": ""
     },
     {
       "Key": "Eternal Reign",
-      "Translation": "",
+      "Translation": "Evigt Styre",
       "Comment": ""
     },
     {
       "Key": "Unholy Vigour",
-      "Translation": "",
+      "Translation": "Ohelig Vigör",
       "Comment": ""
     },
     {
       "Key": "Reanimate",
-      "Translation": "",
+      "Translation": "Återuppväck",
       "Comment": ""
     },
     {
       "Key": "Plague",
-      "Translation": "",
+      "Translation": "Pest",
       "Comment": ""
     },
     {
       "Key": "Raise Dead",
-      "Translation": "",
+      "Translation": "Uppväck de Döda",
       "Comment": ""
     },
     {
       "Key": "Javelins",
-      "Translation": "",
+      "Translation": "Kastspjut",
       "Comment": ""
     },
     {
       "Key": "Boulder Throw",
-      "Translation": "",
+      "Translation": "Stenkast",
       "Comment": ""
     },
     {
       "Key": "Blood Frenzy",
-      "Translation": "",
+      "Translation": "Blodrus",
       "Comment": ""
     },
     {
       "Key": "Raider",
-      "Translation": "",
+      "Translation": "Plundrare",
       "Comment": ""
     },
     {
       "Key": "Blood Fury",
-      "Translation": "",
+      "Translation": "Blodraseri",
       "Comment": ""
     },
     {
       "Key": "Abyssal Armor",
-      "Translation": "",
+      "Translation": "Abyssal-rustning",
       "Comment": ""
     },
     {
       "Key": "Scaly Skin",
-      "Translation": "",
+      "Translation": "Fjällhud",
       "Comment": ""
     },
     {
       "Key": "Demonic",
-      "Translation": "",
+      "Translation": "Demonisk",
       "Comment": ""
     },
     {
       "Key": "Gift Of War",
-      "Translation": "",
+      "Translation": "Krigets Gåva",
       "Comment": ""
     },
     {
       "Key": "Tusks",
-      "Translation": "",
+      "Translation": "Betar",
       "Comment": ""
     },
     {
       "Key": "Demonic Possession",
-      "Translation": "",
+      "Translation": "Demonisk Besittning",
       "Comment": ""
     },
     {
       "Key": "Pack Tactics",
-      "Translation": "",
+      "Translation": "Flocktaktik",
       "Comment": ""
     },
     {
       "Key": "Howl",
-      "Translation": "",
+      "Translation": "Tjut",
       "Comment": ""
     },
     {
       "Key": "Horns",
-      "Translation": "",
+      "Translation": "Horn",
       "Comment": ""
     },
     {
       "Key": "Newt Shortbows",
-      "Translation": "",
+      "Translation": "Ödlefolks Kortbågar",
       "Comment": ""
     },
     {
       "Key": "Roar!",
-      "Translation": "",
+      "Translation": "Ryt!",
       "Comment": ""
     },
     {
       "Key": "Ancient Knowledge",
-      "Translation": "",
+      "Translation": "Uråldrig Kunskap",
       "Comment": ""
     },
     {
       "Key": "Throwing Stars",
-      "Translation": "",
+      "Translation": "Kaststjärnor",
       "Comment": ""
     },
     {
       "Key": "Longrifle",
-      "Translation": "",
+      "Translation": "Långgevär",
       "Comment": ""
     },
     {
       "Key": "Sling",
-      "Translation": "",
+      "Translation": "Slunga",
       "Comment": ""
     },
     {
       "Key": "Flamer",
-      "Translation": "",
+      "Translation": "Eldkastare",
       "Comment": ""
     },
     {
       "Key": "Doom Bell",
-      "Translation": "",
+      "Translation": "Undergångsklocka",
       "Comment": ""
     },
     {
       "Key": "Cruel Motivation",
-      "Translation": "",
+      "Translation": "Grym Drivkraft",
       "Comment": ""
     },
     {
       "Key": "Deadly Strike",
-      "Translation": "",
+      "Translation": "Dödligt Hugg",
       "Comment": ""
     },
     {
       "Key": "Hidden",
-      "Translation": "",
+      "Translation": "Dold",
       "Comment": ""
     },
     {
       "Key": "Barkskin",
-      "Translation": "",
+      "Translation": "Barkhud",
       "Comment": ""
     },
     {
       "Key": "Forest Spirit",
-      "Translation": "",
+      "Translation": "Skogsande",
       "Comment": ""
     },
     {
       "Key": "Elven Accuracy",
-      "Translation": "",
+      "Translation": "Alvers Träffsäkerhet",
       "Comment": ""
     },
     {
       "Key": "Hunters Bow",
-      "Translation": "",
+      "Translation": "Jägarens Båge",
       "Comment": ""
     },
     {
       "Key": "Hunters Call",
-      "Translation": "",
+      "Translation": "Jägarens Kallelse",
       "Comment": ""
     },
     {
       "Key": "Regrowth",
-      "Translation": "",
+      "Translation": "Återväxt",
       "Comment": ""
     },
     {
       "Key": "Take Root",
-      "Translation": "",
+      "Translation": "Slå Rot",
       "Comment": ""
     },
     {
       "Key": "Light Crossbow",
-      "Translation": "",
+      "Translation": "Lätt Armborst",
       "Comment": ""
     },
     {
       "Key": "Hooves",
-      "Translation": "",
+      "Translation": "Hovar",
       "Comment": ""
     },
     {
       "Key": "Feint",
-      "Translation": "",
+      "Translation": "Fint",
       "Comment": ""
     },
     {
       "Key": "Gift Of Trickery",
-      "Translation": "",
+      "Translation": "Listens Gåva",
       "Comment": ""
     },
     {
       "Key": "Gift Of Decay",
-      "Translation": "",
+      "Translation": "Förfallets Gåva",
       "Comment": ""
     },
     {
       "Key": "Phase Out",
-      "Translation": "",
+      "Translation": "Fasa Ut",
       "Comment": ""
     },
     {
       "Key": "Lord of Decay",
-      "Translation": "",
+      "Translation": "Förfallets Herre",
       "Comment": ""
     },
     {
       "Key": "Lord of Trickery",
-      "Translation": "",
+      "Translation": "Listens Herre",
       "Comment": ""
     },
     {
       "Key": "Lord Of War",
-      "Translation": "",
+      "Translation": "Krigets Herre",
       "Comment": ""
     },
     {
       "Key": "Horse Masters",
-      "Translation": "",
+      "Translation": "Hästmästare",
       "Comment": ""
     },
     {
       "Key": "Fey",
-      "Translation": "",
+      "Translation": "Fé",
       "Comment": ""
     },
     {
       "Key": "Aura of Protection",
-      "Translation": "",
+      "Translation": "Skyddets Aura",
       "Comment": ""
     },
     {
       "Key": "Holy Blade",
-      "Translation": "",
+      "Translation": "Heligt Svärd",
       "Comment": ""
     },
     {
       "Key": "Aura of Vengeance",
-      "Translation": "",
+      "Translation": "Hämndens Aura",
       "Comment": ""
     },
     {
       "Key": "3 Hand Weapons",
-      "Translation": "",
+      "Translation": "3 Handvapen",
       "Comment": ""
     },
     {
       "Key": "3x Pistols",
-      "Translation": "",
+      "Translation": "3x Pistoler",
       "Comment": ""
     },
     {
       "Key": "Lance+Shield",
-      "Translation": "",
+      "Translation": "Lans+Sköld",
       "Comment": ""
     },
     {
       "Key": "Dark Gift",
-      "Translation": "",
+      "Translation": "Mörk Gåva",
       "Comment": ""
     },
     {
       "Key": "Divine Protection",
-      "Translation": "",
+      "Translation": "Gudomligt Skydd",
       "Comment": ""
     },
     {
       "Key": "Battle Hardened",
-      "Translation": "",
+      "Translation": "Slaghärdad",
       "Comment": ""
     },
     {
       "Key": "Marksman",
-      "Translation": "",
+      "Translation": "Prickskytt",
       "Comment": ""
     },
     {
       "Key": "Spell Power",
-      "Translation": "",
+      "Translation": "Besvärjelsekraft",
       "Comment": ""
     },
     {
       "Key": "Spell Weaver",
-      "Translation": "",
+      "Translation": "Besvärjelsevävare",
       "Comment": ""
     },
     {
       "Key": "Offensive Mastery",
-      "Translation": "",
+      "Translation": "Offensiv Behärskning",
       "Comment": ""
     },
     {
       "Key": "Veteran Crew",
-      "Translation": "",
+      "Translation": "Veteranbesättning",
       "Comment": ""
     },
     {
       "Key": "Veteran Discipline",
-      "Translation": "",
+      "Translation": "Veterandisciplin",
       "Comment": ""
     },
     {
       "Key": "Veteran Accuracy",
-      "Translation": "",
+      "Translation": "Veteranträffsäkerhet",
       "Comment": ""
     },
     {
       "Key": "Veteran Skill",
-      "Translation": "",
+      "Translation": "Veteranfärdighet",
       "Comment": ""
     },
     {
       "Key": "Demonic Discipline",
-      "Translation": "",
+      "Translation": "Demonisk Disciplin",
       "Comment": ""
     },
     {
       "Key": "Demonic Fury",
-      "Translation": "",
+      "Translation": "Demoniskt Raseri",
       "Comment": ""
     },
     {
       "Key": "Demonic Power",
-      "Translation": "",
+      "Translation": "Demonisk Kraft",
       "Comment": ""
     },
     {
       "Key": "Demonic Resilience",
-      "Translation": "",
+      "Translation": "Demonisk Motståndskraft",
       "Comment": ""
     },
     {
       "Key": "Demonic Skill",
-      "Translation": "",
+      "Translation": "Demonisk Färdighet",
       "Comment": ""
     },
     {
       "Key": "Demonic Defense",
-      "Translation": "",
+      "Translation": "Demoniskt Försvar",
       "Comment": ""
     },
     {
       "Key": "Sword Of Ruin",
-      "Translation": "",
+      "Translation": "Fördärvets Svärd",
       "Comment": ""
     },
     {
       "Key": "Cloak Of Shadows",
-      "Translation": "",
+      "Translation": "Skuggornas Mantel",
       "Comment": ""
     },
     {
       "Key": "Horn Of Discord",
-      "Translation": "",
+      "Translation": "Osämjans Horn",
       "Comment": ""
     },
     {
       "Key": "Veteran Marksmen",
-      "Translation": "",
+      "Translation": "Veteranprickskyttar",
       "Comment": ""
     },
     {
       "Key": "Oath Of Retribution",
-      "Translation": "",
+      "Translation": "Bestraffningens Ed",
       "Comment": ""
     },
     {
       "Key": "Oath Of Reckoning",
-      "Translation": "",
+      "Translation": "Räkenskapens Ed",
       "Comment": ""
     },
     {
       "Key": "Oath Of Vengeance",
-      "Translation": "",
+      "Translation": "Hämndens Ed",
       "Comment": ""
     },
     {
       "Key": "Ancestral Strength",
-      "Translation": "",
+      "Translation": "Förfädernas Styrka",
       "Comment": ""
     },
     {
       "Key": "Greater Blades",
-      "Translation": "",
+      "Translation": "Större Klingor",
       "Comment": ""
     },
     {
       "Key": "Greater Favour",
-      "Translation": "",
+      "Translation": "Större Gunst",
       "Comment": ""
     },
     {
       "Key": "Greater Fireball",
-      "Translation": "",
+      "Translation": "Större Eldklot",
       "Comment": ""
     },
     {
       "Key": "Greater Fury",
-      "Translation": "",
+      "Translation": "Större Raseri",
       "Comment": ""
     },
     {
       "Key": "Greater Raise",
-      "Translation": "",
+      "Translation": "Större Uppväckelse",
       "Comment": ""
     },
     {
       "Key": "Greater Reanimate",
-      "Translation": "",
+      "Translation": "Större Återuppväckelse",
       "Comment": ""
     },
     {
       "Key": "Greater Regrowth",
-      "Translation": "",
+      "Translation": "Större Återväxt",
       "Comment": ""
     },
     {
       "Key": "Greater Ruin",
-      "Translation": "",
+      "Translation": "Större Fördärv",
       "Comment": ""
     },
     {
       "Key": "Greater Shadowbolt",
-      "Translation": "",
+      "Translation": "Större Skuggpil",
       "Comment": ""
     },
     {
       "Key": "Greater Shield",
-      "Translation": "",
+      "Translation": "Större Sköld",
       "Comment": ""
     },
     {
       "Key": "Greater Vigour",
-      "Translation": "",
+      "Translation": "Större Vigör",
       "Comment": ""
     },
     {
       "Key": "Greater Web",
-      "Translation": "",
+      "Translation": "Större Nät",
       "Comment": ""
     },
     {
       "Key": "Greater Wildform",
-      "Translation": "",
+      "Translation": "Större Vildform",
       "Comment": ""
     },
     {
       "Key": "Thousand Maws",
-      "Translation": "",
+      "Translation": "Tusen Gap",
       "Comment": ""
     },
     {
       "Key": "Rune Of Farsight",
-      "Translation": "",
+      "Translation": "Fjärrsynsruna",
       "Comment": ""
     },
     {
       "Key": "Rune Of Flame",
-      "Translation": "",
+      "Translation": "Eldruna",
       "Comment": ""
     },
     {
       "Key": "Rune Of Resilience",
-      "Translation": "",
+      "Translation": "Uthållighetsruna",
       "Comment": ""
     },
     {
       "Key": "Rune Of Speed",
-      "Translation": "",
+      "Translation": "Hastighetsruna",
       "Comment": ""
     },
     {
       "Key": "Imperial Elites",
-      "Translation": "",
+      "Translation": "Kejserlig Elit",
       "Comment": ""
     },
     {
       "Key": "Imperial Veterans",
-      "Translation": "",
+      "Translation": "Kejserliga Veteraner",
       "Comment": ""
     },
     {
       "Key": "Stronger Summons",
-      "Translation": "",
+      "Translation": "Starkare Manifestationer",
       "Comment": ""
     },
     {
       "Key": "Extra Limb",
-      "Translation": "",
+      "Translation": "Extra Lem",
       "Comment": ""
     },
     {
       "Key": "Extra Limbs",
-      "Translation": "",
+      "Translation": "Extra Lemmar",
       "Comment": ""
     },
     {
       "Key": "Grafted Wings",
-      "Translation": "",
+      "Translation": "Transplanterade Vingar",
       "Comment": ""
     },
     {
       "Key": "Necrotic Infusion",
-      "Translation": "",
+      "Translation": "Nekrotisk Infusion",
       "Comment": ""
     },
     {
       "Key": "Putrid Hide",
-      "Translation": "",
+      "Translation": "Ruttet Skinn",
       "Comment": ""
     },
     {
       "Key": "Tunneling Claws",
-      "Translation": "",
+      "Translation": "Grävklor",
       "Comment": ""
     },
     {
       "Key": "Unnatural Size",
-      "Translation": "",
+      "Translation": "Onaturlig Storlek",
       "Comment": ""
     },
     {
       "Key": "Elf Bow Mastery",
-      "Translation": "",
+      "Translation": "Alvbågsbehärskning",
       "Comment": ""
     },
     {
       "Key": "Elf Spear Mastery",
-      "Translation": "",
+      "Translation": "Alvspjutsbehärskning",
       "Comment": ""
     },
     {
       "Key": "Elf Steed Mastery",
-      "Translation": "",
+      "Translation": "Alvriddjursbehärskning",
       "Comment": ""
     },
     {
       "Key": "Eagle Aspect",
-      "Translation": "",
+      "Translation": "Örnaspekt",
       "Comment": ""
     },
     {
       "Key": "Jaguar Aspect",
-      "Translation": "",
+      "Translation": "Jaguaraspekt",
       "Comment": ""
     },
     {
       "Key": "Raptor Aspect",
-      "Translation": "",
+      "Translation": "Rovfågelsaspekt",
       "Comment": ""
     },
     {
       "Key": "Salamander Aspect",
-      "Translation": "",
+      "Translation": "Salamanderaspekt",
       "Comment": ""
     },
     {
       "Key": "Serpent Aspect",
-      "Translation": "",
+      "Translation": "Ormaspekt",
       "Comment": ""
     },
     {
       "Key": "Turtle Aspect",
-      "Translation": "",
+      "Translation": "Sköldpaddsaspekt",
       "Comment": ""
     },
     {
       "Key": "Backstabbers",
-      "Translation": "",
+      "Translation": "Ryggdolkare",
       "Comment": ""
     },
     {
       "Key": "Bloodlust",
-      "Translation": "",
+      "Translation": "Blodtörst",
       "Comment": ""
     },
     {
       "Key": "Tough As Nails",
-      "Translation": "",
+      "Translation": "Seg som Läder",
       "Comment": ""
     },
     {
       "Key": "Greater Warcry",
-      "Translation": "",
+      "Translation": "Större Stridsrop",
       "Comment": ""
     },
     {
       "Key": "Slavers",
-      "Translation": "",
+      "Translation": "Slavhandlare",
       "Comment": ""
     },
     {
       "Key": "Greater Shroud",
-      "Translation": "",
+      "Translation": "Större Slöja",
       "Comment": ""
     },
     {
       "Key": "Greater Ward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Större Värn",
+      "Comment": "Used 'Värn' here to keep Ward distinct from Protection, which is translated as Skydd elsewhere."
     },
     {
       "Key": "War Gods Blessing",
-      "Translation": "",
+      "Translation": "Krigsgudens Välsignelse",
       "Comment": ""
     },
     {
       "Key": "Blessing Of Decay",
-      "Translation": "",
+      "Translation": "Förfallets Välsignelse",
       "Comment": ""
     },
     {
       "Key": "Blessing Of Trickery",
-      "Translation": "",
+      "Translation": "Listens Välsignelse",
       "Comment": ""
     },
     {
       "Key": "Master of Decay",
-      "Translation": "",
+      "Translation": "Förfallets Mästare",
       "Comment": ""
     },
     {
       "Key": "Master of Trickery",
-      "Translation": "",
+      "Translation": "Listens Mästare",
       "Comment": ""
     },
     {
       "Key": "Master Of War",
-      "Translation": "",
+      "Translation": "Krigets Mästare",
       "Comment": ""
     },
     {
       "Key": "Loyal Serfs",
-      "Translation": "",
+      "Translation": "Lojala Livegna",
       "Comment": ""
     },
     {
       "Key": "Avalon Marksmen",
-      "Translation": "",
+      "Translation": "Avalons Prickskyttar",
       "Comment": ""
     },
     {
       "Key": "Greater Vengeance",
-      "Translation": "",
+      "Translation": "Större Hämnd",
       "Comment": ""
     },
     {
       "Key": "Greater Protection",
-      "Translation": "",
+      "Translation": "Större Skydd",
       "Comment": ""
     },
     {
       "Key": "Bodkin Arrows",
-      "Translation": "",
+      "Translation": "Pansarbrytande Pilar",
       "Comment": ""
     },
     {
       "Key": "Serrated Arrows",
-      "Translation": "",
+      "Translation": "Taggiga Pilar",
       "Comment": ""
     },
     {
       "Key": "Splitting Arrow",
-      "Translation": "",
+      "Translation": "Klyvande Pil",
       "Comment": ""
     },
     {
       "Key": "Trueflight Arrows",
-      "Translation": "",
+      "Translation": "Sanna Pilar",
       "Comment": ""
     }
   ]
