@@ -1,0 +1,75 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Ratkin Clans faction.",
+  "Translations": [
+    {
+      "Key": "Ratkin Clans",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Ratkin Legionaries",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Ratkin Conscripts",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Ratkin Skulkers",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Ratkin Longrifles",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Ratkin Slingers",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Ratkin Flamers",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Ratkin Monstrosity",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Ratkin Alphas",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rat Swarms",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Doom Bell",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Ratkin Warlock",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Ratkin Chieftain",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Ratkin Infiltrator",
+      "Translation": "",
+      "Comment": ""
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Knights of Avalon Faction.",
+  "Translations": [
+    {
+      "Key": "Knights of Avalon",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Sword Militia",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Peasant Mob",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Halberd Militia",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Spear Militia",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Knight Aspirants",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Mounted Hunters",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Sworn Knights",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Hunting Dogs",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Hunters",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Trebuchet",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Longbowmen",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Kings Guard",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Pegasus Knights",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Hippogryph",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Pegasus",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Unicorn",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Maiden",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Paladin",
+      "Translation": "",
+      "Comment": ""
+    }
+  ]
+}

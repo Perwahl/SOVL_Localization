@@ -1,0 +1,80 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Goatmen Raiders Faction.",
+  "Translations": [
+    {
+      "Key": "Goatmen Raiders",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Ibex Warriors",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Goatmen Warriors",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Mongrel Pack",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Mongrel Spear",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Raiding Chariot",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Feral Hounds",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Mongrel Skirmishers",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Centaurs",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Minotaurs",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Harpies",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Feral Giant",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Goatman Shaman",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Goatman Longhorn",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Minotaur Lord",
+      "Translation": "",
+      "Comment": ""
+    }
+  ]
+}

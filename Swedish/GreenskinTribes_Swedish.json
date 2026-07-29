@@ -1,0 +1,95 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Greenskin Tribes Faction.",
+  "Translations": [
+    {
+      "Key": "Greenskin Tribes",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Orc Warriors",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Orc Brutes",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Goblin Mob",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Goblin Spear Mob",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Boar Riders",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Goblin Wolf Riders",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Orc Boar Chariot",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Goblin Shortbows",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Goblin Bolt Throwers",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Goblin Stonethrower",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Trolls",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Giant",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Wyvern",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Giant Spider",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "War Chief",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Goblin Shaman",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Goblin King",
+      "Translation": "",
+      "Comment": ""
+    }
+  ]
+}

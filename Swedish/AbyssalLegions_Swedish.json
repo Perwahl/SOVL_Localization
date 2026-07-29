@@ -1,0 +1,85 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Abyssal Legions Faction.",
+  "Translations": [
+    {
+      "Key": "Abyssal Legions",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Northmen Axe",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Abyssal Warriors",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dragon Spawn",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Northmen Horse",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Abyssal Knights",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Abyssal Hounds",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Abyssal Chariot",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Archdevil",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Devilspawn",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "War Mammoth",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Abyssal Dragon",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Manticore",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Abyssal Champion",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Abyssal Sorcerer",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Northmen Packleader",
+      "Translation": "",
+      "Comment": ""
+    }
+  ]
+}

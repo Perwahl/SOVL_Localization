@@ -1,0 +1,85 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Reptilian Kingdoms Faction.",
+  "Translations": [
+    {
+      "Key": "Reptilian Kingdoms",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Saurian Warriors",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Crocolisk Bruisers",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Newt Braves",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Saurian Spear",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Raptor Riders",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Pterodactyl Riders",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Newt Skirmishers",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Firelizard",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Triceratops",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Jungle Swarm",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dreadmaw",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Tyrannosaur",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Newt Priest",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Saurian Warlord",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Ancient Toad",
+      "Translation": "",
+      "Comment": ""
+    }
+  ]
+}

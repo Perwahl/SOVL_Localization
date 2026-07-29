@@ -1,0 +1,85 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Dead Nations Faction.",
+  "Translations": [
+    {
+      "Key": "Dead Nations",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Skeleton Warriors",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Zombies",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Wight Guard",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Skeleton Spear",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Unearthed Catapult",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Skeleton Bowmen",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dire Wolves",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Skeleton Knights",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dread Knights",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Fell Bats",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Zombie Giant",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Bone Dragon",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Wight Lord",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Vampire Knight",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Necromancer",
+      "Translation": "",
+      "Comment": ""
+    }
+  ]
+}

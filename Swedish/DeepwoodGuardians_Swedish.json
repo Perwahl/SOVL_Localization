@@ -1,0 +1,85 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Deepwood Guardians Faction.",
+  "Translations": [
+    {
+      "Key": "Deepwood Guardians",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Deepwood Guard",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dryads",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Deepwood Dancers",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Deepwood Archers",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Deepwood Rangers",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Deepwood Riders",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Deepwood Chariot",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Giant Eagle",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Stag Riders",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Treant",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Forest Dragon",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Gryphon",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Deepwood Noble",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Deepwood Druid",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Treant Elder",
+      "Translation": "",
+      "Comment": ""
+    }
+  ]
+}
