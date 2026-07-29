@@ -3,348 +3,348 @@
   "Translations": [
     {
       "Key": "Worlds Hope",
-      "Translation": "",
-      "Comment": "Poetic/prophetic army name"
+      "Translation": "世界の希望",
+      "Comment": "Poetic/prophetic army name - 希望 (kibou) = hope; evokes destiny and salvation"
     },
     {
       "Key": "Worlds End",
-      "Translation": "",
-      "Comment": "Apocalyptic army name"
+      "Translation": "世界の終焉",
+      "Comment": "Apocalyptic army name - 終焉 (shuuen) = end/apocalypse, formal and ominous tone"
     },
     {
       "Key": "Shambling Host",
-      "Translation": "",
-      "Comment": "Undead army - 'shambling' = slow zombie movement"
+      "Translation": "よろめく軍勢",
+      "Comment": "Undead army - よろめく (yoLomeku) = to stagger/shamble; 軍勢 (gunzei) = military force"
     },
     {
       "Key": "Goblin Raiders",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ゴブリン略奪隊",
+      "Comment": "略奪隊 (ryakudatsu-tai) = raiding party/plunderers"
     },
     {
       "Key": "Roaming Brigands",
-      "Translation": "",
-      "Comment": "Classic fantasy bandits"
+      "Translation": "放浪盗賊団",
+      "Comment": "放浪 (hourou) = wandering/roaming; 盗賊団 (touzoku-dan) = bandit gang"
     },
     {
       "Key": "Orc Scouts",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "オーク斥候",
+      "Comment": "斥候 (sekkou) = scouts/reconnaissance"
     },
     {
       "Key": "Vermin Pack",
-      "Translation": "",
-      "Comment": "Ratkin/Skaven-style enemies"
+      "Translation": "害獣の群れ",
+      "Comment": "害獣 (gaisuu) = vermin/pest animals; 群れ (mure) = pack/herd"
     },
     {
       "Key": "Newt Ambushers",
-      "Translation": "",
-      "Comment": "Lizardmen ambush party"
+      "Translation": "トリテン伏兵",
+      "Comment": "トリテン (toriten) = newt-like creatures; 伏兵 (fukubyou) = ambush troops"
     },
     {
       "Key": "Mossbeard",
-      "Translation": "",
-      "Comment": "Treant/forest spirit name"
+      "Translation": "モスビアード",
+      "Comment": "Proper name for treant/forest spirit - kept partially phonetic for character identity"
     },
     {
       "Key": "Bandit Gang",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "盗賊団",
+      "Comment": "盗賊団 (touzoku-dan) = bandit group/gang"
     },
     {
       "Key": "Goblin Warparty",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ゴブリン戦闘隊",
+      "Comment": "戦闘隊 (sentou-tai) = combat/war party"
     },
     {
       "Key": "Orc Raiders",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "オーク略奪者",
+      "Comment": "略奪者 (ryakudatsu-sha) = raiders/plunderers"
     },
     {
       "Key": "Elf Patrol",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "エルフ巡邏隊",
+      "Comment": "巡邏隊 (junra-tai) = patrol unit"
     },
     {
       "Key": "Mining Crew",
-      "Translation": "",
-      "Comment": "Dwarf miners"
+      "Translation": "鉱夫部隊",
+      "Comment": "鉱夫 (koufu) = miner; used for dwarf miners"
     },
     {
       "Key": "Vermin Tunnelers",
-      "Translation": "",
-      "Comment": "Ratkin tunnel diggers"
+      "Translation": "害獣トンネル掘り",
+      "Comment": "トンネル掘り (tonneru hori) = tunnel diggers"
     },
     {
       "Key": "Darkborn Slavers",
-      "Translation": "",
-      "Comment": "Dark elf slavers"
+      "Translation": "暗黒妖精奴隷商人",
+      "Comment": "暗黒 (ankoku) = darkness; 奴隷商人 (dorei shoNin) = slave traders (dark elves)"
     },
     {
       "Key": "Rat Swarm",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ネズミの大群",
+      "Comment": "大群 (taigun) = massive swarm/horde"
     },
     {
       "Key": "The Red Goblin",
-      "Translation": "",
-      "Comment": "Boss/champion name"
+      "Translation": "赤きゴブリン",
+      "Comment": "赤き (akaki) = crimson/red; boss/champion epithet"
     },
     {
       "Key": "Colossal Dreadmaw",
-      "Translation": "",
-      "Comment": "Giant monster name"
+      "Translation": "巨大な恐怖の顎",
+      "Comment": "巨大 (kyodai) = colossal; 恐怖 (kyoufu) = dread; 顎 (ago) = jaw/maw"
     },
     {
       "Key": "Knight Of Flowers",
-      "Translation": "",
-      "Comment": "Chivalric knight title"
+      "Translation": "花の騎士",
+      "Comment": "騎士 (kishi) = knight; chivalric reference, poetic tone"
     },
     {
       "Key": "Korgak",
-      "Translation": "",
-      "Comment": "Orc warlord proper name"
+      "Translation": "コルガク",
+      "Comment": "Orc warlord proper name - kept phonetic for character authenticity"
     },
     {
       "Key": "Gundrik Anvilhide",
-      "Translation": "",
-      "Comment": "Dwarf champion - surname translated for flavor"
+      "Translation": "グンドリク・アンビルスキン",
+      "Comment": "Dwarf champion - アンビル (anvil) + スキン (hide/skin) maintains descriptive nature"
     },
     {
       "Key": "Von Platen",
-      "Translation": "",
-      "Comment": "German noble name - keep as is"
+      "Translation": "フォン・プラテン",
+      "Comment": "German noble name - kept as is per guidelines, use katakana for phonetic rendering"
     },
     {
       "Key": "Shadowtail",
-      "Translation": "",
-      "Comment": "Ratkin assassin name"
+      "Translation": "影の尾",
+      "Comment": "Ratkin assassin name - 影 (kage) = shadow; 尾 (o) = tail; descriptive epithet"
     },
     {
       "Key": "Valeria",
-      "Translation": "",
-      "Comment": "Female champion proper name"
+      "Translation": "ヴァレリア",
+      "Comment": "Female champion proper name - katakana rendering"
     },
     {
       "Key": "Prince Aias",
-      "Translation": "",
-      "Comment": "Elf prince"
+      "Translation": "プリンス・アイアス",
+      "Comment": "Elf prince - プリンス (purinsu) = prince; Aias kept for name"
     },
     {
       "Key": "Draz'gog",
-      "Translation": "",
-      "Comment": "Orc/demon warlord proper name"
+      "Translation": "ドラズゴグ",
+      "Comment": "Orc/demon warlord proper name - phonetic rendering with apostrophe effect"
     },
     {
       "Key": "Marius the Undying",
-      "Translation": "",
-      "Comment": "Vampire/undead lord"
+      "Translation": "マリウス・不滅なる者",
+      "Comment": "Vampire/undead lord - 不滅 (fumetsu) = undying/immortal; formal epithetic title"
     },
     {
       "Key": "Lirael the Ancient",
-      "Translation": "",
-      "Comment": "Female elf/spirit - feminine article"
+      "Translation": "リラエル・太古なる者",
+      "Comment": "Female elf/spirit - 太古 (taiko) = ancient/primordial; feminine epithet"
     },
     {
       "Key": "Rasha Blackfur",
-      "Translation": "",
-      "Comment": "Beastman/Ratkin chieftain"
+      "Translation": "ラシャ・黒毛",
+      "Comment": "Beastman/Ratkin chieftain - 黒毛 (kuro-ke) = black fur"
     },
     {
       "Key": "Beastherd",
-      "Translation": "",
-      "Comment": "Beastman warband"
+      "Translation": "獣の群れ",
+      "Comment": "Beastman warband - 獣 (kemono) = beast; 群れ (mure) = herd/warband"
     },
     {
       "Key": "Northmen Raiders",
-      "Translation": "",
-      "Comment": "Viking-style warriors"
+      "Translation": "北方人略奪者",
+      "Comment": "Viking-style warriors - 北方人 (hokuhounin) = northmen; 略奪者 (ryakudatsu-sha) = raiders"
     },
     {
       "Key": "Elf Garrison",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "エルフ守備隊",
+      "Comment": "守備隊 (shuubi-tai) = garrison/defense force"
     },
     {
       "Key": "Imperial Regiment",
-      "Translation": "",
-      "Comment": "Empire/human professional army"
+      "Translation": "帝国軍団",
+      "Comment": "Empire/human professional army - 帝国 (teikoku) = empire; 軍団 (gundan) = regiment/legion"
     },
     {
       "Key": "Risen Invaders",
-      "Translation": "",
-      "Comment": "Undead risen army"
+      "Translation": "甦りし侵略者",
+      "Comment": "Undead risen army - 甦りし (よみがえりし) = risen/resurrected"
     },
     {
       "Key": "Deepwood Protectors",
-      "Translation": "",
-      "Comment": "Wood elf defenders"
+      "Translation": "深き森の守護者",
+      "Comment": "Wood elf defenders - 深き森 (fukaki mori) = deep forest; 守護者 (shugosya) = protector"
     },
     {
       "Key": "Brood Swarm",
-      "Translation": "",
-      "Comment": "Lizardmen/reptilian swarm"
+      "Translation": "孵化した群れ",
+      "Comment": "Lizardmen/reptilian swarm - 孵化 (fukka) = brood/hatching; 群れ (mure) = swarm"
     },
     {
       "Key": "Dreadnought Fleet",
-      "Translation": "",
-      "Comment": "Powerful naval force"
+      "Translation": "恐怖艦隊",
+      "Comment": "Powerful naval force - 恐怖 (kyoufu) = dread; 艦隊 (kantai) = fleet"
     },
     {
       "Key": "Treant March",
-      "Translation": "",
-      "Comment": "Forest spirits on the move"
+      "Translation": "樹人の行進",
+      "Comment": "Forest spirits on the move - 樹人 (jujin) = treant/tree-folk; 行進 (koushin) = march"
     },
     {
       "Key": "War Host",
-      "Translation": "",
-      "Comment": "Large military force"
+      "Translation": "戦いの軍勢",
+      "Comment": "Large military force - 戦い (tatakai) = war; 軍勢 (gunzei) = military host"
     },
     {
       "Key": "Abyssal Raiders",
-      "Translation": "",
-      "Comment": "Demon raiders from the abyss"
+      "Translation": "深淵の略奪者",
+      "Comment": "Demon raiders from the abyss - 深淵 (shineen) = abyss; 略奪者 (ryakudatsu-sha) = raiders"
     },
     {
       "Key": "Beasthost",
-      "Translation": "",
-      "Comment": "Large beastman army"
+      "Translation": "獣の大軍",
+      "Comment": "Large beastman army - 獣 (kemono) = beast; 大軍 (taigun) = large army"
     },
     {
       "Key": "Dwarf Gunline",
-      "Translation": "",
-      "Comment": "Dwarf gunpowder army formation"
+      "Translation": "ドワーフ砲撃陣",
+      "Comment": "Dwarf gunpowder army formation - 砲撃陣 (hougeki-jin) = gun emplacement/firing line"
     },
     {
       "Key": "Goblin Legion",
-      "Translation": "",
-      "Comment": "Massive goblin army"
+      "Translation": "ゴブリン軍団",
+      "Comment": "Massive goblin army - 軍団 (gundan) = legion/regiment"
     },
     {
       "Key": "Doom Swarm",
-      "Translation": "",
-      "Comment": "Apocalyptic ratkin horde"
+      "Translation": "滅亡の群れ",
+      "Comment": "Apocalyptic ratkin horde - 滅亡 (metsubou) = doom/destruction; 群れ (mure) = swarm"
     },
     {
       "Key": "Forest Wrath",
-      "Translation": "",
-      "Comment": "Angry forest spirits"
+      "Translation": "森の怒り",
+      "Comment": "Angry forest spirits - 怒り (ikari) = wrath/anger; forest guardian anger"
     },
     {
       "Key": "Temple Guard",
-      "Translation": "",
-      "Comment": "Lizardmen elite guardians"
+      "Translation": "神殿衛兵",
+      "Comment": "Lizardmen elite guardians - 神殿 (shinden) = temple; 衛兵 (eihei) = elite guard"
     },
     {
       "Key": "Toad King",
-      "Translation": "",
-      "Comment": "Lizardmen slann/toad priest"
+      "Translation": "ヒキガエルの王",
+      "Comment": "Lizardmen slann/toad priest - ヒキガエル (hikigaeru) = toad; 王 (ou) = king/priest-leader"
     },
     {
       "Key": "Northmen War Pack",
-      "Translation": "",
-      "Comment": "Viking warband"
+      "Translation": "北方戦闘団",
+      "Comment": "Viking warband - 北方 (hokuhoun) = northern; 戦闘団 (sentou-dan) = war party"
     },
     {
       "Key": "Trickery",
-      "Translation": "",
-      "Comment": "Chaos/trickster god alignment or themed army"
+      "Translation": "奸計",
+      "Comment": "Chaos/trickster god alignment or themed army - 奸計 (kankei) = trickery/cunning stratagem"
     },
     {
       "Key": "Gravethorn",
-      "Translation": "",
-      "Comment": "Undead/vampire lord name"
+      "Translation": "墓の棘",
+      "Comment": "Undead/vampire lord name - 墓 (haka) = grave; 棘 (toge) = thorn; ominous epithet"
     },
     {
       "Key": "Malificar the Despoiler",
-      "Translation": "",
-      "Comment": "Chaos/demon lord boss"
+      "Translation": "マリフィカル・略奪者",
+      "Comment": "Chaos/demon lord boss - 略奪者 (ryakudatsu-sha) = despoiler/ravager; name kept phonetic"
     },
     {
       "Key": "Sir Dagrik",
-      "Translation": "",
-      "Comment": "Human/Bretonnian knight"
+      "Translation": "ダグリク卿",
+      "Comment": "Human/Bretonnian knight - 卿 (kyou) = Sir/Lord; chivalric title"
     },
     {
       "Key": "Ajolote",
-      "Translation": "",
-      "Comment": "Lizardmen proper name (axolotl-inspired)"
+      "Translation": "アホロテ",
+      "Comment": "Lizardmen proper name (axolotl-inspired) - phonetic rendering honors creature theme"
     },
     {
       "Key": "Master Itch",
-      "Translation": "",
-      "Comment": "Ratkin clan master - 'Itch' = plague theme"
+      "Translation": "マスター・イッチ",
+      "Comment": "Ratkin clan master - 'Itch' = plague theme; イッチ kept as is for pest/disease connotation"
     },
     {
       "Key": "Thorbjorn",
-      "Translation": "",
-      "Comment": "Norse/Viking proper name - authentic"
+      "Translation": "トールビョルン",
+      "Comment": "Norse/Viking proper name - authentic; kept as katakana rendering"
     },
     {
       "Key": "Abraxas The Decayed ",
-      "Translation": "",
-      "Comment": "Nurgle/decay demon lord"
+      "Translation": "アブラクサス・朽ちた者",
+      "Comment": "Nurgle/decay demon lord - 朽ちた (kuchita) = decayed/rotted; 者 (sha) = one/entity"
     },
     {
       "Key": "The Dark Battalion",
-      "Translation": "",
-      "Comment": "Dark elf/chaos elite army"
+      "Translation": "暗黒大隊",
+      "Comment": "Dark elf/chaos elite army - 暗黒 (ankoku) = darkness/dark; 大隊 (taitai) = battalion"
     },
     {
       "Key": "The Silver Host",
-      "Translation": "",
-      "Comment": "High elf/noble army"
+      "Translation": "銀色の軍勢",
+      "Comment": "High elf/noble army - 銀色 (giniro) = silver; 軍勢 (gunzei) = military host"
     },
     {
       "Key": "The Unholy Alliance",
-      "Translation": "",
-      "Comment": "Chaos/evil coalition"
+      "Translation": "邪悪なる盟約",
+      "Comment": "Chaos/evil coalition - 邪悪 (jaaku) = unholy/evil; 盟約 (meiyaku) = alliance/pact"
     },
     {
       "Key": "Verdant Sentinels",
-      "Translation": "",
-      "Comment": "Forest/nature spirit guardians"
+      "Translation": "緑色の番人",
+      "Comment": "Forest/nature spirit guardians - 緑色 (midoriiro) = verdant/green; 番人 (banin) = sentinel/guardian"
     },
     {
       "Key": "Corrupted Legion",
-      "Translation": "",
-      "Comment": "Chaos-corrupted army"
+      "Translation": "堕落した軍団",
+      "Comment": "Chaos-corrupted army - 堕落 (daraku) = corruption/fall; 軍団 (gundan) = legion"
     },
     {
       "Key": "Roaming Vampires",
-      "Translation": "",
-      "Comment": "Vampire encounter"
+      "Translation": "放浪する吸血鬼",
+      "Comment": "Vampire encounter - 放浪 (hourou) = roaming; 吸血鬼 (kyuuketsuki) = vampire"
     },
     {
       "Key": "Rogue Wizards",
-      "Translation": "",
-      "Comment": "Renegade mages - mirrors UI translation"
+      "Translation": "浮浪魔法師",
+      "Comment": "Renegade mages - 浮浪 (furou) = vagrant/rogue; 魔法師 (mahoushin) = wizard/mage"
     },
     {
       "Key": "Wild Bulls",
-      "Translation": "",
-      "Comment": "Minotaur/beastman encounter"
+      "Translation": "荒れ狂う雄牛",
+      "Comment": "Minotaur/beastman encounter - 荒れ狂う (arearakuu) = wild/raging; 雄牛 (oushi) = bull"
     },
     {
       "Key": "Angry Giants",
-      "Translation": "",
-      "Comment": "Giant monster encounter"
+      "Translation": "怒れる巨人",
+      "Comment": "Giant monster encounter - 怒れる (okorera) = enraged; 巨人 (kyojin) = giant"
     },
     {
       "Key": "Swamp Trolls",
-      "Translation": "",
-      "Comment": "Monster encounter"
+      "Translation": "沼地のトロール",
+      "Comment": "Monster encounter - 沼地 (numachi) = swamp; トロール (torooru) = troll"
     },
     {
       "Key": "Wolf Pack",
-      "Translation": "",
-      "Comment": "Beast/wolf encounter"
+      "Translation": "狼の群れ",
+      "Comment": "Beast/wolf encounter - 狼 (ookami) = wolf; 群れ (mure) = pack"
     },
     {
       "Key": "Zombie Horde",
-      "Translation": "",
-      "Comment": "Undead encounter"
+      "Translation": "ゾンビの大軍",
+      "Comment": "Undead encounter - ゾンビ (zombi) = zombie; 大軍 (taigun) = horde/army"
     }
   ]
 }

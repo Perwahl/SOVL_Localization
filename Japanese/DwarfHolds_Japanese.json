@@ -3,88 +3,88 @@
   "Translations": [
     {
       "Key": "Dwarf Holds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ドワーフの砦",
+      "Comment": "砦 = fortress/hold. Emphasizes strongholds in mountain depths."
     },
     {
       "Key": "Dwarf Warriors",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ドワーフ戦士",
+      "Comment": "戦士 = warrior. Sturdy dwarven infantry with craftsmanship."
     },
     {
       "Key": "Dwarf Veterans",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ドワーフ退役兵",
+      "Comment": "退役兵 = veteran/retired warrior. Experienced and battle-hardened troops."
     },
     {
       "Key": "Dwarf Miners",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ドワーフ鉱夫",
+      "Comment": "鉱夫 = miner. Dwarves with dual mining and combat prowess."
     },
     {
       "Key": "Dwarf Crossbows",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ドワーフ弩兵",
+      "Comment": "弩兵 = crossbowman. Precise dwarf ranged warriors."
     },
     {
       "Key": "Dwarf Handguns",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ドワーフ銃兵",
+      "Comment": "銃兵 = gunner/rifleman. Dwarven gunpowder specialists."
     },
     {
       "Key": "Dwarf Rangers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ドワーフレンジャー",
+      "Comment": "レンジャー = ranger (katakana). Scout and hunter units of dwarf holds."
     },
     {
       "Key": "Dwarf Cannon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ドワーフ砲",
+      "Comment": "砲 = cannon. Heavy dwarven siege artillery."
     },
     {
       "Key": "Dwarf Bolt Thrower",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ドワーフ矢砲",
+      "Comment": "矢砲 = bolt thrower/arrow artillery. Mechanical ranged weapon."
     },
     {
       "Key": "Dwarf Stonethrower",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ドワーフ石投機",
+      "Comment": "石投機 = stone thrower/catapult. Siege weapon using stone projectiles."
     },
     {
       "Key": "Dwarf Berserkers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ドワーフ狂戦士",
+      "Comment": "狂戦士 = berserker/frenzied warrior. Elite aggressive dwarven warriors."
     },
     {
       "Key": "Deep Guard",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "深淵の守衛",
+      "Comment": "深淵 = deep/abyss, 守衛 = guard. Elite deep-hold defenders."
     },
     {
       "Key": "Inferno Cannon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "地獄火砲",
+      "Comment": "地獄火 = infernal fire, 砲 = cannon. Powerful fire-breathing artillery."
     },
     {
       "Key": "Dwarf Flying Machine",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ドワーフ飛行兵器",
+      "Comment": "飛行兵器 = flying machine/weapon. Dwarven engineering marvel."
     },
     {
       "Key": "Dwarf Foreman",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ドワーフ親方",
+      "Comment": "親方 = foreman/master. Leader of dwarven labor and combat forces."
     },
     {
       "Key": "Ranger Captain",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "レンジャーの隊長",
+      "Comment": "隊長 = captain/commander. Officer leading ranger units."
     },
     {
       "Key": "Dwarf Engineer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ドワーフ技師",
+      "Comment": "技師 = engineer. Master of dwarven technological innovations."
     }
   ]
 }

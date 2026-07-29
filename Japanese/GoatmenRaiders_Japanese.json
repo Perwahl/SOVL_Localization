@@ -3,78 +3,78 @@
   "Translations": [
     {
       "Key": "Goatmen Raiders",
-      "Translation": "",
-      "Comment": "Ziegenmenschen = goatmen (beast-men with goat features). Plünderer = raiders."
+      "Translation": "山羊人の略奪者",
+      "Comment": "山羊人 = goat-man/goat-beast-men. 略奪者 = raider. Fierce tribal warriors."
     },
     {
       "Key": "Ibex Warriors",
-      "Translation": "",
-      "Comment": "Steinbock = ibex (mountain goat). Fierce warriors."
+      "Translation": "アイベックス戦士",
+      "Comment": "アイベックス = ibex (mountain goat). Fierce and aggressive warriors."
     },
     {
       "Key": "Goatmen Warriors",
-      "Translation": "",
-      "Comment": "Standard goat-men warriors. Savage and brutal."
+      "Translation": "山羊人戦士",
+      "Comment": "戦士 = warrior. Savage and brutal goat-man infantry."
     },
     {
       "Key": "Mongrel Pack",
-      "Translation": "",
-      "Comment": "Mischling = mongrel/mixed breed. Horde = pack. Chaotic mass of lesser beast-men."
+      "Translation": "雑種の群れ",
+      "Comment": "雑種 = mongrel/mixed breed, 群れ = pack/horde. Chaotic mass of lesser beasts."
     },
     {
       "Key": "Mongrel Spear",
-      "Translation": "",
-      "Comment": "Mongrel troops armed with spears."
+      "Translation": "雑種槍兵",
+      "Comment": "槍兵 = spear warrior. Mongrel troops wielding crude spears."
     },
     {
       "Key": "Raiding Chariot",
-      "Translation": "",
-      "Comment": "Plünder- prefix = raiding. Fast attack chariot."
+      "Translation": "略奪戦車",
+      "Comment": "戦車 = chariot. Fast attack vehicle for raids."
     },
     {
       "Key": "Feral Hounds",
-      "Translation": "",
-      "Comment": "Wilde = feral/wild. Jagdhunde = hunting hounds. Savage war beasts."
+      "Translation": "野獣猛犬",
+      "Comment": "野獣 = feral/wild beast, 猛犬 = fierce hound. Savage war beasts."
     },
     {
       "Key": "Mongrel Skirmishers",
-      "Translation": "",
-      "Comment": "Plänkler = skirmishers. Light troops for harassment."
+      "Translation": "雑種軽兵",
+      "Comment": "軽兵 = skirmisher/light troops. Harassment units."
     },
     {
       "Key": "Centaurs",
-      "Translation": "",
-      "Comment": "Standard German for centaurs. Half-man, half-horse."
+      "Translation": "ケンタウロス",
+      "Comment": "ケンタウロス = centaur (katakana). Half-man, half-horse beast."
     },
     {
       "Key": "Minotaurs",
-      "Translation": "",
-      "Comment": "Standard German for minotaurs. Bull-headed warriors."
+      "Translation": "ミノタウロス",
+      "Comment": "ミノタウロス = minotaur (katakana). Bull-headed warrior beast."
     },
     {
       "Key": "Harpies",
-      "Translation": "",
-      "Comment": "Flying monsters allied with the beast-men."
+      "Translation": "ハルピュイア",
+      "Comment": "ハルピュイア = harpies (katakana). Flying creatures allied with beast-men."
     },
     {
       "Key": "Feral Giant",
-      "Translation": "",
-      "Comment": "Wilder = feral/wild. Untamed giant serving the beast-men."
+      "Translation": "野獣の巨人",
+      "Comment": "野獣 = feral/wild. Untamed giant serving beast-men forces."
     },
     {
       "Key": "Goatman Shaman",
-      "Translation": "",
-      "Comment": "Tribal magic user. Dark rituals and curses."
+      "Translation": "山羊人シャーマン",
+      "Comment": "シャーマン = shaman. Tribal magic user wielding dark rituals."
     },
     {
       "Key": "Goatman Longhorn",
-      "Translation": "",
-      "Comment": "Langhorn = longhorn. Elite warrior with impressive horns."
+      "Translation": "山羊人ロングホーン",
+      "Comment": "ロングホーン = longhorn. Elite warrior with impressive curved horns."
     },
     {
       "Key": "Minotaur Lord",
-      "Translation": "",
-      "Comment": "Mighty minotaur leader. Powerful hero."
+      "Translation": "ミノタウロス領主",
+      "Comment": "領主 = lord/ruler. Mighty minotaur commander and hero."
     }
   ]
 }

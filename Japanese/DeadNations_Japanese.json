@@ -3,83 +3,83 @@
   "Translations": [
     {
       "Key": "Dead Nations",
-      "Translation": "",
-      "Comment": "Direct compound. Evokes the undead kingdoms rising from ancient graves."
+      "Translation": "死の国々",
+      "Comment": "死の国々 = nations of death. Evokes undead kingdoms rising from ancient graves."
     },
     {
       "Key": "Skeleton Warriors",
-      "Translation": "",
-      "Comment": "Skelett = skeleton. Basic undead infantry."
+      "Translation": "骸骨戦士",
+      "Comment": "骸骨 = skeleton, 戦士 = warrior. Basic undead infantry with ominous tone."
     },
     {
       "Key": "Zombies",
-      "Translation": "",
-      "Comment": "Zombie is universally recognized. Shambling undead hordes."
+      "Translation": "ゾンビ",
+      "Comment": "ゾンビ = zombie (katakana). Shambling undead hordes, universally recognized term."
     },
     {
       "Key": "Wight Guard",
-      "Translation": "",
-      "Comment": "Gruft = crypt/tomb. Garde = guard. Elite undead warriors guarding ancient tombs."
+      "Translation": "暗墓の守護者",
+      "Comment": "暗墓 = dark grave/crypt, 守護者 = guardian. Elite undead warriors guarding ancient tombs."
     },
     {
       "Key": "Skeleton Spear",
-      "Translation": "",
-      "Comment": "Skeletal spear-wielding troops. Disciplined undead formations."
+      "Translation": "骸骨槍兵",
+      "Comment": "槍兵 = spear warrior. Skeletal troops in disciplined undead formations."
     },
     {
       "Key": "Unearthed Catapult",
-      "Translation": "",
-      "Comment": "Ausgegraben = unearthed/excavated. Ancient siege weapon raised from the dead."
+      "Translation": "掘り出された投石機",
+      "Comment": "掘り出された = unearthed, 投石機 = catapult. Ancient siege weapon raised from death."
     },
     {
       "Key": "Skeleton Bowmen",
-      "Translation": "",
-      "Comment": "Undead archers. Silent and deadly."
+      "Translation": "骸骨弓兵",
+      "Comment": "弓兵 = archer/bowman. Undead archers, silent and deadly in unison."
     },
     {
       "Key": "Dire Wolves",
-      "Translation": "",
-      "Comment": "Schattenwölfe (shadow wolves) conveys the supernatural, cursed nature. Alternative: Grimmwölfe."
+      "Translation": "影の狼",
+      "Comment": "影 = shadow, 狼 = wolf. Supernatural cursed creatures of darkness."
     },
     {
       "Key": "Skeleton Knights",
-      "Translation": "",
-      "Comment": "Undead cavalry. Former knights now serving in death."
+      "Translation": "骸骨騎士",
+      "Comment": "騎士 = knight. Former knights now serving as undead cavalry."
     },
     {
       "Key": "Dread Knights",
-      "Translation": "",
-      "Comment": "Schrecken = dread/terror. Elite undead knights radiating fear."
+      "Translation": "恐怖の騎士",
+      "Comment": "恐怖 = dread/terror. Elite undead knights radiating fear and despair."
     },
     {
       "Key": "Fell Bats",
-      "Translation": "",
-      "Comment": "Grausig = fell/dreadful. Fledermaus = bat. Monstrous flying creatures."
+      "Translation": "凶悪なる蝙蝠",
+      "Comment": "凶悪 = fell/dreadful, 蝙蝠 = bat. Monstrous flying creatures of the night."
     },
     {
       "Key": "Zombie Giant",
-      "Translation": "",
-      "Comment": "Compound of zombie and giant. Massive reanimated corpse."
+      "Translation": "巨大なるゾンビ",
+      "Comment": "巨大 = giant/colossal. Massive reanimated corpse of tremendous power."
     },
     {
       "Key": "Bone Dragon",
-      "Translation": "",
-      "Comment": "Direct compound. Terrifying undead dragon of pure bone."
+      "Translation": "骨の竜",
+      "Comment": "骨 = bone, 竜 = dragon. Terrifying undead dragon of pure skeletal form."
     },
     {
       "Key": "Wight Lord",
-      "Translation": "",
-      "Comment": "Gruft = crypt, Herr = lord. Ancient undead noble commanding the armies."
+      "Translation": "暗墓の君主",
+      "Comment": "君主 = lord/ruler. Ancient undead noble commanding vast armies."
     },
     {
       "Key": "Vampire Knight",
-      "Translation": "",
-      "Comment": "Vampir = vampire. Undead knight with vampiric powers."
+      "Translation": "吸血鬼騎士",
+      "Comment": "吸血鬼 = vampire. Undead knight with vampiric supernatural powers."
     },
     {
       "Key": "Necromancer",
-      "Translation": "",
-      "Comment": "Standard German term for necromancer. Master of death magic."
+      "Translation": "死霊術士",
+      "Comment": "死霊 = death spirit/corpse, 術士 = practitioner/sorcerer. Master of death magic."
     }
   ]
 }

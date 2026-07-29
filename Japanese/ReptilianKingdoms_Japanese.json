@@ -3,83 +3,83 @@
   "Translations": [
     {
       "Key": "Reptilian Kingdoms",
-      "Translation": "",
-      "Comment": "Königreiche = kingdoms. Ancient lizard-men empires."
+      "Translation": "爬虫類王国",
+      "Comment": "爬虫類 (hashuchu-rui) = reptilians, 王国 (ōkoku) = kingdom. Maintains fantasy tone for ancient lizard-men empires."
     },
     {
       "Key": "Saurian Warriors",
-      "Translation": "",
-      "Comment": "Saurier = saurian/lizard. Core lizard-men warriors."
+      "Translation": "トカゲ人戦士",
+      "Comment": "トカゲ人 (tokage-jin) = saurians/lizard-men, 戦士 (senshi) = warriors. Core troop unit with classic wargame tone."
     },
     {
       "Key": "Crocolisk Bruisers",
-      "Translation": "",
-      "Comment": "Krokolisk (crocodile-like). Schläger = bruisers. Heavy reptilian warriors."
+      "Translation": "クロコリスク撲滅兵",
+      "Comment": "クロコリスク = Crocolisk (kept as fantasy creature name), 撲滅兵 (bokutsu-hei) = bruiser soldiers. Phonetic adaptation for fantasy creature with heavy warrior emphasis."
     },
     {
       "Key": "Newt Braves",
-      "Translation": "",
-      "Comment": "Molch = newt. Krieger = braves/warriors. Lesser lizard troops."
+      "Translation": "イモリ勇者",
+      "Comment": "イモリ (imori) = newt, 勇者 (yūsha) = brave/hero. Lesser troops with classic fantasy wargame terminology."
     },
     {
       "Key": "Saurian Spear",
-      "Translation": "",
-      "Comment": "Spear-wielding saurian infantry."
+      "Translation": "トカゲ人槍兵",
+      "Comment": "トカゲ人 (tokage-jin) = saurians, 槍兵 (sō-hei) = spear infantry. Standard wargame unit type terminology."
     },
     {
       "Key": "Raptor Riders",
-      "Translation": "",
-      "Comment": "Fast cavalry riding velociraptors. Lightning strikes."
+      "Translation": "ラプター騎兵",
+      "Comment": "ラプター (raputā) = raptor (English loan word), 騎兵 (kiheishi) = cavalry. Fast strike cavalry unit."
     },
     {
       "Key": "Pterodactyl Riders",
-      "Translation": "",
-      "Comment": "Flying cavalry on pterodactyls. Air superiority."
+      "Translation": "翼竜騎兵",
+      "Comment": "翼竜 (yokuryū) = pterodactyl/winged dragon, 騎兵 (kiheishi) = cavalry. Air superiority unit with fantastical tone."
     },
     {
       "Key": "Newt Skirmishers",
-      "Translation": "",
-      "Comment": "Light skirmishing troops."
+      "Translation": "イモリ軽装兵",
+      "Comment": "イモリ (imori) = newt, 軽装兵 (keisō-hei) = light infantry/skirmishers. Fast, light troop unit."
     },
     {
       "Key": "Firelizard",
-      "Translation": "",
-      "Comment": "Fire-breathing lizard monster. Feuer = fire, Eidechse = lizard."
+      "Translation": "火炎トカゲ",
+      "Comment": "火炎 (kaen) = fire, トカゲ (tokage) = lizard. Fire-breathing monster unit with clear fantasy wargame presence."
     },
     {
       "Key": "Triceratops",
-      "Translation": "",
-      "Comment": "Kept as dinosaur name. Massive horned beast."
+      "Translation": "トリケラトプス",
+      "Comment": "トリケラトプス = kept as dinosaur name (katakana, scientific terminology). Massive horned beast with iconic status."
     },
     {
       "Key": "Jungle Swarm",
-      "Translation": "",
-      "Comment": "Swarm of small reptilian creatures from the jungle."
+      "Translation": "ジャングル蜂起",
+      "Comment": "ジャングル (janguru) = jungle, 蜂起 (hōki) = swarm/uprising. Depicts coordinated small creature forces from jungle environment."
     },
     {
       "Key": "Dreadmaw",
-      "Translation": "",
-      "Comment": "Schrecken = dread, Maul = maw. Terrifying predator."
+      "Translation": "恐怖の顎",
+      "Comment": "恐怖 (kyōfu) = dread/terror, 顎 (ago) = maw/jaw. Terrifying predator with formidable presence."
     },
     {
       "Key": "Tyrannosaur",
-      "Translation": "",
-      "Comment": "Kept as dinosaur name. King of the lizards."
+      "Translation": "ティラノサウルス",
+      "Comment": "ティラノサウルス = kept as dinosaur name (katakana, scientific terminology). Apex predator and faction's ultimate unit."
     },
     {
       "Key": "Newt Priest",
-      "Translation": "",
-      "Comment": "Religious leader of the lesser reptilians."
+      "Translation": "イモリ司祭",
+      "Comment": "イモリ (imori) = newt, 司祭 (shisai) = priest. Religious leader unit using formal wargame terminology."
     },
     {
       "Key": "Saurian Warlord",
-      "Translation": "",
-      "Comment": "Kriegsherr = warlord. Powerful military commander."
+      "Translation": "トカゲ人軍閥",
+      "Comment": "トカゲ人 (tokage-jin) = saurians, 軍閥 (gunbatsu) = warlord/military faction leader. Powerful commander unit with authority."
     },
     {
       "Key": "Ancient Toad",
-      "Translation": "",
-      "Comment": "Uralt = ancient. Kröte = toad. Mystical amphibian sage."
+      "Translation": "古代ヒキガエル",
+      "Comment": "古代 (kodai) = ancient, ヒキガエル (hikigaeru) = toad. Mystical amphibian sage with ancient wisdom and power."
     }
   ]
 }

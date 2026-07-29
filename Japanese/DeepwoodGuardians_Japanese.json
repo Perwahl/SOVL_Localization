@@ -3,83 +3,83 @@
   "Translations": [
     {
       "Key": "Deepwood Guardians",
-      "Translation": "",
-      "Comment": "Tiefwald = deepwood, Hüter = guardians. Protectors of the ancient forest."
+      "Translation": "深き森の守護者",
+      "Comment": "深き森 = deepwood/ancient forest, 守護者 = guardians. Protectors of the primal forest."
     },
     {
       "Key": "Deepwood Guard",
-      "Translation": "",
-      "Comment": "Wache = guard. Basic forest defenders."
+      "Translation": "深き森の兵士",
+      "Comment": "兵士 = soldier/guard. Basic forest defenders with natural grace."
     },
     {
       "Key": "Dryads",
-      "Translation": "",
-      "Comment": "Standard German term for dryads. Tree spirits in elven form."
+      "Translation": "ドリュアス",
+      "Comment": "ドリュアス = dryads (katakana). Tree spirits in elven form, nature incarnate."
     },
     {
       "Key": "Deepwood Dancers",
-      "Translation": "",
-      "Comment": "Tänzer = dancers. Swift and graceful forest warriors."
+      "Translation": "深き森の踊り手",
+      "Comment": "踊り手 = dancer/performer. Swift and graceful forest warriors in fluid combat."
     },
     {
       "Key": "Deepwood Archers",
-      "Translation": "",
-      "Comment": "Forest archers. Masters of woodland archery."
+      "Translation": "深き森の弓兵",
+      "Comment": "弓兵 = archer. Masters of woodland archery with deadly precision."
     },
     {
       "Key": "Deepwood Rangers",
-      "Translation": "",
-      "Comment": "Waldläufer = rangers. Elite scouts and hunters of the deep forest."
+      "Translation": "深き森の狩人",
+      "Comment": "狩人 = ranger/hunter. Elite scouts navigating the deep forest with skill."
     },
     {
       "Key": "Deepwood Riders",
-      "Translation": "",
-      "Comment": "Fast cavalry of the forest. Riding forest creatures."
+      "Translation": "深き森の騎馬兵",
+      "Comment": "騎馬兵 = cavalry/mounted warrior. Fast cavalry riding forest creatures."
     },
     {
       "Key": "Deepwood Chariot",
-      "Translation": "",
-      "Comment": "Nature-powered chariot."
+      "Translation": "深き森の戦車",
+      "Comment": "戦車 = chariot. Nature-empowered vehicle of woodland warfare."
     },
     {
       "Key": "Giant Eagle",
-      "Translation": "",
-      "Comment": "Majestic flying creature of the forest."
+      "Translation": "巨大な鷹",
+      "Comment": "巨大な = giant, 鷹 = eagle. Majestic flying creature of the forest."
     },
     {
       "Key": "Stag Riders",
-      "Translation": "",
-      "Comment": "Hirsch = stag. Cavalry riding majestic forest stags."
+      "Translation": "大鹿の騎手",
+      "Comment": "大鹿 = great stag, 騎手 = rider. Cavalry riding majestic forest stags."
     },
     {
       "Key": "Treant",
-      "Translation": "",
-      "Comment": "Baumriese = tree giant. Living tree creature. Alternative: Treant (kept as fantasy term)."
+      "Translation": "樹人",
+      "Comment": "樹人 = tree-person/treant. Living ancient tree creature, wise and powerful."
     },
     {
       "Key": "Forest Dragon",
-      "Translation": "",
-      "Comment": "Dragon of the forest. Ancient guardian."
+      "Translation": "森の竜",
+      "Comment": "森 = forest, 竜 = dragon. Ancient guardian of the woodland realm."
     },
     {
       "Key": "Gryphon",
-      "Translation": "",
-      "Comment": "Standard German term for gryphon."
+      "Translation": "グリフォン",
+      "Comment": "グリフォン = gryphon (katakana). Majestic mythical beast of forest."
     },
     {
       "Key": "Deepwood Noble",
-      "Translation": "",
-      "Comment": "Noble leader of the forest folk."
+      "Translation": "深き森の貴族",
+      "Comment": "貴族 = noble/aristocrat. Wise leader commanding the forest folk."
     },
     {
       "Key": "Deepwood Druid",
-      "Translation": "",
-      "Comment": "Druide = druid. Nature magic user."
+      "Translation": "深き森の祭司",
+      "Comment": "祭司 = druid/priest. Nature magic user channeling forest power."
     },
     {
       "Key": "Treant Elder",
-      "Translation": "",
-      "Comment": "Ancient and powerful tree creature. Wise forest spirit."
+      "Translation": "樹人の長老",
+      "Comment": "長老 = elder/ancient one. Wise and powerful ancient tree spirit."
     }
   ]
 }

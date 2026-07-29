@@ -3,73 +3,73 @@
   "Translations": [
     {
       "Key": "Abyssal Demons",
-      "Translation": "",
-      "Comment": "Abgrund = abyss, Dämonen = demons. Creatures from the darkest depths."
+      "Translation": "深淵の悪魔",
+      "Comment": "深淵 = abyss, 悪魔 = demons. Dark, menacing tone for demonic creatures from the darkest depths."
     },
     {
       "Key": "Abyssal Vipers",
-      "Translation": "",
-      "Comment": "Vipern = vipers. Serpentine demonic creatures."
+      "Translation": "深淵の蝰",
+      "Comment": "蝰 = venomous snake/viper. Maintains sense of sinister serpentine nature."
     },
     {
       "Key": "Devilspawn",
-      "Translation": "",
-      "Comment": "Teufel = devil, Brut = spawn/brood. Lesser demonic infantry."
+      "Translation": "悪魔の子",
+      "Comment": "悪魔の子 = children/spawn of devils. Lesser demonic infantry with crude, threatening sound."
     },
     {
       "Key": "Plague Walkers",
-      "Translation": "",
-      "Comment": "Seuche = plague, Wandler = walkers. Disease-bearing demons."
+      "Translation": "疫病の歩み手",
+      "Comment": "疫病 = plague/pestilence, 歩み手 = walker. Disease-bearing demons that spread corruption."
     },
     {
       "Key": "Plaguelings",
-      "Translation": "",
-      "Comment": "Created a diminutive form of plague creatures. Small plague demons."
+      "Translation": "疫病の小鬼",
+      "Comment": "小鬼 = small demon/imp. Diminutive form suggesting weaker plague-carrying creatures."
     },
     {
       "Key": "Fire Devils",
-      "Translation": "",
-      "Comment": "Direct compound. Demons wreathed in flames."
+      "Translation": "火炎の悪魔",
+      "Comment": "火炎 = flames/fire. Emphasizes demonic and fiery nature in fantasy wargame style."
     },
     {
       "Key": "Plague Flies",
-      "Translation": "",
-      "Comment": "Flying plague-bearing insects. Grotesque and diseased."
+      "Translation": "疫病の蠅",
+      "Comment": "蠅 = fly/flies. Creates disturbing image of flying plague-bearing insect creatures."
     },
     {
       "Key": "Abyssal Reapers",
-      "Translation": "",
-      "Comment": "Sensenträger = scythe-bearers/reapers. Death-dealing demons."
+      "Translation": "深淵の刈り手",
+      "Comment": "刈り手 = reaper/one who harvests. Death-dealing demonic harvesters of souls."
     },
     {
       "Key": "Demonic Hounds",
-      "Translation": "",
-      "Comment": "Direct compound. Hellish hunting beasts."
+      "Translation": "悪魔の猟犬",
+      "Comment": "猟犬 = hunting hound. Hellish beasts that hunt with demonic purpose."
     },
     {
       "Key": "Hell Riders",
-      "Translation": "",
-      "Comment": "Hölle = hell. Demonic cavalry."
+      "Translation": "地獄の騎手",
+      "Comment": "地獄 = hell, 騎手 = rider. Demonic cavalry with infernal authority."
     },
     {
       "Key": "Plague Hulk",
-      "Translation": "",
-      "Comment": "Koloss = hulk/colossus. Massive plague monster."
+      "Translation": "疫病の巨体",
+      "Comment": "巨体 = massive form/colossus. Emphasizes enormous plague-infected monstrosity."
     },
     {
       "Key": "Archdevil",
-      "Translation": "",
-      "Comment": "Erz- prefix = arch-/chief. Greater demon lord."
+      "Translation": "大悪魔",
+      "Comment": "大 = great/arch-, 悪魔 = devil. Suggests leadership and greater demonic power."
     },
     {
       "Key": "Abyssal Prince",
-      "Translation": "",
-      "Comment": "Fürst = prince/lord. Powerful demonic ruler."
+      "Translation": "深淵の公爵",
+      "Comment": "公爵 = prince/duke. Noble yet dark title for powerful demonic ruler."
     },
     {
       "Key": "Abyssal Herald",
-      "Translation": "",
-      "Comment": "Herold = herald. Messenger and champion of the abyss."
+      "Translation": "深淵の伝令",
+      "Comment": "伝令 = herald/messenger. Conveys both divine authority and abyssal origin."
     }
   ]
 }

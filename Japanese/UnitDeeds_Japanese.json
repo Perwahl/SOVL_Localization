@@ -3,343 +3,343 @@
   "Translations": [
     {
       "Key": "Steadfast",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "不動の者",
+      "Comment": "用語選択: 堅実さと揺るがぬ意志を表すため「不動の者」を選択"
     },
     {
       "Key": "Passed 1 Break Tests.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "1回の試験に合格した。",
+      "Comment": "ゲーム用語: Break Tests は戦場でのモラルテストと理解"
     },
     {
       "Key": "Dragon Slayer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ドラゴン殺し",
+      "Comment": "ファンタジー用語: 古典的な「Slayer」は「殺し」で統一"
     },
     {
       "Key": "Killed 1 dragon.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ドラゴン1体を倒した。",
+      "Comment": "用語統一: 敵の倒すアクションは一貫して「倒した」を使用"
     },
     {
       "Key": "Deadly",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "死をもたらすもの",
+      "Comment": "ファンタジートーン: より劇的な表現で闇の雰囲気を強調"
     },
     {
       "Key": "Killed 1 enemies in combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "格闘戦で敵1体を倒した。",
+      "Comment": "ゲーム用語: 「格闘戦」は近接戦闘を指す"
     },
     {
       "Key": "Marksman",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "射手",
+      "Comment": "用語選択: シンプルで古典的なファンタジー用語"
     },
     {
       "Key": "Killed 1 enemies with ranged weapons.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "遠距離武器で敵1体を倒した。",
+      "Comment": "ゲーム用語: 弓などの遠距離攻撃を区別"
     },
     {
       "Key": "Lucky",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "幸運児",
+      "Comment": "用語選択: ゲーム内のダイスロール文脈での「幸運」"
     },
     {
       "Key": "Rolled 1 natural six (33 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "自然な6を1回出した（全ロールの33%）。",
+      "Comment": "ゲーム用語: ダイスロール成功の指標"
     },
     {
       "Key": "Scorer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "得点者",
+      "Comment": "ゲーム用語: 目標占領に関わる成果"
     },
     {
       "Key": "Captured 1 objective.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目標1つを占領した。",
+      "Comment": "ゲーム用語: 戦術的な目標達成を表す"
     },
     {
       "Key": "Giant Slayer",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "巨人殺し",
+      "Comment": "ファンタジー用語: 「Dragon Slayer」と同じパターンで統一"
     },
     {
       "Key": "Killed 1 giant.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "巨人1体を倒した。",
+      "Comment": "用語統一: 敵種別ごとの成果を一貫して記述"
     },
     {
       "Key": "Treefeller",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "樹木殺し",
+      "Comment": "ゲーム用語: 樹木モンスターに特化した称号"
     },
     {
       "Key": "Felled 1 tree monster.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "樹木モンスター1体を倒した。",
+      "Comment": "ゲーム用語: 「Felled」は木を切る意味で樹木に適切"
     },
     {
       "Key": "Dino Hunter",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恐竜ハンター",
+      "Comment": "ゲーム用語: 「Dino」はカジュアルなファンタジー設定に適合"
     },
     {
       "Key": "Killed 1 dinosaur.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恐竜1体を倒した。",
+      "Comment": "用語統一: 恐竜も敵として一貫性を保つ"
     },
     {
       "Key": "Warmachine Hunter",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ウォーマシンハンター",
+      "Comment": "ゲーム用語: 特殊な機械兵器を狙う専門家"
     },
     {
       "Key": "Killed 1 warmachine.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ウォーマシン1台を倒した。",
+      "Comment": "ゲーム用語: 機械なので「台」を使用、日本語で自然"
     },
     {
       "Key": "Demon Hunter",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "悪魔ハンター",
+      "Comment": "ファンタジー用語: 悪魔退治の専門家"
     },
     {
       "Key": "Slain 1 greater demon.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "上位悪魔1体を討滅した。",
+      "Comment": "用語選択: より重大な敵には「討滅」で敬意と威厳を表現"
     },
     {
       "Key": "Duelist",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "決闘者",
+      "Comment": "用語選択: 指揮官1対1との戦いを表す古典的な用語"
     },
     {
       "Key": "Killed 1 Commander.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "司令官1人を倒した。",
+      "Comment": "ゲーム用語: 指揮官は重要な敵なので「人」を使用"
     },
     {
       "Key": "Spellslinger",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "魔法使い",
+      "Comment": "ファンタジー用語: 魔法を扱う者"
     },
     {
       "Key": "Cast 1 spell.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "魔法を1つ唱えた。",
+      "Comment": "ゲーム用語: 魔法使用を一貫して「唱えた」で表現"
     },
     {
       "Key": "Coward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "臆病者",
+      "Comment": "ファンタジートーン: ネガティブな成果を劇的に"
     },
     {
       "Key": "Fled off the battlefield with zero casualties.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "損失なく戦場から撤退した。",
+      "Comment": "ゲーム用語: 逃げた状態を「撤退」でより戦術的に表現"
     },
     {
       "Key": "Unlucky",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "不幸な者",
+      "Comment": "用語選択: 「Lucky」と対比させる"
     },
     {
       "Key": "Rolled 1 one (33 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "1を1回出した（全ロールの33%）。",
+      "Comment": "ゲーム用語: ダイスロール失敗の指標"
     },
     {
       "Key": "Last Man Standing",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "最後の生き残り",
+      "Comment": "ファンタジートーン: 劇的で古典的な戦場の表現"
     },
     {
       "Key": "Only 1 model left standing.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "モデル1体だけが生き残った。",
+      "Comment": "ゲーム用語: ウォーゲーム特有の「モデル」用語を保持"
     },
     {
       "Key": "Short Career",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "短き生涯",
+      "Comment": "ファンタジートーン: ユーモアと哀愁を混ぜた古典的な表現"
     },
     {
       "Key": "Died on the first turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "初手で戦死した。",
+      "Comment": "ゲーム用語: 「ターン」はゲーム用語として保持、戦死で劇的に"
     },
     {
       "Key": "Emotional Support",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "精神的支援",
+      "Comment": "ゲーム用語: ユーモラスな成果で実質的な貢献なし"
     },
     {
       "Key": "Killed no enemies, lost no models, took no objectives.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "敵を倒さず、モデルを失わず、目標も取らなかった。",
+      "Comment": "ゲーム用語: 何もしていない状態をユーモラスに説明"
     },
     {
       "Key": "Flanker",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "側面攻撃者",
+      "Comment": "戦術用語: 側面または後方から攻撃する者"
     },
     {
       "Key": "Performed 1 flank/rear charge.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "側面／後方からの突撃1回を行った。",
+      "Comment": "戦術用語: ウォーゲーム戦術用語を保持"
     },
     {
       "Key": "Dragon Slayers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ドラゴン殺し",
+      "Comment": "複数形: 日本語では単複の区別がないため同じ形"
     },
     {
       "Key": "Marksmen",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "射手",
+      "Comment": "複数形: 日本語では単複の区別がないため同じ形"
     },
     {
       "Key": "Giant Slayers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "巨人殺し",
+      "Comment": "複数形: 日本語では単複の区別がないため同じ形"
     },
     {
       "Key": "Treefellers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "樹木殺し",
+      "Comment": "複数形: 日本語では単複の区別がないため同じ形"
     },
     {
       "Key": "Dino Hunters",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恐竜ハンター",
+      "Comment": "複数形: 日本語では単複の区別がないため同じ形"
     },
     {
       "Key": "Warmachine Hunters",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ウォーマシンハンター",
+      "Comment": "複数形: 日本語では単複の区別がないため同じ形"
     },
     {
       "Key": "Demon Hunters",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "悪魔ハンター",
+      "Comment": "複数形: 日本語では単複の区別がないため同じ形"
     },
     {
       "Key": "Duelists",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "決闘者",
+      "Comment": "複数形: 日本語では単複の区別がないため同じ形"
     },
     {
       "Key": "Spellslingers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "魔法使い",
+      "Comment": "複数形: 日本語では単複の区別がないため同じ形"
     },
     {
       "Key": "Cowards",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "臆病者",
+      "Comment": "複数形: 日本語では単複の区別がないため同じ形"
     },
     {
       "Key": "Passed 3 Break Tests.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "3回の試験に合格した。",
+      "Comment": "ゲーム用語: 1回と同じルールで複数化"
     },
     {
       "Key": "Killed 3 dragons.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ドラゴン3体を倒した。",
+      "Comment": "複数敵: 複数形も同じ翻訳パターン"
     },
     {
       "Key": "Killed 3 enemies in combat.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "格闘戦で敵3体を倒した。",
+      "Comment": "複数敵: 複数形も同じパターン"
     },
     {
       "Key": "Killed 3 enemies with ranged weapons.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "遠距離武器で敵3体を倒した。",
+      "Comment": "複数敵: 複数形も同じパターン"
     },
     {
       "Key": "Blessed!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "祝福されし者！",
+      "Comment": "ファンタジートーン: ダイス運の絶頂を表す劇的な表現"
     },
     {
       "Key": "Rolled 3 natural sixes (33 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "自然な6を3回出した（全ロールの33%）。",
+      "Comment": "ゲーム用語: ダイス運に恵まれた成果"
     },
     {
       "Key": "Captured 3 objectives.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "目標3つを占領した。",
+      "Comment": "複数目標: 複数形も同じパターン"
     },
     {
       "Key": "Killed 3 giants.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "巨人3体を倒した。",
+      "Comment": "複数敵: 複数形も同じパターン"
     },
     {
       "Key": "Felled 3 tree monsters.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "樹木モンスター3体を倒した。",
+      "Comment": "複数敵: 複数形も同じパターン"
     },
     {
       "Key": "Killed 3 dinosaurs.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恐竜3体を倒した。",
+      "Comment": "複数敵: 複数形も同じパターン"
     },
     {
       "Key": "Killed 3 warmachines.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ウォーマシン3台を倒した。",
+      "Comment": "複数機械: 複数形も同じパターン"
     },
     {
       "Key": "Slain 3 greater demons.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "上位悪魔3体を討滅した。",
+      "Comment": "複数敵: 複数形も同じパターン"
     },
     {
       "Key": "Killed 3 Commanders.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "司令官3人を倒した。",
+      "Comment": "複数敵: 複数形も同じパターン"
     },
     {
       "Key": "Cast 3 spells.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "魔法を3つ唱えた。",
+      "Comment": "複数魔法: 複数形も同じパターン"
     },
     {
       "Key": "Cursed!",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "呪われし者！",
+      "Comment": "ファンタジートーン: ダイス運の最悪を表す劇的な表現、「Blessed!」と対比"
     },
     {
       "Key": "Rolled 3 ones (33 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "1を3回出した（全ロールの33%）。",
+      "Comment": "ゲーム用語: ダイス運に見放された成果"
     },
     {
       "Key": "Performed 3 flank/rear charges.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "側面／後方からの突撃3回を行った。",
+      "Comment": "複数突撃: 複数形も同じパターン"
     },
     {
       "Key": "Rolled 3 natural sixes (100 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "自然な6を3回出した（全ロールの100%）。",
+      "Comment": "ゲーム用語: 完全な幸運を表す究極の成果"
     },
     {
       "Key": "Rolled 3 ones (100 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "1を3回出した（全ロールの100%）。",
+      "Comment": "ゲーム用語: 完全な不幸を表す究極の失敗"
     },
     {
       "Key": "Killed 13 enemies with ranged weapons.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "遠距離武器で敵13体を倒した。",
+      "Comment": "複数敵: 複数形も同じパターン"
     }
   ]
 }

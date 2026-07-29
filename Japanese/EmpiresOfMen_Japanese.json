@@ -3,93 +3,93 @@
   "Translations": [
     {
       "Key": "Empires of Men",
-      "Translation": "",
-      "Comment": "Reich = empire/realm. Plural form maintains the grand, multi-kingdom nature."
+      "Translation": "人間帝国",
+      "Comment": "帝国 = empire. Conveys grand, multi-kingdom nature of human civilization."
     },
     {
       "Key": "Imperial Sword",
-      "Translation": "",
-      "Comment": "Kaiserlich = imperial. Schwertkämpfer = swordsmen for clarity."
+      "Translation": "皇帝剣士",
+      "Comment": "皇帝 = imperial, 剣士 = swordsman. Elite imperial infantry."
     },
     {
       "Key": "Foot Knights",
-      "Translation": "",
-      "Comment": "Compound word for knights on foot, as opposed to mounted knights."
+      "Translation": "歩兵騎士",
+      "Comment": "歩兵 = foot soldier/infantry. Knights fighting on foot rather than mounted."
     },
     {
       "Key": "Imperial Halberd",
-      "Translation": "",
-      "Comment": "Hellebardiere = halberdiers. Professional term for halberd-wielding troops."
+      "Translation": "皇帝戟兵",
+      "Comment": "戟兵 = halberdier/pole-arm warrior. Professional halberd-wielding troops."
     },
     {
       "Key": "Imperial Spear",
-      "Translation": "",
-      "Comment": "Speerkämpfer = spearmen. Standard military formation troops."
+      "Translation": "皇帝槍兵",
+      "Comment": "槍兵 = spearman. Standard military formation with pike discipline."
     },
     {
       "Key": "Imperial Knights",
-      "Translation": "",
-      "Comment": "Heavy cavalry, the elite of the empire. Direct and powerful."
+      "Translation": "皇帝騎士",
+      "Comment": "騎士 = knight. Heavy cavalry elite of the empire."
     },
     {
       "Key": "Imperial Light Cavalry",
-      "Translation": "",
-      "Comment": "Leichte Kavallerie = light cavalry. Scouts and skirmishers."
+      "Translation": "皇帝軽騎兵",
+      "Comment": "軽騎兵 = light cavalry. Scouts and skirmishers."
     },
     {
       "Key": "Imperial Archers",
-      "Translation": "",
-      "Comment": "Bogenschützen = archers. Classic ranged infantry."
+      "Translation": "皇帝弓兵",
+      "Comment": "弓兵 = archer. Classic ranged infantry."
     },
     {
       "Key": "Imperial Crossbowmen",
-      "Translation": "",
-      "Comment": "Armbrustschützen = crossbowmen. More powerful ranged troops."
+      "Translation": "皇帝弩兵",
+      "Comment": "弩兵 = crossbowman. More powerful ranged troops than archers."
     },
     {
       "Key": "Imperial Handguns",
-      "Translation": "",
-      "Comment": "Büchsenschützen = handgunners/arquebusiers. Renaissance-era firearms."
+      "Translation": "皇帝銃兵",
+      "Comment": "銃兵 = gunner/musketeer. Renaissance-era firearm specialists."
     },
     {
       "Key": "Imperial Cannon",
-      "Translation": "",
-      "Comment": "Direct translation of cannon. Heavy artillery."
+      "Translation": "皇帝砲",
+      "Comment": "砲 = cannon. Heavy artillery with destructive power."
     },
     {
       "Key": "Imperial Mortar",
-      "Translation": "",
-      "Comment": "Mörser = mortar. Indirect fire artillery."
+      "Translation": "皇帝迫撃砲",
+      "Comment": "迫撃砲 = mortar. Indirect fire artillery weapon."
     },
     {
       "Key": "Imperial Dreadnought",
-      "Translation": "",
-      "Comment": "Koloss (colossus) conveys massive war machine. Alternative to anglicized 'Dreadnought'."
+      "Translation": "皇帝巨体兵器",
+      "Comment": "巨体兵器 = colossal war machine. Massive mechanical dreadnought."
     },
     {
       "Key": "Gryphon",
-      "Translation": "",
-      "Comment": "Standard German term for gryphon. Majestic imperial symbol."
+      "Translation": "グリフォン",
+      "Comment": "グリフォン = gryphon (katakana). Majestic imperial symbol of power."
     },
     {
       "Key": "Imperial Dragon",
-      "Translation": "",
-      "Comment": "Dragon under imperial control. Ultimate flying unit."
+      "Translation": "皇帝の竜",
+      "Comment": "皇帝の竜 = imperial dragon. Ultimate flying unit under imperial control."
     },
     {
       "Key": "Captain",
-      "Translation": "",
-      "Comment": "Traditional German military rank for captain. Battle-hardened leader."
+      "Translation": "隊長",
+      "Comment": "隊長 = captain/commander. Battle-hardened military leader."
     },
     {
       "Key": "Knight Commander",
-      "Translation": "",
-      "Comment": "Kommandant = commander. Leader of knightly orders."
+      "Translation": "騎士団長",
+      "Comment": "騎士団長 = knight commander. Leader of knightly military orders."
     },
     {
       "Key": "Imperial Wizard",
-      "Translation": "",
-      "Comment": "Zauberer = wizard. Magic user in service of the empire."
+      "Translation": "皇帝魔術師",
+      "Comment": "魔術師 = wizard/sorcerer. Magic user serving the empire."
     }
   ]
 }

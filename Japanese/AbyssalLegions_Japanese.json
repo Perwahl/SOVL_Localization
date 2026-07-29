@@ -3,83 +3,83 @@
   "Translations": [
     {
       "Key": "Abyssal Legions",
-      "Translation": "",
-      "Comment": "Legionen = legions. Organized demonic armies, mixed with corrupted mortals."
+      "Translation": "深淵の軍団",
+      "Comment": "軍団 = legions. Conveys organized demonic armies with corrupted mortals fighting together."
     },
     {
       "Key": "Northmen Axe",
-      "Translation": "",
-      "Comment": "Nordmänner = Northmen (barbarians). Axtkrieger = axe warriors. Corrupted northern warriors."
+      "Translation": "北方の斧戦士",
+      "Comment": "北方 = Northmen/northern, 斧 = axe, 戦士 = warrior. Corrupted barbarian axe-wielders."
     },
     {
       "Key": "Abyssal Warriors",
-      "Translation": "",
-      "Comment": "Armored warriors corrupted by the abyss."
+      "Translation": "深淵の戦士",
+      "Comment": "深淵の = abyssal, 戦士 = warrior. Armored fighters corrupted by abyssal influence."
     },
     {
       "Key": "Dragon Spawn",
-      "Translation": "",
-      "Comment": "Brut = spawn. Corrupted dragon-like creatures."
+      "Translation": "竜の子",
+      "Comment": "竜の子 = dragon spawn/children. Corrupted dragon-like creatures with menacing tone."
     },
     {
       "Key": "Northmen Horse",
-      "Translation": "",
-      "Comment": "Reiter = riders/cavalry. Northern barbarian cavalry."
+      "Translation": "北方の騎馬兵",
+      "Comment": "騎馬兵 = cavalry/mounted warrior. Northern barbarian cavalry forces."
     },
     {
       "Key": "Abyssal Knights",
-      "Translation": "",
-      "Comment": "Corrupted knights serving the abyss. Heavy demonic cavalry."
+      "Translation": "深淵の騎士",
+      "Comment": "騎士 = knight. Heavy demonic cavalry with corrupted nobility."
     },
     {
       "Key": "Abyssal Hounds",
-      "Translation": "",
-      "Comment": "War hounds from the abyss. Fast attack beasts."
+      "Translation": "深淵の猛犬",
+      "Comment": "猛犬 = fierce hound/war hound. Fast demonic attack beasts."
     },
     {
       "Key": "Abyssal Chariot",
-      "Translation": "",
-      "Comment": "Demonic chariot. Brutal and swift."
+      "Translation": "深淵の戦車",
+      "Comment": "戦車 = war chariot. Brutal swift demonic vehicle of destruction."
     },
     {
       "Key": "Archdevil",
-      "Translation": "",
-      "Comment": "Greater demon. Same as in Abyssal Demons faction."
+      "Translation": "大悪魔",
+      "Comment": "大悪魔 = arch-devil. Greater demon lord, consistent with Abyssal Demons faction."
     },
     {
       "Key": "Devilspawn",
-      "Translation": "",
-      "Comment": "Lesser demons. Same as in Abyssal Demons faction."
+      "Translation": "悪魔の子",
+      "Comment": "悪魔の子 = devil spawn. Lesser demonic creatures, consistent terminology."
     },
     {
       "Key": "War Mammoth",
-      "Translation": "",
-      "Comment": "Corrupted war mammoth. Massive beast of war."
+      "Translation": "戦の黒象",
+      "Comment": "戦 = war, 黒象 = black elephant/mammoth. Corrupted colossal beast of war."
     },
     {
       "Key": "Abyssal Dragon",
-      "Translation": "",
-      "Comment": "Dragon corrupted by the abyss. Terrifying flying monster."
+      "Translation": "深淵の大竜",
+      "Comment": "大竜 = great dragon. Terrifying flying monster corrupted by abyssal forces."
     },
     {
       "Key": "Manticore",
-      "Translation": "",
-      "Comment": "Standard German term for manticore. Mythological beast."
+      "Translation": "マンティコア",
+      "Comment": "マンティコア = manticore (katakana for foreign mythological term). Maintains fantasy terminology."
     },
     {
       "Key": "Abyssal Champion",
-      "Translation": "",
-      "Comment": "Elite warrior of the abyss. Mighty hero unit."
+      "Translation": "深淵の勇者",
+      "Comment": "勇者 = champion/hero. Elite warrior with formidable power and authority."
     },
     {
       "Key": "Abyssal Sorcerer",
-      "Translation": "",
-      "Comment": "Dark sorcerer wielding abyssal magic."
+      "Translation": "深淵の魔導士",
+      "Comment": "魔導士 = sorcerer/mage. Dark magic user wielding abyssal supernatural powers."
     },
     {
       "Key": "Northmen Packleader",
-      "Translation": "",
-      "Comment": "Rudelführer = pack leader. Barbarian warlord."
+      "Translation": "北方の群首",
+      "Comment": "群首 = pack leader/war leader. Barbarian warlord commanding fierce warriors."
     }
   ]
 }

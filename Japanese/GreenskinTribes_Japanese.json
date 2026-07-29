@@ -3,93 +3,93 @@
   "Translations": [
     {
       "Key": "Greenskin Tribes",
-      "Translation": "",
-      "Comment": "Literal translation maintaining the fantasy wargame tone. Grünhaut is the standard German term for greenskins."
+      "Translation": "緑皮の部族",
+      "Comment": "緑皮 = greenskin, 部族 = tribe. Conveys brutal, tribal fantasy wargame tone."
     },
     {
       "Key": "Orc Warriors",
-      "Translation": "",
-      "Comment": "Standard compound word for Orc Warriors. Keeps the brutal and direct feel."
+      "Translation": "オーク戦士",
+      "Comment": "オーク = orc, 戦士 = warrior. Keeps brutal and direct feeling."
     },
     {
       "Key": "Orc Brutes",
-      "Translation": "",
-      "Comment": "Schläger conveys brutality and thuggish nature, fitting for Orc brutes."
+      "Translation": "オーク蛮族",
+      "Comment": "蛮族 = brutes/savages. Conveys thuggish brutality of orc soldiers."
     },
     {
       "Key": "Goblin Mob",
-      "Translation": "",
-      "Comment": "Mob works well in German and conveys the chaotic horde-like nature."
+      "Translation": "ゴブリン暴動団",
+      "Comment": "暴動団 = mob/riotous group. Conveys chaotic horde-like nature."
     },
     {
       "Key": "Goblin Spear Mob",
-      "Translation": "",
-      "Comment": "Added hyphen for clarity between weapon type and mob."
+      "Translation": "ゴブリン槍暴動団",
+      "Comment": "槍 = spear. Goblin horde with spears in chaotic formations."
     },
     {
       "Key": "Boar Riders",
-      "Translation": "",
-      "Comment": "Eber is wild boar, appropriate for the savage greenskin aesthetic."
+      "Translation": "イノシシ騎手",
+      "Comment": "イノシシ = wild boar, 騎手 = rider. Savage greenskin cavalry."
     },
     {
       "Key": "Goblin Wolf Riders",
-      "Translation": "",
-      "Comment": "Compound word with hyphen for readability."
+      "Translation": "ゴブリン狼騎手",
+      "Comment": "狼 = wolf, 騎手 = rider. Swift wolf-riding goblin cavalry."
     },
     {
       "Key": "Orc Boar Chariot",
-      "Translation": "",
-      "Comment": "Streitwagen is chariot, compound with Eber for boar. Epic and warlike."
+      "Translation": "オーク猪戦車",
+      "Comment": "猪 = boar, 戦車 = war chariot. Epic and warlike vehicle."
     },
     {
       "Key": "Goblin Shortbows",
-      "Translation": "",
-      "Comment": "Kurzbogenschützen = shortbow archers. Added 'schützen' for clarity that these are the bow-wielding troops."
+      "Translation": "ゴブリン短弓兵",
+      "Comment": "短弓兵 = shortbow archer. Lighter ranged goblin troops."
     },
     {
       "Key": "Goblin Bolt Throwers",
-      "Translation": "",
-      "Comment": "Bolzenwerfer matches the term used in UnitProps for bolt thrower weapons."
+      "Translation": "ゴブリン矢砲",
+      "Comment": "矢砲 = bolt thrower/arrow artillery. Mechanical siege weapons."
     },
     {
       "Key": "Goblin Stonethrower",
-      "Translation": "",
-      "Comment": "Steinschleuder for stone thrower, consistent with Dwarf artillery naming."
+      "Translation": "ゴブリン石投機",
+      "Comment": "石投機 = stone thrower/catapult. Crude but effective siege weapon."
     },
     {
       "Key": "Trolls",
-      "Translation": "",
-      "Comment": "Standard German plural for trolls."
+      "Translation": "トロル",
+      "Comment": "トロル = troll (katakana). Regenerating monsters of folklore."
     },
     {
       "Key": "Giant",
-      "Translation": "",
-      "Comment": "Classic German word for giant, fits the mythical fantasy tone."
+      "Translation": "巨人",
+      "Comment": "巨人 = giant. Classic mythical creature of immense size."
     },
     {
       "Key": "Wyvern",
-      "Translation": "",
-      "Comment": "Wyvern is kept as is - it's a fantasy creature name recognized internationally."
+      "Translation": "ワイバーン",
+      "Comment": "ワイバーン = wyvern (katakana). Two-legged flying dragon."
     },
     {
       "Key": "Giant Spider",
-      "Translation": "",
-      "Comment": "Direct translation, evokes the monstrous nature of the creature."
+      "Translation": "巨大なる蜘蛛",
+      "Comment": "巨大なる = giant, 蜘蛛 = spider. Monstrous arachnid creature."
     },
     {
       "Key": "War Chief",
-      "Translation": "",
-      "Comment": "Häuptling conveys tribal leadership, Kriegs- adds the martial aspect."
+      "Translation": "戦争司令官",
+      "Comment": "司令官 = war chief/commander. Tribal military leader."
     },
     {
       "Key": "Goblin Shaman",
-      "Translation": "",
-      "Comment": "Schamane is shaman, fits the tribal mysticism of goblin magic users."
+      "Translation": "ゴブリンシャーマン",
+      "Comment": "シャーマン = shaman. Tribal magic user with mystical powers."
     },
     {
       "Key": "Goblin King",
-      "Translation": "",
-      "Comment": "Direct translation, König is king. Grand title for the faction leader."
+      "Translation": "ゴブリン王",
+      "Comment": "王 = king. Grand title for greenskin faction leader."
     }
   ]
 }

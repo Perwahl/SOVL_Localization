@@ -3,98 +3,98 @@
   "Translations": [
     {
       "Key": "Knights of Avalon",
-      "Translation": "",
-      "Comment": "Direct translation. Noble knights of the legendary kingdom."
+      "Translation": "アヴァロンの騎士",
+      "Comment": "騎士 = knight. Noble warriors of legendary kingdom Avalon."
     },
     {
       "Key": "Sword Militia",
-      "Translation": "",
-      "Comment": "Miliz = militia. Citizen soldiers with swords."
+      "Translation": "剣民兵",
+      "Comment": "民兵 = militia. Citizen soldiers with swords."
     },
     {
       "Key": "Peasant Mob",
-      "Translation": "",
-      "Comment": "Bauern = peasants. Untrained levies."
+      "Translation": "農民の群れ",
+      "Comment": "農民 = peasant, 群れ = mob/horde. Untrained levy troops."
     },
     {
       "Key": "Halberd Militia",
-      "Translation": "",
-      "Comment": "Militia armed with halberds."
+      "Translation": "戟民兵",
+      "Comment": "戟 = halberd/pike. Militia armed with pole weapons."
     },
     {
       "Key": "Spear Militia",
-      "Translation": "",
-      "Comment": "Basic spear-wielding militia."
+      "Translation": "槍民兵",
+      "Comment": "槍 = spear. Basic militia formation troops."
     },
     {
       "Key": "Knight Aspirants",
-      "Translation": "",
-      "Comment": "Aspiranten = aspirants. Young warriors training to become knights."
+      "Translation": "騎士志望者",
+      "Comment": "志望者 = aspirant/candidate. Young warriors training for knighthood."
     },
     {
       "Key": "Mounted Hunters",
-      "Translation": "",
-      "Comment": "Beritten = mounted. Jäger = hunters. Light cavalry."
+      "Translation": "騎馬狩人",
+      "Comment": "騎馬 = mounted, 狩人 = hunter. Light cavalry scouts."
     },
     {
       "Key": "Sworn Knights",
-      "Translation": "",
-      "Comment": "Geschworene = sworn. Knights who have taken sacred oaths."
+      "Translation": "誓約騎士",
+      "Comment": "誓約 = sworn oath. Knights bound by sacred vows."
     },
     {
       "Key": "Hunting Dogs",
-      "Translation": "",
-      "Comment": "War dogs used in battle."
+      "Translation": "狩猟犬",
+      "Comment": "狩猟犬 = war dog/hunting hound. Animals in battle service."
     },
     {
       "Key": "Hunters",
-      "Translation": "",
-      "Comment": "Skilled hunters serving as scouts and archers."
+      "Translation": "狩人",
+      "Comment": "狩人 = hunter. Skilled scouts and archers."
     },
     {
       "Key": "Trebuchet",
-      "Translation": "",
-      "Comment": "Trebuchet as technical term for the catapult. Alternative: Wurfmaschine."
+      "Translation": "トレビュシェ",
+      "Comment": "トレビュシェ = trebuchet (katakana). Siege catapult."
     },
     {
       "Key": "Longbowmen",
-      "Translation": "",
-      "Comment": "Famous archers with longbows. Elite ranged troops."
+      "Translation": "ロングボウ兵",
+      "Comment": "ロングボウ = longbow. Elite archers with powerful bows."
     },
     {
       "Key": "Kings Guard",
-      "Translation": "",
-      "Comment": "Elite guards protecting the king. Best warriors of the realm."
+      "Translation": "王妃近衛兵",
+      "Comment": "近衛兵 = royal guard. Elite warriors protecting royalty."
     },
     {
       "Key": "Pegasus Knights",
-      "Translation": "",
-      "Comment": "Knights riding pegasi. Flying cavalry."
+      "Translation": "ペガサス騎士",
+      "Comment": "ペガサス = pegasus (katakana). Flying cavalry knights."
     },
     {
       "Key": "Hippogryph",
-      "Translation": "",
-      "Comment": "Kept as fantasy creature name. Gryphon-horse hybrid."
+      "Translation": "ヒッポグリフ",
+      "Comment": "ヒッポグリフ = hippogryph (katakana). Gryphon-horse hybrid mount."
     },
     {
       "Key": "Pegasus",
-      "Translation": "",
-      "Comment": "Mythological winged horse. Kept as is."
+      "Translation": "ペガサス",
+      "Comment": "ペガサス = pegasus. Mythological winged horse."
     },
     {
       "Key": "Unicorn",
-      "Translation": "",
-      "Comment": "Standard German for unicorn. Magical pure creature."
+      "Translation": "ユニコーン",
+      "Comment": "ユニコーン = unicorn (katakana). Magical pure creature."
     },
     {
       "Key": "Maiden",
-      "Translation": "",
-      "Comment": "Jungfrau = maiden. Holy warrior blessed by the divine. Alternative: Heilige Jungfrau."
+      "Translation": "乙女聖騎士",
+      "Comment": "乙女 = maiden, 聖騎士 = holy knight. Divine warrior blessed by heaven."
     },
     {
       "Key": "Paladin",
-      "Translation": "",
-      "Comment": "Paladin is universally recognized. Holy knight champion."
+      "Translation": "パラディン",
+      "Comment": "パラディン = paladin (katakana). Holy knight champion of righteousness."
     }
   ]
 }

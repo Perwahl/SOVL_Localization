@@ -3,88 +3,88 @@
   "Translations": [
     {
       "Key": "Elven Conclaves",
-      "Translation": "",
-      "Comment": "Konklave conveys the organized, council-like nature of Elven society. Singular form is more elegant in German."
+      "Translation": "精霊評議会",
+      "Comment": "評議会 = conclave/council. Conveys organized, deliberative nature of elven society."
     },
     {
       "Key": "Elf Spears",
-      "Translation": "",
-      "Comment": "Speerkämpfer = spear fighters. More specific than just 'spears' and fits military unit naming."
+      "Translation": "精霊槍兵",
+      "Comment": "槍兵 = spear fighter/infantry. Elegant representation of elven foot soldiers."
     },
     {
       "Key": "Elf City Guard",
-      "Translation": "",
-      "Comment": "Stadtwache is city guard, compound word maintains the defensive role."
+      "Translation": "精霊都市守衛",
+      "Comment": "都市守衛 = city guard. Defensive troops maintaining order in elven cities."
     },
     {
       "Key": "Weapon Masters",
-      "Translation": "",
-      "Comment": "Direct translation. Conveys elite skill and mastery, fitting for Elven warriors."
+      "Translation": "武器の達人",
+      "Comment": "達人 = master/expert. Conveys elite skill and mastery in combat."
     },
     {
       "Key": "Elf Archers",
-      "Translation": "",
-      "Comment": "Bogenschützen = archers. Elves are famous for their archery, this captures that."
+      "Translation": "精霊弓兵",
+      "Comment": "弓兵 = archer. Elves renowned for exceptional archery precision."
     },
     {
       "Key": "Elf Watchers",
-      "Translation": "",
-      "Comment": "Wächter = watchers/guardians. Implies vigilance and protection."
+      "Translation": "精霊監視兵",
+      "Comment": "監視兵 = watcher/sentinel. Implies vigilance and protective nature."
     },
     {
       "Key": "Elf Bolt Thrower",
-      "Translation": "",
-      "Comment": "Consistent with other bolt thrower translations. Hyphen for clarity."
+      "Translation": "精霊矢砲",
+      "Comment": "矢砲 = bolt thrower. Elven siege weapon with precision engineering."
     },
     {
       "Key": "Elf Lancers",
-      "Translation": "",
-      "Comment": "Lanzenreiter = lance riders/cavalry. Elegant compound for mounted troops."
+      "Translation": "精霊槍騎兵",
+      "Comment": "槍騎兵 = lance cavalry/mounted spearman. Elegant mounted elven troops."
     },
     {
       "Key": "Elf Reavers",
-      "Translation": "",
-      "Comment": "Plünderer = reavers/raiders. Fast cavalry that strikes and withdraws."
+      "Translation": "精霊掠奪者",
+      "Comment": "掠奪者 = reaver/raider. Fast striking cavalry that withdraws swiftly."
     },
     {
       "Key": "Elf Chariot",
-      "Translation": "",
-      "Comment": "Streitwagen = chariot. Classic military vehicle terminology."
+      "Translation": "精霊戦車",
+      "Comment": "戦車 = war chariot. Classic elven military vehicle."
     },
     {
       "Key": "Giant Eagle",
-      "Translation": "",
-      "Comment": "Direct translation. Majestic creature fitting for Elven forces."
+      "Translation": "巨大な鷲",
+      "Comment": "鷲 = eagle (majestic bird). Majestic creature befitting elven forces."
     },
     {
       "Key": "Dragon Knights",
-      "Translation": "",
-      "Comment": "Elite dragon-riding warriors. Compound conveys both mount and rider."
+      "Translation": "竜騎士",
+      "Comment": "竜騎士 = dragon knight. Elite warriors riding powerful dragons."
     },
     {
       "Key": "Ancient Dragon",
-      "Translation": "",
-      "Comment": "Uralter emphasizes ancient age and power. More evocative than 'alter'."
+      "Translation": "太古の竜",
+      "Comment": "太古 = primordial/ancient. Emphasizes immense age and power."
     },
     {
       "Key": "Gryphon",
-      "Translation": "",
-      "Comment": "Standard German term for gryphon/griffin. Mythological creature."
+      "Translation": "グリフォン",
+      "Comment": "グリフォン = gryphon (katakana). Mythological creature of legend."
     },
     {
       "Key": "Elf Noble",
-      "Translation": "",
-      "Comment": "Edelmann = nobleman. Traditional term for aristocratic leader."
+      "Translation": "精霊貴族",
+      "Comment": "貴族 = noble/aristocrat. Elven leader with authority and elegance."
     },
     {
       "Key": "Elf Mage",
-      "Translation": "",
-      "Comment": "Magier is the standard term for mage/wizard in German fantasy."
+      "Translation": "精霊魔法使い",
+      "Comment": "魔法使い = mage/sorcerer. Master of elven magical arts."
     },
     {
       "Key": "Elf Spellsword",
-      "Translation": "",
-      "Comment": "Klingenschmied literally 'blade smith' but conveys the martial-magical hybrid warrior. Alternative: Zauberklinge (magic blade)."
+      "Translation": "精霊魔剣士",
+      "Comment": "魔剣士 = spellsword/magic swordsman. Martial-magical hybrid warrior."
     }
   ]
 }

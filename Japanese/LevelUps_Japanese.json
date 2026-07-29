@@ -3,898 +3,898 @@
   "Translations": [
     {
       "Key": "Unit Size I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットサイズI",
+      "Comment": "Roman numerals kept as-is for consistency with game UI"
     },
     {
       "Key": "Max Unit size +3",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "最大ユニットサイズ +3",
+      "Comment": "Mechanical description of stat bonus, kept concise"
     },
     {
       "Key": "Unit Size II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットサイズII",
+      "Comment": "Sequel ability, Roman numeral maintained"
     },
     {
       "Key": "Unit Size III",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットサイズIII",
+      "Comment": "Final tier of Unit Size bonuses"
     },
     {
       "Key": "Replenish I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "補充I",
+      "Comment": "Replenishment ability for unit recovery, using 補充 (supply/replenishment)"
     },
     {
       "Key": "+30% base unit Replenishment",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "基本ユニット補充 +30%",
+      "Comment": "Mechanical stat effect, percentage kept in Arabic numerals"
     },
     {
       "Key": "Replenish II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "補充II",
+      "Comment": "Improved replenishment tier"
     },
     {
       "Key": "Replenish III",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "補充III",
+      "Comment": "Advanced replenishment tier"
     },
     {
       "Key": "Veteran Discipline",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "老兵の規律",
+      "Comment": "Veteran unit bonus, emphasizes discipline/order through 規律"
     },
     {
       "Key": "Increase Discipline by 1",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "規律 +1",
+      "Comment": "Mechanical stat increase, kept concise for clarity"
     },
     {
       "Key": "Veteran Skill",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "老兵の技術",
+      "Comment": "Veteran unit skill bonus, using 技術 for learned combat technique"
     },
     {
       "Key": "Increase Skill by 1",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "技術 +1",
+      "Comment": "Stat increase, matches Veteran Skill terminology"
     },
     {
       "Key": "Veteran Skill II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "老兵の技術II",
+      "Comment": "Advanced veteran skill tier"
     },
     {
       "Key": "Coin Counter I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "金貨計算I",
+      "Comment": "Income/looting ability, uses 金貨 (gold coins)"
     },
     {
       "Key": "+3% post battle income",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "戦闘後の収入 +3%",
+      "Comment": "Economic bonus after combat, percentage retained in Arabic numerals"
     },
     {
       "Key": "Coin Counter II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "金貨計算II",
+      "Comment": "Advanced income tier"
     },
     {
       "Key": "Battle Hardened I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "戦場の鍛錬I",
+      "Comment": "Combat toughness from experience, 鍛錬 conveys hardening through trial"
     },
     {
       "Key": "+1 Wounds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "耐久性 +1",
+      "Comment": "Health/durability stat in wargame context, 耐久性 is standard term"
     },
     {
       "Key": "Battle Hardened II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "戦場の鍛錬II",
+      "Comment": "Improved durability tier"
     },
     {
       "Key": "Offensive Mastery I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "攻撃の極意I",
+      "Comment": "Combat expertise, 極意 (mastery/supreme technique) fits wargame tone"
     },
     {
       "Key": "+1 Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "攻撃 +1",
+      "Comment": "Mechanical attack stat increase"
     },
     {
       "Key": "Offensive Mastery II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "攻撃の極意II",
+      "Comment": "Advanced offensive tier"
     },
     {
       "Key": "Offensive Mastery III",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "攻撃の極意III",
+      "Comment": "Ultimate offensive tier"
     },
     {
       "Key": "Veteran Crew",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "経験を積んだ部隊",
+      "Comment": "Veteran unit with experience, using 部隊 for military unit/crew"
     },
     {
       "Key": "+1 Ranged Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "遠距離攻撃 +1",
+      "Comment": "Ranged combat stat, 遠距離 distinguishes from melee"
     },
     {
       "Key": "Marksman I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "従武士の真 I",
+      "Comment": "Expert archer/shooter, 真 conveys mastery"
     },
     {
       "Key": "Marksman II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "従武士の真II",
+      "Comment": "Improved marksman tier"
     },
     {
       "Key": "Marksman III",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "従武士の真III",
+      "Comment": "Master marksman tier"
     },
     {
       "Key": "Greater Fireball",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大火球",
+      "Comment": "Spell name, 大 (great) + 火球 (fireball)"
     },
     {
       "Key": "Upgrades Fireball to 3D3 hits.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "火球を強化し3D3のダメージを与える。",
+      "Comment": "Mechanical description, 3D3 kept as dice notation, ダメージ (damage)"
     },
     {
       "Key": "Greater Favour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大いなる恵み",
+      "Comment": "Divine magic enhancement, 恵み (divine favor/blessing)"
     },
     {
       "Key": "Upgrades Divine Favour to target all units.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "聖なる恵みを強化し、全ユニットを対象化する。",
+      "Comment": "Game rules text, 聖なる (divine) describes ability expansion"
     },
     {
       "Key": "Greater Ruin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大破壊",
+      "Comment": "Curse/hex spell, 破壊 (destruction/ruin) standard wargame term"
     },
     {
       "Key": "Hex of Ruin also reduces Power.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "破壊の呪いは武力も減じさせる。",
+      "Comment": "Rules effect, 呪い (hex/curse), 武力 (power/strength)"
     },
     {
       "Key": "Greater Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大狂乱",
+      "Comment": "Beast rage spell, 狂乱 (fury/rampage)"
     },
     {
       "Key": "Upgrades Primal Fury to give +3 Power.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "原始的狂乱を強化し、武力 +3を与える。",
+      "Comment": "Game mechanics, 原始的 (primal) + 狂乱 (fury)"
     },
     {
       "Key": "Greater Web",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "幻の網",
+      "Comment": "Arcane spell, 幻 (phantom/arcane) + 網 (web/threads)"
     },
     {
       "Key": "Gives 1 extra charge to Arcane Web.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "幻の網に1提の伝承を与える。",
+      "Comment": "Ability charges, 提 (instances) + 伝承 (heritage/charges)"
     },
     {
       "Key": "Greater Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "輝きの盾",
+      "Comment": "Divine protection spell, 輝き (radiant/brilliant) + 盾 (shield)"
     },
     {
       "Key": "Gives 1 extra charge to Radiant Shield.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "輝きの盾に1提の伝承を与える。",
+      "Comment": "Ability charges, matches web phrasing"
     },
     {
       "Key": "Greater Shadowbolt",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "影の矢",
+      "Comment": "Shadow magic spell, 影 (shadow) + 矢 (bolt/arrow)"
     },
     {
       "Key": "Upgrades Shadow Bolt to Power 3 and Range 33.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "影の矢を強化し、武力3、射程33にする。",
+      "Comment": "Mechanical stats retained in Arabic, 射程 (range/reach)"
     },
     {
       "Key": "Greater Regrowth",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "幻の再茂",
+      "Comment": "Healing/regeneration spell, 幻 (arcane) + 再茂 (regrowth)"
     },
     {
       "Key": "Upgrades Regrowth to target any unit.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "幻の再茂を強化し、あらゆるユニットに対応する。",
+      "Comment": "Game mechanics, shows ability expansion"
     },
     {
       "Key": "Greater Wildform",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大獣変化",
+      "Comment": "Beast transformation spell, 獣 (beast) + 変化 (transformation)"
     },
     {
       "Key": "Upgrades Wildform to give +3 Attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "獣変化を強化し、攻撃 +3を与える。",
+      "Comment": "Game mechanics, shows combat enhancement"
     },
     {
       "Key": "Greater Raise",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大死者の蘇生",
+      "Comment": "Necromancy spell, 死者 (dead) + 蘇生 (resurrection)"
     },
     {
       "Key": "Upgrades Raise Dead to raise an additional D3 models.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "死者の蘇生を強化し、追加でD3体を蘇生させる。",
+      "Comment": "Necromancy enhancement, D3 kept for dice notation"
     },
     {
       "Key": "Greater Reanimate",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大再生",
+      "Comment": "Necromancy enhancement, 再生 (regeneration/reanimation)"
     },
     {
       "Key": "Reanimate also gives +1 Power and Defense.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "再生はさらに武力 +1と防御 +1を与える。",
+      "Comment": "Game mechanics, shows stat bonuses from ability"
     },
     {
       "Key": "Greater Vigour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大活力",
+      "Comment": "Necromancy blessing, 活力 (vigour/vitality)"
     },
     {
       "Key": "Unholy Vigour also lets the unit reroll missed Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "邪悪な活力はユニットが失敗した攻撃ロールを再ロールできる。",
+      "Comment": "Necromancy ability, 邪悪 (unholy/evil), allows reroll mechanic"
     },
     {
       "Key": "Thousand Maws",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "千の顎",
+      "Comment": "Beast magic spell, 千 (thousand) + 顎 (jaw/maw)"
     },
     {
       "Key": "Upgrades Thousand Mouths to Power 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "千の口を強化し、武力3にする。",
+      "Comment": "Beast magic enhancement, mechanical stat increase"
     },
     {
       "Key": "Greater Blades",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大炎刃",
+      "Comment": "Fire magic enhancement, 炎 (fire) + 刃 (blade)"
     },
     {
       "Key": "Upgrades Fiery Blades to give +3 Power.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "炎刃を強化し、武力 +3を与える。",
+      "Comment": "Fire magic enhancement, mechanical stat increase"
     },
     {
       "Key": "Greater Shroud",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大幻隠れ",
+      "Comment": "Illusion magic, 幻隠れ (phantom concealment/shroud)"
     },
     {
       "Key": "Upgrades Shroud to target all friendly units.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "幻隠れを強化し、全ての味方ユニットを対象化する。",
+      "Comment": "Illusion magic expansion, includes all allies"
     },
     {
       "Key": "Greater Ward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大氷壁",
+      "Comment": "Ice magic protection, 氷壁 (ice wall/ward)"
     },
     {
       "Key": "Removes the Re-roll penalties from Frost Ward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "凍結の壁の再ロール罰則を取り除く。",
+      "Comment": "Frost magic enhancement, removes mechanical penalties"
     },
     {
       "Key": "Looter I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "掠奪者I",
+      "Comment": "Looting ability, 掠奪者 (plunderer/looter)"
     },
     {
       "Key": "+3 gold when looting",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "掠奪時に金 +3",
+      "Comment": "Economic bonus, mechanical effect in combat"
     },
     {
       "Key": "Looter II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "掠奪者II",
+      "Comment": "Improved looting tier"
     },
     {
       "Key": "Looter III",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "掠奪者III",
+      "Comment": "Master looting tier"
     },
     {
       "Key": "Oath of Reckoning",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "報復の誓い",
+      "Comment": "Sacred oath, 報復の誓い emphasizes vengeance against monsters"
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Monsters.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "モンスターに対する遠距離・接近攻撃を再ロール。",
+      "Comment": "Monster hunting bonus, reroll mechanic"
     },
     {
       "Key": "Oath of Retribution",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "報復の誓い・其の二",
+      "Comment": "Sacred oath variant, 其の二 indicates second version"
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Ranged Units",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "遠距離ユニットに対する遠距離・接近攻撃を再ロール。",
+      "Comment": "Anti-ranged unit bonus, reroll mechanic"
     },
     {
       "Key": "Oath of Vengeance",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "報復の誓い・其の三",
+      "Comment": "Sacred oath variant, 其の三 indicates third version"
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "騎兵と戦車に対する遠距離・接近攻撃を再ロール。",
+      "Comment": "Anti-mounted unit bonus, reroll mechanic"
     },
     {
       "Key": "Rune Of Flame",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "炎のルーン",
+      "Comment": "Magical rune, ルーン (rune) is standard Japanese term"
     },
     {
       "Key": "+1 Power to Ranged Attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "遠距離攻撃に武力 +1。",
+      "Comment": "Rune combat bonus, mechanical stat increase"
     },
     {
       "Key": "Rune Of Resilience",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "耐久のルーン",
+      "Comment": "Defensive rune, 耐久 (resilience/durability)"
     },
     {
       "Key": "Unit re-rolls failed Damage Saves",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットはダメージセーブの失敗を再ロールできる。",
+      "Comment": "Defense mechanic, reroll failed damage mitigation"
     },
     {
       "Key": "Rune Of Farsight",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "遠見のルーン",
+      "Comment": "Vision/range rune, 遠見 (far sight/long vision)"
     },
     {
       "Key": "Ranged attack range increased by 3.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "遠距離攻撃の射程を3増加させる。",
+      "Comment": "Range bonus, mechanical stat increase"
     },
     {
       "Key": "Rune Of Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "速度のルーン",
+      "Comment": "Movement rune, 速度 (speed/velocity)"
     },
     {
       "Key": "Unit can move and fire ranged weapons.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットは移動してから遠距離兵器を発火できる。",
+      "Comment": "Mobility bonus, tactical flexibility"
     },
     {
       "Key": "Demonic Gift",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "悪魔の贈り物",
+      "Comment": "Dark magic bonus, 悪魔の贈り物 (demonic gift)"
     },
     {
       "Key": "+1 to a random Stat",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ランダムな統計値に +1",
+      "Comment": "Chaotic bonus, randomness emphasizes demonic nature"
     },
     {
       "Key": "Imperial Elites I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "皇帝派遣精兵I",
+      "Comment": "Elite unit bonus, 皇帝派遣 (imperial dispatch)"
     },
     {
       "Key": "Unit re-rolls missed Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットは外れた攻撃ロールを再ロールできる。",
+      "Comment": "Combat accuracy bonus, reroll mechanic"
     },
     {
       "Key": "Imperial Elites II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "皇帝派遣精兵II",
+      "Comment": "Advanced elite unit bonus"
     },
     {
       "Key": "Fearless (Ignores penalties to Discipline tests).",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恐れ知らず（規律テストへの罰則を無視する）",
+      "Comment": "Morale immunity, ignores negative discipline effects"
     },
     {
       "Key": "Imperial Veterans I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "皇帝派遣老兵I",
+      "Comment": "Imperial veteran unit, 老兵 (veteran soldier)"
     },
     {
       "Key": "Unit gets +1 Combat Score",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットは戦闘スコア +1を得る",
+      "Comment": "Combat effectiveness bonus, mechanical stat"
     },
     {
       "Key": "Imperial Veterans II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "皇帝派遣老兵II",
+      "Comment": "Advanced imperial veteran tier"
     },
     {
       "Key": "Unit has +3 range for Ranged attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットは遠距離攻撃に射程 +3を有する。",
+      "Comment": "Range bonus for ranged units, mechanical stat increase"
     },
     {
       "Key": "Unit ignores penalties for difficult terrain.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットは困難な地形での罰則を無視する。",
+      "Comment": "Terrain mobility, ignores movement penalties"
     },
     {
       "Key": "Recruiter I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "募兵者I",
+      "Comment": "Unit recruitment bonus, 募兵者 (recruiter)"
     },
     {
       "Key": "Newly recruited units gain an additional level",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "新兵は追加レベルを獲得する",
+      "Comment": "Unit advancement bonus, affects new recruits"
     },
     {
       "Key": "Recruiter II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "募兵者II",
+      "Comment": "Advanced recruitment tier"
     },
     {
       "Key": "Mutation",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "突然変異",
+      "Comment": "Unpredictable change, 突然変異 (mutation)"
     },
     {
       "Key": "Random Mutation",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ランダムな突然変異",
+      "Comment": "Unpredictable change, ランダムな突然変異 (random mutation)"
     },
     {
       "Key": "Veteran Accuracy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "老兵の精度",
+      "Comment": "Combat accuracy bonus, 老兵の精度 (veteran accuracy)"
     },
     {
       "Key": "Unit rerolls 1s on Ranged Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットは遠距離攻撃ロールで1を再ロールできる。",
+      "Comment": "Reroll mechanic, improves ranged attack consistency"
     },
     {
       "Key": "Veteran Accuracy II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "老兵の精度II",
+      "Comment": "Advanced ranged accuracy tier"
     },
     {
       "Key": "Unit can fire ranged weapons in one additional rank",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットは追加1列から遠距離兵器を発火できる。",
+      "Comment": "Ranged combat formation bonus, battlefield positioning"
     },
     {
       "Key": "Stronger Summons I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "強化された召喚物I",
+      "Comment": "Summoned unit enhancement, 召喚物 (summoned beings)"
     },
     {
       "Key": "Reduce Crumble rolls by 1",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "崩壊ロールを1減らす",
+      "Comment": "Summoned unit durability, 崩壊 (crumble/collapse)"
     },
     {
       "Key": "Stronger Summons II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "強化された召喚物II",
+      "Comment": "Advanced summoned unit enhancement"
     },
     {
       "Key": "+1 Move Speed.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "移動速度 +1。",
+      "Comment": "Mobility bonus for summoned units"
     },
     {
       "Key": "Stronger Summons III",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "強化された召喚物III",
+      "Comment": "Master summoned unit enhancement"
     },
     {
       "Key": "Elf Bow Mastery I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "エルフ弓術I",
+      "Comment": "Elven ranged combat mastery, 弓術 (archery)"
     },
     {
       "Key": "+3 range for Ranged Attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "遠距離攻撃に射程 +3。",
+      "Comment": "Bow range bonus, mechanical stat increase"
     },
     {
       "Key": "Elf Bow Mastery II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "エルフ弓術II",
+      "Comment": "Advanced elven archery mastery"
     },
     {
       "Key": "Damage saves against units Ranged Attack are reduced by 1.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットの遠距離攻撃に対するダメージセーブは1減らされる。",
+      "Comment": "Penetrating arrows, reduces defense effectiveness"
     },
     {
       "Key": "Elf Spear Mastery I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "エルフ槍術I",
+      "Comment": "Elven melee combat mastery, 槍術 (spear technique)"
     },
     {
       "Key": "Unit fights in one additional rank when not charging.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットは突撃しない場合、追加1列から戦闘する。",
+      "Comment": "Spear phalanx formation, tactical battlefield positioning"
     },
     {
       "Key": "Elf Spear Mastery II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "エルフ槍術II",
+      "Comment": "Advanced elven spear mastery"
     },
     {
       "Key": "Elf Steed Mastery I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "エルフ騎乗術I",
+      "Comment": "Elven mounted combat mastery, 騎乗術 (horsemanship)"
     },
     {
       "Key": "Elf Steed Mastery II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "エルフ騎乗術II",
+      "Comment": "Advanced elven mounted combat"
     },
     {
       "Key": "Charge Bonus: +1 Attack.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "突撃ボーナス：攻撃 +1。",
+      "Comment": "Mounted charge bonus, tactical offensive positioning"
     },
     {
       "Key": "Eagle Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "鷲の姿",
+      "Comment": "Beast aspect, 鷲 (eagle) - grants aerial/mobility benefits"
     },
     {
       "Key": "Jaguar Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ジャガーの姿",
+      "Comment": "Beast aspect, ジャガー (jaguar) - grants mobility and agility"
     },
     {
       "Key": "Unit gains +1 Move Speed and ignores Difficult Terrain",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットは移動速度 +1を得て、困難な地形を無視する。",
+      "Comment": "Jaguar mobility effects, terrain crossing bonus"
     },
     {
       "Key": "Turtle Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "亀の姿",
+      "Comment": "Beast aspect, 亀 (turtle) - grants defensive benefits"
     },
     {
       "Key": "Unit re-rolls 1s on Damage Saves.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットはダメージセーブで1を再ロールできる。",
+      "Comment": "Defensive ability, turtle shell protection metaphor"
     },
     {
       "Key": "Raptor Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "猛禽の姿",
+      "Comment": "Beast aspect, 猛禽 (raptor/predator) - grants lethal attacks"
     },
     {
       "Key": "Unit gains Lethal attacks. (deals 3x wounds)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットは致命的攻撃を得る。（3倍のダメージを与える）",
+      "Comment": "Raptor lethal strike mechanic, massive damage potential"
     },
     {
       "Key": "Serpent Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "蛇の姿",
+      "Comment": "Beast aspect, 蛇 (serpent) - grants poisoned attacks"
     },
     {
       "Key": "Unit gains Poisoned Attacks (enemies re-roll 3s on Damage Saves)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットは毒攻撃を得る（敵はダメージセーブで3を再ロール）",
+      "Comment": "Serpent poison mechanic, reduces enemy defense effectiveness"
     },
     {
       "Key": "Salamander Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "サラマンダーの姿",
+      "Comment": "Beast aspect, サラマンダー (salamander) - grants regeneration"
     },
     {
       "Key": "Unit gains Regeneration. (restores lost wounds at end of turn)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットは再生を得る。（各ターン終了時に失われたダメージを復活させる）",
+      "Comment": "Salamander regeneration ability, self-healing mechanic"
     },
     {
       "Key": "Goblin Greed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ゴブリンの欲望",
+      "Comment": "Goblin economic bonus, ゴブリン (goblin) + 欲望 (greed)"
     },
     {
       "Key": "+10 gold when looting",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "掠奪時に金 +10",
+      "Comment": "Enhanced looting income, goblin economy"
     },
     {
       "Key": "Strength In Numbers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "数の力",
+      "Comment": "Goblin unit swarm ability, 数の力 (strength in numbers)"
     },
     {
       "Key": "Max Unit size +10",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "最大ユニットサイズ +10",
+      "Comment": "Allows larger goblin units, swarm tactic"
     },
     {
       "Key": "Backstabbers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "背後からの襲撃者",
+      "Comment": "Goblin ambush/flanking ability, 背後 (rear/back)"
     },
     {
       "Key": "Reroll missed Attack Rolls when attacking from Flank or Rear",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "側面または背後から攻撃する際に外れた攻撃ロールを再ロール。",
+      "Comment": "Flanking bonus, tactical battlefield advantage"
     },
     {
       "Key": "Bloodlust",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "血の渇望",
+      "Comment": "Combat frenzy ability, 血の渇望 (bloodlust/blood thirst)"
     },
     {
       "Key": "Activate once per battle, +1 Attack and Fearless.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "1戦闘中に1回起動、攻撃 +1と恐れ知らずを得る。",
+      "Comment": "Combat activation ability, limited use but powerful"
     },
     {
       "Key": "Won't Stay Down",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "起き上がる執念",
+      "Comment": "Resilience ability, stays in battle, 起き上がる (getting up)"
     },
     {
       "Key": "Recover an extra model that died after each battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "各戦闘後、死亡したユニットをさらに1体復活させる。",
+      "Comment": "Post-battle recovery mechanic, resilience ability"
     },
     {
       "Key": "Tough As Nails",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "爪のように硬い",
+      "Comment": "Durability ability, 爪のように硬い (tough as nails/extremely durable)"
     },
     {
       "Key": "Unit Rerolls 1s on Damage Saves",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットはダメージセーブで1を再ロールできる。",
+      "Comment": "Defense mechanic, improves armor/survival"
     },
     {
       "Key": "Greater Warcry",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大戦闘叫",
+      "Comment": "Enhanced morale ability, 戦闘叫 (battle cry/warcry)"
     },
     {
       "Key": "Warcry also gives +3 Move Speed to all units.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "戦闘叫は全ユニットに移動速度 +3も与える。",
+      "Comment": "Tactical aura effect, benefits entire army"
     },
     {
       "Key": "Slavers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "奴隷商人",
+      "Comment": "Cruel economic ability, 奴隷商人 (slaver/slave trader)"
     },
     {
       "Key": "Unit earns 1 gold per enemy killed in combat after each battle.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットは各戦闘後、戦闘で倒した敵1体につき金1を獲得する。",
+      "Comment": "Post-battle income from combat victories"
     },
     {
       "Key": "Blessing of Decay I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "腐敗の恵みI",
+      "Comment": "Dark god blessing, 腐敗 (decay/rot)"
     },
     {
       "Key": "Blessing of Decay II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "腐敗の恵みII",
+      "Comment": "Advanced Decay god blessing"
     },
     {
       "Key": "Gain Poisoned Attacks",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "毒攻撃を得る",
+      "Comment": "Decay blessing combat ability"
     },
     {
       "Key": "Blessing of Trickery I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "詐欺の恵みI",
+      "Comment": "Trickery god blessing, 詐欺 (trickery/deception)"
     },
     {
       "Key": "+1 Move Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "移動速度 +1",
+      "Comment": "Trickery blessing mobility bonus"
     },
     {
       "Key": "Blessing of Trickery II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "詐欺の恵みII",
+      "Comment": "Advanced Trickery god blessing"
     },
     {
       "Key": "Once per battle: Gain Flying for one turn.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "1戦闘中に1回：1ターンの間、飛行を得る。",
+      "Comment": "Trickery god tactical ability, limited use blessing"
     },
     {
       "Key": "War Gods Blessing I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "戦神の恵みI",
+      "Comment": "War god blessing, 戦神 (god of war)"
     },
     {
       "Key": "+1 Damage Save vs Ranged",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "遠距離に対するダメージセーブ +1",
+      "Comment": "War god ranged defense blessing"
     },
     {
       "Key": "War Gods Blessing II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "戦神の恵みII",
+      "Comment": "Advanced War god blessing"
     },
     {
       "Key": "Once per battle: Gain +1 Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "1戦闘中に1回：攻撃 +1を得る。",
+      "Comment": "War god combat activation ability"
     },
     {
       "Key": "Lord of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "腐敗の領主",
+      "Comment": "High rank Decay god servant, 領主 (lord/master)"
     },
     {
       "Key": "Become a servant to the god of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "腐敗の神の僕になる。",
+      "Comment": "Pledging loyalty to Decay god"
     },
     {
       "Key": "Master of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "腐敗の達人",
+      "Comment": "Ultimate Decay god servant rank, 達人 (master/expert)"
     },
     {
       "Key": "Gain Regeneration",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "再生を得る。",
+      "Comment": "Master Decay ability, self-healing"
     },
     {
       "Key": "Lord of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "詐欺の領主",
+      "Comment": "High rank Trickery god servant"
     },
     {
       "Key": "Become a servant to the god of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "詐欺の神の僕になる。",
+      "Comment": "Pledging loyalty to Trickery god"
     },
     {
       "Key": "Master of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "詐欺の達人",
+      "Comment": "Ultimate Trickery god servant rank"
     },
     {
       "Key": "Gain Ambush deployment",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "奇襲展開を得る。",
+      "Comment": "Master Trickery ability, tactical battlefield advantage"
     },
     {
       "Key": "Lord of War",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "戦争の領主",
+      "Comment": "High rank War god servant, 戦争 (war)"
     },
     {
       "Key": "Become a servant to the god of War",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "戦争の神の僕になる。",
+      "Comment": "Pledging loyalty to War god"
     },
     {
       "Key": "Master of War",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "戦争の達人",
+      "Comment": "Ultimate War god servant rank"
     },
     {
       "Key": "Gain Deadly Strikes (deal 3x Wounds)",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "致命的な一撃を得る（3倍のダメージを与える）",
+      "Comment": "Master War ability, massive combat power"
     },
     {
       "Key": "Knightly Vow",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "騎士の誓い",
+      "Comment": "Knightly promotion, 騎士 (knight)"
     },
     {
       "Key": "Unit is upgraded to Sworn Knights",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットは誓約騎士にアップグレードされる。",
+      "Comment": "Unit promotion to elite knight status"
     },
     {
       "Key": "Kings Vow",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "王の誓い",
+      "Comment": "Royal promotion, 王 (king)"
     },
     {
       "Key": "Unit is upgraded to Kings Guard",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットは王の近衛兵にアップグレードされる。",
+      "Comment": "Unit promotion to royal guard status"
     },
     {
       "Key": "Loyal Serfs I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "忠実な農奴I",
+      "Comment": "Peasant/serf unit bonus, 農奴 (serf/peasant)"
     },
     {
       "Key": "Loyal Serfs II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "忠実な農奴II",
+      "Comment": "Advanced serf unit tier"
     },
     {
       "Key": "Avalon Marksmen I",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "アヴァロンの射手I",
+      "Comment": "Legendary marksmen from Avalon, アヴァロン (Avalon)"
     },
     {
       "Key": "Unit has +3 range for Ranged Attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットは遠距離攻撃に射程 +3を有する。",
+      "Comment": "Avalon marksmen range bonus"
     },
     {
       "Key": "Avalon Marksmen II",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "アヴァロンの射手II",
+      "Comment": "Master Avalon marksmen tier"
     },
     {
       "Key": "Unit has +10 range for Ranged Attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットは遠距離攻撃に射程 +10を有する。",
+      "Comment": "Master Avalon marksmen extreme range bonus"
     },
     {
       "Key": "Greater Vengeance",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大復讐",
+      "Comment": "Enhanced vengeance aura, 復讐 (vengeance/revenge)"
     },
     {
       "Key": "Aura of Vengeance can be activated to affect all Knights",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "復讐のオーラは起動して全騎士に影響を与えることができる。",
+      "Comment": "Knight aura ability with area effect, オーラ (aura)"
     },
     {
       "Key": "Greater Protection",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大保護",
+      "Comment": "Enhanced protection aura, 保護 (protection/defense)"
     },
     {
       "Key": "Aura of Protection can be activated to affect all Knights",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "保護のオーラは起動して全騎士に影響を与えることができる。",
+      "Comment": "Knight aura ability with area effect, defensive support"
     },
     {
       "Key": "Newly recruited units gain an additonal level",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "新兵は追加レベルを獲得する。",
+      "Comment": "Unit advancement bonus for recruits, matches earlier Recruiter ability"
     },
     {
       "Key": "+3 range to Ranged Atacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "遠距離攻撃に射程 +3。",
+      "Comment": "Final entry: ranged combat range bonus"
     }
   ]
 }

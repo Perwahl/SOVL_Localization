@@ -3,73 +3,73 @@
   "Translations": [
     {
       "Key": "Ratkin Clans",
-      "Translation": "",
-      "Comment": "Rattenmensch = rat-people. Klans maintains the tribal structure."
+      "Translation": "鼠人の一族",
+      "Comment": "鼠人 = rat-person, 一族 = clan/tribe. Maintains tribal structure of rat-men."
     },
     {
       "Key": "Ratkin Legionaries",
-      "Translation": "",
-      "Comment": "Legionäre = legionaries. Organized rat-men infantry."
+      "Translation": "鼠人軍団兵",
+      "Comment": "軍団兵 = legionary. Organized rat-men military units."
     },
     {
       "Key": "Ratkin Conscripts",
-      "Translation": "",
-      "Comment": "Wehrpflichtige = conscripts. Forced levies of rat-men."
+      "Translation": "鼠人徴募兵",
+      "Comment": "徴募兵 = conscript. Forced levy troops."
     },
     {
       "Key": "Ratkin Skulkers",
-      "Translation": "",
-      "Comment": "Schleicher = skulkers/sneakers. Stealthy infiltrators."
+      "Translation": "鼠人潜行者",
+      "Comment": "潜行者 = skulker/sneaker. Stealthy infiltrator units."
     },
     {
       "Key": "Ratkin Longrifles",
-      "Translation": "",
-      "Comment": "Ratkin sharpshooters with long rifles. Technological advantage."
+      "Translation": "鼠人長銃兵",
+      "Comment": "長銃兵 = long rifleman. Sharpshooters with technological advantage."
     },
     {
       "Key": "Ratkin Slingers",
-      "Translation": "",
-      "Comment": "Schleuderer = slingers. Simple ranged troops."
+      "Translation": "鼠人投石兵",
+      "Comment": "投石兵 = slinger. Simple but effective ranged troops."
     },
     {
       "Key": "Ratkin Flamers",
-      "Translation": "",
-      "Comment": "Flammenwerfer troops. Dangerous experimental weapons."
+      "Translation": "鼠人火炎兵",
+      "Comment": "火炎兵 = flame trooper. Dangerous experimental flame weapons."
     },
     {
       "Key": "Ratkin Monstrosity",
-      "Translation": "",
-      "Comment": "Monstrum = monstrosity. Twisted creation of dark experiments."
+      "Translation": "鼠人怪物",
+      "Comment": "怪物 = monstrosity. Twisted creation of dark rat-men experiments."
     },
     {
       "Key": "Ratkin Alphas",
-      "Translation": "",
-      "Comment": "Alpha kept as term. Elite warriors of the clans."
+      "Translation": "鼠人アルファ",
+      "Comment": "アルファ = alpha (katakana). Elite warrior caste of the clans."
     },
     {
       "Key": "Rat Swarms",
-      "Translation": "",
-      "Comment": "Schwärme = swarms. Masses of vermin."
+      "Translation": "鼠の大群",
+      "Comment": "大群 = swarm/horde. Masses of vermin and creatures."
     },
     {
       "Key": "Doom Bell",
-      "Translation": "",
-      "Comment": "Ominous bell that tolls doom. Same as in UnitProps."
+      "Translation": "滅亡の鐘",
+      "Comment": "滅亡 = doom/destruction, 鐘 = bell. Ominous instrument of fate."
     },
     {
       "Key": "Ratkin Warlock",
-      "Translation": "",
-      "Comment": "Hexenmeister = warlock. Dark magic user."
+      "Translation": "鼠人術士",
+      "Comment": "術士 = warlock/dark sorcerer. Master of sinister magic."
     },
     {
       "Key": "Ratkin Chieftain",
-      "Translation": "",
-      "Comment": "Clan leader. Cunning and ruthless."
+      "Translation": "鼠人族長",
+      "Comment": "族長 = chieftain/clan leader. Cunning and ruthless commander."
     },
     {
       "Key": "Ratkin Infiltrator",
-      "Translation": "",
-      "Comment": "Master spy and assassin. Sneaks behind enemy lines."
+      "Translation": "鼠人潜入者",
+      "Comment": "潜入者 = infiltrator. Master spy and assassin."
     }
   ]
 }

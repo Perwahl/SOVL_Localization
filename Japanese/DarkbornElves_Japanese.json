@@ -3,88 +3,88 @@
   "Translations": [
     {
       "Key": "Darkborn Elves",
-      "Translation": "",
-      "Comment": "Dunkelgeboren = darkborn. Dark elves with a sinister edge."
+      "Translation": "暗黒に生まれし精霊",
+      "Comment": "暗黒 = darkness, 生まれし = born, 精霊 = elves. Dark elves with sinister, corrupted tone."
     },
     {
       "Key": "Darkborn Spears",
-      "Translation": "",
-      "Comment": "Spear-wielding dark elf infantry."
+      "Translation": "暗黒槍兵",
+      "Comment": "槍兵 = spearman/spear infantry. Dark elf foot soldiers with piercing weapons."
     },
     {
       "Key": "Darkborn Dreadguard",
-      "Translation": "",
-      "Comment": "Schrecken = dread. Elite heavy infantry radiating fear."
+      "Translation": "恐怖の守衛",
+      "Comment": "恐怖 = dread/terror, 守衛 = guard. Elite heavy infantry that radiates fear."
     },
     {
       "Key": "Darkborn Witches",
-      "Translation": "",
-      "Comment": "Hexen = witches. Dark magic users of the dark elves."
+      "Translation": "暗黒の魔女",
+      "Comment": "魔女 = witch. Dark magic users wielding sinister supernatural powers."
     },
     {
       "Key": "Darkborn Crossbows",
-      "Translation": "",
-      "Comment": "Crossbow-wielding dark elves. Deadly ranged troops."
+      "Translation": "暗黒弩兵",
+      "Comment": "弩兵 = crossbowman. Deadly dark elf ranged troops with precision."
     },
     {
       "Key": "Darkborn Shadows",
-      "Translation": "",
-      "Comment": "Schatten = shadows. Stealthy infiltrators and assassins."
+      "Translation": "暗黒の影",
+      "Comment": "影 = shadow. Stealthy infiltrators and assassins moving unseen."
     },
     {
       "Key": "Darkborn Boltthrower",
-      "Translation": "",
-      "Comment": "Heavy artillery. Consistent with other bolt thrower translations."
+      "Translation": "暗黒の矢砲",
+      "Comment": "矢砲 = bolt thrower/missile artillery. Heavy siege weapon of dark elves."
     },
     {
       "Key": "Raptor Knights",
-      "Translation": "",
-      "Comment": "Knights riding vicious raptors. Fast and deadly cavalry."
+      "Translation": "猛禽騎士",
+      "Comment": "猛禽 = raptor/bird of prey, 騎士 = knight. Fast and deadly elf cavalry."
     },
     {
       "Key": "Darkborn Riders",
-      "Translation": "",
-      "Comment": "Dark elf cavalry on dark steeds."
+      "Translation": "暗黒の騎馬兵",
+      "Comment": "騎馬兵 = cavalry/mounted warrior. Dark elf cavalry on ominous steeds."
     },
     {
       "Key": "Darkborn Chariot",
-      "Translation": "",
-      "Comment": "Dark elf chariot. Swift and cruel."
+      "Translation": "暗黒の戦車",
+      "Comment": "戦車 = war chariot. Swift and merciless vehicle of dark elf warfare."
     },
     {
       "Key": "Hydra",
-      "Translation": "",
-      "Comment": "Standard German term for hydra. Multi-headed monster."
+      "Translation": "ヒドラ",
+      "Comment": "ヒドラ = hydra (katakana). Multi-headed mythological monster."
     },
     {
       "Key": "Harpies",
-      "Translation": "",
-      "Comment": "Harpyien = harpies. Flying monsters in service of dark elves."
+      "Translation": "ハルピュイア",
+      "Comment": "ハルピュイア = harpies (katakana). Flying monsters serving dark elves."
     },
     {
       "Key": "Black Dragon",
-      "Translation": "",
-      "Comment": "Direct translation. Fearsome black dragon."
+      "Translation": "黒き竜",
+      "Comment": "黒き = black, 竜 = dragon. Fearsome and terrifying dark dragon."
     },
     {
       "Key": "Dark Pegasus",
-      "Translation": "",
-      "Comment": "Corrupted pegasus. Flying mount for heroes."
+      "Translation": "暗き天馬",
+      "Comment": "天馬 = pegasus/heavenly steed. Corrupted flying mount for dark elf heroes."
     },
     {
       "Key": "Darkborn Noble",
-      "Translation": "",
-      "Comment": "Noble dark elf leader. Cruel and cunning."
+      "Translation": "暗黒の貴族",
+      "Comment": "貴族 = nobility/noble. Cruel and cunning dark elf leader."
     },
     {
       "Key": "Darkborn Priestess",
-      "Translation": "",
-      "Comment": "Priesterin = priestess. Female dark magic user and leader."
+      "Translation": "暗黒の祭司",
+      "Comment": "祭司 = priestess/priesthood. Female dark magic user and spiritual leader."
     },
     {
       "Key": "Darkborn Assassin",
-      "Translation": "",
-      "Comment": "Master of stealth and murder. Deadly hero unit."
+      "Translation": "暗黒の刺客",
+      "Comment": "刺客 = assassin/murderer. Master of stealth with deadly precision."
     }
   ]
 }
