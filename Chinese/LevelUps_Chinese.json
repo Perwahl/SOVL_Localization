@@ -100,7 +100,7 @@
       "Key": "Offensive Mastery I",
       "Translation": "攻击精通 I",
       "Comment": "单位攻击能力提升等级一"
-    }
+    },
     {
       "Key": "+1 Attack",
       "Translation": "攻击力 +1",
@@ -200,7 +200,7 @@
       "Key": "Gives 1 extra charge to Radiant Shield.",
       "Translation": "为光辉盾增加1额外充能",
       "Comment": "可以使用更多次数"
-    }
+    },
     {
       "Key": "Greater Shadowbolt",
       "Translation": "高等暗影箭",

@@ -3,7 +3,7 @@
   "Translations": [
     {
       "Key": "Ratkin Clans",
-      "Translation": "Råttfolkens stammar",
+      "Translation": "Råttfolkens Stammar",
       "Comment": "A more natural Swedish faction title with a grim, bestial tone."
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "Key": "Ratkin Monstrosity",
-      "Translation": "Råttfolksmonstrositet",
+      "Translation": "Råttmonster",
       "Comment": "The phrasing feels more natural as a unit title."
     },
     {
       "Key": "Ratkin Alphas",
-      "Translation": "Råttfolkens alfer",
+      "Translation": "Råttbjässar",
       "Comment": "The term is slightly more evocative and fits the creature theme."
     },
     {

@@ -48,18 +48,18 @@
     },
     {
       "Key": "If a Commander is part of this unit it re-rolls failed Discipline tests.",
-      "Translation": "Om en Bef?lhavare ing?r i denna enhet sl?r den om misslyckade Disciplintest.",
-      "Comment": ""
+      "Translation": "Om en befälhavare ingår i denna enhet slår den om misslyckade disciplinprov.",
+      "Comment": "Adjusted to a more natural Swedish rules phrasing."
     },
     {
       "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 4+.",
-      "Translation": "Laddningsbonus: +1 Kraft \nSkyddskast mot detta vapen blir aldrig b?ttre ?n 4+.",
-      "Comment": ""
+      "Translation": "Laddningsbonus: +1 kraft\nSkyddskast mot detta vapen blir aldrig bättre än 4+.",
+      "Comment": "This reads more naturally in Swedish rules text."
     },
     {
       "Key": "+1 Defense. Extra Rank supporting attacks when not charging.",
-      "Translation": "+1 F?rsvar. Ett extra led med st?dattacker n?r enheten inte anfaller.",
-      "Comment": ""
+      "Translation": "+1 försvar. Stödattacker från ett extra led när enheten inte anfaller.",
+      "Comment": "The revised wording is clearer and more idiomatic."
     },
     {
       "Key": "Range: 30. Power 3.",
@@ -83,8 +83,8 @@
     },
     {
       "Key": "Activate once per battle. Give all your units +1 Combat Score for one turn.",
-      "Translation": "Aktivera en g?ng per strid. Ge alla dina enheter +1 Stridsv?rde under en omg?ng.",
-      "Comment": ""
+      "Translation": "Aktivera en gång per strid. Ge alla dina enheter +1 stridsvärde under en omgång.",
+      "Comment": "This is smoother and more natural in Swedish."
     },
     {
       "Key": "+1 Defense. +1 Wounds",
@@ -138,13 +138,13 @@
     },
     {
       "Key": "Target unit gets +1 to Damage Saves for one turn. It must re-roll succesfull Attack and Ranged Attack rolls.",
-      "Translation": "M?lenheten f?r +1 p? Skyddskast under en omg?ng. Den m?ste sl? om lyckade Attack- och Avst?ndsattackslag.",
-      "Comment": ""
+      "Translation": "Målenheten får +1 till skyddskast under en omgång. Den måste slå om lyckade närstrids- och avståndsattacker.",
+      "Comment": "This sounds more natural and clearer in Swedish."
     },
     {
       "Key": "Target unit gets +1 Skill and rerolls failed Discipline tests for one turn.",
-      "Translation": "M?lenheten f?r +1 F?rdighet och sl?r om misslyckade Disciplintest under en omg?ng.",
-      "Comment": ""
+      "Translation": "Målenheten får +1 färdighet och slår om misslyckade disciplinprov under en omgång.",
+      "Comment": "The wording is now more idiomatic in Swedish."
     },
     {
       "Key": "Target unit rerolls failed damage saves for one turn.",
@@ -178,8 +178,8 @@
     },
     {
       "Key": "All your Goblins are Fearless for one turn. Activate once per battle. ",
-      "Translation": "Alla dina Gobliner ?r Or?dda under en omg?ng. Aktivera en g?ng per strid. ",
-      "Comment": ""
+      "Translation": "Alla dina gobliner är modiga under en omgång. Aktivera en gång per strid. ",
+      "Comment": "This keeps the tone more natural and less literal."
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor.",
@@ -188,8 +188,8 @@
     },
     {
       "Key": "Unit can be deployed anywhere on its owners side of the table.",
-      "Translation": "Enheten kan placeras var som helst p? sin ?gares sida av bordet.",
-      "Comment": ""
+      "Translation": "Enheten kan placeras var som helst på sin ägares sida av bordet.",
+      "Comment": "The phrasing is now smoother and more natural."
     },
     {
       "Key": "Re-roll missed Attack Rolls in the first round of combat.",
@@ -213,8 +213,8 @@
     },
     {
       "Key": "Rally a fleeing unit. One use per battle.",
-      "Translation": "Samla en flyende enhet. En anv?ndning per strid.",
-      "Comment": ""
+      "Translation": "Samla en flyende enhet. Används en gång per strid.",
+      "Comment": "This reads more naturally in Swedish rules text."
     },
     {
       "Key": "Reduce target units movement speed to 0 for one turn.",
@@ -253,8 +253,8 @@
     },
     {
       "Key": "Restore D3+1 wounds to a Reanimated unit.",
-      "Translation": "?terst?ll D3+1 s?r till en ?teruppv?ckt enhet.",
-      "Comment": ""
+      "Translation": "Återställ D3+1 sår på en återuppväckt enhet.",
+      "Comment": "This is clearer and more idiomatic in Swedish."
     },
     {
       "Key": "Target unit has -1 Skill and -1 Move Speed. Lasts until end of battle.",
@@ -263,8 +263,8 @@
     },
     {
       "Key": "Raise D3+3 models on a Zombie or Skeleton Warrior, Spear or Archer unit. ",
-      "Translation": "?teruppv?ck D3+3 modeller i en enhet med Zombier eller Skelettkrigare, Spjut eller B?gskyttar. ",
-      "Comment": "Translated the compressed unit-type shorthand literally; align with localized unit names if those are standardized elsewhere."
+      "Translation": "Återuppväck D3+3 modeller i en enhet med zombier eller skelettkrigare, spjut- eller bågskyttar. ",
+      "Comment": "The wording is more natural while keeping the unit-type shorthand intact."
     },
     {
       "Key": "Target unit loses D3 wounds and gains +1 Attack this turn.",
@@ -273,13 +273,13 @@
     },
     {
       "Key": "Commanders retinue deploys with Ambush.",
-      "Translation": "Bef?lhavarens F?lje placeras med Bakh?ll.",
-      "Comment": ""
+      "Translation": "Befälhavarens följe placeras med bakhåll.",
+      "Comment": "A clearer and more natural Swedish phrasing for the deployment effect."
     },
     {
       "Key": "Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "Misslyckas aldrig med Disciplintest, f?rlorar D3 s?r vid f?rlorad strid.",
-      "Comment": ""
+      "Translation": "Misslyckas aldrig med disciplinprov, förlorar D3 sår i en förlorad strid.",
+      "Comment": "This is more natural and easier to read."
     },
     {
       "Key": "Favoured by War. Unit has Frenzy (re-roll failed Attack Rolls in the first round of combat).",
@@ -358,8 +358,8 @@
     },
     {
       "Key": "Favoured by Trickery. Unit has Ambush Deployment and +1 Move Speed",
-      "Translation": "Gynnad av List. Enheten har Bakh?llsplacering och +1 R?relsehastighet",
-      "Comment": ""
+      "Translation": "Gynnad av list. Enheten har bakhållsplacering och +1 rörelsehastighet",
+      "Comment": "The revised wording is more natural and consistent with the rest of the file."
     },
     {
       "Key": "Favoured by Decay. +1 Wounds. -1 Move Speed.",
@@ -368,8 +368,8 @@
     },
     {
       "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.",
-      "Translation": "En g?ng per strid sl?r alla v?nliga enheter med F?rfallets g?va om misslyckade Skyddskast.",
-      "Comment": ""
+      "Translation": "En gång per strid slår alla vänliga enheter med Förfallens gåva om misslyckade skyddskast.",
+      "Comment": "This reads more smoothly and keeps the fantasy terminology consistent."
     },
     {
       "Key": "Once per battle, all friendly units with Gift of Trickery gain +3 move speed and Cover for one turn.",
@@ -533,8 +533,8 @@
     },
     {
       "Key": "Target Warmachine gets +3 Defense and rerolls 1s on Ranged Attack rolls this battle.",
-      "Translation": "Den valda krigsmaskinen f?r +3 F?rsvar och sl?r om 1:or p? Avst?ndsattackslag denna strid.",
-      "Comment": ""
+      "Translation": "Målenheten, en krigsmaskin, får +3 försvar och slår om 1:or på avståndsattackslag i denna strid.",
+      "Comment": "The revised phrasing is clearer and more natural in Swedish."
     },
     {
       "Key": "Caster and retinue gains Flying and Move Speed 30 for one turn",
@@ -563,8 +563,8 @@
     },
     {
       "Key": "All enemy units have -3 Discipline for one turn. Can only be  activated when damaged.",
-      "Translation": "Alla fiendeenheter har -3 Disciplin under en omg?ng. Kan endast  aktiveras n?r enheten skadas.",
-      "Comment": ""
+      "Translation": "Alla fiendeenheter har -3 disciplin under en omgång. Kan endast aktiveras när de är skadade.",
+      "Comment": "This reads more naturally and removes a small awkwardness."
     },
     {
       "Key": "Range: 3. Power 3.",
@@ -603,8 +603,8 @@
     },
     {
       "Key": "Once per battle, all friendly units with Gift of War gain Deadly Strikes (3x Wounds caused).",
-      "Translation": "En g?ng per strid f?r alla v?nliga enheter med Krigets g?va D?dliga slag (orsakar 3x s?r).",
-      "Comment": ""
+      "Translation": "En gång per strid får alla vänliga enheter med Krigets gåva dödliga slag (orsakar 3x sår).",
+      "Comment": "This is more natural and consistent with the game’s tone."
     },
     {
       "Key": "+1 Power, +1 Attack",

@@ -3,17 +3,17 @@
   "Translations": [
     {
       "Key": "Elven Conclaves",
-      "Translation": "Alvkonklaver",
+      "Translation": "Alviska Konklavererna",
       "Comment": "A more natural Swedish fantasy title for the faction name."
     },
     {
       "Key": "Elf Spears",
-      "Translation": "Alvspjutmän",
+      "Translation": "Alviska Spjutmän",
       "Comment": "A compact and martial Swedish term for a spear unit."
     },
     {
       "Key": "Elf City Guard",
-      "Translation": "Alvstadsvakt",
+      "Translation": "Alvisk Stadsvakt",
       "Comment": "The Swedish form is simpler and more idiomatic."
     },
     {
@@ -28,22 +28,22 @@
     },
     {
       "Key": "Elf Watchers",
-      "Translation": "Alvväktare",
+      "Translation": "Alviska Spejare",
       "Comment": "A concise and elegant translation."
     },
     {
       "Key": "Elf Bolt Thrower",
-      "Translation": "Alvboltkastare",
+      "Translation": "Alvisk Boltkastare",
       "Comment": "The compound reads more naturally in Swedish."
     },
     {
       "Key": "Elf Lancers",
-      "Translation": "Alvlansryttare",
+      "Translation": "Alviska Lansryttare",
       "Comment": "The term keeps the noble cavalry feel."
     },
     {
       "Key": "Elf Reavers",
-      "Translation": "Alvplundrare",
+      "Translation": "Alviska Berdidna Spejare",
       "Comment": "This is concise and fits the martial tone."
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "Key": "Elf Noble",
-      "Translation": "Alvadelsman",
+      "Translation": "Alvisk Adelsman",
       "Comment": "The Swedish wording is more natural and compact."
     },
     {

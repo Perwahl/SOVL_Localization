@@ -75,7 +75,7 @@
       "Key": "Treefeller",
       "Translation": "树木杀手",
       "Comment": "Title for defeating tree creatures/monsters"
-    }
+    },
     {
       "Key": "Felled 1 tree monster.",
       "Translation": "砍倒了1个树木怪物。",
@@ -150,7 +150,7 @@
       "Key": "Rolled 1 one (33 % of all rolls).",
       "Translation": "掷出了1个一点（占总掷骰的33%）。",
       "Comment": "Dice roll achievement - rolling ones is unlucky"
-    }
+    },
     {
       "Key": "Last Man Standing",
       "Translation": "最后的战士",
@@ -225,7 +225,7 @@
       "Key": "Demon Hunters",
       "Translation": "恶魔猎人们",
       "Comment": "Plural form"
-    }
+    },
     {
       "Key": "Duelists",
       "Translation": "决斗者们",
@@ -300,7 +300,7 @@
       "Key": "Slain 3 greater demons.",
       "Translation": "杀死了3个高阶恶魔。",
       "Comment": "Higher tier achievement"
-    }
+    },
     {
       "Key": "Killed 3 Commanders.",
       "Translation": "击杀了3个指挥官。",

@@ -3,12 +3,12 @@
   "Translations": [
     {
       "Key": "Empires of Men",
-      "Translation": "Människornas riken",
+      "Translation": "Människornas Riken",
       "Comment": "A more natural Swedish faction title with a broad, imperial feel."
     },
     {
       "Key": "Imperial Sword",
-      "Translation": "Kejsarliga svärdsmän",
+      "Translation": "Kejserliga Svärdsmän",
       "Comment": "The Swedish phrasing is more natural and makes the unit feel more grounded."
     },
     {
@@ -18,53 +18,53 @@
     },
     {
       "Key": "Imperial Halberd",
-      "Translation": "Kejsarliga hillebardister",
+      "Translation": "Kejserliga Hillebardister",
       "Comment": "The wording is clear and suits the disciplined imperial tone."
     },
     {
       "Key": "Imperial Spear",
-      "Translation": "Kejsarliga spjutmän",
+      "Translation": "Kejserliga Spjutmän",
       "Comment": "A straightforward and suitable unit name."
     },
     {
       "Key": "Imperial Knights",
-      "Translation": "Kejsarliga riddare",
+      "Translation": "Kejserliga Riddare",
       "Comment": "The translation is strong and fits the faction well."
     },
     {
       "Key": "Imperial Light Cavalry",
-      "Translation": "Kejsarligt lätt kavalleri",
+      "Translation": "Kejserligt Lätt Kavalleri",
       "Comment": "The phrasing is natural and maintains the military register."
     },
     {
       "Key": "Imperial Archers",
-      "Translation": "Kejsarliga bågskyttar",
+      "Translation": "Kejserliga Bågskyttar",
       "Comment": "This is crisp and appropriate for a disciplined infantry unit."
     },
     {
       "Key": "Imperial Crossbowmen",
-      "Translation": "Kejsarliga armborstskyttar",
+      "Translation": "Kejserliga Armborstskyttar",
       "Comment": "The terminology is clean and easy to read in-game."
     },
     {
       "Key": "Imperial Handguns",
-      "Translation": "Kejsarliga handeldvapen",
+      "Translation": "Kejserliga Handeldvapen",
       "Comment": "This feels more natural and cohesive than the earlier literal wording."
     },
     {
       "Key": "Imperial Cannon",
-      "Translation": "Kejsarlig kanon",
+      "Translation": "Kejserlig Kanon",
       "Comment": "A strong, simple translation that suits the unit type."
     },
     {
       "Key": "Imperial Mortar",
-      "Translation": "Kejsarlig granatkastare",
+      "Translation": "Kejserlig Granatkastare",
       "Comment": "The Swedish term is clear and appropriate for a siege weapon."
     },
     {
       "Key": "Imperial Dreadnought",
-      "Translation": "Kejsarlig Dreadnought",
-      "Comment": "Kept Dreadnought in English as the standard model name."
+      "Translation": "Kejserlig Kolloss",
+      "Comment": ""
     },
     {
       "Key": "Gryphon",
@@ -73,7 +73,7 @@
     },
     {
       "Key": "Imperial Dragon",
-      "Translation": "Kejsarlig drake",
+      "Translation": "Kejserlig Drake",
       "Comment": "A solid fantasy-friendly translation."
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "Key": "Imperial Wizard",
-      "Translation": "Kejsarlig trollkarl",
+      "Translation": "Kejserlig Trollkarl",
       "Comment": "The wording is clear and works well in a high-fantasy setting."
     }
   ]

@@ -3,7 +3,7 @@
   "Translations": [
     {
       "Key": "Abyssal Legions",
-      "Translation": "Abyssala legioner",
+      "Translation": "Avgrundens Legioner",
       "Comment": "The faction name sounds more natural in Swedish when treated as a proper military formation."
     },
     {
@@ -13,12 +13,12 @@
     },
     {
       "Key": "Abyssal Warriors",
-      "Translation": "Abyssala krigare",
+      "Translation": "Avgrundskrigare",
       "Comment": "A straightforward and fitting unit name for the faction."
     },
     {
       "Key": "Dragon Spawn",
-      "Translation": "Drakungar",
+      "Translation": "Drakyngel",
       "Comment": "The Swedish term feels more vivid and compact for a monstrous unit."
     },
     {
@@ -28,22 +28,22 @@
     },
     {
       "Key": "Abyssal Knights",
-      "Translation": "Abyssala riddare",
+      "Translation": "Avgrundsriddare",
       "Comment": "The phrasing keeps the noble and infernal tone without sounding awkward."
     },
     {
       "Key": "Abyssal Hounds",
-      "Translation": "Abyssala hundar",
+      "Translation": "Avgrundshundar",
       "Comment": "A simple and effective translation for a beastly unit."
     },
     {
       "Key": "Abyssal Chariot",
-      "Translation": "Abyssalstridsvagn",
+      "Translation": "Avgrundsstridsvagn",
       "Comment": "This blends naturally with Swedish unit naming conventions."
     },
     {
       "Key": "Archdevil",
-      "Translation": "Archdevil",
+      "Translation": "Ärkedjävul",
       "Comment": "Kept in English as the established proper unit title."
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "Key": "Abyssal Dragon",
-      "Translation": "Abyssaldrake",
+      "Translation": "Avgrundsdrake",
       "Comment": "This is more natural in Swedish than the earlier literal construction."
     },
     {
@@ -68,17 +68,17 @@
     },
     {
       "Key": "Abyssal Champion",
-      "Translation": "Abyssal kämpe",
+      "Translation": "Avgrundskämpe",
       "Comment": "A slightly more natural Swedish title for a mighty champion."
     },
     {
       "Key": "Abyssal Sorcerer",
-      "Translation": "Abyssal trollkarl",
+      "Translation": "Avgrundstrollkarl",
       "Comment": "This keeps the dark magical feel without sounding overly literal."
     },
     {
       "Key": "Northmen Packleader",
-      "Translation": "Nordmännens flockledare",
+      "Translation": "Nordmännens Flockledare",
       "Comment": "A more idiomatic Swedish phrase for a leader of a warband."
     }
   ]

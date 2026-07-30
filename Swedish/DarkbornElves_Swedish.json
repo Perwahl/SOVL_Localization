@@ -3,17 +3,17 @@
   "Translations": [
     {
       "Key": "Darkborn Elves",
-      "Translation": "Mörkalver",
+      "Translation": "Mörkalverna",
       "Comment": "A more natural Swedish fantasy term for the faction name."
     },
     {
       "Key": "Darkborn Spears",
-      "Translation": "Mörka spjutmän",
+      "Translation": "Mörka Spjutmän",
       "Comment": "This sounds more natural and martial than the earlier literal rendering."
     },
     {
       "Key": "Darkborn Dreadguard",
-      "Translation": "Mörka skräckvakter",
+      "Translation": "Mörka Skräckvakter",  
       "Comment": "The tone is more forceful and suits the faction’s ominous style."
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "Key": "Darkborn Crossbows",
-      "Translation": "Mörka armborstskyttar",
+      "Translation": "Mörka Armborstskyttar",
       "Comment": "This reads more naturally as a unit name."
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "Key": "Darkborn Boltthrower",
-      "Translation": "Mörk boltkastare",
+      "Translation": "Mörk Boltkastare",
       "Comment": "The Swedish wording is cleaner and fits the weapon unit style."
     },
     {
@@ -43,12 +43,12 @@
     },
     {
       "Key": "Darkborn Riders",
-      "Translation": "Mörka ryttare",
+      "Translation": "Mörka Ryttare",
       "Comment": "A natural and compact cavalry-style unit name."
     },
     {
       "Key": "Darkborn Chariot",
-      "Translation": "Mörk stridsvagn",
+      "Translation": "Mörk Stridsvagn",
       "Comment": "The term is clearer and fits the fantasy war-game tone."
     },
     {
@@ -63,27 +63,27 @@
     },
     {
       "Key": "Black Dragon",
-      "Translation": "Svart drake",
+      "Translation": "Skuggdrake",
       "Comment": "A strong and straightforward fantasy translation."
     },
     {
       "Key": "Dark Pegasus",
-      "Translation": "Mörk pegasus",
+      "Translation": "Mörk Pegasus",
       "Comment": "The Swedish form is simple and keeps the creature name intact."
     },
     {
       "Key": "Darkborn Noble",
-      "Translation": "Mörk adelsman",
+      "Translation": "Mörk Adelsman",
       "Comment": "The noun feels more natural in Swedish than the earlier construction."
     },
     {
       "Key": "Darkborn Priestess",
-      "Translation": "Mörk prästdotter",
+      "Translation": "Mörk Prästdotter",
       "Comment": "A more evocative and slightly more fantasy-appropriate phrasing."
     },
     {
       "Key": "Darkborn Assassin",
-      "Translation": "Mörk lönnmördare",
+      "Translation": "Mörk Lönnmördare",
       "Comment": "The new wording sounds more natural and fits the dark tone."
     }
   ]

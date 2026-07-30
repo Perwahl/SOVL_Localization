@@ -100,7 +100,7 @@
       "Key": "Weapon Enchantments",
       "Translation": "武器の魔法",
       "Comment": "Game rules terminology"
-    }
+    },
     {
       "Key": "Heart Seeker",
       "Translation": "心臓狙い",
@@ -200,7 +200,7 @@
       "Key": "Multiplayer",
       "Translation": "マルチプレイ",
       "Comment": "Game mode"
-    }
+    },
     {
       "Key": "Ranked",
       "Translation": "ランク戦",
@@ -300,7 +300,7 @@
       "Key": "Small",
       "Translation": "小",
       "Comment": "Map size"
-    }
+    },
     {
       "Key": "Random Map",
       "Translation": "",
@@ -395,7 +395,7 @@
       "Key": "TBD",
       "Translation": "未定",
       "Comment": "To Be Determined"
-    }
+    },
     {
       "Key": "The End",
       "Translation": "終わり",
@@ -495,7 +495,7 @@
       "Key": "Recruit",
       "Translation": "徴募",
       "Comment": "Unit recruitment"
-    }
+    },
     {
       "Key": "Searching.",
       "Translation": "検索中.",
@@ -595,7 +595,7 @@
       "Key": "Contested",
       "Translation": "競争中",
       "Comment": "Control point status"
-    }
+    },
     {
       "Key": "Claimed",
       "Translation": "確保",
@@ -690,7 +690,7 @@
       "Key": "The lost regiment is found! Some soldiers are missing, but those who remain have strenghtened resolve.",
       "Translation": "失われた連隊が見つかりました!何人かの兵士が行方不明ですが、残った者たちの決意は強くなっています。",
       "Comment": "Campaign event - positive outcome"
-    }
+    },
     {
       "Key": "v",
       "Translation": "v",
@@ -790,7 +790,7 @@
       "Key": "</color> in Act",
       "Translation": "</color> in Act",
       "Comment": "Keep html formatting"
-    }
+    },
     {
       "Key": "Great Weapon <color=#B3F333>+1",
       "Translation": "大武器 <color=#B3F333>+1",
@@ -895,7 +895,7 @@
       "Key": "No Charges, Skipping Phase",
       "Translation": "突撃なし、フェーズをスキップ",
       "Comment": ""
-    }
+    },
     {
       "Key": "Really Skip?",
       "Translation": "本当にスキップしますか?",
@@ -1095,7 +1095,7 @@
       "Key": "Turns Left",
       "Translation": "残りターン",
       "Comment": ""
-    }
+    },
     {
       "Key": "Survive!",
       "Translation": "生き残れ!",
@@ -1195,7 +1195,7 @@
       "Key": "Battle Over",
       "Translation": "戦闘終了",
       "Comment": ""
-    }
+    },
     {
       "Key": "- Scoring Objectives -",
       "Translation": "- 目標スコア計算 -",
@@ -1295,7 +1295,7 @@
       "Key": "Army View",
       "Translation": "軍団ビュー",
       "Comment": ""
-    }
+    },
     {
       "Key": "Asassination complete. Claim your reward!",
       "Translation": "暗殺完了。褒賞を受け取ってください!",
@@ -1395,7 +1395,7 @@
       "Key": "Units Hired",
       "Translation": "雇用したユニット",
       "Comment": "Campaign statistic"
-    }
+    },
     {
       "Key": "...but more challenges await.",
       "Translation": "...だがさらなる試練が待ち受けている。",
@@ -1495,7 +1495,7 @@
       "Key": "Rest / Loot",
       "Translation": "休息 / 戦利品",
       "Comment": "Camp action"
-    }
+    },
     {
       "Key": "OR",
       "Translation": "または",
@@ -1595,7 +1595,7 @@
       "Key": "- Select a Unit -",
       "Translation": "- ユニットを選択 -",
       "Comment": "Selection prompt"
-    }
+    },
     {
       "Key": "Ask for protection.",
       "Translation": "保護を求める。",
@@ -1695,7 +1695,7 @@
       "Key": "Elven City Guard are expensive but skilled fighters.",
       "Translation": "エルフの都市警備兵は高価ですが熟練の戦士です。",
       "Comment": "Unit description"
-    }
+    },
     {
       "Key": "10% of gold income",
       "Translation": "ゴール収入の10%",
@@ -1795,7 +1795,7 @@
       "Key": "Ranged Attack",
       "Translation": "遠距離攻撃",
       "Comment": "Weapon type"
-    }
+    },
     {
       "Key": "Equip",
       "Translation": "装備",
@@ -1895,7 +1895,7 @@
       "Key": "Rest",
       "Translation": "休息",
       "Comment": "Recovery action"
-    }
+    },
     {
       "Key": "Replenish all Units fully.",
       "Translation": "すべてのユニットを完全に補充。",
@@ -2095,7 +2095,7 @@
       "Key": "133pts",
       "Translation": "133ポイント",
       "Comment": "Points cost"
-    }
+    },
     {
       "Key": "Commander Ability",
       "Translation": "指揮官の能力",
@@ -2195,7 +2195,7 @@
       "Key": "Next",
       "Translation": "次へ",
       "Comment": ""
-    }
+    },
     {
       "Key": "Opponent",
       "Translation": "対戦相手",
@@ -2295,7 +2295,7 @@
       "Key": "Cliff",
       "Translation": "崖",
       "Comment": "Terrain type - steep rock face"
-    }
+    },
     {
       "Key": "Lava",
       "Translation": "溶岩",

@@ -3,12 +3,12 @@
   "Translations": [
     {
       "Key": "Abyssal Demons",
-      "Translation": "Abyssala demoner",
+      "Translation": "Avgrundsdemoner",
       "Comment": "A more natural Swedish fantasy title for the faction name."
     },
     {
       "Key": "Abyssal Vipers",
-      "Translation": "Abyssala huggormar",
+      "Translation": "Avgrundshuggormar",
       "Comment": "Kept the aggressive, venomous tone of the original unit name."
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "Key": "Abyssal Reapers",
-      "Translation": "Abyssala skördare",
+      "Translation": "Avgrundsskördare",
       "Comment": "The Swedish wording gives the unit a more menacing, grim tone."
     },
     {
@@ -58,17 +58,17 @@
     },
     {
       "Key": "Archdevil",
-      "Translation": "Archdevil",
+      "Translation": "Ärkedjävul",
       "Comment": "Kept in English as the established proper unit title."
     },
     {
       "Key": "Abyssal Prince",
-      "Translation": "Abyssalprins",
+      "Translation": "Avgrundsprins",
       "Comment": "A compact Swedish compound that preserves the noble, infernal tone."
     },
     {
       "Key": "Abyssal Herald",
-      "Translation": "Abyssalhärold",
+      "Translation": "Avgrundshärold",
       "Comment": "Used a more natural Swedish compound for the heraldic title."
     }
   ]

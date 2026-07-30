@@ -3,7 +3,7 @@
   "Translations": [
     {
       "Key": "Dead Nations",
-      "Translation": "Döda riken",
+      "Translation": "Döda Nationerna",
       "Comment": "A more evocative Swedish faction title with a grim, gothic tone."
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "Key": "Wight Guard",
-      "Translation": "Wightvakt",
+      "Translation": "Gastvakt",
       "Comment": "Kept the creature name as a proper term while making it read more naturally in Swedish."
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "Key": "Fell Bats",
-      "Translation": "Dödsfladdermöss",
+      "Translation": "Jättefladdermöss",
       "Comment": "The phrase feels appropriately grim and sinister."
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "Key": "Wight Lord",
-      "Translation": "Wightherre",
+      "Translation": "Gastherre",
       "Comment": "The revised form reads more naturally in Swedish."
     },
     {

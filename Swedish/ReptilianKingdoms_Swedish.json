@@ -3,17 +3,17 @@
   "Translations": [
     {
       "Key": "Reptilian Kingdoms",
-      "Translation": "Reptiliska riken",
+      "Translation": "Reptilernas Kungadömen",
       "Comment": "A more natural Swedish faction title with a strong fantasy tone."
     },
     {
       "Key": "Saurian Warriors",
-      "Translation": "Saurianska krigare",
+      "Translation": "Saurianska Krigare",
       "Comment": "The wording feels more natural and fits the reptilian theme."
     },
     {
       "Key": "Crocolisk Bruisers",
-      "Translation": "Krokodilska krossare",
+      "Translation": "Krokodilska Krossare",
       "Comment": "A vivid and fitting translation for a brutal melee unit."
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "Key": "Saurian Spear",
-      "Translation": "Saurianska spjutmän",
+      "Translation": "Saurianska Spjutmän",
       "Comment": "The phrasing sounds natural and martial."
     },
     {
@@ -58,8 +58,8 @@
     },
     {
       "Key": "Dreadmaw",
-      "Translation": "Dreadmaw",
-      "Comment": "Kept in English as a creature proper name."
+      "Translation": "Skräcköldla",
+      "Comment": ""
     },
     {
       "Key": "Tyrannosaur",

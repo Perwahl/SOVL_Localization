@@ -3,7 +3,7 @@
   "Translations": [
     {
       "Key": "Greenskin Tribes",
-      "Translation": "Gröna skinnens stammar",
+      "Translation": "Orker och Gobliner",
       "Comment": "A more natural Swedish fantasy title for the faction name."
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "Key": "Orc Brutes",
-      "Translation": "Orkbrutaler",
+      "Translation": "Orkbjässar",
       "Comment": "The tone is rough and fitting for the faction."
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "Key": "Orc Boar Chariot",
-      "Translation": "Orkvildsvinsstridsvagn",
+      "Translation": "Vildsvinsstridsvagn",
       "Comment": "The compound reads well and keeps the feral feel."
     },
     {

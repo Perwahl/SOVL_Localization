@@ -3,7 +3,7 @@
   "Translations": [
     {
       "Key": "Deepwood Guardians",
-      "Translation": "Djupskogens väktare",
+      "Translation": "Djupskogens Väktare",
       "Comment": "A more natural Swedish faction title that preserves the forested, protective tone."
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "Key": "Treant Elder",
-      "Translation": "Trädjättens äldste",
+      "Translation": "Uråldrig Trädjätte",
       "Comment": "The phrase feels more natural and fits the ancient-tree motif."
     }
   ]

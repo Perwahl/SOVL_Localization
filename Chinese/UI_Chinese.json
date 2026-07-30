@@ -105,7 +105,7 @@
       "Key": "Heart Seeker",
       "Translation": "心寻者",
       "Comment": "Specific weapon enchantment name, preserved as fantasy title"
-    }
+    },
     {
       "Key": "Retinues",
       "Translation": "随仁团",
@@ -545,7 +545,7 @@
       "Key": "Back",
       "Translation": "返回",
       "Comment": "Button to go back to previous menu"
-    }
+    },
     {
       "Key": "Cantrips",
       "Translation": "戏法",
@@ -645,7 +645,7 @@
       "Key": "Draw!",
       "Translation": "平局！",
       "Comment": "Battle tie result"
-    }
+    },
     {
       "Key": "joins your army!",
       "Translation": "加入了你的军队！",
@@ -745,7 +745,7 @@
       "Key": "Total Points: <color=#3EFEFF>",
       "Translation": "总分：<color=#3EFEFF>",
       "Comment": "Rich text formatting preserved"
-    }
+    },
     {
       "Key": "Elo:  <color=#3EFEFF>",
       "Translation": "Elo：<color=#3EFEFF>",
@@ -845,7 +845,7 @@
       "Key": "Swift",
       "Translation": "迅速",
       "Comment": "Unit trait - fast moving"
-    }
+    },
     {
       "Key": "Activate",
       "Translation": "激活",
@@ -945,7 +945,7 @@
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor",
       "Translation": "-1移动。忽视重甲的移动惩罚",
       "Comment": "Equipment effect"
-    }
+    },
     {
       "Key": "Guldan the Conqueror",
       "Translation": "征服者古尔丹",
@@ -1045,7 +1045,7 @@
       "Key": "Dwarf Handgunners fire at the Orc Warriors!Dwarf Orc Warriors!Dwarf Handgunners fire at the Orc Warriors!",
       "Translation": "矮人枪手对兽人战士开火！矮人兽人战士！矮人枪手对兽人战士开火！",
       "Comment": "Example/template text - appears to have formatting issue in original"
-    }
+    },
     {
       "Key": "Power <color=#31D3E3><size=133%>3</color> </size>VS Defense <color=#31D3E3><size=133%>3</color> ",
       "Translation": "力量<color=#31D3E3><size=133%>3</color></size>对防御<color=#31D3E3><size=133%>3</color>",
@@ -1145,7 +1145,7 @@
       "Key": "Units always add their rank bonus to Discipline Tests",
       "Translation": "单位总是将他们的等级奖励加入纪律测试中",
       "Comment": "Rules tip"
-    }
+    },
     {
       "Key": "Flank and Rear charges add +1 to Combat Score!",
       "Translation": "侧翼和后方冲锋为战斗分数增加+1！",
@@ -1245,7 +1245,7 @@
       "Key": "Torin Sheildbreaker",
       "Translation": "托林盾破者",
       "Comment": "Character name - translate title part"
-    }
+    },
     {
       "Key": "DESTROYED",
       "Translation": "已摧毁",
@@ -1345,7 +1345,7 @@
       "Key": "Unlocked 1/3",
       "Translation": "已解锁1/3",
       "Comment": "Unlock progress"
-    }
+    },
     {
       "Key": "Your army has been wiped out...\n",
       "Translation": "你的军队被彻底消灭了...\n",
@@ -1445,7 +1445,7 @@
       "Key": "Pick One",
       "Translation": "选择一个",
       "Comment": "Selection prompt"
-    }
+    },
     {
       "Key": "Dwarven Handgunners",
       "Translation": "矮人枪手",
@@ -1545,7 +1545,7 @@
       "Key": "Quest",
       "Translation": "任务",
       "Comment": "Map node type"
-    }
+    },
     {
       "Key": "Recruit Regiment",
       "Translation": "招募团队",
@@ -1645,7 +1645,7 @@
       "Key": "Roll",
       "Translation": "投掷",
       "Comment": "Action button"
-    }
+    },
     {
       "Key": "Some rogue wizards have been spotted in the area. Eliminate them for a reward.",
       "Translation": "该地区发现了一些流浪法师。消灭他们以获得奖励。",
@@ -1745,7 +1745,7 @@
       "Key": "Learn Spell",
       "Translation": "学习法术",
       "Comment": "Action button"
-    }
+    },
     {
       "Key": "A good place to purchase some firepower...",
       "Translation": "一个购买火力的好地方...",
@@ -1845,7 +1845,7 @@
       "Key": "Lady's Prayer",
       "Translation": "女士的祈祷",
       "Comment": "Ability name"
-    }
+    },
     {
       "Key": "Gain the Lady's Blessing for the next 3 battles.\n",
       "Translation": "在接下来的3场战斗中获得女士的祝福。\n",
@@ -1945,7 +1945,7 @@
       "Key": "- Dwarf Warriors",
       "Translation": "- 矮人战士",
       "Comment": "Unit name in list"
-    }
+    },
     {
       "Key": "33 pts",
       "Translation": "33分",
@@ -2045,7 +2045,7 @@
       "Key": "Unnamed List",
       "Translation": "未命名列表",
       "Comment": "Default list name"
-    }
+    },
     {
       "Key": "Screenshot sent to Steam",
       "Translation": "截图已发送到Steam",
@@ -2145,7 +2145,7 @@
       "Key": "<b>Draw<size=30%></color></b>\n",
       "Translation": "<b>平局<size=30%></color></b>\n",
       "Comment": "Battle result - preserve rich text tags"
-    }
+    },
     {
       "Key": "Challenge Level: 3",
       "Translation": "挑战等级：3",
