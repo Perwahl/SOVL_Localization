@@ -3,2377 +3,2377 @@
   "Translations": [
     {
       "Key": "Commanders",
-      "Translation": "",
+      "Translation": "Befälhavare",
       "Comment": ""
     },
     {
       "Key": "Warband",
-      "Translation": "",
+      "Translation": "Krigarskara",
       "Comment": ""
     },
     {
       "Key": "Enter text...",
-      "Translation": "",
+      "Translation": "Skriv text...",
       "Comment": ""
     },
     {
       "Key": "Primary",
-      "Translation": "",
+      "Translation": "Primär",
       "Comment": ""
     },
     {
       "Key": "Secondary",
-      "Translation": "",
+      "Translation": "Sekundär",
       "Comment": ""
     },
     {
       "Key": "Icon Color",
-      "Translation": "",
+      "Translation": "Ikonfärg",
       "Comment": ""
     },
     {
       "Key": " Icon",
-      "Translation": "",
+      "Translation": " Ikon",
       "Comment": ""
     },
     {
       "Key": "Save",
-      "Translation": "",
+      "Translation": "Spara",
       "Comment": ""
     },
     {
       "Key": "Copy",
-      "Translation": "",
+      "Translation": "Kopiera",
       "Comment": ""
     },
     {
       "Key": "Copied list to clipboard",
-      "Translation": "",
+      "Translation": "Listan kopierades till urklipp",
       "Comment": ""
     },
     {
       "Key": "Points:",
-      "Translation": "",
+      "Translation": "Poäng:",
       "Comment": ""
     },
     {
       "Key": "Units:",
-      "Translation": "",
+      "Translation": "Enheter:",
       "Comment": ""
     },
     {
       "Key": "Minimum: 1",
-      "Translation": "",
+      "Translation": "Minst: 1",
       "Comment": ""
     },
     {
       "Key": "Spells",
-      "Translation": "",
+      "Translation": "Besvärjelser",
       "Comment": ""
     },
     {
       "Key": "Weapons",
-      "Translation": "",
+      "Translation": "Vapen",
       "Comment": ""
     },
     {
       "Key": "Banners\n",
-      "Translation": "",
+      "Translation": "Fanor\n",
       "Comment": ""
     },
     {
       "Key": "Items",
-      "Translation": "",
+      "Translation": "Föremål",
       "Comment": ""
     },
     {
       "Key": "Shield,  Light Armor, General",
-      "Translation": "",
+      "Translation": "Sköld, lätt rustning, general",
       "Comment": ""
     },
     {
       "Key": "Remove?",
-      "Translation": "",
+      "Translation": "Ta bort?",
       "Comment": ""
     },
     {
       "Key": "Options",
-      "Translation": "",
+      "Translation": "Alternativ",
       "Comment": ""
     },
     {
       "Key": "Weapon Enchantments",
-      "Translation": "",
+      "Translation": "Vapenförtrollningar",
       "Comment": ""
     },
     {
       "Key": "Heart Seeker",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Hjärtjägare",
+      "Comment": "Keep the in-game terminology consistent."
     },
     {
       "Key": "Retinues",
-      "Translation": "",
+      "Translation": "Följe",
       "Comment": ""
     },
     {
       "Key": "Add Unit",
-      "Translation": "",
+      "Translation": "Lägg till enhet",
       "Comment": ""
     },
     {
       "Key": "Cancel",
-      "Translation": "",
+      "Translation": "Avbryt",
       "Comment": ""
     },
     {
       "Key": "Choose Name...",
-      "Translation": "",
+      "Translation": "Välj namn...",
       "Comment": ""
     },
     {
       "Key": "Effect",
-      "Translation": "",
+      "Translation": "Effekt",
       "Comment": ""
     },
     {
       "Key": "Skill",
-      "Translation": "",
+      "Translation": "Färdighet",
       "Comment": ""
     },
     {
       "Key": "Power",
-      "Translation": "",
+      "Translation": "Styrka",
       "Comment": ""
     },
     {
       "Key": "Defense",
-      "Translation": "",
+      "Translation": "Försvar",
       "Comment": ""
     },
     {
       "Key": "Attacks",
-      "Translation": "",
+      "Translation": "Anfall",
       "Comment": ""
     },
     {
       "Key": "Wounds",
-      "Translation": "",
+      "Translation": "Sår",
       "Comment": ""
     },
     {
       "Key": "Discipline",
-      "Translation": "",
+      "Translation": "Disciplin",
       "Comment": ""
     },
     {
       "Key": "Back to menu?",
-      "Translation": "",
+      "Translation": "Tillbaka till menyn?",
       "Comment": ""
     },
     {
       "Key": "Unsaved changes will be lost",
-      "Translation": "",
+      "Translation": "Osparade ändringar kommer att gå förlorade",
       "Comment": ""
     },
     {
       "Key": "Exit",
-      "Translation": "",
+      "Translation": "Avsluta",
       "Comment": ""
     },
     {
       "Key": "SOVL",
-      "Translation": "",
+      "Translation": "SOVL",
       "Comment": ""
     },
     {
       "Key": "Feedback & Bug Reports",
-      "Translation": "",
+      "Translation": "Feedback och buggrapporter",
       "Comment": ""
     },
     {
       "Key": "Campaign",
-      "Translation": "",
+      "Translation": "Kampanj",
       "Comment": ""
     },
     {
       "Key": "Trail Of Death",
-      "Translation": "",
+      "Translation": "Dödens spår",
       "Comment": ""
     },
     {
       "Key": "Multiplayer",
-      "Translation": "",
+      "Translation": "Flerspelar",
       "Comment": ""
     },
     {
       "Key": "Ranked",
-      "Translation": "",
+      "Translation": "Rankad",
       "Comment": ""
     },
     {
       "Key": "Custom Game",
-      "Translation": "",
+      "Translation": "Anpassat spel",
       "Comment": ""
     },
     {
       "Key": "vs AI",
-      "Translation": "",
+      "Translation": "mot AI",
       "Comment": ""
     },
     {
       "Key": "Army Builder",
-      "Translation": "",
+      "Translation": "Armébyggare",
       "Comment": ""
     },
     {
       "Key": "Settings",
-      "Translation": "",
+      "Translation": "Inställningar",
       "Comment": ""
     },
     {
       "Key": "Replays",
-      "Translation": "",
+      "Translation": "Uppspelningar",
       "Comment": ""
     },
     {
       "Key": "Rules Reference",
-      "Translation": "",
+      "Translation": "Regelreferens",
       "Comment": ""
     },
     {
       "Key": "Feedback",
-      "Translation": "",
+      "Translation": "Feedback",
       "Comment": ""
     },
     {
       "Key": "offline",
-      "Translation": "",
+      "Translation": "offline",
       "Comment": ""
     },
     {
       "Key": "Game Browser",
-      "Translation": "",
+      "Translation": "Spelbläddrare",
       "Comment": ""
     },
     {
       "Key": "Game Name",
-      "Translation": "",
+      "Translation": "Spelnamn",
       "Comment": ""
     },
     {
       "Key": "Create Public Game",
-      "Translation": "",
+      "Translation": "Skapa publikt spel",
       "Comment": ""
     },
     {
       "Key": "Create Private Game",
-      "Translation": "",
+      "Translation": "Skapa privat spel",
       "Comment": ""
     },
     {
       "Key": "Join Game",
-      "Translation": "",
+      "Translation": "Gå med i spel",
       "Comment": ""
     },
     {
       "Key": "Button",
-      "Translation": "",
+      "Translation": "Knapp",
       "Comment": ""
     },
     {
       "Key": "AI Battle",
-      "Translation": "",
+      "Translation": "AI-strid",
       "Comment": ""
     },
     {
       "Key": "Select List",
-      "Translation": "",
+      "Translation": "Välj lista",
       "Comment": ""
     },
     {
       "Key": "-Warband-",
-      "Translation": "",
+      "Translation": "-Krigarskara-",
       "Comment": ""
     },
     {
       "Key": "Start Game\n",
-      "Translation": "",
+      "Translation": "Starta spel\n",
       "Comment": ""
     },
     {
       "Key": "Small",
-      "Translation": "",
+      "Translation": "Liten",
       "Comment": ""
     },
     {
       "Key": "Random Map",
-      "Translation": "",
+      "Translation": "Slumpmässig karta",
       "Comment": ""
     },
     {
       "Key": "Pitched Battle",
-      "Translation": "",
+      "Translation": "Uppgjord strid",
       "Comment": ""
     },
     {
       "Key": "Get on Steam",
-      "Translation": "",
+      "Translation": "Hitta på Steam",
       "Comment": ""
     },
     {
       "Key": "Faction Pack",
-      "Translation": "",
+      "Translation": "Faktionspaket",
       "Comment": ""
     },
     {
       "Key": "Into the Abyss",
-      "Translation": "",
+      "Translation": "Ned i avgrunden",
       "Comment": ""
     },
     {
       "Key": "Edit List",
-      "Translation": "",
+      "Translation": "Redigera lista",
       "Comment": ""
     },
     {
       "Key": "New List",
-      "Translation": "",
+      "Translation": "Ny lista",
       "Comment": ""
     },
     {
       "Key": "Delete List?",
-      "Translation": "",
+      "Translation": "Ta bort lista?",
       "Comment": ""
     },
     {
       "Key": "List Name...",
-      "Translation": "",
+      "Translation": "Listans namn...",
       "Comment": ""
     },
     {
       "Key": "Warband (500pts)",
-      "Translation": "",
+      "Translation": "Krigarskara (500 p)",
       "Comment": ""
     },
     {
       "Key": "Create",
-      "Translation": "",
+      "Translation": "Skapa",
       "Comment": ""
     },
     {
       "Key": "Select a Border Patrol List\n",
-      "Translation": "",
+      "Translation": "Välj en gränspatrullista\n",
       "Comment": ""
     },
     {
       "Key": "Alternate",
-      "Translation": "",
+      "Translation": "Alternativ",
       "Comment": ""
     },
     {
       "Key": "Next:",
-      "Translation": "",
+      "Translation": "Nästa:",
       "Comment": ""
     },
     {
       "Key": "Campaign Unlock",
-      "Translation": "",
+      "Translation": "Kampanjupplåsning",
       "Comment": ""
     },
     {
       "Key": "Start",
-      "Translation": "",
+      "Translation": "Starta",
       "Comment": ""
     },
     {
       "Key": "Reward",
-      "Translation": "",
+      "Translation": "Belöning",
       "Comment": ""
     },
     {
       "Key": "Variant",
-      "Translation": "",
+      "Translation": "Variant",
       "Comment": ""
     },
     {
       "Key": "TBD",
-      "Translation": "",
+      "Translation": "Kommer",
       "Comment": ""
     },
     {
       "Key": "The End",
-      "Translation": "",
+      "Translation": "Slutet",
       "Comment": ""
     },
     {
       "Key": "Harder Bosses",
-      "Translation": "",
+      "Translation": "Svårare bossar",
       "Comment": ""
     },
     {
       "Key": "Enemies Rally",
-      "Translation": "",
+      "Translation": "Fiender samlar sig",
       "Comment": ""
     },
     {
       "Key": "Harder Elites",
-      "Translation": "",
+      "Translation": "Svårare elittrupper",
       "Comment": ""
     },
     {
       "Key": "Smaller Starting Unit",
-      "Translation": "",
+      "Translation": "Mindre startenhet",
       "Comment": ""
     },
     {
       "Key": "Harder Battles",
-      "Translation": "",
+      "Translation": "Svårare strider",
       "Comment": ""
     },
     {
       "Key": "Less Starting Gold",
-      "Translation": "",
+      "Translation": "Mindre startguld",
       "Comment": ""
     },
     {
       "Key": "Challenge Levels",
-      "Translation": "",
+      "Translation": "Utmaningsnivåer",
       "Comment": ""
     },
     {
       "Key": "Resume Ongoing",
-      "Translation": "",
+      "Translation": "Återuppta pågående",
       "Comment": ""
     },
     {
       "Key": "Abandon",
-      "Translation": "",
+      "Translation": "Övergiv",
       "Comment": ""
     },
     {
       "Key": "Really Abandon?",
-      "Translation": "",
+      "Translation": "Vill du verkligen överge?",
       "Comment": ""
     },
     {
       "Key": "Ranked Multiplayer",
-      "Translation": "",
+      "Translation": "Rankad flerspelare",
       "Comment": ""
     },
     {
       "Key": "Rating:",
-      "Translation": "",
+      "Translation": "Ranking:",
       "Comment": ""
     },
     {
       "Key": "Points",
-      "Translation": "",
+      "Translation": "Poäng",
       "Comment": ""
     },
     {
       "Key": "Elo",
-      "Translation": "",
+      "Translation": "Elo",
       "Comment": ""
     },
     {
       "Key": "Top Ranked Players",
-      "Translation": "",
+      "Translation": "Bästa rankade spelare",
       "Comment": ""
     },
     {
       "Key": "Match History",
-      "Translation": "",
+      "Translation": "Matchhistorik",
       "Comment": ""
     },
     {
       "Key": "Find Match",
-      "Translation": "",
+      "Translation": "Hitta match",
       "Comment": ""
     },
     {
       "Key": "Stats",
-      "Translation": "",
+      "Translation": "Statistik",
       "Comment": ""
     },
     {
       "Key": "Recruit",
-      "Translation": "",
+      "Translation": "Rekrytera",
       "Comment": ""
     },
     {
       "Key": "Searching.",
-      "Translation": "",
+      "Translation": "Söker.",
       "Comment": ""
     },
     {
       "Key": "Factions",
-      "Translation": "",
+      "Translation": "Faktioner",
       "Comment": ""
     },
     {
       "Key": "Units Played",
-      "Translation": "",
+      "Translation": "Spelade enheter",
       "Comment": ""
     },
     {
       "Key": "Full Screen",
-      "Translation": "",
+      "Translation": "Helskärm",
       "Comment": ""
     },
     {
       "Key": "Audio Volume",
-      "Translation": "",
+      "Translation": "Ljudvolym",
       "Comment": ""
     },
     {
       "Key": "Window Size",
-      "Translation": "",
+      "Translation": "Fönsterstorlek",
       "Comment": ""
     },
     {
       "Key": "Music",
-      "Translation": "",
+      "Translation": "Musik",
       "Comment": ""
     },
     {
       "Key": "Camera Shake",
-      "Translation": "",
+      "Translation": "Kameraskakning",
       "Comment": ""
     },
     {
       "Key": "Unit Icon Zoom Distance",
-      "Translation": "",
+      "Translation": "Avstånd för enhetsikonszoom",
       "Comment": ""
     },
     {
       "Key": "Back",
-      "Translation": "",
+      "Translation": "Tillbaka",
       "Comment": ""
     },
     {
       "Key": "Cantrips",
-      "Translation": "",
+      "Translation": "Besvärjelser",
       "Comment": ""
     },
     {
       "Key": "Banners",
-      "Translation": "",
+      "Translation": "Fanor",
       "Comment": ""
     },
     {
       "Key": "Item Enchantments",
-      "Translation": "",
+      "Translation": "Föremålsförtrollningar",
       "Comment": ""
     },
     {
       "Key": "DLC Commander",
-      "Translation": "",
+      "Translation": "DLC-befälhavare",
       "Comment": ""
     },
     {
       "Key": "Unlocked!",
-      "Translation": "",
+      "Translation": "Upplåst!",
       "Comment": ""
     },
     {
       "Key": "Final Turn!",
-      "Translation": "",
+      "Translation": "Sista omgången!",
       "Comment": ""
     },
     {
       "Key": "- Defeat the enemy Army -",
-      "Translation": "",
+      "Translation": "- Besegra fiendens armé -",
       "Comment": ""
     },
     {
       "Key": "- Survive for 3 Turns -",
-      "Translation": "",
+      "Translation": "- Överlev i 3 omgångar -",
       "Comment": ""
     },
     {
       "Key": "Unclaimed",
-      "Translation": "",
+      "Translation": "Obesatt",
       "Comment": ""
     },
     {
       "Key": "Contested",
-      "Translation": "",
+      "Translation": "Omstritt",
       "Comment": ""
     },
     {
       "Key": "Claimed",
-      "Translation": "",
+      "Translation": "Anspråkt",
       "Comment": ""
     },
     {
       "Key": "Opponents",
-      "Translation": "",
+      "Translation": "Motståndare",
       "Comment": ""
     },
     {
       "Key": "(New difficulty unlocked)",
-      "Translation": "",
+      "Translation": "(Ny svårighetsgrad upplåst)",
       "Comment": ""
     },
     {
       "Key": "...can you finally rest?",
-      "Translation": "",
+      "Translation": "...kan du äntligen vila?",
       "Comment": ""
     },
     {
       "Key": "...but more challenges await",
-      "Translation": "",
+      "Translation": "...men fler utmaningar väntar",
       "Comment": ""
     },
     {
       "Key": "0 pts",
-      "Translation": "",
+      "Translation": "0 p",
       "Comment": ""
     },
     {
       "Key": "Opponent Disconnected",
-      "Translation": "",
+      "Translation": "Motståndaren kopplade från",
       "Comment": ""
     },
     {
       "Key": "Defeat",
-      "Translation": "",
+      "Translation": "Nederlag",
       "Comment": ""
     },
     {
       "Key": "Victory!",
-      "Translation": "",
+      "Translation": "Seger!",
       "Comment": ""
     },
     {
       "Key": "Draw!",
-      "Translation": "",
+      "Translation": "Oavgjort!",
       "Comment": ""
     },
     {
       "Key": "joins your army!",
-      "Translation": "",
+      "Translation": "ansluter sig till din armé!",
       "Comment": ""
     },
     {
       "Key": "A Foe Joins You",
-      "Translation": "",
+      "Translation": "En fiende ansluter sig till dig",
       "Comment": ""
     },
     {
       "Key": "Your commander gains a level!",
-      "Translation": "",
+      "Translation": "Din befälhavare går upp en nivå!",
       "Comment": ""
     },
     {
       "Key": "Target Eliminated",
-      "Translation": "",
+      "Translation": "Mål eliminerat",
       "Comment": ""
     },
     {
       "Key": "Assassination complete. Claim your bounty!",
-      "Translation": "",
+      "Translation": "Mordet är klart. Ta din belöning!",
       "Comment": ""
     },
     {
       "Key": "1% gold income",
-      "Translation": "",
+      "Translation": "1 % guldinkomst",
       "Comment": ""
     },
     {
       "Key": "3% gold income",
-      "Translation": "",
+      "Translation": "3 % guldinkomst",
       "Comment": ""
     },
     {
       "Key": "Your regiment returns in the morning. But something has changed them...",
-      "Translation": "",
+      "Translation": "Ditt regemente återvänder om morgonen. Men något har förändrat dem...",
       "Comment": ""
     },
     {
       "Key": "The lost regiment is found! Some soldiers are missing, but those who remain have strenghtened resolve.",
-      "Translation": "",
+      "Translation": "Det förlorade regementet har hittats! Några soldater saknas, men de som återstår har stärkts i sin beslutsamhet.",
       "Comment": ""
     },
     {
       "Key": "v",
-      "Translation": "",
+      "Translation": "v",
       "Comment": ""
     },
     {
       "Key": "x",
-      "Translation": "",
+      "Translation": "x",
       "Comment": ""
     },
     {
       "Key": "pts",
-      "Translation": "",
+      "Translation": "p",
       "Comment": ""
     },
     {
       "Key": "Battles:",
-      "Translation": "",
+      "Translation": "Strider:",
       "Comment": ""
     },
     {
       "Key": "Points Earned:",
-      "Translation": "",
+      "Translation": "Poäng tjänade:",
       "Comment": ""
     },
     {
       "Key": "W/L:",
-      "Translation": "",
+      "Translation": "V/F:",
       "Comment": ""
     },
     {
       "Key": "Enemies Killed:",
-      "Translation": "",
+      "Translation": "Fiender dödade:",
       "Comment": ""
     },
     {
       "Key": "<b>Draw<size=30%></color></b>\\n",
-      "Translation": "",
+      "Translation": "<b>Oavgjort<size=30%></color></b>\\n",
       "Comment": ""
     },
     {
       "Key": "Win <size=30%><color=green>+",
-      "Translation": "",
+      "Translation": "Seger <size=30%><color=green>+",
       "Comment": ""
     },
     {
       "Key": "Loss <size=30%>",
-      "Translation": "",
+      "Translation": "Förlust <size=30%>",
       "Comment": ""
     },
     {
       "Key": "Total Points: <color=#3EFEFF>",
-      "Translation": "",
+      "Translation": "Totalt antal poäng: <color=#3EFEFF>",
       "Comment": ""
     },
     {
       "Key": "Elo:  <color=#3EFEFF>",
-      "Translation": "",
+      "Translation": "Elo:  <color=#3EFEFF>",
       "Comment": ""
     },
     {
       "Key": "Restored 1 wound",
-      "Translation": "",
+      "Translation": "Återställde 1 sår",
       "Comment": ""
     },
     {
       "Key": "Restored 3 wounds",
-      "Translation": "",
+      "Translation": "Återställde 3 sår",
       "Comment": ""
     },
     {
       "Key": "Replenished 1 model",
-      "Translation": "",
+      "Translation": "Återställde 1 modell",
       "Comment": ""
     },
     {
       "Key": "Replenished 3 models",
-      "Translation": "",
+      "Translation": "Påfyllde 3 modeller",
       "Comment": ""
     },
     {
       "Key": "1 XP",
-      "Translation": "",
+      "Translation": "1 XP",
       "Comment": ""
     },
     {
       "Key": "3 XP",
-      "Translation": "",
+      "Translation": "3 XP",
       "Comment": ""
     },
     {
       "Key": "Defeated by <color=#FFDF3C>",
-      "Translation": "",
+      "Translation": "Besegrad av <color=#FFDF3C>",
       "Comment": ""
     },
     {
       "Key": "</color> in Act",
-      "Translation": "",
+      "Translation": "</color> i akt",
       "Comment": ""
     },
     {
       "Key": "Great Weapon <color=#B3F333>+1",
-      "Translation": "",
+      "Translation": "Stort vapen <color=#B3F333>+1",
       "Comment": ""
     },
     {
       "Key": "Menu",
-      "Translation": "",
+      "Translation": "Meny",
       "Comment": ""
     },
     {
       "Key": "- Deployment Phase -",
-      "Translation": "",
+      "Translation": "- Uppställningsfas -",
       "Comment": ""
     },
     {
       "Key": "No Combats, Skipping Phase",
-      "Translation": "",
+      "Translation": "Inga strider, hoppar över fasen",
       "Comment": ""
     },
     {
       "Key": "- Charge Phase -",
-      "Translation": "",
+      "Translation": "- Anfallsfas -",
       "Comment": ""
     },
     {
       "Key": "- Strategic Phase -",
-      "Translation": "",
+      "Translation": "- Strategisk fas -",
       "Comment": ""
     },
     {
       "Key": "- Combat Phase -",
-      "Translation": "",
+      "Translation": "- Stridsfas -",
       "Comment": ""
     },
     {
       "Key": "Turn",
-      "Translation": "",
+      "Translation": "Omgång",
       "Comment": ""
     },
     {
       "Key": "You have first activation this phase.",
-      "Translation": "",
+      "Translation": "Du har den första aktiveringen i denna fas.",
       "Comment": ""
     },
     {
       "Key": "Opponent has first activation this phase.",
-      "Translation": "",
+      "Translation": "Motståndaren har den första aktiveringen i denna fas.",
       "Comment": ""
     },
     {
       "Key": "Swift",
-      "Translation": "",
+      "Translation": "Snabb",
       "Comment": ""
     },
     {
       "Key": "Activate",
-      "Translation": "",
+      "Translation": "Aktivera",
       "Comment": ""
     },
     {
       "Key": "Waiting for opponent...",
-      "Translation": "",
+      "Translation": "Väntar på motståndaren...",
       "Comment": ""
     },
     {
       "Key": "Ready",
-      "Translation": "",
+      "Translation": "Redo",
       "Comment": ""
     },
     {
       "Key": "Opponent starts",
-      "Translation": "",
+      "Translation": "Motståndaren börjar",
       "Comment": ""
     },
     {
       "Key": "I start",
-      "Translation": "",
+      "Translation": "Jag börjar",
       "Comment": ""
     },
     {
       "Key": "Skip Phase",
-      "Translation": "",
+      "Translation": "Hoppa över fas",
       "Comment": ""
     },
     {
       "Key": "- Opponents Turn -",
-      "Translation": "",
+      "Translation": "- Motståndarens tur -",
       "Comment": ""
     },
     {
       "Key": "Declare a Charge",
-      "Translation": "",
+      "Translation": "Förklara anfall",
       "Comment": ""
     },
     {
       "Key": "Charge Reaction",
-      "Translation": "",
+      "Translation": "Anfallsreaktion",
       "Comment": ""
     },
     {
       "Key": "No Charges, Skipping Phase",
-      "Translation": "",
+      "Translation": "Inga anfall, hoppar över fasen",
       "Comment": ""
     },
     {
       "Key": "Really Skip?",
-      "Translation": "",
+      "Translation": "Vill du verkligen hoppa över?",
       "Comment": ""
     },
     {
       "Key": "Pass",
-      "Translation": "",
+      "Translation": "Passa",
       "Comment": ""
     },
     {
       "Key": "- Activate a Unit - ",
-      "Translation": "",
+      "Translation": "- Aktivera en enhet - ",
       "Comment": ""
     },
     {
       "Key": "Unit Active. \n",
-      "Translation": "",
+      "Translation": "Enhet aktiv. \n",
       "Comment": ""
     },
     {
       "Key": "Done",
-      "Translation": "",
+      "Translation": "Klar",
       "Comment": ""
     },
     {
       "Key": "-Moving-",
-      "Translation": "",
+      "Translation": "-Rör sig-",
       "Comment": ""
     },
     {
       "Key": "Right Click: Undo Step",
-      "Translation": "",
+      "Translation": "Högerklicka: Ångra steg",
       "Comment": ""
     },
     {
       "Key": "Double Click: Execute Move.",
-      "Translation": "",
+      "Translation": "Dubbelklicka: Utför förflyttning.",
       "Comment": ""
     },
     {
       "Key": "Greatweapon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Stort vapen",
+      "Comment": "Keep the in-game terminology consistent."
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor",
-      "Translation": "",
+      "Translation": "-1 rörelse. Ignorera rörelsestraffet från tung rustning",
       "Comment": ""
     },
     {
       "Key": "Guldan the Conqueror",
-      "Translation": "",
+      "Translation": "Guldan erövraren",
       "Comment": ""
     },
     {
       "Key": "Greatweapon and Shield, ",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Stort vapen och sköld, ",
+      "Comment": "Keep the in-game terminology consistent."
     },
     {
       "Key": "Greatweapon +1",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Stort vapen +1",
+      "Comment": "Keep the in-game terminology consistent."
     },
     {
       "Key": "3 Units",
-      "Translation": "",
+      "Translation": "3 enheter",
       "Comment": ""
     },
     {
       "Key": "VS",
-      "Translation": "",
+      "Translation": "mot",
       "Comment": ""
     },
     {
       "Key": "Goblin Wolf Riders",
-      "Translation": "",
+      "Translation": "Goblinvargryttare",
       "Comment": ""
     },
     {
       "Key": "Attack Roll",
-      "Translation": "",
+      "Translation": "Anfallsrullning",
       "Comment": ""
     },
     {
       "Key": "Flanks:",
-      "Translation": "",
+      "Translation": "Flanker:",
       "Comment": ""
     },
     {
       "Key": "Rear:",
-      "Translation": "",
+      "Translation": "Bakre:",
       "Comment": ""
     },
     {
       "Key": "Bonus:",
-      "Translation": "",
+      "Translation": "Bonus:",
       "Comment": ""
     },
     {
       "Key": "Kills:",
-      "Translation": "",
+      "Translation": "Dödade:",
       "Comment": ""
     },
     {
       "Key": "Rank Bonus:",
-      "Translation": "",
+      "Translation": "Ranksbonus:",
       "Comment": ""
     },
     {
       "Key": "Damage Save",
-      "Translation": "",
+      "Translation": "Skadespar",
       "Comment": ""
     },
     {
       "Key": "Opponent:",
-      "Translation": "",
+      "Translation": "Motståndare:",
       "Comment": ""
     },
     {
       "Key": "<color=#31D3E3>3+ <size=33%></color> To Save",
-      "Translation": "",
+      "Translation": "<color=#31D3E3>3+ <size=33%></color> att spara",
       "Comment": ""
     },
     {
       "Key": "Reroll Failures",
-      "Translation": "",
+      "Translation": "Slå om missar",
       "Comment": ""
     },
     {
       "Key": "Blaha vs Blaha",
-      "Translation": "",
+      "Translation": "Blaha mot Blaha",
       "Comment": ""
     },
     {
       "Key": "<color=#30F3FF> 3x</color> Auto Hits",
-      "Translation": "",
+      "Translation": "<color=#30F3FF> 3x</color> automatiska träffar",
       "Comment": ""
     },
     {
       "Key": "Event Panel",
-      "Translation": "",
+      "Translation": "Händelsepanel",
       "Comment": ""
     },
     {
       "Key": "Dwarf Handgunners fire at the Orc Warriors!Dwarf Orc Warriors!Dwarf Handgunners fire at the Orc Warriors!",
-      "Translation": "",
+      "Translation": "Dvärghandskyttar skjuter på orckrigarna!Dvärg orckrigare!Dvärghandskyttar skjuter på orckrigarna!",
       "Comment": ""
     },
     {
       "Key": "Power <color=#31D3E3><size=133%>3</color> </size>VS Defense <color=#31D3E3><size=133%>3</color> ",
-      "Translation": "",
+      "Translation": "Styrka <color=#31D3E3><size=133%>3</color> </size>mot försvar <color=#31D3E3><size=133%>3</color> ",
       "Comment": ""
     },
     {
       "Key": "-Opponent Roll-",
-      "Translation": "",
+      "Translation": "-Motståndares rullning-",
       "Comment": ""
     },
     {
       "Key": "Roll to Hit",
-      "Translation": "",
+      "Translation": "Rulla för träff",
       "Comment": ""
     },
     {
       "Key": "Power 3 vs Defense 3",
-      "Translation": "",
+      "Translation": "Styrka 3 mot försvar 3",
       "Comment": ""
     },
     {
       "Key": "Score\n",
-      "Translation": "",
+      "Translation": "Poäng\n",
       "Comment": ""
     },
     {
       "Key": "Inspired by Commander",
-      "Translation": "",
+      "Translation": "Inspirerad av befälhavaren",
       "Comment": ""
     },
     {
       "Key": "Enemy Morale",
-      "Translation": "",
+      "Translation": "Fiendens moral",
       "Comment": ""
     },
     {
       "Key": "Commander Name ",
-      "Translation": "",
+      "Translation": "Befälhavarens namn ",
       "Comment": ""
     },
     {
       "Key": "Enemy Commanders:",
-      "Translation": "",
+      "Translation": "Fiendebefälhavare:",
       "Comment": ""
     },
     {
       "Key": "Turns Left",
-      "Translation": "",
+      "Translation": "Återstående omgångar",
       "Comment": ""
     },
     {
       "Key": "Survive!",
-      "Translation": "",
+      "Translation": "Överlev!",
       "Comment": ""
     },
     {
       "Key": "- Battle Starting -",
-      "Translation": "",
+      "Translation": "- Striden börjar -",
       "Comment": ""
     },
     {
       "Key": "Shaving a dwarf can seem like a fun idea at the time, but it's not worth the consequences in the long run.",
-      "Translation": "",
+      "Translation": "Att raka en dvärg kan verka som en rolig idé just då, men det är inte värt konsekvenserna på lång sikt.",
       "Comment": ""
     },
     {
       "Key": "You can roll dice by pressing Spacebar (    ). Hold it down to fast forward in combat.",
-      "Translation": "",
+      "Translation": "Du kan rulla tärningar genom att trycka på mellanslag (    ). Håll nere det för att snabbspola i strid.",
       "Comment": ""
     },
     {
       "Key": "Display charge ranges by pressing         -Your Units         - Opponents Units\n",
-      "Translation": "",
+      "Translation": "Visa laddningsavstånd genom att trycka på         - Dina enheter         - Fiendens enheter\n",
       "Comment": ""
     },
     {
       "Key": "Also hold Shift to show Ranged Weapon ranges.",
-      "Translation": "",
+      "Translation": "Håll också Shift inne för att visa avstånd för avståndsvapen.",
       "Comment": ""
     },
     {
       "Key": "Found a bug or just want to talk about the game?",
-      "Translation": "",
+      "Translation": "Hittade en bugg eller vill du bara prata om spelet?",
       "Comment": ""
     },
     {
       "Key": "Discord",
-      "Translation": "",
+      "Translation": "Discord",
       "Comment": ""
     },
     {
       "Key": "Reddit",
-      "Translation": "",
+      "Translation": "Reddit",
       "Comment": ""
     },
     {
       "Key": "Units always add their rank bonus to Discipline Tests",
-      "Translation": "",
+      "Translation": "Enheter lägger alltid till sin ranksbonus till disciplinprov",
       "Comment": ""
     },
     {
       "Key": "Flank and Rear charges add +1 to Combat Score!",
-      "Translation": "",
+      "Translation": "Flank- och bakanfall ger +1 till stridspoäng!",
       "Comment": ""
     },
     {
       "Key": "A units <color=#33FAFF>Skill</color> is a measure of its training and general ability to fight. It  detemines Hit Chance for close combat and ranged attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "En enhets <color=#33FAFF>Färdighet</color> är ett mått på dess träning och allmänna stridsförmåga. Den avgör träffchansen för närstrid och avståndsanfall.",
+      "Comment": "Keep the in-game terminology consistent."
     },
     {
       "Key": "The <color=#33FAFF>Power</color> stat describes a units physical strength and striking power. It's used in combat to overcome an opponents <color=#33FAFF>Defense.",
-      "Translation": "",
+      "Translation": "Statistiken <color=#33FAFF>Styrka</color> beskriver en enhets fysiska styrka och slagkraft. Den används i strid för att övervinna en motståndares <color=#33FAFF>försvar</color>.",
       "Comment": ""
     },
     {
       "Key": "The <color=#33FAFF>Defense</color> stat is a combination of a units general toughness and armor. It determines the units Damage Save against incoming attacks.",
-      "Translation": "",
+      "Translation": "Statistiken <color=#33FAFF>Försvar</color> är en kombination av en enhets allmänna tålighet och rustning. Den avgör enhetens skadespar mot inkommande attacker.",
       "Comment": ""
     },
     {
       "Key": "The dice in SOVL are mathematically fair. They are also cursed by a demon, who is evil. But they are fair!",
-      "Translation": "",
+      "Translation": "Tärningarna i SOVL är matematiskt rättvisa. De är också förbannade av en demon som är ond. Men de är rättvisa!",
       "Comment": ""
     },
     {
       "Key": "Concede",
-      "Translation": "",
+      "Translation": "Ge upp",
       "Comment": ""
     },
     {
       "Key": "Continue",
-      "Translation": "",
+      "Translation": "Fortsätt",
       "Comment": ""
     },
     {
       "Key": "Cancel\n",
-      "Translation": "",
+      "Translation": "Avbryt\n",
       "Comment": ""
     },
     {
       "Key": "Victory",
-      "Translation": "",
+      "Translation": "Seger",
       "Comment": ""
     },
     {
       "Key": "Battle Over",
-      "Translation": "",
+      "Translation": "Striden över",
       "Comment": ""
     },
     {
       "Key": "- Scoring Objectives -",
-      "Translation": "",
+      "Translation": "- Poängmål -",
       "Comment": ""
     },
     {
       "Key": "Results",
-      "Translation": "",
+      "Translation": "Resultat",
       "Comment": ""
     },
     {
       "Key": "Return",
-      "Translation": "",
+      "Translation": "Återvänd",
       "Comment": ""
     },
     {
       "Key": "Details",
-      "Translation": "",
+      "Translation": "Detaljer",
       "Comment": ""
     },
     {
       "Key": "Unit",
-      "Translation": "",
+      "Translation": "Enhet",
       "Comment": ""
     },
     {
       "Key": "Kills",
-      "Translation": "",
+      "Translation": "Dödade",
       "Comment": ""
     },
     {
       "Key": "Models",
-      "Translation": "",
+      "Translation": "Modeller",
       "Comment": ""
     },
     {
       "Key": "Status",
-      "Translation": "",
+      "Translation": "Status",
       "Comment": ""
     },
     {
       "Key": "Dwarf Engineer",
-      "Translation": "",
+      "Translation": "Dvärgingenjör",
       "Comment": ""
     },
     {
       "Key": "Torin Sheildbreaker",
-      "Translation": "",
+      "Translation": "Torin Sköldbrytare",
       "Comment": ""
     },
     {
       "Key": "DESTROYED",
-      "Translation": "",
+      "Translation": "FÖRSTÖRD",
       "Comment": ""
     },
     {
       "Key": "Save Replay",
-      "Translation": "",
+      "Translation": "Spara uppspelning",
       "Comment": ""
     },
     {
       "Key": "Enemies Defeated",
-      "Translation": "",
+      "Translation": "Fiender besegrade",
       "Comment": ""
     },
     {
       "Key": "3333 pts",
-      "Translation": "",
+      "Translation": "3333 p",
       "Comment": ""
     },
     {
       "Key": "Objectives:",
-      "Translation": "",
+      "Translation": "Mål:",
       "Comment": ""
     },
     {
       "Key": "Deeds of Valor",
-      "Translation": "",
+      "Translation": "Dåd av mod",
       "Comment": ""
     },
     {
       "Key": "Bloodthirsty",
-      "Translation": "",
+      "Translation": "Blodtörstig",
       "Comment": ""
     },
     {
       "Key": "Imperial Sword",
-      "Translation": "",
+      "Translation": "Imperiesvärd",
       "Comment": ""
     },
     {
       "Key": "Deeds of Infamy",
-      "Translation": "",
+      "Translation": "Skändliga dåd",
       "Comment": ""
     },
     {
       "Key": "Army View",
-      "Translation": "",
+      "Translation": "Armésyn",
       "Comment": ""
     },
     {
       "Key": "Asassination complete. Claim your reward!",
-      "Translation": "",
+      "Translation": "Attentatet är klart. Ta din belöning!",
       "Comment": ""
     },
     {
       "Key": "Ok",
-      "Translation": "",
+      "Translation": "Okej",
       "Comment": ""
     },
     {
       "Key": "Level Up!",
-      "Translation": "",
+      "Translation": "Nivå upp!",
       "Comment": ""
     },
     {
       "Key": "Map View",
-      "Translation": "",
+      "Translation": "Kartvy",
       "Comment": ""
     },
     {
       "Key": "Challenge Level:",
-      "Translation": "",
+      "Translation": "Utmaningsnivå:",
       "Comment": ""
     },
     {
       "Key": "Less Starting Gold\nHarder Minor Battles\nHarder Elites\nSmaller Starting Unit\nHarder Bosses",
-      "Translation": "",
+      "Translation": "Mindre startguld\nSvårare mindre strider\nSvårare elittrupper\nMindre startenhet\nSvårare bossar",
       "Comment": ""
     },
     {
       "Key": "Act 1",
-      "Translation": "",
+      "Translation": "Akt 1",
       "Comment": ""
     },
     {
       "Key": "Save & Exit",
-      "Translation": "",
+      "Translation": "Spara och avsluta",
       "Comment": ""
     },
     {
       "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 33.",
-      "Translation": "",
+      "Translation": "Besegrad av <color=blue>Gundrik Anvilhide</color> på steg 33.",
       "Comment": ""
     },
     {
       "Key": "Unlocked 1/3",
-      "Translation": "",
+      "Translation": "Upplåst 1/3",
       "Comment": ""
     },
     {
       "Key": "Your army has been wiped out...\n",
-      "Translation": "",
+      "Translation": "Din armé har utplånats...\n",
       "Comment": ""
     },
     {
       "Key": "A trail of death behind you...",
-      "Translation": "",
+      "Translation": "Ett spår av död bakom dig...",
       "Comment": ""
     },
     {
       "Key": "Battles Won",
-      "Translation": "",
+      "Translation": "Strider vunna",
       "Comment": ""
     },
     {
       "Key": "Elite Battles Won",
-      "Translation": "",
+      "Translation": "Elitstrider vunna",
       "Comment": ""
     },
     {
       "Key": "Boss Battles Won",
-      "Translation": "",
+      "Translation": "Bossstrider vunna",
       "Comment": ""
     },
     {
       "Key": "Enemies Killed",
-      "Translation": "",
+      "Translation": "Fiender dödade",
       "Comment": ""
     },
     {
       "Key": "Models Lost",
-      "Translation": "",
+      "Translation": "Modeller förlorade",
       "Comment": ""
     },
     {
       "Key": "Gold Earned",
-      "Translation": "",
+      "Translation": "Guld tjänat",
       "Comment": ""
     },
     {
       "Key": "Gold Spent",
-      "Translation": "",
+      "Translation": "Guld spenderat",
       "Comment": ""
     },
     {
       "Key": "Units Hired",
-      "Translation": "",
+      "Translation": "Enheter anställda",
       "Comment": ""
     },
     {
       "Key": "...but more challenges await.",
-      "Translation": "",
+      "Translation": "...men fler utmaningar väntar.",
       "Comment": ""
     },
     {
       "Key": "Level",
-      "Translation": "",
+      "Translation": "Nivå",
       "Comment": ""
     },
     {
       "Key": "You've reached the end...",
-      "Translation": "",
+      "Translation": "Du har nått slutet...",
       "Comment": ""
     },
     {
       "Key": "The trail of dead conquered.",
-      "Translation": "",
+      "Translation": "Spåren av de döda är erövrade.",
       "Comment": ""
     },
     {
       "Key": "But more foes remain!",
-      "Translation": "",
+      "Translation": "Men fler fiender återstår!",
       "Comment": ""
     },
     {
       "Key": "Thanks for playing!",
-      "Translation": "",
+      "Translation": "Tack för att du spelar!",
       "Comment": ""
     },
     {
       "Key": "Dwarf Berserkers",
-      "Translation": "",
+      "Translation": "Dvärgberserkare",
       "Comment": ""
     },
     {
       "Key": "New Unit Unlocked!",
-      "Translation": "",
+      "Translation": "Ny enhet upplåst!",
       "Comment": ""
     },
     {
       "Key": "Starting Units",
-      "Translation": "",
+      "Translation": "Startenheter",
       "Comment": ""
     },
     {
       "Key": "Pick One",
-      "Translation": "",
+      "Translation": "Välj en",
       "Comment": ""
     },
     {
       "Key": "Dwarven Handgunners",
-      "Translation": "",
+      "Translation": "Dvärghandskyttar",
       "Comment": ""
     },
     {
       "Key": "Embark!",
-      "Translation": "",
+      "Translation": "Gå ombord!",
       "Comment": ""
     },
     {
       "Key": "Replenishment:",
-      "Translation": "",
+      "Translation": "Påfyllning:",
       "Comment": ""
     },
     {
       "Key": "Models:",
-      "Translation": "",
+      "Translation": "Modeller:",
       "Comment": ""
     },
     {
       "Key": "Veteran Discipline III",
-      "Translation": "",
+      "Translation": "Veterandisciplin III",
       "Comment": ""
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "",
+      "Translation": "Slå om avstånds- och närstridsattacker mot kavalleri och vagnar",
       "Comment": ""
     },
     {
       "Key": "Act",
-      "Translation": "",
+      "Translation": "Akt",
       "Comment": ""
     },
     {
       "Key": "Lost",
-      "Translation": "",
+      "Translation": "Förlorad",
       "Comment": ""
     },
     {
       "Key": "XP",
-      "Translation": "",
+      "Translation": "XP",
       "Comment": ""
     },
     {
       "Key": "Rest / Loot",
-      "Translation": "",
+      "Translation": "Vila / plundra",
       "Comment": ""
     },
     {
       "Key": "OR",
-      "Translation": "",
+      "Translation": "ELLER",
       "Comment": ""
     },
     {
       "Key": "Mercenary Cut: <indent=33%><color=green><b>+10%",
-      "Translation": "",
+      "Translation": "Legoknektandel: <indent=33%><color=green><b>+10%",
       "Comment": ""
     },
     {
       "Key": "- Legend -",
-      "Translation": "",
+      "Translation": "- Teckenförklaring -",
       "Comment": ""
     },
     {
       "Key": "Battle",
-      "Translation": "",
+      "Translation": "Strid",
       "Comment": ""
     },
     {
       "Key": "Random Event",
-      "Translation": "",
+      "Translation": "Slumpmässigt event",
       "Comment": ""
     },
     {
       "Key": "Armory",
-      "Translation": "",
+      "Translation": "Vapenkammare",
       "Comment": ""
     },
     {
       "Key": "Camp Site",
-      "Translation": "",
+      "Translation": "Lägerplats",
       "Comment": ""
     },
     {
       "Key": "Elite Battle",
-      "Translation": "",
+      "Translation": "Elitstrid",
       "Comment": ""
     },
     {
       "Key": "Assassination",
-      "Translation": "",
+      "Translation": "Attentat",
       "Comment": ""
     },
     {
       "Key": "Quest",
-      "Translation": "",
+      "Translation": "Uppdrag",
       "Comment": ""
     },
     {
       "Key": "Recruit Regiment",
-      "Translation": "",
+      "Translation": "Rekrytera regemente",
       "Comment": ""
     },
     {
       "Key": "Retinue",
-      "Translation": "",
+      "Translation": "Följe",
       "Comment": ""
     },
     {
       "Key": "Unit Upgrades",
-      "Translation": "",
+      "Translation": "Enhetsuppgraderingar",
       "Comment": ""
     },
     {
       "Key": "Upgrades",
-      "Translation": "",
+      "Translation": "Uppgraderingar",
       "Comment": ""
     },
     {
       "Key": "Heavy Armor",
-      "Translation": "",
+      "Translation": "Tung rustning",
       "Comment": ""
     },
     {
       "Key": "Replenish or train your units",
-      "Translation": "",
+      "Translation": "Påfyll eller utbilda dina enheter",
       "Comment": ""
     },
     {
       "Key": "Train / Replenish",
-      "Translation": "",
+      "Translation": "Utbilda / påfyll",
       "Comment": ""
     },
     {
       "Key": "+1 XP",
-      "Translation": "",
+      "Translation": "+1 XP",
       "Comment": ""
     },
     {
       "Key": "This is a holy place. Your soldiers can ask for a blessing, but make your choice carefully. ",
-      "Translation": "",
+      "Translation": "Detta är en helig plats. Dina soldater kan be om en välsignelse, men välj med omsorg.",
       "Comment": ""
     },
     {
       "Key": "- Select a Unit -",
-      "Translation": "",
+      "Translation": "- Välj en enhet -",
       "Comment": ""
     },
     {
       "Key": "Ask for protection.",
-      "Translation": "",
+      "Translation": "Be om skydd.",
       "Comment": ""
     },
     {
       "Key": "(Unit re-rolls failed Damage Saves)",
-      "Translation": "",
+      "Translation": "(Enheten slå om missade skadespar)",
       "Comment": ""
     },
     {
       "Key": "Rest and gather strength.",
-      "Translation": "",
+      "Translation": "Vila och samla styrka.",
       "Comment": ""
     },
     {
       "Key": "(Unit is restored to full strenght)",
-      "Translation": "",
+      "Translation": "(Enheten återställs till full styrka)",
       "Comment": ""
     },
     {
       "Key": "- The unit is restored -",
-      "Translation": "",
+      "Translation": "- Enheten har återställts -",
       "Comment": ""
     },
     {
       "Key": "Choose a Unit",
-      "Translation": "",
+      "Translation": "Välj en enhet",
       "Comment": ""
     },
     {
       "Key": "A mysterious altar covered in eldritch runes. Your soldiers can ask for a favor, but at what cost...",
-      "Translation": "",
+      "Translation": "Ett mystiskt altare täckt med övernaturliga runor. Dina soldater kan be om en tjänst, men till vilket pris...",
       "Comment": ""
     },
     {
       "Key": "Losses",
-      "Translation": "",
+      "Translation": "Förluster",
       "Comment": ""
     },
     {
       "Key": "Succeses",
-      "Translation": "",
+      "Translation": "Framgångar",
       "Comment": ""
     },
     {
       "Key": "Roll",
-      "Translation": "",
+      "Translation": "Rulla",
       "Comment": ""
     },
     {
       "Key": "Some rogue wizards have been spotted in the area. Eliminate them for a reward.",
-      "Translation": "",
+      "Translation": "Några äventyrliga trollkarlar har setts i området. Eliminerar dem för en belöning.",
       "Comment": ""
     },
     {
       "Key": "Reward: 1 magic item for your commander",
-      "Translation": "",
+      "Translation": "Belöning: 1 magiskt föremål till din befälhavare",
       "Comment": ""
     },
     {
       "Key": "Seek them out!",
-      "Translation": "",
+      "Translation": "Sök upp dem!",
       "Comment": ""
     },
     {
       "Key": "Sent",
-      "Translation": "",
+      "Translation": "Skickat",
       "Comment": ""
     },
     {
       "Key": "Your army has found  a forgotten tomb in the wilderness. Does it contain ancient treasure or slumbering evil?\n\n\n\n\n\nForm a search party to investigate or leave it be...\n",
-      "Translation": "",
+      "Translation": "Din armé har hittat en glömd grav i vildmarken. Innehåller den uråldrigt skatter eller sovande ont?\n\n\n\n\n\nBilda en sökpatrull för att undersöka den eller lämna den i fred...\n",
       "Comment": ""
     },
     {
       "Key": "Enter The Darkness",
-      "Translation": "",
+      "Translation": "Gå in i mörkret",
       "Comment": ""
     },
     {
       "Key": "Search Party:",
-      "Translation": "",
+      "Translation": "Sökpatrull:",
       "Comment": ""
     },
     {
       "Key": "Treasures Found",
-      "Translation": "",
+      "Translation": "Skatter funna",
       "Comment": ""
     },
     {
       "Key": "Mercenaries are offering to join your warband in exchange for a cut of your income.",
-      "Translation": "",
+      "Translation": "Legoknektar erbjuder att ansluta sig till din krigarskara i utbyte mot en del av din inkomst.",
       "Comment": ""
     },
     {
       "Key": "Elven City Guard are expensive but skilled fighters.",
-      "Translation": "",
+      "Translation": "Alvs stadsvakt är dyr men skickliga stridare.",
       "Comment": ""
     },
     {
       "Key": "10% of gold income",
-      "Translation": "",
+      "Translation": "10 % av guldinkomsten",
       "Comment": ""
     },
     {
       "Key": "Hire",
-      "Translation": "",
+      "Translation": "Anställ",
       "Comment": ""
     },
     {
       "Key": "Wait...",
-      "Translation": "",
+      "Translation": "Vänta...",
       "Comment": ""
     },
     {
       "Key": "Search",
-      "Translation": "",
+      "Translation": "Sök",
       "Comment": ""
     },
     {
       "Key": "You come across a treacherous swamp. As you attempt to cross it, one of your regiments fall behind and is lost in the fog. You can wait for them to return or risk sending a search party.",
-      "Translation": "",
+      "Translation": "Du stöter på en illavarslande träskmark. När du försöker korsa den faller ett av dina regementen efter och försvinner i dimman. Du kan vänta på att de återvänder eller riskera att skicka en sökpatrull.",
       "Comment": ""
     },
     {
       "Key": "A mercenary captain and his trusty gryphon offers to join your army for coin.",
-      "Translation": "",
+      "Translation": "En legoknektkapten och hans trogna griffin erbjuder att gå med i din armé mot betalning.",
       "Comment": ""
     },
     {
       "Key": "An ancient place of power. ",
-      "Translation": "",
+      "Translation": "En uråldrig kraftplats.",
       "Comment": ""
     },
     {
       "Key": "Enter the Circle",
-      "Translation": "",
+      "Translation": "Gå in i cirkeln",
       "Comment": ""
     },
     {
       "Key": "Arcane Reversal",
-      "Translation": "",
+      "Translation": "Arkan motvändning",
       "Comment": ""
     },
     {
       "Key": "Learn Spell",
-      "Translation": "",
+      "Translation": "Lär dig besvärjelse",
       "Comment": ""
     },
     {
       "Key": "A good place to purchase some firepower...",
-      "Translation": "",
+      "Translation": "En bra plats att köpa lite eldskraft...",
       "Comment": ""
     },
     {
       "Key": "Dwarf Cannon",
-      "Translation": "",
+      "Translation": "Dvärgkanon",
       "Comment": ""
     },
     {
       "Key": "Mount",
-      "Translation": "",
+      "Translation": "Montera",
       "Comment": ""
     },
     {
       "Key": "Your soldiers have found an ancient artifact. Make use of its power or sell it in the nearest settlement...",
-      "Translation": "",
+      "Translation": "Dina soldater har hittat en uråldrig artefakt. Använd dess kraft eller sälj den i närmaste bosättning...",
       "Comment": ""
     },
     {
       "Key": "Sword of Ruin",
-      "Translation": "",
+      "Translation": "Fördärvets svärd",
       "Comment": ""
     },
     {
       "Key": "+1 Power. Once per battle, cast the Fireball spell.",
-      "Translation": "",
+      "Translation": "+1 styrka. En gång per strid, kasta eldklotets besvärjelse.",
       "Comment": ""
     },
     {
       "Key": "Use It",
-      "Translation": "",
+      "Translation": "Använd den",
       "Comment": ""
     },
     {
       "Key": "Sell:",
-      "Translation": "",
+      "Translation": "Sälj:",
       "Comment": ""
     },
     {
       "Key": "An old dwarven weapon cache. We can probably salvage something.\n Pick one...",
-      "Translation": "",
+      "Translation": "Ett gammalt dvärgiskt vapenkass. Vi kan säkert rädda något.\n Välj ett...",
       "Comment": ""
     },
     {
       "Key": "Ranged Attack",
-      "Translation": "",
+      "Translation": "Avståndsattack",
       "Comment": ""
     },
     {
       "Key": "Equip",
-      "Translation": "",
+      "Translation": "Utrusta",
       "Comment": ""
     },
     {
       "Key": "A shrine to the ancient Dwarven ancestors. \nThis is a sacred place for all Dwarves.",
-      "Translation": "",
+      "Translation": "Ett helgedom till de uråldriga dvärgförfäderna. \nDetta är en helig plats för alla dvärgar.",
       "Comment": ""
     },
     {
       "Key": "Ask the Ancestors for Strength",
-      "Translation": "",
+      "Translation": "Be förfäderna om styrka",
       "Comment": ""
     },
     {
       "Key": "(Unit gains a powerful ability)",
-      "Translation": "",
+      "Translation": "(Enheten får en kraftfull förmåga)",
       "Comment": ""
     },
     {
       "Key": "- Choose One -",
-      "Translation": "",
+      "Translation": "- Välj en -",
       "Comment": ""
     },
     {
       "Key": "A blessing from the Lady.",
-      "Translation": "",
+      "Translation": "En välsignelse från Damen.",
       "Comment": ""
     },
     {
       "Key": "Choose",
-      "Translation": "",
+      "Translation": "Välj",
       "Comment": ""
     },
     {
       "Key": "Restoration",
-      "Translation": "",
+      "Translation": "Återställning",
       "Comment": ""
     },
     {
       "Key": "Replenish all units fully.",
-      "Translation": "",
+      "Translation": "Fyll på alla enheter fullt.",
       "Comment": ""
     },
     {
       "Key": "Lady's Prayer",
-      "Translation": "",
+      "Translation": "Damen's bön",
       "Comment": ""
     },
     {
       "Key": "Gain the Lady's Blessing for the next 3 battles.\n",
-      "Translation": "",
+      "Translation": "Få Damen's välsignelse under de kommande 3 striderna.\n",
       "Comment": ""
     },
     {
       "Key": "(Your Knights are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "",
+      "Translation": "(Dina riddare är modiga och har laddningsbonus: +1 attack)",
       "Comment": ""
     },
     {
       "Key": "The drums of war are sounding!",
-      "Translation": "",
+      "Translation": "Krigets trummor ljuder!",
       "Comment": ""
     },
     {
       "Key": "Take Command",
-      "Translation": "",
+      "Translation": "Ta kommandot",
       "Comment": ""
     },
     {
       "Key": "Your Commander gains one level.",
-      "Translation": "",
+      "Translation": "Din befälhavare går upp en nivå.",
       "Comment": ""
     },
     {
       "Key": "Rally the Tribes",
-      "Translation": "",
+      "Translation": "Samla stammarna",
       "Comment": ""
     },
     {
       "Key": "Gain Tribal Fury for the next 3 battles.\n",
-      "Translation": "",
+      "Translation": "Få stamraseri under de kommande 3 striderna.\n",
       "Comment": ""
     },
     {
       "Key": "(Your units are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "",
+      "Translation": "(Dina enheter är modiga och har laddningsbonus: +1 attack)",
       "Comment": ""
     },
     {
       "Key": "A hideout in the trees, \nonly known to the Deepwood Elves",
-      "Translation": "",
+      "Translation": "Ett gömställe i träden, \nendast känt av djupeskogsalfarna",
       "Comment": ""
     },
     {
       "Key": "Rest",
-      "Translation": "",
+      "Translation": "Vila",
       "Comment": ""
     },
     {
       "Key": "Replenish all Units fully.",
-      "Translation": "",
+      "Translation": "Fyll på alla enheter fullt.",
       "Comment": ""
     },
     {
       "Key": "Commune with Forest Spirits",
-      "Translation": "",
+      "Translation": "Komma i kontakt med skogssjälar",
       "Comment": ""
     },
     {
       "Key": "Gain Forest Spirits Aid for the next 3 battles.\n",
-      "Translation": "",
+      "Translation": "Få skogssjälarnas hjälp under de kommande 3 striderna.\n",
       "Comment": ""
     },
     {
       "Key": "(Your units have +3 Move Speed and +1 to Ranged Attack Rolls) ",
-      "Translation": "",
+      "Translation": "(Dina enheter får +3 rörelsehastighet och +1 på avståndsattacker)",
       "Comment": ""
     },
     {
       "Key": "Deadly arrows crafted by the Deepwood Elves. Pick one.",
-      "Translation": "",
+      "Translation": "Dödliga pilar smidda av djupeskogsalfarna. Välj en.",
       "Comment": ""
     },
     {
       "Key": "Event Name",
-      "Translation": "",
+      "Translation": "Händelsenamn",
       "Comment": ""
     },
     {
       "Key": "Light Infantry - 33 pts",
-      "Translation": "",
+      "Translation": "Lätt infanteri - 33 p",
       "Comment": ""
     },
     {
       "Key": "Level:",
-      "Translation": "",
+      "Translation": "Nivå:",
       "Comment": ""
     },
     {
       "Key": "XP:",
-      "Translation": "",
+      "Translation": "XP:",
       "Comment": ""
     },
     {
       "Key": "- Dwarf Warriors",
-      "Translation": "",
+      "Translation": "- Dvärgkrigare",
       "Comment": ""
     },
     {
       "Key": "33 pts",
-      "Translation": "",
+      "Translation": "33 p",
       "Comment": ""
     },
     {
       "Key": "Select Unit",
-      "Translation": "",
+      "Translation": "Välj enhet",
       "Comment": ""
     },
     {
       "Key": "Apply",
-      "Translation": "",
+      "Translation": "Tillämpa",
       "Comment": ""
     },
     {
       "Key": "Magic Weapons",
-      "Translation": "",
+      "Translation": "Magiska vapen",
       "Comment": ""
     },
     {
       "Key": "Magic Items",
-      "Translation": "",
+      "Translation": "Magiska föremål",
       "Comment": ""
     },
     {
       "Key": "Magic Banners",
-      "Translation": "",
+      "Translation": "Magiska fanor",
       "Comment": ""
     },
     {
       "Key": "Banner of Big Moon",
-      "Translation": "",
+      "Translation": "Stora måns fana",
       "Comment": ""
     },
     {
       "Key": "130pts",
-      "Translation": "",
+      "Translation": "130 p",
       "Comment": ""
     },
     {
       "Key": "Item Rules Effect\n",
-      "Translation": "",
+      "Translation": "Föremålsregelns effekt\n",
       "Comment": ""
     },
     {
       "Key": "Unlocked ",
-      "Translation": "",
+      "Translation": "Upplåst ",
       "Comment": ""
     },
     {
       "Key": "33pts",
-      "Translation": "",
+      "Translation": "33 p",
       "Comment": ""
     },
     {
       "Key": "<color=#31D3E3>3<size=33%></color> D3",
-      "Translation": "",
+      "Translation": "<color=#31D3E3>3<size=33%></color> D3",
       "Comment": ""
     },
     {
       "Key": "< <color=#31D3E3>3",
-      "Translation": "",
+      "Translation": "< <color=#31D3E3>3",
       "Comment": ""
     },
     {
       "Key": "<color=#31D3E3>1<size=33%></color> D3",
-      "Translation": "",
+      "Translation": "<color=#31D3E3>1<size=33%></color> D3",
       "Comment": ""
     },
     {
       "Key": "30pts",
-      "Translation": "",
+      "Translation": "30 p",
       "Comment": ""
     },
     {
       "Key": "333 pts",
-      "Translation": "",
+      "Translation": "333 p",
       "Comment": ""
     },
     {
       "Key": "BorderPatrol",
-      "Translation": "",
+      "Translation": "Gränspatrull",
       "Comment": ""
     },
     {
       "Key": "invalid",
-      "Translation": "",
+      "Translation": "ogiltig",
       "Comment": ""
     },
     {
       "Key": "Battalion",
-      "Translation": "",
+      "Translation": "Bataljon",
       "Comment": ""
     },
     {
       "Key": "Unnamed List",
-      "Translation": "",
+      "Translation": "Namnlös lista",
       "Comment": ""
     },
     {
       "Key": "Screenshot sent to Steam",
-      "Translation": "",
+      "Translation": "Skärmdump skickad till Steam",
       "Comment": ""
     },
     {
       "Key": "Battle Line",
-      "Translation": "",
+      "Translation": "Stridslinje",
       "Comment": ""
     },
     {
       "Key": "Fast Attack",
-      "Translation": "",
+      "Translation": "Snabb attack",
       "Comment": ""
     },
     {
       "Key": "Ranged Support",
-      "Translation": "",
+      "Translation": "Avståndsstöd",
       "Comment": ""
     },
     {
       "Key": "Imperial Armory",
-      "Translation": "",
+      "Translation": "Imperial vapensmedja",
       "Comment": ""
     },
     {
       "Key": "Border Patrol",
-      "Translation": "",
+      "Translation": "Gränspatrull",
       "Comment": ""
     },
     {
       "Key": "Legion",
-      "Translation": "",
+      "Translation": "Legion",
       "Comment": ""
     },
     {
       "Key": "Unrestricted",
-      "Translation": "",
+      "Translation": "Obegränsad",
       "Comment": ""
     },
     {
       "Key": "103pts",
-      "Translation": "",
+      "Translation": "103 p",
       "Comment": ""
     },
     {
       "Key": "133pts",
-      "Translation": "",
+      "Translation": "133 p",
       "Comment": ""
     },
     {
       "Key": "Commander Ability",
-      "Translation": "",
+      "Translation": "Befälhavarens förmåga",
       "Comment": ""
     },
     {
       "Key": "Weapon Set",
-      "Translation": "",
+      "Translation": "Vapenuppsättning",
       "Comment": ""
     },
     {
       "Key": "Magic Banner",
-      "Translation": "",
+      "Translation": "Magisk fana",
       "Comment": ""
     },
     {
       "Key": "131pts",
-      "Translation": "",
+      "Translation": "131 p",
       "Comment": ""
     },
     {
       "Key": "13pts",
-      "Translation": "",
+      "Translation": "13 p",
       "Comment": ""
     },
     {
       "Key": "10pts",
-      "Translation": "",
+      "Translation": "10 p",
       "Comment": ""
     },
     {
       "Key": "Weapon Enchantment",
-      "Translation": "",
+      "Translation": "Vapenförtrollning",
       "Comment": ""
     },
     {
       "Key": "Item Enchantment",
-      "Translation": "",
+      "Translation": "Föremålsförtrollning",
       "Comment": ""
     },
     {
       "Key": "Spell",
-      "Translation": "",
+      "Translation": "Besvärjelse",
       "Comment": ""
     },
     {
       "Key": "<b>Draw<size=30%></color></b>\n",
-      "Translation": "",
+      "Translation": "<b>Oavgjort<size=30%></color></b>\n",
       "Comment": ""
     },
     {
       "Key": "Challenge Level: 3",
-      "Translation": "",
+      "Translation": "Utmaningsnivå: 3",
       "Comment": ""
     },
     {
       "Key": "A collection of fierce beasts...",
-      "Translation": "",
+      "Translation": "En samling vilda djur...",
       "Comment": ""
     },
     {
       "Key": "Turn 1 begins!",
-      "Translation": "",
+      "Translation": "Omgång 1 börjar!",
       "Comment": ""
     },
     {
       "Key": "Confident",
-      "Translation": "",
+      "Translation": "Självsäker",
       "Comment": ""
     },
     {
       "Key": "Turn 3 begins!",
-      "Translation": "",
+      "Translation": "Omgång 3 börjar!",
       "Comment": ""
     },
     {
       "Key": "activates",
-      "Translation": "",
+      "Translation": "aktiverar",
       "Comment": ""
     },
     {
       "Key": "You are starting player!",
-      "Translation": "",
+      "Translation": "Du börjar!",
       "Comment": ""
     },
     {
       "Key": "Confirm?",
-      "Translation": "",
+      "Translation": "Bekräfta?",
       "Comment": ""
     },
     {
       "Key": " Attack Roll",
-      "Translation": "",
+      "Translation": " Anfallsrullning",
       "Comment": ""
     },
     {
       "Key": "Next",
-      "Translation": "",
+      "Translation": "Nästa",
       "Comment": ""
     },
     {
       "Key": "Opponent",
-      "Translation": "",
+      "Translation": "Motståndare",
       "Comment": ""
     },
     {
       "Key": "Break Test",
-      "Translation": "",
+      "Translation": "Moralkontroll",
       "Comment": ""
     },
     {
       "Key": "3 or lower to Hold",
-      "Translation": "",
+      "Translation": "3 eller lägre för att hålla",
       "Comment": ""
     },
     {
       "Key": "rally!",
-      "Translation": "",
+      "Translation": "samla sig!",
       "Comment": ""
     },
     {
       "Key": "3 or lower to Rally",
-      "Translation": "",
+      "Translation": "3 eller lägre för att samla sig",
       "Comment": ""
     },
     {
       "Key": "0 or lower to Hold",
-      "Translation": "",
+      "Translation": "0 eller lägre för att hålla",
       "Comment": ""
     },
     {
       "Key": "fled off the board!",
-      "Translation": "",
+      "Translation": "flydde från brädet!",
       "Comment": ""
     },
     {
       "Key": "Wavering",
-      "Translation": "",
+      "Translation": "Vacklande",
       "Comment": ""
     },
     {
       "Key": "Confirm",
-      "Translation": "",
+      "Translation": "Bekräfta",
       "Comment": ""
     },
     {
       "Key": "Routing this turn!",
-      "Translation": "",
+      "Translation": "Flyr denna omgång!",
       "Comment": ""
     },
     {
       "Key": " has been wiped out!",
-      "Translation": "",
+      "Translation": " har utplånats!",
       "Comment": ""
     },
     {
       "Key": "Beast Master",
-      "Translation": "",
+      "Translation": "Djursmästare",
       "Comment": ""
     },
     {
       "Key": "You can roll dice by pressing Spacebar. Hold it down to fast forward in combat.",
-      "Translation": "",
+      "Translation": "Du kan slå tärning genom att trycka på mellanslag. Håll nere den för att snabbspola i strid.",
       "Comment": ""
     },
     {
       "Key": "Forest",
-      "Translation": "",
+      "Translation": "Skog",
       "Comment": ""
     },
     {
       "Key": "-Difficult Terrain-",
-      "Translation": "",
+      "Translation": "-Svår terräng-",
       "Comment": ""
     },
     {
       "Key": "Building",
-      "Translation": "",
+      "Translation": "Byggnad",
       "Comment": ""
     },
     {
       "Key": "-Impassable-",
-      "Translation": "",
+      "Translation": "-Oframkomlig-",
       "Comment": ""
     },
     {
       "Key": "Chasm",
-      "Translation": "",
+      "Translation": "Klyfta",
       "Comment": ""
     },
     {
       "Key": "Cliff",
-      "Translation": "",
+      "Translation": "Klippor",
       "Comment": ""
     },
     {
       "Key": "Lava",
-      "Translation": "",
+      "Translation": "Lava",
       "Comment": ""
     },
     {
       "Key": "Scoring Objective",
-      "Translation": "",
+      "Translation": "Poängmål",
       "Comment": ""
     },
     {
       "Key": "Water",
-      "Translation": "",
+      "Translation": "Vatten",
       "Comment": ""
     },
     {
       "Key": "Language",
-      "Translation": "",
+      "Translation": "Språk",
       "Comment": ""
     },
     {
       "Key": "Elites",
-      "Translation": "",
+      "Translation": "Elittrupper",
       "Comment": ""
     },
     {
       "Key": "Machines of War",
-      "Translation": "",
+      "Translation": "Krigsmaskiner",
       "Comment": ""
     },
     {
       "Key": "113pts",
-      "Translation": "",
+      "Translation": "113 p",
       "Comment": ""
     },
     {
       "Key": "110pts",
-      "Translation": "",
+      "Translation": "110 p",
       "Comment": ""
     },
     {
       "Key": "Raiders",
-      "Translation": "",
+      "Translation": "Rädert",
       "Comment": ""
     },
     {
       "Key": "Big Stuff",
-      "Translation": "",
+      "Translation": "Stora saker",
       "Comment": ""
     },
     {
       "Key": "3pts",
-      "Translation": "",
+      "Translation": "3 p",
       "Comment": ""
     },
     {
       "Key": "Battles: ",
-      "Translation": "",
+      "Translation": "Strider: ",
       "Comment": ""
     },
     {
       "Key": "Points Earned: ",
-      "Translation": "",
+      "Translation": "Poäng tjänade: ",
       "Comment": ""
     },
     {
       "Key": "W/L: ",
-      "Translation": "",
+      "Translation": "V/F: ",
       "Comment": ""
     },
     {
       "Key": "W/L: -",
-      "Translation": "",
+      "Translation": "V/F: -",
       "Comment": ""
     },
     {
       "Key": "Enemies Killed: ",
-      "Translation": "",
+      "Translation": "Fiender dödade: ",
       "Comment": ""
     }
   ]
