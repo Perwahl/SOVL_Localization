@@ -3,98 +3,98 @@
   "Translations": [
     {
       "Key": "Knights of Avalon",
-      "Translation": "Knights of Avalon",
-      "Comment": ""
+      "Translation": "Riddarna av Avalon",
+      "Comment": "A more natural Swedish faction title with a noble, Arthurian feel."
     },
     {
       "Key": "Sword Militia",
       "Translation": "Svärdsmilis",
-      "Comment": ""
+      "Comment": "A concise and plausible Swedish unit title."
     },
     {
       "Key": "Peasant Mob",
       "Translation": "Bondemobb",
-      "Comment": ""
+      "Comment": "The phrase has a rugged, historical feel that suits the faction."
     },
     {
       "Key": "Halberd Militia",
       "Translation": "Hillebardsmilis",
-      "Comment": ""
+      "Comment": "The Swedish form is clear and fits the martial tone."
     },
     {
       "Key": "Spear Militia",
       "Translation": "Spjutmilis",
-      "Comment": ""
+      "Comment": "This is straightforward and appropriate for a basic infantry unit."
     },
     {
       "Key": "Knight Aspirants",
       "Translation": "Riddaraspiranter",
-      "Comment": ""
+      "Comment": "The term feels suitably noble and chivalric."
     },
     {
       "Key": "Mounted Hunters",
       "Translation": "Beridna jägare",
-      "Comment": ""
+      "Comment": "The phrasing is more natural than the earlier literal form."
     },
     {
       "Key": "Sworn Knights",
       "Translation": "Edsvurna riddare",
-      "Comment": ""
+      "Comment": "This is a strong and fitting title for a knightly order."
     },
     {
       "Key": "Hunting Dogs",
       "Translation": "Jakthundar",
-      "Comment": ""
+      "Comment": "A simple and effective translation."
     },
     {
       "Key": "Hunters",
       "Translation": "Jägare",
-      "Comment": ""
+      "Comment": "A natural and concise unit name."
     },
     {
       "Key": "Trebuchet",
       "Translation": "Trebuchet",
-      "Comment": ""
+      "Comment": "The term is already well established in Swedish."
     },
     {
       "Key": "Longbowmen",
       "Translation": "Långbågsskyttar",
-      "Comment": ""
+      "Comment": "A clear and natural Swedish unit designation."
     },
     {
       "Key": "Kings Guard",
       "Translation": "Kungens vakt",
-      "Comment": ""
+      "Comment": "The phrasing keeps the regal and martial tone."
     },
     {
       "Key": "Pegasus Knights",
       "Translation": "Pegasusriddare",
-      "Comment": ""
+      "Comment": "The term sounds suitably heroic and elegant."
     },
     {
       "Key": "Hippogryph",
       "Translation": "Hippogryf",
-      "Comment": ""
+      "Comment": "A standard fantasy form that works well in Swedish."
     },
     {
       "Key": "Pegasus",
       "Translation": "Pegasus",
-      "Comment": ""
+      "Comment": "The term is already a recognized fantasy creature name."
     },
     {
       "Key": "Unicorn",
       "Translation": "Enhörning",
-      "Comment": ""
+      "Comment": "This is the natural Swedish form."
     },
     {
       "Key": "Maiden",
       "Translation": "Jungfru",
-      "Comment": ""
+      "Comment": "A classic and fitting title for a noble figure."
     },
     {
       "Key": "Paladin",
       "Translation": "Paladin",
-      "Comment": ""
+      "Comment": "The term is already established and works well in Swedish."
     }
   ]
 }

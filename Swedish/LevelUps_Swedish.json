@@ -103,8 +103,8 @@
     },
     {
       "Key": "+1 Attack",
-      "Translation": "+1 Attacker",
-      "Comment": ""
+      "Translation": "+1 anfall",
+      "Comment": "Adjusted to a more natural Swedish rules-style term for a combat bonus."
     },
     {
       "Key": "Offensive Mastery II",

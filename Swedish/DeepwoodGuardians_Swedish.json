@@ -3,83 +3,83 @@
   "Translations": [
     {
       "Key": "Deepwood Guardians",
-      "Translation": "Deepwood Guardians",
-      "Comment": ""
+      "Translation": "Djupskogens väktare",
+      "Comment": "A more natural Swedish faction title that preserves the forested, protective tone."
     },
     {
       "Key": "Deepwood Guard",
-      "Translation": "Deepwood-vakt",
-      "Comment": ""
+      "Translation": "Skogsvakt",
+      "Comment": "The new wording is simpler and more idiomatic in Swedish."
     },
     {
       "Key": "Dryads",
       "Translation": "Dryader",
-      "Comment": ""
+      "Comment": "This is a suitable fantasy term and reads well in Swedish."
     },
     {
       "Key": "Deepwood Dancers",
-      "Translation": "Deepwood-dansare",
-      "Comment": ""
+      "Translation": "Skogsdansare",
+      "Comment": "The phrase feels more natural and less literal."
     },
     {
       "Key": "Deepwood Archers",
-      "Translation": "Deepwood-bågskyttar",
-      "Comment": ""
+      "Translation": "Skogsbågskyttar",
+      "Comment": "A cleaner and more natural Swedish unit name."
     },
     {
       "Key": "Deepwood Rangers",
-      "Translation": "Deepwood-jägare",
-      "Comment": ""
+      "Translation": "Skogsjägare",
+      "Comment": "This reads more fluidly in Swedish than the earlier version."
     },
     {
       "Key": "Deepwood Riders",
-      "Translation": "Deepwood-ryttare",
-      "Comment": ""
+      "Translation": "Skogsryttare",
+      "Comment": "The phrasing is compact and consistent with the rest of the file."
     },
     {
       "Key": "Deepwood Chariot",
-      "Translation": "Deepwood-stridsvagn",
-      "Comment": ""
+      "Translation": "Skogsstridsvagn",
+      "Comment": "The sentence feels more natural as a unit title."
     },
     {
       "Key": "Giant Eagle",
       "Translation": "Jätteörn",
-      "Comment": ""
+      "Comment": "This is already strong and works well in Swedish."
     },
     {
       "Key": "Stag Riders",
       "Translation": "Hjortryttare",
-      "Comment": ""
+      "Comment": "A concise fantasy-friendly adjustment."
     },
     {
       "Key": "Treant",
-      "Translation": "Treant",
-      "Comment": "Kept in English because there is no widely used natural Swedish equivalent."
+      "Translation": "Trädjätte",
+      "Comment": "The Swedish form feels more natural and keeps the ancient woodland image."
     },
     {
       "Key": "Forest Dragon",
       "Translation": "Skogsdrake",
-      "Comment": ""
+      "Comment": "A straightforward and evocative translation."
     },
     {
       "Key": "Gryphon",
       "Translation": "Grip",
-      "Comment": ""
+      "Comment": "This is already the standard Swedish fantasy form."
     },
     {
       "Key": "Deepwood Noble",
-      "Translation": "Deepwood-adelsman",
-      "Comment": ""
+      "Translation": "Skogsadelsman",
+      "Comment": "The new wording is clearer and more idiomatic."
     },
     {
       "Key": "Deepwood Druid",
-      "Translation": "Deepwood-druid",
-      "Comment": ""
+      "Translation": "Skogsdruid",
+      "Comment": "This preserves the mystical woodland tone."
     },
     {
       "Key": "Treant Elder",
-      "Translation": "Treant-äldste",
-      "Comment": "Kept Treant in English because there is no widely used natural Swedish equivalent."
+      "Translation": "Trädjättens äldste",
+      "Comment": "The phrase feels more natural and fits the ancient-tree motif."
     }
   ]
 }

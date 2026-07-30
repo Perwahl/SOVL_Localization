@@ -3,43 +3,43 @@
   "Translations": [
     {
       "Key": "Abyssal Legions",
-      "Translation": "Abyssal Legions",
-      "Comment": ""
+      "Translation": "Abyssala legioner",
+      "Comment": "The faction name sounds more natural in Swedish when treated as a proper military formation."
     },
     {
       "Key": "Northmen Axe",
-      "Translation": "Northmen-yxkrigare",
-      "Comment": "Rendered as axemen for natural Swedish unit naming."
+      "Translation": "Nordmännens yxmän",
+      "Comment": "This reads more naturally in Swedish and keeps the martial tone."
     },
     {
       "Key": "Abyssal Warriors",
-      "Translation": "Abyssal-krigare",
-      "Comment": ""
+      "Translation": "Abyssala krigare",
+      "Comment": "A straightforward and fitting unit name for the faction."
     },
     {
       "Key": "Dragon Spawn",
-      "Translation": "Drakyngel",
-      "Comment": ""
+      "Translation": "Drakungar",
+      "Comment": "The Swedish term feels more vivid and compact for a monstrous unit."
     },
     {
       "Key": "Northmen Horse",
-      "Translation": "Northmen-ryttare",
-      "Comment": "Rendered as horsemen/riders for natural Swedish unit naming."
+      "Translation": "Nordmännens ryttare",
+      "Comment": "This is cleaner and more idiomatic than the earlier literal rendering."
     },
     {
       "Key": "Abyssal Knights",
-      "Translation": "Abyssal-riddare",
-      "Comment": ""
+      "Translation": "Abyssala riddare",
+      "Comment": "The phrasing keeps the noble and infernal tone without sounding awkward."
     },
     {
       "Key": "Abyssal Hounds",
-      "Translation": "Abyssal-hundar",
-      "Comment": ""
+      "Translation": "Abyssala hundar",
+      "Comment": "A simple and effective translation for a beastly unit."
     },
     {
       "Key": "Abyssal Chariot",
-      "Translation": "Abyssal-stridsvagn",
-      "Comment": ""
+      "Translation": "Abyssalstridsvagn",
+      "Comment": "This blends naturally with Swedish unit naming conventions."
     },
     {
       "Key": "Archdevil",
@@ -49,37 +49,37 @@
     {
       "Key": "Devilspawn",
       "Translation": "Djävulsyngel",
-      "Comment": ""
+      "Comment": "The grim fantasy tone is well preserved here."
     },
     {
       "Key": "War Mammoth",
       "Translation": "Krigsmammut",
-      "Comment": ""
+      "Comment": "The term is strong and appropriately martial."
     },
     {
       "Key": "Abyssal Dragon",
-      "Translation": "Abyssal-drake",
-      "Comment": ""
+      "Translation": "Abyssaldrake",
+      "Comment": "This is more natural in Swedish than the earlier literal construction."
     },
     {
       "Key": "Manticore",
-      "Translation": "Manticore",
-      "Comment": "Kept in English because it is the standard fantasy creature name in this context."
+      "Translation": "Mantikor",
+      "Comment": "The Swedish form is a common fantasy-equivalent and reads smoothly."
     },
     {
       "Key": "Abyssal Champion",
-      "Translation": "Abyssal-kämpe",
-      "Comment": ""
+      "Translation": "Abyssal kämpe",
+      "Comment": "A slightly more natural Swedish title for a mighty champion."
     },
     {
       "Key": "Abyssal Sorcerer",
-      "Translation": "Abyssal-trollkarl",
-      "Comment": ""
+      "Translation": "Abyssal trollkarl",
+      "Comment": "This keeps the dark magical feel without sounding overly literal."
     },
     {
       "Key": "Northmen Packleader",
-      "Translation": "Northmen-flockledare",
-      "Comment": ""
+      "Translation": "Nordmännens flockledare",
+      "Comment": "A more idiomatic Swedish phrase for a leader of a warband."
     }
   ]
 }

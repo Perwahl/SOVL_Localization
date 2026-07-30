@@ -3,23 +3,23 @@
   "Translations": [
     {
       "Key": "Abyssal Demons",
-      "Translation": "Abyssal Demons",
-      "Comment": ""
+      "Translation": "Abyssala demoner",
+      "Comment": "A more natural Swedish fantasy title for the faction name."
     },
     {
       "Key": "Abyssal Vipers",
-      "Translation": "Abyssal-huggormar",
-      "Comment": ""
+      "Translation": "Abyssala huggormar",
+      "Comment": "Kept the aggressive, venomous tone of the original unit name."
     },
     {
       "Key": "Devilspawn",
       "Translation": "Djävulsyngel",
-      "Comment": ""
+      "Comment": "This has a strong, grim fantasy feel and fits the faction well."
     },
     {
       "Key": "Plague Walkers",
       "Translation": "Pestvandrare",
-      "Comment": ""
+      "Comment": "A concise and suitably ominous term for a disease-ridden unit."
     },
     {
       "Key": "Plaguelings",
@@ -29,32 +29,32 @@
     {
       "Key": "Fire Devils",
       "Translation": "Elddjävlar",
-      "Comment": ""
+      "Comment": "The phrasing feels vivid and fitting for a demonic fire unit."
     },
     {
       "Key": "Plague Flies",
       "Translation": "Pestflugor",
-      "Comment": ""
+      "Comment": "This keeps the insect-like horror of the original unit."
     },
     {
       "Key": "Abyssal Reapers",
-      "Translation": "Abyssal-skördare",
-      "Comment": ""
+      "Translation": "Abyssala skördare",
+      "Comment": "The Swedish wording gives the unit a more menacing, grim tone."
     },
     {
       "Key": "Demonic Hounds",
-      "Translation": "Demoniska hundar",
-      "Comment": ""
+      "Translation": "Demonhundar",
+      "Comment": "A cleaner Swedish phrasing that sounds more natural in-game."
     },
     {
       "Key": "Hell Riders",
       "Translation": "Helvetesryttare",
-      "Comment": ""
+      "Comment": "The term is forceful and matches the dark fantasy setting well."
     },
     {
       "Key": "Plague Hulk",
       "Translation": "Pestkoloss",
-      "Comment": ""
+      "Comment": "This keeps the monstrous scale of the unit while sounding natural in Swedish."
     },
     {
       "Key": "Archdevil",
@@ -63,13 +63,13 @@
     },
     {
       "Key": "Abyssal Prince",
-      "Translation": "Abyssal-prins",
-      "Comment": ""
+      "Translation": "Abyssalprins",
+      "Comment": "A compact Swedish compound that preserves the noble, infernal tone."
     },
     {
       "Key": "Abyssal Herald",
-      "Translation": "Abyssal-härold",
-      "Comment": ""
+      "Translation": "Abyssalhärold",
+      "Comment": "Used a more natural Swedish compound for the heraldic title."
     }
   ]
 }

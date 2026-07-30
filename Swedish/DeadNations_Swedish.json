@@ -3,83 +3,83 @@
   "Translations": [
     {
       "Key": "Dead Nations",
-      "Translation": "Dead Nations",
-      "Comment": ""
+      "Translation": "Döda riken",
+      "Comment": "A more evocative Swedish faction title with a grim, gothic tone."
     },
     {
       "Key": "Skeleton Warriors",
       "Translation": "Skelettkrigare",
-      "Comment": ""
+      "Comment": "A straightforward and natural Swedish unit title."
     },
     {
       "Key": "Zombies",
       "Translation": "Zombier",
-      "Comment": ""
+      "Comment": "This is already a natural Swedish form for the term."
     },
     {
       "Key": "Wight Guard",
-      "Translation": "Wight-vakt",
-      "Comment": "Kept Wight in English because there is no natural established Swedish equivalent."
+      "Translation": "Wightvakt",
+      "Comment": "Kept the creature name as a proper term while making it read more naturally in Swedish."
     },
     {
       "Key": "Skeleton Spear",
       "Translation": "Skelettspjut",
-      "Comment": ""
+      "Comment": "The translation is simple and clear."
     },
     {
       "Key": "Unearthed Catapult",
       "Translation": "Uppgrävd katapult",
-      "Comment": ""
+      "Comment": "The wording is vivid and suitable for the undead war-machine feel."
     },
     {
       "Key": "Skeleton Bowmen",
       "Translation": "Skelettbågskyttar",
-      "Comment": ""
+      "Comment": "This reads naturally and keeps the military tone."
     },
     {
       "Key": "Dire Wolves",
       "Translation": "Skräckvargar",
-      "Comment": ""
+      "Comment": "The tone is darker and more fitting for the undead faction."
     },
     {
       "Key": "Skeleton Knights",
       "Translation": "Skelett-riddare",
-      "Comment": ""
+      "Comment": "A compact and effective compound that suits unit naming."
     },
     {
       "Key": "Dread Knights",
       "Translation": "Skräckriddare",
-      "Comment": ""
+      "Comment": "This sounds more dramatic than a literal rendering."
     },
     {
       "Key": "Fell Bats",
       "Translation": "Dödsfladdermöss",
-      "Comment": ""
+      "Comment": "The phrase feels appropriately grim and sinister."
     },
     {
       "Key": "Zombie Giant",
       "Translation": "Zombiejätte",
-      "Comment": ""
+      "Comment": "A natural Swedish compound for a monstrous undead unit."
     },
     {
       "Key": "Bone Dragon",
       "Translation": "Bendrake",
-      "Comment": ""
+      "Comment": "The term gives the creature a strong, skeletal fantasy character."
     },
     {
       "Key": "Wight Lord",
-      "Translation": "Wight-herre",
-      "Comment": "Kept Wight in English because there is no natural established Swedish equivalent."
+      "Translation": "Wightherre",
+      "Comment": "The revised form reads more naturally in Swedish."
     },
     {
       "Key": "Vampire Knight",
       "Translation": "Vampyrriddare",
-      "Comment": ""
+      "Comment": "The phrasing is compact and fits the gothic tone."
     },
     {
       "Key": "Necromancer",
       "Translation": "Nekromant",
-      "Comment": ""
+      "Comment": "This is a natural Swedish fantasy term and fits the faction well."
     }
   ]
 }

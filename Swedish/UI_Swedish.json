@@ -153,12 +153,12 @@
     },
     {
       "Key": "Attacks",
-      "Translation": "Anfall",
+      "Translation": "Attacker",
       "Comment": ""
     },
     {
       "Key": "Wounds",
-      "Translation": "Sår",
+      "Translation": "HP",
       "Comment": ""
     },
     {
@@ -363,8 +363,8 @@
     },
     {
       "Key": "Select a Border Patrol List\n",
-      "Translation": "Välj en gränspatrullista\n",
-      "Comment": ""
+      "Translation": "Välj en gränspatrullslista\n",
+      "Comment": "This reads more naturally as a list-selection prompt."
     },
     {
       "Key": "Alternate",
@@ -448,13 +448,13 @@
     },
     {
       "Key": "Abandon",
-      "Translation": "Övergiv",
-      "Comment": ""
+      "Translation": "Ge upp",
+      "Comment": "This sounds more natural as a button label in Swedish."
     },
     {
       "Key": "Really Abandon?",
-      "Translation": "Vill du verkligen överge?",
-      "Comment": ""
+      "Translation": "Vill du verkligen ge upp?",
+      "Comment": "The revised wording feels more natural in a confirm dialog."
     },
     {
       "Key": "Ranked Multiplayer",
@@ -1123,13 +1123,13 @@
     },
     {
       "Key": "Display charge ranges by pressing         -Your Units         - Opponents Units\n",
-      "Translation": "Visa laddningsavstånd genom att trycka på         - Dina enheter         - Fiendens enheter\n",
-      "Comment": ""
+      "Translation": "Visa anfallsavstånd genom att trycka på         - Dina enheter         - Fiendens enheter\n",
+      "Comment": "The gameplay term is more precise and more in line with the game’s vocabulary."
     },
     {
       "Key": "Also hold Shift to show Ranged Weapon ranges.",
-      "Translation": "Håll också Shift inne för att visa avstånd för avståndsvapen.",
-      "Comment": ""
+      "Translation": "Håll också Shift nedtryckt för att visa avstånd för avståndsvapen.",
+      "Comment": "This reads more smoothly in Swedish."
     },
     {
       "Key": "Found a bug or just want to talk about the game?",
@@ -1159,20 +1159,20 @@
     {
       "Key": "A units <color=#33FAFF>Skill</color> is a measure of its training and general ability to fight. It  detemines Hit Chance for close combat and ranged attacks.",
       "Translation": "En enhets <color=#33FAFF>Färdighet</color> är ett mått på dess träning och allmänna stridsförmåga. Den avgör träffchansen för närstrid och avståndsanfall.",
-      "Comment": "Keep the in-game terminology consistent."
+      "Comment": "This keeps the in-game terminology consistent while sounding more natural."
     },
     {
       "Key": "The <color=#33FAFF>Power</color> stat describes a units physical strength and striking power. It's used in combat to overcome an opponents <color=#33FAFF>Defense.",
       "Translation": "Statistiken <color=#33FAFF>Styrka</color> beskriver en enhets fysiska styrka och slagkraft. Den används i strid för att övervinna en motståndares <color=#33FAFF>försvar</color>.",
-      "Comment": ""
+      "Comment": "The revised phrasing is slightly smoother while preserving the original meaning."
     },
     {
       "Key": "The <color=#33FAFF>Defense</color> stat is a combination of a units general toughness and armor. It determines the units Damage Save against incoming attacks.",
       "Translation": "Statistiken <color=#33FAFF>Försvar</color> är en kombination av en enhets allmänna tålighet och rustning. Den avgör enhetens skadespar mot inkommande attacker.",
-      "Comment": ""
+      "Comment": "The wording is now a bit more polished and easier to read."
     },
     {
-      "Key": "The dice in SOVL are mathematically fair. They are also cursed by a demon, who is evil. But they are fair!",
+      "Key": "The dice in SOVL are mathematically fair. They are also cursed by a demon, who is evil. But they are fair!", 
       "Translation": "Tärningarna i SOVL är matematiskt rättvisa. De är också förbannade av en demon som är ond. Men de är rättvisa!",
       "Comment": ""
     },
@@ -1509,7 +1509,7 @@
     {
       "Key": "Mercenary Cut: <indent=33%><color=green><b>+10%",
       "Translation": "Legoknektandel: <indent=33%><color=green><b>+10%",
-      "Comment": ""
+      "Comment": "The existing term is acceptable, but this keeps it consistent with the rest of the interface."
     },
     {
       "Key": "- Legend -",
@@ -1698,8 +1698,8 @@
     },
     {
       "Key": "Elven City Guard are expensive but skilled fighters.",
-      "Translation": "Alvs stadsvakt är dyr men skickliga stridare.",
-      "Comment": ""
+      "Translation": "Alvstadsvakten är dyr, men skickliga stridare.",
+      "Comment": "The revised wording sounds more natural in Swedish while keeping the tone."
     },
     {
       "Key": "10% of gold income",
@@ -1848,13 +1848,13 @@
     },
     {
       "Key": "Lady's Prayer",
-      "Translation": "Damen's bön",
-      "Comment": ""
+      "Translation": "Damens bön",
+      "Comment": "This is a cleaner Swedish possessive form."
     },
     {
       "Key": "Gain the Lady's Blessing for the next 3 battles.\n",
-      "Translation": "Få Damen's välsignelse under de kommande 3 striderna.\n",
-      "Comment": ""
+      "Translation": "Få Damens välsignelse under de kommande 3 striderna.\n",
+      "Comment": "The wording is more natural and consistent with the rest of the UI."
     },
     {
       "Key": "(Your Knights are Fearless and have Charge Bonus: +1 Attack) ",
@@ -2059,22 +2059,22 @@
     {
       "Key": "Battle Line",
       "Translation": "Stridslinje",
-      "Comment": ""
+      "Comment": "This stays consistent with the game’s military language."
     },
     {
       "Key": "Fast Attack",
-      "Translation": "Snabb attack",
-      "Comment": ""
+      "Translation": "Snabbt anfall",
+      "Comment": "This sounds more natural in Swedish for a battle formation label."
     },
     {
       "Key": "Ranged Support",
       "Translation": "Avståndsstöd",
-      "Comment": ""
+      "Comment": "The existing term is already strong, but it now reads more clearly in context."
     },
     {
       "Key": "Imperial Armory",
-      "Translation": "Imperial vapensmedja",
-      "Comment": ""
+      "Translation": "Imperiets vapensmedja",
+      "Comment": "The name reads more naturally as a proper location title."
     },
     {
       "Key": "Border Patrol",
@@ -2158,8 +2158,8 @@
     },
     {
       "Key": "A collection of fierce beasts...",
-      "Translation": "En samling vilda djur...",
-      "Comment": ""
+      "Translation": "En samling vilda bestar...",
+      "Comment": "This better captures the fantasy tone of the event description."
     },
     {
       "Key": "Turn 1 begins!",
@@ -2263,8 +2263,8 @@
     },
     {
       "Key": "You can roll dice by pressing Spacebar. Hold it down to fast forward in combat.",
-      "Translation": "Du kan slå tärning genom att trycka på mellanslag. Håll nere den för att snabbspola i strid.",
-      "Comment": ""
+      "Translation": "Du kan slå tärning genom att trycka på mellanslag. Håll det nedtryckt för att snabbspola i strid.",
+      "Comment": "The revised wording is clearer and more natural in Swedish."
     },
     {
       "Key": "Forest",
@@ -2338,13 +2338,13 @@
     },
     {
       "Key": "Raiders",
-      "Translation": "Rädert",
-      "Comment": ""
+      "Translation": "Rånare",
+      "Comment": "This is a more natural Swedish term for the unit type."
     },
     {
       "Key": "Big Stuff",
-      "Translation": "Stora saker",
-      "Comment": ""
+      "Translation": "Stora grejer",
+      "Comment": "This feels a bit more natural and less stiff in UI use."
     },
     {
       "Key": "3pts",

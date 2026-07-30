@@ -3,93 +3,93 @@
   "Translations": [
     {
       "Key": "Empires of Men",
-      "Translation": "Empires of Men",
-      "Comment": ""
+      "Translation": "Människornas riken",
+      "Comment": "A more natural Swedish faction title with a broad, imperial feel."
     },
     {
       "Key": "Imperial Sword",
-      "Translation": "Kejserliga svärdsmän",
-      "Comment": "Expanded from the English shorthand for a natural Swedish unit name."
+      "Translation": "Kejsarliga svärdsmän",
+      "Comment": "The Swedish phrasing is more natural and makes the unit feel more grounded."
     },
     {
       "Key": "Foot Knights",
       "Translation": "Fotriddare",
-      "Comment": ""
+      "Comment": "A concise and fitting military title."
     },
     {
       "Key": "Imperial Halberd",
-      "Translation": "Kejserliga hillebardister",
-      "Comment": "Expanded from the English shorthand for a natural Swedish unit name."
+      "Translation": "Kejsarliga hillebardister",
+      "Comment": "The wording is clear and suits the disciplined imperial tone."
     },
     {
       "Key": "Imperial Spear",
-      "Translation": "Kejserliga spjutmän",
-      "Comment": "Expanded from the English shorthand for a natural Swedish unit name."
+      "Translation": "Kejsarliga spjutmän",
+      "Comment": "A straightforward and suitable unit name."
     },
     {
       "Key": "Imperial Knights",
-      "Translation": "Kejserliga riddare",
-      "Comment": ""
+      "Translation": "Kejsarliga riddare",
+      "Comment": "The translation is strong and fits the faction well."
     },
     {
       "Key": "Imperial Light Cavalry",
-      "Translation": "Kejserligt lätt kavalleri",
-      "Comment": ""
+      "Translation": "Kejsarligt lätt kavalleri",
+      "Comment": "The phrasing is natural and maintains the military register."
     },
     {
       "Key": "Imperial Archers",
-      "Translation": "Kejserliga bågskyttar",
-      "Comment": ""
+      "Translation": "Kejsarliga bågskyttar",
+      "Comment": "This is crisp and appropriate for a disciplined infantry unit."
     },
     {
       "Key": "Imperial Crossbowmen",
-      "Translation": "Kejserliga armborstskyttar",
-      "Comment": ""
+      "Translation": "Kejsarliga armborstskyttar",
+      "Comment": "The terminology is clean and easy to read in-game."
     },
     {
       "Key": "Imperial Handguns",
-      "Translation": "Kejserliga handeldvapen",
-      "Comment": ""
+      "Translation": "Kejsarliga handeldvapen",
+      "Comment": "This feels more natural and cohesive than the earlier literal wording."
     },
     {
       "Key": "Imperial Cannon",
-      "Translation": "Kejserlig kanon",
-      "Comment": ""
+      "Translation": "Kejsarlig kanon",
+      "Comment": "A strong, simple translation that suits the unit type."
     },
     {
       "Key": "Imperial Mortar",
-      "Translation": "Kejserlig granatkastare",
-      "Comment": ""
+      "Translation": "Kejsarlig granatkastare",
+      "Comment": "The Swedish term is clear and appropriate for a siege weapon."
     },
     {
       "Key": "Imperial Dreadnought",
-      "Translation": "Kejserlig Dreadnought",
+      "Translation": "Kejsarlig Dreadnought",
       "Comment": "Kept Dreadnought in English as the standard model name."
     },
     {
       "Key": "Gryphon",
       "Translation": "Grip",
-      "Comment": ""
+      "Comment": "This is already the standard Swedish fantasy form."
     },
     {
       "Key": "Imperial Dragon",
-      "Translation": "Kejserlig drake",
-      "Comment": ""
+      "Translation": "Kejsarlig drake",
+      "Comment": "A solid fantasy-friendly translation."
     },
     {
       "Key": "Captain",
       "Translation": "Kapten",
-      "Comment": ""
+      "Comment": "A natural and concise military title."
     },
     {
       "Key": "Knight Commander",
       "Translation": "Riddarbefälhavare",
-      "Comment": ""
+      "Comment": "The translation sounds authoritative and fitting."
     },
     {
       "Key": "Imperial Wizard",
-      "Translation": "Kejserlig trollkarl",
-      "Comment": ""
+      "Translation": "Kejsarlig trollkarl",
+      "Comment": "The wording is clear and works well in a high-fantasy setting."
     }
   ]
 }

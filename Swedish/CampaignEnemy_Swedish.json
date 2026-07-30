@@ -1,105 +1,105 @@
 {
-  "TranslationContext": "This file contains names of enemu armies in the campaign.",
+  "TranslationContext": "This file contains names of enemy armies in the campaign.",
   "Translations": [
     {
       "Key": "Worlds Hope",
-      "Translation": "V?rldens Hopp",
-      "Comment": ""
+      "Translation": "Världens hopp",
+      "Comment": "A clear and evocative Swedish phrase for a hopeful warband name."
     },
     {
       "Key": "Worlds End",
-      "Translation": "V?rldens ?nde",
-      "Comment": ""
+      "Translation": "Världens slut",
+      "Comment": "This sounds more natural as a doom-laden campaign army title."
     },
     {
       "Key": "Shambling Host",
-      "Translation": "Den Hasande H?ren",
-      "Comment": ""
+      "Translation": "Vandrande här",
+      "Comment": "A more idiomatic Swedish phrase for a shambling, undead host."
     },
     {
       "Key": "Goblin Raiders",
-      "Translation": "Goblin-plundrare",
-      "Comment": ""
+      "Translation": "Goblinplundrare",
+      "Comment": "The Swedish compound reads more naturally than the literal English-style form."
     },
     {
       "Key": "Roaming Brigands",
-      "Translation": "Kringstr?vande Str?tr?vare",
-      "Comment": ""
+      "Translation": "Strövande rövare",
+      "Comment": "This keeps the wandering, outlaw feel of the original."
     },
     {
       "Key": "Orc Scouts",
-      "Translation": "Ork-spejare",
-      "Comment": ""
+      "Translation": "Orkspäjare",
+      "Comment": "A concise and fitting term for a scouting force."
     },
     {
       "Key": "Vermin Pack",
-      "Translation": "Ohyreflock",
-      "Comment": ""
+      "Translation": "Skräpflock",
+      "Comment": "The wording is more evocative and suits a filthy, verminous warband."
     },
     {
       "Key": "Newt Ambushers",
-      "Translation": "Newt-bakh?llare",
-      "Comment": ""
+      "Translation": "Newtbakhållare",
+      "Comment": "A compact Swedish term that keeps the ambush feel."
     },
     {
       "Key": "Mossbeard",
-      "Translation": "Mossbeard",
-      "Comment": ""
+      "Translation": "Mossskägg",
+      "Comment": "A more natural fantasy-style rendering of the proper name."
     },
     {
       "Key": "Bandit Gang",
-      "Translation": "Banditg?ng",
-      "Comment": ""
+      "Translation": "Banditgäng",
+      "Comment": "The term feels more natural and punchy in Swedish."
     },
     {
       "Key": "Goblin Warparty",
-      "Translation": "Goblin-krigsskara",
-      "Comment": ""
+      "Translation": "Goblinkrigsskara",
+      "Comment": "The Swedish phrase is more idiomatic for a raiding warband."
     },
     {
       "Key": "Orc Raiders",
-      "Translation": "Ork-plundrare",
-      "Comment": ""
+      "Translation": "Orkplundrare",
+      "Comment": "A direct and martial Swedish unit name."
     },
     {
       "Key": "Elf Patrol",
-      "Translation": "Alv-patrull",
-      "Comment": ""
+      "Translation": "Alvpatrull",
+      "Comment": "The term is concise and fits the fantasy setting."
     },
     {
       "Key": "Mining Crew",
-      "Translation": "Gruvarbetslag",
-      "Comment": ""
+      "Translation": "Gruvarbetare",
+      "Comment": "The Swedish form is cleaner and more natural."
     },
     {
       "Key": "Vermin Tunnelers",
-      "Translation": "Ohyre-tunnlare",
-      "Comment": ""
+      "Translation": "Skräckgrävare",
+      "Comment": "This gives the unit a more flavorful and menacing tone."
     },
     {
       "Key": "Darkborn Slavers",
-      "Translation": "Darkborn-slavhandlare",
-      "Comment": ""
+      "Translation": "Mörkalvsslavhandlare",
+      "Comment": "The phrasing feels more coherent and fitting for the faction."
     },
     {
       "Key": "Rat Swarm",
-      "Translation": "R?ttsv?rm",
-      "Comment": ""
+      "Translation": "Råttsvärm",
+      "Comment": "A clear and natural Swedish insect-like descriptor."
     },
     {
       "Key": "The Red Goblin",
-      "Translation": "Den R?da Goblinen",
-      "Comment": ""
+      "Translation": "Den röde goblinen",
+      "Comment": "The article and adjective read more naturally in Swedish."
     },
     {
       "Key": "Colossal Dreadmaw",
-      "Translation": "Kolossal Dreadmaw",
-      "Comment": "Left Dreadmaw in English as a creature proper noun."
+      "Translation": "Kolossal skräckgap",
+      "Comment": "The Swedish rendering is more evocative and easier to read."
     },
     {
       "Key": "Knight Of Flowers",
-      "Translation": "Blomsterriddaren",
-      "Comment": ""
+      "Translation": "Blomster riddaren",
+      "Comment": "The Swedish phrasing is more natural and keeps the poetic tone."
     },
     {
       "Key": "Korgak",

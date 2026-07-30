@@ -3,73 +3,73 @@
   "Translations": [
     {
       "Key": "Ratkin Clans",
-      "Translation": "Ratkin Clans",
-      "Comment": ""
+      "Translation": "Råttfolkens stammar",
+      "Comment": "A more natural Swedish faction title with a grim, bestial tone."
     },
     {
       "Key": "Ratkin Legionaries",
-      "Translation": "Ratkin-legionärer",
-      "Comment": ""
+      "Translation": "Råttfolkens legionärer",
+      "Comment": "The wording feels more natural in Swedish than the earlier compound."
     },
     {
       "Key": "Ratkin Conscripts",
-      "Translation": "Ratkin-värnpliktiga",
-      "Comment": ""
+      "Translation": "Råttfolkens värnpliktiga",
+      "Comment": "This preserves the martial feel while sounding idiomatic."
     },
     {
       "Key": "Ratkin Skulkers",
-      "Translation": "Ratkin-smygare",
-      "Comment": ""
+      "Translation": "Råttfolkens smygare",
+      "Comment": "The translation gives the unit a stealthy, sneaking character."
     },
     {
       "Key": "Ratkin Longrifles",
-      "Translation": "Ratkin långbösskyttar",
-      "Comment": ""
+      "Translation": "Råttfolks långbösskyttar",
+      "Comment": "The acquired phrasing is clearer and more natural."
     },
     {
       "Key": "Ratkin Slingers",
-      "Translation": "Ratkin-slungkastare",
-      "Comment": ""
+      "Translation": "Råttfolkens slungkastare",
+      "Comment": "The term is concise and appropriate for a ranged unit."
     },
     {
       "Key": "Ratkin Flamers",
-      "Translation": "Ratkin-eldkastare",
-      "Comment": ""
+      "Translation": "Råttfolkens eldkastare",
+      "Comment": "A strong and fitting fantasy-war term."
     },
     {
       "Key": "Ratkin Monstrosity",
-      "Translation": "Ratkin-monstrositet",
-      "Comment": ""
+      "Translation": "Råttfolksmonstrositet",
+      "Comment": "The phrasing feels more natural as a unit title."
     },
     {
       "Key": "Ratkin Alphas",
-      "Translation": "Ratkin-alfor",
-      "Comment": ""
+      "Translation": "Råttfolkens alfer",
+      "Comment": "The term is slightly more evocative and fits the creature theme."
     },
     {
       "Key": "Rat Swarms",
       "Translation": "Råttsvärmar",
-      "Comment": ""
+      "Comment": "A simple and effective translation."
     },
     {
       "Key": "Doom Bell",
       "Translation": "Undergångsklocka",
-      "Comment": ""
+      "Comment": "The name has a stronger, more ominous fantasy tone."
     },
     {
       "Key": "Ratkin Warlock",
-      "Translation": "Ratkin-trollkarl",
-      "Comment": ""
+      "Translation": "Råttfolkens trollkarl",
+      "Comment": "The phrasing sounds natural and keeps the dark magic vibe."
     },
     {
       "Key": "Ratkin Chieftain",
-      "Translation": "Ratkin-hövding",
-      "Comment": ""
+      "Translation": "Råttfolkens hövding",
+      "Comment": "A clear and fitting leader title."
     },
     {
       "Key": "Ratkin Infiltrator",
-      "Translation": "Ratkin-infiltratör",
-      "Comment": ""
+      "Translation": "Råttfolkens infiltratör",
+      "Comment": "The translation is crisp and suitable for a stealth unit."
     }
   ]
 }

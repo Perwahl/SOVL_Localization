@@ -33,8 +33,8 @@
     },
     {
       "Key": "Hand Weapon+Shield",
-      "Translation": "Handvapen och Sköld",
-      "Comment": ""
+      "Translation": "Handvapen + sköld",
+      "Comment": "Adjusted to a more natural Swedish compound style for a shield-bearing melee setup."
     },
     {
       "Key": "Sturdy",
@@ -48,8 +48,8 @@
     },
     {
       "Key": "Greatweapon",
-      "Translation": "Storvapen",
-      "Comment": "Used 'Storvapen' to distinguish this great weapon entry from dual-wielding 'Två Handvapen'."
+      "Translation": "Tungt Vapen",
+      "Comment": "Used 'Tungt Vapen' to distinguish this great weapon entry from dual-wielding 'Två Handvapen'."
     },
     {
       "Key": "Hand Weapon and Shield",
@@ -123,23 +123,23 @@
     },
     {
       "Key": "Banner of Swiftness",
-      "Translation": "Snabbhetens Baner",
-      "Comment": ""
+      "Translation": "Snabbhetens banér",
+      "Comment": "Used a more natural Swedish form for the banner title."
     },
     {
       "Key": "Banner of Fury",
-      "Translation": "Rasandets Baner",
-      "Comment": ""
+      "Translation": "Raseriens banér",
+      "Comment": "The wording feels more polished and less literal."
     },
     {
       "Key": "Banner of Valor",
-      "Translation": "Tapperhetens Baner",
-      "Comment": ""
+      "Translation": "Tapperhetens banér",
+      "Comment": "This reads more naturally in Swedish as a martial banner title."
     },
     {
       "Key": "Banner of Mist",
-      "Translation": "Dimmans Baner",
-      "Comment": ""
+      "Translation": "Dimmans banér",
+      "Comment": "The revised wording keeps the mystical fantasy tone."
     },
     {
       "Key": "War Banner",
@@ -148,8 +148,8 @@
     },
     {
       "Key": "Cursed Standard",
-      "Translation": "Förbannat Fältmärke",
-      "Comment": ""
+      "Translation": "Förbannat fälttecken",
+      "Comment": "This sounds more natural in Swedish for a cursed war banner."
     },
     {
       "Key": "Heavy Armor",
@@ -208,13 +208,13 @@
     },
     {
       "Key": "Fire Breath",
-      "Translation": "Eldandedräkt",
-      "Comment": ""
+      "Translation": "Eldandning",
+      "Comment": "A more natural Swedish term for a creature’s fiery breath."
     },
     {
       "Key": "Inspire Valor",
-      "Translation": "Inge Tapperhet",
-      "Comment": ""
+      "Translation": "Ingiv tapperhet",
+      "Comment": "This is a clearer and more natural Swedish phrasing."
     },
     {
       "Key": "Vitality",
@@ -268,8 +268,8 @@
     },
     {
       "Key": "True Strike",
-      "Translation": "Sant Hugg",
-      "Comment": ""
+      "Translation": "Sann träff",
+      "Comment": "The new phrasing is clearer and more idiomatic."
     },
     {
       "Key": "Furious Charge",
@@ -303,8 +303,8 @@
     },
     {
       "Key": "Hex Of Ruin",
-      "Translation": "Fördärvets Förhäxelse",
-      "Comment": ""
+      "Translation": "Fördärvets förbannelse",
+      "Comment": "This reads more naturally as a dark magical effect."
     },
     {
       "Key": "Shortbows",
@@ -413,8 +413,8 @@
     },
     {
       "Key": "Arcane Web",
-      "Translation": "Arkant Nät",
-      "Comment": ""
+      "Translation": "Arkaniskt nät",
+      "Comment": "The revised form is more natural and consistent with the fantasy rules tone."
     },
     {
       "Key": "Reality Rift",
@@ -493,8 +493,8 @@
     },
     {
       "Key": "Abyssal Armor",
-      "Translation": "Abyssal-rustning",
-      "Comment": ""
+      "Translation": "Abyssalrustning",
+      "Comment": "This reads more smoothly as a compound Swedish unit term."
     },
     {
       "Key": "Scaly Skin",
@@ -528,8 +528,8 @@
     },
     {
       "Key": "Howl",
-      "Translation": "Tjut",
-      "Comment": ""
+      "Translation": "Vrål",
+      "Comment": "A stronger and more evocative Swedish term for a beastly cry."
     },
     {
       "Key": "Horns",
@@ -818,18 +818,18 @@
     },
     {
       "Key": "Oath Of Retribution",
-      "Translation": "Bestraffningens Ed",
-      "Comment": ""
+      "Translation": "Vedergällningens ed",
+      "Comment": "The revised wording is more natural and more in line with the fantasy tone."
     },
     {
       "Key": "Oath Of Reckoning",
-      "Translation": "Räkenskapens Ed",
-      "Comment": ""
+      "Translation": "Räkenskapens ed",
+      "Comment": "A compact and fitting Swedish oath title."
     },
     {
       "Key": "Oath Of Vengeance",
-      "Translation": "Hämndens Ed",
-      "Comment": ""
+      "Translation": "Hämndens ed",
+      "Comment": "This keeps the dark, martial feel of the original term."
     },
     {
       "Key": "Ancestral Strength",
@@ -928,18 +928,18 @@
     },
     {
       "Key": "Imperial Elites",
-      "Translation": "Kejserlig Elit",
-      "Comment": ""
+      "Translation": "Kejserliga elittrupper",
+      "Comment": "This sounds more natural and more like a proper unit designation."
     },
     {
       "Key": "Imperial Veterans",
-      "Translation": "Kejserliga Veteraner",
-      "Comment": ""
+      "Translation": "Kejserliga veteraner",
+      "Comment": "The wording is already strong, but the plural is now more clearly aligned with the unit style."
     },
     {
       "Key": "Stronger Summons",
-      "Translation": "Starkare Manifestationer",
-      "Comment": ""
+      "Translation": "Starkare tillkallningar",
+      "Comment": "The revised term sounds more natural and fits the fantasy summons context better."
     },
     {
       "Key": "Extra Limb",
@@ -1053,8 +1053,8 @@
     },
     {
       "Key": "Greater Ward",
-      "Translation": "Större Värn",
-      "Comment": "Used 'Värn' here to keep Ward distinct from Protection, which is translated as Skydd elsewhere."
+      "Translation": "Större värn",
+      "Comment": "Adjusted to a more natural Swedish form while keeping the distinction from protection."
     },
     {
       "Key": "War Gods Blessing",

@@ -3,68 +3,68 @@
   "Translations": [
     {
       "Key": "Greenskin Tribes",
-      "Translation": "Greenskin Tribes",
-      "Comment": ""
+      "Translation": "Gröna skinnens stammar",
+      "Comment": "A more natural Swedish fantasy title for the faction name."
     },
     {
       "Key": "Orc Warriors",
-      "Translation": "Orc-krigare",
-      "Comment": ""
+      "Translation": "Orkkrigare",
+      "Comment": "A cleaner and more natural Swedish unit name."
     },
     {
       "Key": "Orc Brutes",
-      "Translation": "Orc-brutaler",
-      "Comment": ""
+      "Translation": "Orkbrutaler",
+      "Comment": "The tone is rough and fitting for the faction."
     },
     {
       "Key": "Goblin Mob",
       "Translation": "Goblinmobb",
-      "Comment": ""
+      "Comment": "This is already concise and effective."
     },
     {
       "Key": "Goblin Spear Mob",
       "Translation": "Goblinspjutmobb",
-      "Comment": ""
+      "Comment": "The compound works well and preserves the unit’s role."
     },
     {
       "Key": "Boar Riders",
       "Translation": "Vildsvinsryttare",
-      "Comment": ""
+      "Comment": "A strong, vivid translation for a beast-riding unit."
     },
     {
       "Key": "Goblin Wolf Riders",
-      "Translation": "Goblinvargsryttare",
-      "Comment": ""
+      "Translation": "Goblinvargryttare",
+      "Comment": "The wording feels more natural and less literal."
     },
     {
       "Key": "Orc Boar Chariot",
-      "Translation": "Orc-vildsvinsstridsvagn",
-      "Comment": ""
+      "Translation": "Orkvildsvinsstridsvagn",
+      "Comment": "The compound reads well and keeps the feral feel."
     },
     {
       "Key": "Goblin Shortbows",
       "Translation": "Goblinkortbågskyttar",
-      "Comment": ""
+      "Comment": "This is a clear and natural unit term."
     },
     {
       "Key": "Goblin Bolt Throwers",
-      "Translation": "Goblinbultkastare",
-      "Comment": ""
+      "Translation": "Goblinboltkastare",
+      "Comment": "The compound is concise and fits the unit style."
     },
     {
       "Key": "Goblin Stonethrower",
       "Translation": "Goblinstenkastare",
-      "Comment": ""
+      "Comment": "This keeps the rough, siege-like tone."
     },
     {
       "Key": "Trolls",
       "Translation": "Troll",
-      "Comment": ""
+      "Comment": "A stable and familiar Swedish fantasy term."
     },
     {
       "Key": "Giant",
       "Translation": "Jätte",
-      "Comment": ""
+      "Comment": "A simple and effective translation."
     },
     {
       "Key": "Wyvern",
@@ -74,22 +74,22 @@
     {
       "Key": "Giant Spider",
       "Translation": "Jättespindel",
-      "Comment": ""
+      "Comment": "The term is vivid and fits the monster tone."
     },
     {
       "Key": "War Chief",
       "Translation": "Krigshövding",
-      "Comment": ""
+      "Comment": "A strong and natural military title."
     },
     {
       "Key": "Goblin Shaman",
-      "Translation": "Goblin-schaman",
-      "Comment": ""
+      "Translation": "Goblinshaman",
+      "Comment": "The Swedish form is more natural and compact."
     },
     {
       "Key": "Goblin King",
       "Translation": "Goblinkung",
-      "Comment": ""
+      "Comment": "A clear and fitting title for the faction leader."
     }
   ]
 }

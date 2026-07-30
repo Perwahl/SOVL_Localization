@@ -3,88 +3,88 @@
   "Translations": [
     {
       "Key": "Dwarf Holds",
-      "Translation": "Dwarf Holds",
-      "Comment": ""
+      "Translation": "Dvärgfästen",
+      "Comment": "Used a more evocative fantasy term for a dwarven stronghold or realm."
     },
     {
       "Key": "Dwarf Warriors",
       "Translation": "Dvärgkrigare",
-      "Comment": ""
+      "Comment": "A straightforward and martial Swedish term that fits the war-game tone."
     },
     {
       "Key": "Dwarf Veterans",
       "Translation": "Dvärgveteraner",
-      "Comment": ""
+      "Comment": "Kept the military register and kept the term close to the source."
     },
     {
       "Key": "Dwarf Miners",
-      "Translation": "Dvärggruvarbetare",
-      "Comment": ""
+      "Translation": "Dvärggruvare",
+      "Comment": "Replaced the more literal laborer wording with a cleaner, more natural military-style noun."
     },
     {
       "Key": "Dwarf Crossbows",
-      "Translation": "Dvärgarmborstskyttar",
-      "Comment": ""
+      "Translation": "Dvärgarmborstmän",
+      "Comment": "This reads more naturally in Swedish and keeps the unit feel concise."
     },
     {
       "Key": "Dwarf Handguns",
-      "Translation": "Dvärghandeldvapen",
-      "Comment": ""
+      "Translation": "Dvärghandkanoner",
+      "Comment": "Adjusted to a more idiomatic Swedish war-game term for a compact ranged unit."
     },
     {
       "Key": "Dwarf Rangers",
       "Translation": "Dvärgjägare",
-      "Comment": ""
+      "Comment": "A concise and fitting term for a hardy, scouting-style dwarven unit."
     },
     {
       "Key": "Dwarf Cannon",
       "Translation": "Dvärgkanon",
-      "Comment": ""
+      "Comment": "The direct equivalent is strong and consistent with the rest of the file."
     },
     {
       "Key": "Dwarf Bolt Thrower",
-      "Translation": "Dvärgbultkastare",
-      "Comment": ""
+      "Translation": "Dvärgboltkastare",
+      "Comment": "Corrected the spelling and used the more natural Swedish compound for this siege weapon."
     },
     {
       "Key": "Dwarf Stonethrower",
       "Translation": "Dvärgstenkastare",
-      "Comment": ""
+      "Comment": "This keeps the rugged, industrial tone of the dwarven war machines."
     },
     {
       "Key": "Dwarf Berserkers",
-      "Translation": "Dvärgbärsärkar",
-      "Comment": ""
+      "Translation": "Dvärgberserkare",
+      "Comment": "Replaced the literal borrowing with a more natural Swedish fantasy-war term."
     },
     {
       "Key": "Deep Guard",
       "Translation": "Djupvakt",
-      "Comment": ""
+      "Comment": "The term is concise and fits the martial, fortress-oriented tone."
     },
     {
       "Key": "Inferno Cannon",
       "Translation": "Infernokanon",
-      "Comment": ""
+      "Comment": "This is a strong, evocative name and suits the fantasy style well."
     },
     {
       "Key": "Dwarf Flying Machine",
       "Translation": "Dvärgflygmaskin",
-      "Comment": ""
+      "Comment": "Kept the direct and functional tone appropriate for a war-game unit name."
     },
     {
       "Key": "Dwarf Foreman",
       "Translation": "Dvärgförman",
-      "Comment": ""
+      "Comment": "This is a natural Swedish title and keeps the dwarven craftsmanship feel."
     },
     {
       "Key": "Ranger Captain",
       "Translation": "Jägarkapten",
-      "Comment": ""
+      "Comment": "A clean and fitting military title with a slightly rugged feel."
     },
     {
       "Key": "Dwarf Engineer",
       "Translation": "Dvärgingenjör",
-      "Comment": ""
+      "Comment": "This reads well and matches the technical, industrial tone of the faction."
     }
   ]
 }

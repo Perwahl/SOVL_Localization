@@ -3,78 +3,78 @@
   "Translations": [
     {
       "Key": "Goatmen Raiders",
-      "Translation": "Goatmen Raiders",
-      "Comment": ""
+      "Translation": "Getmännens rövare",
+      "Comment": "A more vivid Swedish faction title that suggests a raiding warband."
     },
     {
       "Key": "Ibex Warriors",
       "Translation": "Stenbockskrigare",
-      "Comment": ""
+      "Comment": "The phrasing is clean and matches the wild, bestial tone."
     },
     {
       "Key": "Goatmen Warriors",
-      "Translation": "Goatmen-krigare",
-      "Comment": ""
+      "Translation": "Getmännens krigare",
+      "Comment": "The new wording reads more naturally in Swedish."
     },
     {
       "Key": "Mongrel Pack",
-      "Translation": "Mongrel-flock",
-      "Comment": ""
+      "Translation": "Mongrelflock",
+      "Comment": "A more idiomatic Swedish compound for a rabble or pack."
     },
     {
       "Key": "Mongrel Spear",
-      "Translation": "Mongrel-spjut",
-      "Comment": ""
+      "Translation": "Mongrelspjut",
+      "Comment": "The term is concise and fits the rough unit style."
     },
     {
       "Key": "Raiding Chariot",
       "Translation": "Plundringsstridsvagn",
-      "Comment": ""
+      "Comment": "This keeps the aggressive, marauding sense of the unit."
     },
     {
       "Key": "Feral Hounds",
       "Translation": "Vildhundar",
-      "Comment": ""
+      "Comment": "A strong and natural Swedish translation."
     },
     {
       "Key": "Mongrel Skirmishers",
-      "Translation": "Mongrel-skärmytslare",
-      "Comment": ""
+      "Translation": "Mongrelskärmytslare",
+      "Comment": "The Swedish form is more natural for a light skirmishing unit."
     },
     {
       "Key": "Centaurs",
       "Translation": "Kentaurer",
-      "Comment": ""
+      "Comment": "A well-established fantasy term in Swedish."
     },
     {
       "Key": "Minotaurs",
       "Translation": "Minotaurer",
-      "Comment": ""
+      "Comment": "This is already a natural Swedish form."
     },
     {
       "Key": "Harpies",
       "Translation": "Harpyor",
-      "Comment": ""
+      "Comment": "The original is already strong and works well in Swedish."
     },
     {
       "Key": "Feral Giant",
       "Translation": "Vild jätte",
-      "Comment": ""
+      "Comment": "The wording has a rougher, more savage feel."
     },
     {
       "Key": "Goatman Shaman",
-      "Translation": "Goatman-schaman",
-      "Comment": ""
+      "Translation": "Getmannaschaman",
+      "Comment": "The compound reads more naturally in Swedish."
     },
     {
       "Key": "Goatman Longhorn",
-      "Translation": "Goatman-långhorn",
-      "Comment": ""
+      "Translation": "Getmannalånghorn",
+      "Comment": "The term is more natural and compact."
     },
     {
       "Key": "Minotaur Lord",
       "Translation": "Minotaurherre",
-      "Comment": ""
+      "Comment": "A concise and fitting title for a large, powerful leader."
     }
   ]
 }

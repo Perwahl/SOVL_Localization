@@ -3,88 +3,88 @@
   "Translations": [
     {
       "Key": "Elven Conclaves",
-      "Translation": "Elven Conclaves",
-      "Comment": ""
+      "Translation": "Alvkonklaver",
+      "Comment": "A more natural Swedish fantasy title for the faction name."
     },
     {
       "Key": "Elf Spears",
-      "Translation": "Alviska spjut",
-      "Comment": ""
+      "Translation": "Alvspjutmän",
+      "Comment": "A compact and martial Swedish term for a spear unit."
     },
     {
       "Key": "Elf City Guard",
-      "Translation": "Alvisk stadsvakt",
-      "Comment": ""
+      "Translation": "Alvstadsvakt",
+      "Comment": "The Swedish form is simpler and more idiomatic."
     },
     {
       "Key": "Weapon Masters",
       "Translation": "Vapenmästare",
-      "Comment": ""
+      "Comment": "This is already a natural and fitting fantasy-war term."
     },
     {
       "Key": "Elf Archers",
-      "Translation": "Alviska bågskyttar",
-      "Comment": ""
+      "Translation": "Alvbågskyttar",
+      "Comment": "The new phrasing is more fluid in Swedish."
     },
     {
       "Key": "Elf Watchers",
-      "Translation": "Alviska väktare",
-      "Comment": ""
+      "Translation": "Alvväktare",
+      "Comment": "A concise and elegant translation."
     },
     {
       "Key": "Elf Bolt Thrower",
-      "Translation": "Alvisk bultkastare",
-      "Comment": ""
+      "Translation": "Alvboltkastare",
+      "Comment": "The compound reads more naturally in Swedish."
     },
     {
       "Key": "Elf Lancers",
-      "Translation": "Alviska lansryttare",
-      "Comment": ""
+      "Translation": "Alvlansryttare",
+      "Comment": "The term keeps the noble cavalry feel."
     },
     {
       "Key": "Elf Reavers",
-      "Translation": "Alviska plundrare",
-      "Comment": ""
+      "Translation": "Alvplundrare",
+      "Comment": "This is concise and fits the martial tone."
     },
     {
       "Key": "Elf Chariot",
-      "Translation": "Alvisk stridsvagn",
-      "Comment": ""
+      "Translation": "Alvstridsvagn",
+      "Comment": "The Swedish form reads cleanly as a unit name."
     },
     {
       "Key": "Giant Eagle",
       "Translation": "Jätteörn",
-      "Comment": ""
+      "Comment": "A strong and natural Scandinavian fantasy term."
     },
     {
       "Key": "Dragon Knights",
       "Translation": "Drakriddare",
-      "Comment": ""
+      "Comment": "The translation preserves the grandeur of the unit."
     },
     {
       "Key": "Ancient Dragon",
       "Translation": "Uråldrig drake",
-      "Comment": ""
+      "Comment": "The phrasing feels appropriately ancient and majestic."
     },
     {
       "Key": "Gryphon",
       "Translation": "Grip",
-      "Comment": ""
+      "Comment": "This is already the standard Swedish fantasy form."
     },
     {
       "Key": "Elf Noble",
-      "Translation": "Alvisk adelsman",
-      "Comment": ""
+      "Translation": "Alvadelsman",
+      "Comment": "The Swedish wording is more natural and compact."
     },
     {
       "Key": "Elf Mage",
-      "Translation": "Alvisk magiker",
-      "Comment": ""
+      "Translation": "Alvmagiker",
+      "Comment": "The term is simple and consistent with fantasy naming."
     },
     {
       "Key": "Elf Spellsword",
-      "Translation": "Alvisk svärdsmagiker",
-      "Comment": "Localized for clarity rather than keeping the English class title."
+      "Translation": "Alvsvärdsmagiker",
+      "Comment": "Localized for clarity and a more natural Swedish fantasy tone."
     }
   ]
 }

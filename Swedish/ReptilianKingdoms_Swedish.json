@@ -3,58 +3,58 @@
   "Translations": [
     {
       "Key": "Reptilian Kingdoms",
-      "Translation": "Reptilian Kingdoms",
-      "Comment": ""
+      "Translation": "Reptiliska riken",
+      "Comment": "A more natural Swedish faction title with a strong fantasy tone."
     },
     {
       "Key": "Saurian Warriors",
-      "Translation": "Saurian-krigare",
-      "Comment": ""
+      "Translation": "Saurianska krigare",
+      "Comment": "The wording feels more natural and fits the reptilian theme."
     },
     {
       "Key": "Crocolisk Bruisers",
-      "Translation": "Crocolisk-krossare",
-      "Comment": ""
+      "Translation": "Krokodilska krossare",
+      "Comment": "A vivid and fitting translation for a brutal melee unit."
     },
     {
       "Key": "Newt Braves",
-      "Translation": "Newt-kämpar",
-      "Comment": ""
+      "Translation": "Newtkrigare",
+      "Comment": "The translation is compact and suitable for a warrior unit."
     },
     {
       "Key": "Saurian Spear",
-      "Translation": "Saurian-spjut",
-      "Comment": ""
+      "Translation": "Saurianska spjutmän",
+      "Comment": "The phrasing sounds natural and martial."
     },
     {
       "Key": "Raptor Riders",
       "Translation": "Raptorryttare",
-      "Comment": ""
+      "Comment": "A strong and natural Swedish unit name."
     },
     {
       "Key": "Pterodactyl Riders",
-      "Translation": "Pterodactyl-ryttare",
-      "Comment": ""
+      "Translation": "Pterodaktylryttare",
+      "Comment": "The translated form is cleaner and more readable."
     },
     {
       "Key": "Newt Skirmishers",
-      "Translation": "Newt-skärmytslare",
-      "Comment": ""
+      "Translation": "Newtskärmytslare",
+      "Comment": "The term feels appropriate for a light, evasive unit."
     },
     {
       "Key": "Firelizard",
       "Translation": "Eldödla",
-      "Comment": ""
+      "Comment": "This is a vivid and fitting fantasy translation."
     },
     {
       "Key": "Triceratops",
       "Translation": "Triceratops",
-      "Comment": ""
+      "Comment": "The creature name is already well established in Swedish."
     },
     {
       "Key": "Jungle Swarm",
       "Translation": "Djungelsvärm",
-      "Comment": ""
+      "Comment": "A crisp and atmospheric translation."
     },
     {
       "Key": "Dreadmaw",
@@ -64,22 +64,22 @@
     {
       "Key": "Tyrannosaur",
       "Translation": "Tyrannosaur",
-      "Comment": ""
+      "Comment": "The creature name is already well established."
     },
     {
       "Key": "Newt Priest",
-      "Translation": "Newt-präst",
-      "Comment": ""
+      "Translation": "Newtpräst",
+      "Comment": "The new form is compact and natural."
     },
     {
       "Key": "Saurian Warlord",
-      "Translation": "Saurian-krigsherre",
-      "Comment": ""
+      "Translation": "Sauriansk krigsherre",
+      "Comment": "The wording sounds more authoritative and fitting for a leader."
     },
     {
       "Key": "Ancient Toad",
       "Translation": "Uråldrig padda",
-      "Comment": ""
+      "Comment": "The translation has a strong fantasy feel and fits the creature’s role."
     }
   ]
 }

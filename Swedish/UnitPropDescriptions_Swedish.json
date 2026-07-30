@@ -3,48 +3,48 @@
   "Translations": [
     {
       "Key": "+1 Defense. Charge Bonus: +1 Power",
-      "Translation": "+1 F?rsvar. Laddningsbonus: +1 Kraft",
-      "Comment": ""
+      "Translation": "+1 försvar. Laddningsbonus: +1 kraft",
+      "Comment": "Used standard Swedish rules wording for defense and power."
     },
     {
       "Key": "+1 Movement",
-      "Translation": "+1 R?relsehastighet",
-      "Comment": ""
+      "Translation": "+1 rörelsehastighet",
+      "Comment": "A straightforward and natural Swedish rule-term translation."
     },
     {
       "Key": "Charge Bonus: +1 Power",
-      "Translation": "Laddningsbonus: +1 Kraft",
-      "Comment": ""
+      "Translation": "Laddningsbonus: +1 kraft",
+      "Comment": "Kept the charging terminology consistent with the rest of the rules text."
     },
     {
       "Key": "Reroll failed Discipline Tests",
-      "Translation": "Sl? om misslyckade Disciplintest",
-      "Comment": ""
+      "Translation": "Slå om misslyckade disciplinstest",
+      "Comment": "This keeps the rules language clear and idiomatic in Swedish."
     },
     {
       "Key": "Unit counts as being in Cover. (-1 to Ranged attack rolls against it).",
-      "Translation": "Enheten r?knas som i Skydd. (-1 p? Avst?ndsattackslag mot den).",
-      "Comment": ""
+      "Translation": "Enheten räknas som i skydd. (-1 till avståndsattacker mot den).",
+      "Comment": "Used a more natural Swedish phrasing for cover and ranged attacks."
     },
     {
       "Key": "+1 Combat Score",
-      "Translation": "+1 Stridsv?rde",
-      "Comment": ""
+      "Translation": "+1 stridsvärde",
+      "Comment": "A standard and readable Swedish rules term."
     },
     {
       "Key": "Unit has +1 Attack this turn. Activate once per battle.",
-      "Translation": "Enheten har +1 Attack denna omg?ng. Aktivera en g?ng per strid.",
-      "Comment": ""
+      "Translation": "Enheten har +1 anfall denna omgång. Aktivera en gång per strid.",
+      "Comment": "Adjusted to a more natural Swedish battle-rules tone."
     },
     {
       "Key": "+1 Power. Charge Bonus: +1 Power.",
-      "Translation": "+1 Kraft. Laddningsbonus: +1 Kraft.",
-      "Comment": ""
+      "Translation": "+1 kraft. Laddningsbonus: +1 kraft.",
+      "Comment": "Kept the power bonus wording consistent with the rest of the file."
     },
     {
       "Key": "-1 Movement. +1 Defense",
-      "Translation": "-1 R?relsehastighet. +1 F?rsvar",
-      "Comment": ""
+      "Translation": "-1 rörelsehastighet. +1 försvar",
+      "Comment": "This is cleaner and easier to read in Swedish."
     },
     {
       "Key": "If a Commander is part of this unit it re-rolls failed Discipline tests.",
