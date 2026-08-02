@@ -13,7 +13,7 @@
     },
     {
       "Key": "Darkborn Dreadguard",
-      "Translation": "Dunkelgeborene Schreckengarde",
+      "Translation": "Dunkelgeborene Schreckensgarde",
       "Comment": "Schrecken = dread. Elite heavy infantry radiating fear."
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "Key": "Darkborn Boltthrower",
-      "Translation": "Dunkelgeborener Bolzenwerfer",
+      "Translation": "Dunkelgeborene Balliste",
       "Comment": "Heavy artillery. Consistent with other bolt thrower translations."
     },
     {
       "Key": "Raptor Knights",
-      "Translation": "Raptoritter",
+      "Translation": "Raptorritter",
       "Comment": "Knights riding vicious raptors. Fast and deadly cavalry."
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "Key": "Darkborn Noble",
-      "Translation": "Dunkelgeborener Edelmann",
+      "Translation": "Dunklegeborener Adliger",
       "Comment": "Noble dark elf leader. Cruel and cunning."
     },
     {

@@ -3,12 +3,12 @@
   "Translations": [
     {
       "Key": "Abyssal Demons",
-      "Translation": "Abgrunddämonen",
+      "Translation": "Dämonen aus der Tiefe",
       "Comment": "Abgrund = abyss, Dämonen = demons. Creatures from the darkest depths."
     },
     {
       "Key": "Abyssal Vipers",
-      "Translation": "Abgrundvipern",
+      "Translation": "Vipern aus der Tiefe",
       "Comment": "Vipern = vipers. Serpentine demonic creatures."
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "Key": "Plaguelings",
-      "Translation": "Seuchenlinge",
+      "Translation": "Seuchlinge",
       "Comment": "Created a diminutive form of plague creatures. Small plague demons."
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "Key": "Abyssal Reapers",
-      "Translation": "Abgrundsensenträger",
+      "Translation": "Sensenträger aus der Tiefe",
       "Comment": "Sensenträger = scythe-bearers/reapers. Death-dealing demons."
     },
     {
@@ -63,12 +63,12 @@
     },
     {
       "Key": "Abyssal Prince",
-      "Translation": "Abgrundfürst",
+      "Translation": "Fürst aus der Tiefe",
       "Comment": "Fürst = prince/lord. Powerful demonic ruler."
     },
     {
       "Key": "Abyssal Herald",
-      "Translation": "Abgrundherold",
+      "Translation": "Herold aus der Tiefe",
       "Comment": "Herold = herald. Messenger and champion of the abyss."
     }
   ]

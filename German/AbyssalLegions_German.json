@@ -3,7 +3,7 @@
   "Translations": [
     {
       "Key": "Abyssal Legions",
-      "Translation": "Abgrundlegionen",
+      "Translation": "Legionen aus der Tiefe",
       "Comment": "Legionen = legions. Organized demonic armies, mixed with corrupted mortals."
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "Key": "Abyssal Warriors",
-      "Translation": "Abgrundkrieger",
+      "Translation": "Krieger aus der Tiefe",
       "Comment": "Armored warriors corrupted by the abyss."
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "Key": "Abyssal Knights",
-      "Translation": "Abgrundritter",
+      "Translation": "Ritter aus der Tiefe",
       "Comment": "Corrupted knights serving the abyss. Heavy demonic cavalry."
     },
     {
       "Key": "Abyssal Hounds",
-      "Translation": "Abgrundhunde",
+      "Translation": "Hunde aus der Tiefe",
       "Comment": "War hounds from the abyss. Fast attack beasts."
     },
     {
       "Key": "Abyssal Chariot",
-      "Translation": "Abgrundstreitwagen",
+      "Translation": "Streitwagen aus der Tiefe",
       "Comment": "Demonic chariot. Brutal and swift."
     },
     {
@@ -68,12 +68,12 @@
     },
     {
       "Key": "Abyssal Champion",
-      "Translation": "Abgrundchampion",
+      "Translation": "Champion aus der Tiefe",
       "Comment": "Elite warrior of the abyss. Mighty hero unit."
     },
     {
       "Key": "Abyssal Sorcerer",
-      "Translation": "Abgrundzauberer",
+      "Translation": "Zauberer aus der Tiefe",
       "Comment": "Dark sorcerer wielding abyssal magic."
     },
     {

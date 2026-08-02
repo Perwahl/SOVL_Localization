@@ -3,12 +3,12 @@
   "Translations": [
     {
       "Key": "Deepwood Guardians",
-      "Translation": "Tiefwaldhüter",
+      "Translation": "Beschützer des tiefen Waldes",
       "Comment": "Tiefwald = deepwood, Hüter = guardians. Protectors of the ancient forest."
     },
     {
       "Key": "Deepwood Guard",
-      "Translation": "Tiefwaldwache",
+      "Translation": "Wächter des tiefen Waldes",
       "Comment": "Wache = guard. Basic forest defenders."
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "Key": "Deepwood Dancers",
-      "Translation": "Tiefwaldtänzer",
+      "Translation": "Tänzer des tiefen Waldes",
       "Comment": "Tänzer = dancers. Swift and graceful forest warriors."
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "Key": "Deepwood Riders",
-      "Translation": "Tiefwaldreiter",
+      "Translation": "Reiter aus dem tiefen Wald",
       "Comment": "Fast cavalry of the forest. Riding forest creatures."
     },
     {
       "Key": "Deepwood Chariot",
-      "Translation": "Tiefwaldstreitwagen",
+      "Translation": "Streitwagen aus dem tiefen Wald",
       "Comment": "Nature-powered chariot."
     },
     {
@@ -68,12 +68,12 @@
     },
     {
       "Key": "Deepwood Noble",
-      "Translation": "Tiefwaldedelmann",
+      "Translation": "Adliger des tiefen Waldes",
       "Comment": "Noble leader of the forest folk."
     },
     {
       "Key": "Deepwood Druid",
-      "Translation": "Tiefwalddruide",
+      "Translation": " Druide des tiefen Waldes",
       "Comment": "Druide = druid. Nature magic user."
     },
     {

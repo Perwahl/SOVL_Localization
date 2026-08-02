@@ -3,7 +3,7 @@
   "Translations": [
     {
       "Key": "Warband",
-      "Translation": "Kriegsbande",
+      "Translation": "Kriegertrupp",
       "Comment": ""
     },
     {
@@ -203,7 +203,7 @@
     },
     {
       "Key": "Ranked",
-      "Translation": "Gerankt",
+      "Translation": "Ranglistenspiel",
       "Comment": ""
     },
     {
@@ -218,7 +218,7 @@
     },
     {
       "Key": "Army Builder",
-      "Translation": "Armee-Builder",
+      "Translation": "Armee Aufstellen",
       "Comment": ""
     },
     {
@@ -228,12 +228,12 @@
     },
     {
       "Key": "Replays",
-      "Translation": "Wiederholungen",
+      "Translation": "Aufnahmen",
       "Comment": ""
     },
     {
       "Key": "Rules Reference",
-      "Translation": "Regelreferenz",
+      "Translation": "Regeln",
       "Comment": ""
     },
     {
@@ -453,7 +453,7 @@
     },
     {
       "Key": "Ranked Multiplayer",
-      "Translation": "Gerankter Mehrspieler",
+      "Translation": "Rangliste Mehrspieler",
       "Comment": ""
     },
     {
@@ -473,7 +473,7 @@
     },
     {
       "Key": "Top Ranked Players",
-      "Translation": "Top-gerankte Spieler",
+      "Translation": "Top 10",
       "Comment": ""
     },
     {

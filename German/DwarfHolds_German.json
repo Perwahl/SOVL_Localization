@@ -3,7 +3,7 @@
   "Translations": [
     {
       "Key": "Dwarf Holds",
-      "Translation": "Zwergenfestungen",
+      "Translation": " Festungen der Zwerge",
       "Comment": ""
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "Key": "Dwarf Rangers",
-      "Translation": "Zwergenkundschafter",
+      "Translation": "Zwergenspäher",
       "Comment": ""
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "Key": "Deep Guard",
-      "Translation": "Tiefengarde",
+      "Translation": "Tiefenwächter",
       "Comment": ""
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "Key": "Ranger Captain",
-      "Translation": "Hauptmann der Kundschafter",
+      "Translation": "Hauptmann der Späher",
       "Comment": ""
     },
     {

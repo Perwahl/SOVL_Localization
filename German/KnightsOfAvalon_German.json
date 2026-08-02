@@ -28,7 +28,7 @@
     },
     {
       "Key": "Knight Aspirants",
-      "Translation": "Ritteraspiranten",
+      "Translation": "Ritteranwärter",
       "Comment": "Aspiranten = aspirants. Young warriors training to become knights."
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "Key": "Sworn Knights",
-      "Translation": "Geschworene Ritter",
+      "Translation": "Schwurritter",
       "Comment": "Geschworene = sworn. Knights who have taken sacred oaths."
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "Key": "Maiden",
-      "Translation": "Jungfrau",
+      "Translation": "Jungfer",
       "Comment": "Jungfrau = maiden. Holy warrior blessed by the divine. Alternative: Heilige Jungfrau."
     },
     {

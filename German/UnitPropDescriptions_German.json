@@ -413,7 +413,7 @@
     },
     {
       "Key": "Always counts as being in Cover. -3 Defense in Close Combat. Unit can't charge.",
-      "Translation": "Gilt immer als in Deckung. -3 Verteidigung im Nahkampf. Einheit kann nicht stürmen.",
+      "Translation": "Gilt immer als in Deckung. -3 Verteidigung im Nahkampf. Einheit kann nicht anstürmen.",
       "Comment": "Pavise/static defense weapon"
     },
     {

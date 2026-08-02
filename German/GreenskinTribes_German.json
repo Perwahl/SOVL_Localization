@@ -48,13 +48,13 @@
     },
     {
       "Key": "Goblin Bolt Throwers",
-      "Translation": "Goblin-Bolzenwerfer",
-      "Comment": "Bolzenwerfer matches the term used in UnitProps for bolt thrower weapons."
+      "Translation": "Goblin-Pfeilmaschine",
+      "Comment": "Pfeilmaschine = bolt thrower. Maintains the mechanical and warlike tone."
     },
     {
       "Key": "Goblin Stonethrower",
-      "Translation": "Goblin-Steinschleuder",
-      "Comment": "Steinschleuder for stone thrower, consistent with Dwarf artillery naming."
+      "Translation": "Goblin-Wurfmaschine",
+      "Comment": "Wurfmaschine for stone thrower"
     },
     {
       "Key": "Trolls",

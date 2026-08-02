@@ -3,7 +3,7 @@
   "Translations": [
     {
       "Key": "Elven Conclaves",
-      "Translation": "Elfenkonklave",
+      "Translation": "Konklave der Elfen",
       "Comment": "Konklave conveys the organized, council-like nature of Elven society. Singular form is more elegant in German."
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "Key": "Elf Bolt Thrower",
-      "Translation": "Elfen-Bolzenwerfer",
+      "Translation": "Elfenbolzengeschütz",
       "Comment": "Consistent with other bolt thrower translations. Hyphen for clarity."
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "Key": "Elf Reavers",
-      "Translation": "Elfenplünderer",
+      "Translation": "Elfenmarodeure",
       "Comment": "Plünderer = reavers/raiders. Fast cavalry that strikes and withdraws."
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "Key": "Elf Noble",
-      "Translation": "Elfenedelmann",
+      "Translation": "Elfenadel",
       "Comment": "Edelmann = nobleman. Traditional term for aristocratic leader."
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "Key": "Elf Spellsword",
-      "Translation": "Elfenklangenschmied",
+      "Translation": "Zauberklingenelf",
       "Comment": "Klingenschmied literally 'blade smith' but conveys the martial-magical hybrid warrior. Alternative: Zauberklinge (magic blade)."
     }
   ]

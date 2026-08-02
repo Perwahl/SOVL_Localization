@@ -48,7 +48,7 @@
     },
     {
       "Key": "Greatweapon",
-      "Translation": "Zweihandwaffe",
+      "Translation": "Zweihänder",
       "Comment": ""
     },
     {
@@ -233,12 +233,12 @@
     },
     {
       "Key": "Prowess",
-      "Translation": "Kampfkraft",
+      "Translation": "Kampfkunst",
       "Comment": ""
     },
     {
       "Key": "Unnatural Power",
-      "Translation": "Unnatürliche Macht",
+      "Translation": "Außergewöhnliche Kraft",
       "Comment": ""
     },
     {
@@ -268,7 +268,7 @@
     },
     {
       "Key": "True Strike",
-      "Translation": "Wahrer Schlag",
+      "Translation": "Wirksamer Hieb",
       "Comment": ""
     },
     {
@@ -298,7 +298,7 @@
     },
     {
       "Key": "Radiant Shield",
-      "Translation": "Strahlenschild",
+      "Translation": "Glänzender Schild",
       "Comment": ""
     },
     {
@@ -333,12 +333,12 @@
     },
     {
       "Key": "Warcry",
-      "Translation": "Kriegsschrei",
+      "Translation": "Kampfschrei",
       "Comment": ""
     },
     {
       "Key": "Primal Fury",
-      "Translation": "Urfurie",
+      "Translation": "Urzorn",
       "Comment": ""
     },
     {
@@ -358,7 +358,7 @@
     },
     {
       "Key": "Power Of Many",
-      "Translation": "Kraft der Vielen",
+      "Translation": "Wir sind Viele",
       "Comment": ""
     },
     {
@@ -383,7 +383,7 @@
     },
     {
       "Key": "Ranger",
-      "Translation": "Waldläufer",
+      "Translation": "Späher",
       "Comment": ""
     },
     {
@@ -398,7 +398,7 @@
     },
     {
       "Key": "Elven Mastery",
-      "Translation": "Elfenmeisterschaft",
+      "Translation": "Meisterhaftes Geschick",
       "Comment": ""
     },
     {
@@ -408,7 +408,7 @@
     },
     {
       "Key": "Rallying Cry",
-      "Translation": "Kampfruf",
+      "Translation": "Schlachtruf",
       "Comment": ""
     },
     {

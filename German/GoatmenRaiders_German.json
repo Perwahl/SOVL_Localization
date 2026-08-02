@@ -38,8 +38,8 @@
     },
     {
       "Key": "Mongrel Skirmishers",
-      "Translation": "Mischlings-Plänkler",
-      "Comment": "Plänkler = skirmishers. Light troops for harassment."
+      "Translation": "Mischlings-Aufklärer",
+      "Comment": "Aufklärer = skirmishers/recon troops. Light troops for harassment."
     },
     {
       "Key": "Centaurs",
@@ -73,7 +73,7 @@
     },
     {
       "Key": "Minotaur Lord",
-      "Translation": "Minotaurenherr",
+      "Translation": "Minotaurenlord",
       "Comment": "Mighty minotaur leader. Powerful hero."
     }
   ]

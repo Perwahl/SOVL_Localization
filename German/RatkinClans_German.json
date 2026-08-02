@@ -3,7 +3,7 @@
   "Translations": [
     {
       "Key": "Ratkin Clans",
-      "Translation": "Rattenmensch-Klans",
+      "Translation": "Klans der Rattenmenschen",
       "Comment": "Rattenmensch = rat-people. Klans maintains the tribal structure."
     },
     {
@@ -13,12 +13,12 @@
     },
     {
       "Key": "Ratkin Conscripts",
-      "Translation": "Rattenmensch-Wehrpflichtige",
+      "Translation": "Rattenmensch-Rekrut",
       "Comment": "Wehrpflichtige = conscripts. Forced levies of rat-men."
     },
     {
       "Key": "Ratkin Skulkers",
-      "Translation": "Rattenmensch-Schleicher",
+      "Translation": "Rattenmensch-Meuchler",
       "Comment": "Schleicher = skulkers/sneakers. Stealthy infiltrators."
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "Key": "Ratkin Slingers",
-      "Translation": "Rattenmensch-Schleuderer",
+      "Translation": "Rattenmensch-Schleuderschütze",
       "Comment": "Schleuderer = slingers. Simple ranged troops."
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "Key": "Rat Swarms",
-      "Translation": "Rattenschwärme",
+      "Translation": "Rattenschwarm",
       "Comment": "Schwärme = swarms. Masses of vermin."
     },
     {
