@@ -8,32 +8,32 @@
     },
     {
       "Key": "Dwarf Warriors",
-      "Translation": "Гномьи Воины",
+      "Translation": "Гномы-воины",
       "Comment": "Standard infantry unit; formal adjective for dwarf-related"
     },
     {
       "Key": "Dwarf Veterans",
-      "Translation": "Гномьи Ветераны",
+      "Translation": "Гномы-ветераны",
       "Comment": "Experienced, elite infantry unit"
     },
     {
       "Key": "Dwarf Miners",
-      "Translation": "Гномьи Шахтеры",
+      "Translation": "Шахтеры гномов",
       "Comment": "Worker unit that excavates; maintains connection to dwarf heritage"
     },
     {
       "Key": "Dwarf Crossbows",
-      "Translation": "Гномьи Арбалетчики",
+      "Translation": "Арбалетчики гномов",
       "Comment": "Ranged infantry with crossbows; military term for crossbow wielders"
     },
     {
       "Key": "Dwarf Handguns",
-      "Translation": "Гномьи Аркебузиры",
+      "Translation": "Гномы-стрелки",
       "Comment": "Firearms infantry; period-appropriate term for musketeers"
     },
     {
       "Key": "Dwarf Rangers",
-      "Translation": "Гномьи Разведчики",
+      "Translation": "Гномы-егеря",
       "Comment": "Scout/ranger unit; more grounded than transliterating English term"
     },
     {
@@ -48,12 +48,12 @@
     },
     {
       "Key": "Dwarf Stonethrower",
-      "Translation": "Гномий Катапульт",
+      "Translation": "Катапульта гномов",
       "Comment": "Siege weapon; using established term for stone-throwing artillery"
     },
     {
       "Key": "Dwarf Berserkers",
-      "Translation": "Гномьи Берсерки",
+      "Translation": "Берсерки",
       "Comment": "Elite melee warriors; term retained for recognizable mythological context"
     },
     {
@@ -68,12 +68,12 @@
     },
     {
       "Key": "Dwarf Flying Machine",
-      "Translation": "Гномья Летающая Машина",
+      "Translation": "Ветролет",
       "Comment": "Distinctive dwarf-tech unit; maintains fantastical tone"
     },
     {
       "Key": "Dwarf Foreman",
-      "Translation": "Гномий Мастер",
+      "Translation": "Мастер Гном",
       "Comment": "Leader unit; 'master' implies authority and craftsmanship"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "Key": "Dwarf Engineer",
-      "Translation": "Гномий Инженер",
+      "Translation": "Инженер",
       "Comment": "Technical specialist unit; reflects dwarf civilization's engineering prowess"
     }
   ]

@@ -8,27 +8,27 @@
     },
     {
       "Key": "Sword Militia",
-      "Translation": "Мечная Милиция",
+      "Translation": "Ополченцы-мечники",
       "Comment": "Miliz = militia. Citizen soldiers with swords."
     },
     {
       "Key": "Peasant Mob",
-      "Translation": "Крестьянская Толпа",
+      "Translation": "Толпа крестьян",
       "Comment": "Bauern = peasants. Untrained levies."
     },
     {
       "Key": "Halberd Militia",
-      "Translation": "Алебардная Милиция",
+      "Translation": "Ополченцы-алебардисты",
       "Comment": "Militia armed with halberds."
     },
     {
       "Key": "Spear Militia",
-      "Translation": "Копейная Милиция",
+      "Translation": "Ополченцы-копейщики",
       "Comment": "Basic spear-wielding militia."
     },
     {
       "Key": "Knight Aspirants",
-      "Translation": "Кандидаты в Рыцари",
+      "Translation": "Рыцари-Претенденты",
       "Comment": "Aspiranten = aspirants. Young warriors training to become knights."
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "Key": "Hunting Dogs",
-      "Translation": "Боевые Собаки",
+      "Translation": "Охотничьи Собаки",
       "Comment": "War dogs used in battle."
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "Key": "Longbowmen",
-      "Translation": "Лучники с Длинными Луками",
+      "Translation": "Авалонские стрелки",
       "Comment": "Famous archers with longbows. Elite ranged troops."
     },
     {

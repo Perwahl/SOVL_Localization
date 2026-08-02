@@ -3,7 +3,7 @@
   "Translations": [
     {
       "Key": "Dead Nations",
-      "Translation": "Мертвые Государства",
+      "Translation": "Мертвые Народы",
       "Comment": "Direct translation. Мертвые (Dead) + Государства (Nations). Evokes the undead kingdoms rising from ancient graves."
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "Key": "Wight Guard",
-      "Translation": "Стража Бармалея",
+      "Translation": "Вихты-Стражи",
       "Comment": "Бармалей (wight/spectre) is an archaic Russian term evoking ancient evil. Стража (guard) conveys elite warriors. Alternative: Привидение could be used but is too modern."
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "Key": "Dire Wolves",
-      "Translation": "Теневые Волки",
+      "Translation": "Лютоволки",
       "Comment": "Теневые (shadow) Волки (wolves) conveys supernatural, cursed nature. Alternative: Грозные Волки (dread wolves) for more menace."
     },
     {
@@ -48,12 +48,12 @@
     },
     {
       "Key": "Dread Knights",
-      "Translation": "Рыцари Страха",
+      "Translation": "Ужасающие Рыцари",
       "Comment": "Страх (dread/fear) + Рыцари (knights). Elite undead knights radiating terror and supernatural menace."
     },
     {
       "Key": "Fell Bats",
-      "Translation": "Ужасные Летучие Мыши",
+      "Translation": "Проклятые Нетопыри",
       "Comment": "Ужасные (fell/dreadful) + Летучие мыши (bats). Monstrous flying creatures of darkness. Alternative: Мрачные летучие мыши (grim bats)."
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "Key": "Wight Lord",
-      "Translation": "Властелин-Привидение",
+      "Translation": "Вихт-Лорд",
       "Comment": "Властелин (lord/master) + Привидение (wight/spectre). Ancient undead noble commanding the armies of the dead. Hyphenated for mythic weight."
     },
     {

@@ -8,7 +8,7 @@
     },
     {
       "Key": "Northmen Axe",
-      "Translation": "Топор Северян",
+      "Translation": "Северяне-воины",
       "Comment": "Nordmänner = Northmen (barbarians). Axtkrieger = axe warriors. Corrupted northern warriors. Топор = axe, Северяне = Northmen."
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "Key": "Northmen Horse",
-      "Translation": "Конница Северян",
+      "Translation": "Северяне-всадники",
       "Comment": "Reiter = riders/cavalry. Northern barbarian cavalry. Конница = cavalry units."
     },
     {
@@ -48,8 +48,8 @@
     },
     {
       "Key": "Devilspawn",
-      "Translation": "Дьяволята",
-      "Comment": "Lesser demons. Same as in Abyssal Demons faction. Дьяволята = imp-like demonic creatures, lesser demons."
+        "Translation": "Дьявольские Отродья",
+        "Comment": "Lesser demons. Same as in Abyssal Demons faction. Дьявольские Отродья = infernal offspring, fitting the faction's demonic tone."
     },
     {
       "Key": "War Mammoth",

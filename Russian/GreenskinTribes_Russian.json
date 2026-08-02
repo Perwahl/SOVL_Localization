@@ -3,27 +3,27 @@
   "Translations": [
     {
       "Key": "Greenskin Tribes",
-      "Translation": "Зеленокожие племена",
+      "Translation": "Племена Зеленокожих",
       "Comment": "Literal translation maintaining the fantasy wargame tone. Maintains the tribal and savage nature of the faction."
     },
     {
       "Key": "Orc Warriors",
-      "Translation": "Orks Воины",
+      "Translation": "Орки-воины",
       "Comment": "Standard compound word for Orc Warriors. Keeps the brutal and direct feel of ork military units."
     },
     {
       "Key": "Orc Brutes",
-      "Translation": "Orks Грубияны",
+      "Translation": "Громилы",
       "Comment": "Грубияны conveys brutality and crude nature, fitting for the savage Orc brutes."
     },
     {
       "Key": "Goblin Mob",
-      "Translation": "Толпа гоблинов",
+      "Translation": "Банда гоблинов",
       "Comment": "Толпа (mob/horde) conveys the chaotic, swarming nature of goblin troops."
     },
     {
       "Key": "Goblin Spear Mob",
-      "Translation": "Толпа копьеносцев",
+      "Translation": "Банда гоблинов-копейщиков",
       "Comment": "Копьеносцев (spear-carriers) differentiates this mob type from other goblin formations."
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "Key": "Orc Boar Chariot",
-      "Translation": "Боевая колесница орков",
+      "Translation": "Кабанья колесница",
       "Comment": "Боевая колесница (war chariot) conveys the epic, mythical power of this heavy unit."
     },
     {
@@ -48,12 +48,12 @@
     },
     {
       "Key": "Goblin Bolt Throwers",
-      "Translation": "Гоблины-метатели болтов",
+      "Translation": "Болтомет гоблинов",
       "Comment": "Метатели болтов (bolt throwers) maintains consistency with siege weapon terminology."
     },
     {
       "Key": "Goblin Stonethrower",
-      "Translation": "Метатель камней гоблина",
+      "Translation": "Гоблинская катапульта",
       "Comment": "Метатель камней (stone thrower) maintains consistent artillery terminology across factions."
     },
     {

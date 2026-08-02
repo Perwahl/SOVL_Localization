@@ -3,17 +3,17 @@
   "Translations": [
     {
       "Key": "Elven Conclaves",
-      "Translation": "Эльфийские Соборы",
+      "Translation": "Эльфийский Конклав",
       "Comment": "Соборы (Sobory - Cathedrals/Councils) conveys the organized, council-like nature of Elven society. Maintains dignity and fantasy tone."
     },
     {
       "Key": "Elf Spears",
-      "Translation": "Эльфийские Копьеносцы",
+      "Translation": "Копейщики эльфов",
       "Comment": "Копьеносцы (Spear-bearers) is more specific than just 'копья' (spears) and fits military unit naming conventions."
     },
     {
       "Key": "Elf City Guard",
-      "Translation": "Эльфийская Городская Стража",
+      "Translation": "Городская Стража",
       "Comment": "Городская Стража (City Guard) is a compound construction that maintains the defensive role and military formality."
     },
     {
@@ -28,17 +28,17 @@
     },
     {
       "Key": "Elf Watchers",
-      "Translation": "Эльфийские Дозорные",
+      "Translation": "Дозорные",
       "Comment": "Дозорные (Sentries/Watchers) implies vigilance and protective duty, fitting for their role."
     },
     {
       "Key": "Elf Bolt Thrower",
-      "Translation": "Эльфийский Баллист",
+      "Translation": "Болтомет эльфов",
       "Comment": "Баллист (Ballista operator) is consistent with siege weapon terminology in fantasy wargames."
     },
     {
       "Key": "Elf Lancers",
-      "Translation": "Эльфийские Копьеносцы на Конях",
+      "Translation": "Копейщики эльфов на Конях",
       "Comment": "Копьеносцы на Конях (Lance riders/cavalry) elegantly conveys mounted cavalry troops with martial elegance."
     },
     {
@@ -48,13 +48,13 @@
     },
     {
       "Key": "Elf Chariot",
-      "Translation": "Эльфийская Боевая Колесница",
+      "Translation": "Эльфийская колесница",
       "Comment": "Боевая Колесница (War Chariot) is classic military vehicle terminology appropriate for fantasy wargames."
     },
     {
       "Key": "Giant Eagle",
-      "Translation": "Огромный Орёл",
-      "Comment": "Огромный Орёл (Giant Eagle) is direct translation. Majestic creature fitting for Elven air forces."
+      "Translation": "Великий Орел",
+      "Comment": "Великий Орел (Giant Eagle) is direct translation. Majestic creature fitting for Elven air forces."
     },
     {
       "Key": "Dragon Knights",

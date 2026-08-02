@@ -3,32 +3,32 @@
   "Translations": [
     {
       "Key": "Worlds Hope",
-      "Translation": "Надежда Миров",
+      "Translation": "Надежда Мира",
       "Comment": "Poetic/prophetic army name - feminine gender for abstract concept"
     },
     {
       "Key": "Worlds End",
-      "Translation": "Конец Миров",
+      "Translation": "Рок Мира",
       "Comment": "Apocalyptic army name - masculine for 'End'"
     },
     {
       "Key": "Shambling Host",
-      "Translation": "Шатающееся Воинство",
+      "Translation": "Шаркающее Воинство",
       "Comment": "Undead army - 'shambling' = slow zombie movement, participial form captures ungainly movement"
     },
     {
       "Key": "Goblin Raiders",
-      "Translation": "Гоблинские Налётчики",
+      "Translation": "Гоблинский рейд",
       "Comment": "Military terminology for aggressive cavalry-style raiders"
     },
     {
       "Key": "Roaming Brigands",
-      "Translation": "Кочующие Разбойники",
+      "Translation": "Скитающиеся грабители",
       "Comment": "Classic fantasy bandits - 'roaming' emphasizes their nomadic nature"
     },
     {
       "Key": "Orc Scouts",
-      "Translation": "Orcкие Разведчики",
+      "Translation": "Разведчики орков",
       "Comment": "Military unit terminology"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "Key": "Newt Ambushers",
-      "Translation": "Тритоньи Засадчики",
+      "Translation": "Западня тритонов",
       "Comment": "Lizardmen ambush party - 'тритонь' for amphibious lizardmen"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "Key": "Orc Raiders",
-      "Translation": "Orcкие Налётчики",
+      "Translation": "Налетчики орков",
       "Comment": "Military unit terminology - more aggressive than scouts"
     },
     {
@@ -68,7 +68,7 @@
     },
     {
       "Key": "Mining Crew",
-      "Translation": "Горняцкая Бригада",
+      "Translation": "Шахтерская бригада",
       "Comment": "Dwarf miners - occupational terminology"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "Key": "Colossal Dreadmaw",
-      "Translation": "Колоссальный Ужасопас",
+      "Translation": "Ужасная Пасть",
       "Comment": "Giant monster name - compound word suggests terrifying creature"
     },
     {
@@ -108,7 +108,7 @@
     },
     {
       "Key": "Gundrik Anvilhide",
-      "Translation": "Гундрик Наковальнешкур",
+      "Translation": "Гендрик Анвилхайд",
       "Comment": "Dwarf champion - surname translated for dwarven flavor (anvil + hide)"
     },
     {
@@ -148,7 +148,7 @@
     },
     {
       "Key": "Rasha Blackfur",
-      "Translation": "Раша Чёрнобык",
+      "Translation": "Раша Черношкур",
       "Comment": "Beastman/Ratkin chieftain - surname is descriptive epithet"
     },
     {
@@ -158,7 +158,7 @@
     },
     {
       "Key": "Northmen Raiders",
-      "Translation": "Северные Налётчики",
+      "Translation": "Налетчики Северян",
       "Comment": "Viking-style warriors - emphasizes northern origin and raiding tactics"
     },
     {
@@ -183,27 +183,27 @@
     },
     {
       "Key": "Brood Swarm",
-      "Translation": "Выводок Тварей",
+      "Translation": "Роящаяся Стая",
       "Comment": "Lizardmen/reptilian swarm - 'brood' suggests mass hatching"
     },
     {
       "Key": "Dreadnought Fleet",
-      "Translation": "Флот Ужастанов",
+      "Translation": "Флот Дредноутов",
       "Comment": "Powerful naval force - imposing military terminology"
     },
     {
       "Key": "Treant March",
-      "Translation": "Шествие Древознаков",
+      "Translation": "Марш Энтов",
       "Comment": "Forest spirits on the move - 'march' suggests ancient, deliberate movement"
     },
     {
       "Key": "War Host",
-      "Translation": "Военное Воинство",
+      "Translation": "Полк Войны",
       "Comment": "Large military force - archaic fantasy terminology"
     },
     {
       "Key": "Abyssal Raiders",
-      "Translation": "Адские Налётчики",
+      "Translation": "Налетчики Бездны",
       "Comment": "Demon raiders from the abyss - infernal menace"
     },
     {
@@ -213,7 +213,7 @@
     },
     {
       "Key": "Dwarf Gunline",
-      "Translation": "Дварфийская Артиллерийская Линия",
+      "Translation": "Дварфийские Стрелки",
       "Comment": "Dwarf gunpowder army formation - military discipline and technology"
     },
     {
@@ -223,7 +223,7 @@
     },
     {
       "Key": "Doom Swarm",
-      "Translation": "Рой Гибели",
+      "Translation": "Гибельный Рой",
       "Comment": "Apocalyptic ratkin horde - catastrophic inevitability"
     },
     {

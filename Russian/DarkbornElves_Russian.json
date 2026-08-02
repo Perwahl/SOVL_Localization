@@ -8,28 +8,28 @@
     },
     {
       "Key": "Darkborn Spears",
-      "Translation": "Темнорождённые копейщики",
+      "Translation": "Копейщики Темнорожденных",
       "Comment": "Spear-wielding dark elf infantry. Копейщики = spearmen/spear-wielders, common military terminology."
     },
     {
       "Key": "Darkborn Dreadguard",
-      "Translation": "Страж ужаса",
-      "Comment": "Schrecken = dread. Elite heavy infantry radiating fear. Страж ужаса conveys both protection/guard and the terrifying nature of these elite warriors."
+      "Translation": "Ужасающая Стража",
+      "Comment": "Schrecken = dread. Elite heavy infantry radiating fear. Ужасающая Стража conveys both protection/guard and the terrifying nature of these elite warriors."
     },
     {
       "Key": "Darkborn Witches",
-      "Translation": "Темнорождённые ведьмы",
+      "Translation": "Ведьмы",
       "Comment": "Hexen = witches. Dark magic users of the dark elves. Ведьмы = witches, emphasizing dark arcane power."
     },
     {
       "Key": "Darkborn Crossbows",
-      "Translation": "Темнорождённые арбалетчики",
+      "Translation": "Арбалетчики Темнорожденных",
       "Comment": "Crossbow-wielding dark elves. Deadly ranged troops. Арбалетчики = crossbowmen, precise ranged specialists."
     },
     {
       "Key": "Darkborn Shadows",
-      "Translation": "Тени смерти",
-      "Comment": "Schatten = shadows. Stealthy infiltrators and assassins. Тени смерти (Shadows of Death) emphasizes both stealth and lethal intent."
+      "Translation": "Тени",
+      "Comment": "Schatten = shadows. Stealthy infiltrators and assassins. Тени (Shadows of Death) emphasizes both stealth and lethal intent."
     },
     {
       "Key": "Darkborn Boltthrower",

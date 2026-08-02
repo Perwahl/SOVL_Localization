@@ -3,12 +3,12 @@
   "Translations": [
     {
       "Key": "Deepwood Guardians",
-      "Translation": "Хранители Глубокого Леса",
+      "Translation": "Хранители Пущи",
       "Comment": "Глубокий лес = Deepwood. Хранители = Guardians. Защитники древнего леса. Величественное название фракции."
     },
     {
       "Key": "Deepwood Guard",
-      "Translation": "Страж Леса",
+      "Translation": "Страж Пущи",
       "Comment": "Базовый боевой юнит. Простой защитник лесного королевства."
     },
     {
@@ -18,32 +18,32 @@
     },
     {
       "Key": "Deepwood Dancers",
-      "Translation": "Танцоры Леса",
+      "Translation": "Танцоры Пущи",
       "Comment": "Быстрые и грациозные лесные воины. Используют маневренность в бою."
     },
     {
       "Key": "Deepwood Archers",
-      "Translation": "Лучники Леса",
+      "Translation": "Лучники Пущи",
       "Comment": "Мастера лесной архерии. Дальнобойные боевые юниты."
     },
     {
       "Key": "Deepwood Rangers",
-      "Translation": "Рейнджеры Глубокого Леса",
+      "Translation": "Лесничие",
       "Comment": "Лесные разведчики = rangers/waldläufer. Элитные охотники и следопыты."
     },
     {
       "Key": "Deepwood Riders",
-      "Translation": "Всадники Леса",
+      "Translation": "Всадники Пущи",
       "Comment": "Быстрая кавалерия лесного королевства. Верховые на лесных существах."
     },
     {
       "Key": "Deepwood Chariot",
-      "Translation": "Боевая Колесница Леса",
+      "Translation": "Колесница Пущи",
       "Comment": "Боевой механизм, приводимый в движение природной магией."
     },
     {
       "Key": "Giant Eagle",
-      "Translation": "Гигантский Орёл",
+      "Translation": "Великий Орел",
       "Comment": "Величественное летающее существо леса. Воздушная поддержка."
     },
     {

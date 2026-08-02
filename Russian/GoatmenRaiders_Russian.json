@@ -3,12 +3,12 @@
   "Translations": [
     {
       "Key": "Goatmen Raiders",
-      "Translation": "Козлолюдские Мародёры",
+      "Translation": "Рейдеры козлоглавов",
       "Comment": "Козлолюдские = goat-human beast-men. Мародёры = raiders/plunderers. The primary faction unit type."
     },
     {
       "Key": "Ibex Warriors",
-      "Translation": "Воины Горных Козлов",
+      "Translation": "Ибексы-воины",
       "Comment": "Ибекс (горный козёл) - более яростные воины. Used 'горных козлов' for mountain goats, fitting the elite warrior archetype."
     },
     {
@@ -18,27 +18,27 @@
     },
     {
       "Key": "Mongrel Pack",
-      "Translation": "Стая Ублюдков",
+      "Translation": "Банда полукровок",
       "Comment": "Ублюдок = mongrel/half-breed. Стая = pack/horde. Conveys chaotic lesser beast-men as a mass unit."
     },
     {
       "Key": "Mongrel Spear",
-      "Translation": "Ублюдки с Копьями",
+      "Translation": "Полукровки-копейщики",
       "Comment": "Mongrel troops armed with spears for melee combat."
     },
     {
       "Key": "Raiding Chariot",
-      "Translation": "Боевая Колесница Мародёров",
+      "Translation": "Колесница рейдеров",
       "Comment": "Мародёров = raiding. Colourful, mobile assault unit fitting the faction's raiding nature."
     },
     {
       "Key": "Feral Hounds",
-      "Translation": "Дикие Боевые Псы",
+      "Translation": "Дикие Псы",
       "Comment": "Дикие = feral/wild. Боевые = war. Psы = hounds. Savage war beasts allied with the faction."
     },
     {
       "Key": "Mongrel Skirmishers",
-      "Translation": "Ублюдки-Стрелки",
+      "Translation": "Полукровки-застрельщики",
       "Comment": "Стрелки = skirmishers/archers. Light, mobile harassment troops."
     },
     {
@@ -58,17 +58,17 @@
     },
     {
       "Key": "Feral Giant",
-      "Translation": "Дикий Великан",
+      "Translation": "Дикий Гигант",
       "Comment": "Дикий = feral/wild. Великан = giant. Untamed behemoth serving the beast-men forces."
     },
     {
       "Key": "Goatman Shaman",
-      "Translation": "Козлолюдский Шаман",
+      "Translation": "Шаман козлоглавов",
       "Comment": "Tribal magic user wielding dark rituals and curses. Fills a spellcaster role in the army."
     },
     {
       "Key": "Goatman Longhorn",
-      "Translation": "Козлолюдский Длиннорог",
+      "Translation": "Длиннорог козлоглавов",
       "Comment": "Длиннорог = longhorn. Elite warrior with distinctive impressive horns, marking him as a superior commander."
     },
     {

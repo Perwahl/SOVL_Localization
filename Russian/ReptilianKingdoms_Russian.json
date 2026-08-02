@@ -3,42 +3,42 @@
   "Translations": [
     {
       "Key": "Reptilian Kingdoms",
-      "Translation": "Рептилийские Царства",
+      "Translation": "Царства Рептилий",
       "Comment": "Königreiche = kingdoms. Ancient lizard-men empires."
     },
     {
       "Key": "Saurian Warriors",
-      "Translation": "Ящероборцы",
+      "Translation": "Ящеры-воины",
       "Comment": "Saurier = saurian/lizard. Core lizard-men warriors."
     },
     {
       "Key": "Crocolisk Bruisers",
-      "Translation": "Крокодилы-Громилы",
+      "Translation": "Кроколиски Костоломы",
       "Comment": "Krokolisk (crocodile-like). Schläger = bruisers. Heavy reptilian warriors."
     },
     {
       "Key": "Newt Braves",
-      "Translation": "Молодцы-Тритоны",
+      "Translation": "Тритоны Храбрецы",
       "Comment": "Molch = newt. Krieger = braves/warriors. Lesser lizard troops."
     },
     {
       "Key": "Saurian Spear",
-      "Translation": "Копьеносцы-Ящеры",
+      "Translation": "Ящеры-копейщики",
       "Comment": "Spear-wielding saurian infantry."
     },
     {
       "Key": "Raptor Riders",
-      "Translation": "Всадники Хищников",
+      "Translation": "Всадники Рапторов",
       "Comment": "Fast cavalry riding velociraptors. Lightning strikes."
     },
     {
       "Key": "Pterodactyl Riders",
-      "Translation": "Крылья Птеродактилей",
+      "Translation": "Всадники Птеродактилей",
       "Comment": "Flying cavalry on pterodactyls. Air superiority."
     },
     {
       "Key": "Newt Skirmishers",
-      "Translation": "Тритоны-Разведчики",
+      "Translation": "Тритоны-застрельщики",
       "Comment": "Light skirmishing troops."
     },
     {
@@ -73,7 +73,7 @@
     },
     {
       "Key": "Saurian Warlord",
-      "Translation": "Ящерский Полководец",
+      "Translation": "Вождь Ящеров",
       "Comment": "Kriegsherr = warlord. Powerful military commander."
     },
     {

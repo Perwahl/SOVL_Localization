@@ -3,7 +3,7 @@
   "Translations": [
     {
       "Key": "Empires of Men",
-      "Translation": "Государства Людей",
+      "Translation": "Империи Людей",
       "Comment": "Государства (states/realms) emphasizes multiple kingdoms united. Plural form maintains grand scale typical of fantasy empires."
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "Key": "Imperial Light Cavalry",
-      "Translation": "Имперская Лёгкая Кавалерия",
+      "Translation": "Имперские Пистолетчики",
       "Comment": "Лёгкая Кавалерия (light cavalry) for scouts and skirmishers. Contrasts with heavy mounted knights."
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "Key": "Imperial Handguns",
-      "Translation": "Имперские Аркебузиры",
+      "Translation": "Имперские стрелки",
       "Comment": "Аркебузиры (arquebusiers) is historical term used in Russian military for Renaissance-era firearms troops."
     },
     {
@@ -63,7 +63,7 @@
     },
     {
       "Key": "Imperial Dreadnought",
-      "Translation": "Имперский Колосс",
+      "Translation": "Имперский дредноут",
       "Comment": "Колосс (colossus) conveys massive war machine. Maintains fantasy tone better than transliterated Dreadnought."
     },
     {
