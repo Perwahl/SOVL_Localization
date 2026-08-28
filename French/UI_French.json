@@ -448,7 +448,7 @@
     },
     {
       "Key": "Really Abandon?",
-      "Translation": "Vraiment abandonner ?",
+      "Translation": "Confirmer l'abandon ?",
       "Comment": ""
     },
     {
@@ -573,7 +573,7 @@
     },
     {
       "Key": "Final Turn!",
-      "Translation": "Tour final !",
+      "Translation": "Denier Tour !",
       "Comment": ""
     },
     {
@@ -898,7 +898,7 @@
     },
     {
       "Key": "Really Skip?",
-      "Translation": "Vraiment passer ?",
+      "Translation": "Confirmer la fin de tour ?",
       "Comment": ""
     },
     {
@@ -1208,7 +1208,7 @@
     },
     {
       "Key": "Return",
-      "Translation": "Retourner",
+      "Translation": "Retour",
       "Comment": ""
     },
     {
@@ -1888,7 +1888,7 @@
     },
     {
       "Key": "A hideout in the trees, \nonly known to the Deepwood Elves",
-      "Translation": "Une cachette dans les arbres, \nconnue seulement des elfes de Profondebois",
+      "Translation": "Une cachette dans les arbres, \nconnue seulement des elfes de la forêt profonde",
       "Comment": "Deepwood faction event"
     },
     {
@@ -1903,7 +1903,7 @@
     },
     {
       "Key": "Commune with Forest Spirits",
-      "Translation": "Communion avec les esprits de la forêt",
+      "Translation": "Communiez avec les esprits de la forêt",
       "Comment": "Deepwood faction ability"
     },
     {
@@ -1918,7 +1918,7 @@
     },
     {
       "Key": "Deadly arrows crafted by the Deepwood Elves. Pick one.",
-      "Translation": "Flèches mortelles fabriquées par les elfes de Profondebois. Choisissez-en une.",
+      "Translation": "Flèches mortelles fabriquées par les elfes de la forêt profonde. Choisissez-en une.",
       "Comment": ""
     },
     {
