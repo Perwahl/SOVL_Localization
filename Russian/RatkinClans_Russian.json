@@ -2,73 +2,73 @@
   "TranslationContext": "This file contains Unit Names for the Ratkin Clans faction.",
   "Translations": [
     {
-      "Key": "Крысиные Кланы",
-      "Translation": "",
+      "Key": "Ratkin Clans",
+      "Translation": "Крысиные Кланы",
       "Comment": "Rattenmensch = rat-people. Klans maintains the tribal structure."
     },
     {
-      "Key": "Крысиные Легионеры",
-      "Translation": "",
+      "Key": "Ratkin Legionaries",
+      "Translation": "Крысиные Легионеры",
       "Comment": "Legionäre = legionaries. Organized rat-men infantry."
     },
     {
-      "Key": "Крысиные Новобранцы",
-      "Translation": "",
+      "Key": "Ratkin Conscripts",
+      "Translation": "Крысиные Новобранцы",
       "Comment": "Wehrpflichtige = conscripts. Forced levies of rat-men."
     },
     {
-      "Key": "Крысиные Скрытники",
-      "Translation": "",
+      "Key": "Ratkin Skulkers",
+      "Translation": "Крысиные Скрытники",
       "Comment": "Schleicher = skulkers/sneakers. Stealthy infiltrators."
     },
     {
-      "Key": "Крысиные Длинностволы",
-      "Translation": "",
+      "Key": "Ratkin Longrifles",
+      "Translation": "Крысиные Длинностволы",
       "Comment": "Ratkin sharpshooters with long rifles. Technological advantage."
     },
     {
-      "Key": "Крысиные Пращники",
-      "Translation": "",
+      "Key": "Ratkin Slingers",
+      "Translation": "Крысиные Пращники",
       "Comment": "Schleuderer = slingers. Simple ranged troops."
     },
     {
-      "Key": "Крысиные Огнеметчики",
-      "Translation": "",
+      "Key": "Ratkin Flamers",
+      "Translation": "Крысиные Огнеметчики",
       "Comment": "Flammenwerfer troops. Dangerous experimental weapons."
     },
     {
-      "Key": "Крысиное Чудовище",
-      "Translation": "",
+      "Key": "Ratkin Monstrosity",
+      "Translation": "Крысиное Чудовище",
       "Comment": "Monstrum = monstrosity. Twisted creation of dark experiments."
     },
     {
-      "Key": "Крысиные Альфа",
-      "Translation": "",
+      "Key": "Ratkin Alphas",
+      "Translation": "Крысиные Альфа",
       "Comment": "Alpha kept as term. Elite warriors of the clans."
     },
     {
-      "Key": "Крысиные Рои",
-      "Translation": "",
+      "Key": "Rat Swarms",
+      "Translation": "Крысиные Рои",
       "Comment": "Schwärme = swarms. Masses of vermin."
     },
     {
-      "Key": "Колокол Судьбы",
-      "Translation": "",
+      "Key": "Doom Bell",
+      "Translation": "Колокол Судьбы",
       "Comment": "Ominous bell that tolls doom. Same as in UnitProps."
     },
     {
-      "Key": "Крысиный Чародей",
-      "Translation": "",
+      "Key": "Ratkin Warlock",
+      "Translation": "Крысиный Чародей",
       "Comment": "Hexenmeister = warlock. Dark magic user."
     },
     {
-      "Key": "Крысиный Вождь",
-      "Translation": "",
+      "Key": "Ratkin Chieftain",
+      "Translation": "Крысиный Вождь",
       "Comment": "Clan leader. Cunning and ruthless."
     },
     {
-      "Key": "Крысиный Диверсант",
-      "Translation": "",
+      "Key": "Ratkin Infiltrator",
+      "Translation": "Крысиный Диверсант",
       "Comment": "Master spy and assassin. Sneaks behind enemy lines."
     }
   ]
