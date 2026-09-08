@@ -1305,6 +1305,451 @@
       "Key": "Primordial",
       "Translation": "Primordial",
       "Comment": ""
+    },
+    {
+      "Key": "Fey",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Aura of Protection",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Holy Blade",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Aura of Vengeance",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "3 Hand Weapons",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "3x Pistols",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Lance+Shield",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Dark Gift",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Battle Hardened",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Marksman",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Spell Power",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Spell Weaver",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Offensive Mastery",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Veteran Crew",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Veteran Discipline",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Veteran Accuracy",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Veteran Skill",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic Discipline",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic Fury",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic Power",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic Resilience",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic Skill",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic Defense",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Sword Of Ruin",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Cloak Of Shadows",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Horn Of Discord",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Veteran Marksmen",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Oath Of Retribution",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Oath Of Reckoning",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Oath Of Vengeance",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Ancestral Strength",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Blades",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Favour",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Fireball",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Fury",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Raise",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Reanimate",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Regrowth",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Ruin",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Shadowbolt",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Shield",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Vigour",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Web",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Wildform",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Thousand Maws",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rune Of Farsight",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rune Of Flame",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rune Of Resilience",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rune Of Speed",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Imperial Elites",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Imperial Veterans",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Stronger Summons",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Extra Limb",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Extra Limbs",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Grafted Wings",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Necrotic Infusion",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Putrid Hide",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Tunneling Claws",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Unnatural Size",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Elf Bow Mastery",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Elf Spear Mastery",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Elf Steed Mastery",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Eagle Aspect",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Jaguar Aspect",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Raptor Aspect",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Salamander Aspect",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Serpent Aspect",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Turtle Aspect",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Backstabbers",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Bloodlust",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Tough As Nails",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Warcry",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Slavers",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Shroud",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Ward",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "War Gods Blessing",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Blessing Of Decay",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Blessing Of Trickery",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Master of Decay",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Master of Trickery",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Master Of War",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Loyal Serfs",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Avalon Marksmen",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Vengeance",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Protection",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Bodkin Arrows",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Serrated Arrows",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Splitting Arrow",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Trueflight Arrows",
+      "Translation": "",
+      "Comment": ""
     }
   ]
 }

@@ -292,6 +292,7 @@
       "Comment": ""
     },
     {
+      "Key": "Gain +3 Attacks this turm. Lose 1 Wound.",
       "Translation": "Få +3 Attacker denna omgång. Förlora 1 HP.",
       "Comment": ""
     },
@@ -617,7 +618,7 @@
     },
     {
       "Key": "+3 Wounds",
-      "Translation": "+3 S?r",
+      "Translation": "+3 Sår",
       "Comment": ""
     },
     {
@@ -667,7 +668,7 @@
     },
     {
       "Key": "+1 Skill",
-      "Translation": "+1 F?rdighet",
+      "Translation": "+1 Färdighet",
       "Comment": ""
     },
     {
@@ -677,7 +678,7 @@
     },
     {
       "Key": "+1 Wounds",
-      "Translation": "+1 S?r",
+      "Translation": "+1 Sår",
       "Comment": ""
     },
     {

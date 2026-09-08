@@ -1095,6 +1095,11 @@
       "Key": "Ranged attacks have +10 range and ignores cover.",
       "Translation": "Gli attacchi a distanza hanno +10 gittata e ignorano la copertura.",
       "Comment": ""
+    },
+    {
+      "Key": "Target unit loses D3 wounds and gains +1 Attack this turn.",
+      "Translation": "L'unità bersaglio perde D3 Ferite e guadagna +1 Attacco questo turno.",
+      "Comment": ""
     }
   ]
 }

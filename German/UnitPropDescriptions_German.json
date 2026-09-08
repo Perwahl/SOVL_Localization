@@ -378,7 +378,7 @@
     },
     {
       "Key": "Ignores movement penalty from Heavy Armor.\nWhen deployed 3 wide, models in flanks can attack as if in the front rank.",
-      "Translation": "Ignoriert den Bewegungsnachteil durch schwere Rüstung.\nBei Aufstellung drei Reihen breit können Modelle in den Flanken angreifen, als stünden sie in der vorderen Reihe.",
+      "Translation": "Ignoriert den Bewegungsnachteil durch schwere Rüstung.\nBei Aufstellung 3 Modelle breit können Modelle in den Flanken angreifen, als stünden sie in der vorderen Reihe.",
       "Comment": ""
     },
     {

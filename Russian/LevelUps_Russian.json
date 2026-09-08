@@ -608,7 +608,7 @@
     },
     {
       "Key": "Unit gains Poisoned Attacks (enemies re-roll 3s on Damage Saves)",
-      "Translation": "Отряд получает ядовитые атаки (враги перебрасывают тройки при сохранениях урона)",
+      "Translation": "Отряд получает ядовитые атаки (враги перебрасывают 3 при сохранениях урона)",
       "Comment": "Rules text: Poisoned Attacks mechanic"
     },
     {

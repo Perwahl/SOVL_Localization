@@ -367,6 +367,7 @@
       "Comment": "Favoured by Decay = Любимец распада; Decay = распад (undead/corruption theme)"
     },
     {
+      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.",
       "Translation": "Один раз за сражение все дружественные отряды с Даром распада перебрасывают провалы спасений от урона.",
       "Comment": "Gift of Decay = Дар распада (character ability that benefits marked units)"
     },
@@ -437,7 +438,7 @@
     },
     {
       "Key": "This units ranged attack deals 3x wounds against multiwound targets.",
-      "Translation": "Дальняя атака этого отряда наносит тройной урон по целям с несколькими ранами.",
+      "Translation": "Дальняя атака этого отряда наносит x3 урона по целям с несколькими ранами.",
       "Comment": "Multiwound targets = цели с несколькими ранами (armor-piercing effect)"
     },
     {
@@ -502,7 +503,7 @@
     },
     {
       "Key": "Enemies re-roll 3s on Damage Saves.",
-      "Translation": "Враги перебрасывают тройки при Спасениях от урона.",
+      "Translation": "Враги перебрасывают 3 при Спасениях от урона.",
       "Comment": "Rend = Rend ability: enemies re-roll successful saves against this weapon"
     },
     {
@@ -587,7 +588,7 @@
     },
     {
       "Key": "Activate once per battle. Melee attacks deal 3x wounds against multiwound targets for one turn.",
-      "Translation": "Активируйте один раз за сражение. Ближние атаки наносят тройной урон по целям с несколькими ранами на один ход.",
+      "Translation": "Активируйте один раз за сражение. Ближние атаки наносят x3 урона по целям с несколькими ранами на один ход.",
       "Comment": "Deadly Strikes = Крвавые удары (armor-piercing melee)"
     },
     {
@@ -602,7 +603,7 @@
     },
     {
       "Key": "Once per battle, all friendly units with Gift of War gain Deadly Strikes (3x Wounds caused).",
-      "Translation": "Одого раза за сражение все дружественные отряды с Даром войны получают Кровавые удары (тройной урон).",
+      "Translation": "Один раз за сражение все дружественные отряды с Даром войны получают Кровавые удары (x3 урона).",
       "Comment": "Gift of War = Дар войны (Chaos faction ability)"
     },
     {
@@ -982,7 +983,7 @@
     },
     {
       "Key": "Poisoned Attacks (enemies re-roll 3s on Damage Saves)",
-      "Translation": "Отравленные атаки (враги перебрасывают тройки при спасениях от урона)",
+      "Translation": "Отравленные атаки (враги перебрасывают 3 при спасениях от урона)",
       "Comment": "Poison = Отрава; reduces armor effectiveness"
     },
     {
@@ -1042,7 +1043,7 @@
     },
     {
       "Key": "Poisoned Attacks. (Opponent rerolls 3s on Damage Saves)\n+1 Wounds",
-      "Translation": "Отравленные атаки. (Противник перебрасывает тройки при спасениях от урона)\n+1 Раны",
+      "Translation": "Отравленные атаки. (Противник перебрасывает 3 при спасениях от урона)\n+1 Раны",
       "Comment": "Combined poison and health"
     },
     {
@@ -1062,7 +1063,7 @@
     },
     {
       "Key": "Once per battle, all friendly units with Gift of War gain Deadly Strikes  (3x Wounds caused).\nCommander has Deadly Strikes.\n",
-      "Translation": "Одого раза за сражение, все дружественные отряды с Даром войны получают Кровавые удары (тройной урон).\nКомандир имеет Кровавые удары.\n",
+      "Translation": "Один раз за сражение, все дружественные отряды с Даром войны получают Кровавые удары (x3 урона).\nКомандир имеет Кровавые удары.\n",
       "Comment": "Chaos faction damage buff"
     },
     {
@@ -1087,7 +1088,7 @@
     },
     {
       "Key": "These arrows deal 3x wounds against multiwound targets.",
-      "Translation": "Эти стрелы наносят тройной урон по целям с несколькими ранами.",
+      "Translation": "Эти стрелы наносят x3 урона по целям с несколькими ранами.",
       "Comment": "Deadly strikes arrows = armor-piercing ammunition"
     },
     {
