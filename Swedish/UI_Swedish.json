@@ -1172,7 +1172,7 @@
       "Comment": "The wording is now a bit more polished and easier to read."
     },
     {
-      "Key": "The dice in SOVL are mathematically fair. They are also cursed by a demon, who is evil. But they are fair!", 
+      "Key": "The dice in SOVL are mathematically fair. They are also cursed by a demon, who is evil. But they are fair!",
       "Translation": "Tärningarna i SOVL är matematiskt rättvisa. De är också förbannade av en demon som är ond. Men de är rättvisa!",
       "Comment": ""
     },
@@ -2374,6 +2374,136 @@
     {
       "Key": "Enemies Killed: ",
       "Translation": "Fiender dödade: ",
+      "Comment": ""
+    },
+    {
+      "Key": "",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Jungle Beasts",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic Allies",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "War Beasts",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Player",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Skip Charges",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Abyssal Terrors",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "AI Player",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "D3",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": " Damage Save",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Confirm Charges",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Vermin",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "conceded",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "313pts",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Scoring Objectives",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "has been wiped out!",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Auto Hits",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "No hits",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "-30% gold income",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "- Break the enemy Army -",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "continue fighting, but their magic weakens.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "0pts",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "10 or lower to Hold",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "-3 or lower to Hold",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Challenge Level: 0",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Harder Minor Battles",
+      "Translation": "",
       "Comment": ""
     }
   ]

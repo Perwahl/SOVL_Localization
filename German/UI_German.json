@@ -2,6 +2,11 @@
   "TranslationContext": "This file contains UI strings from menus and gameplay. Some strings contain rich text formatting wich should be kept intact in the translated string.",
   "Translations": [
     {
+      "Key": "Commanders",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
       "Key": "Warband",
       "Translation": "Kriegertrupp",
       "Comment": ""
@@ -2257,11 +2262,6 @@
       "Comment": "Unit type or commander class"
     },
     {
-      "Key": "",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
       "Key": "You can roll dice by pressing Spacebar. Hold it down to fast forward in combat.",
       "Translation": "Du kannst Würfel werfen, indem du die Leertaste drückst. Halte sie gedrückt, um den Kampf vorzuspulen.",
       "Comment": "Anleitung für Spielmechanik"
@@ -2328,6 +2328,181 @@
     },
     {
       "Key": "113pts",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "110pts",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Raiders",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Big Stuff",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "3pts",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Battles: ",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Points Earned: ",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "W/L: ",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "W/L: -",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Enemies Killed: ",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Jungle Beasts",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Demonic Allies",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "War Beasts",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Player",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Skip Charges",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Abyssal Terrors",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "AI Player",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "D3",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": " Damage Save",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Confirm Charges",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Vermin",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "conceded",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "313pts",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Scoring Objectives",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "has been wiped out!",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Auto Hits",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "No hits",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "-30% gold income",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "- Break the enemy Army -",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "continue fighting, but their magic weakens.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "0pts",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "10 or lower to Hold",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "-3 or lower to Hold",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Challenge Level: 0",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Harder Minor Battles",
       "Translation": "",
       "Comment": ""
     }
