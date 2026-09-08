@@ -84,8 +84,8 @@
     },
     {
       "Key": "Move Speed",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "移动速度",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "stat",
       "Consistency": "strict",
       "Definition": "How far a unit may move in one activation. Also the maximum range of its charges.",
@@ -98,8 +98,8 @@
     },
     {
       "Key": "Attack Roll",
-      "Translation": "",
-      "Comment": "CONFLICT - pick one; it will then be applied everywhere. Currently in use: '攻击投掷' (used in UI:Attack Roll); '攻击投骰' (used in UI:Attack Roll)",
+      "Translation": "攻击投骰",
+      "Comment": "Chosen over '攻击投掷': 投掷 is throwing an object, 投骰 is rolling dice, which is what an Attack Roll is. Keep the same 投骰 element in Damage Save and Discipline Test.",
       "Category": "roll",
       "Consistency": "strict",
       "Definition": "The roll made by an attacking unit to score hits, comparing attacker and defender Skill.",
@@ -165,8 +165,8 @@
     },
     {
       "Key": "Reroll",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "重投",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "roll",
       "Consistency": "strict",
       "Definition": "Roll the dice again and use the new result.",
@@ -179,8 +179,8 @@
     },
     {
       "Key": "Hit",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "命中",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "roll",
       "Consistency": "preferred",
       "Definition": "A successful Attack Roll. Each hit is followed by a Damage Save.",
@@ -216,8 +216,8 @@
     },
     {
       "Key": "Phase",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "阶段",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "phase",
       "Consistency": "strict",
       "Definition": "One of the three parts of a turn.",
@@ -278,8 +278,8 @@
     },
     {
       "Key": "Charge",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "冲锋",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "combat",
       "Consistency": "strict",
       "Definition": "To move a unit into base contact with an enemy in order to fight it.",
@@ -292,8 +292,8 @@
     },
     {
       "Key": "Charge Bonus",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "冲锋奖励",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "combat",
       "Consistency": "strict",
       "Definition": "A bonus that applies only in the first turn of combat after the unit charged.",
@@ -336,8 +336,8 @@
     },
     {
       "Key": "Combat Score",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "战斗评分",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "combat",
       "Consistency": "strict",
       "Definition": "The total of wounds caused plus Flank and Rear bonuses. The higher score wins the engagement.",
@@ -498,8 +498,8 @@
     },
     {
       "Key": "Difficult Terrain",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "困难地形",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "movement",
       "Consistency": "strict",
       "Definition": "Terrain such as forest or swamp that costs extra movement to enter or start in.",
@@ -523,8 +523,8 @@
     },
     {
       "Key": "Terrain",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "地形",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "movement",
       "Consistency": "strict",
       "Definition": "Features placed on the table that affect movement and Line of Sight.",
@@ -544,8 +544,8 @@
     },
     {
       "Key": "Range",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "射程",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "movement",
       "Consistency": "strict",
       "Definition": "The maximum distance a Ranged Attack can reach, in inches.",
@@ -607,8 +607,8 @@
     },
     {
       "Key": "Commander",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "指挥官",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "unit",
       "Consistency": "strict",
       "Definition": "The character leading an army. Can activate an ability separately from the unit it joins.",
@@ -632,8 +632,8 @@
     },
     {
       "Key": "Cavalry",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "骑兵",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "unit",
       "Consistency": "strict",
       "Definition": "Unit type. Base 25x50, movement 16, pivot cost 2.",
@@ -663,8 +663,8 @@
     },
     {
       "Key": "Monster",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "怪物",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "unit",
       "Consistency": "strict",
       "Definition": "A creature unit. Several abilities reroll specifically against Monsters.",
@@ -677,8 +677,8 @@
     },
     {
       "Key": "Chariot",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "战车",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "unit",
       "Consistency": "strict",
       "Definition": "Unit type. Base 50x100, movement 16, pivot cost 2.",
@@ -757,8 +757,8 @@
     },
     {
       "Key": "Greatweapon",
-      "Translation": "",
-      "Comment": "CONFLICT - pick one; it will then be applied everywhere. Currently in use: '伟大武器' (used in UI:Greatweapon); '巨型武器' (used in UnitProps:Greatweapon)",
+      "Translation": "巨型武器",
+      "Comment": "Chosen over '伟大武器': 伟大 means great in the sense of noble or illustrious, which is the wrong register for a weapon. Avoids 双手武器, which Two Hand Weapons needs.",
       "Category": "equipment",
       "Consistency": "strict",
       "Definition": "Two-handed weapon. +1 Power, Charge Bonus +1 Power.",
@@ -941,8 +941,8 @@
     },
     {
       "Key": "Swift",
-      "Translation": "",
-      "Comment": "CONFLICT - pick one; it will then be applied everywhere. Currently in use: '迅捷' (used in UnitProps:Swift); '迅速' (used in UI:Swift)",
+      "Translation": "迅捷",
+      "Comment": "Chosen over '迅速', which is everyday and mostly adverbial. 迅捷 reads as a unit property.",
       "Category": "property",
       "Consistency": "strict",
       "Definition": "+1 Movement.",
@@ -963,16 +963,29 @@
     },
     {
       "Key": "Points",
-      "Translation": "",
-      "Comment": "CONFLICT - pick one; it will then be applied everywhere. Currently in use: '分' (used in UI:pts); '点数' (used in UI:Points)",
+      "Translation": "点数",
+      "Comment": "Seeded from the existing translation in UI:Points. Confirm this is the term you want.",
       "Category": "meta",
       "Consistency": "strict",
       "Definition": "The cost of a unit in army building, and the currency of end-of-battle scoring.",
-      "AlsoWrittenAs": "pts, Pts",
-      "Notes": "'pts' is the abbreviated form used in tight UI columns. Give it a target abbreviation and use it everywhere the English says 'pts'. Keep distinct from [combat.combatScore].",
+      "AlsoWrittenAs": "Points",
+      "Notes": "Full form, used where there is room. The abbreviated form is a separate term, [meta.pts] - keep the two visibly related. Distinct from [combat.combatScore], which is the score of a single melee.",
       "ExampleUsage": [
         "Points:",
         "Points Earned:"
+      ]
+    },
+    {
+      "Key": "pts",
+      "Translation": "分",
+      "Comment": "Seeded from the existing translation in UI:pts. Confirm this is the term you want.",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "Abbreviation of Points, used in army list rows and unit cards where space is tight.",
+      "Notes": "Appears glued to the number ('50pts') and separated ('999 pts'). Keep it short - this sits in a narrow column - and keep it recognisable as the short form of [meta.points]. German uses Pkt, Swedish p.",
+      "ExampleUsage": [
+        "0 pts",
+        "3333 pts"
       ]
     },
     {
@@ -1117,16 +1130,34 @@
     {
       "Key": "Enchantment",
       "Translation": "",
-      "Comment": "CONFLICT - pick one; it will then be applied everywhere. Currently in use: '武器魔法' (used in UI:Weapon Enchantments); '物品魔法' (used in UI:Item Enchantments)",
+      "Comment": "",
       "Category": "meta",
       "Consistency": "strict",
       "Definition": "A purchasable magic item or weapon upgrade.",
-      "AlsoWrittenAs": "Enchantments, Weapon Enchantments, Item Enchantments",
+      "AlsoWrittenAs": "Enchantments",
       "Notes": "Keep distinct from [meta.spell] and [meta.banner].",
       "ExampleUsage": [
         "Weapon Enchantments",
         "Item Enchantments"
       ]
+    },
+    {
+      "Key": "Weapon Enchantments",
+      "Translation": "武器魔法",
+      "Comment": "Seeded from the existing translation in UI:Weapon Enchantments. Confirm this is the term you want.",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "UI section for enchantments that upgrade a weapon.",
+      "Notes": "Must contain the target term for [meta.enchantment], and pair with [meta.itemEnchantment]."
+    },
+    {
+      "Key": "Item Enchantments",
+      "Translation": "物品魔法",
+      "Comment": "Seeded from the existing translation in UI:Item Enchantments. Confirm this is the term you want.",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "UI section for enchantments carried as items.",
+      "Notes": "Must contain the target term for [meta.enchantment], and pair with [meta.weaponEnchantment]."
     },
     {
       "Key": "Banner",

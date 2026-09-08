@@ -42,6 +42,7 @@ from sovl_loc import (
     is_rules_prose,
     language_dirs,
     load_json,
+    same_term,
     store_files,
     surface_forms,
     term_pattern,
@@ -354,10 +355,20 @@ def check_glossary(files: list[TranslationFile], repo: Path, report: Report) -> 
                         continue
                     forms = surface_forms(term)
 
-                    # A key that IS the term must be exactly the approved rendering.
-                    # No room for interpretation here, so this is an error.
-                    if key.strip().casefold() in {form.casefold() for form in forms}:
-                        if translation.strip().casefold() != target.casefold():
+                    # A key that IS the term must be the approved rendering. When the key
+                    # is the base term the match has to be exact. When it is one of the
+                    # alias spellings - a plural, or the conjugated form the English uses
+                    # mid sentence - the translation is expected to be inflected to match,
+                    # so 'Spells' being 'Hechizos' where the term is 'Hechizo' is correct.
+                    stripped = key.strip().casefold()
+                    if stripped in {form.casefold() for form in forms}:
+                        is_base = stripped == english.casefold()
+                        matches = (
+                            translation.strip().casefold() == target.casefold()
+                            if is_base
+                            else same_term(translation, target)
+                        )
+                        if not matches:
                             report.add(
                                 "glossary", ERROR, f.language, f.store,
                                 f"rules term {english!r} is translated as {translation.strip()!r} "

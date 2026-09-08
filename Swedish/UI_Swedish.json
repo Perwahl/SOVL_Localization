@@ -1858,7 +1858,7 @@
     },
     {
       "Key": "(Your Knights are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "(Dina riddare är modiga och har laddningsbonus: +1 attack)",
+      "Translation": "(Dina riddare är modiga och har anfallsbonus: +1 attack)",
       "Comment": ""
     },
     {
@@ -1888,7 +1888,7 @@
     },
     {
       "Key": "(Your units are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "(Dina enheter är modiga och har laddningsbonus: +1 attack)",
+      "Translation": "(Dina enheter är modiga och har anfallsbonus: +1 attack)",
       "Comment": ""
     },
     {

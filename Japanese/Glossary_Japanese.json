@@ -84,8 +84,8 @@
     },
     {
       "Key": "Move Speed",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "移動速度",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "stat",
       "Consistency": "strict",
       "Definition": "How far a unit may move in one activation. Also the maximum range of its charges.",
@@ -165,8 +165,8 @@
     },
     {
       "Key": "Reroll",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "再ロール",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "roll",
       "Consistency": "strict",
       "Definition": "Roll the dice again and use the new result.",
@@ -216,8 +216,8 @@
     },
     {
       "Key": "Phase",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "フェーズ",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "phase",
       "Consistency": "strict",
       "Definition": "One of the three parts of a turn.",
@@ -264,8 +264,8 @@
     },
     {
       "Key": "Activate",
-      "Translation": "",
-      "Comment": "CONFLICT - pick one; it will then be applied everywhere. Currently in use: 'が行動します' (used in UI:activates); '行動' (used in UI:Activate)",
+      "Translation": "行動",
+      "Comment": "Seeded from the existing translation in UI:Activate. Also appears inflected as 'が行動します', which is fine.",
       "Category": "phase",
       "Consistency": "strict",
       "Definition": "To select a unit and perform its actions for the turn. Also used for one-shot abilities ('Activate once per battle').",
@@ -278,8 +278,8 @@
     },
     {
       "Key": "Charge",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "突撃",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "combat",
       "Consistency": "strict",
       "Definition": "To move a unit into base contact with an enemy in order to fight it.",
@@ -292,8 +292,8 @@
     },
     {
       "Key": "Charge Bonus",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "突撃ボーナス",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "combat",
       "Consistency": "strict",
       "Definition": "A bonus that applies only in the first turn of combat after the unit charged.",
@@ -389,8 +389,8 @@
     },
     {
       "Key": "Flank",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "側面",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "combat",
       "Consistency": "strict",
       "Definition": "The left or right side of a unit. Charging a flank gives a Combat Score bonus.",
@@ -403,8 +403,8 @@
     },
     {
       "Key": "Rear",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "背面",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "combat",
       "Consistency": "strict",
       "Definition": "The back of a unit. Models engaged in the rear cannot attack.",
@@ -858,8 +858,8 @@
     },
     {
       "Key": "Fearless",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "恐れ知らず",
+      "Comment": "Matches the rendering already dominant in this language's translated strings.",
       "Category": "property",
       "Consistency": "strict",
       "Definition": "Ignores all penalties to Discipline Tests.",
@@ -968,11 +968,24 @@
       "Category": "meta",
       "Consistency": "strict",
       "Definition": "The cost of a unit in army building, and the currency of end-of-battle scoring.",
-      "AlsoWrittenAs": "pts, Pts",
-      "Notes": "'pts' is the abbreviated form used in tight UI columns. Give it a target abbreviation and use it everywhere the English says 'pts'. Keep distinct from [combat.combatScore].",
+      "AlsoWrittenAs": "Points",
+      "Notes": "Full form, used where there is room. The abbreviated form is a separate term, [meta.pts] - keep the two visibly related. Distinct from [combat.combatScore], which is the score of a single melee.",
       "ExampleUsage": [
         "Points:",
         "Points Earned:"
+      ]
+    },
+    {
+      "Key": "pts",
+      "Translation": "ポイント",
+      "Comment": "Seeded from the existing translation in UI:pts. Confirm this is the term you want.",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "Abbreviation of Points, used in army list rows and unit cards where space is tight.",
+      "Notes": "Appears glued to the number ('50pts') and separated ('999 pts'). Keep it short - this sits in a narrow column - and keep it recognisable as the short form of [meta.points]. German uses Pkt, Swedish p.",
+      "ExampleUsage": [
+        "0 pts",
+        "3333 pts"
       ]
     },
     {
@@ -1075,8 +1088,8 @@
     },
     {
       "Key": "Spell",
-      "Translation": "",
-      "Comment": "CONFLICT - pick one; it will then be applied everywhere. Currently in use: 'スペル' (used in UI:Spell); '呪文' (used in UI:Spells)",
+      "Translation": "呪文",
+      "Comment": "Chosen over the transliteration 'スペル'. 呪文 fits the classic fantasy wargame register and leaves room for Cantrip to be built as a lesser form of it.",
       "Category": "meta",
       "Consistency": "strict",
       "Definition": "A magical effect activated by a caster.",
@@ -1117,16 +1130,34 @@
     {
       "Key": "Enchantment",
       "Translation": "",
-      "Comment": "CONFLICT - pick one; it will then be applied everywhere. Currently in use: 'アイテムの魔法' (used in UI:Item Enchantments); '武器の魔法' (used in UI:Weapon Enchantments)",
+      "Comment": "",
       "Category": "meta",
       "Consistency": "strict",
       "Definition": "A purchasable magic item or weapon upgrade.",
-      "AlsoWrittenAs": "Enchantments, Weapon Enchantments, Item Enchantments",
+      "AlsoWrittenAs": "Enchantments",
       "Notes": "Keep distinct from [meta.spell] and [meta.banner].",
       "ExampleUsage": [
         "Weapon Enchantments",
         "Item Enchantments"
       ]
+    },
+    {
+      "Key": "Weapon Enchantments",
+      "Translation": "武器の魔法",
+      "Comment": "Seeded from the existing translation in UI:Weapon Enchantments. Confirm this is the term you want.",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "UI section for enchantments that upgrade a weapon.",
+      "Notes": "Must contain the target term for [meta.enchantment], and pair with [meta.itemEnchantment]."
+    },
+    {
+      "Key": "Item Enchantments",
+      "Translation": "アイテムの魔法",
+      "Comment": "Seeded from the existing translation in UI:Item Enchantments. Confirm this is the term you want.",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "UI section for enchantments carried as items.",
+      "Notes": "Must contain the target term for [meta.enchantment], and pair with [meta.weaponEnchantment]."
     },
     {
       "Key": "Banner",

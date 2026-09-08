@@ -3,7 +3,7 @@
   "Translations": [
     {
       "Key": "+1 Defense. Charge Bonus: +1 Power",
-      "Translation": "+1 Защита. Бонус атаки: +1 Мощь",
+      "Translation": "+1 Защита. Бонус натиска: +1 Мощь",
       "Comment": "Defense = Защита, Charge Bonus = Бонус атаки, Power = Мощь"
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "Key": "Charge Bonus: +1 Power",
-      "Translation": "Бонус атаки: +1 Мощь",
+      "Translation": "Бонус натиска: +1 Мощь",
       "Comment": "Consistent terminology: Charge Bonus = Бонус атаки"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "Key": "+1 Power. Charge Bonus: +1 Power.",
-      "Translation": "+1 Мощь. Бонус атаки: +1 Мощь.",
+      "Translation": "+1 Мощь. Бонус натиска: +1 Мощь.",
       "Comment": "Consistent use of Мощь for Power (affects damage in combat)"
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 4+.",
-      "Translation": "Бонус атаки: +1 Мощь \nСпасения от урона против этого оружия никогда не лучше чем 4+.",
+      "Translation": "Бонус натиска: +1 Мощь \nСпасения от урона против этого оружия никогда не лучше чем 4+.",
       "Comment": "Damage Saves = Спасения от урона, 4+ refers to dice roll difficulty (4 or higher on d6)"
     },
     {
@@ -288,7 +288,7 @@
     },
     {
       "Key": "Charge Bonus: +1 Power, +1 Attack",
-      "Translation": "Бонус атаки: +1 Мощь, +1 Атака",
+      "Translation": "Бонус натиска: +1 Мощь, +1 Атака",
       "Comment": "Multiple stat bonuses on charge"
     },
     {
@@ -418,12 +418,12 @@
     },
     {
       "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 3+.",
-      "Translation": "Бонус атаки: +1 Мощь \nСпасения от урона против этого оружия никогда не лучше чем 3+.",
+      "Translation": "Бонус натиска: +1 Мощь \nСпасения от урона против этого оружия никогда не лучше чем 3+.",
       "Comment": "Armor-piercing lance"
     },
     {
       "Key": "+1 Defense. Charge Bonus: +3 Power",
-      "Translation": "+1 Защита. Бонус атаки: +3 Мощь",
+      "Translation": "+1 Защита. Бонус натиска: +3 Мощь",
       "Comment": "Heavy cavalry/monster unit charge"
     },
     {
@@ -488,7 +488,7 @@
     },
     {
       "Key": "Charge Bonus: +3 Power +3 Attacks",
-      "Translation": "Бонус атаки: +3 Мощь +3 Атаки",
+      "Translation": "Бонус натиска: +3 Мощь +3 Атаки",
       "Comment": "Powerful monster charge with multiple bonuses"
     },
     {
@@ -963,7 +963,7 @@
     },
     {
       "Key": "+1 Move Speed. Charge Bonus: +1 Attack.",
-      "Translation": "+1 скорость движения. Бонус атаки: +1 Атака.",
+      "Translation": "+1 скорость движения. Бонус натиска: +1 Атака.",
       "Comment": "Fast charging unit"
     },
     {

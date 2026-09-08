@@ -8,7 +8,7 @@
     },
     {
       "Key": "Swift",
-      "Translation": "Проворный",
+      "Translation": "Быстрый",
       "Comment": "Unit ability - speed/agility bonus"
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "Key": "Greatweapon",
-      "Translation": "Двуручное оружие",
+      "Translation": "Великое оружие",
       "Comment": "Large melee weapon requiring two hands"
     },
     {
@@ -273,7 +273,7 @@
     },
     {
       "Key": "Furious Charge",
-      "Translation": "Остановимая атака",
+      "Translation": "Яростный натиск",
       "Comment": "Combat action - powerful charge attack"
     },
     {
@@ -313,7 +313,7 @@
     },
     {
       "Key": "Crushing Charge",
-      "Translation": "раздавливающая атака",
+      "Translation": "Сокрушительный натиск",
       "Comment": "Combat action - overwhelming charge"
     },
     {
@@ -363,7 +363,7 @@
     },
     {
       "Key": "Explosive Charges",
-      "Translation": "Взывчатые заряды",
+      "Translation": "Взрывчатые заряды",
       "Comment": "Dwarf ability - places explosives"
     },
     {

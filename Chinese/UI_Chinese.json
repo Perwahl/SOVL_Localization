@@ -848,7 +848,7 @@
     },
     {
       "Key": "Swift",
-      "Translation": "迅速",
+      "Translation": "迅捷",
       "Comment": "Unit trait - fast moving"
     },
     {
@@ -943,7 +943,7 @@
     },
     {
       "Key": "Greatweapon",
-      "Translation": "伟大武器",
+      "Translation": "巨型武器",
       "Comment": "Equipment type"
     },
     {
@@ -1918,7 +1918,7 @@
     },
     {
       "Key": "(Your units have +3 Move Speed and +1 to Ranged Attack Rolls) ",
-      "Translation": "（你的单位拥有+3移动速度和+1远程攻击投掷）",
+      "Translation": "（你的单位拥有+3移动速度和+1远程攻击投骰）",
       "Comment": "Effect description"
     },
     {
@@ -2193,7 +2193,7 @@
     },
     {
       "Key": " Attack Roll",
-      "Translation": " 攻击投掷",
+      "Translation": " 攻击投骰",
       "Comment": "Preserve leading space"
     },
     {

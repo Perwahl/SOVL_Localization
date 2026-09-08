@@ -3,7 +3,7 @@
   "Translations": [
     {
       "Key": "+1 Defense. Charge Bonus: +1 Power",
-      "Translation": "+1 försvar. Laddningsbonus: +1 kraft",
+      "Translation": "+1 försvar. Anfallsbonus: +1 kraft",
       "Comment": "Used standard Swedish rules wording for defense and power."
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "Key": "Charge Bonus: +1 Power",
-      "Translation": "Laddningsbonus: +1 kraft",
+      "Translation": "Anfallsbonus: +1 kraft",
       "Comment": "Kept the charging terminology consistent with the rest of the rules text."
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "Key": "+1 Power. Charge Bonus: +1 Power.",
-      "Translation": "+1 kraft. Laddningsbonus: +1 kraft.",
+      "Translation": "+1 kraft. Anfallsbonus: +1 kraft.",
       "Comment": "Kept the power bonus wording consistent with the rest of the file."
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 4+.",
-      "Translation": "Laddningsbonus: +1 kraft\nSkyddskast mot detta vapen blir aldrig bättre än 4+.",
+      "Translation": "Anfallsbonus: +1 kraft\nSkyddskast mot detta vapen blir aldrig bättre än 4+.",
       "Comment": "This reads more naturally in Swedish rules text."
     },
     {
@@ -288,7 +288,7 @@
     },
     {
       "Key": "Charge Bonus: +1 Power, +1 Attack",
-      "Translation": "Laddningsbonus: +1 Kraft, +1 Attack",
+      "Translation": "Anfallsbonus: +1 Kraft, +1 Attack",
       "Comment": ""
     },
     {
@@ -418,12 +418,12 @@
     },
     {
       "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 3+.",
-      "Translation": "Laddningsbonus: +1 Kraft \nSkyddskast mot detta vapen blir aldrig bättre än 3+.",
+      "Translation": "Anfallsbonus: +1 Kraft \nSkyddskast mot detta vapen blir aldrig bättre än 3+.",
       "Comment": ""
     },
     {
       "Key": "+1 Defense. Charge Bonus: +3 Power",
-      "Translation": "+1 Försvar. Laddningsbonus: +3 Kraft",
+      "Translation": "+1 Försvar. Anfallsbonus: +3 Kraft",
       "Comment": ""
     },
     {
@@ -488,7 +488,7 @@
     },
     {
       "Key": "Charge Bonus: +3 Power +3 Attacks",
-      "Translation": "Laddningsbonus: +3 Kraft +3 Attacker",
+      "Translation": "Anfallsbonus: +3 Kraft +3 Attacker",
       "Comment": ""
     },
     {
@@ -963,7 +963,7 @@
     },
     {
       "Key": "+1 Move Speed. Charge Bonus: +1 Attack.",
-      "Translation": "+1 Rörelsehastighet. Laddningsbonus: +1 Attack.",
+      "Translation": "+1 Rörelsehastighet. Anfallsbonus: +1 Attack.",
       "Comment": ""
     },
     {

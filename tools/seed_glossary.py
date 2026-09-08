@@ -18,6 +18,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -25,7 +26,9 @@ from sovl_loc import (
     REPO,
     language_dirs,
     load_json,
+    same_term,
     store_files,
+    stem,
     surface_forms,
     term_pattern,
 )
@@ -58,6 +61,15 @@ def existing_renderings(lang_dir: Path, term: dict) -> dict[str, list[str]]:
             if translation and key.casefold() in wanted:
                 found.setdefault(translation, []).append(f"{store}:{key}")
     return found
+
+
+def pick_preferred(term: dict, found: dict[str, list[str]]) -> str:
+    """Of several inflections of one word, prefer the one the base English term produced."""
+    base = term["en"].casefold()
+    for rendering, sources in found.items():
+        if any(source.split(":", 1)[1].casefold() == base for source in sources):
+            return rendering
+    return max(found, key=lambda r: len(found[r]))
 
 
 def example_usage(lang_dir: Path, term: dict, limit: int = 2) -> list[str]:
@@ -114,7 +126,16 @@ def build_row(term: dict, lang_dir: Path, previous: dict[str, dict]) -> dict:
         return row
 
     found = existing_renderings(lang_dir, term)
-    if len(found) == 1:
+    renderings = list(found)
+    if len(found) > 1 and all(same_term(renderings[0], other) for other in renderings[1:]):
+        # Inflections or capitalisations of one word, not a disagreement.
+        preferred = pick_preferred(term, found)
+        row["Translation"] = preferred
+        row["Comment"] = (
+            f"Seeded from the existing translation in {found[preferred][0]}. Also appears "
+            f"inflected as {', '.join(repr(r) for r in renderings if r != preferred)}, which is fine."
+        )
+    elif len(found) == 1:
         rendering, sources = next(iter(found.items()))
         row["Translation"] = rendering
         row["Comment"] = f"Seeded from the existing translation in {sources[0]}. Confirm this is the term you want."
@@ -124,7 +145,12 @@ def build_row(term: dict, lang_dir: Path, previous: dict[str, dict]) -> dict:
         )
         row["Comment"] = f"CONFLICT - pick one; it will then be applied everywhere. Currently in use: {options}"
     elif prior:
-        row["Comment"] = prior.get("Comment", "")
+        # Carry a translator's own note across, but not a stale machine-written one:
+        # a CONFLICT recorded before the term list was corrected would otherwise
+        # outlive the conflict.
+        note = prior.get("Comment", "")
+        if not note.startswith(("CONFLICT", "Seeded from", "Do not translate")):
+            row["Comment"] = note
     return row
 
 

@@ -754,10 +754,17 @@
       "consistency": "strict",
       "definition": "The cost of a unit in army building, and the currency of end-of-battle scoring.",
       "aliases": [
-        "pts",
-        "Pts"
+        "Points"
       ],
-      "notes": "'pts' is the abbreviated form used in tight UI columns. Give it a target abbreviation and use it everywhere the English says 'pts'. Keep distinct from [combat.combatScore]."
+      "notes": "Full form, used where there is room. The abbreviated form is a separate term, [meta.pts] - keep the two visibly related. Distinct from [combat.combatScore], which is the score of a single melee."
+    },
+    {
+      "id": "meta.pts",
+      "en": "pts",
+      "category": "meta",
+      "consistency": "strict",
+      "definition": "Abbreviation of Points, used in army list rows and unit cards where space is tight.",
+      "notes": "Appears glued to the number ('50pts') and separated ('999 pts'). Keep it short - this sits in a narrow column - and keep it recognisable as the short form of [meta.points]. German uses Pkt, Swedish p."
     },
     {
       "id": "meta.battle",
@@ -870,11 +877,25 @@
       "consistency": "strict",
       "definition": "A purchasable magic item or weapon upgrade.",
       "aliases": [
-        "Enchantments",
-        "Weapon Enchantments",
-        "Item Enchantments"
+        "Enchantments"
       ],
       "notes": "Keep distinct from [meta.spell] and [meta.banner]."
+    },
+    {
+      "id": "meta.weaponEnchantment",
+      "en": "Weapon Enchantments",
+      "category": "meta",
+      "consistency": "strict",
+      "definition": "UI section for enchantments that upgrade a weapon.",
+      "notes": "Must contain the target term for [meta.enchantment], and pair with [meta.itemEnchantment]."
+    },
+    {
+      "id": "meta.itemEnchantment",
+      "en": "Item Enchantments",
+      "category": "meta",
+      "consistency": "strict",
+      "definition": "UI section for enchantments carried as items.",
+      "notes": "Must contain the target term for [meta.enchantment], and pair with [meta.weaponEnchantment]."
     },
     {
       "id": "meta.banner",

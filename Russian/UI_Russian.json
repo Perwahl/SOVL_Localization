@@ -818,7 +818,7 @@
     },
     {
       "Key": "- Charge Phase -",
-      "Translation": "- Фаза атаки -",
+      "Translation": "- Фаза натиска -",
       "Comment": "Battle phase"
     },
     {
@@ -888,17 +888,17 @@
     },
     {
       "Key": "Declare a Charge",
-      "Translation": "Объявить атаку",
+      "Translation": "Объявить натиск",
       "Comment": "Charge action"
     },
     {
       "Key": "Charge Reaction",
-      "Translation": "Реакция на атаку",
+      "Translation": "Реакция на натиск",
       "Comment": "Charge response options"
     },
     {
       "Key": "No Charges, Skipping Phase",
-      "Translation": "Нет атак, пропуск фазы",
+      "Translation": "Нет натисков, пропуск фазы",
       "Comment": "Auto-skip phase message"
     },
     {
@@ -1858,7 +1858,7 @@
     },
     {
       "Key": "(Your Knights are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "(Ваши рыцари бесстрашны и получают бонус атаки при атаке: +1 Атака)",
+      "Translation": "(Ваши рыцари бесстрашны и получают бонус натиска: +1 Атака)",
       "Comment": "Effect description"
     },
     {
@@ -1888,7 +1888,7 @@
     },
     {
       "Key": "(Your units are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "(Ваши отряды бесстрашны и получают бонус атаки: +1 Атака)",
+      "Translation": "(Ваши отряды бесстрашны и получают бонус натиска: +1 Атака)",
       "Comment": "Bonus effect"
     },
     {

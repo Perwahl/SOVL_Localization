@@ -159,6 +159,33 @@ def stem(word: str) -> str:
     return word if len(word) <= 4 else word[: max(4, len(word) - 2)]
 
 
+def _content_stems(text: str) -> set[str]:
+    """Short stems of the words that carry meaning, for comparing two renderings."""
+    return {w[:5] for w in re.findall(r"\w+", text.casefold()) if len(w) >= 4}
+
+
+def same_term(a: str, b: str) -> bool:
+    """Are these two renderings the same word rather than a real disagreement?
+
+    An English term and its plural, or a button label and the verb form used mid
+    sentence, produce different strings meaning the same thing: Hechizo/Hechizos,
+    Aktivieren/aktiviert, Activer/s'active, Armure Lourde/Armure lourde. Reporting
+    those as conflicts buries the handful of places where translators genuinely
+    reached for different words.
+
+    Inflection is a prefix change in the languages here, so comparing short stems
+    catches it. Chinese and Japanese do not inflect and their terms are shorter than
+    the stem window, so containment does the same job there: 行動 inside が行動します
+    is one term, while スペル and 呪文 are two real choices."""
+    a, b = a.strip().casefold(), b.strip().casefold()
+    if a == b:
+        return True
+    if a and b and (a in b or b in a):
+        return True
+    stems = _content_stems(a)
+    return bool(stems) and stems == _content_stems(b)
+
+
 def approved_term_present(approved: str, translation: str) -> bool:
     """Is the approved rendering used in this translation, allowing for inflection?"""
     haystack = translation.casefold()
