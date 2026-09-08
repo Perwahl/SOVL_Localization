@@ -1,0 +1,1237 @@
+{
+  "TranslationContext": "Approved translations for SOVL rules terminology. Every term in this file carries rules meaning and must be rendered the same way everywhere it appears, in every other file. Fill in the Translation field with the term you want used from now on; the linter then checks the rest of the translation files against it. Definition, Notes and ExampleUsage are reference material for the translator and are not imported into the game.",
+  "Translations": [
+    {
+      "Key": "Skill",
+      "Translation": "Abilità",
+      "Comment": "Seeded from the existing translation in UI:Skill. Confirm this is the term you want.",
+      "Category": "stat",
+      "Consistency": "strict",
+      "Definition": "A unit's training and general fighting ability. Determines hit chance in combat and for Ranged Attacks.",
+      "Notes": "Stat block name. Pick one word and never vary it. Do not translate as a generic 'ability' word that collides with [meta.ability].",
+      "ExampleUsage": [
+        "Veteran Skill",
+        "Increase Skill by 1"
+      ]
+    },
+    {
+      "Key": "Power",
+      "Translation": "Potenza",
+      "Comment": "Seeded from the existing translation in UI:Power. Confirm this is the term you want.",
+      "Category": "stat",
+      "Consistency": "strict",
+      "Definition": "A unit's physical strength and hitting power. Compared against the defender's Defense to set the Damage Save.",
+      "Notes": "Stat block name. Must be distinct from [stat.defense] and from any word used for magical power.",
+      "ExampleUsage": [
+        "Hex of Ruin also reduces Power.",
+        "Upgrades Primal Fury to give +3 Power."
+      ]
+    },
+    {
+      "Key": "Defense",
+      "Translation": "Difesa",
+      "Comment": "Seeded from the existing translation in UI:Defense. Confirm this is the term you want.",
+      "Category": "stat",
+      "Consistency": "strict",
+      "Definition": "A unit's toughness and armour combined. Compared against the attacker's Power to set the Damage Save.",
+      "AlsoWrittenAs": "Defence",
+      "Notes": "Stat block name. English source spells this 'Defense'; treat 'Defence' as the same term.",
+      "ExampleUsage": [
+        "Reanimate also gives +1 Power and Defense.",
+        "Power 3 vs Defense 3"
+      ]
+    },
+    {
+      "Key": "Attacks",
+      "Translation": "Attacchi",
+      "Comment": "Seeded from the existing translation in UI:Attacks. Confirm this is the term you want.",
+      "Category": "stat",
+      "Consistency": "strict",
+      "Definition": "How many Attack Rolls each model makes in combat.",
+      "AlsoWrittenAs": "Attack",
+      "Notes": "Stat block name. '+1 Attack' and '+1 Attacks' both refer to this stat and must use the same target noun.",
+      "ExampleUsage": [
+        "+1 Attack",
+        "+1 Ranged Attack"
+      ]
+    },
+    {
+      "Key": "Wounds",
+      "Translation": "Ferite",
+      "Comment": "Seeded from the existing translation in UI:Wounds. Confirm this is the term you want.",
+      "Category": "stat",
+      "Consistency": "strict",
+      "Definition": "How many points of damage each model can take before it is removed.",
+      "AlsoWrittenAs": "Wound",
+      "Notes": "Stat block name. The same word is also the unit of damage caused ('one point for each wound caused'); keep them the same word.",
+      "ExampleUsage": [
+        "+1 Wounds",
+        "Unit gains Lethal attacks. (deals 3x wounds)"
+      ]
+    },
+    {
+      "Key": "Discipline",
+      "Translation": "Disciplina",
+      "Comment": "Seeded from the existing translation in UI:Discipline. Confirm this is the term you want.",
+      "Category": "stat",
+      "Consistency": "strict",
+      "Definition": "A unit's bravery and willingness to hold. Used for Discipline Tests after combat and heavy casualties.",
+      "Notes": "Stat block name.",
+      "ExampleUsage": [
+        "Veteran Discipline",
+        "Increase Discipline by 1"
+      ]
+    },
+    {
+      "Key": "Move Speed",
+      "Translation": "",
+      "Comment": "",
+      "Category": "stat",
+      "Consistency": "strict",
+      "Definition": "How far a unit may move in one activation. Also the maximum range of its charges.",
+      "AlsoWrittenAs": "Movement, Movement Allowance",
+      "Notes": "The English source is inconsistent here ('Move Speed', 'Movement', 'Movement Allowance'). Use ONE target term for all three.",
+      "ExampleUsage": [
+        "+1 Move Speed.",
+        "Unit gains +1 Move Speed and ignores Difficult Terrain"
+      ]
+    },
+    {
+      "Key": "Attack Roll",
+      "Translation": "Tiro di Attacco",
+      "Comment": "Seeded from the existing translation in UI:Attack Roll. Confirm this is the term you want.",
+      "Category": "roll",
+      "Consistency": "strict",
+      "Definition": "The roll made by an attacking unit to score hits, comparing attacker and defender Skill.",
+      "Notes": "Named roll. Keep the same head noun as [roll.damageSave] and [roll.disciplineTest] so the three read as a set."
+    },
+    {
+      "Key": "Damage Save",
+      "Translation": "Tiro Salvezza Danno",
+      "Comment": "Seeded from the existing translation in UI:Damage Save. Confirm this is the term you want.",
+      "Category": "roll",
+      "Consistency": "strict",
+      "Definition": "The roll made by the defender against each successful attack, comparing attacker Power to defender Defense. A failed save causes one wound.",
+      "Notes": "Named roll. Very common inside ability text; drift here is expensive.",
+      "ExampleUsage": [
+        "+1 Damage Save vs Ranged",
+        "Once per battle: Gain +1 Attack\n+1 Damage Save vs Ranged"
+      ]
+    },
+    {
+      "Key": "Discipline Test",
+      "Translation": "",
+      "Comment": "",
+      "Category": "roll",
+      "Consistency": "strict",
+      "Definition": "A 2d6 roll against the unit's Discipline stat plus Rank Bonus.",
+      "Notes": "Named roll. Must use the same word for 'Discipline' as [stat.discipline]."
+    },
+    {
+      "Key": "Break Test",
+      "Translation": "Test di Sfondamento",
+      "Comment": "Seeded from the existing translation in UI:Break Test. Confirm this is the term you want.",
+      "Category": "roll",
+      "Consistency": "strict",
+      "Definition": "The Discipline Test taken by the losing side of an engagement after Combat Score is compared.",
+      "Notes": "Named roll. A Break Test is a kind of Discipline Test, so the two terms should look related in the target language."
+    },
+    {
+      "Key": "Ranged Attack",
+      "Translation": "Attacco a Distanza",
+      "Comment": "Seeded from the existing translation in UI:Ranged Attack. Confirm this is the term you want.",
+      "Category": "roll",
+      "Consistency": "strict",
+      "Definition": "An attack made with a missile weapon at a target in range and Line of Sight.",
+      "AlsoWrittenAs": "Ranged Attacks, Ranged Attack Roll",
+      "Notes": "Opposed to close combat. Must be distinct from [roll.spellAttack].",
+      "ExampleUsage": [
+        "+1 Ranged Attack",
+        "+1 Power to Ranged Attacks."
+      ]
+    },
+    {
+      "Key": "Spell Attack",
+      "Translation": "",
+      "Comment": "",
+      "Category": "roll",
+      "Consistency": "strict",
+      "Definition": "An attack made by a spell rather than a weapon.",
+      "Notes": "Must be distinct from [roll.rangedAttack]; several abilities modify only one of the two.",
+      "ExampleUsage": [
+        "+3 Spell Attack",
+        "+1 Spell Attack"
+      ]
+    },
+    {
+      "Key": "Reroll",
+      "Translation": "",
+      "Comment": "",
+      "Category": "roll",
+      "Consistency": "strict",
+      "Definition": "Roll the dice again and use the new result.",
+      "AlsoWrittenAs": "Re-roll, Rerolls, Re-rolls, Rolled again",
+      "Notes": "The English source uses 'Reroll' and 're-roll' interchangeably. Use ONE target verb for both, and keep it distinct from the plain verb 'roll'.",
+      "ExampleUsage": [
+        "Unholy Vigour also lets the unit reroll missed Attack Rolls.",
+        "Removes the Re-roll penalties from Frost Ward"
+      ]
+    },
+    {
+      "Key": "Hit",
+      "Translation": "",
+      "Comment": "",
+      "Category": "roll",
+      "Consistency": "preferred",
+      "Definition": "A successful Attack Roll. Each hit is followed by a Damage Save.",
+      "AlsoWrittenAs": "Hits",
+      "Notes": "A hit is not yet a wound. Keep the two words distinct.",
+      "ExampleUsage": [
+        "Upgrades Fireball to 3D3 hits.",
+        "Roll to Hit"
+      ]
+    },
+    {
+      "Key": "Auto Hits",
+      "Translation": "",
+      "Comment": "",
+      "Category": "roll",
+      "Consistency": "strict",
+      "Definition": "Hits scored without rolling an Attack Roll.",
+      "Notes": "Must contain the same word used for [roll.hit]."
+    },
+    {
+      "Key": "Turn",
+      "Translation": "Turno",
+      "Comment": "Seeded from the existing translation in UI:Turn. Confirm this is the term you want.",
+      "Category": "phase",
+      "Consistency": "strict",
+      "Definition": "One full pass through the Charge, Strategic and Combat Phases. A game lasts up to 8 turns.",
+      "AlsoWrittenAs": "Round",
+      "Notes": "The English source uses 'Turn' and 'Round' for the same thing. Use ONE target word. Do not use a word that also means a single player's activation.",
+      "ExampleUsage": [
+        "Unit gains Regeneration. (restores lost wounds at end of turn)",
+        "Once per battle: Gain Flying for one turn."
+      ]
+    },
+    {
+      "Key": "Phase",
+      "Translation": "",
+      "Comment": "",
+      "Category": "phase",
+      "Consistency": "strict",
+      "Definition": "One of the three parts of a turn.",
+      "ExampleUsage": [
+        "- Deployment Phase -",
+        "No Combats, Skipping Phase"
+      ]
+    },
+    {
+      "Key": "Charge Phase",
+      "Translation": "",
+      "Comment": "",
+      "Category": "phase",
+      "Consistency": "strict",
+      "Definition": "First phase of the turn. Charges are declared and resolved.",
+      "Notes": "Must combine the target terms for [combat.charge] and [phase.phase].",
+      "ExampleUsage": [
+        "- Charge Phase -"
+      ]
+    },
+    {
+      "Key": "Strategic Phase",
+      "Translation": "",
+      "Comment": "",
+      "Category": "phase",
+      "Consistency": "strict",
+      "Definition": "Second phase of the turn. Units manoeuvre, make Ranged Attacks and use abilities.",
+      "Notes": "Must combine with the target term for [phase.phase].",
+      "ExampleUsage": [
+        "- Strategic Phase -"
+      ]
+    },
+    {
+      "Key": "Combat Phase",
+      "Translation": "",
+      "Comment": "",
+      "Category": "phase",
+      "Consistency": "strict",
+      "Definition": "Third phase of the turn. Engagements are resolved.",
+      "Notes": "Must combine with the target term for [phase.phase].",
+      "ExampleUsage": [
+        "- Combat Phase -"
+      ]
+    },
+    {
+      "Key": "Activate",
+      "Translation": "",
+      "Comment": "CONFLICT - pick one; it will then be applied everywhere. Currently in use: 'Attiva' (used in UI:Activate); 'si attiva' (used in UI:activates)",
+      "Category": "phase",
+      "Consistency": "strict",
+      "Definition": "To select a unit and perform its actions for the turn. Also used for one-shot abilities ('Activate once per battle').",
+      "AlsoWrittenAs": "Activation, Activated, Activates",
+      "Notes": "Use one verb stem for both senses. Keep it distinct from the word used for 'use' or 'cast'.",
+      "ExampleUsage": [
+        "Activate once per battle, +1 Attack and Fearless.",
+        "Aura of Vengeance can be activated to affect all Knights"
+      ]
+    },
+    {
+      "Key": "Charge",
+      "Translation": "",
+      "Comment": "",
+      "Category": "combat",
+      "Consistency": "strict",
+      "Definition": "To move a unit into base contact with an enemy in order to fight it.",
+      "AlsoWrittenAs": "Charges, Charging, Charged",
+      "Notes": "Both noun and verb. Use one stem.",
+      "ExampleUsage": [
+        "Gives 1 extra charge to Arcane Web.",
+        "Gives 1 extra charge to Radiant Shield."
+      ]
+    },
+    {
+      "Key": "Charge Bonus",
+      "Translation": "",
+      "Comment": "",
+      "Category": "combat",
+      "Consistency": "strict",
+      "Definition": "A bonus that applies only in the first turn of combat after the unit charged.",
+      "Notes": "Must contain the target term for [combat.charge]. Seen drifting between two different compounds in German; pick one.",
+      "ExampleUsage": [
+        "Charge Bonus: +1 Attack.",
+        "(Your Knights are Fearless and have Charge Bonus: +1 Attack)"
+      ]
+    },
+    {
+      "Key": "Counter Charge",
+      "Translation": "",
+      "Comment": "",
+      "Category": "combat",
+      "Consistency": "strict",
+      "Definition": "A charge declared by a unit that already has a charge incoming to its front.",
+      "Notes": "Must contain the target term for [combat.charge]."
+    },
+    {
+      "Key": "Charge Intercept",
+      "Translation": "",
+      "Comment": "",
+      "Category": "combat",
+      "Consistency": "strict",
+      "Definition": "A higher-priority charge that cancels a charge already declared against the same target.",
+      "Notes": "Must contain the target term for [combat.charge]."
+    },
+    {
+      "Key": "Engagement",
+      "Translation": "",
+      "Comment": "",
+      "Category": "combat",
+      "Consistency": "strict",
+      "Definition": "A grouping of two or more units in base contact, resolved as a unit in the Combat Phase.",
+      "AlsoWrittenAs": "Engaged, Engaging",
+      "Notes": "Rules noun, not a general word for 'battle'. Keep it distinct from [meta.battle].",
+      "ExampleUsage": [
+        "Commander is hidden from your opponent until engaged in combat or damaged."
+      ]
+    },
+    {
+      "Key": "Combat Score",
+      "Translation": "",
+      "Comment": "",
+      "Category": "combat",
+      "Consistency": "strict",
+      "Definition": "The total of wounds caused plus Flank and Rear bonuses. The higher score wins the engagement.",
+      "Notes": "Keep the word for 'score' distinct from [meta.points], which means army points cost.",
+      "ExampleUsage": [
+        "Unit gets +1 Combat Score",
+        "Flank and Rear charges add +1 to Combat Score!"
+      ]
+    },
+    {
+      "Key": "Supporting Attacks",
+      "Translation": "",
+      "Comment": "",
+      "Category": "combat",
+      "Consistency": "strict",
+      "Definition": "Attacks made by models in the second rank of a unit engaged to its front. One roll per supporting model.",
+      "Notes": "Must contain the target term for [stat.attacks].",
+      "ExampleUsage": [
+        "+1 Defense. Extra Rank supporting attacks when not charging.",
+        "Unit gets supporting attacks from one extra rank."
+      ]
+    },
+    {
+      "Key": "Rank",
+      "Translation": "",
+      "Comment": "",
+      "Category": "combat",
+      "Consistency": "strict",
+      "Definition": "A row of models across the width of a unit.",
+      "AlsoWrittenAs": "Ranks",
+      "Notes": "A physical row of models. Must NOT be translated as a military grade or a leaderboard position. Seen drifting to 'rango' (grade) in Spanish; the correct sense is a row/file.",
+      "ExampleUsage": [
+        "Unit can fire ranged weapons in one additional rank",
+        "Unit fights in one additional rank when not charging."
+      ]
+    },
+    {
+      "Key": "Rank Bonus",
+      "Translation": "",
+      "Comment": "",
+      "Category": "combat",
+      "Consistency": "strict",
+      "Definition": "+1 to Discipline for each rank containing at least 3 models, including the first rank.",
+      "Notes": "Must contain the target term for [combat.rank].",
+      "ExampleUsage": [
+        "Rank Bonus:",
+        "Units always add their rank bonus to Discipline Tests"
+      ]
+    },
+    {
+      "Key": "Flank",
+      "Translation": "",
+      "Comment": "",
+      "Category": "combat",
+      "Consistency": "strict",
+      "Definition": "The left or right side of a unit. Charging a flank gives a Combat Score bonus.",
+      "AlsoWrittenAs": "Flanks",
+      "Notes": "Geometric side of a unit's base. Part of the set Front / Flank / Rear.",
+      "ExampleUsage": [
+        "Reroll missed Attack Rolls when attacking from Flank or Rear",
+        "Flanks:"
+      ]
+    },
+    {
+      "Key": "Rear",
+      "Translation": "",
+      "Comment": "",
+      "Category": "combat",
+      "Consistency": "strict",
+      "Definition": "The back of a unit. Models engaged in the rear cannot attack.",
+      "Notes": "Part of the set Front / Flank / Rear.",
+      "ExampleUsage": [
+        "Reroll missed Attack Rolls when attacking from Flank or Rear",
+        "Rear:"
+      ]
+    },
+    {
+      "Key": "Front",
+      "Translation": "",
+      "Comment": "",
+      "Category": "combat",
+      "Consistency": "strict",
+      "Definition": "The facing edge of a unit. Line of Sight is a 45 degree arc from the front.",
+      "Notes": "Part of the set Front / Flank / Rear."
+    },
+    {
+      "Key": "Base Contact",
+      "Translation": "",
+      "Comment": "",
+      "Category": "combat",
+      "Consistency": "strict",
+      "Definition": "Two units touching base to base, which is what puts them in an Engagement.",
+      "Notes": "'Base' here is the miniature's base, not a fortification."
+    },
+    {
+      "Key": "Advance",
+      "Translation": "",
+      "Comment": "",
+      "Category": "movement",
+      "Consistency": "strict",
+      "Definition": "Move a unit straight forward. Movement cost equals distance moved.",
+      "Notes": "One of the two movement actions, with [movement.pivot]."
+    },
+    {
+      "Key": "Pivot",
+      "Translation": "",
+      "Comment": "",
+      "Category": "movement",
+      "Consistency": "strict",
+      "Definition": "Rotate a unit up to 45 degrees around its centre. Cost depends on unit type.",
+      "Notes": "One of the two movement actions, with [movement.advance]."
+    },
+    {
+      "Key": "Flight Move",
+      "Translation": "",
+      "Comment": "",
+      "Category": "movement",
+      "Consistency": "strict",
+      "Definition": "A chaotic move made by a fleeing unit: one d6 per 4 points of movement allowance, in a straight line.",
+      "Notes": "Nothing to do with the Flying property. Must NOT share a stem with [property.flying] or players will read it as flight through the air."
+    },
+    {
+      "Key": "Flee",
+      "Translation": "",
+      "Comment": "",
+      "Category": "movement",
+      "Consistency": "strict",
+      "Definition": "To break and run. A fleeing unit cannot act except to Rally, and counts as destroyed if it leaves the table.",
+      "AlsoWrittenAs": "Fleeing, Flees, Fled",
+      "Notes": "Use one verb stem. Must be distinct from [movement.rally].",
+      "ExampleUsage": [
+        "fled off the board!",
+        "Fled off the battlefield with zero casualties."
+      ]
+    },
+    {
+      "Key": "Rally",
+      "Translation": "",
+      "Comment": "",
+      "Category": "movement",
+      "Consistency": "strict",
+      "Definition": "A Discipline Test taken by a fleeing unit to stop fleeing.",
+      "Notes": "The opposite of [movement.flee].",
+      "ExampleUsage": [
+        "Enemies Rally",
+        "Rally the Tribes"
+      ]
+    },
+    {
+      "Key": "Line of Sight",
+      "Translation": "",
+      "Comment": "",
+      "Category": "movement",
+      "Consistency": "strict",
+      "Definition": "A 45 degree arc from the front of a unit. Needed to charge, shoot, and cast some spells.",
+      "AlsoWrittenAs": "LoS, LOS",
+      "Notes": "The abbreviation 'LoS' appears in UI strings where space is tight. Give it a target abbreviation and use that abbreviation consistently."
+    },
+    {
+      "Key": "Difficult Terrain",
+      "Translation": "",
+      "Comment": "",
+      "Category": "movement",
+      "Consistency": "strict",
+      "Definition": "Terrain such as forest or swamp that costs extra movement to enter or start in.",
+      "Notes": "Must contain the target term for [movement.terrain].",
+      "ExampleUsage": [
+        "Unit ignores penalties for difficult terrain.",
+        "Unit gains +1 Move Speed and ignores Difficult Terrain"
+      ]
+    },
+    {
+      "Key": "Impassable",
+      "Translation": "",
+      "Comment": "",
+      "Category": "movement",
+      "Consistency": "strict",
+      "Definition": "Terrain that blocks movement completely.",
+      "Notes": "Contrasts with [movement.difficultTerrain].",
+      "ExampleUsage": [
+        "-Impassable-"
+      ]
+    },
+    {
+      "Key": "Terrain",
+      "Translation": "",
+      "Comment": "",
+      "Category": "movement",
+      "Consistency": "strict",
+      "Definition": "Features placed on the table that affect movement and Line of Sight.",
+      "ExampleUsage": [
+        "Unit ignores penalties for difficult terrain.",
+        "Unit gains +1 Move Speed and ignores Difficult Terrain"
+      ]
+    },
+    {
+      "Key": "Long Range",
+      "Translation": "",
+      "Comment": "",
+      "Category": "movement",
+      "Consistency": "strict",
+      "Definition": "Beyond half a weapon's maximum range. Ranged Attacks at Long Range take -1 to hit.",
+      "Notes": "Must contain the target term for [movement.range]."
+    },
+    {
+      "Key": "Range",
+      "Translation": "",
+      "Comment": "",
+      "Category": "movement",
+      "Consistency": "strict",
+      "Definition": "The maximum distance a Ranged Attack can reach, in inches.",
+      "Notes": "Appears constantly in weapon text as 'Range: 24.'. Keep it short; this string sits in a narrow UI column.",
+      "ExampleUsage": [
+        "Upgrades Shadow Bolt to Power 3 and Range 33.",
+        "Ranged attack range increased by 3."
+      ]
+    },
+    {
+      "Key": "Deployment Zone",
+      "Translation": "",
+      "Comment": "",
+      "Category": "movement",
+      "Consistency": "strict",
+      "Definition": "The strip of table a player must place their units within during deployment.",
+      "AlsoWrittenAs": "Deployment",
+      "ExampleUsage": [
+        "Gain Ambush deployment",
+        "- Deployment Phase -"
+      ]
+    },
+    {
+      "Key": "Forward Deployment",
+      "Translation": "",
+      "Comment": "",
+      "Category": "movement",
+      "Consistency": "strict",
+      "Definition": "Deployment ahead of the normal deployment zone, granted by the Scout property.",
+      "Notes": "Must contain the target term for [movement.deploymentZone]."
+    },
+    {
+      "Key": "Unit",
+      "Translation": "Unità",
+      "Comment": "Seeded from the existing translation in UI:Unit. Confirm this is the term you want.",
+      "Category": "unit",
+      "Consistency": "strict",
+      "Definition": "A group of models that moves and fights as one. The basic actor in the game.",
+      "AlsoWrittenAs": "Units",
+      "Notes": "The single most common rules word in the game. Must be distinct from [unit.model].",
+      "ExampleUsage": [
+        "Unit Size I",
+        "Max Unit size +3"
+      ]
+    },
+    {
+      "Key": "Model",
+      "Translation": "Modelli",
+      "Comment": "Seeded from the existing translation in UI:Models. Confirm this is the term you want.",
+      "Category": "unit",
+      "Consistency": "strict",
+      "Definition": "A single miniature. A unit is made of models; wounds remove models.",
+      "AlsoWrittenAs": "Models",
+      "Notes": "Seen drifting between 'modelos' and 'miniaturas' in Spanish. Pick one and use it everywhere, including 'Max Unit size' and model-count strings.",
+      "ExampleUsage": [
+        "Upgrades Raise Dead to raise an additional D3 models.",
+        "Recover an extra model that died after each battle."
+      ]
+    },
+    {
+      "Key": "Commander",
+      "Translation": "",
+      "Comment": "",
+      "Category": "unit",
+      "Consistency": "strict",
+      "Definition": "The character leading an army. Can activate an ability separately from the unit it joins.",
+      "Notes": "Must be distinct from the generic word for a unit champion or leader.",
+      "ExampleUsage": [
+        "Knight Commander",
+        "DLC Commander"
+      ]
+    },
+    {
+      "Key": "Infantry",
+      "Translation": "",
+      "Comment": "",
+      "Category": "unit",
+      "Consistency": "strict",
+      "Definition": "Unit type. Base 20x20 or 25x25, movement 8, pivot cost 1.",
+      "Notes": "Unit type name.",
+      "ExampleUsage": [
+        "Light Infantry - 33 pts"
+      ]
+    },
+    {
+      "Key": "Cavalry",
+      "Translation": "",
+      "Comment": "",
+      "Category": "unit",
+      "Consistency": "strict",
+      "Definition": "Unit type. Base 25x50, movement 16, pivot cost 2.",
+      "Notes": "Unit type name.",
+      "ExampleUsage": [
+        "Imperial Light Cavalry",
+        "Reroll Ranged and Combat Attacks against Cavalry and Chariots"
+      ]
+    },
+    {
+      "Key": "Monstrous Infantry",
+      "Translation": "",
+      "Comment": "",
+      "Category": "unit",
+      "Consistency": "strict",
+      "Definition": "Unit type. Base 40x40, movement 12, pivot cost 1.5.",
+      "Notes": "Must contain the target term for [unit.infantry]."
+    },
+    {
+      "Key": "Large Monster",
+      "Translation": "",
+      "Comment": "",
+      "Category": "unit",
+      "Consistency": "strict",
+      "Definition": "Unit type. Base 50x50, movement 12, pivot cost 1.5.",
+      "Notes": "Must contain the target term for [unit.monster]."
+    },
+    {
+      "Key": "Monster",
+      "Translation": "",
+      "Comment": "",
+      "Category": "unit",
+      "Consistency": "strict",
+      "Definition": "A creature unit. Several abilities reroll specifically against Monsters.",
+      "AlsoWrittenAs": "Monsters",
+      "Notes": "This is a targeting category in ability text, not just flavour.",
+      "ExampleUsage": [
+        "Reroll Ranged and Combat Attacks against Monsters.",
+        "Felled 1 tree monster."
+      ]
+    },
+    {
+      "Key": "Chariot",
+      "Translation": "",
+      "Comment": "",
+      "Category": "unit",
+      "Consistency": "strict",
+      "Definition": "Unit type. Base 50x100, movement 16, pivot cost 2.",
+      "AlsoWrittenAs": "Chariots",
+      "Notes": "A targeting category in ability text ('against Cavalry and Chariots').",
+      "ExampleUsage": [
+        "Abyssal Chariot",
+        "Darkborn Chariot"
+      ]
+    },
+    {
+      "Key": "War Machine",
+      "Translation": "",
+      "Comment": "",
+      "Category": "unit",
+      "Consistency": "strict",
+      "Definition": "Unit type. Base 50x50, movement 0.",
+      "Notes": "Unit type name."
+    },
+    {
+      "Key": "Weapon Team",
+      "Translation": "",
+      "Comment": "",
+      "Category": "unit",
+      "Consistency": "strict",
+      "Definition": "Unit type. Base 25x50, movement 8, pivot cost 1.",
+      "Notes": "Unit type name."
+    },
+    {
+      "Key": "War Wagon",
+      "Translation": "",
+      "Comment": "",
+      "Category": "unit",
+      "Consistency": "strict",
+      "Definition": "Unit type. Base 50x100, movement 12, pivot cost 1.5.",
+      "Notes": "Unit type name."
+    },
+    {
+      "Key": "Swarm",
+      "Translation": "",
+      "Comment": "",
+      "Category": "unit",
+      "Consistency": "strict",
+      "Definition": "Unit type. Base 40x40, movement 8, pivot cost 1.",
+      "Notes": "Unit type name. Also appears in enemy army names, where it is flavour rather than the unit type.",
+      "ExampleUsage": [
+        "Rat Swarm",
+        "Brood Swarm"
+      ]
+    },
+    {
+      "Key": "Hand Weapon",
+      "Translation": "Arma da Mano",
+      "Comment": "Seeded from the existing translation in UnitProps:Hand Weapon. Confirm this is the term you want.",
+      "Category": "equipment",
+      "Consistency": "strict",
+      "Definition": "The basic close combat weapon.",
+      "Notes": "Also appears as 'Hand Weapon and Shield' and 'Hand Weapon+Shield'; both must use this term plus [equipment.shield].",
+      "ExampleUsage": [
+        "Hand Weapon+Shield",
+        "Hand Weapon and Shield"
+      ]
+    },
+    {
+      "Key": "Shield",
+      "Translation": "",
+      "Comment": "",
+      "Category": "equipment",
+      "Consistency": "strict",
+      "Definition": "Grants +1 Defense with a Hand Weapon, Spear or Lance.",
+      "Notes": "Must be distinct from the Shield spell in [meta.spell] contexts.",
+      "ExampleUsage": [
+        "Greater Shield",
+        "Gives 1 extra charge to Radiant Shield."
+      ]
+    },
+    {
+      "Key": "Greatweapon",
+      "Translation": "",
+      "Comment": "CONFLICT - pick one; it will then be applied everywhere. Currently in use: 'Arma Colossale' (used in UnitProps:Greatweapon); 'Grande Arma' (used in UI:Greatweapon)",
+      "Category": "equipment",
+      "Consistency": "strict",
+      "Definition": "Two-handed weapon. +1 Power, Charge Bonus +1 Power.",
+      "AlsoWrittenAs": "Great Weapon, Greatweapons",
+      "Notes": "The English source spells this both 'Greatweapon' and 'Great Weapon'. Use ONE target term. Seen drifting between two different German words.",
+      "ExampleUsage": [
+        "Greatweapon and Shield,",
+        "Greatweapon +1"
+      ]
+    },
+    {
+      "Key": "Halberd",
+      "Translation": "Alabarda",
+      "Comment": "Seeded from the existing translation in UnitProps:Halberd. Confirm this is the term you want.",
+      "Category": "equipment",
+      "Consistency": "strict",
+      "Definition": "Polearm. Damage Saves against it are never better than 4+.",
+      "ExampleUsage": [
+        "Imperial Halberd",
+        "Halberd Militia"
+      ]
+    },
+    {
+      "Key": "Spear",
+      "Translation": "",
+      "Comment": "",
+      "Category": "equipment",
+      "Consistency": "strict",
+      "Definition": "Polearm. With a Shield: +1 Defense and an extra rank of Supporting Attacks when not charging.",
+      "AlsoWrittenAs": "Spears",
+      "ExampleUsage": [
+        "Darkborn Spears",
+        "Skeleton Spear"
+      ]
+    },
+    {
+      "Key": "Lance",
+      "Translation": "",
+      "Comment": "",
+      "Category": "equipment",
+      "Consistency": "strict",
+      "Definition": "Cavalry weapon. With a Shield: +1 Defense, Charge Bonus +2 Power.",
+      "ExampleUsage": [
+        "Lance and Shield",
+        "Lance+Shield"
+      ]
+    },
+    {
+      "Key": "Two Hand Weapons",
+      "Translation": "Armi a Due Mani",
+      "Comment": "Seeded from the existing translation in UnitProps:Two Hand Weapons. Confirm this is the term you want.",
+      "Category": "equipment",
+      "Consistency": "strict",
+      "Definition": "A weapon in each hand. +1 Attack.",
+      "Notes": "Must contain the target term for [equipment.handWeapon]. Not the same as [equipment.greatweapon], which is a single two-handed weapon."
+    },
+    {
+      "Key": "Heavy Armor",
+      "Translation": "Armatura Pesante",
+      "Comment": "Seeded from the existing translation in UI:Heavy Armor. Confirm this is the term you want.",
+      "Category": "equipment",
+      "Consistency": "strict",
+      "Definition": "-1 Movement, +1 Defense.",
+      "AlsoWrittenAs": "Heavy Armour",
+      "Notes": "Must contain the target term for [equipment.armor].",
+      "ExampleUsage": [
+        "-1 Movement. Ignore the movement penalty from Heavy Armor",
+        "-1 Movement. Ignore the movement penalty from Heavy Armor."
+      ]
+    },
+    {
+      "Key": "Light Armor",
+      "Translation": "",
+      "Comment": "",
+      "Category": "equipment",
+      "Consistency": "strict",
+      "Definition": "Light protection with no movement penalty.",
+      "AlsoWrittenAs": "Light Armour",
+      "Notes": "Must contain the target term for [equipment.armor].",
+      "ExampleUsage": [
+        "Shield,  Light Armor, General"
+      ]
+    },
+    {
+      "Key": "Armor",
+      "Translation": "",
+      "Comment": "",
+      "Category": "equipment",
+      "Consistency": "strict",
+      "Definition": "Protective equipment. Contributes to the Defense stat.",
+      "AlsoWrittenAs": "Armour",
+      "Notes": "The English source uses both spellings; treat them as one term.",
+      "ExampleUsage": [
+        "Shield,  Light Armor, General",
+        "-1 Movement. Ignore the movement penalty from Heavy Armor"
+      ]
+    },
+    {
+      "Key": "Fearless",
+      "Translation": "Intrepido",
+      "Comment": "Seeded from the existing translation in UnitProps:Fearless. Confirm this is the term you want.",
+      "Category": "property",
+      "Consistency": "strict",
+      "Definition": "Ignores all penalties to Discipline Tests.",
+      "Notes": "Named property. Appears both as its own heading and inside other ability text.",
+      "ExampleUsage": [
+        "Fearless (Ignores penalties to Discipline tests).",
+        "Activate once per battle, +1 Attack and Fearless."
+      ]
+    },
+    {
+      "Key": "Frenzy",
+      "Translation": "Furia",
+      "Comment": "Seeded from the existing translation in UnitProps:Frenzy. Confirm this is the term you want.",
+      "Category": "property",
+      "Consistency": "strict",
+      "Definition": "Must charge the closest valid target. Rerolls misses in combat.",
+      "Notes": "Named property.",
+      "ExampleUsage": [
+        "Favoured by War. Unit has Frenzy (re-roll failed Attack Rolls in the first round of combat).",
+        "All your units have Frenzy (reroll failed Attack Rolls) this turn. Activate once per battle."
+      ]
+    },
+    {
+      "Key": "Flying",
+      "Translation": "Volo",
+      "Comment": "Seeded from the existing translation in UnitProps:Flying. Confirm this is the term you want.",
+      "Category": "property",
+      "Consistency": "strict",
+      "Definition": "Fly Speed 20. Ignores terrain.",
+      "Notes": "Named property. Must NOT share a stem with [movement.flightMove], which is a rout move, not flight.",
+      "ExampleUsage": [
+        "Dwarf Flying Machine",
+        "Once per battle: Gain Flying for one turn."
+      ]
+    },
+    {
+      "Key": "Regeneration",
+      "Translation": "Rigenerazione",
+      "Comment": "Seeded from the existing translation in UnitProps:Regeneration. Confirm this is the term you want.",
+      "Category": "property",
+      "Consistency": "strict",
+      "Definition": "Unit recovers all missing wounds at end of turn.",
+      "Notes": "Named property.",
+      "ExampleUsage": [
+        "Unit gains Regeneration. (restores lost wounds at end of turn)",
+        "Gain Regeneration"
+      ]
+    },
+    {
+      "Key": "Poisoned Attacks",
+      "Translation": "Attacchi Avvelenati",
+      "Comment": "Seeded from the existing translation in UnitProps:Poisoned Attacks. Confirm this is the term you want.",
+      "Category": "property",
+      "Consistency": "strict",
+      "Definition": "Enemies reroll successful Damage Saves against this unit.",
+      "Notes": "Must contain the target term for [stat.attacks].",
+      "ExampleUsage": [
+        "Unit gains Poisoned Attacks (enemies re-roll 3s on Damage Saves)",
+        "Gain Poisoned Attacks"
+      ]
+    },
+    {
+      "Key": "Scout",
+      "Translation": "Esploratore",
+      "Comment": "Seeded from the existing translation in UnitProps:Scout. Confirm this is the term you want.",
+      "Category": "property",
+      "Consistency": "strict",
+      "Definition": "Forward Deployment.",
+      "Notes": "Named property."
+    },
+    {
+      "Key": "Sturdy",
+      "Translation": "Robusto",
+      "Comment": "Seeded from the existing translation in UnitProps:Sturdy. Confirm this is the term you want.",
+      "Category": "property",
+      "Consistency": "strict",
+      "Definition": "-1 Movement. Ignores the movement penalty from Heavy Armor.",
+      "Notes": "Named property."
+    },
+    {
+      "Key": "Swift",
+      "Translation": "Veloce",
+      "Comment": "Seeded from the existing translation in UI:Swift. Confirm this is the term you want.",
+      "Category": "property",
+      "Consistency": "strict",
+      "Definition": "+1 Movement.",
+      "Notes": "Named property."
+    },
+    {
+      "Key": "Reanimated",
+      "Translation": "Rianimate",
+      "Comment": "Seeded from the existing translation in UnitProps:Reanimated. Confirm this is the term you want.",
+      "Category": "property",
+      "Consistency": "strict",
+      "Definition": "-1 Movement. Never fails Discipline Tests.",
+      "Notes": "Named property. Distinct from the Reanimate spell; both exist.",
+      "ExampleUsage": [
+        "Increase the move speed of target Reanimated unit by 3 until its next combat.",
+        "Restore D3+1 wounds to a Reanimated unit."
+      ]
+    },
+    {
+      "Key": "Points",
+      "Translation": "",
+      "Comment": "CONFLICT - pick one; it will then be applied everywhere. Currently in use: 'Punti' (used in UI:Points); 'pt' (used in UI:pts)",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "The cost of a unit in army building, and the currency of end-of-battle scoring.",
+      "AlsoWrittenAs": "pts, Pts",
+      "Notes": "'pts' is the abbreviated form used in tight UI columns. Give it a target abbreviation and use it everywhere the English says 'pts'. Keep distinct from [combat.combatScore].",
+      "ExampleUsage": [
+        "Points:",
+        "Points Earned:"
+      ]
+    },
+    {
+      "Key": "Battle",
+      "Translation": "Battaglia",
+      "Comment": "Seeded from the existing translation in UI:Battle. Confirm this is the term you want.",
+      "Category": "meta",
+      "Consistency": "preferred",
+      "Definition": "One complete game. 'Activate once per battle' is a common ability limiter.",
+      "AlsoWrittenAs": "Battles",
+      "Notes": "Keep distinct from [combat.engagement], which is a single melee within a battle.",
+      "ExampleUsage": [
+        "+3% post battle income",
+        "Battle Hardened I"
+      ]
+    },
+    {
+      "Key": "Army",
+      "Translation": "",
+      "Comment": "",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "The full collection of units a player brings to a battle.",
+      "AlsoWrittenAs": "Armies",
+      "ExampleUsage": [
+        "Army Builder",
+        "- Defeat the enemy Army -"
+      ]
+    },
+    {
+      "Key": "Faction",
+      "Translation": "",
+      "Comment": "",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "The army list a player builds from, e.g. Dwarf Holds or Greenskin Tribes.",
+      "Notes": "Faction NAMES are handled per-faction in their own files; this is the generic word.",
+      "ExampleUsage": [
+        "Faction Pack"
+      ]
+    },
+    {
+      "Key": "Warband",
+      "Translation": "Banda di Guerrieri",
+      "Comment": "Seeded from the existing translation in UI:Warband. Confirm this is the term you want.",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "Smallest army size bracket.",
+      "Notes": "One of five army size brackets: Warband, Border Patrol, Battalion, Legion, Unrestricted. Translate the five as a coherent ladder of increasing size.",
+      "ExampleUsage": [
+        "-Warband-",
+        "Warband (500pts)"
+      ]
+    },
+    {
+      "Key": "Border Patrol",
+      "Translation": "Pattuglia di Confine",
+      "Comment": "Seeded from the existing translation in UI:Border Patrol. Confirm this is the term you want.",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "Second army size bracket.",
+      "Notes": "See [meta.warband].",
+      "ExampleUsage": [
+        "Select a Border Patrol List"
+      ]
+    },
+    {
+      "Key": "Battalion",
+      "Translation": "Battaglione",
+      "Comment": "Seeded from the existing translation in UI:Battalion. Confirm this is the term you want.",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "Third army size bracket.",
+      "Notes": "See [meta.warband].",
+      "ExampleUsage": [
+        "The Dark Battalion"
+      ]
+    },
+    {
+      "Key": "Legion",
+      "Translation": "Legione",
+      "Comment": "Seeded from the existing translation in UI:Legion. Confirm this is the term you want.",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "Fourth army size bracket.",
+      "Notes": "See [meta.warband]. Also appears in the faction name 'Abyssal Legions', which is separate.",
+      "ExampleUsage": [
+        "Goblin Legion",
+        "Corrupted Legion"
+      ]
+    },
+    {
+      "Key": "Unrestricted",
+      "Translation": "Senza Restrizioni",
+      "Comment": "Seeded from the existing translation in UI:Unrestricted. Confirm this is the term you want.",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "Largest army size bracket, with no list restrictions.",
+      "Notes": "See [meta.warband]."
+    },
+    {
+      "Key": "Spell",
+      "Translation": "",
+      "Comment": "CONFLICT - pick one; it will then be applied everywhere. Currently in use: 'Incantesimi' (used in UI:Spells); 'Incantesimo' (used in UI:Spell)",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "A magical effect activated by a caster.",
+      "AlsoWrittenAs": "Spells",
+      "Notes": "Keep distinct from [meta.ability] and [meta.enchantment].",
+      "ExampleUsage": [
+        "Spells",
+        "Learn Spell"
+      ]
+    },
+    {
+      "Key": "Cantrip",
+      "Translation": "Trucchetti Magici",
+      "Comment": "Seeded from the existing translation in UI:Cantrips. Confirm this is the term you want.",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "A lesser spell, available without spending points.",
+      "AlsoWrittenAs": "Cantrips",
+      "Notes": "Must be distinguishable from [meta.spell].",
+      "ExampleUsage": [
+        "Cantrips"
+      ]
+    },
+    {
+      "Key": "Ability",
+      "Translation": "",
+      "Comment": "",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "A non-spell effect a unit or commander can activate.",
+      "AlsoWrittenAs": "Abilities, Activated Abilities",
+      "Notes": "Keep distinct from [stat.skill] and [meta.spell].",
+      "ExampleUsage": [
+        "(Unit gains a powerful ability)",
+        "Commander Ability"
+      ]
+    },
+    {
+      "Key": "Enchantment",
+      "Translation": "",
+      "Comment": "CONFLICT - pick one; it will then be applied everywhere. Currently in use: \"Incantamenti dell'Arma\" (used in UI:Weapon Enchantments); 'Incantamenti di Oggetti' (used in UI:Item Enchantments)",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "A purchasable magic item or weapon upgrade.",
+      "AlsoWrittenAs": "Enchantments, Weapon Enchantments, Item Enchantments",
+      "Notes": "Keep distinct from [meta.spell] and [meta.banner].",
+      "ExampleUsage": [
+        "Weapon Enchantments",
+        "Item Enchantments"
+      ]
+    },
+    {
+      "Key": "Banner",
+      "Translation": "Stendardi",
+      "Comment": "Seeded from the existing translation in UI:Banners. Confirm this is the term you want.",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "A standard carried by a unit, bought like an enchantment.",
+      "AlsoWrittenAs": "Banners, Standard",
+      "Notes": "The English source also says 'Standard' for the same thing (e.g. 'Cursed Standard'). Use ONE target word.",
+      "ExampleUsage": [
+        "Banners",
+        "Magic Banners"
+      ]
+    },
+    {
+      "Key": "Level",
+      "Translation": "Livello",
+      "Comment": "Seeded from the existing translation in UI:Level. Confirm this is the term you want.",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "A unit's campaign progression rank. Gained with XP.",
+      "Notes": "Campaign progression, not difficulty. Keep distinct from 'Challenge Level'.",
+      "ExampleUsage": [
+        "Newly recruited units gain an additional level",
+        "Newly recruited units gain an additonal level"
+      ]
+    },
+    {
+      "Key": "XP",
+      "Translation": "PE",
+      "Comment": "Seeded from the existing translation in UI:XP. Confirm this is the term you want.",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "Experience points earned by units in campaign play.",
+      "Notes": "Short form used in tight UI. Keep the target form short; leaving it as 'XP' is acceptable in most languages.",
+      "ExampleUsage": [
+        "1 XP",
+        "3 XP"
+      ]
+    },
+    {
+      "Key": "Deed",
+      "Translation": "",
+      "Comment": "",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "A notable achievement a unit earns during a battle, awarding XP.",
+      "AlsoWrittenAs": "Deeds",
+      "Notes": "Flavourful but load-bearing: it names a UI section.",
+      "ExampleUsage": [
+        "Deeds of Valor",
+        "Deeds of Infamy"
+      ]
+    },
+    {
+      "Key": "Objective",
+      "Translation": "",
+      "Comment": "",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "A marker on the battlefield that can be claimed for scoring.",
+      "AlsoWrittenAs": "Objectives",
+      "Notes": "Related UI states: Unclaimed, Contested, Claimed. Translate those three as a coherent set.",
+      "ExampleUsage": [
+        "- Scoring Objectives -",
+        "Objectives:"
+      ]
+    },
+    {
+      "Key": "D6",
+      "Translation": "D6",
+      "Comment": "Do not translate - leave exactly as written in the English.",
+      "Category": "meta",
+      "Consistency": "preferred",
+      "Definition": "A six-sided die. Also D3, 2D3, 2d6.",
+      "AlsoWrittenAs": "D3, d6, d3, 2D3, 2d6",
+      "Notes": "Some languages have their own dice notation (German writes W6 and W3 for D6 and D3). Either keep the English notation or use the local convention, but use the same one in every file. Never change the NUMBER: D3 must not become D6.",
+      "ExampleUsage": [
+        "Upgrades Raise Dead to raise an additional D3 models.",
+        "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat."
+      ]
+    },
+    {
+      "Key": "SOVL",
+      "Translation": "SOVL",
+      "Comment": "Do not translate - leave exactly as written in the English.",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "The name of the game.",
+      "Notes": "Never translate or transliterate.",
+      "DoNotTranslate": "true",
+      "ExampleUsage": [
+        "The dice in SOVL are mathematically fair. They are also cursed by a demon, who is evil. But they are fair!"
+      ]
+    },
+    {
+      "Key": "Elo",
+      "Translation": "Elo",
+      "Comment": "Do not translate - leave exactly as written in the English.",
+      "Category": "meta",
+      "Consistency": "strict",
+      "Definition": "Multiplayer rating.",
+      "Notes": "A proper name. Leave as 'Elo'.",
+      "DoNotTranslate": "true"
+    }
+  ]
+}

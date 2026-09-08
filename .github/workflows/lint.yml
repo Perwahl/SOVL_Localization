@@ -1,0 +1,50 @@
+name: Lint translations
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Annotations show up inline on the changed lines in the PR.
+      - name: Annotate findings
+        run: python tools/lint.py --format github
+        continue-on-error: true
+
+      # The readable version, and the step that decides pass or fail. Errors fail the
+      # build; warnings are reported but do not, since a translation in progress is
+      # expected to have plenty of them.
+      - name: Lint
+        run: python tools/lint.py --max-per-check 0
+
+      - name: Summary
+        if: always()
+        run: |
+          {
+            echo '## Translation lint'
+            echo
+            echo '```'
+            python tools/lint.py --summary
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      # A glossary row that exists in terms.json but not in a language file means
+      # someone edited terms.json without re-running the seeder.
+      - name: Glossary files are up to date
+        run: |
+          python tools/seed_glossary.py
+          if ! git diff --quiet; then
+            echo "::error::glossary files are out of date - run 'python tools/seed_glossary.py' and commit the result"
+            git diff --stat
+            exit 1
+          fi
