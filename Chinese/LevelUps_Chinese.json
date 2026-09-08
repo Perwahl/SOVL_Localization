@@ -7,8 +7,8 @@
       "Comment": "单位规模等级一"
     },
     {
-      "Key": "Max Unit size +3",
-      "Translation": "最大单位规模 +3",
+      "Key": "Max Unit size +5",
+      "Translation": "最大单位规模 +5",
       "Comment": "最大单位数量增加3"
     },
     {
@@ -27,8 +27,8 @@
       "Comment": "战斗后单位补员等级一"
     },
     {
-      "Key": "+30% base unit Replenishment",
-      "Translation": "基础单位补员提升 +30%",
+      "Key": "+50% base unit Replenishment",
+      "Translation": "基础单位补员提升 +50%",
       "Comment": "基础单位补员数量增加30%"
     },
     {
@@ -72,8 +72,8 @@
       "Comment": "战斗后获得金币奖励等级一"
     },
     {
-      "Key": "+3% post battle income",
-      "Translation": "战后收入提升 +3%",
+      "Key": "+5% post battle income",
+      "Translation": "战后收入提升 +5%",
       "Comment": "战斗后获得的金币增加3%"
     },
     {
@@ -147,8 +147,8 @@
       "Comment": "魔法强化技能，提升火球术威力"
     },
     {
-      "Key": "Upgrades Fireball to 3D3 hits.",
-      "Translation": "将火球术升级为3D3命中",
+      "Key": "Upgrades Fireball to 2D6 hits.",
+      "Translation": "将火球术升级为2D6命中",
       "Comment": "骰子掷数增加，伤害提升"
     },
     {
@@ -177,8 +177,8 @@
       "Comment": "原始魔法强化"
     },
     {
-      "Key": "Upgrades Primal Fury to give +3 Power.",
-      "Translation": "将原始狂怒升级为提供 +3 力量",
+      "Key": "Upgrades Primal Fury to give +2 Power.",
+      "Translation": "将原始狂怒升级为提供 +2 力量",
       "Comment": "增加额外的力量属性加成"
     },
     {
@@ -207,8 +207,8 @@
       "Comment": "暗影魔法强化"
     },
     {
-      "Key": "Upgrades Shadow Bolt to Power 3 and Range 33.",
-      "Translation": "将暗影箭升级为力量 3 和射程 33",
+      "Key": "Upgrades Shadow Bolt to Power 5 and Range 24.",
+      "Translation": "将暗影箭升级为力量 5 和射程 24",
       "Comment": "提升魔法伤害和作用范围"
     },
     {
@@ -227,8 +227,8 @@
       "Comment": "自然魔法强化"
     },
     {
-      "Key": "Upgrades Wildform to give +3 Attacks.",
-      "Translation": "将野性形态升级为提供 +3 攻击",
+      "Key": "Upgrades Wildform to give +4 Attacks.",
+      "Translation": "将野性形态升级为提供 +4 攻击",
       "Comment": "增加额外攻击次数"
     },
     {
@@ -267,8 +267,8 @@
       "Comment": "怪物强化技能"
     },
     {
-      "Key": "Upgrades Thousand Mouths to Power 3.",
-      "Translation": "将千张嘴升级为力量 3",
+      "Key": "Upgrades Thousand Mouths to Power 2.",
+      "Translation": "将千张嘴升级为力量 2",
       "Comment": "提升怪物伤害"
     },
     {
@@ -277,8 +277,8 @@
       "Comment": "火焰强化技能"
     },
     {
-      "Key": "Upgrades Fiery Blades to give +3 Power.",
-      "Translation": "将烈焰刃升级为提供 +3 力量",
+      "Key": "Upgrades Fiery Blades to give +2 Power.",
+      "Translation": "将烈焰刃升级为提供 +2 力量",
       "Comment": "增加火焰伤害"
     },
     {
@@ -307,8 +307,8 @@
       "Comment": "战斗中获取金币能力等级一"
     },
     {
-      "Key": "+3 gold when looting",
-      "Translation": "掠夺时获得 +3 金币",
+      "Key": "+5 gold when looting",
+      "Translation": "掠夺时获得 +5 金币",
       "Comment": "每次战利品增加3金币"
     },
     {
@@ -377,8 +377,8 @@
       "Comment": "远程视野增强符文"
     },
     {
-      "Key": "Ranged attack range increased by 3.",
-      "Translation": "远程攻击射程 +3",
+      "Key": "Ranged attack range increased by 5.",
+      "Translation": "远程攻击射程 +5",
       "Comment": "增加射程距离"
     },
     {
@@ -437,8 +437,8 @@
       "Comment": "单位经验等级二"
     },
     {
-      "Key": "Unit has +3 range for Ranged attacks.",
-      "Translation": "单位远程攻击射程 +3",
+      "Key": "Unit has +5 range for Ranged attacks.",
+      "Translation": "单位远程攻击射程 +5",
       "Comment": "增加远程攻击范围"
     },
     {
@@ -522,8 +522,8 @@
       "Comment": "精灵射击技能等级一"
     },
     {
-      "Key": "+3 range for Ranged Attacks.",
-      "Translation": "远程攻击射程 +3",
+      "Key": "+5 range for Ranged Attacks.",
+      "Translation": "远程攻击射程 +5",
       "Comment": "增加射程范围"
     },
     {
@@ -597,8 +597,8 @@
       "Comment": "化身为猛禽的能力"
     },
     {
-      "Key": "Unit gains Lethal attacks. (deals 3x wounds)",
-      "Translation": "单位获得致命攻击（造成3倍伤害）",
+      "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
+      "Translation": "单位获得致命攻击（造成2倍伤害）",
       "Comment": "大幅提升攻击伤害"
     },
     {
@@ -607,8 +607,8 @@
       "Comment": "化身为蛇的能力"
     },
     {
-      "Key": "Unit gains Poisoned Attacks (enemies re-roll 3s on Damage Saves)",
-      "Translation": "单位获得毒性攻击（敌人重投伤害豁免的 3 点）",
+      "Key": "Unit gains Poisoned Attacks (enemies re-roll 6s on Damage Saves)",
+      "Translation": "单位获得毒性攻击（敌人重投伤害豁免的 6 点）",
       "Comment": "攻击附带毒性效果"
     },
     {
@@ -687,8 +687,8 @@
       "Comment": "强大的战斗精神提升"
     },
     {
-      "Key": "Warcry also gives +3 Move Speed to all units.",
-      "Translation": "战吼还为所有单位提供 +3 移动速度",
+      "Key": "Warcry also gives +2 Move Speed to all units.",
+      "Translation": "战吼还为所有单位提供 +2 移动速度",
       "Comment": "增强范围能力"
     },
     {
@@ -812,8 +812,8 @@
       "Comment": "战争魔法的大师"
     },
     {
-      "Key": "Gain Deadly Strikes (deal 3x Wounds)",
-      "Translation": "获得致命打击（造成3倍伤害）",
+      "Key": "Gain Deadly Strikes (deal 2x Wounds)",
+      "Translation": "获得致命打击（造成2倍伤害）",
       "Comment": "大幅提升攻击伤害"
     },
     {
@@ -852,8 +852,8 @@
       "Comment": "阿瓦隆射手等级一"
     },
     {
-      "Key": "Unit has +3 range for Ranged Attacks.",
-      "Translation": "单位远程攻击射程 +3",
+      "Key": "Unit has +5 range for Ranged Attacks.",
+      "Translation": "单位远程攻击射程 +5",
       "Comment": "增加射程范围"
     },
     {

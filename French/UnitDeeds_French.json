@@ -7,9 +7,10 @@
       "Comment": ""
     },
     {
-      "Key": "Passed 1 Break Tests.",
-      "Translation": "A Réussi 1 test de moral.",
-      "Comment": ""
+      "Key": "Passed {0} Break Tests.",
+      "Translation": "A Réussi {0} tests de moral.",
+      "Comment": "",
+      "PluralOne": "A Réussi {0} test de moral."
     },
     {
       "Key": "Dragon Slayer",
@@ -17,9 +18,10 @@
       "Comment": ""
     },
     {
-      "Key": "Killed 1 dragon.",
-      "Translation": "A Tué 1 dragon.",
-      "Comment": ""
+      "Key": "Killed {0} dragons.",
+      "Translation": "A Tué {0} dragons.",
+      "Comment": "",
+      "PluralOne": "A Tué {0} dragon."
     },
     {
       "Key": "Deadly",
@@ -27,9 +29,10 @@
       "Comment": ""
     },
     {
-      "Key": "Killed 1 enemies in combat.",
-      "Translation": "A Tué 1 ennemis au combat.",
-      "Comment": ""
+      "Key": "Killed {0} enemies in combat.",
+      "Translation": "A Tué {0} ennemis au combat.",
+      "Comment": "",
+      "PluralOne": "A Tué {0} ennemis au combat."
     },
     {
       "Key": "Marksman",
@@ -37,9 +40,10 @@
       "Comment": ""
     },
     {
-      "Key": "Killed 1 enemies with ranged weapons.",
-      "Translation": "A Tué 1 ennemis avec des armes à distance.",
-      "Comment": ""
+      "Key": "Killed {0} enemies with ranged weapons.",
+      "Translation": "A Tué {0} ennemis avec des armes à distance.",
+      "Comment": "",
+      "PluralOne": "A Tué {0} ennemis avec des armes à distance."
     },
     {
       "Key": "Lucky",
@@ -47,9 +51,10 @@
       "Comment": ""
     },
     {
-      "Key": "Rolled 1 natural six (33 % of all rolls).",
-      "Translation": "A Obtenu 1 six naturel (33 % de tous les jets).",
-      "Comment": ""
+      "Key": "Rolled {0} natural sixes ({1:P0} of all rolls).",
+      "Translation": "A Obtenu {0} six naturels ({1:P0} de tous les jets).",
+      "Comment": "",
+      "PluralOne": "A Obtenu {0} six naturel ({1:P0} de tous les jets)."
     },
     {
       "Key": "Scorer",
@@ -57,9 +62,10 @@
       "Comment": ""
     },
     {
-      "Key": "Captured 1 objective.",
-      "Translation": "A Capturé 1 objectif.",
-      "Comment": ""
+      "Key": "Captured {0} objectives.",
+      "Translation": "A Capturé {0} objectifs.",
+      "Comment": "",
+      "PluralOne": "A Capturé {0} objectif."
     },
     {
       "Key": "Giant Slayer",
@@ -67,9 +73,10 @@
       "Comment": ""
     },
     {
-      "Key": "Killed 1 giant.",
-      "Translation": "A Tué 1 géant.",
-      "Comment": ""
+      "Key": "Killed {0} giants.",
+      "Translation": "A Tué {0} géants.",
+      "Comment": "",
+      "PluralOne": "A Tué {0} géant."
     },
     {
       "Key": "Treefeller",
@@ -77,9 +84,10 @@
       "Comment": ""
     },
     {
-      "Key": "Felled 1 tree monster.",
-      "Translation": "A Abattu 1 monstre-arbre.",
-      "Comment": ""
+      "Key": "Felled {0} tree monsters.",
+      "Translation": "A Abattu {0} monstres-arbres.",
+      "Comment": "",
+      "PluralOne": "A Abattu {0} monstre-arbre."
     },
     {
       "Key": "Dino Hunter",
@@ -87,9 +95,10 @@
       "Comment": ""
     },
     {
-      "Key": "Killed 1 dinosaur.",
-      "Translation": "A Tué 1 dinosaure.",
-      "Comment": ""
+      "Key": "Killed {0} dinosaurs.",
+      "Translation": "A Tué {0} dinosaures.",
+      "Comment": "",
+      "PluralOne": "A Tué {0} dinosaure."
     },
     {
       "Key": "Warmachine Hunter",
@@ -97,9 +106,10 @@
       "Comment": ""
     },
     {
-      "Key": "Killed 1 warmachine.",
-      "Translation": "A Détruit 1 machine de guerre.",
-      "Comment": ""
+      "Key": "Killed {0} warmachines.",
+      "Translation": "A Détruit {0} machines de guerre.",
+      "Comment": "",
+      "PluralOne": "A Détruit {0} machine de guerre."
     },
     {
       "Key": "Demon Hunter",
@@ -107,9 +117,10 @@
       "Comment": ""
     },
     {
-      "Key": "Slain 1 greater demon.",
-      "Translation": "A Tué 1 grand démon.",
-      "Comment": ""
+      "Key": "Slain {0} greater demons.",
+      "Translation": "A Tué {0} grands démons.",
+      "Comment": "",
+      "PluralOne": "A Tué {0} grand démon."
     },
     {
       "Key": "Duelist",
@@ -117,9 +128,10 @@
       "Comment": ""
     },
     {
-      "Key": "Killed 1 Commander.",
-      "Translation": "A Tué 1 commandant.",
-      "Comment": ""
+      "Key": "Killed {0} Commanders.",
+      "Translation": "A Tué {0} commandants.",
+      "Comment": "",
+      "PluralOne": "A Tué {0} commandant."
     },
     {
       "Key": "Spellslinger",
@@ -127,9 +139,10 @@
       "Comment": ""
     },
     {
-      "Key": "Cast 1 spell.",
-      "Translation": "A Lancé 1 sort.",
-      "Comment": ""
+      "Key": "Cast {0} spells.",
+      "Translation": "A Lancé {0} sorts.",
+      "Comment": "",
+      "PluralOne": "A Lancé {0} sort."
     },
     {
       "Key": "Coward",
@@ -147,9 +160,10 @@
       "Comment": ""
     },
     {
-      "Key": "Rolled 1 one (33 % of all rolls).",
-      "Translation": "A Obtenu 1 un (33 % de tous les jets).",
-      "Comment": ""
+      "Key": "Rolled {0} ones ({1:P0} of all rolls).",
+      "Translation": "A Obtenu {0} un ({1:P0} de tous les jets).",
+      "Comment": "",
+      "PluralOne": "A Obtenu {0} un ({1:P0} de tous les jets)."
     },
     {
       "Key": "Last Man Standing",
@@ -187,9 +201,10 @@
       "Comment": ""
     },
     {
-      "Key": "Performed 1 flank/rear charge.",
-      "Translation": "A Effectué 1 charge de flanc/arrière.",
-      "Comment": ""
+      "Key": "Performed {0} flank/rear charges.",
+      "Translation": "A Effectué {0} charges de flanc/arrière.",
+      "Comment": "",
+      "PluralOne": "A Effectué {0} charge de flanc/arrière."
     },
     {
       "Key": "Dragon Slayers",
@@ -242,103 +257,13 @@
       "Comment": ""
     },
     {
-      "Key": "Passed 3 Break Tests.",
-      "Translation": "A Réussi 3 tests de moral.",
-      "Comment": ""
-    },
-    {
-      "Key": "Killed 3 dragons.",
-      "Translation": "A Tué 3 dragons.",
-      "Comment": ""
-    },
-    {
-      "Key": "Killed 3 enemies in combat.",
-      "Translation": "A Tué 3 ennemis au combat.",
-      "Comment": ""
-    },
-    {
-      "Key": "Killed 3 enemies with ranged weapons.",
-      "Translation": "A Tué 3 ennemis avec des armes à distance.",
-      "Comment": ""
-    },
-    {
       "Key": "Blessed!",
       "Translation": "Béni !",
       "Comment": ""
     },
     {
-      "Key": "Rolled 3 natural sixes (33 % of all rolls).",
-      "Translation": "A Obtenu 3 six naturels (33 % de tous les jets).",
-      "Comment": ""
-    },
-    {
-      "Key": "Captured 3 objectives.",
-      "Translation": "A Capturé 3 objectifs.",
-      "Comment": ""
-    },
-    {
-      "Key": "Killed 3 giants.",
-      "Translation": "A Tué 3 géants.",
-      "Comment": ""
-    },
-    {
-      "Key": "Felled 3 tree monsters.",
-      "Translation": "A Abattu 3 monstres-arbres.",
-      "Comment": ""
-    },
-    {
-      "Key": "Killed 3 dinosaurs.",
-      "Translation": "A Tué 3 dinosaures.",
-      "Comment": ""
-    },
-    {
-      "Key": "Killed 3 warmachines.",
-      "Translation": "A Détruit 3 machines de guerre.",
-      "Comment": ""
-    },
-    {
-      "Key": "Slain 3 greater demons.",
-      "Translation": "A Tué 3 grands démons.",
-      "Comment": ""
-    },
-    {
-      "Key": "Killed 3 Commanders.",
-      "Translation": "A Tué 3 commandants.",
-      "Comment": ""
-    },
-    {
-      "Key": "Cast 3 spells.",
-      "Translation": "A Lancé 3 sorts.",
-      "Comment": ""
-    },
-    {
       "Key": "Cursed!",
       "Translation": "Maudit !",
-      "Comment": ""
-    },
-    {
-      "Key": "Rolled 3 ones (33 % of all rolls).",
-      "Translation": "A Obtenu 3 un (33 % de tous les jets).",
-      "Comment": ""
-    },
-    {
-      "Key": "Performed 3 flank/rear charges.",
-      "Translation": "A Effectué 3 charges de flanc/arrière.",
-      "Comment": ""
-    },
-    {
-      "Key": "Rolled 3 natural sixes (100 % of all rolls).",
-      "Translation": "A Obtenu 3 six naturels (100 % de tous les jets).",
-      "Comment": ""
-    },
-    {
-      "Key": "Rolled 3 ones (100 % of all rolls).",
-      "Translation": "A Obtenu 3 un (100 % de tous les jets).",
-      "Comment": ""
-    },
-    {
-      "Key": "Killed 13 enemies with ranged weapons.",
-      "Translation": "A Tué 13 ennemis avec des armes à distance.",
       "Comment": ""
     }
   ]

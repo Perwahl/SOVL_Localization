@@ -7,8 +7,8 @@
       "Comment": "Unwavering resolve in battle. Maintains heroic tone."
     },
     {
-      "Key": "Passed 1 Break Tests.",
-      "Translation": "Superato 1 Test di Resistenza.",
+      "Key": "Passed {0} Break Tests.",
+      "Translation": "Superato {0} Test di Resistenza.",
       "Comment": "Morale test terminology. Italian maintains wargaming accuracy."
     },
     {
@@ -17,8 +17,8 @@
       "Comment": "Classic fantasy achievement. Maintains epic tone."
     },
     {
-      "Key": "Killed 1 dragon.",
-      "Translation": "Ucciso 1 drago.",
+      "Key": "Killed {0} dragons.",
+      "Translation": "Ucciso {0} drago.",
       "Comment": "Direct description of deed. Clear and simple."
     },
     {
@@ -27,8 +27,8 @@
       "Comment": "Conveys combat prowess. Serious wargame tone."
     },
     {
-      "Key": "Killed 1 enemies in combat.",
-      "Translation": "Ucciso 1 nemico in combattimento.",
+      "Key": "Killed {0} enemies in combat.",
+      "Translation": "Ucciso {0} nemico in combattimento.",
       "Comment": "Direct combat kills. Italian emphasizes melee nature."
     },
     {
@@ -37,8 +37,8 @@
       "Comment": "Emphasizes ranged weapon skill. Maintains martial tone."
     },
     {
-      "Key": "Killed 1 enemies with ranged weapons.",
-      "Translation": "Ucciso 1 nemico con armi a distanza.",
+      "Key": "Killed {0} enemies with ranged weapons.",
+      "Translation": "Ucciso {0} nemico con armi a distanza.",
       "Comment": "Distinguishes ranged from melee. Wargaming terminology."
     },
     {
@@ -47,8 +47,8 @@
       "Comment": "Relates to dice roll fortune in wargaming."
     },
     {
-      "Key": "Rolled 1 natural six (33 % of all rolls).",
-      "Translation": "Lanciato 1 sei naturale (33% di tutti i tiri).",
+      "Key": "Rolled {0} natural sixes ({1:P0} of all rolls).",
+      "Translation": "Lanciato {0} sei naturale ({1:P0} di tutti i tiri).",
       "Comment": "Dice mechanic description. Technical wargaming term."
     },
     {
@@ -57,8 +57,8 @@
       "Comment": "Objective capture achievement. Emphasizes victory."
     },
     {
-      "Key": "Captured 1 objective.",
-      "Translation": "Catturato 1 obiettivo.",
+      "Key": "Captured {0} objectives.",
+      "Translation": "Catturato {0} obiettivo.",
       "Comment": "Direct objective capture. Clear tactical term."
     },
     {
@@ -67,8 +67,8 @@
       "Comment": "Monster hunter achievement. Maintains fantasy tone."
     },
     {
-      "Key": "Killed 1 giant.",
-      "Translation": "Ucciso 1 gigante.",
+      "Key": "Killed {0} giants.",
+      "Translation": "Ucciso {0} gigante.",
       "Comment": "Simple direct deed. Clear and concise."
     },
     {
@@ -77,8 +77,8 @@
       "Comment": "Treant/forest spirit slayer. Specific monster type."
     },
     {
-      "Key": "Felled 1 tree monster.",
-      "Translation": "Abbattuto 1 mostro arboreo.",
+      "Key": "Felled {0} tree monsters.",
+      "Translation": "Abbattuto {0} mostro arboreo.",
       "Comment": "Forest creature killer. Clear creature designation."
     },
     {
@@ -87,7 +87,7 @@
       "Comment": "Dinosaur slayer. Fantasy creature hunter."
     },
     {
-      "Key": "Killed 1 dinosaur.",
+      "Key": "Killed {0} dinosaurs.",
       "Translation": "",
       "Comment": ""
     },
@@ -97,7 +97,7 @@
       "Comment": ""
     },
     {
-      "Key": "Killed 1 warmachine.",
+      "Key": "Killed {0} warmachines.",
       "Translation": "",
       "Comment": ""
     },
@@ -107,7 +107,7 @@
       "Comment": ""
     },
     {
-      "Key": "Slain 1 greater demon.",
+      "Key": "Slain {0} greater demons.",
       "Translation": "",
       "Comment": ""
     },
@@ -117,7 +117,7 @@
       "Comment": ""
     },
     {
-      "Key": "Killed 1 Commander.",
+      "Key": "Killed {0} Commanders.",
       "Translation": "",
       "Comment": ""
     },
@@ -127,7 +127,7 @@
       "Comment": ""
     },
     {
-      "Key": "Cast 1 spell.",
+      "Key": "Cast {0} spells.",
       "Translation": "",
       "Comment": ""
     },
@@ -147,7 +147,7 @@
       "Comment": ""
     },
     {
-      "Key": "Rolled 1 one (33 % of all rolls).",
+      "Key": "Rolled {0} ones ({1:P0} of all rolls).",
       "Translation": "",
       "Comment": ""
     },
@@ -187,7 +187,7 @@
       "Comment": ""
     },
     {
-      "Key": "Performed 1 flank/rear charge.",
+      "Key": "Performed {0} flank/rear charges.",
       "Translation": "",
       "Comment": ""
     },
@@ -242,102 +242,12 @@
       "Comment": ""
     },
     {
-      "Key": "Passed 3 Break Tests.",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "Killed 3 dragons.",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "Killed 3 enemies in combat.",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "Killed 3 enemies with ranged weapons.",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
       "Key": "Blessed!",
       "Translation": "",
       "Comment": ""
     },
     {
-      "Key": "Rolled 3 natural sixes (33 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "Captured 3 objectives.",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "Killed 3 giants.",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "Felled 3 tree monsters.",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "Killed 3 dinosaurs.",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "Killed 3 warmachines.",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "Slain 3 greater demons.",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "Killed 3 Commanders.",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "Cast 3 spells.",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
       "Key": "Cursed!",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "Rolled 3 ones (33 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "Performed 3 flank/rear charges.",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "Rolled 3 natural sixes (100 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "Rolled 3 ones (100 % of all rolls).",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "Killed 13 enemies with ranged weapons.",
       "Translation": "",
       "Comment": ""
     }

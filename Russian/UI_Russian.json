@@ -587,8 +587,8 @@
       "Comment": "Battle objective"
     },
     {
-      "Key": "- Survive for 3 Turns -",
-      "Translation": "- Выживайте 3 хода -",
+      "Key": "- Survive for 6 Turns -",
+      "Translation": "- Выживайте 6 хода -",
       "Comment": "Survival objective"
     },
     {
@@ -627,8 +627,8 @@
       "Comment": "Campaign continuation message"
     },
     {
-      "Key": "0 pts",
-      "Translation": "0 очк",
+      "Key": "{0}pts",
+      "Translation": "{0} очк",
       "Comment": "Points abbreviation - consistent with existing translations"
     },
     {
@@ -677,14 +677,10 @@
       "Comment": "Campaign event - assassination"
     },
     {
-      "Key": "1% gold income",
-      "Translation": "1% золотого дохода",
-      "Comment": "Economy bonus"
-    },
-    {
-      "Key": "3% gold income",
-      "Translation": "3% золотого дохода",
-      "Comment": "Economy bonus"
+      "Key": "{0}% gold income",
+      "Translation": "{0}% золотого дохода",
+      "Comment": "Economy bonus",
+      "PluralOne": "{0}% золотого дохода"
     },
     {
       "Key": "Your regiment returns in the morning. But something has changed them...",
@@ -737,23 +733,23 @@
       "Comment": "Rich text formatting preserved"
     },
     {
-      "Key": "Win <size=30%><color=green>+",
-      "Translation": "Победа <size=30%><color=green>+",
+      "Key": "Win <size=80%><color=green>+",
+      "Translation": "Победа <size=80%><color=green>+",
       "Comment": "Rich text formatting preserved"
     },
     {
-      "Key": "Loss <size=30%>",
-      "Translation": "Поражение <size=30%>",
+      "Key": "Loss <size=80%>",
+      "Translation": "Поражение <size=80%>",
       "Comment": "Rich text formatting preserved"
     },
     {
-      "Key": "Total Points: <color=#3EFEFF>",
-      "Translation": "Всего очков: <color=#3EFEFF>",
+      "Key": "Total Points: <color=#9EFEFF>",
+      "Translation": "Всего очков: <color=#9EFEFF>",
       "Comment": "Rich text formatting preserved"
     },
     {
-      "Key": "Elo:  <color=#3EFEFF>",
-      "Translation": "Ело:  <color=#3EFEFF>",
+      "Key": "Elo:  <color=#9EFEFF>",
+      "Translation": "Ело:  <color=#9EFEFF>",
       "Comment": "Keep Elo as international rating term"
     },
     {
@@ -772,23 +768,19 @@
       "Comment": "Unit replenishment"
     },
     {
-      "Key": "Replenished 3 models",
-      "Translation": "Восполнены 3 модели",
+      "Key": "Replenished 5 models",
+      "Translation": "Восполнены 5 модели",
       "Comment": "Unit replenishment"
     },
     {
-      "Key": "1 XP",
-      "Translation": "1 ОП",
-      "Comment": "EP = Erfahrungspunkte (Experience Points)"
+      "Key": "{0} XP",
+      "Translation": "{0} ОП",
+      "Comment": "Experience Points",
+      "PluralOne": "{0} ОП"
     },
     {
-      "Key": "3 XP",
-      "Translation": "3 ОП",
-      "Comment": "Experience Points"
-    },
-    {
-      "Key": "Defeated by <color=#FFDF3C>",
-      "Translation": "Поражение от <color=#FFDF3C>",
+      "Key": "Defeated by <color=#FFDF7C>",
+      "Translation": "Поражение от <color=#FFDF7C>",
       "Comment": "Campaign defeat message"
     },
     {
@@ -797,8 +789,8 @@
       "Comment": "Campaign act indicator"
     },
     {
-      "Key": "Great Weapon <color=#B3F333>+1",
-      "Translation": "Великое оружие <color=#B3F333>+1",
+      "Key": "Great Weapon <color=#B6F595>+1",
+      "Translation": "Великое оружие <color=#B6F595>+1",
       "Comment": "Weapon item"
     },
     {
@@ -967,8 +959,8 @@
       "Comment": "Enchanted weapon"
     },
     {
-      "Key": "3 Units",
-      "Translation": "3 отряда",
+      "Key": "2 Units",
+      "Translation": "2 отряда",
       "Comment": "Unit count"
     },
     {
@@ -1022,8 +1014,8 @@
       "Comment": "Opponent label"
     },
     {
-      "Key": "<color=#31D3E3>3+ <size=33%></color> To Save",
-      "Translation": "<color=#31D3E3>3+ <size=33%></color> Спас",
+      "Key": "<color=#81D7E5>3+ <size=85%></color> To Save",
+      "Translation": "<color=#81D7E5>3+ <size=85%></color> Спас",
       "Comment": "Rich text formatting preserved"
     },
     {
@@ -1037,8 +1029,8 @@
       "Comment": "Example/placeholder text"
     },
     {
-      "Key": "<color=#30F3FF> 3x</color> Auto Hits",
-      "Translation": "<color=#30F3FF> 3x</color> Автопопадание",
+      "Key": "<color=#70F6FF> 3x</color> Auto Hits",
+      "Translation": "<color=#70F6FF> 3x</color> Автопопадание",
       "Comment": "Combat result"
     },
     {
@@ -1052,8 +1044,8 @@
       "Comment": "Example/template text - appears to have formatting issue in original"
     },
     {
-      "Key": "Power <color=#31D3E3><size=133%>3</color> </size>VS Defense <color=#31D3E3><size=133%>3</color> ",
-      "Translation": "Мощь <color=#31D3E3><size=133%>3</color> </size>VS Защита <color=#31D3E3><size=133%>3</color> ",
+      "Key": "Power <color=#81D7E5><size=125%>5</color> </size>VS Defense <color=#81D7E5><size=125%>5</color> ",
+      "Translation": "Мощь <color=#81D7E5><size=125%>5</color> </size>VS Защита <color=#81D7E5><size=125%>5</color> ",
       "Comment": "Rich text formatting preserved"
     },
     {
@@ -1067,8 +1059,8 @@
       "Comment": "Attack roll action"
     },
     {
-      "Key": "Power 3 vs Defense 3",
-      "Translation": "Мощь 3 против Защиты 3",
+      "Key": "Power 3 vs Defense 4",
+      "Translation": "Мощь 3 против Защиты 4",
       "Comment": "Combat comparison"
     },
     {
@@ -1267,11 +1259,6 @@
       "Comment": "Victory condition"
     },
     {
-      "Key": "3333 pts",
-      "Translation": "3333 очк",
-      "Comment": "Example points"
-    },
-    {
       "Key": "Objectives:",
       "Translation": "Цели:",
       "Comment": "Objectives label"
@@ -1342,13 +1329,13 @@
       "Comment": "Menu action"
     },
     {
-      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 33.",
-      "Translation": "Поражение от <color=blue>Гундрик Наковальник</color> на этапе 33.",
+      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 32.",
+      "Translation": "Поражение от <color=blue>Гундрик Наковальник</color> на этапе 32.",
       "Comment": "Campaign defeat message with character name"
     },
     {
-      "Key": "Unlocked 1/3",
-      "Translation": "Разблокировано 1/3",
+      "Key": "Unlocked 1/5",
+      "Translation": "Разблокировано 1/5",
       "Comment": "Progress indicator"
     },
     {
@@ -1507,8 +1494,8 @@
       "Comment": "Choice separator"
     },
     {
-      "Key": "Mercenary Cut: <indent=33%><color=green><b>+10%",
-      "Translation": "Доля наёмника: <indent=33%><color=green><b>+10%",
+      "Key": "Mercenary Cut: <indent=55%><color=green><b>+10%",
+      "Translation": "Доля наёмника: <indent=55%><color=green><b>+10%",
       "Comment": "Rich text formatting preserved"
     },
     {
@@ -1917,8 +1904,8 @@
       "Comment": "Bonus description"
     },
     {
-      "Key": "(Your units have +3 Move Speed and +1 to Ranged Attack Rolls) ",
-      "Translation": "(Ваши отряды получают +3 к скорости движения и +1 к броскам дальнобойных атак)",
+      "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
+      "Translation": "(Ваши отряды получают +2 к скорости движения и +1 к броскам дальнобойных атак)",
       "Comment": "Bonus effect"
     },
     {
@@ -1932,8 +1919,8 @@
       "Comment": "Placeholder string"
     },
     {
-      "Key": "Light Infantry - 33 pts",
-      "Translation": "Лёгкая пехота - 33 очк",
+      "Key": "Light Infantry - 99 pts",
+      "Translation": "Лёгкая пехота - 99 очк",
       "Comment": "Unit with cost"
     },
     {
@@ -1950,11 +1937,6 @@
       "Key": "- Dwarf Warriors",
       "Translation": "- Дварфийские воины",
       "Comment": "Unit name in list"
-    },
-    {
-      "Key": "33 pts",
-      "Translation": "33 очк",
-      "Comment": "Point cost"
     },
     {
       "Key": "Select Unit",
@@ -1987,11 +1969,6 @@
       "Comment": "Item name - Greenskin faction"
     },
     {
-      "Key": "130pts",
-      "Translation": "130 очк",
-      "Comment": "Point cost"
-    },
-    {
       "Key": "Item Rules Effect\n",
       "Translation": "Эффект правил предмета\n",
       "Comment": "Placeholder text"
@@ -2000,11 +1977,6 @@
       "Key": "Unlocked ",
       "Translation": "Разблокировано",
       "Comment": "Status indicator"
-    },
-    {
-      "Key": "33pts",
-      "Translation": "33 очк",
-      "Comment": "Point cost"
     },
     {
       "Key": "<color=#31D3E3>3<size=33%></color> D3",
@@ -2020,16 +1992,6 @@
       "Key": "<color=#31D3E3>1<size=33%></color> D3",
       "Translation": "<color=#31D3E3>1<size=33%></color> K3",
       "Comment": "Rich text dice notation"
-    },
-    {
-      "Key": "30pts",
-      "Translation": "30 очк",
-      "Comment": "Point cost"
-    },
-    {
-      "Key": "333 pts",
-      "Translation": "333 очк",
-      "Comment": "Point value"
     },
     {
       "Key": "BorderPatrol",
@@ -2092,16 +2054,6 @@
       "Comment": "Game mode"
     },
     {
-      "Key": "103pts",
-      "Translation": "103 очк",
-      "Comment": "Point cost"
-    },
-    {
-      "Key": "133pts",
-      "Translation": "133 очк",
-      "Comment": "Point cost"
-    },
-    {
       "Key": "Commander Ability",
       "Translation": "Способность полководца",
       "Comment": "Equipment slot"
@@ -2115,21 +2067,6 @@
       "Key": "Magic Banner",
       "Translation": "Магический штандарт",
       "Comment": "Equipment slot"
-    },
-    {
-      "Key": "131pts",
-      "Translation": "131 очк",
-      "Comment": "Point cost"
-    },
-    {
-      "Key": "13pts",
-      "Translation": "13 очк",
-      "Comment": "Point cost"
-    },
-    {
-      "Key": "10pts",
-      "Translation": "10 очк",
-      "Comment": "Point cost"
     },
     {
       "Key": "Weapon Enchantment",
@@ -2147,8 +2084,8 @@
       "Comment": "Ability type"
     },
     {
-      "Key": "<b>Draw<size=30%></color></b>\n",
-      "Translation": "<b>Ничья<size=30%></color></b>\n",
+      "Key": "<b>Draw<size=80%></color></b>\n",
+      "Translation": "<b>Ничья<size=80%></color></b>\n",
       "Comment": "Battle result - preserve rich text tags"
     },
     {
@@ -2212,8 +2149,8 @@
       "Comment": "Test to see if unit breaks and flees"
     },
     {
-      "Key": "3 or lower to Hold",
-      "Translation": "3 или меньше чтобы держать",
+      "Key": "{0} or lower to Hold",
+      "Translation": "{0} или меньше чтобы держать",
       "Comment": "Morale test success condition"
     },
     {
@@ -2222,14 +2159,9 @@
       "Comment": "Unit regains morale"
     },
     {
-      "Key": "3 or lower to Rally",
-      "Translation": "3 или меньше чтобы восстать",
+      "Key": "{0} or lower to Rally",
+      "Translation": "{0} или меньше чтобы восстать",
       "Comment": "Rally test success condition"
-    },
-    {
-      "Key": "0 or lower to Hold",
-      "Translation": "0 или меньше чтобы держать",
-      "Comment": "Auto-break situation"
     },
     {
       "Key": "fled off the board!",
@@ -2327,27 +2259,12 @@
       "Comment": "Unit category"
     },
     {
-      "Key": "113pts",
-      "Translation": "113 очк",
-      "Comment": "Point cost"
-    },
-    {
-      "Key": "110pts",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
       "Key": "Raiders",
       "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Big Stuff",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "3pts",
       "Translation": "",
       "Comment": ""
     },
@@ -2422,6 +2339,11 @@
       "Comment": ""
     },
     {
+      "Key": "D6",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
       "Key": " Damage Save",
       "Translation": "",
       "Comment": ""
@@ -2438,11 +2360,6 @@
     },
     {
       "Key": "conceded",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "313pts",
       "Translation": "",
       "Comment": ""
     },
@@ -2478,16 +2395,6 @@
     },
     {
       "Key": "continue fighting, but their magic weakens.",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "0pts",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "10 or lower to Hold",
       "Translation": "",
       "Comment": ""
     },

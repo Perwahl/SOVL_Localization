@@ -163,7 +163,7 @@
     },
     {
       "Key": "Lance and Shield",
-      "Translation": "\u9495与盧",
+      "Translation": "钕与盧",
       "Comment": "Mounted melee weapon combination"
     },
     {
@@ -697,13 +697,13 @@
       "Comment": "Offensive aura effect"
     },
     {
-      "Key": "3 Hand Weapons",
-      "Translation": "3把手持武器",
+      "Key": "2 Hand Weapons",
+      "Translation": "2把手持武器",
       "Comment": "Triple wielding attack"
     },
     {
-      "Key": "3x Pistols",
-      "Translation": "3支手枪",
+      "Key": "2x Pistols",
+      "Translation": "2支手枪",
       "Comment": "Triple pistol attack"
     },
     {

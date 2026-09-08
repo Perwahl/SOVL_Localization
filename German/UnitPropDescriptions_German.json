@@ -62,13 +62,23 @@
       "Comment": ""
     },
     {
+      "Key": "Range: 20. Power 2.",
+      "Translation": "Reichweite: 20. Stärke 2.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 20. Power 3.",
+      "Translation": "Reichweite: 20. Stärke 3.",
+      "Comment": ""
+    },
+    {
       "Key": "Range: 30. Power 3.",
       "Translation": "Reichweite: 30. Stärke 3.",
       "Comment": ""
     },
     {
-      "Key": "Range: 33. Power 3. ",
-      "Translation": "Reichweite: 33. Stärke 3. ",
+      "Key": "Range: 24. Power 4. ",
+      "Translation": "Reichweite: 24. Stärke 4. ",
       "Comment": ""
     },
     {
@@ -332,6 +342,16 @@
       "Comment": ""
     },
     {
+      "Key": "Range: 20. 2x Power 3.",
+      "Translation": "Reichweite: 20. 2 Treffer, Stärke 3.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 20. 4x Power 3.",
+      "Translation": "Reichweite: 20. 4 Treffer, Stärke 3.",
+      "Comment": ""
+    },
+    {
       "Key": "Range: 30. 3x Power 3.",
       "Translation": "Reichweite: 30. 3 Treffer, Stärke 3.",
       "Comment": ""
@@ -402,13 +422,23 @@
       "Comment": ""
     },
     {
-      "Key": "Range 13. 3D3 Power 3.",
-      "Translation": "Reichweite 13. 3W3 Treffer, Stärke 3.",
+      "Key": "Range 12. 2D3 Power 3.",
+      "Translation": "Reichweite 12. 2W3 Treffer, Stärke 3.",
       "Comment": "W3 = Würfel mit 3 Seiten"
     },
     {
-      "Key": "+3 Movement this turn.",
-      "Translation": "+3 Bewegung in diesem Zug.",
+      "Key": "Range 12. 2D3 Power 5.",
+      "Translation": "Reichweite 12. 2W3 Treffer, Stärke 5.",
+      "Comment": "W3 = Würfel mit 3 Seiten"
+    },
+    {
+      "Key": "Range 16. 3D3 Power 5.",
+      "Translation": "Reichweite 16. 3W3 Treffer, Stärke 5.",
+      "Comment": "W3 = Würfel mit 3 Seiten"
+    },
+    {
+      "Key": "+6 Movement this turn.",
+      "Translation": "+6 Bewegung in diesem Zug.",
       "Comment": ""
     },
     {
@@ -422,43 +452,48 @@
       "Comment": "Armor-piercing lance"
     },
     {
-      "Key": "+1 Defense. Charge Bonus: +3 Power",
-      "Translation": "+1 Verteidigung. Ansturmbonus: +3 Stärke",
+      "Key": "+1 Defense. Charge Bonus: +2 Power",
+      "Translation": "+1 Verteidigung. Ansturmbonus: +2 Stärke",
       "Comment": "Heavy cavalry/monster"
     },
     {
-      "Key": "Range 13. 3x Power 3.",
-      "Translation": "Reichweite 13. 3 Treffer, Stärke 3.",
+      "Key": "Range 18. 2x Power 4.",
+      "Translation": "Reichweite 18. 2 Treffer, Stärke 4.",
       "Comment": ""
     },
     {
-      "Key": "Range 33. D3 hits, Power 3.",
-      "Translation": "Reichweite 33. W3 Treffer, Stärke 3.",
+      "Key": "Range 48. D3 hits, Power 8.",
+      "Translation": "Reichweite 48. W3 Treffer, Stärke 8.",
       "Comment": ""
     },
     {
-      "Key": "This units ranged attack deals 3x wounds against multiwound targets.",
-      "Translation": "Der Fernkampfangriff dieser Einheit verursacht 3-fache Verwundungen gegen Ziele mit mehreren Wunden.",
+      "Key": "This units ranged attack deals 2x wounds against multiwound targets.",
+      "Translation": "Der Fernkampfangriff dieser Einheit verursacht 2-fache Verwundungen gegen Ziele mit mehreren Wunden.",
       "Comment": "Deadly Strikes ranged variant"
     },
     {
-      "Key": "Range 33. 3D3+1 hits, Power 3.",
-      "Translation": "Reichweite 33. 3W3+1 Treffer, Stärke 3.",
+      "Key": "Range 48. 2D3+1 hits, Power 4.",
+      "Translation": "Reichweite 48. 2W3+1 Treffer, Stärke 4.",
       "Comment": "Organ gun or similar"
     },
     {
-      "Key": "+1 Defense. -3 Move Speed.",
-      "Translation": "+1 Verteidigung. -3 Bewegungsgeschwindigkeit.",
+      "Key": "+1 Defense. -4 Move Speed.",
+      "Translation": "+1 Verteidigung. -4 Bewegungsgeschwindigkeit.",
       "Comment": "Heavy armor trade-off"
     },
     {
-      "Key": "Activate for +3 Movement this turn.",
-      "Translation": "Aktivieren für +3 Bewegung in diesem Zug.",
+      "Key": "Activate for +4 Movement this turn.",
+      "Translation": "Aktivieren für +4 Bewegung in diesem Zug.",
       "Comment": ""
     },
     {
-      "Key": "Fly Speed 30. Ignore Terrain.",
-      "Translation": "Fluggeschwindigkeit 30. Ignoriert Gelände.",
+      "Key": "Fly Speed 20. Ignore Terrain.",
+      "Translation": "Fluggeschwindigkeit 20. Ignoriert Gelände.",
+      "Comment": ""
+    },
+    {
+      "Key": "+2 Skill",
+      "Translation": "+2 Fertigkeit",
       "Comment": ""
     },
     {
@@ -467,63 +502,63 @@
       "Comment": ""
     },
     {
-      "Key": "One use, +3 Power and + 1 Attack until end of turn.",
-      "Translation": "Einmalig verwendbar, +3 Stärke und +1 Angriff bis Ende des Zuges.",
+      "Key": "One use, +2 Power and + 1 Attack until end of turn.",
+      "Translation": "Einmalig verwendbar, +2 Stärke und +1 Angriff bis Ende des Zuges.",
       "Comment": ""
     },
     {
-      "Key": "D3 Power 3 hits. Range 30.",
-      "Translation": "W3 Treffer, Stärke 3. Reichweite 30.",
+      "Key": "D6 Power 5 hits. Range 30.",
+      "Translation": "W6 Treffer, Stärke 5. Reichweite 30.",
       "Comment": ""
     },
     {
-      "Key": "3 x Power 3 hits. Range: 13.",
-      "Translation": "3 Treffer, Stärke 3. Reichweite: 13.",
+      "Key": "3 x Power 3 hits. Range: 18.",
+      "Translation": "3 Treffer, Stärke 3. Reichweite: 18.",
       "Comment": ""
     },
     {
-      "Key": "Target unit has -3 Defense for one turn.",
-      "Translation": "Zieleinheit hat für einen Zug -3 Verteidigung.",
+      "Key": "Target unit has -2 Defense for one turn.",
+      "Translation": "Zieleinheit hat für einen Zug -2 Verteidigung.",
       "Comment": ""
     },
     {
-      "Key": "Charge Bonus: +3 Power +3 Attacks",
-      "Translation": "Ansturmbonus: +3 Stärke +3 Angriffe",
+      "Key": "Charge Bonus: +2 Power +2 Attacks",
+      "Translation": "Ansturmbonus: +2 Stärke +2 Angriffe",
       "Comment": "Monster charge"
     },
     {
-      "Key": "Range 33. 3x Power 3.",
-      "Translation": "Reichweite 33. 3 Treffer, Stärke 3.",
+      "Key": "Range 48. 3x Power 6.",
+      "Translation": "Reichweite 48. 3 Treffer, Stärke 6.",
       "Comment": ""
     },
     {
-      "Key": "Range 33. 3D3 hits, Power 3.",
-      "Translation": "Reichweite 33. 3W3 Treffer, Stärke 3.",
+      "Key": "Range 48. 2D3 hits, Power 5.",
+      "Translation": "Reichweite 48. 2W3 Treffer, Stärke 5.",
       "Comment": ""
     },
     {
-      "Key": "Enemies re-roll 3s on Damage Saves.",
-      "Translation": "Gegner müssen 3er bei Rettungswürfen gegen Schaden wiederholen.",
+      "Key": "Enemies re-roll 6s on Damage Saves.",
+      "Translation": "Gegner müssen 6er bei Rettungswürfen gegen Schaden wiederholen.",
       "Comment": "Rend ability"
     },
     {
-      "Key": "Reduce an enemy units Move Speed by 3. Range 13.",
-      "Translation": "Reduziert die Bewegungsgeschwindigkeit einer feindlichen Einheit um 3. Reichweite 13.",
+      "Key": "Reduce an enemy units Move Speed by 4. Range 12.",
+      "Translation": "Reduziert die Bewegungsgeschwindigkeit einer feindlichen Einheit um 4. Reichweite 12.",
       "Comment": ""
     },
     {
-      "Key": "3D3 Power 1 hits. Range 13.",
-      "Translation": "3W3 Treffer, Stärke 1. Reichweite 13.",
+      "Key": "3D6 Power 1 hits. Range 18.",
+      "Translation": "3W6 Treffer, Stärke 1. Reichweite 18.",
       "Comment": "Magic missile"
     },
     {
-      "Key": "Caster has +1 Power,  +1 Defense and +3 Attacks for one turn.",
-      "Translation": "Zauberwirker hat für einen Zug +1 Stärke, +1 Verteidigung und +3 Angriffe.",
+      "Key": "Caster has +1 Power,  +1 Defense and +2 Attacks for one turn.",
+      "Translation": "Zauberwirker hat für einen Zug +1 Stärke, +1 Verteidigung und +2 Angriffe.",
       "Comment": "Transformation spell"
     },
     {
-      "Key": "Range 3. 1D3 power 3. One use per battle.",
-      "Translation": "Reichweite 3. 1W3 Treffer, Stärke 3. Einmal pro Gefecht.",
+      "Key": "Range 8. 1D6 power 4. One use per battle.",
+      "Translation": "Reichweite 8. 1W6 Treffer, Stärke 4. Einmal pro Gefecht.",
       "Comment": ""
     },
     {
@@ -537,28 +572,33 @@
       "Comment": "Engineer buff"
     },
     {
-      "Key": "Caster and retinue gains Flying and Move Speed 30 for one turn",
-      "Translation": "Zauberwirker und Gefolge erhalten für einen Zug Flug und Bewegungsgeschwindigkeit 30",
+      "Key": "Caster and retinue gains Flying and Move Speed 20 for one turn",
+      "Translation": "Zauberwirker und Gefolge erhalten für einen Zug Flug und Bewegungsgeschwindigkeit 20",
       "Comment": ""
     },
     {
-      "Key": "Range: 13. Power 3.",
-      "Translation": "Reichweite: 13. Stärke 3.",
+      "Key": "Range: 12. Power 2.",
+      "Translation": "Reichweite: 12. Stärke 2.",
       "Comment": ""
     },
     {
-      "Key": "Throw a boulder at an enemy unit. Range 13, 3D3 Power 3.",
-      "Translation": "Wirf einen Felsbrocken auf eine feindliche Einheit. Reichweite 13, 3W3 Treffer, Stärke 3.",
+      "Key": "Range: 12. Power 3.",
+      "Translation": "Reichweite: 12. Stärke 3.",
+      "Comment": ""
+    },
+    {
+      "Key": "Throw a boulder at an enemy unit. Range 18, 2D3 Power 5.",
+      "Translation": "Wirf einen Felsbrocken auf eine feindliche Einheit. Reichweite 18, 2W3 Treffer, Stärke 5.",
       "Comment": "Giant/troll ability"
     },
     {
-      "Key": "+3 Attacks this turn. Activate once per battle when wounded.",
-      "Translation": "+3 Angriffe in diesem Zug. Einmal pro Gefecht aktivierbar, wenn verwundet.",
+      "Key": "+2 Attacks this turn. Activate once per battle when wounded.",
+      "Translation": "+2 Angriffe in diesem Zug. Einmal pro Gefecht aktivierbar, wenn verwundet.",
       "Comment": "Enraged state"
     },
     {
-      "Key": "Range: 13. 3x Power 3.",
-      "Translation": "Reichweite: 13. 3 Treffer, Stärke 3.",
+      "Key": "Range: 12. 4x Power 3.",
+      "Translation": "Reichweite: 12. 4 Treffer, Stärke 3.",
       "Comment": ""
     },
     {
@@ -567,18 +607,23 @@
       "Comment": "Terror roar"
     },
     {
-      "Key": "Range: 3. Power 3.",
-      "Translation": "Reichweite: 3. Stärke 3.",
+      "Key": "Range: 8. Power 2.",
+      "Translation": "Reichweite: 8. Stärke 2.",
       "Comment": "Breath weapon"
     },
     {
-      "Key": "Range 33. Power 3.",
-      "Translation": "Reichweite 33. Stärke 3.",
+      "Key": "Range 48. Power 5.",
+      "Translation": "Reichweite 48. Stärke 5.",
       "Comment": ""
     },
     {
-      "Key": "Range 13. D3 Power 3.",
-      "Translation": "Reichweite 13. W3 Treffer, Stärke 3.",
+      "Key": "Range 12. D3 Power 4.",
+      "Translation": "Reichweite 12. W3 Treffer, Stärke 4.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 12. D3 Power 5.",
+      "Translation": "Reichweite 12. W3 Treffer, Stärke 5.",
       "Comment": ""
     },
     {
@@ -592,13 +637,13 @@
       "Comment": "Deadly Strikes ability"
     },
     {
-      "Key": "Range: 33. Power 3.",
-      "Translation": "Reichweite: 33. Stärke 3.",
+      "Key": "Range: 24. Power 3.",
+      "Translation": "Reichweite: 24. Stärke 3.",
       "Comment": ""
     },
     {
-      "Key": "Activate for +3 Movement and Flying for one turn.",
-      "Translation": "Aktivieren für +3 Bewegung und Flug für einen Zug.",
+      "Key": "Activate for +4 Movement and Flying for one turn.",
+      "Translation": "Aktivieren für +4 Bewegung und Flug für einen Zug.",
       "Comment": ""
     },
     {
@@ -617,17 +662,22 @@
       "Comment": ""
     },
     {
+      "Key": "+2 Wounds",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
       "Key": "+3 Wounds",
       "Translation": "",
       "Comment": ""
     },
     {
-      "Key": "+3 Ranged Attack",
+      "Key": "+2 Ranged Attack",
       "Translation": "",
       "Comment": ""
     },
     {
-      "Key": "+3 Ranged Attack, +1 Power to Ranged Attacks",
+      "Key": "+2 Ranged Attack, +1 Power to Ranged Attacks",
       "Translation": "",
       "Comment": ""
     },
@@ -637,7 +687,7 @@
       "Comment": ""
     },
     {
-      "Key": "+3 Spell Attacks",
+      "Key": "+2 Spell Attacks",
       "Translation": "",
       "Comment": ""
     },
@@ -647,17 +697,22 @@
       "Comment": ""
     },
     {
+      "Key": "+2 Attack",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
       "Key": "+3 Attack",
       "Translation": "",
       "Comment": ""
     },
     {
-      "Key": "+3 Ranged Attacks",
+      "Key": "+2 Ranged Attacks",
       "Translation": "",
       "Comment": ""
     },
     {
-      "Key": "+3 Discipline",
+      "Key": "+2 Discipline",
       "Translation": "",
       "Comment": ""
     },
@@ -737,7 +792,7 @@
       "Comment": ""
     },
     {
-      "Key": "Target unit gets +3 Power in their next combat round.",
+      "Key": "Target unit gets +2 Power in their next combat round.",
       "Translation": "",
       "Comment": ""
     },
@@ -747,12 +802,12 @@
       "Comment": ""
     },
     {
-      "Key": "3D3 Power 3 hits. Range 30.",
+      "Key": "2D6 Power 5 hits. Range 30.",
       "Translation": "",
       "Comment": ""
     },
     {
-      "Key": "Target unit has +3 Power and rerolls missed Attack Rolls this turn.",
+      "Key": "Target unit has +2 Power and rerolls missed Attack Rolls this turn.",
       "Translation": "",
       "Comment": ""
     },
@@ -777,7 +832,7 @@
       "Comment": ""
     },
     {
-      "Key": "3 x Power 3 hits. Range: 33.",
+      "Key": "3 x Power 5 hits. Range: 24.",
       "Translation": "",
       "Comment": ""
     },
@@ -797,12 +852,12 @@
       "Comment": ""
     },
     {
-      "Key": "Caster has +1 Power,  +1 Defense and +3 Attacks this turn.",
+      "Key": "Caster has +1 Power,  +1 Defense and +4 Attacks this turn.",
       "Translation": "",
       "Comment": ""
     },
     {
-      "Key": "3D3 Power 3 hits. Range 13.",
+      "Key": "3D6 Power 2 hits. Range 18.",
       "Translation": "",
       "Comment": ""
     },
@@ -812,7 +867,7 @@
       "Comment": ""
     },
     {
-      "Key": "Ranged attack range increased by 3.",
+      "Key": "Ranged attack range increased by 5.",
       "Translation": "",
       "Comment": ""
     },
@@ -847,7 +902,7 @@
       "Comment": ""
     },
     {
-      "Key": "Unit has +3 range for Ranged attacks.",
+      "Key": "Unit has +5 range for Ranged attacks.",
       "Translation": "",
       "Comment": ""
     },
@@ -882,7 +937,7 @@
       "Comment": ""
     },
     {
-      "Key": "+3 Attacks, -1 Skill.",
+      "Key": "+2 Attacks, -1 Skill.",
       "Translation": "",
       "Comment": ""
     },
@@ -892,17 +947,17 @@
       "Comment": ""
     },
     {
-      "Key": "Range 13. 3D3 Power 3. -1 Defense.",
+      "Key": "Range 12. 2D3 Power 5. -1 Defense.",
       "Translation": "",
       "Comment": ""
     },
     {
-      "Key": "Range 13. D3 Power 3. -1 Defense.",
+      "Key": "Range 12. D3 Power 5. -1 Defense.",
       "Translation": "",
       "Comment": ""
     },
     {
-      "Key": "Fly Speed 13. Ignore Terrain. -1 Discipline.",
+      "Key": "Fly Speed 14. Ignore Terrain. -1 Discipline.",
       "Translation": "",
       "Comment": ""
     },
@@ -932,12 +987,12 @@
       "Comment": ""
     },
     {
-      "Key": "+3 Wounds. -1 Move Speed.",
+      "Key": "+2 Wounds. -1 Move Speed.",
       "Translation": "",
       "Comment": ""
     },
     {
-      "Key": "+3 range to Ranged Attacks",
+      "Key": "+5 range to Ranged Attacks",
       "Translation": "",
       "Comment": ""
     },
@@ -972,7 +1027,7 @@
       "Comment": ""
     },
     {
-      "Key": "Lethal Attacks. (3x wounds)",
+      "Key": "Lethal Attacks. (2x wounds)",
       "Translation": "",
       "Comment": ""
     },
@@ -982,7 +1037,7 @@
       "Comment": ""
     },
     {
-      "Key": "Poisoned Attacks (enemies re-roll 3s on Damage Saves)",
+      "Key": "Poisoned Attacks (enemies re-roll 6s on Damage Saves)",
       "Translation": "",
       "Comment": ""
     },
@@ -1007,7 +1062,7 @@
       "Comment": ""
     },
     {
-      "Key": "All your units have +1 Power  and +3 Move Speed for one turn.",
+      "Key": "All your units have +1 Power  and +2 Move Speed for one turn.",
       "Translation": "",
       "Comment": ""
     },
@@ -1022,7 +1077,7 @@
       "Comment": ""
     },
     {
-      "Key": "Target unit gets +3 to Damage Saves this turn.",
+      "Key": "Target unit gets +2 to Damage Saves this turn.",
       "Translation": "",
       "Comment": ""
     },
@@ -1087,7 +1142,7 @@
       "Comment": ""
     },
     {
-      "Key": "These arrows deal 3x wounds against multiwound targets.",
+      "Key": "These arrows deal 2x wounds against multiwound targets.",
       "Translation": "",
       "Comment": ""
     },

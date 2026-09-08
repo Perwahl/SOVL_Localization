@@ -7,9 +7,10 @@
       "Comment": "Refers to unwavering resolve in battle; maintains the heroic tone of the achievement."
     },
     {
-      "Key": "Passed 1 Break Tests.",
-      "Translation": "Pasó 1 Prueba de Resistencia.",
-      "Comment": "Refers to morale/break tests in wargaming. 'Prueba de Resistencia' is the standard terminology."
+      "Key": "Passed {0} Break Tests.",
+      "Translation": "Pasó {0} Pruebas de Resistencia.",
+      "Comment": "Escalated version; maintains terminology consistency.",
+      "PluralOne": "Pasó {0} Prueba de Resistencia."
     },
     {
       "Key": "Dragon Slayer",
@@ -17,9 +18,10 @@
       "Comment": "Classic fantasy achievement; maintains epic fantasy tone."
     },
     {
-      "Key": "Killed 1 dragon.",
-      "Translation": "Mató 1 dragón.",
-      "Comment": "Direct and clear description of the deed achieved."
+      "Key": "Killed {0} dragons.",
+      "Translation": "Mató {0} dragones.",
+      "Comment": "Escalated achievement; demonstrates exceptional prowess.",
+      "PluralOne": "Mató {0} dragón."
     },
     {
       "Key": "Deadly",
@@ -27,9 +29,10 @@
       "Comment": "Conveys combat prowess and danger; serious wargame tone."
     },
     {
-      "Key": "Killed 1 enemies in combat.",
-      "Translation": "Mató 1 enemigo en combate.",
-      "Comment": "Clear description; 'mató' used for direct combat kills."
+      "Key": "Killed {0} enemies in combat.",
+      "Translation": "Mató {0} enemigos en combate.",
+      "Comment": "Escalated combat achievement; mirrors the singular form.",
+      "PluralOne": "Mató {0} enemigo en combate."
     },
     {
       "Key": "Marksman",
@@ -37,9 +40,10 @@
       "Comment": "Emphasizes skill with ranged weapons; maintains martial tone."
     },
     {
-      "Key": "Killed 1 enemies with ranged weapons.",
-      "Translation": "Mató 1 enemigo con armas a distancia.",
-      "Comment": "Distinguishes ranged combat from melee; appropriate terminology for wargaming."
+      "Key": "Killed {0} enemies with ranged weapons.",
+      "Translation": "Mató {0} enemigos con armas a distancia.",
+      "Comment": "Escalated ranged achievement; demonstrates superior marksmanship.",
+      "PluralOne": "Mató {0} enemigo con armas a distancia."
     },
     {
       "Key": "Lucky",
@@ -47,9 +51,10 @@
       "Comment": "Simple and direct; relates to dice roll fortune in wargaming."
     },
     {
-      "Key": "Rolled 1 natural six (33 % of all rolls).",
-      "Translation": "Rodó 1 seis natural (33 % de todos los dados).",
-      "Comment": "Preserves wargaming dice terminology; 'natural' indicates unmodified roll."
+      "Key": "Rolled {0} natural sixes ({1:P0} of all rolls).",
+      "Translation": "Rodó {0} seises naturales ({1:P0} de todos los dados).",
+      "Comment": "Escalated lucky rolls; 'seises' is plural of the number six in wargaming context.",
+      "PluralOne": "Rodó {0} seis natural ({1:P0} de todos los dados)."
     },
     {
       "Key": "Scorer",
@@ -57,9 +62,10 @@
       "Comment": "'Conquistador' conveys capturing objectives in battle; more evocative than direct 'anotador'."
     },
     {
-      "Key": "Captured 1 objective.",
-      "Translation": "Capturó 1 objetivo.",
-      "Comment": "Standard wargaming terminology; clear and direct."
+      "Key": "Captured {0} objectives.",
+      "Translation": "Capturó {0} objetivos.",
+      "Comment": "Escalated tactical achievement; demonstrates strategic dominance.",
+      "PluralOne": "Capturó {0} objetivo."
     },
     {
       "Key": "Giant Slayer",
@@ -67,9 +73,10 @@
       "Comment": "Epic fantasy terminology; maintains consistency with other 'Slayer' titles."
     },
     {
-      "Key": "Killed 1 giant.",
-      "Translation": "Mató 1 gigante.",
-      "Comment": "Direct deed description."
+      "Key": "Killed {0} giants.",
+      "Translation": "Mató {0} gigantes.",
+      "Comment": "Escalated achievement; extraordinary feat of strength.",
+      "PluralOne": "Mató {0} gigante."
     },
     {
       "Key": "Treefeller",
@@ -77,9 +84,10 @@
       "Comment": "Refers to wood elf or tree-like creatures; maintains fantasy tone with compound form."
     },
     {
-      "Key": "Felled 1 tree monster.",
-      "Translation": "Derribó 1 monstruo arbóreo.",
-      "Comment": "'Derribó' is the appropriate verb for felling tree creatures; 'arbóreo' maintains fantasy tone."
+      "Key": "Felled {0} tree monsters.",
+      "Translation": "Derribó {0} monstruos arbóreos.",
+      "Comment": "Escalated version; demonstrates dominance over nature-based creatures.",
+      "PluralOne": "Derribó {0} monstruo arbóreo."
     },
     {
       "Key": "Dino Hunter",
@@ -87,9 +95,10 @@
       "Comment": "Maintains the fantasy-meets-prehistoric tone of the original English."
     },
     {
-      "Key": "Killed 1 dinosaur.",
-      "Translation": "Mató 1 dinosaurio.",
-      "Comment": "Direct and clear; 'dinosaurio' is standard Spanish term."
+      "Key": "Killed {0} dinosaurs.",
+      "Translation": "Mató {0} dinosaurios.",
+      "Comment": "Escalated prehistoric achievement; shows mastery over ancient beasts.",
+      "PluralOne": "Mató {0} dinosaurio."
     },
     {
       "Key": "Warmachine Hunter",
@@ -97,9 +106,10 @@
       "Comment": "Maintains the original's blend of fantasy and mechanical elements."
     },
     {
-      "Key": "Killed 1 warmachine.",
-      "Translation": "Destruyó 1 máquina de guerra.",
-      "Comment": "'Destruyó' is more appropriate than 'mató' for machines; wargaming terminology."
+      "Key": "Killed {0} warmachines.",
+      "Translation": "Destruyó {0} máquinas de guerra.",
+      "Comment": "Escalated mechanical destruction; demonstrates anti-armor effectiveness.",
+      "PluralOne": "Destruyó {0} máquina de guerra."
     },
     {
       "Key": "Demon Hunter",
@@ -107,9 +117,10 @@
       "Comment": "Classic fantasy hunter title; maintains epic tone."
     },
     {
-      "Key": "Slain 1 greater demon.",
-      "Translation": "Mató 1 demonio mayor.",
-      "Comment": "'Mató' or 'Derrotó' both work; 'demonio mayor' emphasizes the creature's power."
+      "Key": "Slain {0} greater demons.",
+      "Translation": "Mató {0} demonios mayores.",
+      "Comment": "Escalated supernatural achievement; demonstrates divine favor or heroic power.",
+      "PluralOne": "Mató {0} demonio mayor."
     },
     {
       "Key": "Duelist",
@@ -117,9 +128,10 @@
       "Comment": "Direct translation; maintains the martial prestige of this achievement."
     },
     {
-      "Key": "Killed 1 Commander.",
-      "Translation": "Mató 1 Comandante.",
-      "Comment": "Preserves capitalization for military rank; indicates high-value target defeated."
+      "Key": "Killed {0} Commanders.",
+      "Translation": "Mató {0} Comandantes.",
+      "Comment": "Escalated military achievement; slaying enemy officers shows exceptional valor.",
+      "PluralOne": "Mató {0} Comandante."
     },
     {
       "Key": "Spellslinger",
@@ -127,9 +139,10 @@
       "Comment": "Idiomatic translation; 'lanzador' conveys the action of casting spells in combat."
     },
     {
-      "Key": "Cast 1 spell.",
-      "Translation": "Lanzó 1 hechizo.",
-      "Comment": "Standard fantasy terminology; 'lanzó' is the perfect past for casting spells."
+      "Key": "Cast {0} spells.",
+      "Translation": "Lanzó {0} hechizos.",
+      "Comment": "Escalated magical achievement; demonstrates sorcerous prowess.",
+      "PluralOne": "Lanzó {0} hechizo."
     },
     {
       "Key": "Coward",
@@ -147,9 +160,10 @@
       "Comment": "Counterpart to 'Afortunado'; relates to poor dice rolls in wargaming."
     },
     {
-      "Key": "Rolled 1 one (33 % of all rolls).",
-      "Translation": "Rodó 1 uno (33 % de todos los dados).",
-      "Comment": "Mirrors the 'Lucky' achievement structure; 'uno' refers to lowest die result."
+      "Key": "Rolled {0} ones ({1:P0} of all rolls).",
+      "Translation": "Rodó {0} unos ({1:P0} de todos los dados).",
+      "Comment": "Escalated unlucky rolls; mirror of the blessed dice achievement.",
+      "PluralOne": "Rodó {0} uno ({1:P0} de todos los dados)."
     },
     {
       "Key": "Last Man Standing",
@@ -187,9 +201,10 @@
       "Comment": "Tactical military term; demonstrates strategic acumen in combat."
     },
     {
-      "Key": "Performed 1 flank/rear charge.",
-      "Translation": "Realizó 1 carga de flanco/retaguardia.",
-      "Comment": "Preserves wargaming terminology; 'carga' (charge) is a key tactical action."
+      "Key": "Performed {0} flank/rear charges.",
+      "Translation": "Realizó {0} cargas de flanco/retaguardia.",
+      "Comment": "Escalated tactical achievement; shows sustained strategic brilliance.",
+      "PluralOne": "Realizó {0} carga de flanco/retaguardia."
     },
     {
       "Key": "Dragon Slayers",
@@ -242,104 +257,14 @@
       "Comment": "Plural form; maintains the shameful tone."
     },
     {
-      "Key": "Passed 3 Break Tests.",
-      "Translation": "Pasó 3 Pruebas de Resistencia.",
-      "Comment": "Escalated version; maintains terminology consistency."
-    },
-    {
-      "Key": "Killed 3 dragons.",
-      "Translation": "Mató 3 dragones.",
-      "Comment": "Escalated achievement; demonstrates exceptional prowess."
-    },
-    {
-      "Key": "Killed 3 enemies in combat.",
-      "Translation": "Mató 3 enemigos en combate.",
-      "Comment": "Escalated combat achievement; mirrors the singular form."
-    },
-    {
-      "Key": "Killed 3 enemies with ranged weapons.",
-      "Translation": "Mató 3 enemigos con armas a distancia.",
-      "Comment": "Escalated ranged achievement; demonstrates superior marksmanship."
-    },
-    {
       "Key": "Blessed!",
       "Translation": "¡Bendecido!",
       "Comment": "Exclamatory title showing divine favor; contrasts with 'Cursed!' achievement."
     },
     {
-      "Key": "Rolled 3 natural sixes (33 % of all rolls).",
-      "Translation": "Rodó 3 seises naturales (33 % de todos los dados).",
-      "Comment": "Escalated lucky rolls; 'seises' is plural of the number six in wargaming context."
-    },
-    {
-      "Key": "Captured 3 objectives.",
-      "Translation": "Capturó 3 objetivos.",
-      "Comment": "Escalated tactical achievement; demonstrates strategic dominance."
-    },
-    {
-      "Key": "Killed 3 giants.",
-      "Translation": "Mató 3 gigantes.",
-      "Comment": "Escalated achievement; extraordinary feat of strength."
-    },
-    {
-      "Key": "Felled 3 tree monsters.",
-      "Translation": "Derribó 3 monstruos arbóreos.",
-      "Comment": "Escalated version; demonstrates dominance over nature-based creatures."
-    },
-    {
-      "Key": "Killed 3 dinosaurs.",
-      "Translation": "Mató 3 dinosaurios.",
-      "Comment": "Escalated prehistoric achievement; shows mastery over ancient beasts."
-    },
-    {
-      "Key": "Killed 3 warmachines.",
-      "Translation": "Destruyó 3 máquinas de guerra.",
-      "Comment": "Escalated mechanical destruction; demonstrates anti-armor effectiveness."
-    },
-    {
-      "Key": "Slain 3 greater demons.",
-      "Translation": "Mató 3 demonios mayores.",
-      "Comment": "Escalated supernatural achievement; demonstrates divine favor or heroic power."
-    },
-    {
-      "Key": "Killed 3 Commanders.",
-      "Translation": "Mató 3 Comandantes.",
-      "Comment": "Escalated military achievement; slaying enemy officers shows exceptional valor."
-    },
-    {
-      "Key": "Cast 3 spells.",
-      "Translation": "Lanzó 3 hechizos.",
-      "Comment": "Escalated magical achievement; demonstrates sorcerous prowess."
-    },
-    {
       "Key": "Cursed!",
       "Translation": "¡Maldito!",
       "Comment": "Exclamatory title showing ill fortune; direct opposite of 'Blessed!'."
-    },
-    {
-      "Key": "Rolled 3 ones (33 % of all rolls).",
-      "Translation": "Rodó 3 unos (33 % de todos los dados).",
-      "Comment": "Escalated unlucky rolls; mirror of the blessed dice achievement."
-    },
-    {
-      "Key": "Performed 3 flank/rear charges.",
-      "Translation": "Realizó 3 cargas de flanco/retaguardia.",
-      "Comment": "Escalated tactical achievement; shows sustained strategic brilliance."
-    },
-    {
-      "Key": "Rolled 3 natural sixes (100 % of all rolls).",
-      "Translation": "Rodó 3 seises naturales (100 % de todos los dados).",
-      "Comment": "Perfect luck achievement; every roll was maximum—impossible without divine intervention or perfect fortune."
-    },
-    {
-      "Key": "Rolled 3 ones (100 % of all rolls).",
-      "Translation": "Rodó 3 unos (100 % de todos los dados).",
-      "Comment": "Catastrophic curse; every roll was minimum—represents complete failure and misfortune."
-    },
-    {
-      "Key": "Killed 13 enemies with ranged weapons.",
-      "Translation": "Mató 13 enemigos con armas a distancia.",
-      "Comment": "Ultimate ranged achievement; 13 is a lucky/unlucky number that emphasizes the extraordinary feat."
     }
   ]
 }

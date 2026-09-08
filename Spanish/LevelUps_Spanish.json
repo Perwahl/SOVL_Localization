@@ -7,8 +7,8 @@
       "Comment": ""
     },
     {
-      "Key": "Max Unit size +3",
-      "Translation": "Tamaño Máximo de Unidad +3",
+      "Key": "Max Unit size +5",
+      "Translation": "Tamaño Máximo de Unidad +5",
       "Comment": ""
     },
     {
@@ -27,8 +27,8 @@
       "Comment": ""
     },
     {
-      "Key": "+30% base unit Replenishment",
-      "Translation": "+30% de Reabastecimiento base de unidad",
+      "Key": "+50% base unit Replenishment",
+      "Translation": "+50% de Reabastecimiento base de unidad",
       "Comment": ""
     },
     {
@@ -72,8 +72,8 @@
       "Comment": "Gold income bonus"
     },
     {
-      "Key": "+3% post battle income",
-      "Translation": "+3% de ingresos después de batalla",
+      "Key": "+5% post battle income",
+      "Translation": "+5% de ingresos después de batalla",
       "Comment": ""
     },
     {
@@ -147,8 +147,8 @@
       "Comment": ""
     },
     {
-      "Key": "Upgrades Fireball to 3D3 hits.",
-      "Translation": "Mejora Bola de Fuego a 3D3 impactos.",
+      "Key": "Upgrades Fireball to 2D6 hits.",
+      "Translation": "Mejora Bola de Fuego a 2D6 impactos.",
       "Comment": ""
     },
     {
@@ -177,8 +177,8 @@
       "Comment": ""
     },
     {
-      "Key": "Upgrades Primal Fury to give +3 Power.",
-      "Translation": "Mejora Furia Primitiva para otorgar +3 de Poder.",
+      "Key": "Upgrades Primal Fury to give +2 Power.",
+      "Translation": "Mejora Furia Primitiva para otorgar +2 de Poder.",
       "Comment": ""
     },
     {
@@ -207,8 +207,8 @@
       "Comment": ""
     },
     {
-      "Key": "Upgrades Shadow Bolt to Power 3 and Range 33.",
-      "Translation": "Mejora Rayo de Sombra a Poder 3 y Alcance 33.",
+      "Key": "Upgrades Shadow Bolt to Power 5 and Range 24.",
+      "Translation": "Mejora Rayo de Sombra a Poder 5 y Alcance 24.",
       "Comment": ""
     },
     {
@@ -227,8 +227,8 @@
       "Comment": ""
     },
     {
-      "Key": "Upgrades Wildform to give +3 Attacks.",
-      "Translation": "Mejora Forma Salvaje para otorgar +3 Ataques.",
+      "Key": "Upgrades Wildform to give +4 Attacks.",
+      "Translation": "Mejora Forma Salvaje para otorgar +4 Ataques.",
       "Comment": ""
     },
     {
@@ -267,8 +267,8 @@
       "Comment": ""
     },
     {
-      "Key": "Upgrades Thousand Mouths to Power 3.",
-      "Translation": "Mejora Mil Bocas a Poder 3.",
+      "Key": "Upgrades Thousand Mouths to Power 2.",
+      "Translation": "Mejora Mil Bocas a Poder 2.",
       "Comment": ""
     },
     {
@@ -277,8 +277,8 @@
       "Comment": ""
     },
     {
-      "Key": "Upgrades Fiery Blades to give +3 Power.",
-      "Translation": "Mejora Espadas Ardientes para otorgar +3 de Poder.",
+      "Key": "Upgrades Fiery Blades to give +2 Power.",
+      "Translation": "Mejora Espadas Ardientes para otorgar +2 de Poder.",
       "Comment": ""
     },
     {
@@ -307,8 +307,8 @@
       "Comment": ""
     },
     {
-      "Key": "+3 gold when looting",
-      "Translation": "+3 de oro al saquear",
+      "Key": "+5 gold when looting",
+      "Translation": "+5 de oro al saquear",
       "Comment": ""
     },
     {
@@ -377,8 +377,8 @@
       "Comment": ""
     },
     {
-      "Key": "Ranged attack range increased by 3.",
-      "Translation": "Rango de Ataque a Distancia aumenta 3.",
+      "Key": "Ranged attack range increased by 5.",
+      "Translation": "Rango de Ataque a Distancia aumenta 5.",
       "Comment": ""
     },
     {
@@ -437,8 +437,8 @@
       "Comment": ""
     },
     {
-      "Key": "Unit has +3 range for Ranged attacks.",
-      "Translation": "La unidad tiene +3 de rango para Ataques a Distancia.",
+      "Key": "Unit has +5 range for Ranged attacks.",
+      "Translation": "La unidad tiene +5 de rango para Ataques a Distancia.",
       "Comment": ""
     },
     {
@@ -522,8 +522,8 @@
       "Comment": ""
     },
     {
-      "Key": "+3 range for Ranged Attacks.",
-      "Translation": "+3 de rango para Ataques a Distancia.",
+      "Key": "+5 range for Ranged Attacks.",
+      "Translation": "+5 de rango para Ataques a Distancia.",
       "Comment": ""
     },
     {
@@ -597,8 +597,8 @@
       "Comment": ""
     },
     {
-      "Key": "Unit gains Lethal attacks. (deals 3x wounds)",
-      "Translation": "La unidad obtiene Ataques Letales. (inflige 3x heridas)",
+      "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
+      "Translation": "La unidad obtiene Ataques Letales. (inflige 2x heridas)",
       "Comment": ""
     },
     {
@@ -607,8 +607,8 @@
       "Comment": ""
     },
     {
-      "Key": "Unit gains Poisoned Attacks (enemies re-roll 3s on Damage Saves)",
-      "Translation": "La unidad obtiene Ataques Envenenados (los enemigos reintentan 3s en Salvadas de Daño)",
+      "Key": "Unit gains Poisoned Attacks (enemies re-roll 6s on Damage Saves)",
+      "Translation": "La unidad obtiene Ataques Envenenados (los enemigos reintentan 6s en Salvadas de Daño)",
       "Comment": ""
     },
     {
@@ -687,8 +687,8 @@
       "Comment": ""
     },
     {
-      "Key": "Warcry also gives +3 Move Speed to all units.",
-      "Translation": "Grito de Guerra también otorga +3 de Velocidad de Movimiento a todas las unidades.",
+      "Key": "Warcry also gives +2 Move Speed to all units.",
+      "Translation": "Grito de Guerra también otorga +2 de Velocidad de Movimiento a todas las unidades.",
       "Comment": ""
     },
     {
@@ -812,8 +812,8 @@
       "Comment": ""
     },
     {
-      "Key": "Gain Deadly Strikes (deal 3x Wounds)",
-      "Translation": "Obtiene Golpes Mortales (inflige 3x heridas)",
+      "Key": "Gain Deadly Strikes (deal 2x Wounds)",
+      "Translation": "Obtiene Golpes Mortales (inflige 2x heridas)",
       "Comment": ""
     },
     {
@@ -852,8 +852,8 @@
       "Comment": ""
     },
     {
-      "Key": "Unit has +3 range for Ranged Attacks.",
-      "Translation": "La unidad tiene +3 de rango para Ataques a Distancia.",
+      "Key": "Unit has +5 range for Ranged Attacks.",
+      "Translation": "La unidad tiene +5 de rango para Ataques a Distancia.",
       "Comment": ""
     },
     {

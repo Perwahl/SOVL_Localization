@@ -26,6 +26,11 @@ REPLACEMENT_RE = re.compile(r"�")
 MOJIBAKE_RE = re.compile(r"Ã[-¿]|â€[-¿]?|Ð[-¿]")
 
 
+#: Composite format slots the runtime fills: {0}, {1}, {0:P0}. The capture is the
+#: index only, so {0} and {0:P0} count as the same slot.
+PLACEHOLDER_RE = re.compile(r"\{(\d+)(?::[^{}]*)?\}")
+
+
 class TranslationFile:
     """One `<Store>_<Language>.json` file."""
 

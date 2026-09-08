@@ -62,13 +62,23 @@
       "Comment": "Rank = Ряд (formation concept), supporting attacks = поддерживающие атаки"
     },
     {
+      "Key": "Range: 20. Power 2.",
+      "Translation": "Дальность: 20. Мощь 2.",
+      "Comment": "Range and Power are weapon stats; numbers preserved as-is"
+    },
+    {
+      "Key": "Range: 20. Power 3.",
+      "Translation": "Дальность: 20. Мощь 3.",
+      "Comment": "Range and Power are weapon stats; numbers preserved as-is"
+    },
+    {
       "Key": "Range: 30. Power 3.",
       "Translation": "Дальность: 30. Мощь 3.",
       "Comment": "Range and Power are weapon stats; numbers preserved as-is"
     },
     {
-      "Key": "Range: 33. Power 3. ",
-      "Translation": "Дальность: 33. Мощь 3.",
+      "Key": "Range: 24. Power 4. ",
+      "Translation": "Дальность: 24. Мощь 4.",
       "Comment": "Similar to previous entry; note trailing space in original"
     },
     {
@@ -332,6 +342,16 @@
       "Comment": "Ranged Attack Rolls = броски дальних атак"
     },
     {
+      "Key": "Range: 20. 2x Power 3.",
+      "Translation": "Дальность: 20. 2x Мощь 3.",
+      "Comment": "3x = 3 times (multiple weapon stats)"
+    },
+    {
+      "Key": "Range: 20. 4x Power 3.",
+      "Translation": "Дальность: 20. 4x Мощь 3.",
+      "Comment": "3x = 3 times (multiple weapon stats)"
+    },
+    {
       "Key": "Range: 30. 3x Power 3.",
       "Translation": "Дальность: 30. 3x Мощь 3.",
       "Comment": "3x = 3 times (multiple weapon stats)"
@@ -402,13 +422,23 @@
       "Comment": "Paladin = Паладин (holy warrior unit)"
     },
     {
-      "Key": "Range 13. 3D3 Power 3.",
-      "Translation": "Дальность 13. 3D3 Мощь 3.",
+      "Key": "Range 12. 2D3 Power 3.",
+      "Translation": "Дальность 12. 2D3 Мощь 3.",
       "Comment": "3D3 = 3 dice with d3 (3-sided die for each shot)"
     },
     {
-      "Key": "+3 Movement this turn.",
-      "Translation": "+3 Движение в этом ходу.",
+      "Key": "Range 12. 2D3 Power 5.",
+      "Translation": "Дальность 12. 2D3 Мощь 5.",
+      "Comment": "3D3 = 3 dice with d3 (3-sided die for each shot)"
+    },
+    {
+      "Key": "Range 16. 3D3 Power 5.",
+      "Translation": "Дальность 16. 3D3 Мощь 5.",
+      "Comment": "3D3 = 3 dice with d3 (3-sided die for each shot)"
+    },
+    {
+      "Key": "+6 Movement this turn.",
+      "Translation": "+6 Движение в этом ходу.",
       "Comment": "Temporary movement boost spell"
     },
     {
@@ -422,44 +452,49 @@
       "Comment": "Armor-piercing lance"
     },
     {
-      "Key": "+1 Defense. Charge Bonus: +3 Power",
-      "Translation": "+1 Защита. Бонус натиска: +3 Мощь",
+      "Key": "+1 Defense. Charge Bonus: +2 Power",
+      "Translation": "+1 Защита. Бонус натиска: +2 Мощь",
       "Comment": "Heavy cavalry/monster unit charge"
     },
     {
-      "Key": "Range 13. 3x Power 3.",
-      "Translation": "Дальность 13. 3x Мощь 3.",
+      "Key": "Range 18. 2x Power 4.",
+      "Translation": "Дальность 18. 2x Мощь 4.",
       "Comment": "3x = 3 instances (multiple shots)"
     },
     {
-      "Key": "Range 33. D3 hits, Power 3.",
-      "Translation": "Дальность 33. D3 попадания, Мощь 3.",
+      "Key": "Range 48. D3 hits, Power 8.",
+      "Translation": "Дальность 48. D3 попадания, Мощь 8.",
       "Comment": "D3 hits = variable number of shots (1-3)"
     },
     {
-      "Key": "This units ranged attack deals 3x wounds against multiwound targets.",
-      "Translation": "Дальняя атака этого отряда наносит x3 урона по целям с несколькими ранами.",
+      "Key": "This units ranged attack deals 2x wounds against multiwound targets.",
+      "Translation": "Дальняя атака этого отряда наносит x2 урона по целям с несколькими ранами.",
       "Comment": "Multiwound targets = цели с несколькими ранами (armor-piercing effect)"
     },
     {
-      "Key": "Range 33. 3D3+1 hits, Power 3.",
-      "Translation": "Дальность 33. 3D3+1 попадания, Мощь 3.",
+      "Key": "Range 48. 2D3+1 hits, Power 4.",
+      "Translation": "Дальность 48. 2D3+1 попадания, Мощь 4.",
       "Comment": "3D3+1 = multiple d3 rolls plus one (high hit variance)"
     },
     {
-      "Key": "+1 Defense. -3 Move Speed.",
-      "Translation": "+1 Защита. -3 скорость движения.",
+      "Key": "+1 Defense. -4 Move Speed.",
+      "Translation": "+1 Защита. -4 скорость движения.",
       "Comment": "Heavy armor trade-off: protection vs mobility"
     },
     {
-      "Key": "Activate for +3 Movement this turn.",
-      "Translation": "Активируйте для +3 движения в этом ходу.",
+      "Key": "Activate for +4 Movement this turn.",
+      "Translation": "Активируйте для +4 движения в этом ходу.",
       "Comment": "Temporary speed boost ability"
     },
     {
-      "Key": "Fly Speed 30. Ignore Terrain.",
-      "Translation": "Скорость полёта 30. Игнорирует местность.",
+      "Key": "Fly Speed 20. Ignore Terrain.",
+      "Translation": "Скорость полёта 20. Игнорирует местность.",
       "Comment": "Fly Speed = скорость полёта; flying units ignore terrain obstacles"
+    },
+    {
+      "Key": "+2 Skill",
+      "Translation": "+2 Мастерство",
+      "Comment": "Exceptional skill modifier"
     },
     {
       "Key": "+3 Skill",
@@ -467,63 +502,63 @@
       "Comment": "Exceptional skill modifier"
     },
     {
-      "Key": "One use, +3 Power and + 1 Attack until end of turn.",
-      "Translation": "Одно меня, +3 Мощь и +1 Атака до конца хода.",
+      "Key": "One use, +2 Power and + 1 Attack until end of turn.",
+      "Translation": "Одно меня, +2 Мощь и +1 Атака до конца хода.",
       "Comment": "One use = одно меня (once per battle special ability)"
     },
     {
-      "Key": "D3 Power 3 hits. Range 30.",
-      "Translation": "D3 Мощь 3 попадания. Дальность 30.",
+      "Key": "D6 Power 5 hits. Range 30.",
+      "Translation": "D6 Мощь 5 попадания. Дальность 30.",
       "Comment": "D3 variable power on ranged attacks"
     },
     {
-      "Key": "3 x Power 3 hits. Range: 13.",
-      "Translation": "3 x Мощь 3 попадания. Дальность: 13.",
+      "Key": "3 x Power 3 hits. Range: 18.",
+      "Translation": "3 x Мощь 3 попадания. Дальность: 18.",
       "Comment": "3 separate attacks each with Power 3"
     },
     {
-      "Key": "Target unit has -3 Defense for one turn.",
-      "Translation": "Целевой отряд получает -3 Защита на один ход.",
+      "Key": "Target unit has -2 Defense for one turn.",
+      "Translation": "Целевой отряд получает -2 Защита на один ход.",
       "Comment": "Debuff spell reduces target's defense significantly"
     },
     {
-      "Key": "Charge Bonus: +3 Power +3 Attacks",
-      "Translation": "Бонус натиска: +3 Мощь +3 Атаки",
+      "Key": "Charge Bonus: +2 Power +2 Attacks",
+      "Translation": "Бонус натиска: +2 Мощь +2 Атаки",
       "Comment": "Powerful monster charge with multiple bonuses"
     },
     {
-      "Key": "Range 33. 3x Power 3.",
-      "Translation": "Дальность 33. 3x Мощь 3.",
+      "Key": "Range 48. 3x Power 6.",
+      "Translation": "Дальность 48. 3x Мощь 6.",
       "Comment": "Long-range weapon with multiple hits"
     },
     {
-      "Key": "Range 33. 3D3 hits, Power 3.",
-      "Translation": "Дальность 33. 3D3 попадания, Мощь 3.",
+      "Key": "Range 48. 2D3 hits, Power 5.",
+      "Translation": "Дальность 48. 2D3 попадания, Мощь 5.",
       "Comment": "Long-range weapon with variable volume"
     },
     {
-      "Key": "Enemies re-roll 3s on Damage Saves.",
-      "Translation": "Враги перебрасывают 3 при Спасениях от урона.",
+      "Key": "Enemies re-roll 6s on Damage Saves.",
+      "Translation": "Враги перебрасывают 6 при Спасениях от урона.",
       "Comment": "Rend = Rend ability: enemies re-roll successful saves against this weapon"
     },
     {
-      "Key": "Reduce an enemy units Move Speed by 3. Range 13.",
-      "Translation": "Снижьте скорость движения вражеского отряда на 3. Дальность 13.",
+      "Key": "Reduce an enemy units Move Speed by 4. Range 12.",
+      "Translation": "Снижьте скорость движения вражеского отряда на 4. Дальность 12.",
       "Comment": "Spell that slows enemy unit movement"
     },
     {
-      "Key": "3D3 Power 1 hits. Range 13.",
-      "Translation": "3D3 Мощь 1 попадания. Дальность 13.",
+      "Key": "3D6 Power 1 hits. Range 18.",
+      "Translation": "3D6 Мощь 1 попадания. Дальность 18.",
       "Comment": "Magic missile: variable number of low-power hits"
     },
     {
-      "Key": "Caster has +1 Power,  +1 Defense and +3 Attacks for one turn.",
-      "Translation": "Маг получает +1 Мощь, +1 Защита и +3 Атаки на один ход.",
+      "Key": "Caster has +1 Power,  +1 Defense and +2 Attacks for one turn.",
+      "Translation": "Маг получает +1 Мощь, +1 Защита и +2 Атаки на один ход.",
       "Comment": "Powerful transformation spell with multiple benefits"
     },
     {
-      "Key": "Range 3. 1D3 power 3. One use per battle.",
-      "Translation": "Дальность 3. 1D3 мощь 3. Одого раза за сражение.",
+      "Key": "Range 8. 1D6 power 4. One use per battle.",
+      "Translation": "Дальность 8. 1D6 мощь 4. Одого раза за сражение.",
       "Comment": "Close-range spell with one-time use"
     },
     {
@@ -537,28 +572,33 @@
       "Comment": "Warmachine = Осадная машина (siege weapon unit)"
     },
     {
-      "Key": "Caster and retinue gains Flying and Move Speed 30 for one turn",
-      "Translation": "Маг и их Свита получают Полёт и скорость движения 30 на один ход",
+      "Key": "Caster and retinue gains Flying and Move Speed 20 for one turn",
+      "Translation": "Маг и их Свита получают Полёт и скорость движения 20 на один ход",
       "Comment": "Flying = Полёт; temporary transformation spell"
     },
     {
-      "Key": "Range: 13. Power 3.",
-      "Translation": "Дальность: 13. Мощь 3.",
+      "Key": "Range: 12. Power 2.",
+      "Translation": "Дальность: 12. Мощь 2.",
       "Comment": "Standard weapon specification"
     },
     {
-      "Key": "Throw a boulder at an enemy unit. Range 13, 3D3 Power 3.",
-      "Translation": "Бросьте камень в вражеский отряд. Дальность 13, 3D3 Мощь 3.",
+      "Key": "Range: 12. Power 3.",
+      "Translation": "Дальность: 12. Мощь 3.",
+      "Comment": "Standard weapon specification"
+    },
+    {
+      "Key": "Throw a boulder at an enemy unit. Range 18, 2D3 Power 5.",
+      "Translation": "Бросьте камень в вражеский отряд. Дальность 18, 2D3 Мощь 5.",
       "Comment": "Giant/troll ranged attack ability"
     },
     {
-      "Key": "+3 Attacks this turn. Activate once per battle when wounded.",
-      "Translation": "+3 Атаки в этом ходу. Активируйте один раз за сражение когда ранен.",
+      "Key": "+2 Attacks this turn. Activate once per battle when wounded.",
+      "Translation": "+2 Атаки в этом ходу. Активируйте один раз за сражение когда ранен.",
       "Comment": "Enraged state: triggered when unit takes damage"
     },
     {
-      "Key": "Range: 13. 3x Power 3.",
-      "Translation": "Дальность: 13. 3x Мощь 3.",
+      "Key": "Range: 12. 4x Power 3.",
+      "Translation": "Дальность: 12. 4x Мощь 3.",
       "Comment": "Multiple hits weapon specification"
     },
     {
@@ -567,18 +607,23 @@
       "Comment": "Terror roar: morale debuff triggered by damage"
     },
     {
-      "Key": "Range: 3. Power 3.",
-      "Translation": "Дальность: 3. Мощь 3.",
+      "Key": "Range: 8. Power 2.",
+      "Translation": "Дальность: 8. Мощь 2.",
       "Comment": "Breath weapon: short range"
     },
     {
-      "Key": "Range 33. Power 3.",
-      "Translation": "Дальность 33. Мощь 3.",
+      "Key": "Range 48. Power 5.",
+      "Translation": "Дальность 48. Мощь 5.",
       "Comment": "Long-range weapon standard specification"
     },
     {
-      "Key": "Range 13. D3 Power 3.",
-      "Translation": "Дальность 13. D3 Мощь 3.",
+      "Key": "Range 12. D3 Power 4.",
+      "Translation": "Дальность 12. D3 Мощь 4.",
+      "Comment": "Medium-range weapon with variable power"
+    },
+    {
+      "Key": "Range 12. D3 Power 5.",
+      "Translation": "Дальность 12. D3 Мощь 5.",
       "Comment": "Medium-range weapon with variable power"
     },
     {
@@ -592,13 +637,13 @@
       "Comment": "Deadly Strikes = Крвавые удары (armor-piercing melee)"
     },
     {
-      "Key": "Range: 33. Power 3.",
-      "Translation": "Дальность: 33. Мощь 3.",
+      "Key": "Range: 24. Power 3.",
+      "Translation": "Дальность: 24. Мощь 3.",
       "Comment": "Long-range weapon"
     },
     {
-      "Key": "Activate for +3 Movement and Flying for one turn.",
-      "Translation": "Активируйте для +3 движения и Полёта на один ход.",
+      "Key": "Activate for +4 Movement and Flying for one turn.",
+      "Translation": "Активируйте для +4 движения и Полёта на один ход.",
       "Comment": "Flight activation ability"
     },
     {
@@ -617,18 +662,23 @@
       "Comment": "Reroll ability without turn limitation"
     },
     {
+      "Key": "+2 Wounds",
+      "Translation": "+2 Раны",
+      "Comment": "Significant health increase"
+    },
+    {
       "Key": "+3 Wounds",
       "Translation": "+3 Раны",
       "Comment": "Significant health increase"
     },
     {
-      "Key": "+3 Ranged Attack",
-      "Translation": "+3 Дальняя атака",
+      "Key": "+2 Ranged Attack",
+      "Translation": "+2 Дальняя атака",
       "Comment": "Significant ranged combat bonus"
     },
     {
-      "Key": "+3 Ranged Attack, +1 Power to Ranged Attacks",
-      "Translation": "+3 Дальняя атака, +1 Мощь по дальним атакам",
+      "Key": "+2 Ranged Attack, +1 Power to Ranged Attacks",
+      "Translation": "+2 Дальняя атака, +1 Мощь по дальним атакам",
       "Comment": "Combined ranged bonuses"
     },
     {
@@ -637,8 +687,8 @@
       "Comment": "Spell Attack = волшебная атака"
     },
     {
-      "Key": "+3 Spell Attacks",
-      "Translation": "+3 волшебных атаки",
+      "Key": "+2 Spell Attacks",
+      "Translation": "+2 волшебных атаки",
       "Comment": "Plural variant of spell attacks"
     },
     {
@@ -647,18 +697,23 @@
       "Comment": "Singular variant"
     },
     {
+      "Key": "+2 Attack",
+      "Translation": "+2 Атака",
+      "Comment": "High melee attack bonus"
+    },
+    {
       "Key": "+3 Attack",
       "Translation": "+3 Атака",
       "Comment": "High melee attack bonus"
     },
     {
-      "Key": "+3 Ranged Attacks",
-      "Translation": "+3 дальних атаки",
+      "Key": "+2 Ranged Attacks",
+      "Translation": "+2 дальних атаки",
       "Comment": "Plural variant"
     },
     {
-      "Key": "+3 Discipline",
-      "Translation": "+3 Дисциплина",
+      "Key": "+2 Discipline",
+      "Translation": "+2 Дисциплина",
       "Comment": "High morale bonus"
     },
     {
@@ -737,8 +792,8 @@
       "Comment": "Fearless = бесстрашен; immunity to morale effects + boost"
     },
     {
-      "Key": "Target unit gets +3 Power in their next combat round.",
-      "Translation": "Целевой отряд получает +3 Мощь в следующие боевые раунды.",
+      "Key": "Target unit gets +2 Power in their next combat round.",
+      "Translation": "Целевой отряд получает +2 Мощь в следующие боевые раунды.",
       "Comment": "Combat round = боевые раунды (turn in close combat)"
     },
     {
@@ -747,13 +802,13 @@
       "Comment": "Army-wide buff ability"
     },
     {
-      "Key": "3D3 Power 3 hits. Range 30.",
-      "Translation": "3D3 Мощь 3 попадания. Дальность 30.",
+      "Key": "2D6 Power 5 hits. Range 30.",
+      "Translation": "2D6 Мощь 5 попадания. Дальность 30.",
       "Comment": "Magic missile with variable volume"
     },
     {
-      "Key": "Target unit has +3 Power and rerolls missed Attack Rolls this turn.",
-      "Translation": "Целевой отряд получает +3 Мощь и перебрасывает провалы броскков Атак в этом ходу.",
+      "Key": "Target unit has +2 Power and rerolls missed Attack Rolls this turn.",
+      "Translation": "Целевой отряд получает +2 Мощь и перебрасывает провалы броскков Атак в этом ходу.",
       "Comment": "Powerful buff spell for allies"
     },
     {
@@ -777,8 +832,8 @@
       "Comment": "Debilitating curse spell"
     },
     {
-      "Key": "3 x Power 3 hits. Range: 33.",
-      "Translation": "3 x Мощь 3 попадания. Дальность: 33.",
+      "Key": "3 x Power 5 hits. Range: 24.",
+      "Translation": "3 x Мощь 5 попадания. Дальность: 24.",
       "Comment": "Long-range volley weapon"
     },
     {
@@ -797,13 +852,13 @@
       "Comment": "Immobilization spell"
     },
     {
-      "Key": "Caster has +1 Power,  +1 Defense and +3 Attacks this turn.",
-      "Translation": "Маг получает +1 Мощь, +1 Защита и +3 Атаки в этом ходу.",
+      "Key": "Caster has +1 Power,  +1 Defense and +4 Attacks this turn.",
+      "Translation": "Маг получает +1 Мощь, +1 Защита и +4 Атаки в этом ходу.",
       "Comment": "Powerful personal buff spell"
     },
     {
-      "Key": "3D3 Power 3 hits. Range 13.",
-      "Translation": "3D3 Мощь 3 попадания. Дальность 13.",
+      "Key": "3D6 Power 2 hits. Range 18.",
+      "Translation": "3D6 Мощь 2 попадания. Дальность 18.",
       "Comment": "Medium-range magic attack"
     },
     {
@@ -812,8 +867,8 @@
       "Comment": "Enhanced ranged formation tactics"
     },
     {
-      "Key": "Ranged attack range increased by 3.",
-      "Translation": "Дальность дальних атак увеличена на 3.",
+      "Key": "Ranged attack range increased by 5.",
+      "Translation": "Дальность дальних атак увеличена на 5.",
       "Comment": "Extended range ability"
     },
     {
@@ -847,8 +902,8 @@
       "Comment": "Veteran elite unit special trait"
     },
     {
-      "Key": "Unit has +3 range for Ranged attacks.",
-      "Translation": "Отряд получает +3 дальность при дальних атаках.",
+      "Key": "Unit has +5 range for Ranged attacks.",
+      "Translation": "Отряд получает +5 дальность при дальних атаках.",
       "Comment": "Extended ranged weapon range"
     },
     {
@@ -882,8 +937,8 @@
       "Comment": "Balanced trade-off: aggression vs accuracy"
     },
     {
-      "Key": "+3 Attacks, -1 Skill.",
-      "Translation": "+3 Атаки, -1 Мастерство.",
+      "Key": "+2 Attacks, -1 Skill.",
+      "Translation": "+2 Атаки, -1 Мастерство.",
       "Comment": "Significant attack bonus at cost of skill"
     },
     {
@@ -892,18 +947,18 @@
       "Comment": "Ranged specialist trade-off"
     },
     {
-      "Key": "Range 13. 3D3 Power 3. -1 Defense.",
-      "Translation": "Дальность 13. 3D3 Мощь 3. -1 Защита.",
+      "Key": "Range 12. 2D3 Power 5. -1 Defense.",
+      "Translation": "Дальность 12. 2D3 Мощь 5. -1 Защита.",
       "Comment": "Medium-range weapon with accuracy variance and defense trade-off"
     },
     {
-      "Key": "Range 13. D3 Power 3. -1 Defense.",
-      "Translation": "Дальность 13. D3 Мощь 3. -1 Защита.",
+      "Key": "Range 12. D3 Power 5. -1 Defense.",
+      "Translation": "Дальность 12. D3 Мощь 5. -1 Защита.",
       "Comment": "Medium-range low-powered with weak armor"
     },
     {
-      "Key": "Fly Speed 13. Ignore Terrain. -1 Discipline.",
-      "Translation": "Скорость полёта 13. Игнорирует местность. -1 Дисциплина.",
+      "Key": "Fly Speed 14. Ignore Terrain. -1 Discipline.",
+      "Translation": "Скорость полёта 14. Игнорирует местность. -1 Дисциплина.",
       "Comment": "Flying unit with morale weakness"
     },
     {
@@ -932,13 +987,13 @@
       "Comment": "Combined health and damage boost"
     },
     {
-      "Key": "+3 Wounds. -1 Move Speed.",
-      "Translation": "+3 Раны. -1 скорость движения.",
+      "Key": "+2 Wounds. -1 Move Speed.",
+      "Translation": "+2 Раны. -1 скорость движения.",
       "Comment": "Tank unit with durability at expense of speed"
     },
     {
-      "Key": "+3 range to Ranged Attacks",
-      "Translation": "+3 дальность к дальним атакам",
+      "Key": "+5 range to Ranged Attacks",
+      "Translation": "+5 дальность к дальним атакам",
       "Comment": "Extended ranged weapon range"
     },
     {
@@ -972,8 +1027,8 @@
       "Comment": "Mobile unit with terrain advantage"
     },
     {
-      "Key": "Lethal Attacks. (3x wounds)",
-      "Translation": "Смертельные атаки. (3кратные раны)",
+      "Key": "Lethal Attacks. (2x wounds)",
+      "Translation": "Смертельные атаки. (2кратные раны)",
       "Comment": "High damage multiplier ability"
     },
     {
@@ -982,8 +1037,8 @@
       "Comment": "Automatic healing ability"
     },
     {
-      "Key": "Poisoned Attacks (enemies re-roll 3s on Damage Saves)",
-      "Translation": "Отравленные атаки (враги перебрасывают 3 при спасениях от урона)",
+      "Key": "Poisoned Attacks (enemies re-roll 6s on Damage Saves)",
+      "Translation": "Отравленные атаки (враги перебрасывают 6 при спасениях от урона)",
       "Comment": "Poison = Отрава; reduces armor effectiveness"
     },
     {
@@ -1007,8 +1062,8 @@
       "Comment": "Armor save ability"
     },
     {
-      "Key": "All your units have +1 Power  and +3 Move Speed for one turn.",
-      "Translation": "Все ваши отряды получают +1 Мощь и +3 скорость движения на один ход.",
+      "Key": "All your units have +1 Power  and +2 Move Speed for one turn.",
+      "Translation": "Все ваши отряды получают +1 Мощь и +2 скорость движения на один ход.",
       "Comment": "Powerful army-wide buff"
     },
     {
@@ -1022,8 +1077,8 @@
       "Comment": "Army-wide defensive buff"
     },
     {
-      "Key": "Target unit gets +3 to Damage Saves this turn.",
-      "Translation": "Целевой отряд получает +3 к спасениям от урона в этом ходу.",
+      "Key": "Target unit gets +2 to Damage Saves this turn.",
+      "Translation": "Целевой отряд получает +2 к спасениям от урона в этом ходу.",
       "Comment": "Powerful armor buff"
     },
     {
@@ -1087,8 +1142,8 @@
       "Comment": "Armor penetration mechanic"
     },
     {
-      "Key": "These arrows deal 3x wounds against multiwound targets.",
-      "Translation": "Эти стрелы наносят x3 урона по целям с несколькими ранами.",
+      "Key": "These arrows deal 2x wounds against multiwound targets.",
+      "Translation": "Эти стрелы наносят x2 урона по целям с несколькими ранами.",
       "Comment": "Deadly strikes arrows = armor-piercing ammunition"
     },
     {

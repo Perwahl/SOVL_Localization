@@ -7,8 +7,8 @@
       "Comment": "Roman numerals kept as-is for consistency with game UI"
     },
     {
-      "Key": "Max Unit size +3",
-      "Translation": "最大ユニットサイズ +3",
+      "Key": "Max Unit size +5",
+      "Translation": "最大ユニットサイズ +5",
       "Comment": "Mechanical description of stat bonus, kept concise"
     },
     {
@@ -27,8 +27,8 @@
       "Comment": "Replenishment ability for unit recovery, using 補充 (supply/replenishment)"
     },
     {
-      "Key": "+30% base unit Replenishment",
-      "Translation": "基本ユニット補充 +30%",
+      "Key": "+50% base unit Replenishment",
+      "Translation": "基本ユニット補充 +50%",
       "Comment": "Mechanical stat effect, percentage kept in Arabic numerals"
     },
     {
@@ -72,8 +72,8 @@
       "Comment": "Income/looting ability, uses 金貨 (gold coins)"
     },
     {
-      "Key": "+3% post battle income",
-      "Translation": "戦闘後の収入 +3%",
+      "Key": "+5% post battle income",
+      "Translation": "戦闘後の収入 +5%",
       "Comment": "Economic bonus after combat, percentage retained in Arabic numerals"
     },
     {
@@ -147,8 +147,8 @@
       "Comment": "Spell name, 大 (great) + 火球 (fireball)"
     },
     {
-      "Key": "Upgrades Fireball to 3D3 hits.",
-      "Translation": "火球を強化し3D3のダメージを与える。",
+      "Key": "Upgrades Fireball to 2D6 hits.",
+      "Translation": "火球を強化し2D6のダメージを与える。",
       "Comment": "Mechanical description, 3D3 kept as dice notation, ダメージ (damage)"
     },
     {
@@ -177,8 +177,8 @@
       "Comment": "Beast rage spell, 狂乱 (fury/rampage)"
     },
     {
-      "Key": "Upgrades Primal Fury to give +3 Power.",
-      "Translation": "原始的狂乱を強化し、武力 +3を与える。",
+      "Key": "Upgrades Primal Fury to give +2 Power.",
+      "Translation": "原始的狂乱を強化し、武力 +2を与える。",
       "Comment": "Game mechanics, 原始的 (primal) + 狂乱 (fury)"
     },
     {
@@ -207,8 +207,8 @@
       "Comment": "Shadow magic spell, 影 (shadow) + 矢 (bolt/arrow)"
     },
     {
-      "Key": "Upgrades Shadow Bolt to Power 3 and Range 33.",
-      "Translation": "影の矢を強化し、武力3、射程33にする。",
+      "Key": "Upgrades Shadow Bolt to Power 5 and Range 24.",
+      "Translation": "影の矢を強化し、武力5、射程24にする。",
       "Comment": "Mechanical stats retained in Arabic, 射程 (range/reach)"
     },
     {
@@ -227,8 +227,8 @@
       "Comment": "Beast transformation spell, 獣 (beast) + 変化 (transformation)"
     },
     {
-      "Key": "Upgrades Wildform to give +3 Attacks.",
-      "Translation": "獣変化を強化し、攻撃 +3を与える。",
+      "Key": "Upgrades Wildform to give +4 Attacks.",
+      "Translation": "獣変化を強化し、攻撃 +4を与える。",
       "Comment": "Game mechanics, shows combat enhancement"
     },
     {
@@ -267,8 +267,8 @@
       "Comment": "Beast magic spell, 千 (thousand) + 顎 (jaw/maw)"
     },
     {
-      "Key": "Upgrades Thousand Mouths to Power 3.",
-      "Translation": "千の口を強化し、武力3にする。",
+      "Key": "Upgrades Thousand Mouths to Power 2.",
+      "Translation": "千の口を強化し、武力2にする。",
       "Comment": "Beast magic enhancement, mechanical stat increase"
     },
     {
@@ -277,8 +277,8 @@
       "Comment": "Fire magic enhancement, 炎 (fire) + 刃 (blade)"
     },
     {
-      "Key": "Upgrades Fiery Blades to give +3 Power.",
-      "Translation": "炎刃を強化し、武力 +3を与える。",
+      "Key": "Upgrades Fiery Blades to give +2 Power.",
+      "Translation": "炎刃を強化し、武力 +2を与える。",
       "Comment": "Fire magic enhancement, mechanical stat increase"
     },
     {
@@ -307,8 +307,8 @@
       "Comment": "Looting ability, 掠奪者 (plunderer/looter)"
     },
     {
-      "Key": "+3 gold when looting",
-      "Translation": "掠奪時に金 +3",
+      "Key": "+5 gold when looting",
+      "Translation": "掠奪時に金 +5",
       "Comment": "Economic bonus, mechanical effect in combat"
     },
     {
@@ -377,8 +377,8 @@
       "Comment": "Vision/range rune, 遠見 (far sight/long vision)"
     },
     {
-      "Key": "Ranged attack range increased by 3.",
-      "Translation": "遠距離攻撃の射程を3増加させる。",
+      "Key": "Ranged attack range increased by 5.",
+      "Translation": "遠距離攻撃の射程を5増加させる。",
       "Comment": "Range bonus, mechanical stat increase"
     },
     {
@@ -437,8 +437,8 @@
       "Comment": "Advanced imperial veteran tier"
     },
     {
-      "Key": "Unit has +3 range for Ranged attacks.",
-      "Translation": "ユニットは遠距離攻撃に射程 +3を有する。",
+      "Key": "Unit has +5 range for Ranged attacks.",
+      "Translation": "ユニットは遠距離攻撃に射程 +5を有する。",
       "Comment": "Range bonus for ranged units, mechanical stat increase"
     },
     {
@@ -522,8 +522,8 @@
       "Comment": "Elven ranged combat mastery, 弓術 (archery)"
     },
     {
-      "Key": "+3 range for Ranged Attacks.",
-      "Translation": "遠距離攻撃に射程 +3。",
+      "Key": "+5 range for Ranged Attacks.",
+      "Translation": "遠距離攻撃に射程 +5。",
       "Comment": "Bow range bonus, mechanical stat increase"
     },
     {
@@ -597,8 +597,8 @@
       "Comment": "Beast aspect, 猛禽 (raptor/predator) - grants lethal attacks"
     },
     {
-      "Key": "Unit gains Lethal attacks. (deals 3x wounds)",
-      "Translation": "ユニットは致命的攻撃を得る。（3倍のダメージを与える）",
+      "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
+      "Translation": "ユニットは致命的攻撃を得る。（2倍のダメージを与える）",
       "Comment": "Raptor lethal strike mechanic, massive damage potential"
     },
     {
@@ -607,8 +607,8 @@
       "Comment": "Beast aspect, 蛇 (serpent) - grants poisoned attacks"
     },
     {
-      "Key": "Unit gains Poisoned Attacks (enemies re-roll 3s on Damage Saves)",
-      "Translation": "ユニットは毒攻撃を得る（敵はダメージセーブで3を再ロール）",
+      "Key": "Unit gains Poisoned Attacks (enemies re-roll 6s on Damage Saves)",
+      "Translation": "ユニットは毒攻撃を得る（敵はダメージセーブで6を再ロール）",
       "Comment": "Serpent poison mechanic, reduces enemy defense effectiveness"
     },
     {
@@ -687,8 +687,8 @@
       "Comment": "Enhanced morale ability, 戦闘叫 (battle cry/warcry)"
     },
     {
-      "Key": "Warcry also gives +3 Move Speed to all units.",
-      "Translation": "戦闘叫は全ユニットに移動速度 +3も与える。",
+      "Key": "Warcry also gives +2 Move Speed to all units.",
+      "Translation": "戦闘叫は全ユニットに移動速度 +2も与える。",
       "Comment": "Tactical aura effect, benefits entire army"
     },
     {
@@ -812,8 +812,8 @@
       "Comment": "Ultimate War god servant rank"
     },
     {
-      "Key": "Gain Deadly Strikes (deal 3x Wounds)",
-      "Translation": "致命的な一撃を得る（3倍のダメージを与える）",
+      "Key": "Gain Deadly Strikes (deal 2x Wounds)",
+      "Translation": "致命的な一撃を得る（2倍のダメージを与える）",
       "Comment": "Master War ability, massive combat power"
     },
     {
@@ -852,8 +852,8 @@
       "Comment": "Legendary marksmen from Avalon, アヴァロン (Avalon)"
     },
     {
-      "Key": "Unit has +3 range for Ranged Attacks.",
-      "Translation": "ユニットは遠距離攻撃に射程 +3を有する。",
+      "Key": "Unit has +5 range for Ranged Attacks.",
+      "Translation": "ユニットは遠距離攻撃に射程 +5を有する。",
       "Comment": "Avalon marksmen range bonus"
     },
     {

@@ -587,8 +587,8 @@
       "Comment": "Battle objective"
     },
     {
-      "Key": "- Survive for 3 Turns -",
-      "Translation": "- Sobrevive 3 Turnos -",
+      "Key": "- Survive for 6 Turns -",
+      "Translation": "- Sobrevive 6 Turnos -",
       "Comment": "Survival objective"
     },
     {
@@ -627,8 +627,8 @@
       "Comment": ""
     },
     {
-      "Key": "0 pts",
-      "Translation": "0 pts",
+      "Key": "{0}pts",
+      "Translation": "{0} pts",
       "Comment": "Points abbreviation - consistent with existing translations"
     },
     {
@@ -677,14 +677,10 @@
       "Comment": ""
     },
     {
-      "Key": "1% gold income",
-      "Translation": "1% de ingresos de oro",
-      "Comment": ""
-    },
-    {
-      "Key": "3% gold income",
-      "Translation": "3% de ingresos de oro",
-      "Comment": ""
+      "Key": "{0}% gold income",
+      "Translation": "{0}% de ingresos de oro",
+      "Comment": "",
+      "PluralOne": "{0}% de ingresos de oro"
     },
     {
       "Key": "Your regiment returns in the morning. But something has changed them...",
@@ -737,23 +733,23 @@
       "Comment": "Rich text formatting preserved"
     },
     {
-      "Key": "Win <size=30%><color=green>+",
-      "Translation": "Victoria <size=30%><color=green>+",
+      "Key": "Win <size=80%><color=green>+",
+      "Translation": "Victoria <size=80%><color=green>+",
       "Comment": "Rich text formatting preserved"
     },
     {
-      "Key": "Loss <size=30%>",
-      "Translation": "Derrota <size=30%>",
+      "Key": "Loss <size=80%>",
+      "Translation": "Derrota <size=80%>",
       "Comment": "Rich text formatting preserved"
     },
     {
-      "Key": "Total Points: <color=#3EFEFF>",
-      "Translation": "Puntos Totales: <color=#3EFEFF>",
+      "Key": "Total Points: <color=#9EFEFF>",
+      "Translation": "Puntos Totales: <color=#9EFEFF>",
       "Comment": "Rich text formatting preserved"
     },
     {
-      "Key": "Elo:  <color=#3EFEFF>",
-      "Translation": "Elo:  <color=#3EFEFF>",
+      "Key": "Elo:  <color=#9EFEFF>",
+      "Translation": "Elo:  <color=#9EFEFF>",
       "Comment": "Keep Elo as international rating term"
     },
     {
@@ -772,23 +768,19 @@
       "Comment": "Unit replenishment"
     },
     {
-      "Key": "Replenished 3 models",
-      "Translation": "3 miniaturas repuestas",
+      "Key": "Replenished 5 models",
+      "Translation": "5 miniaturas repuestas",
       "Comment": ""
     },
     {
-      "Key": "1 XP",
-      "Translation": "1 XP",
-      "Comment": "XP kept as common abbreviation for Experience Points in Spanish gaming"
+      "Key": "{0} XP",
+      "Translation": "{0} XP",
+      "Comment": "",
+      "PluralOne": "{0} XP"
     },
     {
-      "Key": "3 XP",
-      "Translation": "3 XP",
-      "Comment": ""
-    },
-    {
-      "Key": "Defeated by <color=#FFDF3C>",
-      "Translation": "Derrotado por <color=#FFDF3C>",
+      "Key": "Defeated by <color=#FFDF7C>",
+      "Translation": "Derrotado por <color=#FFDF7C>",
       "Comment": "Campaign defeat message"
     },
     {
@@ -797,8 +789,8 @@
       "Comment": ""
     },
     {
-      "Key": "Great Weapon <color=#B3F333>+1",
-      "Translation": "Arma a Dos Manos <color=#B3F333>+1",
+      "Key": "Great Weapon <color=#B6F595>+1",
+      "Translation": "Arma a Dos Manos <color=#B6F595>+1",
       "Comment": ""
     },
     {
@@ -967,8 +959,8 @@
       "Comment": ""
     },
     {
-      "Key": "3 Units",
-      "Translation": "3 Unidades",
+      "Key": "2 Units",
+      "Translation": "2 Unidades",
       "Comment": ""
     },
     {
@@ -1022,8 +1014,8 @@
       "Comment": ""
     },
     {
-      "Key": "<color=#31D3E3>3+ <size=33%></color> To Save",
-      "Translation": "<color=#31D3E3>3+ <size=33%></color> para Salvar",
+      "Key": "<color=#81D7E5>3+ <size=85%></color> To Save",
+      "Translation": "<color=#81D7E5>3+ <size=85%></color> para Salvar",
       "Comment": "Rich text formatting preserved"
     },
     {
@@ -1037,8 +1029,8 @@
       "Comment": "Example/placeholder text"
     },
     {
-      "Key": "<color=#30F3FF> 3x</color> Auto Hits",
-      "Translation": "<color=#30F3FF> 3x</color> Impactos Automáticos",
+      "Key": "<color=#70F6FF> 3x</color> Auto Hits",
+      "Translation": "<color=#70F6FF> 3x</color> Impactos Automáticos",
       "Comment": ""
     },
     {
@@ -1052,8 +1044,8 @@
       "Comment": "Example/template text - appears to have formatting issue in original"
     },
     {
-      "Key": "Power <color=#31D3E3><size=133%>3</color> </size>VS Defense <color=#31D3E3><size=133%>3</color> ",
-      "Translation": "Poder <color=#31D3E3><size=133%>3</color> </size>VS Defensa <color=#31D3E3><size=133%>3</color> ",
+      "Key": "Power <color=#81D7E5><size=125%>5</color> </size>VS Defense <color=#81D7E5><size=125%>5</color> ",
+      "Translation": "Poder <color=#81D7E5><size=125%>5</color> </size>VS Defensa <color=#81D7E5><size=125%>5</color> ",
       "Comment": "Rich text formatting preserved"
     },
     {
@@ -1067,8 +1059,8 @@
       "Comment": ""
     },
     {
-      "Key": "Power 3 vs Defense 3",
-      "Translation": "Poder 3 vs Defensa 3",
+      "Key": "Power 3 vs Defense 4",
+      "Translation": "Poder 3 vs Defensa 4",
       "Comment": ""
     },
     {
@@ -1267,11 +1259,6 @@
       "Comment": ""
     },
     {
-      "Key": "3333 pts",
-      "Translation": "3333 pts",
-      "Comment": ""
-    },
-    {
       "Key": "Objectives:",
       "Translation": "Objetivos:",
       "Comment": ""
@@ -1342,13 +1329,13 @@
       "Comment": ""
     },
     {
-      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 33.",
-      "Translation": "Derrotado por <color=blue>Gundrik Cueroyunque</color> en el paso 33.",
+      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 32.",
+      "Translation": "Derrotado por <color=blue>Gundrik Cueroyunque</color> en el paso 32.",
       "Comment": "Campaign defeat message with character name"
     },
     {
-      "Key": "Unlocked 1/3",
-      "Translation": "Desbloqueado 1/3",
+      "Key": "Unlocked 1/5",
+      "Translation": "Desbloqueado 1/5",
       "Comment": ""
     },
     {
@@ -1507,8 +1494,8 @@
       "Comment": ""
     },
     {
-      "Key": "Mercenary Cut: <indent=33%><color=green><b>+10%",
-      "Translation": "Comisión del Mercenario: <indent=33%><color=green><b>+10%",
+      "Key": "Mercenary Cut: <indent=55%><color=green><b>+10%",
+      "Translation": "Comisión del Mercenario: <indent=55%><color=green><b>+10%",
       "Comment": "Rich text formatting preserved"
     },
     {
@@ -1917,8 +1904,8 @@
       "Comment": ""
     },
     {
-      "Key": "(Your units have +3 Move Speed and +1 to Ranged Attack Rolls) ",
-      "Translation": "(Tus unidades tienen +3 de Velocidad de Movimiento y +1 a las Tiradas de Ataque a Distancia) ",
+      "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
+      "Translation": "(Tus unidades tienen +2 de Velocidad de Movimiento y +1 a las Tiradas de Ataque a Distancia) ",
       "Comment": ""
     },
     {
@@ -1932,8 +1919,8 @@
       "Comment": "Placeholder string"
     },
     {
-      "Key": "Light Infantry - 33 pts",
-      "Translation": "Infantería Ligera - 33 pts",
+      "Key": "Light Infantry - 99 pts",
+      "Translation": "Infantería Ligera - 99 pts",
       "Comment": ""
     },
     {
@@ -1950,11 +1937,6 @@
       "Key": "- Dwarf Warriors",
       "Translation": "- Guerreros Enanos",
       "Comment": "Unit name in list"
-    },
-    {
-      "Key": "33 pts",
-      "Translation": "33 pts",
-      "Comment": ""
     },
     {
       "Key": "Select Unit",
@@ -1987,11 +1969,6 @@
       "Comment": "Item name - Greenskin faction"
     },
     {
-      "Key": "130pts",
-      "Translation": "130pts",
-      "Comment": ""
-    },
-    {
       "Key": "Item Rules Effect\n",
       "Translation": "Efecto de Reglas del Objeto\n",
       "Comment": "Placeholder text"
@@ -1999,11 +1976,6 @@
     {
       "Key": "Unlocked ",
       "Translation": "Desbloqueado ",
-      "Comment": ""
-    },
-    {
-      "Key": "33pts",
-      "Translation": "33pts",
       "Comment": ""
     },
     {
@@ -2020,16 +1992,6 @@
       "Key": "<color=#31D3E3>1<size=33%></color> D3",
       "Translation": "<color=#31D3E3>1<size=33%></color> D3",
       "Comment": "Rich text dice notation"
-    },
-    {
-      "Key": "30pts",
-      "Translation": "30pts",
-      "Comment": ""
-    },
-    {
-      "Key": "333 pts",
-      "Translation": "333 pts",
-      "Comment": ""
     },
     {
       "Key": "BorderPatrol",
@@ -2092,16 +2054,6 @@
       "Comment": "Game mode"
     },
     {
-      "Key": "103pts",
-      "Translation": "103pts",
-      "Comment": ""
-    },
-    {
-      "Key": "133pts",
-      "Translation": "133pts",
-      "Comment": ""
-    },
-    {
       "Key": "Commander Ability",
       "Translation": "Habilidad de Comandante",
       "Comment": ""
@@ -2114,21 +2066,6 @@
     {
       "Key": "Magic Banner",
       "Translation": "Estandarte Mágico",
-      "Comment": ""
-    },
-    {
-      "Key": "131pts",
-      "Translation": "131pts",
-      "Comment": ""
-    },
-    {
-      "Key": "13pts",
-      "Translation": "13pts",
-      "Comment": ""
-    },
-    {
-      "Key": "10pts",
-      "Translation": "10pts",
       "Comment": ""
     },
     {
@@ -2147,8 +2084,8 @@
       "Comment": ""
     },
     {
-      "Key": "<b>Draw<size=30%></color></b>\n",
-      "Translation": "<b>Empate<size=30%></color></b>\n",
+      "Key": "<b>Draw<size=80%></color></b>\n",
+      "Translation": "<b>Empate<size=80%></color></b>\n",
       "Comment": "Battle result - preserve rich text tags"
     },
     {
@@ -2212,8 +2149,8 @@
       "Comment": "Test to see if unit breaks and flees"
     },
     {
-      "Key": "3 or lower to Hold",
-      "Translation": "3 o menos para Mantener",
+      "Key": "{0} or lower to Hold",
+      "Translation": "{0} o menos para Mantener",
       "Comment": "Morale test success condition"
     },
     {
@@ -2222,14 +2159,9 @@
       "Comment": "Unit regains morale - appended after unit name, no opening ¡"
     },
     {
-      "Key": "3 or lower to Rally",
-      "Translation": "3 o menos para Reagruparse",
+      "Key": "{0} or lower to Rally",
+      "Translation": "{0} o menos para Reagruparse",
       "Comment": "Rally test success condition"
-    },
-    {
-      "Key": "0 or lower to Hold",
-      "Translation": "0 o menos para Mantener",
-      "Comment": "Auto-break situation"
     },
     {
       "Key": "fled off the board!",
@@ -2327,27 +2259,12 @@
       "Comment": ""
     },
     {
-      "Key": "113pts",
-      "Translation": "113pts",
-      "Comment": ""
-    },
-    {
-      "Key": "110pts",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
       "Key": "Raiders",
       "Translation": "",
       "Comment": ""
     },
     {
       "Key": "Big Stuff",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "3pts",
       "Translation": "",
       "Comment": ""
     },
@@ -2422,6 +2339,11 @@
       "Comment": ""
     },
     {
+      "Key": "D6",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
       "Key": " Damage Save",
       "Translation": "",
       "Comment": ""
@@ -2438,11 +2360,6 @@
     },
     {
       "Key": "conceded",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "313pts",
       "Translation": "",
       "Comment": ""
     },
@@ -2478,16 +2395,6 @@
     },
     {
       "Key": "continue fighting, but their magic weakens.",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "0pts",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "10 or lower to Hold",
       "Translation": "",
       "Comment": ""
     },

@@ -7,8 +7,8 @@
       "Comment": ""
     },
     {
-      "Key": "Max Unit size +3",
-      "Translation": "Max enhetsstorlek +3",
+      "Key": "Max Unit size +5",
+      "Translation": "Max enhetsstorlek +5",
       "Comment": ""
     },
     {
@@ -27,8 +27,8 @@
       "Comment": ""
     },
     {
-      "Key": "+30% base unit Replenishment",
-      "Translation": "+30 % grundläggande återfyllning för enheten",
+      "Key": "+50% base unit Replenishment",
+      "Translation": "+50 % grundläggande återfyllning för enheten",
       "Comment": ""
     },
     {
@@ -72,8 +72,8 @@
       "Comment": ""
     },
     {
-      "Key": "+3% post battle income",
-      "Translation": "+3 % inkomst efter strid",
+      "Key": "+5% post battle income",
+      "Translation": "+5 % inkomst efter strid",
       "Comment": ""
     },
     {
@@ -147,8 +147,8 @@
       "Comment": ""
     },
     {
-      "Key": "Upgrades Fireball to 3D3 hits.",
-      "Translation": "Förbättrar Eldklot till 3D3 träffar.",
+      "Key": "Upgrades Fireball to 2D6 hits.",
+      "Translation": "Förbättrar Eldklot till 2D6 träffar.",
       "Comment": ""
     },
     {
@@ -177,8 +177,8 @@
       "Comment": "Used 'Vrede' for Fury to keep it distinct from the rules term Frenzy = Raseri."
     },
     {
-      "Key": "Upgrades Primal Fury to give +3 Power.",
-      "Translation": "Förbättrar Urvrede så att den ger +3 Kraft.",
+      "Key": "Upgrades Primal Fury to give +2 Power.",
+      "Translation": "Förbättrar Urvrede så att den ger +2 Kraft.",
       "Comment": ""
     },
     {
@@ -207,8 +207,8 @@
       "Comment": ""
     },
     {
-      "Key": "Upgrades Shadow Bolt to Power 3 and Range 33.",
-      "Translation": "Förbättrar Skuggpil till Kraft 3 och Räckvidd 33.",
+      "Key": "Upgrades Shadow Bolt to Power 5 and Range 24.",
+      "Translation": "Förbättrar Skuggpil till Kraft 5 och Räckvidd 24.",
       "Comment": ""
     },
     {
@@ -227,8 +227,8 @@
       "Comment": ""
     },
     {
-      "Key": "Upgrades Wildform to give +3 Attacks.",
-      "Translation": "Förbättrar Vildform så att den ger +3 Attacker.",
+      "Key": "Upgrades Wildform to give +4 Attacks.",
+      "Translation": "Förbättrar Vildform så att den ger +4 Attacker.",
       "Comment": ""
     },
     {
@@ -267,8 +267,8 @@
       "Comment": ""
     },
     {
-      "Key": "Upgrades Thousand Mouths to Power 3.",
-      "Translation": "Förbättrar Tusen Gap till Kraft 3.",
+      "Key": "Upgrades Thousand Mouths to Power 2.",
+      "Translation": "Förbättrar Tusen Gap till Kraft 2.",
       "Comment": ""
     },
     {
@@ -277,8 +277,8 @@
       "Comment": ""
     },
     {
-      "Key": "Upgrades Fiery Blades to give +3 Power.",
-      "Translation": "Förbättrar Eldklingor så att de ger +3 Kraft.",
+      "Key": "Upgrades Fiery Blades to give +2 Power.",
+      "Translation": "Förbättrar Eldklingor så att de ger +2 Kraft.",
       "Comment": ""
     },
     {
@@ -307,8 +307,8 @@
       "Comment": ""
     },
     {
-      "Key": "+3 gold when looting",
-      "Translation": "+3 guld vid plundring",
+      "Key": "+5 gold when looting",
+      "Translation": "+5 guld vid plundring",
       "Comment": ""
     },
     {
@@ -377,8 +377,8 @@
       "Comment": ""
     },
     {
-      "Key": "Ranged attack range increased by 3.",
-      "Translation": "Räckvidden för Avståndsattacker ökar med 3.",
+      "Key": "Ranged attack range increased by 5.",
+      "Translation": "Räckvidden för Avståndsattacker ökar med 5.",
       "Comment": ""
     },
     {
@@ -437,8 +437,8 @@
       "Comment": ""
     },
     {
-      "Key": "Unit has +3 range for Ranged attacks.",
-      "Translation": "Enheten har +3 räckvidd för Avståndsattacker.",
+      "Key": "Unit has +5 range for Ranged attacks.",
+      "Translation": "Enheten har +5 räckvidd för Avståndsattacker.",
       "Comment": ""
     },
     {
@@ -522,8 +522,8 @@
       "Comment": ""
     },
     {
-      "Key": "+3 range for Ranged Attacks.",
-      "Translation": "+3 räckvidd för Avståndsattacker.",
+      "Key": "+5 range for Ranged Attacks.",
+      "Translation": "+5 räckvidd för Avståndsattacker.",
       "Comment": ""
     },
     {
@@ -597,8 +597,8 @@
       "Comment": ""
     },
     {
-      "Key": "Unit gains Lethal attacks. (deals 3x wounds)",
-      "Translation": "Enheten får Dödliga attacker. (orsakar 3x Sår)",
+      "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
+      "Translation": "Enheten får Dödliga attacker. (orsakar 2x Sår)",
       "Comment": ""
     },
     {
@@ -607,8 +607,8 @@
       "Comment": ""
     },
     {
-      "Key": "Unit gains Poisoned Attacks (enemies re-roll 3s on Damage Saves)",
-      "Translation": "Enheten får Förgiftade Attacker (fiender slår om 3:or på Skyddskast)",
+      "Key": "Unit gains Poisoned Attacks (enemies re-roll 6s on Damage Saves)",
+      "Translation": "Enheten får Förgiftade Attacker (fiender slår om 6:or på Skyddskast)",
       "Comment": ""
     },
     {
@@ -687,8 +687,8 @@
       "Comment": ""
     },
     {
-      "Key": "Warcry also gives +3 Move Speed to all units.",
-      "Translation": "Stridsrop ger också +3 Rörelsehastighet till alla enheter.",
+      "Key": "Warcry also gives +2 Move Speed to all units.",
+      "Translation": "Stridsrop ger också +2 Rörelsehastighet till alla enheter.",
       "Comment": ""
     },
     {
@@ -812,8 +812,8 @@
       "Comment": ""
     },
     {
-      "Key": "Gain Deadly Strikes (deal 3x Wounds)",
-      "Translation": "Får Dödliga slag (orsakar 3x Sår)",
+      "Key": "Gain Deadly Strikes (deal 2x Wounds)",
+      "Translation": "Får Dödliga slag (orsakar 2x Sår)",
       "Comment": ""
     },
     {
@@ -852,8 +852,8 @@
       "Comment": ""
     },
     {
-      "Key": "Unit has +3 range for Ranged Attacks.",
-      "Translation": "Enheten har +3 räckvidd för Avståndsattacker.",
+      "Key": "Unit has +5 range for Ranged Attacks.",
+      "Translation": "Enheten har +5 räckvidd för Avståndsattacker.",
       "Comment": ""
     },
     {

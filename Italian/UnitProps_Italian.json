@@ -697,13 +697,13 @@
       "Comment": "Offensive battlefield effect; wrathful aura"
     },
     {
-      "Key": "3 Hand Weapons",
-      "Translation": "3 Armi da Mano",
+      "Key": "2 Hand Weapons",
+      "Translation": "2 Armi da Mano",
       "Comment": "Triple weapon loadout; notation matches game syntax"
     },
     {
-      "Key": "3x Pistols",
-      "Translation": "3x Pistole",
+      "Key": "2x Pistols",
+      "Translation": "2x Pistole",
       "Comment": "Triple pistol loadout; notation matches game syntax"
     },
     {
@@ -1126,6 +1126,5 @@
       "Translation": "Frecce di Volo Vero",
       "Comment": "Magical ammunition; unerring arrows"
     }
-   ]
+  ]
 }
-

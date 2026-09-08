@@ -62,13 +62,23 @@
       "Comment": "Defensive formation grants extra supporting attacks"
     },
     {
+      "Key": "Range: 20. Power 2.",
+      "Translation": "射程：20。力量2。",
+      "Comment": "Weapon specifications: ranged distance and damage"
+    },
+    {
+      "Key": "Range: 20. Power 3.",
+      "Translation": "射程：20。力量3。",
+      "Comment": "Weapon specifications: ranged distance and damage"
+    },
+    {
       "Key": "Range: 30. Power 3.",
       "Translation": "射程：30。力量3。",
       "Comment": "Weapon specifications: ranged distance and damage"
     },
     {
-      "Key": "Range: 33. Power 3. ",
-      "Translation": "射程：33。力量3。",
+      "Key": "Range: 24. Power 4. ",
+      "Translation": "射程：24。力量4。",
       "Comment": "Weapon specifications: extended range variant"
     },
     {
@@ -332,6 +342,16 @@
       "Comment": "Archery reliability"
     },
     {
+      "Key": "Range: 20. 2x Power 3.",
+      "Translation": "射程：20。2发×力量3。",
+      "Comment": "Multi-shot ranged weapon specification"
+    },
+    {
+      "Key": "Range: 20. 4x Power 3.",
+      "Translation": "射程：20。4发×力量3。",
+      "Comment": "Multi-shot ranged weapon specification"
+    },
+    {
       "Key": "Range: 30. 3x Power 3.",
       "Translation": "射程：30。3发×力量3。",
       "Comment": "Multi-shot ranged weapon specification"
@@ -402,13 +422,23 @@
       "Comment": "Command group attack reliability"
     },
     {
-      "Key": "Range 13. 3D3 Power 3.",
-      "Translation": "射程13。3D3力量3。",
+      "Key": "Range 12. 2D3 Power 3.",
+      "Translation": "射程12。2D3力量3。",
       "Comment": "Multi-die ranged weapon"
     },
     {
-      "Key": "+3 Movement this turn.",
-      "Translation": "本轮+3移动。",
+      "Key": "Range 12. 2D3 Power 5.",
+      "Translation": "射程12。2D3力量5。",
+      "Comment": "Multi-die ranged weapon"
+    },
+    {
+      "Key": "Range 16. 3D3 Power 5.",
+      "Translation": "射程16。3D3力量5。",
+      "Comment": "Multi-die ranged weapon"
+    },
+    {
+      "Key": "+6 Movement this turn.",
+      "Translation": "本轮+6移动。",
       "Comment": "Temporary mobility boost"
     },
     {
@@ -422,44 +452,49 @@
       "Comment": "Armor-piercing lance with charge bonus"
     },
     {
-      "Key": "+1 Defense. Charge Bonus: +3 Power",
-      "Translation": "+1防御。冲锋奖励：+3力量",
+      "Key": "+1 Defense. Charge Bonus: +2 Power",
+      "Translation": "+1防御。冲锋奖励：+2力量",
       "Comment": "Heavy cavalry/monster capability"
     },
     {
-      "Key": "Range 13. 3x Power 3.",
-      "Translation": "射程13。3发×力量3。",
+      "Key": "Range 18. 2x Power 4.",
+      "Translation": "射程18。2发×力量4。",
       "Comment": "Multi-shot weapon specification"
     },
     {
-      "Key": "Range 33. D3 hits, Power 3.",
-      "Translation": "射程33。D3发，力量3。",
+      "Key": "Range 48. D3 hits, Power 8.",
+      "Translation": "射程48。D3发，力量8。",
       "Comment": "Variable hit ranged weapon"
     },
     {
-      "Key": "This units ranged attack deals 3x wounds against multiwound targets.",
-      "Translation": "该单位的远程攻击对多伤害值目标造成3倍伤害值。",
+      "Key": "This units ranged attack deals 2x wounds against multiwound targets.",
+      "Translation": "该单位的远程攻击对多伤害值目标造成2倍伤害值。",
       "Comment": "Deadly Strikes ranged variant - effective against large targets"
     },
     {
-      "Key": "Range 33. 3D3+1 hits, Power 3.",
-      "Translation": "射程33。3D3+1发，力量3。",
+      "Key": "Range 48. 2D3+1 hits, Power 4.",
+      "Translation": "射程48。2D3+1发，力量4。",
       "Comment": "Heavy artillery/organ gun specification"
     },
     {
-      "Key": "+1 Defense. -3 Move Speed.",
-      "Translation": "+1防御。-3移动速度。",
+      "Key": "+1 Defense. -4 Move Speed.",
+      "Translation": "+1防御。-4移动速度。",
       "Comment": "Heavy armor trade-off: protection at cost of mobility"
     },
     {
-      "Key": "Activate for +3 Movement this turn.",
-      "Translation": "启用获得本轮+3移动。",
+      "Key": "Activate for +4 Movement this turn.",
+      "Translation": "启用获得本轮+4移动。",
       "Comment": "One-use mobility ability"
     },
     {
-      "Key": "Fly Speed 30. Ignore Terrain.",
-      "Translation": "飞行速度30。忽视地形。",
+      "Key": "Fly Speed 20. Ignore Terrain.",
+      "Translation": "飞行速度20。忽视地形。",
       "Comment": "Flying movement ability"
+    },
+    {
+      "Key": "+2 Skill",
+      "Translation": "+2技能",
+      "Comment": "Significant combat ability boost"
     },
     {
       "Key": "+3 Skill",
@@ -467,63 +502,63 @@
       "Comment": "Significant combat ability boost"
     },
     {
-      "Key": "One use, +3 Power and + 1 Attack until end of turn.",
-      "Translation": "一次使用，+3力量和+1攻击至轮末。",
+      "Key": "One use, +2 Power and + 1 Attack until end of turn.",
+      "Translation": "一次使用，+2力量和+1攻击至轮末。",
       "Comment": "One-use offensive boost"
     },
     {
-      "Key": "D3 Power 3 hits. Range 30.",
-      "Translation": "D3发力量3。射程30。",
+      "Key": "D6 Power 5 hits. Range 30.",
+      "Translation": "D6发力量5。射程30。",
       "Comment": "Variable-output ranged attack"
     },
     {
-      "Key": "3 x Power 3 hits. Range: 13.",
-      "Translation": "3发×力量3。射程：13。",
+      "Key": "3 x Power 3 hits. Range: 18.",
+      "Translation": "3发×力量3。射程：18。",
       "Comment": "Close-range multi-shot attack"
     },
     {
-      "Key": "Target unit has -3 Defense for one turn.",
-      "Translation": "目标单位获得-3防御，持续一轮。",
+      "Key": "Target unit has -2 Defense for one turn.",
+      "Translation": "目标单位获得-2防御，持续一轮。",
       "Comment": "Powerful debuff ability"
     },
     {
-      "Key": "Charge Bonus: +3 Power +3 Attacks",
-      "Translation": "冲锋奖励：+3力量+3攻击",
+      "Key": "Charge Bonus: +2 Power +2 Attacks",
+      "Translation": "冲锋奖励：+2力量+2攻击",
       "Comment": "Monster charge capability"
     },
     {
-      "Key": "Range 33. 3x Power 3.",
-      "Translation": "射程33。3发×力量3。",
+      "Key": "Range 48. 3x Power 6.",
+      "Translation": "射程48。3发×力量6。",
       "Comment": "Long-range multi-shot weapon"
     },
     {
-      "Key": "Range 33. 3D3 hits, Power 3.",
-      "Translation": "射程33。3D3发，力量3。",
+      "Key": "Range 48. 2D3 hits, Power 5.",
+      "Translation": "射程48。2D3发，力量5。",
       "Comment": "Long-range variable hit weapon"
     },
     {
-      "Key": "Enemies re-roll 3s on Damage Saves.",
-      "Translation": "对手重投伤害豁免检定中的3。",
+      "Key": "Enemies re-roll 6s on Damage Saves.",
+      "Translation": "对手重投伤害豁免检定中的6。",
       "Comment": "Rend ability - armor-piercing effect"
     },
     {
-      "Key": "Reduce an enemy units Move Speed by 3. Range 13.",
-      "Translation": "减少敌方单位3点移动速度。射程13。",
+      "Key": "Reduce an enemy units Move Speed by 4. Range 12.",
+      "Translation": "减少敌方单位4点移动速度。射程12。",
       "Comment": "Slowing attack"
     },
     {
-      "Key": "3D3 Power 1 hits. Range 13.",
-      "Translation": "3D3发力量1。射程13。",
+      "Key": "3D6 Power 1 hits. Range 18.",
+      "Translation": "3D6发力量1。射程18。",
       "Comment": "Magic missile - high volume, low power"
     },
     {
-      "Key": "Caster has +1 Power,  +1 Defense and +3 Attacks for one turn.",
-      "Translation": "施法者本轮获得+1力量、+1防御和+3攻击。",
+      "Key": "Caster has +1 Power,  +1 Defense and +2 Attacks for one turn.",
+      "Translation": "施法者本轮获得+1力量、+1防御和+2攻击。",
       "Comment": "Transformation spell"
     },
     {
-      "Key": "Range 3. 1D3 power 3. One use per battle.",
-      "Translation": "射程3。1D3力量3。每场战斗一次。",
+      "Key": "Range 8. 1D6 power 4. One use per battle.",
+      "Translation": "射程8。1D6力量4。每场战斗一次。",
       "Comment": "Close-range limited attack"
     },
     {
@@ -537,28 +572,33 @@
       "Comment": "Engineer buff for war machines"
     },
     {
-      "Key": "Caster and retinue gains Flying and Move Speed 30 for one turn",
-      "Translation": "施法者及其卫队获得飞行和移动速度30，持续一轮。",
+      "Key": "Caster and retinue gains Flying and Move Speed 20 for one turn",
+      "Translation": "施法者及其卫队获得飞行和移动速度20，持续一轮。",
       "Comment": "Mobility transformation spell"
     },
     {
-      "Key": "Range: 13. Power 3.",
-      "Translation": "射程：13。力量3。",
+      "Key": "Range: 12. Power 2.",
+      "Translation": "射程：12。力量2。",
       "Comment": "Close-range weapon specification"
     },
     {
-      "Key": "Throw a boulder at an enemy unit. Range 13, 3D3 Power 3.",
-      "Translation": "向敌方单位投掷巨石。射程13，3D3力量3。",
+      "Key": "Range: 12. Power 3.",
+      "Translation": "射程：12。力量3。",
+      "Comment": "Close-range weapon specification"
+    },
+    {
+      "Key": "Throw a boulder at an enemy unit. Range 18, 2D3 Power 5.",
+      "Translation": "向敌方单位投掷巨石。射程18，2D3力量5。",
       "Comment": "Giant/troll ability"
     },
     {
-      "Key": "+3 Attacks this turn. Activate once per battle when wounded.",
-      "Translation": "本轮+3攻击。受伤时每场战斗启用一次。",
+      "Key": "+2 Attacks this turn. Activate once per battle when wounded.",
+      "Translation": "本轮+2攻击。受伤时每场战斗启用一次。",
       "Comment": "Enraged state ability"
     },
     {
-      "Key": "Range: 13. 3x Power 3.",
-      "Translation": "射程：13。3发×力量3。",
+      "Key": "Range: 12. 4x Power 3.",
+      "Translation": "射程：12。4发×力量3。",
       "Comment": "Close-range multi-shot weapon"
     },
     {
@@ -567,18 +607,23 @@
       "Comment": "Terror roar ability"
     },
     {
-      "Key": "Range: 3. Power 3.",
-      "Translation": "射程：3。力量3。",
+      "Key": "Range: 8. Power 2.",
+      "Translation": "射程：8。力量2。",
       "Comment": "Breath weapon specification"
     },
     {
-      "Key": "Range 33. Power 3.",
-      "Translation": "射程33。力量3。",
+      "Key": "Range 48. Power 5.",
+      "Translation": "射程48。力量5。",
       "Comment": "Long-range weapon"
     },
     {
-      "Key": "Range 13. D3 Power 3.",
-      "Translation": "射程13。D3力量3。",
+      "Key": "Range 12. D3 Power 4.",
+      "Translation": "射程12。D3力量4。",
+      "Comment": "Close-range variable power weapon"
+    },
+    {
+      "Key": "Range 12. D3 Power 5.",
+      "Translation": "射程12。D3力量5。",
       "Comment": "Close-range variable power weapon"
     },
     {
@@ -592,13 +637,13 @@
       "Comment": "Deadly Strikes melee ability"
     },
     {
-      "Key": "Range: 33. Power 3.",
-      "Translation": "射程：33。力量3。",
+      "Key": "Range: 24. Power 3.",
+      "Translation": "射程：24。力量3。",
       "Comment": "Long-range weapon specification"
     },
     {
-      "Key": "Activate for +3 Movement and Flying for one turn.",
-      "Translation": "启用获得+3移动和飞行，持续一轮。",
+      "Key": "Activate for +4 Movement and Flying for one turn.",
+      "Translation": "启用获得+4移动和飞行，持续一轮。",
       "Comment": "Mobility transformation"
     },
     {
@@ -617,18 +662,23 @@
       "Comment": "Defensive reliability"
     },
     {
+      "Key": "+2 Wounds",
+      "Translation": "+2伤害值",
+      "Comment": "Health boost"
+    },
+    {
       "Key": "+3 Wounds",
       "Translation": "+3伤害值",
       "Comment": "Health boost"
     },
     {
-      "Key": "+3 Ranged Attack",
-      "Translation": "+3远程攻击",
+      "Key": "+2 Ranged Attack",
+      "Translation": "+2远程攻击",
       "Comment": "Ranged accuracy boost"
     },
     {
-      "Key": "+3 Ranged Attack, +1 Power to Ranged Attacks",
-      "Translation": "+3远程攻击，+1远程攻击力量",
+      "Key": "+2 Ranged Attack, +1 Power to Ranged Attacks",
+      "Translation": "+2远程攻击，+1远程攻击力量",
       "Comment": "Ranged specialization"
     },
     {
@@ -637,8 +687,8 @@
       "Comment": "Magic specialization"
     },
     {
-      "Key": "+3 Spell Attacks",
-      "Translation": "+3法术攻击",
+      "Key": "+2 Spell Attacks",
+      "Translation": "+2法术攻击",
       "Comment": "Magic casting boost"
     },
     {
@@ -647,18 +697,23 @@
       "Comment": "Magic casting boost (singular)"
     },
     {
+      "Key": "+2 Attack",
+      "Translation": "+2攻击",
+      "Comment": "General attack boost"
+    },
+    {
       "Key": "+3 Attack",
       "Translation": "+3攻击",
       "Comment": "General attack boost"
     },
     {
-      "Key": "+3 Ranged Attacks",
-      "Translation": "+3远程攻击",
+      "Key": "+2 Ranged Attacks",
+      "Translation": "+2远程攻击",
       "Comment": "Ranged attack boost"
     },
     {
-      "Key": "+3 Discipline",
-      "Translation": "+3纪律",
+      "Key": "+2 Discipline",
+      "Translation": "+2纪律",
       "Comment": "Morale enhancement"
     },
     {
@@ -737,8 +792,8 @@
       "Comment": "Fearless unit with damage boost"
     },
     {
-      "Key": "Target unit gets +3 Power in their next combat round.",
-      "Translation": "目标单位在其下一个战斗轮中获得+3力量。",
+      "Key": "Target unit gets +2 Power in their next combat round.",
+      "Translation": "目标单位在其下一个战斗轮中获得+2力量。",
       "Comment": "Combat enhancement ability"
     },
     {
@@ -747,13 +802,13 @@
       "Comment": "Army-wide morale and combat boost"
     },
     {
-      "Key": "3D3 Power 3 hits. Range 30.",
-      "Translation": "3D3力量3。射程30。",
+      "Key": "2D6 Power 5 hits. Range 30.",
+      "Translation": "2D6力量5。射程30。",
       "Comment": "Multi-die ranged weapon"
     },
     {
-      "Key": "Target unit has +3 Power and rerolls missed Attack Rolls this turn.",
-      "Translation": "目标单位本轮获得+3力量且重投攻击检定中失败的。",
+      "Key": "Target unit has +2 Power and rerolls missed Attack Rolls this turn.",
+      "Translation": "目标单位本轮获得+2力量且重投攻击检定中失败的。",
       "Comment": "Combat enhancement buff"
     },
     {
@@ -777,8 +832,8 @@
       "Comment": "Significant debuff"
     },
     {
-      "Key": "3 x Power 3 hits. Range: 33.",
-      "Translation": "3发×力量3。射程：33。",
+      "Key": "3 x Power 5 hits. Range: 24.",
+      "Translation": "3发×力量5。射程：24。",
       "Comment": "Long-range multi-shot weapon"
     },
     {
@@ -797,13 +852,13 @@
       "Comment": "Immobilization effect"
     },
     {
-      "Key": "Caster has +1 Power,  +1 Defense and +3 Attacks this turn.",
-      "Translation": "施法者本轮获得+1力量、+1防御和+3攻击。",
+      "Key": "Caster has +1 Power,  +1 Defense and +4 Attacks this turn.",
+      "Translation": "施法者本轮获得+1力量、+1防御和+4攻击。",
       "Comment": "Transformation spell"
     },
     {
-      "Key": "3D3 Power 3 hits. Range 13.",
-      "Translation": "3D3力量3。射程13。",
+      "Key": "3D6 Power 2 hits. Range 18.",
+      "Translation": "3D6力量2。射程18。",
       "Comment": "Close-range multi-die weapon"
     },
     {
@@ -812,8 +867,8 @@
       "Comment": "Formation-based ranged ability"
     },
     {
-      "Key": "Ranged attack range increased by 3.",
-      "Translation": "远程攻击射程增加3。",
+      "Key": "Ranged attack range increased by 5.",
+      "Translation": "远程攻击射程增加5。",
       "Comment": "Extended ranged reach"
     },
     {
@@ -847,8 +902,8 @@
       "Comment": "Combat quality with morale immunity"
     },
     {
-      "Key": "Unit has +3 range for Ranged attacks.",
-      "Translation": "单位远程攻击射程+3。",
+      "Key": "Unit has +5 range for Ranged attacks.",
+      "Translation": "单位远程攻击射程+5。",
       "Comment": "Extended ranged reach"
     },
     {
@@ -882,8 +937,8 @@
       "Comment": "Aggressive tradeoff"
     },
     {
-      "Key": "+3 Attacks, -1 Skill.",
-      "Translation": "+3攻击，-1技能。",
+      "Key": "+2 Attacks, -1 Skill.",
+      "Translation": "+2攻击，-1技能。",
       "Comment": "Aggressive enhancement with accuracy penalty"
     },
     {
@@ -892,18 +947,18 @@
       "Comment": "Ranged specialization with penalty"
     },
     {
-      "Key": "Range 13. 3D3 Power 3. -1 Defense.",
-      "Translation": "射程13。3D3力量3。-1防御。",
+      "Key": "Range 12. 2D3 Power 5. -1 Defense.",
+      "Translation": "射程12。2D3力量5。-1防御。",
       "Comment": "Close-range weapon with defensive penalty"
     },
     {
-      "Key": "Range 13. D3 Power 3. -1 Defense.",
-      "Translation": "射程13。D3力量3。-1防御。",
+      "Key": "Range 12. D3 Power 5. -1 Defense.",
+      "Translation": "射程12。D3力量5。-1防御。",
       "Comment": "Close-range variable weapon with defensive penalty"
     },
     {
-      "Key": "Fly Speed 13. Ignore Terrain. -1 Discipline.",
-      "Translation": "飞行速度13。忽视地形。-1纪律。",
+      "Key": "Fly Speed 14. Ignore Terrain. -1 Discipline.",
+      "Translation": "飞行速度14。忽视地形。-1纪律。",
       "Comment": "Flying unit with morale penalty"
     },
     {
@@ -932,13 +987,13 @@
       "Comment": "Dual combat enhancement"
     },
     {
-      "Key": "+3 Wounds. -1 Move Speed.",
-      "Translation": "+3伤害值。-1移动速度。",
+      "Key": "+2 Wounds. -1 Move Speed.",
+      "Translation": "+2伤害值。-1移动速度。",
       "Comment": "Health for mobility tradeoff"
     },
     {
-      "Key": "+3 range to Ranged Attacks",
-      "Translation": "远程攻击+3射程",
+      "Key": "+5 range to Ranged Attacks",
+      "Translation": "远程攻击+5射程",
       "Comment": "Extended ranged reach"
     },
     {
@@ -972,8 +1027,8 @@
       "Comment": "Mobility with terrain traversal"
     },
     {
-      "Key": "Lethal Attacks. (3x wounds)",
-      "Translation": "致命攻击。（3倍伤害值）",
+      "Key": "Lethal Attacks. (2x wounds)",
+      "Translation": "致命攻击。（2倍伤害值）",
       "Comment": "Deadly Strikes ability"
     },
     {
@@ -982,8 +1037,8 @@
       "Comment": "Healing ability"
     },
     {
-      "Key": "Poisoned Attacks (enemies re-roll 3s on Damage Saves)",
-      "Translation": "毒性攻击（敌人重投伤害豁免检定中的3）",
+      "Key": "Poisoned Attacks (enemies re-roll 6s on Damage Saves)",
+      "Translation": "毒性攻击（敌人重投伤害豁免检定中的6）",
       "Comment": "Armor-piercing ability"
     },
     {
@@ -1007,8 +1062,8 @@
       "Comment": "Damage save reliability"
     },
     {
-      "Key": "All your units have +1 Power  and +3 Move Speed for one turn.",
-      "Translation": "你所有单位一轮内获得+1力量和+3移动速度。",
+      "Key": "All your units have +1 Power  and +2 Move Speed for one turn.",
+      "Translation": "你所有单位一轮内获得+1力量和+2移动速度。",
       "Comment": "Army-wide offensive and mobility boost"
     },
     {
@@ -1022,8 +1077,8 @@
       "Comment": "Defensive positioning ability"
     },
     {
-      "Key": "Target unit gets +3 to Damage Saves this turn.",
-      "Translation": "目标单位本轮伤害豁免+3。",
+      "Key": "Target unit gets +2 to Damage Saves this turn.",
+      "Translation": "目标单位本轮伤害豁免+2。",
       "Comment": "Defensive buff"
     },
     {
@@ -1087,8 +1142,8 @@
       "Comment": "Armor-piercing effect"
     },
     {
-      "Key": "These arrows deal 3x wounds against multiwound targets.",
-      "Translation": "这些箭对多伤害值目标造成3倍伤害值。",
+      "Key": "These arrows deal 2x wounds against multiwound targets.",
+      "Translation": "这些箭对多伤害值目标造成2倍伤害值。",
       "Comment": "Armor-piercing ammunition"
     },
     {

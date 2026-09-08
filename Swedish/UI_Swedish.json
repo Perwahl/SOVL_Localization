@@ -587,8 +587,8 @@
       "Comment": ""
     },
     {
-      "Key": "- Survive for 3 Turns -",
-      "Translation": "- Överlev i 3 omgångar -",
+      "Key": "- Survive for 6 Turns -",
+      "Translation": "- Överlev i 6 omgångar -",
       "Comment": ""
     },
     {
@@ -627,8 +627,8 @@
       "Comment": ""
     },
     {
-      "Key": "0 pts",
-      "Translation": "0 p",
+      "Key": "{0}pts",
+      "Translation": "{0} p",
       "Comment": ""
     },
     {
@@ -677,14 +677,10 @@
       "Comment": ""
     },
     {
-      "Key": "1% gold income",
-      "Translation": "1 % guldinkomst",
-      "Comment": ""
-    },
-    {
-      "Key": "3% gold income",
-      "Translation": "3 % guldinkomst",
-      "Comment": ""
+      "Key": "{0}% gold income",
+      "Translation": "{0} % guldinkomst",
+      "Comment": "",
+      "PluralOne": "{0} % guldinkomst"
     },
     {
       "Key": "Your regiment returns in the morning. But something has changed them...",
@@ -737,23 +733,23 @@
       "Comment": ""
     },
     {
-      "Key": "Win <size=30%><color=green>+",
-      "Translation": "Seger <size=30%><color=green>+",
+      "Key": "Win <size=80%><color=green>+",
+      "Translation": "Seger <size=80%><color=green>+",
       "Comment": ""
     },
     {
-      "Key": "Loss <size=30%>",
-      "Translation": "Förlust <size=30%>",
+      "Key": "Loss <size=80%>",
+      "Translation": "Förlust <size=80%>",
       "Comment": ""
     },
     {
-      "Key": "Total Points: <color=#3EFEFF>",
-      "Translation": "Totalt antal poäng: <color=#3EFEFF>",
+      "Key": "Total Points: <color=#9EFEFF>",
+      "Translation": "Totalt antal poäng: <color=#9EFEFF>",
       "Comment": ""
     },
     {
-      "Key": "Elo:  <color=#3EFEFF>",
-      "Translation": "Elo:  <color=#3EFEFF>",
+      "Key": "Elo:  <color=#9EFEFF>",
+      "Translation": "Elo:  <color=#9EFEFF>",
       "Comment": ""
     },
     {
@@ -772,23 +768,19 @@
       "Comment": ""
     },
     {
-      "Key": "Replenished 3 models",
-      "Translation": "Påfyllde 3 modeller",
+      "Key": "Replenished 5 models",
+      "Translation": "Påfyllde 5 modeller",
       "Comment": ""
     },
     {
-      "Key": "1 XP",
-      "Translation": "1 XP",
-      "Comment": ""
+      "Key": "{0} XP",
+      "Translation": "{0} XP",
+      "Comment": "",
+      "PluralOne": "{0} XP"
     },
     {
-      "Key": "3 XP",
-      "Translation": "3 XP",
-      "Comment": ""
-    },
-    {
-      "Key": "Defeated by <color=#FFDF3C>",
-      "Translation": "Besegrad av <color=#FFDF3C>",
+      "Key": "Defeated by <color=#FFDF7C>",
+      "Translation": "Besegrad av <color=#FFDF7C>",
       "Comment": ""
     },
     {
@@ -797,8 +789,8 @@
       "Comment": ""
     },
     {
-      "Key": "Great Weapon <color=#B3F333>+1",
-      "Translation": "Stort vapen <color=#B3F333>+1",
+      "Key": "Great Weapon <color=#B6F595>+1",
+      "Translation": "Stort vapen <color=#B6F595>+1",
       "Comment": ""
     },
     {
@@ -967,8 +959,8 @@
       "Comment": "Keep the in-game terminology consistent."
     },
     {
-      "Key": "3 Units",
-      "Translation": "3 enheter",
+      "Key": "2 Units",
+      "Translation": "2 enheter",
       "Comment": ""
     },
     {
@@ -1022,8 +1014,8 @@
       "Comment": ""
     },
     {
-      "Key": "<color=#31D3E3>3+ <size=33%></color> To Save",
-      "Translation": "<color=#31D3E3>3+ <size=33%></color> att spara",
+      "Key": "<color=#81D7E5>3+ <size=85%></color> To Save",
+      "Translation": "<color=#81D7E5>3+ <size=85%></color> att spara",
       "Comment": ""
     },
     {
@@ -1037,8 +1029,8 @@
       "Comment": ""
     },
     {
-      "Key": "<color=#30F3FF> 3x</color> Auto Hits",
-      "Translation": "<color=#30F3FF> 3x</color> automatiska träffar",
+      "Key": "<color=#70F6FF> 3x</color> Auto Hits",
+      "Translation": "<color=#70F6FF> 3x</color> automatiska träffar",
       "Comment": ""
     },
     {
@@ -1052,8 +1044,8 @@
       "Comment": ""
     },
     {
-      "Key": "Power <color=#31D3E3><size=133%>3</color> </size>VS Defense <color=#31D3E3><size=133%>3</color> ",
-      "Translation": "Styrka <color=#31D3E3><size=133%>3</color> </size>mot försvar <color=#31D3E3><size=133%>3</color> ",
+      "Key": "Power <color=#81D7E5><size=125%>5</color> </size>VS Defense <color=#81D7E5><size=125%>5</color> ",
+      "Translation": "Styrka <color=#81D7E5><size=125%>5</color> </size>mot försvar <color=#81D7E5><size=125%>5</color> ",
       "Comment": ""
     },
     {
@@ -1067,8 +1059,8 @@
       "Comment": ""
     },
     {
-      "Key": "Power 3 vs Defense 3",
-      "Translation": "Styrka 3 mot försvar 3",
+      "Key": "Power 3 vs Defense 4",
+      "Translation": "Styrka 3 mot försvar 4",
       "Comment": ""
     },
     {
@@ -1267,11 +1259,6 @@
       "Comment": ""
     },
     {
-      "Key": "3333 pts",
-      "Translation": "3333 p",
-      "Comment": ""
-    },
-    {
       "Key": "Objectives:",
       "Translation": "Mål:",
       "Comment": ""
@@ -1342,13 +1329,13 @@
       "Comment": ""
     },
     {
-      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 33.",
-      "Translation": "Besegrad av <color=blue>Gundrik Anvilhide</color> på steg 33.",
+      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 32.",
+      "Translation": "Besegrad av <color=blue>Gundrik Anvilhide</color> på steg 32.",
       "Comment": ""
     },
     {
-      "Key": "Unlocked 1/3",
-      "Translation": "Upplåst 1/3",
+      "Key": "Unlocked 1/5",
+      "Translation": "Upplåst 1/5",
       "Comment": ""
     },
     {
@@ -1507,8 +1494,8 @@
       "Comment": ""
     },
     {
-      "Key": "Mercenary Cut: <indent=33%><color=green><b>+10%",
-      "Translation": "Legoknektandel: <indent=33%><color=green><b>+10%",
+      "Key": "Mercenary Cut: <indent=55%><color=green><b>+10%",
+      "Translation": "Legoknektandel: <indent=55%><color=green><b>+10%",
       "Comment": "The existing term is acceptable, but this keeps it consistent with the rest of the interface."
     },
     {
@@ -1917,8 +1904,8 @@
       "Comment": ""
     },
     {
-      "Key": "(Your units have +3 Move Speed and +1 to Ranged Attack Rolls) ",
-      "Translation": "(Dina enheter får +3 rörelsehastighet och +1 på avståndsattacker)",
+      "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
+      "Translation": "(Dina enheter får +2 rörelsehastighet och +1 på avståndsattacker)",
       "Comment": ""
     },
     {
@@ -1932,8 +1919,8 @@
       "Comment": ""
     },
     {
-      "Key": "Light Infantry - 33 pts",
-      "Translation": "Lätt infanteri - 33 p",
+      "Key": "Light Infantry - 99 pts",
+      "Translation": "Lätt infanteri - 99 p",
       "Comment": ""
     },
     {
@@ -1949,11 +1936,6 @@
     {
       "Key": "- Dwarf Warriors",
       "Translation": "- Dvärgkrigare",
-      "Comment": ""
-    },
-    {
-      "Key": "33 pts",
-      "Translation": "33 p",
       "Comment": ""
     },
     {
@@ -1987,11 +1969,6 @@
       "Comment": ""
     },
     {
-      "Key": "130pts",
-      "Translation": "130 p",
-      "Comment": ""
-    },
-    {
       "Key": "Item Rules Effect\n",
       "Translation": "Föremålsregelns effekt\n",
       "Comment": ""
@@ -1999,11 +1976,6 @@
     {
       "Key": "Unlocked ",
       "Translation": "Upplåst ",
-      "Comment": ""
-    },
-    {
-      "Key": "33pts",
-      "Translation": "33 p",
       "Comment": ""
     },
     {
@@ -2019,16 +1991,6 @@
     {
       "Key": "<color=#31D3E3>1<size=33%></color> D3",
       "Translation": "<color=#31D3E3>1<size=33%></color> D3",
-      "Comment": ""
-    },
-    {
-      "Key": "30pts",
-      "Translation": "30 p",
-      "Comment": ""
-    },
-    {
-      "Key": "333 pts",
-      "Translation": "333 p",
       "Comment": ""
     },
     {
@@ -2092,16 +2054,6 @@
       "Comment": ""
     },
     {
-      "Key": "103pts",
-      "Translation": "103 p",
-      "Comment": ""
-    },
-    {
-      "Key": "133pts",
-      "Translation": "133 p",
-      "Comment": ""
-    },
-    {
       "Key": "Commander Ability",
       "Translation": "Befälhavarens förmåga",
       "Comment": ""
@@ -2114,21 +2066,6 @@
     {
       "Key": "Magic Banner",
       "Translation": "Magisk fana",
-      "Comment": ""
-    },
-    {
-      "Key": "131pts",
-      "Translation": "131 p",
-      "Comment": ""
-    },
-    {
-      "Key": "13pts",
-      "Translation": "13 p",
-      "Comment": ""
-    },
-    {
-      "Key": "10pts",
-      "Translation": "10 p",
       "Comment": ""
     },
     {
@@ -2147,8 +2084,8 @@
       "Comment": ""
     },
     {
-      "Key": "<b>Draw<size=30%></color></b>\n",
-      "Translation": "<b>Oavgjort<size=30%></color></b>\n",
+      "Key": "<b>Draw<size=80%></color></b>\n",
+      "Translation": "<b>Oavgjort<size=80%></color></b>\n",
       "Comment": ""
     },
     {
@@ -2212,8 +2149,8 @@
       "Comment": ""
     },
     {
-      "Key": "3 or lower to Hold",
-      "Translation": "3 eller lägre för att hålla",
+      "Key": "{0} or lower to Hold",
+      "Translation": "{0} eller lägre för att hålla",
       "Comment": ""
     },
     {
@@ -2222,13 +2159,8 @@
       "Comment": ""
     },
     {
-      "Key": "3 or lower to Rally",
-      "Translation": "3 eller lägre för att samla sig",
-      "Comment": ""
-    },
-    {
-      "Key": "0 or lower to Hold",
-      "Translation": "0 eller lägre för att hålla",
+      "Key": "{0} or lower to Rally",
+      "Translation": "{0} eller lägre för att samla sig",
       "Comment": ""
     },
     {
@@ -2327,16 +2259,6 @@
       "Comment": ""
     },
     {
-      "Key": "113pts",
-      "Translation": "113 p",
-      "Comment": ""
-    },
-    {
-      "Key": "110pts",
-      "Translation": "110 p",
-      "Comment": ""
-    },
-    {
       "Key": "Raiders",
       "Translation": "Rånare",
       "Comment": "This is a more natural Swedish term for the unit type."
@@ -2345,11 +2267,6 @@
       "Key": "Big Stuff",
       "Translation": "Stora grejer",
       "Comment": "This feels a bit more natural and less stiff in UI use."
-    },
-    {
-      "Key": "3pts",
-      "Translation": "3 p",
-      "Comment": ""
     },
     {
       "Key": "Battles: ",
@@ -2422,6 +2339,11 @@
       "Comment": ""
     },
     {
+      "Key": "D6",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
       "Key": " Damage Save",
       "Translation": "",
       "Comment": ""
@@ -2438,11 +2360,6 @@
     },
     {
       "Key": "conceded",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "313pts",
       "Translation": "",
       "Comment": ""
     },
@@ -2478,16 +2395,6 @@
     },
     {
       "Key": "continue fighting, but their magic weakens.",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "0pts",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "10 or lower to Hold",
       "Translation": "",
       "Comment": ""
     },

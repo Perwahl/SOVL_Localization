@@ -34,6 +34,7 @@ from pathlib import Path
 from sovl_loc import (
     approved_term_present,
     MOJIBAKE_RE,
+    PLACEHOLDER_RE,
     REPLACEMENT_RE,
     REPO,
     TAG_RE,
@@ -229,31 +230,38 @@ def check_fidelity(files: list[TranslationFile], report: Report) -> None:
                     f.path, index, key,
                 )
 
-            # The game normalises every digit except 0 and 1 to '3' when it builds the
-            # lookup key, and after translation it walks the result left to right putting
-            # the real numbers back into each '3'. So the count of literal '3' characters
-            # is load bearing: lose one and a real rules number disappears, gain one and
-            # every number after it shifts to the wrong slot.
-            if key.count("3") != translation.count("3"):
+            # {0}, {1} are filled with real values at runtime. A translation that drops
+            # one loses the value; one that invents an index the caller does not supply
+            # makes string.Format throw, which the game catches but only by falling back
+            # to English. Format specifiers are ignored here: {0:P0} and {0} are the same
+            # slot, and a translator may legitimately keep or drop the specifier.
+            key_slots = collections.Counter(PLACEHOLDER_RE.findall(key))
+            translation_slots = collections.Counter(PLACEHOLDER_RE.findall(translation))
+            if key_slots != translation_slots:
+                missing = sorted((key_slots - translation_slots).elements())
+                extra = sorted((translation_slots - key_slots).elements())
+                detail = []
+                if missing:
+                    detail.append("dropped " + ", ".join("{" + m + "}" for m in missing))
+                if extra:
+                    detail.append("added " + ", ".join("{" + e + "}" for e in extra))
                 report.add(
                     "fidelity", ERROR, f.language, f.store,
-                    f"number placeholder count changed ({key.count('3')} -> {translation.count('3')}). "
-                    f"Every '3' in the English is a slot the game fills with a real number at "
-                    f"runtime, so the translation needs exactly as many, in the same order: "
-                    f"{short(key)!r} -> {short(translation)!r}",
+                    f"placeholders changed ({'; '.join(detail)}) - these are filled with real "
+                    f"values at runtime: {short(key)!r} -> {short(translation)!r}",
                     f.path, index, key,
                 )
 
-            # 0 and 1 are literal in the source. Changing them does not corrupt the
-            # substitution, but it usually means a rules number was altered or spelled out.
-            key_literals = digits(key.replace("3", ""))
-            translation_literals = digits(translation.replace("3", ""))
-            if key_literals != translation_literals:
+            # Digits outside a placeholder are literal rules numbers now, so they should
+            # come through unchanged. Reported as a warning: a language may legitimately
+            # write a small number as a word, or reorder two numbers within the sentence.
+            key_digits = digits(PLACEHOLDER_RE.sub("", key))
+            translation_digits = digits(PLACEHOLDER_RE.sub("", translation))
+            if sorted(key_digits) != sorted(translation_digits):
                 report.add(
                     "fidelity", WARNING, f.language, f.store,
-                    f"literal numbers changed ({key_literals or 'none'} -> "
-                    f"{translation_literals or 'none'}) - check the rules meaning is intact: "
-                    f"{short(key)!r} -> {short(translation)!r}",
+                    f"numbers changed ({key_digits or 'none'} -> {translation_digits or 'none'}) - "
+                    f"check the rules meaning is intact: {short(key)!r} -> {short(translation)!r}",
                     f.path, index, key,
                 )
 
