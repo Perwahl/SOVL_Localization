@@ -9,8 +9,7 @@
     {
       "Key": "Passed {0} Break Tests.",
       "Translation": "通过了{0}次精神检定。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "通过了{0}次精神检定。"
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Dragon Slayer",
@@ -20,8 +19,7 @@
     {
       "Key": "Killed {0} dragons.",
       "Translation": "击杀了{0}条龙。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "击杀了{0}条龙。"
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Deadly",
@@ -31,8 +29,7 @@
     {
       "Key": "Killed {0} enemies in combat.",
       "Translation": "在近战中击杀了{0}个敌人。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "在近战中击杀了{0}个敌人。"
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Marksman",
@@ -42,8 +39,7 @@
     {
       "Key": "Killed {0} enemies with ranged weapons.",
       "Translation": "用远程武器击杀了{0}个敌人。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "用远程武器击杀了{0}个敌人。"
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Lucky",
@@ -53,8 +49,7 @@
     {
       "Key": "Rolled {0} natural sixes ({1:P0} of all rolls).",
       "Translation": "掷出了{0}个自然六点（占总掷骰的{1:P0}）。",
-      "Comment": "Higher tier lucky achievement",
-      "PluralOne": "掷出了{0}个自然的六点（占总掷骰的{1:P0}）。"
+      "Comment": "Higher tier lucky achievement"
     },
     {
       "Key": "Scorer",
@@ -64,8 +59,7 @@
     {
       "Key": "Captured {0} objectives.",
       "Translation": "夺取了{0}个目标。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "夺取了{0}个目标。"
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Giant Slayer",
@@ -75,8 +69,7 @@
     {
       "Key": "Killed {0} giants.",
       "Translation": "击杀了{0}个巨人。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "击杀了{0}个巨人。"
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Treefeller",
@@ -86,8 +79,7 @@
     {
       "Key": "Felled {0} tree monsters.",
       "Translation": "砍倒了{0}个树木怪物。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "砍倒了{0}个树木怪物。"
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Dino Hunter",
@@ -97,8 +89,7 @@
     {
       "Key": "Killed {0} dinosaurs.",
       "Translation": "击杀了{0}只恐龙。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "击杀了{0}只恐龙。"
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Warmachine Hunter",
@@ -108,8 +99,7 @@
     {
       "Key": "Killed {0} warmachines.",
       "Translation": "击杀了{0}台战争机器。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "击杀了{0}台战争机器。"
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Demon Hunter",
@@ -119,8 +109,7 @@
     {
       "Key": "Slain {0} greater demons.",
       "Translation": "杀死了{0}个高阶恶魔。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "杀死了{0}个高阶恶魔。"
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Duelist",
@@ -130,8 +119,7 @@
     {
       "Key": "Killed {0} Commanders.",
       "Translation": "击杀了{0}个指挥官。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "击杀了{0}个指挥官。"
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Spellslinger",
@@ -141,8 +129,7 @@
     {
       "Key": "Cast {0} spells.",
       "Translation": "施放了{0}个法术。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "施放了{0}个法术。"
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Coward",
@@ -162,8 +149,7 @@
     {
       "Key": "Rolled {0} ones ({1:P0} of all rolls).",
       "Translation": "掷出了{0}个一点（占总掷骰的{1:P0}）。",
-      "Comment": "Higher tier unlucky achievement",
-      "PluralOne": "掷出了{0}个一点（占总掷骰的{1:P0}）。"
+      "Comment": "Higher tier unlucky achievement"
     },
     {
       "Key": "Last Man Standing",
@@ -203,8 +189,7 @@
     {
       "Key": "Performed {0} flank/rear charges.",
       "Translation": "执行了{0}次侧翼/后方冲锋。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "执行了{0}次侧翼/后方冲锋。"
+      "Comment": "Higher tier achievement"
     },
     {
       "Key": "Dragon Slayers",

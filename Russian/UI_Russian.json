@@ -680,7 +680,9 @@
       "Key": "{0}% gold income",
       "Translation": "{0}% золотого дохода",
       "Comment": "Economy bonus",
-      "PluralOne": "{0}% золотого дохода"
+      "PluralOne": "{0}% золотого дохода",
+      "PluralFew": "{0}% золотого дохода",
+      "PluralMany": "{0}% золотого дохода"
     },
     {
       "Key": "Your regiment returns in the morning. But something has changed them...",
@@ -771,7 +773,9 @@
       "Key": "{0} XP",
       "Translation": "{0} ОП",
       "Comment": "Experience Points",
-      "PluralOne": "{0} ОП"
+      "PluralOne": "{0} ОП",
+      "PluralFew": "{0} ОП",
+      "PluralMany": "{0} ОП"
     },
     {
       "Key": "Defeated by <color=#FFDF7C>",

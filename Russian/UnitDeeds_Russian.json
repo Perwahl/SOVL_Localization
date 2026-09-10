@@ -8,9 +8,11 @@
     },
     {
       "Key": "Passed {0} Break Tests.",
-      "Translation": "Прошел {0} теста на стойкость.",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "Прошел {0} тест на стойкость."
+      "Translation": "Прошел {0} тестов на стойкость.",
+      "Comment": "Russian one/few/many set per CLDR: one for 1, 21, 31...; few for 2-4 (and 22-24); many for 0, 5-20 and the 11-14 trap. Translation holds the many form as the fallback. Case agreement after numerals is worth a native check.",
+      "PluralOne": "Прошел {0} тест на стойкость.",
+      "PluralFew": "Прошел {0} теста на стойкость.",
+      "PluralMany": "Прошел {0} тестов на стойкость."
     },
     {
       "Key": "Dragon Slayer",
@@ -20,8 +22,10 @@
     {
       "Key": "Killed {0} dragons.",
       "Translation": "Убил {0} драконов.",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "Убил {0} дракона."
+      "Comment": "Russian one/few/many set per CLDR: one for 1, 21, 31...; few for 2-4 (and 22-24); many for 0, 5-20 and the 11-14 trap. Translation holds the many form as the fallback. Case agreement after numerals is worth a native check.",
+      "PluralOne": "Убил {0} дракона.",
+      "PluralFew": "Убил {0} драконов.",
+      "PluralMany": "Убил {0} драконов."
     },
     {
       "Key": "Deadly",
@@ -31,8 +35,10 @@
     {
       "Key": "Killed {0} enemies in combat.",
       "Translation": "Убил {0} врагов в боевом столкновении.",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "Убил {0} врага в боевом столкновении."
+      "Comment": "Russian one/few/many set per CLDR: one for 1, 21, 31...; few for 2-4 (and 22-24); many for 0, 5-20 and the 11-14 trap. Translation holds the many form as the fallback. Case agreement after numerals is worth a native check.",
+      "PluralOne": "Убил {0} врага в боевом столкновении.",
+      "PluralFew": "Убил {0} врагов в боевом столкновении.",
+      "PluralMany": "Убил {0} врагов в боевом столкновении."
     },
     {
       "Key": "Marksman",
@@ -42,8 +48,10 @@
     {
       "Key": "Killed {0} enemies with ranged weapons.",
       "Translation": "Убил {0} врагов дальнобойным оружием.",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "Убил {0} врага дальнобойным оружием."
+      "Comment": "Russian one/few/many set per CLDR: one for 1, 21, 31...; few for 2-4 (and 22-24); many for 0, 5-20 and the 11-14 trap. Translation holds the many form as the fallback. Case agreement after numerals is worth a native check.",
+      "PluralOne": "Убил {0} врага дальнобойным оружием.",
+      "PluralFew": "Убил {0} врагов дальнобойным оружием.",
+      "PluralMany": "Убил {0} врагов дальнобойным оружием."
     },
     {
       "Key": "Lucky",
@@ -52,9 +60,11 @@
     },
     {
       "Key": "Rolled {0} natural sixes ({1:P0} of all rolls).",
-      "Translation": "Выбросил {0} шестерки ({1:P0} всех бросков).",
-      "Comment": "Higher tier lucky achievement",
-      "PluralOne": "Выбросил {0} шестерку ({1:P0} всех бросков)."
+      "Translation": "Выбросил {0} шестерок ({1:P0} всех бросков).",
+      "Comment": "Russian one/few/many set per CLDR: one for 1, 21, 31...; few for 2-4 (and 22-24); many for 0, 5-20 and the 11-14 trap. Translation holds the many form as the fallback. Case agreement after numerals is worth a native check.",
+      "PluralOne": "Выбросил {0} шестерку ({1:P0} всех бросков).",
+      "PluralFew": "Выбросил {0} шестерки ({1:P0} всех бросков).",
+      "PluralMany": "Выбросил {0} шестерок ({1:P0} всех бросков)."
     },
     {
       "Key": "Scorer",
@@ -63,9 +73,11 @@
     },
     {
       "Key": "Captured {0} objectives.",
-      "Translation": "Захватил {0} объекта.",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "Захватил {0} объект."
+      "Translation": "Захватил {0} объектов.",
+      "Comment": "Russian one/few/many set per CLDR: one for 1, 21, 31...; few for 2-4 (and 22-24); many for 0, 5-20 and the 11-14 trap. Translation holds the many form as the fallback. Case agreement after numerals is worth a native check.",
+      "PluralOne": "Захватил {0} объект.",
+      "PluralFew": "Захватил {0} объекта.",
+      "PluralMany": "Захватил {0} объектов."
     },
     {
       "Key": "Giant Slayer",
@@ -75,8 +87,10 @@
     {
       "Key": "Killed {0} giants.",
       "Translation": "Убил {0} великанов.",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "Убил {0} великана."
+      "Comment": "Russian one/few/many set per CLDR: one for 1, 21, 31...; few for 2-4 (and 22-24); many for 0, 5-20 and the 11-14 trap. Translation holds the many form as the fallback. Case agreement after numerals is worth a native check.",
+      "PluralOne": "Убил {0} великана.",
+      "PluralFew": "Убил {0} великанов.",
+      "PluralMany": "Убил {0} великанов."
     },
     {
       "Key": "Treefeller",
@@ -85,9 +99,11 @@
     },
     {
       "Key": "Felled {0} tree monsters.",
-      "Translation": "Повалил {0} древесных чудовища.",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "Повалил {0} древесное чудовище."
+      "Translation": "Повалил {0} древесных чудовищ.",
+      "Comment": "Russian one/few/many set per CLDR: one for 1, 21, 31...; few for 2-4 (and 22-24); many for 0, 5-20 and the 11-14 trap. Translation holds the many form as the fallback. Case agreement after numerals is worth a native check.",
+      "PluralOne": "Повалил {0} древесное чудовище.",
+      "PluralFew": "Повалил {0} древесных чудовища.",
+      "PluralMany": "Повалил {0} древесных чудовищ."
     },
     {
       "Key": "Dino Hunter",
@@ -97,8 +113,10 @@
     {
       "Key": "Killed {0} dinosaurs.",
       "Translation": "Убил {0} динозавров.",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "Убил {0} динозавра."
+      "Comment": "Russian one/few/many set per CLDR: one for 1, 21, 31...; few for 2-4 (and 22-24); many for 0, 5-20 and the 11-14 trap. Translation holds the many form as the fallback. Case agreement after numerals is worth a native check.",
+      "PluralOne": "Убил {0} динозавра.",
+      "PluralFew": "Убил {0} динозавров.",
+      "PluralMany": "Убил {0} динозавров."
     },
     {
       "Key": "Warmachine Hunter",
@@ -107,9 +125,11 @@
     },
     {
       "Key": "Killed {0} warmachines.",
-      "Translation": "Убил {0} боевых машины.",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "Убил {0} боевую машину."
+      "Translation": "Уничтожил {0} боевых машин.",
+      "Comment": "Russian one/few/many set per CLDR: one for 1, 21, 31...; few for 2-4 (and 22-24); many for 0, 5-20 and the 11-14 trap. Translation holds the many form as the fallback. Case agreement after numerals is worth a native check.",
+      "PluralOne": "Уничтожил {0} боевую машину.",
+      "PluralFew": "Уничтожил {0} боевые машины.",
+      "PluralMany": "Уничтожил {0} боевых машин."
     },
     {
       "Key": "Demon Hunter",
@@ -118,9 +138,11 @@
     },
     {
       "Key": "Slain {0} greater demons.",
-      "Translation": "Убил {0} больших демона.",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "Убил {0} большого демона."
+      "Translation": "Убил {0} высших демонов.",
+      "Comment": "Russian one/few/many set per CLDR: one for 1, 21, 31...; few for 2-4 (and 22-24); many for 0, 5-20 and the 11-14 trap. Translation holds the many form as the fallback. Case agreement after numerals is worth a native check.",
+      "PluralOne": "Убил {0} высшего демона.",
+      "PluralFew": "Убил {0} высших демонов.",
+      "PluralMany": "Убил {0} высших демонов."
     },
     {
       "Key": "Duelist",
@@ -130,8 +152,10 @@
     {
       "Key": "Killed {0} Commanders.",
       "Translation": "Убил {0} командиров.",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "Убил {0} командира."
+      "Comment": "Russian one/few/many set per CLDR: one for 1, 21, 31...; few for 2-4 (and 22-24); many for 0, 5-20 and the 11-14 trap. Translation holds the many form as the fallback. Case agreement after numerals is worth a native check.",
+      "PluralOne": "Убил {0} командира.",
+      "PluralFew": "Убил {0} командиров.",
+      "PluralMany": "Убил {0} командиров."
     },
     {
       "Key": "Spellslinger",
@@ -140,9 +164,11 @@
     },
     {
       "Key": "Cast {0} spells.",
-      "Translation": "Произнес {0} заклинания.",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "Произнес {0} заклинание."
+      "Translation": "Произнес {0} заклинаний.",
+      "Comment": "Russian one/few/many set per CLDR: one for 1, 21, 31...; few for 2-4 (and 22-24); many for 0, 5-20 and the 11-14 trap. Translation holds the many form as the fallback. Case agreement after numerals is worth a native check.",
+      "PluralOne": "Произнес {0} заклинание.",
+      "PluralFew": "Произнес {0} заклинания.",
+      "PluralMany": "Произнес {0} заклинаний."
     },
     {
       "Key": "Coward",
@@ -161,9 +187,11 @@
     },
     {
       "Key": "Rolled {0} ones ({1:P0} of all rolls).",
-      "Translation": "Выбросил {0} единицы ({1:P0} всех бросков).",
-      "Comment": "Higher tier unlucky achievement",
-      "PluralOne": "Выбросил {0} единицу ({1:P0} всех бросков)."
+      "Translation": "Выбросил {0} единиц ({1:P0} всех бросков).",
+      "Comment": "Russian one/few/many set per CLDR: one for 1, 21, 31...; few for 2-4 (and 22-24); many for 0, 5-20 and the 11-14 trap. Translation holds the many form as the fallback. Case agreement after numerals is worth a native check.",
+      "PluralOne": "Выбросил {0} единицу ({1:P0} всех бросков).",
+      "PluralFew": "Выбросил {0} единицы ({1:P0} всех бросков).",
+      "PluralMany": "Выбросил {0} единиц ({1:P0} всех бросков)."
     },
     {
       "Key": "Last Man Standing",
@@ -202,9 +230,11 @@
     },
     {
       "Key": "Performed {0} flank/rear charges.",
-      "Translation": "Произвел {0} атаки с фланга/тыла.",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "Произвел {0} атаку с фланга/тыла."
+      "Translation": "Произвел {0} атак с фланга/тыла.",
+      "Comment": "Russian one/few/many set per CLDR: one for 1, 21, 31...; few for 2-4 (and 22-24); many for 0, 5-20 and the 11-14 trap. Translation holds the many form as the fallback. Case agreement after numerals is worth a native check.",
+      "PluralOne": "Произвел {0} атаку с фланга/тыла.",
+      "PluralFew": "Произвел {0} атаки с фланга/тыла.",
+      "PluralMany": "Произвел {0} атак с фланга/тыла."
     },
     {
       "Key": "Dragon Slayers",

@@ -679,8 +679,7 @@
     {
       "Key": "{0}% gold income",
       "Translation": "{0}%金币收入",
-      "Comment": "Economic bonus",
-      "PluralOne": "{0}%金币收入"
+      "Comment": "Economic bonus"
     },
     {
       "Key": "Your regiment returns in the morning. But something has changed them...",
@@ -770,8 +769,7 @@
     {
       "Key": "{0} XP",
       "Translation": "{0} XP",
-      "Comment": "Experience Points",
-      "PluralOne": "{0} XP"
+      "Comment": "Experience Points"
     },
     {
       "Key": "Defeated by <color=#FFDF7C>",

@@ -9,8 +9,7 @@
     {
       "Key": "Passed {0} Break Tests.",
       "Translation": "{0}回の試験に合格した。",
-      "Comment": "ゲーム用語: 1回と同じルールで複数化",
-      "PluralOne": "{0}回の試験に合格した。"
+      "Comment": "ゲーム用語: 1回と同じルールで複数化"
     },
     {
       "Key": "Dragon Slayer",
@@ -20,8 +19,7 @@
     {
       "Key": "Killed {0} dragons.",
       "Translation": "ドラゴン{0}体を倒した。",
-      "Comment": "複数敵: 複数形も同じ翻訳パターン",
-      "PluralOne": "ドラゴン{0}体を倒した。"
+      "Comment": "複数敵: 複数形も同じ翻訳パターン"
     },
     {
       "Key": "Deadly",
@@ -31,8 +29,7 @@
     {
       "Key": "Killed {0} enemies in combat.",
       "Translation": "格闘戦で敵{0}体を倒した。",
-      "Comment": "複数敵: 複数形も同じパターン",
-      "PluralOne": "格闘戦で敵{0}体を倒した。"
+      "Comment": "複数敵: 複数形も同じパターン"
     },
     {
       "Key": "Marksman",
@@ -42,8 +39,7 @@
     {
       "Key": "Killed {0} enemies with ranged weapons.",
       "Translation": "遠距離武器で敵{0}体を倒した。",
-      "Comment": "複数敵: 複数形も同じパターン",
-      "PluralOne": "遠距離武器で敵{0}体を倒した。"
+      "Comment": "複数敵: 複数形も同じパターン"
     },
     {
       "Key": "Lucky",
@@ -53,8 +49,7 @@
     {
       "Key": "Rolled {0} natural sixes ({1:P0} of all rolls).",
       "Translation": "自然な6を{0}回出した（全ロールの{1:P0}）。",
-      "Comment": "ゲーム用語: ダイス運に恵まれた成果",
-      "PluralOne": "自然な6を{0}回出した（全ロールの{1:P0}）。"
+      "Comment": "ゲーム用語: ダイス運に恵まれた成果"
     },
     {
       "Key": "Scorer",
@@ -64,8 +59,7 @@
     {
       "Key": "Captured {0} objectives.",
       "Translation": "目標{0}つを占領した。",
-      "Comment": "複数目標: 複数形も同じパターン",
-      "PluralOne": "目標{0}つを占領した。"
+      "Comment": "複数目標: 複数形も同じパターン"
     },
     {
       "Key": "Giant Slayer",
@@ -75,8 +69,7 @@
     {
       "Key": "Killed {0} giants.",
       "Translation": "巨人{0}体を倒した。",
-      "Comment": "複数敵: 複数形も同じパターン",
-      "PluralOne": "巨人{0}体を倒した。"
+      "Comment": "複数敵: 複数形も同じパターン"
     },
     {
       "Key": "Treefeller",
@@ -86,8 +79,7 @@
     {
       "Key": "Felled {0} tree monsters.",
       "Translation": "樹木モンスター{0}体を倒した。",
-      "Comment": "複数敵: 複数形も同じパターン",
-      "PluralOne": "樹木モンスター{0}体を倒した。"
+      "Comment": "複数敵: 複数形も同じパターン"
     },
     {
       "Key": "Dino Hunter",
@@ -97,8 +89,7 @@
     {
       "Key": "Killed {0} dinosaurs.",
       "Translation": "恐竜{0}体を倒した。",
-      "Comment": "複数敵: 複数形も同じパターン",
-      "PluralOne": "恐竜{0}体を倒した。"
+      "Comment": "複数敵: 複数形も同じパターン"
     },
     {
       "Key": "Warmachine Hunter",
@@ -108,8 +99,7 @@
     {
       "Key": "Killed {0} warmachines.",
       "Translation": "ウォーマシン{0}台を倒した。",
-      "Comment": "複数機械: 複数形も同じパターン",
-      "PluralOne": "ウォーマシン{0}台を倒した。"
+      "Comment": "複数機械: 複数形も同じパターン"
     },
     {
       "Key": "Demon Hunter",
@@ -119,8 +109,7 @@
     {
       "Key": "Slain {0} greater demons.",
       "Translation": "上位悪魔{0}体を討滅した。",
-      "Comment": "複数敵: 複数形も同じパターン",
-      "PluralOne": "上位悪魔{0}体を討滅した。"
+      "Comment": "複数敵: 複数形も同じパターン"
     },
     {
       "Key": "Duelist",
@@ -130,8 +119,7 @@
     {
       "Key": "Killed {0} Commanders.",
       "Translation": "司令官{0}人を倒した。",
-      "Comment": "複数敵: 複数形も同じパターン",
-      "PluralOne": "司令官{0}人を倒した。"
+      "Comment": "複数敵: 複数形も同じパターン"
     },
     {
       "Key": "Spellslinger",
@@ -141,8 +129,7 @@
     {
       "Key": "Cast {0} spells.",
       "Translation": "魔法を{0}つ唱えた。",
-      "Comment": "複数魔法: 複数形も同じパターン",
-      "PluralOne": "魔法を{0}つ唱えた。"
+      "Comment": "複数魔法: 複数形も同じパターン"
     },
     {
       "Key": "Coward",
@@ -162,8 +149,7 @@
     {
       "Key": "Rolled {0} ones ({1:P0} of all rolls).",
       "Translation": "1を{0}回出した（全ロールの{1:P0}）。",
-      "Comment": "ゲーム用語: ダイス運に見放された成果",
-      "PluralOne": "{0}を1回出した（全ロールの{1:P0}）。"
+      "Comment": "ゲーム用語: ダイス運に見放された成果"
     },
     {
       "Key": "Last Man Standing",
@@ -203,8 +189,7 @@
     {
       "Key": "Performed {0} flank/rear charges.",
       "Translation": "側面／後方からの突撃{0}回を行った。",
-      "Comment": "複数突撃: 複数形も同じパターン",
-      "PluralOne": "側面／後方からの突撃{0}回を行った。"
+      "Comment": "複数突撃: 複数形も同じパターン"
     },
     {
       "Key": "Dragon Slayers",
