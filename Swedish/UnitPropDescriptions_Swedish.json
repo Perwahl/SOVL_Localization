@@ -62,23 +62,8 @@
       "Comment": "The revised wording is clearer and more idiomatic."
     },
     {
-      "Key": "Range: 20. Power 2.",
-      "Translation": "Räckvidd: 20. Kraft 2.",
-      "Comment": ""
-    },
-    {
-      "Key": "Range: 20. Power 3.",
-      "Translation": "Räckvidd: 20. Kraft 3.",
-      "Comment": ""
-    },
-    {
       "Key": "Range: 30. Power 3.",
       "Translation": "Räckvidd: 30. Kraft 3.",
-      "Comment": ""
-    },
-    {
-      "Key": "Range: 24. Power 4. ",
-      "Translation": "Räckvidd: 24. Kraft 4. ",
       "Comment": ""
     },
     {
@@ -342,16 +327,6 @@
       "Comment": ""
     },
     {
-      "Key": "Range: 20. 2x Power 3.",
-      "Translation": "Räckvidd: 20. 2x Kraft 3.",
-      "Comment": ""
-    },
-    {
-      "Key": "Range: 20. 4x Power 3.",
-      "Translation": "Räckvidd: 20. 4x Kraft 3.",
-      "Comment": ""
-    },
-    {
       "Key": "Range: 30. 3x Power 3.",
       "Translation": "Räckvidd: 30. 3x Kraft 3.",
       "Comment": ""
@@ -375,11 +350,6 @@
       "Key": "Target another friendly unit. It immediately makes a retreat move. One use per battle.",
       "Translation": "Välj en annan vänlig enhet. Den går omedelbart en reträttrörelse. En användning per strid.",
       "Comment": ""
-    },
-    {
-      "Key": "Favoured by Trickery. Unit has Ambush Deployment and +1 Move Speed",
-      "Translation": "Gynnad av list. Enheten har bakhållsplacering och +1 rörelsehastighet",
-      "Comment": "The revised wording is more natural and consistent with the rest of the file."
     },
     {
       "Key": "Favoured by Decay. +1 Wounds. -1 Move Speed.",
@@ -422,234 +392,9 @@
       "Comment": ""
     },
     {
-      "Key": "Range 12. 2D3 Power 3.",
-      "Translation": "Räckvidd 12. 2D3 Kraft 3.",
-      "Comment": ""
-    },
-    {
-      "Key": "Range 12. 2D3 Power 5.",
-      "Translation": "Räckvidd 12. 2D3 Kraft 5.",
-      "Comment": ""
-    },
-    {
-      "Key": "Range 16. 3D3 Power 5.",
-      "Translation": "Räckvidd 16. 3D3 Kraft 5.",
-      "Comment": ""
-    },
-    {
-      "Key": "+6 Movement this turn.",
-      "Translation": "+6 Rörelsehastighet denna omgång.",
-      "Comment": ""
-    },
-    {
-      "Key": "Always counts as being in Cover. -3 Defense in Close Combat. Unit can't charge.",
-      "Translation": "Räknas alltid som i Skydd. -3 Försvar i Närstrid. Enheten kan inte anfalla.",
-      "Comment": ""
-    },
-    {
-      "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 3+.",
-      "Translation": "Anfallsbonus: +1 Kraft \nSkyddskast mot detta vapen blir aldrig bättre än 3+.",
-      "Comment": ""
-    },
-    {
-      "Key": "+1 Defense. Charge Bonus: +2 Power",
-      "Translation": "+1 Försvar. Anfallsbonus: +2 Kraft",
-      "Comment": ""
-    },
-    {
-      "Key": "Range 18. 2x Power 4.",
-      "Translation": "Räckvidd 18. 2x Kraft 4.",
-      "Comment": ""
-    },
-    {
-      "Key": "Range 48. D3 hits, Power 8.",
-      "Translation": "Räckvidd 48. D3 hits, Kraft 8.",
-      "Comment": ""
-    },
-    {
-      "Key": "This units ranged attack deals 2x wounds against multiwound targets.",
-      "Translation": "Denna enhets avståndsattack orsakar 2x sår mot mål med flera sår.",
-      "Comment": ""
-    },
-    {
-      "Key": "Range 48. 2D3+1 hits, Power 4.",
-      "Translation": "Räckvidd 48. 2D3+1 hits, Kraft 4.",
-      "Comment": ""
-    },
-    {
-      "Key": "+1 Defense. -4 Move Speed.",
-      "Translation": "+1 Försvar. -4 Rörelsehastighet.",
-      "Comment": ""
-    },
-    {
-      "Key": "Activate for +4 Movement this turn.",
-      "Translation": "Aktivera för +4 Rörelsehastighet denna omgång.",
-      "Comment": ""
-    },
-    {
-      "Key": "Fly Speed 20. Ignore Terrain.",
-      "Translation": "Flyghastighet 20. Ignorera Terräng.",
-      "Comment": ""
-    },
-    {
-      "Key": "+2 Skill",
-      "Translation": "+2 Färdighet",
-      "Comment": ""
-    },
-    {
       "Key": "+3 Skill",
       "Translation": "+3 Färdighet",
       "Comment": ""
-    },
-    {
-      "Key": "One use, +2 Power and + 1 Attack until end of turn.",
-      "Translation": "En användning, +2 Kraft och + 1 Attack till slutet av omgången.",
-      "Comment": ""
-    },
-    {
-      "Key": "D6 Power 5 hits. Range 30.",
-      "Translation": "D6 Kraft 5 hits. Räckvidd 30.",
-      "Comment": ""
-    },
-    {
-      "Key": "3 x Power 3 hits. Range: 18.",
-      "Translation": "3 x Kraft 3 hits. Räckvidd: 18.",
-      "Comment": ""
-    },
-    {
-      "Key": "Target unit has -2 Defense for one turn.",
-      "Translation": "Målenheten har -2 Försvar under en omgång.",
-      "Comment": ""
-    },
-    {
-      "Key": "Charge Bonus: +2 Power +2 Attacks",
-      "Translation": "Anfallsbonus: +2 Kraft +2 Attacker",
-      "Comment": ""
-    },
-    {
-      "Key": "Range 48. 3x Power 6.",
-      "Translation": "Räckvidd 48. 3x Kraft 6.",
-      "Comment": ""
-    },
-    {
-      "Key": "Range 48. 2D3 hits, Power 5.",
-      "Translation": "Räckvidd 48. 2D3 träffar, Kraft 5.",
-      "Comment": ""
-    },
-    {
-      "Key": "Enemies re-roll 6s on Damage Saves.",
-      "Translation": "Fiender slår om 6:or på Skyddskast.",
-      "Comment": ""
-    },
-    {
-      "Key": "Reduce an enemy units Move Speed by 4. Range 12.",
-      "Translation": "Minska en fiendeenhets Rörelsehastighet med 4. Räckvidd 12.",
-      "Comment": ""
-    },
-    {
-      "Key": "3D6 Power 1 hits. Range 18.",
-      "Translation": "3D6 Kraft 1 hits. Räckvidd 18.",
-      "Comment": ""
-    },
-    {
-      "Key": "Caster has +1 Power,  +1 Defense and +2 Attacks for one turn.",
-      "Translation": "Besvärjaren har +1 Kraft,  +1 Försvar och +2 Attacker under en omgång.",
-      "Comment": ""
-    },
-    {
-      "Key": "Range 8. 1D6 power 4. One use per battle.",
-      "Translation": "Räckvidd 8. 1D6 Kraft 4. En användning per strid.",
-      "Comment": ""
-    },
-    {
-      "Key": "Retinue has +3 Move Speed",
-      "Translation": "Följet har +3 Rörelsehastighet",
-      "Comment": ""
-    },
-    {
-      "Key": "Target Warmachine gets +3 Defense and rerolls 1s on Ranged Attack rolls this battle.",
-      "Translation": "Målenheten, en krigsmaskin, får +3 försvar och slår om 1:or på avståndsattackslag i denna strid.",
-      "Comment": "The revised phrasing is clearer and more natural in Swedish."
-    },
-    {
-      "Key": "Caster and retinue gains Flying and Move Speed 20 for one turn",
-      "Translation": "Besvärjaren och Följet får Flygande och Rörelsehastighet 20 under en omgång",
-      "Comment": ""
-    },
-    {
-      "Key": "Range: 12. Power 2.",
-      "Translation": "Räckvidd: 12. Kraft 2.",
-      "Comment": ""
-    },
-    {
-      "Key": "Range: 12. Power 3.",
-      "Translation": "Räckvidd: 12. Kraft 3.",
-      "Comment": ""
-    },
-    {
-      "Key": "Throw a boulder at an enemy unit. Range 18, 2D3 Power 5.",
-      "Translation": "Kasta ett stenblock mot en fiendeenhet. Räckvidd 18, 2D3 Kraft 5.",
-      "Comment": ""
-    },
-    {
-      "Key": "+2 Attacks this turn. Activate once per battle when wounded.",
-      "Translation": "+2 Attacker denna omgång. Aktivera en gång per strid när enheten är sårad.",
-      "Comment": ""
-    },
-    {
-      "Key": "Range: 12. 4x Power 3.",
-      "Translation": "Räckvidd: 12. 4x Kraft 3.",
-      "Comment": ""
-    },
-    {
-      "Key": "All enemy units have -3 Discipline for one turn. Can only be  activated when damaged.",
-      "Translation": "Alla fiendeenheter har -3 disciplin under en omgång. Kan endast aktiveras när de är skadade.",
-      "Comment": "This reads more naturally and removes a small awkwardness."
-    },
-    {
-      "Key": "Range: 8. Power 2.",
-      "Translation": "Räckvidd: 8. Kraft 2.",
-      "Comment": ""
-    },
-    {
-      "Key": "Range 48. Power 5.",
-      "Translation": "Räckvidd 48. Kraft 5.",
-      "Comment": ""
-    },
-    {
-      "Key": "Range 12. D3 Power 4.",
-      "Translation": "Räckvidd 12. D3 Kraft 4.",
-      "Comment": ""
-    },
-    {
-      "Key": "Range 12. D3 Power 5.",
-      "Translation": "Räckvidd 12. D3 Kraft 5.",
-      "Comment": ""
-    },
-    {
-      "Key": "Retinue gets +3 Movement Speed and re-rolls missed Attack Rolls for one Turn. It loses one model.",
-      "Translation": "Följet får +3 Rörelsehastighet och slår om missade Attackslag under en omgång. Det förlorar en modell.",
-      "Comment": ""
-    },
-    {
-      "Key": "Activate once per battle. Melee attacks deal 3x wounds against multiwound targets for one turn.",
-      "Translation": "Aktivera en gång per strid. Närstridsattacker orsakar 3x sår mot mål med flera sår under en omgång.",
-      "Comment": ""
-    },
-    {
-      "Key": "Range: 24. Power 3.",
-      "Translation": "Räckvidd: 24. Kraft 3.",
-      "Comment": ""
-    },
-    {
-      "Key": "Activate for +4 Movement and Flying for one turn.",
-      "Translation": "Aktivera för +4 Rörelsehastighet och Flygande under en omgång.",
-      "Comment": ""
-    },
-    {
-      "Key": "Once per battle, all friendly units with Gift of War gain Deadly Strikes (3x Wounds caused).",
-      "Translation": "En gång per strid får alla vänliga enheter med Krigets gåva dödliga slag (orsakar 3x sår).",
-      "Comment": "This is more natural and consistent with the game’s tone."
     },
     {
       "Key": "+1 Power, +1 Attack",
@@ -662,23 +407,8 @@
       "Comment": ""
     },
     {
-      "Key": "+2 Wounds",
-      "Translation": "+2 Sår",
-      "Comment": ""
-    },
-    {
       "Key": "+3 Wounds",
       "Translation": "+3 Sår",
-      "Comment": ""
-    },
-    {
-      "Key": "+2 Ranged Attack",
-      "Translation": "+2 Avståndsattack",
-      "Comment": ""
-    },
-    {
-      "Key": "+2 Ranged Attack, +1 Power to Ranged Attacks",
-      "Translation": "+2 Avståndsattack, +1 Kraft för Avståndsattacker",
       "Comment": ""
     },
     {
@@ -687,34 +417,14 @@
       "Comment": ""
     },
     {
-      "Key": "+2 Spell Attacks",
-      "Translation": "+2 Besvärjelseattacker",
-      "Comment": ""
-    },
-    {
       "Key": "+3 Spell Attack",
       "Translation": "+3 Besvärjelseattack",
       "Comment": ""
     },
     {
-      "Key": "+2 Attack",
-      "Translation": "+2 Attack",
-      "Comment": "Source uses singular 'Attack' with a +3 modifier; kept singular in Swedish to mirror the original stat label formatting."
-    },
-    {
       "Key": "+3 Attack",
       "Translation": "+3 Attack",
       "Comment": "Source uses singular 'Attack' with a +3 modifier; kept singular in Swedish to mirror the original stat label formatting."
-    },
-    {
-      "Key": "+2 Ranged Attacks",
-      "Translation": "+2 Avståndsattacker",
-      "Comment": ""
-    },
-    {
-      "Key": "+2 Discipline",
-      "Translation": "+2 Disciplin",
-      "Comment": ""
     },
     {
       "Key": "Unit rerolls 1s on Ranged Attack Rolls.",
@@ -792,29 +502,9 @@
       "Comment": ""
     },
     {
-      "Key": "Target unit gets +2 Power in their next combat round.",
-      "Translation": "Målenheten får +2 Kraft i sin nästa stridsomgång.",
-      "Comment": ""
-    },
-    {
       "Key": "All units gets +1 Skill and rerolls failed Discipline tests this turn.",
       "Translation": "Alla enheter får +1 Färdighet och slår om misslyckade Disciplintest denna omgång.",
       "Comment": ""
-    },
-    {
-      "Key": "2D6 Power 5 hits. Range 30.",
-      "Translation": "2D6 Kraft 5 hits. Räckvidd 30.",
-      "Comment": ""
-    },
-    {
-      "Key": "Target unit has +2 Power and rerolls missed Attack Rolls this turn.",
-      "Translation": "Målenheten har +2 Kraft och slår om missade Attackslag denna omgång.",
-      "Comment": ""
-    },
-    {
-      "Key": "Raise 3D3+3 models on a Zombie or Skeleton Warrior, Spear or Archer unit.",
-      "Translation": "Återuppväck 3D3+3 modeller i en enhet med Zombier eller Skelettkrigare, Spjut eller Bågskyttar.",
-      "Comment": "Translated the compressed unit-type shorthand literally; align with localized unit names if those are standardized elsewhere."
     },
     {
       "Key": "Restore D3+1 wounds to a Reanimated unit, and give it +1 Power and Defense this turn.",
@@ -829,11 +519,6 @@
     {
       "Key": "Target unit has -3 Defense and Power until end of turn.",
       "Translation": "Målenheten har -3 Försvar och Kraft till slutet av omgången.",
-      "Comment": ""
-    },
-    {
-      "Key": "3 x Power 5 hits. Range: 24.",
-      "Translation": "3 x Kraft 5 hits. Räckvidd: 24.",
       "Comment": ""
     },
     {
@@ -852,23 +537,8 @@
       "Comment": ""
     },
     {
-      "Key": "Caster has +1 Power,  +1 Defense and +4 Attacks this turn.",
-      "Translation": "Besvärjaren har +1 Kraft,  +1 Försvar och +4 Attacker denna omgång.",
-      "Comment": ""
-    },
-    {
-      "Key": "3D6 Power 2 hits. Range 18.",
-      "Translation": "3D6 Kraft 2 hits. Räckvidd 18.",
-      "Comment": ""
-    },
-    {
       "Key": "Unit can fire ranged weapons in one additional rank.\nRerolls 1s on Ranged Attack Rolls.",
       "Translation": "Enheten kan avfyra avståndsvapen i ett extra led.\nSlår om 1:or på Avståndsattackslag.",
-      "Comment": ""
-    },
-    {
-      "Key": "Ranged attack range increased by 5.",
-      "Translation": "Avståndsattackens räckvidd ökar med 5.",
       "Comment": ""
     },
     {
@@ -902,16 +572,6 @@
       "Comment": ""
     },
     {
-      "Key": "Unit has +5 range for Ranged attacks.",
-      "Translation": "Enheten har +5 räckvidd för Avståndsattacker.",
-      "Comment": ""
-    },
-    {
-      "Key": "Unit has +3 range for Ranged attacks and ignores penalties for difficult terrain.",
-      "Translation": "Enheten har +3 räckvidd för Avståndsattacker och ignorerar straff från Svår Terräng.",
-      "Comment": ""
-    },
-    {
       "Key": "Unit has +1 to Combat Score.",
       "Translation": "Enheten har +1 Stridsvärde.",
       "Comment": ""
@@ -937,28 +597,8 @@
       "Comment": ""
     },
     {
-      "Key": "+2 Attacks, -1 Skill.",
-      "Translation": "+2 Attacker, -1 Färdighet.",
-      "Comment": ""
-    },
-    {
       "Key": "+1 Ranged Attack, -1 Skill.",
       "Translation": "+1 Avståndsattack, -1 Färdighet.",
-      "Comment": ""
-    },
-    {
-      "Key": "Range 12. 2D3 Power 5. -1 Defense.",
-      "Translation": "Räckvidd 12. 2D3 Kraft 5. -1 Försvar.",
-      "Comment": ""
-    },
-    {
-      "Key": "Range 12. D3 Power 5. -1 Defense.",
-      "Translation": "Räckvidd 12. D3 Kraft 5. -1 Försvar.",
-      "Comment": ""
-    },
-    {
-      "Key": "Fly Speed 14. Ignore Terrain. -1 Discipline.",
-      "Translation": "Flyghastighet 14. Ignorera Terräng. -1 Disciplin.",
       "Comment": ""
     },
     {
@@ -987,21 +627,6 @@
       "Comment": ""
     },
     {
-      "Key": "+2 Wounds. -1 Move Speed.",
-      "Translation": "+2 Sår. -1 Rörelsehastighet.",
-      "Comment": ""
-    },
-    {
-      "Key": "+5 range to Ranged Attacks",
-      "Translation": "+5 räckvidd för Avståndsattacker",
-      "Comment": ""
-    },
-    {
-      "Key": "+3 range to Ranged Attacks. Damage saves against units Ranged Attack are reduced by 1.",
-      "Translation": "+3 räckvidd för Avståndsattacker. Skyddskast mot enhetens Avståndsattack minskas med 1.",
-      "Comment": ""
-    },
-    {
       "Key": "Unit gets supporting attacks from one extra rank.",
       "Translation": "Enheten får stödattacker från ett extra led.",
       "Comment": ""
@@ -1027,18 +652,8 @@
       "Comment": ""
     },
     {
-      "Key": "Lethal Attacks. (2x wounds)",
-      "Translation": "Dödliga attacker. (Orsakar 2x sår)",
-      "Comment": ""
-    },
-    {
       "Key": "Regeneration. (restores all wounds at end of turn)",
       "Translation": "Regenerering. (Återställer alla sår i slutet av omgången)",
-      "Comment": ""
-    },
-    {
-      "Key": "Poisoned Attacks (enemies re-roll 6s on Damage Saves)",
-      "Translation": "Förgiftade Attacker (fiender slår om 6:or på Skyddskast)",
       "Comment": ""
     },
     {
@@ -1062,11 +677,6 @@
       "Comment": ""
     },
     {
-      "Key": "All your units have +1 Power  and +2 Move Speed for one turn.",
-      "Translation": "Alla dina enheter har +1 Kraft  och +2 Rörelsehastighet under en omgång.",
-      "Comment": ""
-    },
-    {
       "Key": "Earns 1 gold for each enemy killed in Combat.",
       "Translation": "Ger 1 guld för varje fiende som dödas i strid.",
       "Comment": ""
@@ -1074,11 +684,6 @@
     {
       "Key": "All friendly units counts as being in Cover against ranged attacks untill it's next combat.",
       "Translation": "Alla vänliga enheter räknas som i Skydd mot avståndsattacker tills deras nästa strid.",
-      "Comment": ""
-    },
-    {
-      "Key": "Target unit gets +2 to Damage Saves this turn.",
-      "Translation": "Målenheten får +2 på Skyddskast denna omgång.",
       "Comment": ""
     },
     {
@@ -1097,11 +702,6 @@
       "Comment": ""
     },
     {
-      "Key": "Poisoned Attacks. (Opponent rerolls 3s on Damage Saves)\n+1 Wounds",
-      "Translation": "Förgiftade Attacker. (Motståndaren slår om 3:or på Skyddskast)\n+1 HP",
-      "Comment": ""
-    },
-    {
       "Key": "Once per battle: Gain Flying for one turn. \n+1 Move Speed",
       "Translation": "En gång per strid: Få Flygande under en omgång. \n+1 Rörelsehastighet",
       "Comment": ""
@@ -1114,11 +714,6 @@
     {
       "Key": "Once per battle, all friendly units with Gift of Trickery gain +3 move speed and Cover.\nAmbush Deployment.\n",
       "Translation": "En gång per strid får alla vänliga enheter med Listens gåva +3 Rörelsehastighet och Skydd.\nBakhållsplacering.\n",
-      "Comment": ""
-    },
-    {
-      "Key": "Once per battle, all friendly units with Gift of War gain Deadly Strikes  (3x Wounds caused).\nCommander has Deadly Strikes.\n",
-      "Translation": "En gång per strid får alla vänliga enheter med Krigets gåva Dödliga slag  (orsakar 3x sår).\nBefälhavaren har Dödliga slag.\n",
       "Comment": ""
     },
     {
@@ -1142,11 +737,6 @@
       "Comment": ""
     },
     {
-      "Key": "These arrows deal 2x wounds against multiwound targets.",
-      "Translation": "Dessa pilar orsakar 2x HP mot mål med flera HP.",
-      "Comment": ""
-    },
-    {
       "Key": "Gain +3 ranged attacks.",
       "Translation": "Få +3 avståndsattacker.",
       "Comment": ""
@@ -1157,13 +747,453 @@
       "Comment": ""
     },
     {
-      "Key": "Re-rolls missed ranged Attack rolls.  Retinue has +3 Move Speed",
-      "Translation": "Slår om missade Avståndsattackslag.  Följet har +3 Rörelsehastighet",
+      "Key": "Favoured by Trickery. Unit has Ambush Deployment and +1 Move Speed. Can Flee from Charges.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 20. Power 2.",
+      "Translation": "Räckvidd: 20. Kraft 2.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 20. Power 3.",
+      "Translation": "Räckvidd: 20. Kraft 3.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 24. Power 4. ",
+      "Translation": "Räckvidd: 24. Kraft 4. ",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 20. 2x Power 3.",
+      "Translation": "Räckvidd: 20. 2x Kraft 3.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 20. 4x Power 3.",
+      "Translation": "Räckvidd: 20. 4x Kraft 3.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 12. 2D3 Power 3.",
+      "Translation": "Räckvidd 12. 2D3 Kraft 3.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 12. 2D3 Power 5.",
+      "Translation": "Räckvidd 12. 2D3 Kraft 5.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 16. 3D3 Power 5.",
+      "Translation": "Räckvidd 16. 3D3 Kraft 5.",
+      "Comment": ""
+    },
+    {
+      "Key": "+6 Movement this turn.",
+      "Translation": "+6 Rörelsehastighet denna omgång.",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Defense. Charge Bonus: +2 Power",
+      "Translation": "+1 Försvar. Anfallsbonus: +2 Kraft",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 18. 2x Power 4.",
+      "Translation": "Räckvidd 18. 2x Kraft 4.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 48. D3 hits, Power 8.",
+      "Translation": "Räckvidd 48. D3 hits, Kraft 8.",
+      "Comment": ""
+    },
+    {
+      "Key": "This units ranged attack deals 2x wounds against multiwound targets.",
+      "Translation": "Denna enhets avståndsattack orsakar 2x sår mot mål med flera sår.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 48. 2D3+1 hits, Power 4.",
+      "Translation": "Räckvidd 48. 2D3+1 hits, Kraft 4.",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Defense. -4 Move Speed.",
+      "Translation": "+1 Försvar. -4 Rörelsehastighet.",
+      "Comment": ""
+    },
+    {
+      "Key": "Activate for +4 Movement this turn.",
+      "Translation": "Aktivera för +4 Rörelsehastighet denna omgång.",
+      "Comment": ""
+    },
+    {
+      "Key": "Fly Speed 20. Ignore Terrain.",
+      "Translation": "Flyghastighet 20. Ignorera Terräng.",
+      "Comment": ""
+    },
+    {
+      "Key": "+2 Skill",
+      "Translation": "+2 Färdighet",
+      "Comment": ""
+    },
+    {
+      "Key": "One use, +2 Power and + 1 Attack until end of turn.",
+      "Translation": "En användning, +2 Kraft och + 1 Attack till slutet av omgången.",
+      "Comment": ""
+    },
+    {
+      "Key": "D6 Power 5 hits. Range 30.",
+      "Translation": "D6 Kraft 5 hits. Räckvidd 30.",
+      "Comment": ""
+    },
+    {
+      "Key": "3 x Power 3 hits. Range: 18.",
+      "Translation": "3 x Kraft 3 hits. Räckvidd: 18.",
+      "Comment": ""
+    },
+    {
+      "Key": "Target unit has -2 Defense for one turn.",
+      "Translation": "Målenheten har -2 Försvar under en omgång.",
+      "Comment": ""
+    },
+    {
+      "Key": "Charge Bonus: +2 Power +2 Attacks",
+      "Translation": "Anfallsbonus: +2 Kraft +2 Attacker",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 48. 3x Power 6.",
+      "Translation": "Räckvidd 48. 3x Kraft 6.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 48. 2D3 hits, Power 5.",
+      "Translation": "Räckvidd 48. 2D3 träffar, Kraft 5.",
+      "Comment": ""
+    },
+    {
+      "Key": "Enemies re-roll 6s on Damage Saves.",
+      "Translation": "Fiender slår om 6:or på Skyddskast.",
+      "Comment": ""
+    },
+    {
+      "Key": "Reduce an enemy units Move Speed by 4. Range 12.",
+      "Translation": "Minska en fiendeenhets Rörelsehastighet med 4. Räckvidd 12.",
+      "Comment": ""
+    },
+    {
+      "Key": "3D6 Power 1 hits. Range 18.",
+      "Translation": "3D6 Kraft 1 hits. Räckvidd 18.",
+      "Comment": ""
+    },
+    {
+      "Key": "Caster has +1 Power,  +1 Defense and +2 Attacks for one turn.",
+      "Translation": "Besvärjaren har +1 Kraft,  +1 Försvar och +2 Attacker under en omgång.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 8. 1D6 power 4. One use per battle.",
+      "Translation": "Räckvidd 8. 1D6 Kraft 4. En användning per strid.",
+      "Comment": ""
+    },
+    {
+      "Key": "Caster and retinue gains Flying and Move Speed 20 for one turn",
+      "Translation": "Besvärjaren och Följet får Flygande och Rörelsehastighet 20 under en omgång",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 12. Power 2.",
+      "Translation": "Räckvidd: 12. Kraft 2.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 12. Power 3.",
+      "Translation": "Räckvidd: 12. Kraft 3.",
+      "Comment": ""
+    },
+    {
+      "Key": "Throw a boulder at an enemy unit. Range 18, 2D3 Power 5.",
+      "Translation": "Kasta ett stenblock mot en fiendeenhet. Räckvidd 18, 2D3 Kraft 5.",
+      "Comment": ""
+    },
+    {
+      "Key": "+2 Attacks this turn. Activate once per battle when wounded.",
+      "Translation": "+2 Attacker denna omgång. Aktivera en gång per strid när enheten är sårad.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 12. 4x Power 3.",
+      "Translation": "Räckvidd: 12. 4x Kraft 3.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 8. Power 2.",
+      "Translation": "Räckvidd: 8. Kraft 2.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 48. Power 5.",
+      "Translation": "Räckvidd 48. Kraft 5.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 12. D3 Power 4.",
+      "Translation": "Räckvidd 12. D3 Kraft 4.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 12. D3 Power 5.",
+      "Translation": "Räckvidd 12. D3 Kraft 5.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 24. Power 3.",
+      "Translation": "Räckvidd: 24. Kraft 3.",
+      "Comment": ""
+    },
+    {
+      "Key": "Activate for +4 Movement and Flying for one turn.",
+      "Translation": "Aktivera för +4 Rörelsehastighet och Flygande under en omgång.",
+      "Comment": ""
+    },
+    {
+      "Key": "+2 Wounds",
+      "Translation": "+2 Sår",
+      "Comment": ""
+    },
+    {
+      "Key": "+2 Ranged Attack",
+      "Translation": "+2 Avståndsattack",
+      "Comment": ""
+    },
+    {
+      "Key": "+2 Ranged Attack, +1 Power to Ranged Attacks",
+      "Translation": "+2 Avståndsattack, +1 Kraft för Avståndsattacker",
+      "Comment": ""
+    },
+    {
+      "Key": "+2 Spell Attacks",
+      "Translation": "+2 Besvärjelseattacker",
+      "Comment": ""
+    },
+    {
+      "Key": "+2 Attack",
+      "Translation": "+2 Attack",
+      "Comment": "Source uses singular 'Attack' with a +3 modifier; kept singular in Swedish to mirror the original stat label formatting."
+    },
+    {
+      "Key": "+2 Ranged Attacks",
+      "Translation": "+2 Avståndsattacker",
+      "Comment": ""
+    },
+    {
+      "Key": "+2 Discipline",
+      "Translation": "+2 Disciplin",
+      "Comment": ""
+    },
+    {
+      "Key": "Target unit gets +2 Power in their next combat round.",
+      "Translation": "Målenheten får +2 Kraft i sin nästa stridsomgång.",
+      "Comment": ""
+    },
+    {
+      "Key": "2D6 Power 5 hits. Range 30.",
+      "Translation": "2D6 Kraft 5 hits. Räckvidd 30.",
+      "Comment": ""
+    },
+    {
+      "Key": "Target unit has +2 Power and rerolls missed Attack Rolls this turn.",
+      "Translation": "Målenheten har +2 Kraft och slår om missade Attackslag denna omgång.",
+      "Comment": ""
+    },
+    {
+      "Key": "3 x Power 5 hits. Range: 24.",
+      "Translation": "3 x Kraft 5 hits. Räckvidd: 24.",
+      "Comment": ""
+    },
+    {
+      "Key": "Caster has +1 Power,  +1 Defense and +4 Attacks this turn.",
+      "Translation": "Besvärjaren har +1 Kraft,  +1 Försvar och +4 Attacker denna omgång.",
+      "Comment": ""
+    },
+    {
+      "Key": "3D6 Power 2 hits. Range 18.",
+      "Translation": "3D6 Kraft 2 hits. Räckvidd 18.",
+      "Comment": ""
+    },
+    {
+      "Key": "Ranged attack range increased by 5.",
+      "Translation": "Avståndsattackens räckvidd ökar med 5.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit has +5 range for Ranged attacks.",
+      "Translation": "Enheten har +5 räckvidd för Avståndsattacker.",
+      "Comment": ""
+    },
+    {
+      "Key": "+2 Attacks, -1 Skill.",
+      "Translation": "+2 Attacker, -1 Färdighet.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 12. 2D3 Power 5. -1 Defense.",
+      "Translation": "Räckvidd 12. 2D3 Kraft 5. -1 Försvar.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 12. D3 Power 5. -1 Defense.",
+      "Translation": "Räckvidd 12. D3 Kraft 5. -1 Försvar.",
+      "Comment": ""
+    },
+    {
+      "Key": "Fly Speed 14. Ignore Terrain. -1 Discipline.",
+      "Translation": "Flyghastighet 14. Ignorera Terräng. -1 Disciplin.",
+      "Comment": ""
+    },
+    {
+      "Key": "+2 Wounds. -1 Move Speed.",
+      "Translation": "+2 Sår. -1 Rörelsehastighet.",
+      "Comment": ""
+    },
+    {
+      "Key": "+5 range to Ranged Attacks",
+      "Translation": "+5 räckvidd för Avståndsattacker",
+      "Comment": ""
+    },
+    {
+      "Key": "Lethal Attacks. (2x wounds)",
+      "Translation": "Dödliga attacker. (Orsakar 2x sår)",
+      "Comment": ""
+    },
+    {
+      "Key": "Poisoned Attacks (enemies re-roll 6s on Damage Saves)",
+      "Translation": "Förgiftade Attacker (fiender slår om 6:or på Skyddskast)",
+      "Comment": ""
+    },
+    {
+      "Key": "All your units have +1 Power  and +2 Move Speed for one turn.",
+      "Translation": "Alla dina enheter har +1 Kraft  och +2 Rörelsehastighet under en omgång.",
+      "Comment": ""
+    },
+    {
+      "Key": "Target unit gets +2 to Damage Saves this turn.",
+      "Translation": "Målenheten får +2 på Skyddskast denna omgång.",
+      "Comment": ""
+    },
+    {
+      "Key": "These arrows deal 2x wounds against multiwound targets.",
+      "Translation": "Dessa pilar orsakar 2x HP mot mål med flera HP.",
       "Comment": ""
     },
     {
       "Key": "Range 48. Power 4. Deadly Shots (Deals 2x Wounds)",
       "Translation": "Räckvidd 48. Kraft 4. Dödliga skott (Orsakar 2x Skada)",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Power for Ranged Attack",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Power when charging.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "+4 Movement",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "+5 range to Ranged Attacks. Damage saves against units Ranged Attack are reduced by 1.",
+      "Translation": "+5 räckvidd för Avståndsattacker. Skyddskast mot enhetens Avståndsattack minskas med 1.",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "Activate once per battle. Melee attacks deal 2x wounds against multiwound targets for one turn.",
+      "Translation": "Aktivera en gång per strid. Närstridsattacker orsakar 2x sår mot mål med flera sår under en omgång.",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "Activate: For one turn, Commander and Retinue gains +2 to Damages Saves. Attacks set to 0.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "All enemy units have -2 Discipline for one turn. Can only be  activated when damaged.",
+      "Translation": "Alla fiendeenheter har -2 disciplin under en omgång. Kan endast aktiveras när de är skadade.",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "Always counts as being in Cover. -2 Defense in Close Combat. Unit can't charge.",
+      "Translation": "Räknas alltid som i Skydd. -2 Försvar i Närstrid. Enheten kan inte anfalla.",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "Once per battle, all friendly units with Gift of War gain Deadly Strikes  (2x Wounds caused).\nCommander has Deadly Strikes.\n",
+      "Translation": "En gång per strid får alla vänliga enheter med Krigets gåva Dödliga slag  (orsakar 2x sår).\nBefälhavaren har Dödliga slag.\n",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "Once per battle, all friendly units with Gift of War gain Deadly Strikes (2x Wounds caused).",
+      "Translation": "En gång per strid får alla vänliga enheter med Krigets gåva dödliga slag (orsakar 2x sår).",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "Poisoned Attacks. (Opponent rerolls 6s on Damage Saves)\n+1 Wounds",
+      "Translation": "Förgiftade Attacker. (Motståndaren slår om 6:or på Skyddskast)\n+1 HP",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "Raise 2D3+3 models on a Zombie or Skeleton Warrior, Spear or Archer unit.",
+      "Translation": "Återuppväck 2D3+3 modeller i en enhet med Zombier eller Skelettkrigare, Spjut eller Bågskyttar.",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "Re-rolls missed ranged Attack rolls. Retinue has +2 Move Speed",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Retinue gets +2 Movement Speed and re-rolls missed Attack Rolls for one Turn. It loses one model.",
+      "Translation": "Följet får +2 Rörelsehastighet och slår om missade Attackslag under en omgång. Det förlorar en modell.",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "Target Unit has -3 Discipline for one turn. Activate once per battle.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Target Warmachine gets +2 Defense and rerolls 1s on Ranged Attack rolls this battle.",
+      "Translation": "Målenheten, en krigsmaskin, får +2 försvar och slår om 1:or på avståndsattackslag i denna strid.",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "This units melee attacks deal 2x wounds against multiwound targets.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit has +2 Move Speed and +1 to Ranged Attack Rolls.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit has +5 range for Ranged attacks and ignores penalties for difficult terrain.",
+      "Translation": "Enheten har +5 räckvidd för Avståndsattacker och ignorerar straff från Svår Terräng.",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "Unit is Fearless. Charge Bonus: +1 Attack",
+      "Translation": "",
       "Comment": ""
     }
   ]

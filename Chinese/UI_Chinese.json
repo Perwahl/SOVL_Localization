@@ -1150,7 +1150,7 @@
     },
     {
       "Key": "The <color=#96FAFF>Power</color> stat describes a unit's physical strength and striking power. It's used in combat to overcome an opponent's <color=#96FAFF>Defense</color>.",
-      "Translation": "该<color=#96FAFF>力量</color>属性描述了一个单位的物理力量和打击力。它在战斗中用于克服对手的<color=#96FAFF>防御",
+      "Translation": "该<color=#96FAFF>力量</color>属性描述了一个单位的物理力量和打击力。它在战斗中用于克服对手的<color=#96FAFF>防御</color>。",
       "Comment": "Stat explanation"
     },
     {
