@@ -2417,6 +2417,31 @@
       "Comment": ""
     },
     {
+      "Key": "version 99",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Single Player",
+      "Translation": "シングルプレイ",
+      "Comment": ""
+    },
+    {
+      "Key": "Mods",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Mods ",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Mods\n",
+      "Translation": "モッド\n",
+      "Comment": ""
+    },
+    {
       "Key": "Great Weapon <color=#B6F595>+1",
       "Translation": "大武器 <color=#B6F595>+1",
       "Comment": "Rich text formatting preserved"

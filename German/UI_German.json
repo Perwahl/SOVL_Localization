@@ -2419,6 +2419,31 @@
       "Comment": ""
     },
     {
+      "Key": "version 99",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Single Player",
+      "Translation": "Einzelspieler",
+      "Comment": ""
+    },
+    {
+      "Key": "Mods",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Mods ",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Mods\n",
+      "Translation": "Mods\n",
+      "Comment": ""
+    },
+    {
       "Key": "Great Weapon <color=#B6F595>+1",
       "Translation": "Große Waffe <color=#B6F595>+1",
       "Comment": ""

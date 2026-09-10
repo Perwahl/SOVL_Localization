@@ -2417,6 +2417,31 @@
       "Comment": ""
     },
     {
+      "Key": "version 99",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Single Player",
+      "Translation": "单人游戏",
+      "Comment": ""
+    },
+    {
+      "Key": "Mods",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Mods ",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Mods\n",
+      "Translation": "模组\n",
+      "Comment": ""
+    },
+    {
       "Key": "Great Weapon <color=#B6F595>+1",
       "Translation": "巨型武器<color=#B6F595>+1",
       "Comment": "Equipment bonus"

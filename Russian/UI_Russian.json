@@ -2423,6 +2423,31 @@
       "Comment": ""
     },
     {
+      "Key": "version 99",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Single Player",
+      "Translation": "Одиночная игра",
+      "Comment": ""
+    },
+    {
+      "Key": "Mods",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Mods ",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Mods\n",
+      "Translation": "Моды\n",
+      "Comment": ""
+    },
+    {
       "Key": "Great Weapon <color=#B6F595>+1",
       "Translation": "Великое оружие <color=#B6F595>+1",
       "Comment": "Weapon item"
