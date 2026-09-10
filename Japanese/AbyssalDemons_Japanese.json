@@ -8,8 +8,8 @@
     },
     {
       "Key": "Abyssal Vipers",
-      "Translation": "深淵の蝰",
-      "Comment": "蝰 = venomous snake/viper. Maintains sense of sinister serpentine nature."
+      "Translation": "深淵の毒蛇",
+      "Comment": "蝰 (viper) has no glyph in Noto Sans JP or SC, so it rendered as a box. 毒蛇 reads as viper/venomous serpent and uses characters both fonts have."
     },
     {
       "Key": "Devilspawn",
