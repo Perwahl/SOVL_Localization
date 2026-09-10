@@ -8,7 +8,7 @@
     },
     {
       "Key": "+1 Movement",
-      "Translation": "+1移动",
+      "Translation": "+1移动速度",
       "Comment": "Increases unit mobility"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "Key": "-1 Movement. +1 Defense",
-      "Translation": "-1移动。+1防御",
+      "Translation": "-1移动速度。+1防御",
       "Comment": "Tradeoff: slower but more resilient unit"
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor.",
-      "Translation": "-1移动。忽视来自重甲的移动惩罚。",
+      "Translation": "-1移动速度。忽视来自重甲的移动惩罚。",
       "Comment": "Armor benefit outweighs mobility cost"
     },
     {
@@ -223,7 +223,7 @@
     },
     {
       "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "-1移动。永不失败纪律检定，在失败的近战中失去D3伤口。",
+      "Translation": "-1移动速度。永不失败纪律检定，在失败的近战中失去D3伤口。",
       "Comment": "Fearless but takes heavy losses in defeat"
     },
     {
@@ -793,7 +793,7 @@
     },
     {
       "Key": "+6 Movement this turn.",
-      "Translation": "本轮+6移动。",
+      "Translation": "本轮+6移动速度。",
       "Comment": "Temporary mobility boost"
     },
     {
@@ -828,7 +828,7 @@
     },
     {
       "Key": "Activate for +4 Movement this turn.",
-      "Translation": "激活获得本轮+4移动。",
+      "Translation": "激活获得本轮+4移动速度。",
       "Comment": "One-use mobility ability"
     },
     {
@@ -958,7 +958,7 @@
     },
     {
       "Key": "Activate for +4 Movement and Flying for one turn.",
-      "Translation": "激活获得+4移动和飞行，持续一轮。",
+      "Translation": "激活获得+4移动速度和飞行，持续一轮。",
       "Comment": "Mobility transformation"
     },
     {

@@ -933,7 +933,7 @@
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor",
-      "Translation": "-1移动。忽视重甲的移动惩罚",
+      "Translation": "-1移动速度。忽视重甲的移动惩罚",
       "Comment": "Equipment effect"
     },
     {

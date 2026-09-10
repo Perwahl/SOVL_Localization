@@ -8,7 +8,7 @@
     },
     {
       "Key": "+1 Movement",
-      "Translation": "+1 Movimiento",
+      "Translation": "+1 Velocidad de Movimiento",
       "Comment": ""
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "Key": "-1 Movement. +1 Defense",
-      "Translation": "-1 Movimiento. +1 Defensa",
+      "Translation": "-1 Velocidad de Movimiento. +1 Defensa",
       "Comment": ""
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor.",
-      "Translation": "-1 Movimiento. Ignora la penalización de movimiento de Armadura Pesada.",
+      "Translation": "-1 Velocidad de Movimiento. Ignora la penalización de movimiento de Armadura Pesada.",
       "Comment": ""
     },
     {
@@ -223,7 +223,7 @@
     },
     {
       "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "-1 Movimiento. Nunca falla Pruebas de Disciplina, pierde D3 Heridas en combate perdido.",
+      "Translation": "-1 Velocidad de Movimiento. Nunca falla Pruebas de Disciplina, pierde D3 Heridas en combate perdido.",
       "Comment": ""
     },
     {
@@ -793,7 +793,7 @@
     },
     {
       "Key": "+6 Movement this turn.",
-      "Translation": "+6 Movimiento este turno.",
+      "Translation": "+6 Velocidad de Movimiento este turno.",
       "Comment": ""
     },
     {
@@ -828,7 +828,7 @@
     },
     {
       "Key": "Activate for +4 Movement this turn.",
-      "Translation": "Se activa para +4 Movimiento este turno.",
+      "Translation": "Se activa para +4 Velocidad de Movimiento este turno.",
       "Comment": ""
     },
     {
@@ -958,7 +958,7 @@
     },
     {
       "Key": "Activate for +4 Movement and Flying for one turn.",
-      "Translation": "Se activa para +4 Movimiento y Vuelo durante un turno.",
+      "Translation": "Se activa para +4 Velocidad de Movimiento y Vuelo durante un turno.",
       "Comment": ""
     },
     {
@@ -1108,7 +1108,7 @@
     },
     {
       "Key": "+4 Movement",
-      "Translation": "+4 Movimiento",
+      "Translation": "+4 Velocidad de Movimiento",
       "Comment": ""
     },
     {

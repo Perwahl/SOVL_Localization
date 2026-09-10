@@ -598,7 +598,7 @@
     },
     {
       "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
-      "Translation": "单位获得致命攻击（造成2倍伤害）",
+      "Translation": "单位获得致命攻击（造成2倍伤口）",
       "Comment": "大幅提升攻击伤害"
     },
     {
@@ -813,7 +813,7 @@
     },
     {
       "Key": "Gain Deadly Strikes (deal 2x Wounds)",
-      "Translation": "获得致命打击（造成2倍伤害）",
+      "Translation": "获得致命打击（造成2倍伤口）",
       "Comment": "大幅提升攻击伤害"
     },
     {

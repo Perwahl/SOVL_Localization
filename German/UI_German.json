@@ -935,7 +935,7 @@
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor",
-      "Translation": "-1 Bewegung. Ignoriere den Bewegungsabzug durch schwere Rüstung",
+      "Translation": "-1 Bewegungsgeschwindigkeit. Ignoriere den Bewegungsabzug durch schwere Rüstung",
       "Comment": ""
     },
     {

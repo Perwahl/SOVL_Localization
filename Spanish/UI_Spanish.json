@@ -935,7 +935,7 @@
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor",
-      "Translation": "-1 Movimiento. Ignora la penalización de movimiento de la Armadura Pesada",
+      "Translation": "-1 Velocidad de Movimiento. Ignora la penalización de movimiento de la Armadura Pesada",
       "Comment": ""
     },
     {

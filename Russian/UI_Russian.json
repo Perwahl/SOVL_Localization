@@ -904,7 +904,7 @@
     },
     {
       "Key": "- Activate a Unit - ",
-      "Translation": "- Активируйте отряд - ",
+      "Translation": "- Активировать отряд - ",
       "Comment": "Phase instruction"
     },
     {
@@ -939,7 +939,7 @@
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor",
-      "Translation": "-1 Движение. Игнорирует штраф движения от тяжёлой брони",
+      "Translation": "-1 Скорость движения. Игнорирует штраф движения от тяжёлой брони",
       "Comment": "Ability description"
     },
     {

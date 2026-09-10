@@ -8,7 +8,7 @@
     },
     {
       "Key": "+1 Movement",
-      "Translation": "+1 Движение",
+      "Translation": "+1 Скорость движения",
       "Comment": "Movement translated as Движение"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "Key": "+1 Combat Score",
-      "Translation": "+1 Боевой результат",
+      "Translation": "+1 Боевой счёт",
       "Comment": "Combat Score = Боевой результат (represents victory points in close combat)"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "Key": "-1 Movement. +1 Defense",
-      "Translation": "-1 Движение. +1 Защита",
+      "Translation": "-1 Скорость движения. +1 Защита",
       "Comment": "Negative modifiers written consistently with positive ones"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "Key": "Activate once per battle. Give all your units +1 Combat Score for one turn.",
-      "Translation": "Активировать один раз за сражение. Дайте всем вашим отрядам +1 Боевой результат на один ход.",
+      "Translation": "Активировать один раз за сражение. Дайте всем вашим отрядам +1 Боевой счёт на один ход.",
       "Comment": "Repeated activation phrase; Combat Score = Боевой результат"
     },
     {
@@ -168,7 +168,7 @@
     },
     {
       "Key": "Target unit counts as being in Cover against ranged attacks until it's next combat.",
-      "Translation": "Целевой отряд считается укрытым от дальних атак до его следующего боя.",
+      "Translation": "Целевой отряд считается укрытым от дальнобойных атак до его следующего боя.",
       "Comment": "Cover mechanic applies specifically to ranged attacks"
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor.",
-      "Translation": "-1 Движение. Игнорирует штраф движения от Тяжелой брони.",
+      "Translation": "-1 Скорость движения. Игнорирует штраф движения от Тяжелой брони.",
       "Comment": "Heavy Armor = Тяжелая броня (equipment effect)"
     },
     {
@@ -223,7 +223,7 @@
     },
     {
       "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "-1 Движение. Никогда не проваливает проверки Дисциплины, теряет D3 раны в проигранном бою.",
+      "Translation": "-1 Скорость движения. Никогда не проваливает проверки Дисциплины, теряет D3 раны в проигранном бою.",
       "Comment": "Lost combat = проигранный бой (when unit loses in close combat)"
     },
     {
@@ -478,7 +478,7 @@
     },
     {
       "Key": "+1 to hit with Ranged Attacks.",
-      "Translation": "+1 к попаданию при дальних атаках.",
+      "Translation": "+1 к попаданию при дальнобойных атаках.",
       "Comment": "Ranged accuracy bonus"
     },
     {
@@ -543,7 +543,7 @@
     },
     {
       "Key": "+1 Power to Ranged Attacks.",
-      "Translation": "+1 мощь дальним атакам",
+      "Translation": "+1 мощь дальнобойным атакам",
       "Comment": "Ranged damage modifier"
     },
     {
@@ -668,7 +668,7 @@
     },
     {
       "Key": " +1 Attack and Fearless. Activate once per battle.",
-      "Translation": " +1 Атака и бесстрашные. Активируйте одного раза за сражение.",
+      "Translation": " +1 Атака и бесстрашные. Активировать одного раза за сражение.",
       "Comment": "Activation ability combining attack and morale"
     },
     {
@@ -683,7 +683,7 @@
     },
     {
       "Key": "All friendly units counts as being in Cover against ranged attacks untill it's next combat.",
-      "Translation": "Все дружественные отряды считаются укрытыми против дальних атак до его следующего боя.",
+      "Translation": "Все дружественные отряды считаются укрытыми против дальнобойных атак до его следующего боя.",
       "Comment": "Army-wide defensive buff"
     },
     {
@@ -718,7 +718,7 @@
     },
     {
       "Key": "Unit has +10 range for Ranged attacks.",
-      "Translation": "Отряд получает +10 дальность к дальним атакам.",
+      "Translation": "Отряд получает +10 дальность к дальнобойным атакам.",
       "Comment": "Extreme range weapon bonus"
     },
     {
@@ -738,7 +738,7 @@
     },
     {
       "Key": "Gain +3 ranged attacks.",
-      "Translation": "Получите +3 дальних атаки.",
+      "Translation": "Получите +3 дальнобойных атаки.",
       "Comment": "Increased shooting volume"
     },
     {
@@ -793,7 +793,7 @@
     },
     {
       "Key": "+6 Movement this turn.",
-      "Translation": "+6 Движение в этом ходу.",
+      "Translation": "+6 Скорость движения в этом ходу.",
       "Comment": "Temporary movement boost spell"
     },
     {
@@ -828,7 +828,7 @@
     },
     {
       "Key": "Activate for +4 Movement this turn.",
-      "Translation": "Активируйте для +4 движения в этом ходу.",
+      "Translation": "Активировать для +4 движения в этом ходу.",
       "Comment": "Temporary speed boost ability"
     },
     {
@@ -923,7 +923,7 @@
     },
     {
       "Key": "+2 Attacks this turn. Activate once per battle when wounded.",
-      "Translation": "+2 Атаки в этом ходу. Активируйте один раз за сражение когда ранен.",
+      "Translation": "+2 Атаки в этом ходу. Активировать один раз за сражение когда ранен.",
       "Comment": "Enraged state: triggered when unit takes damage"
     },
     {
@@ -958,7 +958,7 @@
     },
     {
       "Key": "Activate for +4 Movement and Flying for one turn.",
-      "Translation": "Активируйте для +4 движения и Полёта на один ход.",
+      "Translation": "Активировать для +4 движения и Полёта на один ход.",
       "Comment": "Flight activation ability"
     },
     {
@@ -988,7 +988,7 @@
     },
     {
       "Key": "+2 Ranged Attacks",
-      "Translation": "+2 дальних атаки",
+      "Translation": "+2 дальнобойных атаки",
       "Comment": "Plural variant"
     },
     {
@@ -1033,7 +1033,7 @@
     },
     {
       "Key": "Unit has +5 range for Ranged attacks.",
-      "Translation": "Отряд имеет +5 дальность для дальних атак",
+      "Translation": "Отряд имеет +5 дальность для дальнобойных атак",
       "Comment": "Extended ranged weapon range"
     },
     {
@@ -1063,7 +1063,7 @@
     },
     {
       "Key": "+5 range to Ranged Attacks",
-      "Translation": "+5 дальность к дальним атакам",
+      "Translation": "+5 дальность к дальнобойным атакам",
       "Comment": "Extended ranged weapon range"
     },
     {
@@ -1118,7 +1118,7 @@
     },
     {
       "Key": "Activate once per battle. Melee attacks deal 2x wounds against multiwound targets for one turn.",
-      "Translation": "Активируйте один раз за сражение. Ближние атаки наносят x2 урона по целям с несколькими ранами на один ход.",
+      "Translation": "Активировать один раз за сражение. Ближние атаки наносят x2 урона по целям с несколькими ранами на один ход.",
       "Comment": "Carried over from the superseded key that differed only by a mangled digit."
     },
     {
@@ -1188,7 +1188,7 @@
     },
     {
       "Key": "Unit has +5 range for Ranged attacks and ignores penalties for difficult terrain.",
-      "Translation": "Отряд получает +5 дальность при дальних атаках и игнорирует штрафы для сложной местности.",
+      "Translation": "Отряд получает +5 дальность при дальнобойных атаках и игнорирует штрафы для сложной местности.",
       "Comment": "Carried over from the superseded key that differed only by a mangled digit."
     },
     {

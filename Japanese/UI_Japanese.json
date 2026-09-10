@@ -933,7 +933,7 @@
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor",
-      "Translation": "移動-1。重装甲からの移動ペナルティを無視",
+      "Translation": "移動速度-1。重装甲からの移動ペナルティを無視",
       "Comment": "Ability description"
     },
     {

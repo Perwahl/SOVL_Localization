@@ -935,7 +935,7 @@
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor",
-      "Translation": "-1 Déplacement. Ignore la pénalité de mouvement de l'armure lourde",
+      "Translation": "-1 Vitesse de Déplacement. Ignore la pénalité de mouvement de l'armure lourde",
       "Comment": ""
     },
     {

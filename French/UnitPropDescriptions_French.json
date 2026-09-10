@@ -8,7 +8,7 @@
     },
     {
       "Key": "+1 Movement",
-      "Translation": "+1 Déplacement",
+      "Translation": "+1 Vitesse de Déplacement",
       "Comment": ""
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "Key": "-1 Movement. +1 Defense",
-      "Translation": "-1 Déplacement. +1 Défense",
+      "Translation": "-1 Vitesse de Déplacement. +1 Défense",
       "Comment": ""
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor.",
-      "Translation": "-1 Déplacement. Ignore les pénalités de déplacement de l'Armure Lourde.",
+      "Translation": "-1 Vitesse de Déplacement. Ignore les pénalités de déplacement de l'Armure Lourde.",
       "Comment": ""
     },
     {
@@ -223,7 +223,7 @@
     },
     {
       "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "-1 Déplacement. Ne rate jamais un jet de Discipline, perds D3 blessures durant un combat perdu.",
+      "Translation": "-1 Vitesse de Déplacement. Ne rate jamais un jet de Discipline, perds D3 blessures durant un combat perdu.",
       "Comment": ""
     },
     {
@@ -793,7 +793,7 @@
     },
     {
       "Key": "+6 Movement this turn.",
-      "Translation": "+6 Déplacement ce tour.",
+      "Translation": "+6 Vitesse de Déplacement ce tour.",
       "Comment": ""
     },
     {
@@ -828,7 +828,7 @@
     },
     {
       "Key": "Activate for +4 Movement this turn.",
-      "Translation": "Activer for +4 Déplacement ce tour.",
+      "Translation": "Activer for +4 Vitesse de Déplacement ce tour.",
       "Comment": ""
     },
     {
@@ -958,7 +958,7 @@
     },
     {
       "Key": "Activate for +4 Movement and Flying for one turn.",
-      "Translation": "Activer pour +4 Déplacement et Vol pour un tour.",
+      "Translation": "Activer pour +4 Vitesse de Déplacement et Vol pour un tour.",
       "Comment": ""
     },
     {

@@ -8,7 +8,7 @@
     },
     {
       "Key": "+1 Movement",
-      "Translation": "移動+1",
+      "Translation": "移動速度+1",
       "Comment": ""
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "Key": "-1 Movement. +1 Defense",
-      "Translation": "移動-1。防御+1",
+      "Translation": "移動速度-1。防御+1",
       "Comment": ""
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor.",
-      "Translation": "移動-1。重装甲による移動修正を無視する。",
+      "Translation": "移動速度-1。重装甲による移動修正を無視する。",
       "Comment": ""
     },
     {
@@ -223,7 +223,7 @@
     },
     {
       "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "移動-1。規律判定に失敗せず、戦闘に敗北するとD3の傷を失う。",
+      "Translation": "移動速度-1。規律判定に失敗せず、戦闘に敗北するとD3の傷を失う。",
       "Comment": ""
     },
     {
@@ -793,7 +793,7 @@
     },
     {
       "Key": "+6 Movement this turn.",
-      "Translation": "このターン移動+6。",
+      "Translation": "このターン移動速度+6。",
       "Comment": ""
     },
     {
@@ -828,7 +828,7 @@
     },
     {
       "Key": "Activate for +4 Movement this turn.",
-      "Translation": "行動してこのターン移動+4。",
+      "Translation": "行動してこのターン移動速度+4。",
       "Comment": ""
     },
     {
@@ -958,7 +958,7 @@
     },
     {
       "Key": "Activate for +4 Movement and Flying for one turn.",
-      "Translation": "行動して一ターンの間、移動+4と飛行を得る。",
+      "Translation": "行動して一ターンの間、移動速度+4と飛行を得る。",
       "Comment": ""
     },
     {
@@ -1108,7 +1108,7 @@
     },
     {
       "Key": "+4 Movement",
-      "Translation": "移動+4",
+      "Translation": "移動速度+4",
       "Comment": ""
     },
     {

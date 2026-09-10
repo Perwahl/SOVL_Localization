@@ -358,7 +358,7 @@
     },
     {
       "Key": "+1 Power to Ranged Attacks.",
-      "Translation": "+1 мощь дальним атакам",
+      "Translation": "+1 мощь дальнобойным атакам",
       "Comment": "Rules text"
     },
     {
@@ -438,7 +438,7 @@
     },
     {
       "Key": "Unit has +5 range for Ranged attacks.",
-      "Translation": "Отряд имеет +5 дальность для дальних атак",
+      "Translation": "Отряд имеет +5 дальность для дальнобойных атак",
       "Comment": "Rules text"
     },
     {
@@ -523,7 +523,7 @@
     },
     {
       "Key": "+5 range for Ranged Attacks.",
-      "Translation": "+5 дальности для дальних атак",
+      "Translation": "+5 дальности для дальнобойных атак",
       "Comment": ""
     },
     {
@@ -598,7 +598,7 @@
     },
     {
       "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
-      "Translation": "Отряд получает летальные атаки (наносит урон в 2 раза)",
+      "Translation": "Отряд получает летальные атаки (наносит 2x раны)",
       "Comment": "Rules text: Lethal attacks mechanic"
     },
     {
@@ -813,7 +813,7 @@
     },
     {
       "Key": "Gain Deadly Strikes (deal 2x Wounds)",
-      "Translation": "Получить смертельные удары (наносят урон в 2 раза)",
+      "Translation": "Получить смертельные удары (наносят 2x раны)",
       "Comment": "Rules text"
     },
     {
@@ -853,7 +853,7 @@
     },
     {
       "Key": "Unit has +5 range for Ranged Attacks.",
-      "Translation": "Отряд имеет +5 дальности для дальних атак",
+      "Translation": "Отряд имеет +5 дальности для дальнобойных атак",
       "Comment": "Rules text"
     },
     {
@@ -863,7 +863,7 @@
     },
     {
       "Key": "Unit has +10 range for Ranged Attacks.",
-      "Translation": "Отряд имеет +10 дальности для дальних атак",
+      "Translation": "Отряд имеет +10 дальности для дальнобойных атак",
       "Comment": "Rules text"
     },
     {

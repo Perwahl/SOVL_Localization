@@ -8,7 +8,7 @@
     },
     {
       "Key": "+1 Movement",
-      "Translation": "+1 Bewegung",
+      "Translation": "+1 Bewegungsgeschwindigkeit",
       "Comment": ""
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "Key": "-1 Movement. +1 Defense",
-      "Translation": "-1 Bewegung. +1 Verteidigung",
+      "Translation": "-1 Bewegungsgeschwindigkeit. +1 Verteidigung",
       "Comment": ""
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor.",
-      "Translation": "-1 Bewegung. Ignoriert den Bewegungsnachteil schwerer Rüstung.",
+      "Translation": "-1 Bewegungsgeschwindigkeit. Ignoriert den Bewegungsnachteil schwerer Rüstung.",
       "Comment": ""
     },
     {
@@ -223,7 +223,7 @@
     },
     {
       "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "-1 Bewegung. Scheitert niemals bei Disziplin-Proben, erleidet bei verlorenem Kampf W3 Wunden.",
+      "Translation": "-1 Bewegungsgeschwindigkeit. Scheitert niemals bei Disziplin-Proben, erleidet bei verlorenem Kampf W3 Wunden.",
       "Comment": ""
     },
     {
@@ -343,7 +343,7 @@
     },
     {
       "Key": "For one turn, reduce move speed to zero. Re-roll failed damage saves and discipline tests. Activate once per battle.",
-      "Translation": "Für einen Zug Bewegungswert auf null reduzieren. Fehlgeschlagene Schadensrettungswürfe und Disziplinproben erneut würfeln. Einmal pro Schlacht aktivieren.",
+      "Translation": "Für einen Zug Bewegungsgeschwindigkeit auf null reduzieren. Fehlgeschlagene Schadensrettungswürfe und Disziplinproben erneut würfeln. Einmal pro Schlacht aktivieren.",
       "Comment": ""
     },
     {
@@ -793,7 +793,7 @@
     },
     {
       "Key": "+6 Movement this turn.",
-      "Translation": "+6 Bewegung in diesem Zug.",
+      "Translation": "+6 Bewegungsgeschwindigkeit in diesem Zug.",
       "Comment": ""
     },
     {
@@ -828,7 +828,7 @@
     },
     {
       "Key": "Activate for +4 Movement this turn.",
-      "Translation": "Aktivieren für +4 Bewegung in diesem Zug.",
+      "Translation": "Aktivieren für +4 Bewegungsgeschwindigkeit in diesem Zug.",
       "Comment": ""
     },
     {
@@ -958,7 +958,7 @@
     },
     {
       "Key": "Activate for +4 Movement and Flying for one turn.",
-      "Translation": "Aktivieren für +4 Bewegung und Flug für einen Zug.",
+      "Translation": "Aktivieren für +4 Bewegungsgeschwindigkeit und Flug für einen Zug.",
       "Comment": ""
     },
     {
@@ -1108,7 +1108,7 @@
     },
     {
       "Key": "+4 Movement",
-      "Translation": "+4 Bewegung",
+      "Translation": "+4 Bewegungsgeschwindigkeit",
       "Comment": ""
     },
     {
