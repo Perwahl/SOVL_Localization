@@ -33,7 +33,7 @@
     },
     {
       "Key": "Unit has +1 Attack this turn. Activate once per battle.",
-      "Translation": "本轮单位获得+1攻击。每场战斗启用一次。",
+      "Translation": "本轮单位获得+1攻击。每场战斗激活一次。",
       "Comment": "One-use bonus for enhanced attacks"
     },
     {
@@ -78,12 +78,12 @@
     },
     {
       "Key": "Activate once per battle. Give all your units +1 Combat Score for one turn.",
-      "Translation": "每场战斗启用一次。给予你所有单位一轮+1战斗评分。",
+      "Translation": "每场战斗激活一次。给予你所有单位一轮+1战斗评分。",
       "Comment": "Army-wide morale/combat boost ability"
     },
     {
       "Key": "+1 Defense. +1 Wounds",
-      "Translation": "+1防御。+1伤害值",
+      "Translation": "+1防御。+1伤口",
       "Comment": "Increases both armor and health"
     },
     {
@@ -128,7 +128,7 @@
     },
     {
       "Key": "Activate once per battle. Commander and Retinue rerolls Attack Rolls for one turn.",
-      "Translation": "每场战斗启用一次。指挥官及其卫队一轮内重投攻击检定。",
+      "Translation": "每场战斗激活一次。指挥官及其卫队一轮内重投攻击检定。",
       "Comment": "Leadership ability: command group gets reliable attacks"
     },
     {
@@ -148,12 +148,12 @@
     },
     {
       "Key": "Unit recovers all missing wounds at end of turn.",
-      "Translation": "单位在轮末恢复所有缺失的伤害值。",
+      "Translation": "单位在轮末恢复所有缺失的伤口。",
       "Comment": "Healing ability"
     },
     {
       "Key": "Ignore movement penalties from Difficult Terrain",
-      "Translation": "忽视来自地形困难的移动惩罚",
+      "Translation": "忽视来自困难地形的移动惩罚",
       "Comment": "Terrain traversal ability"
     },
     {
@@ -173,7 +173,7 @@
     },
     {
       "Key": "All your Goblins are Fearless for one turn. Activate once per battle. ",
-      "Translation": "你所有地精单位一轮内无畏。每场战斗启用一次。 ",
+      "Translation": "你所有地精单位一轮内无畏。每场战斗激活一次。 ",
       "Comment": "Race-specific morale boost"
     },
     {
@@ -198,7 +198,7 @@
     },
     {
       "Key": "Activate once per battle: All your units have +1 Defense for one turn.",
-      "Translation": "每场战斗启用一次：你所有单位获得一轮+1防御。",
+      "Translation": "每场战斗激活一次：你所有单位获得一轮+1防御。",
       "Comment": "Army-wide defensive boost ability"
     },
     {
@@ -223,7 +223,7 @@
     },
     {
       "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "-1移动。永不失败纪律检定，在失败的近战中失去D3伤害值。",
+      "Translation": "-1移动。永不失败纪律检定，在失败的近战中失去D3伤口。",
       "Comment": "Fearless but takes heavy losses in defeat"
     },
     {
@@ -238,17 +238,17 @@
     },
     {
       "Key": "Reduce Crumble by 1. Regeneration (restore all lost wounds at end of turn).",
-      "Translation": "减少1点崩溃。再生（轮末恢复所有缺失的伤害值）。",
+      "Translation": "减少1点崩溃。再生（轮末恢复所有缺失的伤口）。",
       "Comment": "Undead unit abilities"
     },
     {
       "Key": "Increase the move speed of target Reanimated unit by 3 until its next combat.",
-      "Translation": "将目标再生单位的移动速度增加3，直至其下一场近战。",
+      "Translation": "将目标复活单位的移动速度增加3，直至其下一场近战。",
       "Comment": "Undead-specific mobility buff"
     },
     {
       "Key": "Restore D3+1 wounds to a Reanimated unit.",
-      "Translation": "恢复一个再生单位D3+1伤害值。",
+      "Translation": "恢复一个复活单位D3+1伤口。",
       "Comment": "Undead-specific healing"
     },
     {
@@ -263,7 +263,7 @@
     },
     {
       "Key": "Target unit loses D3 wounds and gains +1 Attack this turn.",
-      "Translation": "目标单位失去D3伤害值且本轮获得+1攻击。",
+      "Translation": "目标单位失去D3伤口且本轮获得+1攻击。",
       "Comment": "Sacrifice for combat boost"
     },
     {
@@ -273,7 +273,7 @@
     },
     {
       "Key": "Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "永不失败纪律检定，在失败的近战中失去D3伤害值。",
+      "Translation": "永不失败纪律检定，在失败的近战中失去D3伤口。",
       "Comment": "Fearless but vulnerable in defeat"
     },
     {
@@ -298,7 +298,7 @@
     },
     {
       "Key": "All your Northmen are Fearless for one turn. Activate once per battle. ",
-      "Translation": "你所有北方人单位一轮内无畏。每场战斗启用一次。 ",
+      "Translation": "你所有北方人单位一轮内无畏。每场战斗激活一次。 ",
       "Comment": "Race-specific morale ability"
     },
     {
@@ -308,7 +308,7 @@
     },
     {
       "Key": "All your units have Frenzy (reroll failed Attack Rolls) this turn. Activate once per battle.",
-      "Translation": "你所有单位本轮拥有狂热（重投攻击检定中失败的）。每场战斗启用一次。",
+      "Translation": "你所有单位本轮拥有狂热（重投攻击检定中失败的）。每场战斗激活一次。",
       "Comment": "Army-wide combat enhancement"
     },
     {
@@ -318,7 +318,7 @@
     },
     {
       "Key": "A spirit of nature. Ignores Difficult Terrain.",
-      "Translation": "自然之灵。忽视地形困难。",
+      "Translation": "自然之灵。忽视困难地形。",
       "Comment": "Elemental unit type with terrain immunity"
     },
     {
@@ -338,12 +338,12 @@
     },
     {
       "Key": "Restore D3 wounds to a Forest Spirit unit.",
-      "Translation": "恢复一个森林精灵单位D3伤害值。",
+      "Translation": "恢复一个森林精灵单位D3伤口。",
       "Comment": "Nature-based healing"
     },
     {
       "Key": "For one turn, reduce move speed to zero. Re-roll failed damage saves and discipline tests. Activate once per battle.",
-      "Translation": "一轮内，移动速度降为零。失败的伤害豁免和纪律检定可以重投。每场战斗启用一次。",
+      "Translation": "一轮内，移动速度降为零。失败的伤害豁免和纪律检定可以重投。每场战斗激活一次。",
       "Comment": "Protective spell with immobilization"
     },
     {
@@ -353,7 +353,7 @@
     },
     {
       "Key": "Favoured by Decay. +1 Wounds. -1 Move Speed.",
-      "Translation": "被衰败眷顾。+1伤害值。-1移动。",
+      "Translation": "被衰败眷顾。+1伤口。-1移动速度。",
       "Comment": "Lore-based trait with health/mobility tradeoff"
     },
     {
@@ -373,7 +373,7 @@
     },
     {
       "Key": "Reroll all successful Attack and Ranged Attack rolls against this unit.\nIgnores Difficult Terrain.",
-      "Translation": "重投对该单位的所有攻击和远程攻击检定中成功的。\n忽视地形困难。",
+      "Translation": "重投对该单位的所有攻击和远程攻击检定中成功的。\n忽视困难地形。",
       "Comment": "Strong defensive ability with terrain mobility"
     },
     {
@@ -383,7 +383,7 @@
     },
     {
       "Key": "Caster has +1 Power and deals double wounds against Monsters this turn.",
-      "Translation": "施法者本轮获得+1力量并对怪物造成双倍伤害值。",
+      "Translation": "施法者本轮获得+1力量并对怪物造成双倍伤口。",
       "Comment": "Magic combat specialization"
     },
     {
@@ -408,7 +408,7 @@
     },
     {
       "Key": "+3 Wounds",
-      "Translation": "+3伤害值",
+      "Translation": "+3伤口",
       "Comment": "Health boost"
     },
     {
@@ -443,7 +443,7 @@
     },
     {
       "Key": "+1 Wounds",
-      "Translation": "伤害值 +1",
+      "Translation": "伤口 +1",
       "Comment": "Health boost"
     },
     {
@@ -508,12 +508,12 @@
     },
     {
       "Key": "Restore D3+1 wounds to a Reanimated unit, and give it +1 Power and Defense this turn.",
-      "Translation": "恢复一个再生单位D3+1伤害值，本轮给予其+1力量和防御。",
+      "Translation": "恢复一个复活单位D3+1伤口，本轮给予其+1力量和防御。",
       "Comment": "Undead unit healing and buff"
     },
     {
       "Key": "Restore D3+1 wounds to any unit.",
-      "Translation": "恢复任何单位D3+1伤害值。",
+      "Translation": "恢复任何单位D3+1伤口。",
       "Comment": "General healing spell"
     },
     {
@@ -528,7 +528,7 @@
     },
     {
       "Key": "Target Reanimated unit has +3 Move speed and rerolls missed Attack Rolls until it's next combat.",
-      "Translation": "目标再生单位获得+3移动速度且直至其下一场近战重投攻击检定中失败的。",
+      "Translation": "目标复活单位获得+3移动速度且直至其下一场近战重投攻击检定中失败的。",
       "Comment": "Undead unit mobility and combat buff"
     },
     {
@@ -578,7 +578,7 @@
     },
     {
       "Key": "Reduce Crumble rolls by 1. Increase Move Speed by 1. +3 Wounds",
-      "Translation": "减少1点崩溃检定。移动速度增加1。+3伤害值。",
+      "Translation": "减少1点崩溃检定。移动速度增加1。+3伤口。",
       "Comment": "Undead enhancement with health boost"
     },
     {
@@ -603,7 +603,7 @@
     },
     {
       "Key": "Unit counts as Reanimated. (Never fails Discipline tests, loses D3 wounds on lost combat )+1 Defense,  -1 Move Speed.",
-      "Translation": "单位计为再生的。（永不失败纪律检定，在失败的近战中失去D3伤害值）+1防御，-1移动速度。",
+      "Translation": "单位计为复活的。（永不失败纪律检定，在失败的近战中失去D3伤口）+1防御，-1移动速度。",
       "Comment": "Undead classification with defensive tradeoff"
     },
     {
@@ -623,7 +623,7 @@
     },
     {
       "Key": "+1 Wounds. +1Power",
-      "Translation": "+1伤害值。+1力量。",
+      "Translation": "+1伤口。+1力量。",
       "Comment": "Dual combat enhancement"
     },
     {
@@ -648,12 +648,12 @@
     },
     {
       "Key": "+1 Move Speed and ignores Difficult Terrain",
-      "Translation": "+1移动速度且忽视地形困难。",
+      "Translation": "+1移动速度且忽视困难地形。",
       "Comment": "Mobility with terrain traversal"
     },
     {
       "Key": "Regeneration. (restores all wounds at end of turn)",
-      "Translation": "再生。（轮末恢复所有伤害值）",
+      "Translation": "再生。（轮末恢复所有伤口）",
       "Comment": "Healing ability"
     },
     {
@@ -668,7 +668,7 @@
     },
     {
       "Key": " +1 Attack and Fearless. Activate once per battle.",
-      "Translation": " +1攻击且无畏。每场战斗启用一次。",
+      "Translation": " +1攻击且无畏。每场战斗激活一次。",
       "Comment": "Combat boost with morale immunity"
     },
     {
@@ -698,7 +698,7 @@
     },
     {
       "Key": " +1 Wounds",
-      "Translation": " +1伤害值",
+      "Translation": " +1伤口",
       "Comment": "Health boost"
     },
     {
@@ -723,12 +723,12 @@
     },
     {
       "Key": "Paladin and retinue rerolls 1s on Attack Rolls. Activate once per battle; all friendly Knights reroll failed Attack Rolls.",
-      "Translation": "圣武士及其卫队重投攻击检定中的1。每场战斗启用一次；所有友方骑士重投攻击检定中失败的。",
+      "Translation": "圣武士及其卫队重投攻击检定中的1。每场战斗激活一次；所有友方骑士重投攻击检定中失败的。",
       "Comment": "Command group and army-wide attack boost"
     },
     {
       "Key": "Maiden and retinue rerolls 1s on Damage Saves.. Activate once per battle; all friendly Knights reroll failed Damage Saves. ",
-      "Translation": "少女及其卫队重投伤害豁免检定中的1。每场战斗启用一次；所有友方骑士重投伤害豁免检定中失败的。 ",
+      "Translation": "少女及其卫队重投伤害豁免检定中的1。每场战斗激活一次；所有友方骑士重投伤害豁免检定中失败的。 ",
       "Comment": "Command group and army-wide defense boost"
     },
     {
@@ -813,7 +813,7 @@
     },
     {
       "Key": "This units ranged attack deals 2x wounds against multiwound targets.",
-      "Translation": "该单位的远程攻击对多伤害值目标造成2倍伤害值。",
+      "Translation": "该单位的远程攻击对多伤口目标造成2倍伤口。",
       "Comment": "Deadly Strikes ranged variant - effective against large targets"
     },
     {
@@ -828,7 +828,7 @@
     },
     {
       "Key": "Activate for +4 Movement this turn.",
-      "Translation": "启用获得本轮+4移动。",
+      "Translation": "激活获得本轮+4移动。",
       "Comment": "One-use mobility ability"
     },
     {
@@ -923,7 +923,7 @@
     },
     {
       "Key": "+2 Attacks this turn. Activate once per battle when wounded.",
-      "Translation": "本轮+2攻击。受伤时每场战斗启用一次。",
+      "Translation": "本轮+2攻击。受伤时每场战斗激活一次。",
       "Comment": "Enraged state ability"
     },
     {
@@ -958,12 +958,12 @@
     },
     {
       "Key": "Activate for +4 Movement and Flying for one turn.",
-      "Translation": "启用获得+4移动和飞行，持续一轮。",
+      "Translation": "激活获得+4移动和飞行，持续一轮。",
       "Comment": "Mobility transformation"
     },
     {
       "Key": "+2 Wounds",
-      "Translation": "+2伤害值",
+      "Translation": "+2伤口",
       "Comment": "Health boost"
     },
     {
@@ -1058,7 +1058,7 @@
     },
     {
       "Key": "+2 Wounds. -1 Move Speed.",
-      "Translation": "+2伤害值。-1移动速度。",
+      "Translation": "+2伤口。-1移动速度。",
       "Comment": "Health for mobility tradeoff"
     },
     {
@@ -1068,7 +1068,7 @@
     },
     {
       "Key": "Lethal Attacks. (2x wounds)",
-      "Translation": "致命攻击。（2倍伤害值）",
+      "Translation": "致命攻击。（2倍伤口）",
       "Comment": "Deadly Strikes ability"
     },
     {
@@ -1088,7 +1088,7 @@
     },
     {
       "Key": "These arrows deal 2x wounds against multiwound targets.",
-      "Translation": "这些箭对多伤害值目标造成2倍伤害值。",
+      "Translation": "这些箭对多伤口目标造成2倍伤口。",
       "Comment": "Armor-piercing ammunition"
     },
     {
@@ -1118,7 +1118,7 @@
     },
     {
       "Key": "Activate once per battle. Melee attacks deal 2x wounds against multiwound targets for one turn.",
-      "Translation": "每场战斗启用一次。一轮内近战攻击对多伤害值目标造成2倍伤害值。",
+      "Translation": "每场战斗激活一次。一轮内近战攻击对多伤口目标造成2倍伤口。",
       "Comment": "Carried over from the superseded key that differed only by a mangled digit."
     },
     {
@@ -1138,17 +1138,17 @@
     },
     {
       "Key": "Once per battle, all friendly units with Gift of War gain Deadly Strikes  (2x Wounds caused).\nCommander has Deadly Strikes.\n",
-      "Translation": "每场战斗一次，所有拥有战争恩赐的友方单位获得致命打击（造成2倍伤害值）。\n指挥官拥有致命打击。\n",
+      "Translation": "每场战斗一次，所有拥有战争恩赐的友方单位获得致命打击（造成2倍伤口）。\n指挥官拥有致命打击。\n",
       "Comment": "Carried over from the superseded key that differed only by a mangled digit."
     },
     {
       "Key": "Once per battle, all friendly units with Gift of War gain Deadly Strikes (2x Wounds caused).",
-      "Translation": "每场战斗一次，所有拥有战争恩赐的友方单位获得致命打击（造成2倍伤害值）。",
+      "Translation": "每场战斗一次，所有拥有战争恩赐的友方单位获得致命打击（造成2倍伤口）。",
       "Comment": "Carried over from the superseded key that differed only by a mangled digit."
     },
     {
       "Key": "Poisoned Attacks. (Opponent rerolls 6s on Damage Saves)\n+1 Wounds",
-      "Translation": "毒性攻击。（对手重投伤害豁免检定中的6）\n+1伤害值",
+      "Translation": "毒性攻击。（对手重投伤害豁免检定中的6）\n+1伤口",
       "Comment": "Carried over from the superseded key that differed only by a mangled digit."
     },
     {
@@ -1188,7 +1188,7 @@
     },
     {
       "Key": "Unit has +5 range for Ranged attacks and ignores penalties for difficult terrain.",
-      "Translation": "单位远程攻击射程+5且忽视地形困难的惩罚。",
+      "Translation": "单位远程攻击射程+5且忽视困难地形的惩罚。",
       "Comment": "Carried over from the superseded key that differed only by a mangled digit."
     },
     {

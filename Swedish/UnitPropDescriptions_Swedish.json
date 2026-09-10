@@ -3,7 +3,7 @@
   "Translations": [
     {
       "Key": "+1 Defense. Charge Bonus: +1 Power",
-      "Translation": "+1 försvar. Anfallsbonus: +1 kraft",
+      "Translation": "+1 försvar. Anfallsbonus: +1 styrka",
       "Comment": "Used standard Swedish rules wording for defense and power."
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "Key": "Charge Bonus: +1 Power",
-      "Translation": "Anfallsbonus: +1 kraft",
+      "Translation": "Anfallsbonus: +1 styrka",
       "Comment": "Kept the charging terminology consistent with the rest of the rules text."
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "Key": "+1 Power. Charge Bonus: +1 Power.",
-      "Translation": "+1 kraft. Anfallsbonus: +1 kraft.",
+      "Translation": "+1 styrka. Anfallsbonus: +1 styrka.",
       "Comment": "Kept the power bonus wording consistent with the rest of the file."
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 4+.",
-      "Translation": "Anfallsbonus: +1 kraft\nSkyddskast mot detta vapen blir aldrig bättre än 4+.",
+      "Translation": "Anfallsbonus: +1 styrka\nSkyddskast mot detta vapen blir aldrig bättre än 4+.",
       "Comment": "This reads more naturally in Swedish rules text."
     },
     {
@@ -663,7 +663,7 @@
     },
     {
       "Key": "Reroll missed Attack Rolls when attacking from Flank or Rear",
-      "Translation": "Slå om missade Attackslag vid anfall från flank eller bakre led",
+      "Translation": "Slå om missade Attackslag vid anfall från flank eller rygg led",
       "Comment": ""
     },
     {

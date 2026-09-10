@@ -1840,7 +1840,7 @@
     },
     {
       "Key": "(Your Knights are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "(Deine Ritter sind Furchtlos und haben Angriffsbonus: +1 Angriff) ",
+      "Translation": "(Deine Ritter sind Furchtlos und haben Ansturmbonus: +1 Angriff) ",
       "Comment": "Effect description"
     },
     {
@@ -1870,7 +1870,7 @@
     },
     {
       "Key": "(Your units are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "(Deine Einheiten sind Furchtlos und haben Angriffsbonus: +1 Angriff) ",
+      "Translation": "(Deine Einheiten sind Furchtlos und haben Ansturmbonus: +1 Angriff) ",
       "Comment": ""
     },
     {

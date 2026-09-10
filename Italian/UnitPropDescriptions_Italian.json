@@ -173,7 +173,7 @@
     },
     {
       "Key": "All your Goblins are Fearless for one turn. Activate once per battle. ",
-      "Translation": "Tutti i tuoi Goblin sono Senza Paura per un turno. Attiva una volta per battaglia. ",
+      "Translation": "Tutti i tuoi Goblin sono Intrepido per un turno. Attiva una volta per battaglia. ",
       "Comment": "Species-specific buff"
     },
     {
@@ -298,7 +298,7 @@
     },
     {
       "Key": "All your Northmen are Fearless for one turn. Activate once per battle. ",
-      "Translation": "Tutti i tuoi Uomini del Nord sono Senza Paura per un turno. Attiva una volta per battaglia. ",
+      "Translation": "Tutti i tuoi Uomini del Nord sono Intrepido per un turno. Attiva una volta per battaglia. ",
       "Comment": ""
     },
     {
@@ -498,7 +498,7 @@
     },
     {
       "Key": "Unit is Fearless. Once per battle, gain +3 Power this turn.",
-      "Translation": "L'unità è Senza Paura. Una volta per battaglia, guadagna +3 Potenza questo turno.",
+      "Translation": "L'unità è Intrepido. Una volta per battaglia, guadagna +3 Potenza questo turno.",
       "Comment": ""
     },
     {
@@ -563,12 +563,12 @@
     },
     {
       "Key": "Unit re-rolls missed Attack Rolls and is Fearless (Ignores penalties to Discipline tests).",
-      "Translation": "L'unità rilancia i Tiri di Attacco mancati ed è Senza Paura (Ignora le penalità ai Tiri di Disciplina).",
+      "Translation": "L'unità rilancia i Tiri di Attacco mancati ed è Intrepido (Ignora le penalità ai Tiri di Disciplina).",
       "Comment": ""
     },
     {
       "Key": "Unit has +1 to Combat Score and is Fearless (Ignores penalties to Discipline tests).",
-      "Translation": "L'unità ha +1 al Punteggio di Combattimento ed è Senza Paura (Ignora le penalità ai Tiri di Disciplina).",
+      "Translation": "L'unità ha +1 al Punteggio di Combattimento ed è Intrepido (Ignora le penalità ai Tiri di Disciplina).",
       "Comment": ""
     },
     {
@@ -668,7 +668,7 @@
     },
     {
       "Key": " +1 Attack and Fearless. Activate once per battle.",
-      "Translation": " +1 Attacco e Senza Paura. Attiva una volta per battaglia.",
+      "Translation": " +1 Attacco e Intrepido. Attiva una volta per battaglia.",
       "Comment": ""
     },
     {

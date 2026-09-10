@@ -123,7 +123,7 @@
     },
     {
       "Key": "+1 Ranged Attack",
-      "Translation": "+1 Fernkampf-Angriff",
+      "Translation": "+1 Fernkampfangriff",
       "Comment": ""
     },
     {
@@ -563,7 +563,7 @@
     },
     {
       "Key": "Charge Bonus: +1 Attack.",
-      "Translation": "Angriffsbonus: +1 Angriff.",
+      "Translation": "Ansturmbonus: +1 Angriff.",
       "Comment": ""
     },
     {

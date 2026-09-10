@@ -23,7 +23,7 @@
     },
     {
       "Key": "Unit counts as being in Cover. (-1 to Ranged attack rolls against it).",
-      "Translation": "Отряд считается укрытым. (-1 к броскам дальних атак против него).",
+      "Translation": "Отряд считается укрытым. (-1 к броскам дальнобойных атак против него).",
       "Comment": "Cover = укрытый, Ranged attack = дальняя атака"
     },
     {
@@ -138,7 +138,7 @@
     },
     {
       "Key": "Target unit gets +1 Skill and rerolls failed Discipline tests for one turn.",
-      "Translation": "Целевой отряд получает +1 Мастерство и перебрасывает провалы проверок Дисциплины на один ход.",
+      "Translation": "Целевой отряд получает +1 Умение и перебрасывает провалы проверок Дисциплины на один ход.",
       "Comment": "Skill = Мастерство (ability stat); consistent Discipline terminology"
     },
     {
@@ -243,17 +243,17 @@
     },
     {
       "Key": "Increase the move speed of target Reanimated unit by 3 until its next combat.",
-      "Translation": "Увеличьте скорость движения целевого отряда Возрожденных на 3 до его следующего боя.",
+      "Translation": "Увеличьте скорость движения целевого отряда Оживлённых на 3 до его следующего боя.",
       "Comment": "Reanimated = Возрожденные (undead unit type)"
     },
     {
       "Key": "Restore D3+1 wounds to a Reanimated unit.",
-      "Translation": "Восстановите D3+1 раны отряду Возрожденных.",
+      "Translation": "Восстановите D3+1 раны отряду Оживлённых.",
       "Comment": "D3+1 = dice notation for game mechanics"
     },
     {
       "Key": "Target unit has -1 Skill and -1 Move Speed. Lasts until end of battle.",
-      "Translation": "Целевой отряд получает -1 Мастерство и -1 скорость движения. Длится до конца сражения.",
+      "Translation": "Целевой отряд получает -1 Умение и -1 скорость движения. Длится до конца сражения.",
       "Comment": "Lasts until end of battle = длится до конца сражения (permanent effect this battle)"
     },
     {
@@ -333,7 +333,7 @@
     },
     {
       "Key": "All your units have +1 Skill for one turn.",
-      "Translation": "Все ваши отряды получают +1 Мастерство на один ход.",
+      "Translation": "Все ваши отряды получают +1 Умение на один ход.",
       "Comment": "Skill = Мастерство (ability stat)"
     },
     {
@@ -393,7 +393,7 @@
     },
     {
       "Key": "+3 Skill",
-      "Translation": "+3 Мастерство",
+      "Translation": "+3 Умение",
       "Comment": "Exceptional skill modifier"
     },
     {
@@ -413,12 +413,12 @@
     },
     {
       "Key": "+1 Power to Spell Attacks",
-      "Translation": "+1 Мощь к волшебным атакам",
+      "Translation": "+1 Мощь к атакам заклинанием",
       "Comment": "Spell Attack = волшебная атака"
     },
     {
       "Key": "+3 Spell Attack",
-      "Translation": "+3 волшебная атака",
+      "Translation": "+3 атака заклинанием",
       "Comment": "Singular variant"
     },
     {
@@ -433,7 +433,7 @@
     },
     {
       "Key": "+1 Skill",
-      "Translation": "+1 Мастерство",
+      "Translation": "+1 Умение",
       "Comment": "Single skill point"
     },
     {
@@ -448,7 +448,7 @@
     },
     {
       "Key": "+1 Ranged Attack",
-      "Translation": "+1 Дальняя атака",
+      "Translation": "+1 Дальнобойная атака",
       "Comment": "Ranged combat bonus"
     },
     {
@@ -458,7 +458,7 @@
     },
     {
       "Key": "+1 Spell Attack",
-      "Translation": "+1 волшебная атака",
+      "Translation": "+1 атака заклинанием",
       "Comment": "Magic spell combat bonus"
     },
     {
@@ -503,12 +503,12 @@
     },
     {
       "Key": "All units gets +1 Skill and rerolls failed Discipline tests this turn.",
-      "Translation": "Все отряды получают +1 Мастерство и перебрасывают провалы проверок Дисциплины в этом ходу.",
+      "Translation": "Все отряды получают +1 Умение и перебрасывают провалы проверок Дисциплины в этом ходу.",
       "Comment": "Army-wide buff ability"
     },
     {
       "Key": "Restore D3+1 wounds to a Reanimated unit, and give it +1 Power and Defense this turn.",
-      "Translation": "Восстановите D3+1 раны отряду Возрождённых, и дайте ему +1 Мощь и Защита в этом ходу.",
+      "Translation": "Восстановите D3+1 раны отряду Оживлённых, и дайте ему +1 Мощь и Защита в этом ходу.",
       "Comment": "Combined healing and buff spell for undead"
     },
     {
@@ -528,7 +528,7 @@
     },
     {
       "Key": "Target Reanimated unit has +3 Move speed and rerolls missed Attack Rolls until it's next combat.",
-      "Translation": "Целевой отряд Возрождённых получает +3 скорость движения и перебрасывает провалы броскков Атак до его следующего боя.",
+      "Translation": "Целевой отряд Оживлённых получает +3 скорость движения и перебрасывает провалы броскков Атак до его следующего боя.",
       "Comment": "Undead-specific buff ability"
     },
     {
@@ -593,17 +593,17 @@
     },
     {
       "Key": "+1 Attack, -1 Skill.",
-      "Translation": "+1 Атака, -1 Мастерство.",
+      "Translation": "+1 Атака, -1 Умение.",
       "Comment": "Balanced trade-off: aggression vs accuracy"
     },
     {
       "Key": "+1 Ranged Attack, -1 Skill.",
-      "Translation": "+1 дальняя атака, -1 Мастерство.",
+      "Translation": "+1 дальнобойная атака, -1 Умение.",
       "Comment": "Ranged specialist trade-off"
     },
     {
       "Key": "Unit counts as Reanimated. (Never fails Discipline tests, loses D3 wounds on lost combat )+1 Defense,  -1 Move Speed.",
-      "Translation": "Отряд считается Возрожденным. (Никогда не проваливает проверки Дисциплины, теряет D3 раны в проигранном бою )+1 Защита, -1 скорость движения.",
+      "Translation": "Отряд считается Оживлённым. (Никогда не проваливает проверки Дисциплины, теряет D3 раны в проигранном бою )+1 Защита, -1 скорость движения.",
       "Comment": "Undead unit classification with mechanics"
     },
     {
@@ -723,12 +723,12 @@
     },
     {
       "Key": "Paladin and retinue rerolls 1s on Attack Rolls. Activate once per battle; all friendly Knights reroll failed Attack Rolls.",
-      "Translation": "Паладин и его свита перебрасывают 1 при бросках атаки. Активируется один раз за сражение; все дружественные рыцари перебрасывают неудачные броски атаки.",
+      "Translation": "Паладин и его свита перебрасывают 1 при бросках атаки. Активировать один раз за сражение; все дружественные рыцари перебрасывают неудачные броски атаки.",
       "Comment": "Knights = Книжты; faction-wide buff ability"
     },
     {
       "Key": "Maiden and retinue rerolls 1s on Damage Saves.. Activate once per battle; all friendly Knights reroll failed Damage Saves. ",
-      "Translation": "Дева и её свита перебрасывают 1 при спасениях от урона.. Активируется один раз за сражение; все дружественные рыцари перебрасывают неудачные спасения от урона. ",
+      "Translation": "Дева и её свита перебрасывают 1 при спасениях от урона.. Активировать один раз за сражение; все дружественные рыцари перебрасывают неудачные спасения от урона. ",
       "Comment": "Female hero with armor save faction buff"
     },
     {
@@ -813,7 +813,7 @@
     },
     {
       "Key": "This units ranged attack deals 2x wounds against multiwound targets.",
-      "Translation": "Дальняя атака этого отряда наносит x2 урона по целям с несколькими ранами.",
+      "Translation": "Дальнобойная атака этого отряда наносит x2 урона по целям с несколькими ранами.",
       "Comment": "Multiwound targets = цели с несколькими ранами (armor-piercing effect)"
     },
     {
@@ -838,7 +838,7 @@
     },
     {
       "Key": "+2 Skill",
-      "Translation": "+2 Мастерство",
+      "Translation": "+2 Умение",
       "Comment": "Exceptional skill modifier"
     },
     {
@@ -968,12 +968,12 @@
     },
     {
       "Key": "+2 Ranged Attack",
-      "Translation": "+2 Дальняя атака",
+      "Translation": "+2 Дальнобойная атака",
       "Comment": "Significant ranged combat bonus"
     },
     {
       "Key": "+2 Ranged Attack, +1 Power to Ranged Attacks",
-      "Translation": "+2 Дальняя атака, +1 Мощь по дальним атакам",
+      "Translation": "+2 Дальнобойная атака, +1 Мощь по дальнобойным атакам",
       "Comment": "Combined ranged bonuses"
     },
     {
@@ -1028,7 +1028,7 @@
     },
     {
       "Key": "Ranged attack range increased by 5.",
-      "Translation": "Дальность дальней атаки увеличена на 5",
+      "Translation": "Дальность дальнобойной атаки увеличена на 5",
       "Comment": "Extended range ability"
     },
     {
@@ -1038,7 +1038,7 @@
     },
     {
       "Key": "+2 Attacks, -1 Skill.",
-      "Translation": "+2 Атаки, -1 Мастерство.",
+      "Translation": "+2 Атаки, -1 Умение.",
       "Comment": "Significant attack bonus at cost of skill"
     },
     {
@@ -1113,7 +1113,7 @@
     },
     {
       "Key": "+5 range to Ranged Attacks. Damage saves against units Ranged Attack are reduced by 1.",
-      "Translation": "+5 дальность к дальним атакам. Спасения от урона против дальних атак снижены на 1.",
+      "Translation": "+5 дальность к дальнобойным атакам. Спасения от урона против дальнобойных атак снижены на 1.",
       "Comment": "Carried over from the superseded key that differed only by a mangled digit."
     },
     {
@@ -1168,7 +1168,7 @@
     },
     {
       "Key": "Target Unit has -3 Discipline for one turn. Activate once per battle.",
-      "Translation": "Целевой отряд получает -3 к дисциплине на один ход. Активируется один раз за сражение.",
+      "Translation": "Целевой отряд получает -3 к дисциплине на один ход. Активировать один раз за сражение.",
       "Comment": ""
     },
     {

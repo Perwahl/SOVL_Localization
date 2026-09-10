@@ -53,17 +53,17 @@
     },
     {
       "Key": "Veteran Skill",
-      "Translation": "Ветеранское мастерство",
+      "Translation": "Ветеранское умение",
       "Comment": ""
     },
     {
       "Key": "Increase Skill by 1",
-      "Translation": "Увеличить мастерство на 1",
+      "Translation": "Увеличить умение на 1",
       "Comment": ""
     },
     {
       "Key": "Veteran Skill II",
-      "Translation": "Ветеранское мастерство II",
+      "Translation": "Ветеранское умение II",
       "Comment": ""
     },
     {
@@ -123,7 +123,7 @@
     },
     {
       "Key": "+1 Ranged Attack",
-      "Translation": "+1 Дальняя атака",
+      "Translation": "+1 Дальнобойная атака",
       "Comment": ""
     },
     {
@@ -378,7 +378,7 @@
     },
     {
       "Key": "Ranged attack range increased by 5.",
-      "Translation": "Дальность дальней атаки увеличена на 5",
+      "Translation": "Дальность дальнобойной атаки увеличена на 5",
       "Comment": ""
     },
     {
@@ -428,7 +428,7 @@
     },
     {
       "Key": "Unit gets +1 Combat Score",
-      "Translation": "Отряд получает +1 к боевому очку",
+      "Translation": "Отряд получает +1 к боевому счёту",
       "Comment": "Rules text: 'Combat Score' is game mechanic"
     },
     {
@@ -533,7 +533,7 @@
     },
     {
       "Key": "Damage saves against units Ranged Attack are reduced by 1.",
-      "Translation": "Сохранения урона против дальних атак отрядов снижены на 1",
+      "Translation": "Сохранения урона против дальнобойных атак отрядов снижены на 1",
       "Comment": "Typo in source: 'units' should be 'unit's'; rules text"
     },
     {
@@ -658,7 +658,7 @@
     },
     {
       "Key": "Activate once per battle, +1 Attack and Fearless.",
-      "Translation": "Активируется один раз за бой, +1 атака и бесстрашие",
+      "Translation": "Активировать один раз за бой, +1 атака и бесстрашие",
       "Comment": "Rules text"
     },
     {
