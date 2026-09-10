@@ -263,7 +263,7 @@
     },
     {
       "Key": "Heart Seeker",
-      "Translation": "心矛之弩",
+      "Translation": "心寻者",
       "Comment": "Armor-piercing ranged weapon"
     },
     {
@@ -373,7 +373,7 @@
     },
     {
       "Key": "Inferno Cannon",
-      "Translation": "炼狱炮",
+      "Translation": "地狱大炮",
       "Comment": "Fiery artillery weapon"
     },
     {
@@ -573,7 +573,7 @@
     },
     {
       "Key": "Doom Bell",
-      "Translation": "厄运钟",
+      "Translation": "厄运之钟",
       "Comment": "Cursed magical artifact"
     },
     {
@@ -748,12 +748,12 @@
     },
     {
       "Key": "Veteran Accuracy",
-      "Translation": "老兵精准",
+      "Translation": "老兵射术",
       "Comment": "Experienced marksman accuracy"
     },
     {
       "Key": "Veteran Skill",
-      "Translation": "老兵技艺",
+      "Translation": "老兵技能",
       "Comment": "Veteran combat expertise"
     },
     {
@@ -828,72 +828,72 @@
     },
     {
       "Key": "Greater Blades",
-      "Translation": "大型刀刃",
+      "Translation": "高等烈焰刃",
       "Comment": "Enhanced blade weapons"
     },
     {
       "Key": "Greater Favour",
-      "Translation": "大型恩惠",
+      "Translation": "高等恩宠",
       "Comment": "Enhanced blessing spell"
     },
     {
       "Key": "Greater Fireball",
-      "Translation": "大火球术",
+      "Translation": "高等火球术",
       "Comment": "Powerful fireball spell"
     },
     {
       "Key": "Greater Fury",
-      "Translation": "大狂怒",
+      "Translation": "高等狂怒",
       "Comment": "Enhanced rage ability"
     },
     {
       "Key": "Greater Raise",
-      "Translation": "大招魂术",
+      "Translation": "高等复活术",
       "Comment": "Enhanced summoning spell"
     },
     {
       "Key": "Greater Reanimate",
-      "Translation": "大复活术",
+      "Translation": "高等重振术",
       "Comment": "Enhanced undead raising spell"
     },
     {
       "Key": "Greater Regrowth",
-      "Translation": "大再生术",
+      "Translation": "高等重生术",
       "Comment": "Enhanced plant regeneration"
     },
     {
       "Key": "Greater Ruin",
-      "Translation": "大毁灭术",
+      "Translation": "高等毁灭",
       "Comment": "Enhanced ruin spell"
     },
     {
       "Key": "Greater Shadowbolt",
-      "Translation": "大暗影箭",
+      "Translation": "高等暗影箭",
       "Comment": "Enhanced shadow bolt spell"
     },
     {
       "Key": "Greater Shield",
-      "Translation": "大盾术",
+      "Translation": "高等光盾",
       "Comment": "Enhanced shield spell"
     },
     {
       "Key": "Greater Vigour",
-      "Translation": "大活力术",
+      "Translation": "高等活力",
       "Comment": "Enhanced vitality spell"
     },
     {
       "Key": "Greater Web",
-      "Translation": "大蛛网术",
+      "Translation": "高等秘法网",
       "Comment": "Enhanced web spell"
     },
     {
       "Key": "Greater Wildform",
-      "Translation": "大野兽形态",
+      "Translation": "高等野性形态",
       "Comment": "Enhanced transformation spell"
     },
     {
       "Key": "Thousand Maws",
-      "Translation": "千个利齿",
+      "Translation": "千齿之兽",
       "Comment": "Multi-jawed creature ability"
     },
     {
@@ -908,7 +908,7 @@
     },
     {
       "Key": "Rune Of Resilience",
-      "Translation": "韧性符文",
+      "Translation": "坚韧符文",
       "Comment": "Durability-enhancing rune"
     },
     {
@@ -983,52 +983,52 @@
     },
     {
       "Key": "Eagle Aspect",
-      "Translation": "鹰之姿态",
+      "Translation": "鹰隼外形",
       "Comment": "Eagle form transformation"
     },
     {
       "Key": "Jaguar Aspect",
-      "Translation": "美洲虎姿态",
+      "Translation": "美洲豹外形",
       "Comment": "Jaguar form transformation"
     },
     {
       "Key": "Raptor Aspect",
-      "Translation": "猛禽姿态",
+      "Translation": "猛禽外形",
       "Comment": "Raptor form transformation"
     },
     {
       "Key": "Salamander Aspect",
-      "Translation": "火蜥蜴姿态",
+      "Translation": "火蜥蜴外形",
       "Comment": "Fire elemental form"
     },
     {
       "Key": "Serpent Aspect",
-      "Translation": "蛇形姿态",
+      "Translation": "蛇形外形",
       "Comment": "Snake form transformation"
     },
     {
       "Key": "Turtle Aspect",
-      "Translation": "龟形姿态",
+      "Translation": "龟甲外形",
       "Comment": "Turtle form transformation"
     },
     {
       "Key": "Backstabbers",
-      "Translation": "背刺者",
+      "Translation": "背后捅刀者",
       "Comment": "Treacherous assassins"
     },
     {
       "Key": "Bloodlust",
-      "Translation": "嗜血",
+      "Translation": "杀戮欲望",
       "Comment": "Craving for blood/violence"
     },
     {
       "Key": "Tough As Nails",
-      "Translation": "硬如铁钉",
+      "Translation": "坚硬如铁钉",
       "Comment": "Extremely durable"
     },
     {
       "Key": "Greater Warcry",
-      "Translation": "大战吼",
+      "Translation": "高等战吼",
       "Comment": "Enhanced war cry ability"
     },
     {
@@ -1038,12 +1038,12 @@
     },
     {
       "Key": "Greater Shroud",
-      "Translation": "大隐袍术",
+      "Translation": "高等暗幕",
       "Comment": "Enhanced invisibility spell"
     },
     {
       "Key": "Greater Ward",
-      "Translation": "大防护术",
+      "Translation": "高等寒冰护盾",
       "Comment": "Enhanced protection spell"
     },
     {
@@ -1088,12 +1088,12 @@
     },
     {
       "Key": "Greater Vengeance",
-      "Translation": "大复仇光环",
+      "Translation": "高等复仇",
       "Comment": "Enhanced vengeance aura"
     },
     {
       "Key": "Greater Protection",
-      "Translation": "大保护光环",
+      "Translation": "高等保护",
       "Comment": "Enhanced protection aura"
     },
     {
@@ -1208,7 +1208,7 @@
     },
     {
       "Key": "Rally the Tribes",
-      "Translation": "集结部落",
+      "Translation": "召集部落",
       "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {

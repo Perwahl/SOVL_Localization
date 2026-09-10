@@ -48,7 +48,7 @@
     },
     {
       "Key": "Greatweapon",
-      "Translation": "Grande Arme",
+      "Translation": "Grande arme",
       "Comment": ""
     },
     {
@@ -153,7 +153,7 @@
     },
     {
       "Key": "Heavy Armor",
-      "Translation": "Armure Lourde",
+      "Translation": "Armure lourde",
       "Comment": ""
     },
     {
@@ -263,7 +263,7 @@
     },
     {
       "Key": "Heart Seeker",
-      "Translation": "Cherche-Cœur",
+      "Translation": "Traqueur de cœur",
       "Comment": "Magical weapon/ability that targets vital points"
     },
     {
@@ -573,7 +573,7 @@
     },
     {
       "Key": "Doom Bell",
-      "Translation": "Cloche du Destin",
+      "Translation": "Cloche Funeste",
       "Comment": "Ominous, fate-related"
     },
     {
@@ -658,12 +658,12 @@
     },
     {
       "Key": "Lord of Decay",
-      "Translation": "Seigneur de la Décomposition",
+      "Translation": "Seigneur de la Décadence",
       "Comment": ""
     },
     {
       "Key": "Lord of Trickery",
-      "Translation": "Seigneur de la Tromperie",
+      "Translation": "Seigneur de la Ruse",
       "Comment": ""
     },
     {
@@ -743,17 +743,17 @@
     },
     {
       "Key": "Veteran Discipline",
-      "Translation": "Discipline Vétérane",
+      "Translation": "Discipline de Vétéran",
       "Comment": ""
     },
     {
       "Key": "Veteran Accuracy",
-      "Translation": "Précision Vétérane",
+      "Translation": "Précision de Vétéran",
       "Comment": ""
     },
     {
       "Key": "Veteran Skill",
-      "Translation": "Compétence Vétérane",
+      "Translation": "Compétence de Vétéran",
       "Comment": ""
     },
     {
@@ -848,7 +848,7 @@
     },
     {
       "Key": "Greater Raise",
-      "Translation": "Lever Supérieur",
+      "Translation": "Réanimation Supérieure",
       "Comment": ""
     },
     {
@@ -858,7 +858,7 @@
     },
     {
       "Key": "Greater Regrowth",
-      "Translation": "Repousse Supérieure",
+      "Translation": "croissance Supérieure",
       "Comment": ""
     },
     {
@@ -898,7 +898,7 @@
     },
     {
       "Key": "Rune Of Farsight",
-      "Translation": "Rune de Clairvoyance",
+      "Translation": "Rune de Vision Lointaine",
       "Comment": "Dwarven rune magic"
     },
     {
@@ -1013,7 +1013,7 @@
     },
     {
       "Key": "Backstabbers",
-      "Translation": "Traîtres",
+      "Translation": "Traitres",
       "Comment": "Sneaky fighters who attack from behind"
     },
     {
@@ -1043,7 +1043,7 @@
     },
     {
       "Key": "Greater Ward",
-      "Translation": "Garde Supérieure",
+      "Translation": "Protection Supérieure",
       "Comment": ""
     },
     {
@@ -1063,12 +1063,12 @@
     },
     {
       "Key": "Master of Decay",
-      "Translation": "Maître de la Décomposition",
+      "Translation": "Maître de la Décadence",
       "Comment": ""
     },
     {
       "Key": "Master of Trickery",
-      "Translation": "Maître de la Tromperie",
+      "Translation": "Maître de la Ruse",
       "Comment": ""
     },
     {
@@ -1208,7 +1208,7 @@
     },
     {
       "Key": "Rally the Tribes",
-      "Translation": "Rassembler les tribus",
+      "Translation": "Ralliez les tribus",
       "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {

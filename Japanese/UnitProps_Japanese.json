@@ -8,8 +8,8 @@
     },
     {
       "Key": "Swift",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "迅速",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Bolt Thrower",
@@ -48,8 +48,8 @@
     },
     {
       "Key": "Greatweapon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大武器",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Hand Weapon and Shield",
@@ -153,8 +153,8 @@
     },
     {
       "Key": "Heavy Armor",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "重装甲",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Halberd",
@@ -263,8 +263,8 @@
     },
     {
       "Key": "Heart Seeker",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "心臓狙い",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "True Strike",
@@ -373,8 +373,8 @@
     },
     {
       "Key": "Inferno Cannon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "地獄火砲",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Marksman Rifle",
@@ -573,8 +573,8 @@
     },
     {
       "Key": "Doom Bell",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "滅亡の鐘",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Cruel Motivation",
@@ -658,13 +658,13 @@
     },
     {
       "Key": "Lord of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "腐敗の領主",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Lord of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "詐欺の領主",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Lord Of War",
@@ -718,8 +718,8 @@
     },
     {
       "Key": "Marksman",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "射手",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Spell Power",
@@ -738,23 +738,23 @@
     },
     {
       "Key": "Veteran Crew",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "経験を積んだ部隊",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Veteran Discipline",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "老兵の規律",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Veteran Accuracy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "老兵の精度",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Veteran Skill",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "老兵の技術",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Demonic Discipline",
@@ -828,93 +828,93 @@
     },
     {
       "Key": "Greater Blades",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大炎刃",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Favour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大いなる恵み",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Fireball",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大火球",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大狂乱",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Raise",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大死者の蘇生",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Reanimate",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大再生",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Regrowth",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "幻の再茂",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Ruin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大破壊",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Shadowbolt",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "影の矢",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "輝きの盾",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Vigour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大活力",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Web",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "幻の網",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Wildform",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大獣変化",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Thousand Maws",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "千の顎",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Rune Of Farsight",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "遠見のルーン",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Rune Of Flame",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "炎のルーン",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Rune Of Resilience",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "耐久のルーン",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Rune Of Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "速度のルーン",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Imperial Elites",
@@ -983,68 +983,68 @@
     },
     {
       "Key": "Eagle Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "鷲の姿",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Jaguar Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ジャガーの姿",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Raptor Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "猛禽の姿",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Salamander Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "サラマンダーの姿",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Serpent Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "蛇の姿",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Turtle Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "亀の姿",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Backstabbers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "背後からの襲撃者",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Bloodlust",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "血の渇望",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Tough As Nails",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "爪のように硬い",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Warcry",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大戦闘叫",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Slavers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "奴隷商人",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Shroud",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大幻隠れ",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Ward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大氷壁",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "War Gods Blessing",
@@ -1063,13 +1063,13 @@
     },
     {
       "Key": "Master of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "腐敗の達人",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Master of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "詐欺の達人",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Master Of War",
@@ -1088,13 +1088,13 @@
     },
     {
       "Key": "Greater Vengeance",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大復讐",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Protection",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大保護",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Bodkin Arrows",

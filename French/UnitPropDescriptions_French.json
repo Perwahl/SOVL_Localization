@@ -428,7 +428,7 @@
     },
     {
       "Key": "Unit rerolls 1s on Ranged Attack Rolls.",
-      "Translation": "L'Unité relance les 1s aux jets d'Attaque à Distance .",
+      "Translation": "L'unité relance les 1 aux jets d'Attaque à Distance.",
       "Comment": ""
     },
     {
@@ -463,7 +463,7 @@
     },
     {
       "Key": "+1 Power. Once per battle, cast the Fireball spell.",
-      "Translation": "+1 Puissance. Une fois par bataille, Lance le sort Boule de feu.",
+      "Translation": "+1 Puissance. Une fois par bataille, lancez le sort Boule de feu.",
       "Comment": ""
     },
     {
@@ -483,12 +483,12 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Ranged Units",
-      "Translation": "Relance les jets d'Attaques contre les Unités à Distance",
+      "Translation": "Relance les Attaques à Distance et de Combat contre les Unités à Distance",
       "Comment": ""
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Monsters.",
-      "Translation": "Relance les jets d'Attaques contre les Monstres.",
+      "Translation": "Relance les Attaques à Distance et de Combat contre les Monstres.",
       "Comment": ""
     },
     {
@@ -543,12 +543,12 @@
     },
     {
       "Key": "+1 Power to Ranged Attacks.",
-      "Translation": "+1 Puissance à l'Attaque à Distances.",
+      "Translation": "+1 Puissance aux Attaques à Distance.",
       "Comment": ""
     },
     {
       "Key": "Unit re-rolls failed Damage Saves",
-      "Translation": "L'Unité relance les jets de Sauvegarde de Dégâts ratés",
+      "Translation": "L'unité relance les Sauvegardes de Dégâts ratées",
       "Comment": ""
     },
     {
@@ -663,7 +663,7 @@
     },
     {
       "Key": "Reroll missed Attack Rolls when attacking from Flank or Rear",
-      "Translation": "Relance les jets d'Attaque ratés lors des attaques de Flanc ou de l'Arrière",
+      "Translation": "Relance les jets d'Attaque ratés lors d'une attaque de Flanc ou de l'Arrière",
       "Comment": ""
     },
     {
@@ -688,7 +688,7 @@
     },
     {
       "Key": "+1 Damage Save vs Ranged",
-      "Translation": "+1 aux sauvegardes de dégât vs attaques à Portée",
+      "Translation": "+1 Sauvegarde de Dégâts contre les Dégâts à Distance",
       "Comment": ""
     },
     {
@@ -748,7 +748,7 @@
     },
     {
       "Key": "Favoured by Trickery. Unit has Ambush Deployment and +1 Move Speed. Can Flee from Charges.",
-      "Translation": "",
+      "Translation": "Favorisé par la Ruse. L'unité a un Déploiement en embuscade et +1 Vitesse de Déplacement. Peut fuir devant une charge.",
       "Comment": ""
     },
     {
@@ -1028,12 +1028,12 @@
     },
     {
       "Key": "Ranged attack range increased by 5.",
-      "Translation": "L'Attaque à distance augmente de 5 de portée.",
+      "Translation": "Portée d'attaque à distance augmentée de 5.",
       "Comment": ""
     },
     {
       "Key": "Unit has +5 range for Ranged attacks.",
-      "Translation": "L'unité a +5 portée à ses attaques à distance.",
+      "Translation": "L'unité a +5 de portée pour les attaques à distance.",
       "Comment": ""
     },
     {
@@ -1093,22 +1093,22 @@
     },
     {
       "Key": "Range 48. Power 4. Deadly Shots (Deals 2x Wounds)",
-      "Translation": "",
+      "Translation": "Portée 48. Puissance 4. Tirs mortels (inflige 2x blessures)",
       "Comment": ""
     },
     {
       "Key": "+1 Power for Ranged Attack",
-      "Translation": "",
+      "Translation": "+1 Puissance pour les attaques à distance",
       "Comment": ""
     },
     {
       "Key": "+1 Power when charging.",
-      "Translation": "",
+      "Translation": "+1 Puissance lors d'une charge.",
       "Comment": ""
     },
     {
       "Key": "+4 Movement",
-      "Translation": "",
+      "Translation": "+4 Mouvement",
       "Comment": ""
     },
     {
@@ -1123,7 +1123,7 @@
     },
     {
       "Key": "Activate: For one turn, Commander and Retinue gains +2 to Damages Saves. Attacks set to 0.",
-      "Translation": "",
+      "Translation": "Activer : pendant un tour, le commandant et sa suite gagnent +2 aux sauvegardes contre les dégâts. Attaques ramenées à 0.",
       "Comment": ""
     },
     {
@@ -1158,7 +1158,7 @@
     },
     {
       "Key": "Re-rolls missed ranged Attack rolls. Retinue has +2 Move Speed",
-      "Translation": "",
+      "Translation": "Relance les jets d'attaque à distance ratés. La suite a +2 Vitesse de Déplacement",
       "Comment": ""
     },
     {
@@ -1168,7 +1168,7 @@
     },
     {
       "Key": "Target Unit has -3 Discipline for one turn. Activate once per battle.",
-      "Translation": "",
+      "Translation": "L'unité ciblée a -3 Discipline pendant un tour. Activer une fois par bataille.",
       "Comment": ""
     },
     {
@@ -1178,12 +1178,12 @@
     },
     {
       "Key": "This units melee attacks deal 2x wounds against multiwound targets.",
-      "Translation": "",
+      "Translation": "Les attaques de corps à corps de cette unité infligent 2x blessures aux cibles à blessures multiples.",
       "Comment": ""
     },
     {
       "Key": "Unit has +2 Move Speed and +1 to Ranged Attack Rolls.",
-      "Translation": "",
+      "Translation": "L'unité a +2 Vitesse de Déplacement et +1 aux jets d'attaque à distance.",
       "Comment": ""
     },
     {
@@ -1193,7 +1193,7 @@
     },
     {
       "Key": "Unit is Fearless. Charge Bonus: +1 Attack",
-      "Translation": "",
+      "Translation": "L'unité est Intrépide. Bonus de Charge : +1 Attaque",
       "Comment": ""
     }
   ]

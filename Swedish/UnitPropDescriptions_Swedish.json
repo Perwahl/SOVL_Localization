@@ -73,7 +73,7 @@
     },
     {
       "Key": "+1 Attack",
-      "Translation": "+1 Attack",
+      "Translation": "+1 Attacker",
       "Comment": ""
     },
     {
@@ -463,7 +463,7 @@
     },
     {
       "Key": "+1 Power. Once per battle, cast the Fireball spell.",
-      "Translation": "+1 Styrka. En gång per strid, kasta besvärjelsen Eldboll.",
+      "Translation": "+1 styrka. En gång per strid, kasta eldklotets besvärjelse.",
       "Comment": ""
     },
     {
@@ -483,7 +483,7 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Ranged Units",
-      "Translation": "Slå om Avstånds- och Närstridsattacker mot avståndsenheter",
+      "Translation": "Slå om Avstånds- och Närstridsattacker mot Avståndsenheter",
       "Comment": "Translated 'Ranged Units' literally as ranged-focused units; verify against any established unit-class terminology."
     },
     {
@@ -543,7 +543,7 @@
     },
     {
       "Key": "+1 Power to Ranged Attacks.",
-      "Translation": "+1 Styrka för Avståndsattacker.",
+      "Translation": "+1 Styrka till Avståndsattacker.",
       "Comment": ""
     },
     {
@@ -663,7 +663,7 @@
     },
     {
       "Key": "Reroll missed Attack Rolls when attacking from Flank or Rear",
-      "Translation": "Slå om missade Attackslag när enheten anfaller från flank eller bakre led",
+      "Translation": "Slå om missade Attackslag vid anfall från flank eller bakre led",
       "Comment": ""
     },
     {
@@ -688,7 +688,7 @@
     },
     {
       "Key": "+1 Damage Save vs Ranged",
-      "Translation": "+1 på Skyddskast mot Avståndsattacker",
+      "Translation": "+1 Skyddskast mot Avståndsattacker",
       "Comment": ""
     },
     {
@@ -748,7 +748,7 @@
     },
     {
       "Key": "Favoured by Trickery. Unit has Ambush Deployment and +1 Move Speed. Can Flee from Charges.",
-      "Translation": "",
+      "Translation": "Gynnad av List. Enheten har bakhållsuppställning och +1 Rörelsehastighet. Kan retirera undan anfall.",
       "Comment": ""
     },
     {
@@ -1028,7 +1028,7 @@
     },
     {
       "Key": "Ranged attack range increased by 5.",
-      "Translation": "Avståndsattackens räckvidd ökar med 5.",
+      "Translation": "Räckvidden för Avståndsattacker ökar med 5.",
       "Comment": ""
     },
     {
@@ -1098,17 +1098,17 @@
     },
     {
       "Key": "+1 Power for Ranged Attack",
-      "Translation": "",
+      "Translation": "+1 Styrka för Avståndsattack",
       "Comment": ""
     },
     {
       "Key": "+1 Power when charging.",
-      "Translation": "",
+      "Translation": "+1 Styrka vid anfall.",
       "Comment": ""
     },
     {
       "Key": "+4 Movement",
-      "Translation": "",
+      "Translation": "+4 Förflyttning",
       "Comment": ""
     },
     {
@@ -1123,7 +1123,7 @@
     },
     {
       "Key": "Activate: For one turn, Commander and Retinue gains +2 to Damages Saves. Attacks set to 0.",
-      "Translation": "",
+      "Translation": "Aktivera: under en omgång får befälhavaren och följet +2 på Skyddskast. Attacker sätts till 0.",
       "Comment": ""
     },
     {
@@ -1158,7 +1158,7 @@
     },
     {
       "Key": "Re-rolls missed ranged Attack rolls. Retinue has +2 Move Speed",
-      "Translation": "",
+      "Translation": "Slår om missade Avståndsattackslag. Följet har +2 Rörelsehastighet",
       "Comment": ""
     },
     {
@@ -1168,7 +1168,7 @@
     },
     {
       "Key": "Target Unit has -3 Discipline for one turn. Activate once per battle.",
-      "Translation": "",
+      "Translation": "Målenheten har -3 Disciplin under en omgång. Aktivera en gång per strid.",
       "Comment": ""
     },
     {
@@ -1178,12 +1178,12 @@
     },
     {
       "Key": "This units melee attacks deal 2x wounds against multiwound targets.",
-      "Translation": "",
+      "Translation": "Enhetens närstridsattacker orsakar 2x HP mot mål med flera HP.",
       "Comment": ""
     },
     {
       "Key": "Unit has +2 Move Speed and +1 to Ranged Attack Rolls.",
-      "Translation": "",
+      "Translation": "Enheten har +2 Rörelsehastighet och +1 på Avståndsattackslag.",
       "Comment": ""
     },
     {
@@ -1193,7 +1193,7 @@
     },
     {
       "Key": "Unit is Fearless. Charge Bonus: +1 Attack",
-      "Translation": "",
+      "Translation": "Enheten är Orädd. Anfallsbonus: +1 Attack",
       "Comment": ""
     }
   ]

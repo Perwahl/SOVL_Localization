@@ -73,7 +73,7 @@
     },
     {
       "Key": "+1 Attack",
-      "Translation": "+1 Ataque",
+      "Translation": "+1 de Ataque",
       "Comment": ""
     },
     {
@@ -428,7 +428,7 @@
     },
     {
       "Key": "Unit rerolls 1s on Ranged Attack Rolls.",
-      "Translation": "La unidad relanza 1s en tiradas de Ataque a Distancia.",
+      "Translation": "La unidad reintenta 1s en tiradas de Ataque a Distancia.",
       "Comment": ""
     },
     {
@@ -443,12 +443,12 @@
     },
     {
       "Key": "+1 Wounds",
-      "Translation": "+1 Heridas",
+      "Translation": "+1 de Heridas",
       "Comment": ""
     },
     {
       "Key": "+1 Ranged Attack",
-      "Translation": "+1 Ataque a Distancia",
+      "Translation": "+1 de Ataque a Distancia",
       "Comment": ""
     },
     {
@@ -483,12 +483,12 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Ranged Units",
-      "Translation": "Relanza Ataques a Distancia y Combate contra Unidades a Distancia",
+      "Translation": "Reintentar Ataques a Distancia y Combate contra Unidades a Distancia",
       "Comment": ""
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Monsters.",
-      "Translation": "Relanza Ataques a Distancia y Combate contra Monstruos.",
+      "Translation": "Reintentar Ataques a Distancia y Combate contra Monstruos.",
       "Comment": ""
     },
     {
@@ -543,17 +543,17 @@
     },
     {
       "Key": "+1 Power to Ranged Attacks.",
-      "Translation": "+1 Poder a Ataques a Distancia.",
+      "Translation": "+1 de Poder a Ataques a Distancia.",
       "Comment": ""
     },
     {
       "Key": "Unit re-rolls failed Damage Saves",
-      "Translation": "La unidad relanza Salvadas contra Daño fallidas",
+      "Translation": "La unidad reintenta Salvadas de Daño fallidas",
       "Comment": ""
     },
     {
       "Key": "Unit can move and fire ranged weapons.",
-      "Translation": "La unidad puede moverse y disparar armas a distancia.",
+      "Translation": "La unidad puede moverse y usar armas a distancia.",
       "Comment": ""
     },
     {
@@ -638,7 +638,7 @@
     },
     {
       "Key": "+1 Move Speed",
-      "Translation": "+1 Velocidad de Movimiento",
+      "Translation": "+1 de Velocidad de Movimiento",
       "Comment": ""
     },
     {
@@ -663,7 +663,7 @@
     },
     {
       "Key": "Reroll missed Attack Rolls when attacking from Flank or Rear",
-      "Translation": "Relanza tiradas de Ataque fallidas cuando ataca desde el Flanco o Retaguardia",
+      "Translation": "Reintentar tiradas de Ataque fallidas cuando ataca desde el Flanco o Retaguardia",
       "Comment": ""
     },
     {
@@ -688,7 +688,7 @@
     },
     {
       "Key": "+1 Damage Save vs Ranged",
-      "Translation": "+1 Salvada contra Daño vs Ataque a Distancia",
+      "Translation": "+1 de Salvada de Daño vs Ataque a Distancia",
       "Comment": ""
     },
     {
@@ -748,7 +748,7 @@
     },
     {
       "Key": "Favoured by Trickery. Unit has Ambush Deployment and +1 Move Speed. Can Flee from Charges.",
-      "Translation": "",
+      "Translation": "Favorecido por el Engaño. La unidad tiene Despliegue de Emboscada y +1 Velocidad de Movimiento. Puede huir de las cargas.",
       "Comment": ""
     },
     {
@@ -1028,12 +1028,12 @@
     },
     {
       "Key": "Ranged attack range increased by 5.",
-      "Translation": "El alcance de ataque a distancia se aumenta en 5.",
+      "Translation": "Rango de Ataque a Distancia aumenta 5.",
       "Comment": ""
     },
     {
       "Key": "Unit has +5 range for Ranged attacks.",
-      "Translation": "La unidad tiene +5 alcance para ataques a distancia.",
+      "Translation": "La unidad tiene +5 de rango para Ataques a Distancia.",
       "Comment": ""
     },
     {
@@ -1093,22 +1093,22 @@
     },
     {
       "Key": "Range 48. Power 4. Deadly Shots (Deals 2x Wounds)",
-      "Translation": "",
+      "Translation": "Alcance 48. Poder 4. Disparos Mortales (Causa 2x Heridas)",
       "Comment": ""
     },
     {
       "Key": "+1 Power for Ranged Attack",
-      "Translation": "",
+      "Translation": "+1 Poder para Ataque a Distancia",
       "Comment": ""
     },
     {
       "Key": "+1 Power when charging.",
-      "Translation": "",
+      "Translation": "+1 Poder al cargar.",
       "Comment": ""
     },
     {
       "Key": "+4 Movement",
-      "Translation": "",
+      "Translation": "+4 Movimiento",
       "Comment": ""
     },
     {
@@ -1123,7 +1123,7 @@
     },
     {
       "Key": "Activate: For one turn, Commander and Retinue gains +2 to Damages Saves. Attacks set to 0.",
-      "Translation": "",
+      "Translation": "Activar: durante un turno, el Comandante y el séquito ganan +2 a las Salvaciones de Daño. Ataques a 0.",
       "Comment": ""
     },
     {
@@ -1138,7 +1138,7 @@
     },
     {
       "Key": "Once per battle, all friendly units with Gift of War gain Deadly Strikes  (2x Wounds caused).\nCommander has Deadly Strikes.\n",
-      "Translation": "",
+      "Translation": "Una vez por batalla, todas las unidades aliadas con el Don de la Guerra ganan Golpes Mortales  (causa 2x Heridas).\nEl Comandante tiene Golpes Mortales.\n",
       "Comment": ""
     },
     {
@@ -1158,7 +1158,7 @@
     },
     {
       "Key": "Re-rolls missed ranged Attack rolls. Retinue has +2 Move Speed",
-      "Translation": "",
+      "Translation": "Relanza las tiradas de Ataque a Distancia fallidas. El séquito tiene +2 Velocidad de Movimiento",
       "Comment": ""
     },
     {
@@ -1168,7 +1168,7 @@
     },
     {
       "Key": "Target Unit has -3 Discipline for one turn. Activate once per battle.",
-      "Translation": "",
+      "Translation": "La unidad objetivo tiene -3 Disciplina durante un turno. Activar una vez por batalla.",
       "Comment": ""
     },
     {
@@ -1178,12 +1178,12 @@
     },
     {
       "Key": "This units melee attacks deal 2x wounds against multiwound targets.",
-      "Translation": "",
+      "Translation": "Los ataques cuerpo a cuerpo de esta unidad causan 2x heridas contra objetivos de heridas múltiples.",
       "Comment": ""
     },
     {
       "Key": "Unit has +2 Move Speed and +1 to Ranged Attack Rolls.",
-      "Translation": "",
+      "Translation": "La unidad tiene +2 Velocidad de Movimiento y +1 a las tiradas de Ataque a Distancia.",
       "Comment": ""
     },
     {
@@ -1193,7 +1193,7 @@
     },
     {
       "Key": "Unit is Fearless. Charge Bonus: +1 Attack",
-      "Translation": "",
+      "Translation": "La unidad es Intrépida. Bonificación de Carga: +1 Ataque",
       "Comment": ""
     }
   ]

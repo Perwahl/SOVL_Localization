@@ -263,7 +263,7 @@
     },
     {
       "Key": "Heart Seeker",
-      "Translation": "Buscador de Corazones",
+      "Translation": "Buscacorazones",
       "Comment": ""
     },
     {
@@ -573,7 +573,7 @@
     },
     {
       "Key": "Doom Bell",
-      "Translation": "Campana de Perdición",
+      "Translation": "Campana de la Perdición",
       "Comment": ""
     },
     {
@@ -658,7 +658,7 @@
     },
     {
       "Key": "Lord of Decay",
-      "Translation": "Señor de la Descomposición",
+      "Translation": "Señor de la Decadencia",
       "Comment": ""
     },
     {
@@ -678,32 +678,32 @@
     },
     {
       "Key": "Fey",
-      "Translation": "",
+      "Translation": "Feérico",
       "Comment": ""
     },
     {
       "Key": "Aura of Protection",
-      "Translation": "",
+      "Translation": "Aura de Protección",
       "Comment": ""
     },
     {
       "Key": "Holy Blade",
-      "Translation": "",
+      "Translation": "Hoja Sagrada",
       "Comment": ""
     },
     {
       "Key": "Aura of Vengeance",
-      "Translation": "",
+      "Translation": "Aura de Venganza",
       "Comment": ""
     },
     {
       "Key": "Lance+Shield",
-      "Translation": "",
+      "Translation": "Lanza+Escudo",
       "Comment": ""
     },
     {
       "Key": "Dark Gift",
-      "Translation": "",
+      "Translation": "Don Oscuro",
       "Comment": ""
     },
     {
@@ -713,407 +713,407 @@
     },
     {
       "Key": "Battle Hardened",
-      "Translation": "",
+      "Translation": "Curtido en Batalla",
       "Comment": ""
     },
     {
       "Key": "Marksman",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Tirador de Precisión",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Spell Power",
-      "Translation": "",
+      "Translation": "Poder de Hechizo",
       "Comment": ""
     },
     {
       "Key": "Spell Weaver",
-      "Translation": "",
+      "Translation": "Tejedor de Hechizos",
       "Comment": ""
     },
     {
       "Key": "Offensive Mastery",
-      "Translation": "",
+      "Translation": "Maestría Ofensiva",
       "Comment": ""
     },
     {
       "Key": "Veteran Crew",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Tripulación Veterana",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Veteran Discipline",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Disciplina Veterana",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Veteran Accuracy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Precisión Veterana",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Veteran Skill",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Habilidad Veterana",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Demonic Discipline",
-      "Translation": "",
+      "Translation": "Disciplina Demoníaca",
       "Comment": ""
     },
     {
       "Key": "Demonic Fury",
-      "Translation": "",
+      "Translation": "Furia Demoníaca",
       "Comment": ""
     },
     {
       "Key": "Demonic Power",
-      "Translation": "",
+      "Translation": "Poder Demoníaco",
       "Comment": ""
     },
     {
       "Key": "Demonic Resilience",
-      "Translation": "",
+      "Translation": "Resistencia Demoníaca",
       "Comment": ""
     },
     {
       "Key": "Demonic Skill",
-      "Translation": "",
+      "Translation": "Habilidad Demoníaca",
       "Comment": ""
     },
     {
       "Key": "Demonic Defense",
-      "Translation": "",
+      "Translation": "Defensa Demoníaca",
       "Comment": ""
     },
     {
       "Key": "Sword Of Ruin",
-      "Translation": "",
+      "Translation": "Espada de la Ruina",
       "Comment": ""
     },
     {
       "Key": "Cloak Of Shadows",
-      "Translation": "",
+      "Translation": "Capa de Sombras",
       "Comment": ""
     },
     {
       "Key": "Horn Of Discord",
-      "Translation": "",
+      "Translation": "Cuerno de la Discordia",
       "Comment": ""
     },
     {
       "Key": "Veteran Marksmen",
-      "Translation": "",
+      "Translation": "Tiradores Veteranos",
       "Comment": ""
     },
     {
       "Key": "Oath Of Retribution",
-      "Translation": "",
+      "Translation": "Juramento de Retribución",
       "Comment": ""
     },
     {
       "Key": "Oath Of Reckoning",
-      "Translation": "",
+      "Translation": "Juramento de Ajuste de Cuentas",
       "Comment": ""
     },
     {
       "Key": "Oath Of Vengeance",
-      "Translation": "",
+      "Translation": "Juramento de Venganza",
       "Comment": ""
     },
     {
       "Key": "Ancestral Strength",
-      "Translation": "",
+      "Translation": "Fuerza Ancestral",
       "Comment": ""
     },
     {
       "Key": "Greater Blades",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Espadas Ardientes Mejoradas",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Favour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Favor Divino Mejorado",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Fireball",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Bola de Fuego Mejorada",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Furia Primitiva Mejorada",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Raise",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Resurrección Mejorada",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Reanimate",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Reanimar Mejorado",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Regrowth",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Regeneración Mejorada",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Ruin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ruina Mejorada",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Shadowbolt",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Rayo de Sombra Mejorado",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Escudo Radiante Mejorado",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Vigour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Vigor Profano Mejorado",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Web",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Red Arcana Mejorada",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Wildform",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Forma Salvaje Mejorada",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Thousand Maws",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mil Fauces Mejoradas",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Rune Of Farsight",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Runa de Visión Lejana",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Rune Of Flame",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Runa de Fuego",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Rune Of Resilience",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Runa de Resiliencia",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Rune Of Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Runa de Velocidad",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Imperial Elites",
-      "Translation": "",
+      "Translation": "Élites Imperiales",
       "Comment": ""
     },
     {
       "Key": "Imperial Veterans",
-      "Translation": "",
+      "Translation": "Veteranos Imperiales",
       "Comment": ""
     },
     {
       "Key": "Stronger Summons",
-      "Translation": "",
+      "Translation": "Invocaciones Más Fuertes",
       "Comment": ""
     },
     {
       "Key": "Extra Limb",
-      "Translation": "",
+      "Translation": "Miembro Adicional",
       "Comment": ""
     },
     {
       "Key": "Extra Limbs",
-      "Translation": "",
+      "Translation": "Miembros Adicionales",
       "Comment": ""
     },
     {
       "Key": "Grafted Wings",
-      "Translation": "",
+      "Translation": "Alas Injertadas",
       "Comment": ""
     },
     {
       "Key": "Necrotic Infusion",
-      "Translation": "",
+      "Translation": "Infusión Necrótica",
       "Comment": ""
     },
     {
       "Key": "Putrid Hide",
-      "Translation": "",
+      "Translation": "Piel Pútrida",
       "Comment": ""
     },
     {
       "Key": "Tunneling Claws",
-      "Translation": "",
+      "Translation": "Garras Excavadoras",
       "Comment": ""
     },
     {
       "Key": "Unnatural Size",
-      "Translation": "",
+      "Translation": "Tamaño Antinatural",
       "Comment": ""
     },
     {
       "Key": "Elf Bow Mastery",
-      "Translation": "",
+      "Translation": "Maestría Élfica con el Arco",
       "Comment": ""
     },
     {
       "Key": "Elf Spear Mastery",
-      "Translation": "",
+      "Translation": "Maestría Élfica con la Lanza",
       "Comment": ""
     },
     {
       "Key": "Elf Steed Mastery",
-      "Translation": "",
+      "Translation": "Maestría Élfica Ecuestre",
       "Comment": ""
     },
     {
       "Key": "Eagle Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspecto de Águila",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Jaguar Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspecto de Jaguar",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Raptor Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspecto de Raptor",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Salamander Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspecto de Salamandra",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Serpent Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspecto de Serpiente",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Turtle Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspecto de Tortuga",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Backstabbers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Apuñaladores",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Bloodlust",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Sed de Sangre",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Tough As Nails",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Duro Como el Acero",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Warcry",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Grito de Guerra Mejorado",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Slavers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Esclavistas",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Shroud",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Manto Mejorado",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Ward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Protección Mejorada",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "War Gods Blessing",
-      "Translation": "",
+      "Translation": "Bendición del Dios de la Guerra",
       "Comment": ""
     },
     {
       "Key": "Blessing Of Decay",
-      "Translation": "",
+      "Translation": "Bendición de la Descomposición",
       "Comment": ""
     },
     {
       "Key": "Blessing Of Trickery",
-      "Translation": "",
+      "Translation": "Bendición del Engaño",
       "Comment": ""
     },
     {
       "Key": "Master of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maestro de la Decadencia",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Master of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maestro del Engaño",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Master Of War",
-      "Translation": "",
+      "Translation": "Maestro de la Guerra",
       "Comment": ""
     },
     {
       "Key": "Loyal Serfs",
-      "Translation": "",
+      "Translation": "Siervos Leales",
       "Comment": ""
     },
     {
       "Key": "Avalon Marksmen",
-      "Translation": "",
+      "Translation": "Tiradores de Avalon",
       "Comment": ""
     },
     {
       "Key": "Greater Vengeance",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Venganza Mejorada",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Protection",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Protección Mejorada",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Bodkin Arrows",
-      "Translation": "",
+      "Translation": "Flechas Perforantes",
       "Comment": ""
     },
     {
       "Key": "Serrated Arrows",
-      "Translation": "",
+      "Translation": "Flechas Dentadas",
       "Comment": ""
     },
     {
       "Key": "Splitting Arrow",
-      "Translation": "",
+      "Translation": "Flecha Divisoria",
       "Comment": ""
     },
     {
       "Key": "Trueflight Arrows",
-      "Translation": "",
+      "Translation": "Flechas Certeras",
       "Comment": ""
     },
     {
@@ -1153,12 +1153,12 @@
     },
     {
       "Key": "2 Hand Weapons",
-      "Translation": "",
+      "Translation": "2 Armas Manuales",
       "Comment": ""
     },
     {
       "Key": "2x Pistols",
-      "Translation": "",
+      "Translation": "2x Pistolas",
       "Comment": ""
     },
     {
@@ -1208,7 +1208,7 @@
     },
     {
       "Key": "Rally the Tribes",
-      "Translation": "Reagrupar a las Tribus",
+      "Translation": "Reunir a las Tribus",
       "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {

@@ -428,7 +428,7 @@
     },
     {
       "Key": "Unit rerolls 1s on Ranged Attack Rolls.",
-      "Translation": "Отряд перебрасывает единицы на броскках дальних атак.",
+      "Translation": "Отряд перебрасывает единицы на дальних бросках атаки",
       "Comment": "Ranged attack accuracy ability"
     },
     {
@@ -448,7 +448,7 @@
     },
     {
       "Key": "+1 Ranged Attack",
-      "Translation": "+1 дальняя атака",
+      "Translation": "+1 Дальняя атака",
       "Comment": "Ranged combat bonus"
     },
     {
@@ -463,7 +463,7 @@
     },
     {
       "Key": "+1 Power. Once per battle, cast the Fireball spell.",
-      "Translation": "+1 Мощь. Одого раза за сражение, съ заклинание ПОМОЛДИ Окнють.",
+      "Translation": "+1 Мощь. Один раз за сражение, используйте заклинание огненного шара.",
       "Comment": "Fireball = Помолди Окнють (direct damage spell)"
     },
     {
@@ -483,12 +483,12 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Ranged Units",
-      "Translation": "Переброс дальних и ближних атак против Немеханизированных отрядов",
+      "Translation": "Переброс дальних и ближних атак против дальних отрядов",
       "Comment": "Reroll mechanic against specific unit types"
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Monsters.",
-      "Translation": "Переброс дальних и ближних атак против Чудовищ.",
+      "Translation": "Переброс дальних и ближних атак против монстров",
       "Comment": "Specialty: monster hunter"
     },
     {
@@ -543,17 +543,17 @@
     },
     {
       "Key": "+1 Power to Ranged Attacks.",
-      "Translation": "+1 Мощь к дальним атакам.",
+      "Translation": "+1 мощь дальним атакам",
       "Comment": "Ranged damage modifier"
     },
     {
       "Key": "Unit re-rolls failed Damage Saves",
-      "Translation": "Отряд перебрасывает провалы спасений от урона",
+      "Translation": "Отряд перебрасывает неудачные сохранения урона",
       "Comment": "Unit ability without turn limitation"
     },
     {
       "Key": "Unit can move and fire ranged weapons.",
-      "Translation": "Отряд может двигаться и выстреливать ис дальних оружий.",
+      "Translation": "Отряд может двигаться и стрелять дальним оружием",
       "Comment": "Mobile ranged unit special rule"
     },
     {
@@ -663,7 +663,7 @@
     },
     {
       "Key": "Reroll missed Attack Rolls when attacking from Flank or Rear",
-      "Translation": "Переброс провалов броскков Атак при атаке с фланга или тыла",
+      "Translation": "Переброс неудачных бросков атаки при атаке с фланга или тыла",
       "Comment": "Tactical positioning bonus"
     },
     {
@@ -688,7 +688,7 @@
     },
     {
       "Key": "+1 Damage Save vs Ranged",
-      "Translation": "+1 спасение от травмы вс. дальные",
+      "Translation": "+1 сохранение урона против дальних",
       "Comment": "Specific ranged armor value"
     },
     {
@@ -748,7 +748,7 @@
     },
     {
       "Key": "Favoured by Trickery. Unit has Ambush Deployment and +1 Move Speed. Can Flee from Charges.",
-      "Translation": "",
+      "Translation": "Благословлён Коварством. Отряд имеет засадное развёртывание и +1 к скорости движения. Может бежать от натиска.",
       "Comment": ""
     },
     {
@@ -1028,12 +1028,12 @@
     },
     {
       "Key": "Ranged attack range increased by 5.",
-      "Translation": "Дальность дальних атак увеличена на 5.",
+      "Translation": "Дальность дальней атаки увеличена на 5",
       "Comment": "Extended range ability"
     },
     {
       "Key": "Unit has +5 range for Ranged attacks.",
-      "Translation": "Отряд получает +5 дальность при дальних атаках.",
+      "Translation": "Отряд имеет +5 дальность для дальних атак",
       "Comment": "Extended ranged weapon range"
     },
     {
@@ -1093,22 +1093,22 @@
     },
     {
       "Key": "Range 48. Power 4. Deadly Shots (Deals 2x Wounds)",
-      "Translation": "",
+      "Translation": "Дальность 48. Мощь 4. Смертельные выстрелы (наносит 2x ран)",
       "Comment": ""
     },
     {
       "Key": "+1 Power for Ranged Attack",
-      "Translation": "",
+      "Translation": "+1 Мощь для дальнобойной атаки",
       "Comment": ""
     },
     {
       "Key": "+1 Power when charging.",
-      "Translation": "",
+      "Translation": "+1 Мощь при натиске.",
       "Comment": ""
     },
     {
       "Key": "+4 Movement",
-      "Translation": "",
+      "Translation": "+4 к движению",
       "Comment": ""
     },
     {
@@ -1123,7 +1123,7 @@
     },
     {
       "Key": "Activate: For one turn, Commander and Retinue gains +2 to Damages Saves. Attacks set to 0.",
-      "Translation": "",
+      "Translation": "Активировать: на один ход командир и свита получают +2 к спасению от урона. Атаки снижаются до 0.",
       "Comment": ""
     },
     {
@@ -1158,7 +1158,7 @@
     },
     {
       "Key": "Re-rolls missed ranged Attack rolls. Retinue has +2 Move Speed",
-      "Translation": "",
+      "Translation": "Перебрасывает промахи в бросках дальнобойной атаки. Свита получает +2 к скорости движения",
       "Comment": ""
     },
     {
@@ -1168,22 +1168,22 @@
     },
     {
       "Key": "Target Unit has -3 Discipline for one turn. Activate once per battle.",
-      "Translation": "",
+      "Translation": "Целевой отряд получает -3 к дисциплине на один ход. Активируется один раз за сражение.",
       "Comment": ""
     },
     {
       "Key": "Target Warmachine gets +2 Defense and rerolls 1s on Ranged Attack rolls this battle.",
-      "Translation": "",
+      "Translation": "Целевая осадная машина получает +2 к защите и перебрасывает 1 в бросках дальнобойной атаки в этом сражении.",
       "Comment": ""
     },
     {
       "Key": "This units melee attacks deal 2x wounds against multiwound targets.",
-      "Translation": "",
+      "Translation": "Атаки этого отряда в ближнем бою наносят 2x ран целям с несколькими ранами.",
       "Comment": ""
     },
     {
       "Key": "Unit has +2 Move Speed and +1 to Ranged Attack Rolls.",
-      "Translation": "",
+      "Translation": "Отряд получает +2 к скорости движения и +1 к броскам дальнобойной атаки.",
       "Comment": ""
     },
     {
@@ -1193,7 +1193,7 @@
     },
     {
       "Key": "Unit is Fearless. Charge Bonus: +1 Attack",
-      "Translation": "",
+      "Translation": "Отряд Бесстрашный. Бонус натиска: +1 атака",
       "Comment": ""
     }
   ]

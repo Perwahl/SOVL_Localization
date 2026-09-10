@@ -153,7 +153,7 @@
     },
     {
       "Key": "Heavy Armor",
-      "Translation": "Tung Rustning",
+      "Translation": "Tung rustning",
       "Comment": ""
     },
     {
@@ -263,7 +263,7 @@
     },
     {
       "Key": "Heart Seeker",
-      "Translation": "Hjärtsökare",
+      "Translation": "Hjärtjägare",
       "Comment": ""
     },
     {
@@ -843,7 +843,7 @@
     },
     {
       "Key": "Greater Fury",
-      "Translation": "Större Raseri",
+      "Translation": "Större Vrede",
       "Comment": ""
     },
     {
@@ -1023,7 +1023,7 @@
     },
     {
       "Key": "Tough As Nails",
-      "Translation": "Seg som Läder",
+      "Translation": "Hård som Järn",
       "Comment": ""
     },
     {
@@ -1043,7 +1043,7 @@
     },
     {
       "Key": "Greater Ward",
-      "Translation": "Större värn",
+      "Translation": "Större Värn",
       "Comment": "Adjusted to a more natural Swedish form while keeping the distinction from protection."
     },
     {

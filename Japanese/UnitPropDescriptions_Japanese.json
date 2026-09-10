@@ -73,8 +73,8 @@
     },
     {
       "Key": "+1 Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "攻撃 +1",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Activate once per battle. Give all your units +1 Combat Score for one turn.",
@@ -428,8 +428,8 @@
     },
     {
       "Key": "Unit rerolls 1s on Ranged Attack Rolls.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットは遠距離攻撃ロールで1を再ロールできる。",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "+1 Skill",
@@ -443,13 +443,13 @@
     },
     {
       "Key": "+1 Wounds",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "耐久性 +1",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "+1 Ranged Attack",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "遠距離攻撃 +1",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "+1 Defense",
@@ -463,8 +463,8 @@
     },
     {
       "Key": "+1 Power. Once per battle, cast the Fireball spell.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "+1 力。1回の戦闘に1回、ファイアボール呪文をキャスト。",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Commander and unit has Ambush deployment",
@@ -483,13 +483,13 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Ranged Units",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "遠距離ユニットに対する遠距離・接近攻撃を再ロール。",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Monsters.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "モンスターに対する遠距離・接近攻撃を再ロール。",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
@@ -543,18 +543,18 @@
     },
     {
       "Key": "+1 Power to Ranged Attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "遠距離攻撃に武力 +1。",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Unit re-rolls failed Damage Saves",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットはダメージセーブの失敗を再ロールできる。",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Unit can move and fire ranged weapons.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットは移動してから遠距離兵器を発火できる。",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": " Unit re-rolls missed Attack Rolls.",
@@ -638,8 +638,8 @@
     },
     {
       "Key": "+1 Move Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "移動速度 +1",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "+1 Move Speed. Charge Bonus: +1 Attack.",
@@ -663,8 +663,8 @@
     },
     {
       "Key": "Reroll missed Attack Rolls when attacking from Flank or Rear",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "側面または背後から攻撃する際に外れた攻撃ロールを再ロール。",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": " +1 Attack and Fearless. Activate once per battle.",
@@ -688,8 +688,8 @@
     },
     {
       "Key": "+1 Damage Save vs Ranged",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "遠距離に対するダメージセーブ +1",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Once per battle: Gain +1 Attack\n+1 Damage Save vs Ranged",
@@ -1028,13 +1028,13 @@
     },
     {
       "Key": "Ranged attack range increased by 5.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "遠距離攻撃の射程を5増加させる。",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Unit has +5 range for Ranged attacks.",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ユニットは遠距離攻撃に射程 +5を有する。",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "+2 Attacks, -1 Skill.",

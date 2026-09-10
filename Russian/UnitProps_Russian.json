@@ -263,7 +263,7 @@
     },
     {
       "Key": "Heart Seeker",
-      "Translation": "Найдёнчик Сердец",
+      "Translation": "Сердцеискатель",
       "Comment": "Magic ability - targets vital organs"
     },
     {
@@ -373,7 +373,7 @@
     },
     {
       "Key": "Inferno Cannon",
-      "Translation": "Огненная Канона",
+      "Translation": "Адская Пушка",
       "Comment": "Fire-based siege weapon"
     },
     {
@@ -573,7 +573,7 @@
     },
     {
       "Key": "Doom Bell",
-      "Translation": "Колокол Гибели",
+      "Translation": "Колокол Судьбы",
       "Comment": "Magical bell - brings doom"
     },
     {
@@ -658,12 +658,12 @@
     },
     {
       "Key": "Lord of Decay",
-      "Translation": "Лорд Разложения",
+      "Translation": "Владыка разложения",
       "Comment": "Leader title - master of decay"
     },
     {
       "Key": "Lord of Trickery",
-      "Translation": "Лорд Коварства",
+      "Translation": "Владыка хитрости",
       "Comment": "Leader title - master of tricks"
     },
     {
@@ -738,22 +738,22 @@
     },
     {
       "Key": "Veteran Crew",
-      "Translation": "Опытные Матросы",
+      "Translation": "Ветеранский расчет",
       "Comment": "Siege weapon crew - experienced"
     },
     {
       "Key": "Veteran Discipline",
-      "Translation": "Опытная Дисциплина",
+      "Translation": "Ветеранская дисциплина",
       "Comment": "Unit ability - veteran soldiers discipline"
     },
     {
       "Key": "Veteran Accuracy",
-      "Translation": "Опытная точность",
+      "Translation": "Ветеранская точность",
       "Comment": "Veteran soldiers - accurate aim"
     },
     {
       "Key": "Veteran Skill",
-      "Translation": "Опытные Навыки",
+      "Translation": "Ветеранское мастерство",
       "Comment": "Unit ability - veteran combat skills"
     },
     {
@@ -828,92 +828,92 @@
     },
     {
       "Key": "Greater Blades",
-      "Translation": "Мощные Острия",
+      "Translation": "Могучие клинки",
       "Comment": "Enhanced weapon - powerful blades"
     },
     {
       "Key": "Greater Favour",
-      "Translation": "Основное Государственное благодеяние",
+      "Translation": "Могучее покровительство",
       "Comment": "Enhanced holy magic - greater blessing"
     },
     {
       "Key": "Greater Fireball",
-      "Translation": "Мощные Огненная громова",
+      "Translation": "Могучий огненный шар",
       "Comment": "Enhanced spell - stronger fireball"
     },
     {
       "Key": "Greater Fury",
-      "Translation": "Мощная Ярость",
+      "Translation": "Могучая ярость",
       "Comment": "Enhanced ability - greater rage"
     },
     {
       "Key": "Greater Raise",
-      "Translation": "Мощное Всковывание",
+      "Translation": "Могучее восстание",
       "Comment": "Enhanced necromancy - stronger raise dead spell"
     },
     {
       "Key": "Greater Reanimate",
-      "Translation": "Мощное Оживление",
+      "Translation": "Могучее оживление",
       "Comment": "Enhanced necromancy - stronger reanimation"
     },
     {
       "Key": "Greater Regrowth",
-      "Translation": "Мощное Восстанавление",
+      "Translation": "Могучее возрождение",
       "Comment": "Enhanced nature magic - stronger plant growth"
     },
     {
       "Key": "Greater Ruin",
-      "Translation": "Мощное Опустошение",
+      "Translation": "Могучая гибель",
       "Comment": "Enhanced dark magic - greater destruction"
     },
     {
       "Key": "Greater Shadowbolt",
-      "Translation": "Мощная Теньяная стрела",
+      "Translation": "Могучий черный болт",
       "Comment": "Enhanced dark spell - stronger shadow projectile"
     },
     {
       "Key": "Greater Shield",
-      "Translation": "Мощная Защита",
+      "Translation": "Могучий щит",
       "Comment": "Enhanced protection - stronger shield spell"
     },
     {
       "Key": "Greater Vigour",
-      "Translation": "Мощная Могущество",
+      "Translation": "Могучая энергия",
       "Comment": "Enhanced health/power - greater vitality"
     },
     {
       "Key": "Greater Web",
-      "Translation": "Мощная Сеть",
+      "Translation": "Могучая сеть",
       "Comment": "Enhanced spider ability - stronger web trap"
     },
     {
       "Key": "Greater Wildform",
-      "Translation": "Мощная Дикая Форма",
+      "Translation": "Могучая дикая форма",
       "Comment": "Enhanced druid ability - stronger beast form"
     },
     {
       "Key": "Thousand Maws",
-      "Translation": "Тысяча Пастей",
+      "Translation": "Тысяча пастей",
       "Comment": "Monster ability - multiple mouths attack"
     },
     {
       "Key": "Rune Of Farsight",
-      "Translation": "Новые Дальновидения",
+      "Translation": "Руна дальновидения",
       "Comment": "Rune magic - long-range vision"
     },
     {
       "Key": "Rune Of Flame",
-      "Translation": "Новые Огня",
+      "Translation": "Руна пламени",
       "Comment": "Rune magic - fire enhancement"
     },
     {
       "Key": "Rune Of Resilience",
-      "Translation": "Новые Непоколебимости",
+      "Translation": "Руна устойчивости",
       "Comment": "Rune magic - durability boost"
     },
     {
       "Key": "Rune Of Speed",
-      "Translation": "Новые Скорости",
+      "Translation": "Руна скорости",
       "Comment": "Rune magic - speed enhancement"
     },
     {
@@ -983,67 +983,67 @@
     },
     {
       "Key": "Eagle Aspect",
-      "Translation": "Орлиная Останца",
+      "Translation": "Облик орла",
       "Comment": "Beast form - eagle transformation"
     },
     {
       "Key": "Jaguar Aspect",
-      "Translation": "Ягуаровая Останца",
+      "Translation": "Облик ягуара",
       "Comment": "Beast form - jaguar transformation"
     },
     {
       "Key": "Raptor Aspect",
-      "Translation": "Хищная Останца",
+      "Translation": "Облик ястреба",
       "Comment": "Beast form - raptor transformation"
     },
     {
       "Key": "Salamander Aspect",
-      "Translation": "Останца Саламандры",
+      "Translation": "Облик саламандры",
       "Comment": "Beast form - fire salamander transformation"
     },
     {
       "Key": "Serpent Aspect",
-      "Translation": "Останца Змеи",
+      "Translation": "Облик змеи",
       "Comment": "Beast form - serpent transformation"
     },
     {
       "Key": "Turtle Aspect",
-      "Translation": "Останца Черепахи",
+      "Translation": "Облик черепахи",
       "Comment": "Beast form - turtle transformation"
     },
     {
       "Key": "Backstabbers",
-      "Translation": "Колючники",
+      "Translation": "Ударники в спину",
       "Comment": "Rogue unit - sneaky attackers"
     },
     {
       "Key": "Bloodlust",
-      "Translation": "Жажда Крови",
+      "Translation": "Жажда крови",
       "Comment": "Combat trait - hunger for blood"
     },
     {
       "Key": "Tough As Nails",
-      "Translation": "Неусыпающий",
+      "Translation": "Крепкий как гвоздь",
       "Comment": "Unit trait - exceptionally hard/tough"
     },
     {
       "Key": "Greater Warcry",
-      "Translation": "Мощные Войнские Крики",
+      "Translation": "Могучий боевой клич",
       "Comment": "Enhanced ability - powerful battle cry"
     },
     {
       "Key": "Slavers",
-      "Translation": "Орх",
+      "Translation": "Торговцы рабами",
       "Comment": "Evil unit - slavers/captors"
     },
     {
       "Key": "Greater Shroud",
-      "Translation": "Мощное Оскрытие",
+      "Translation": "Могучий покров",
       "Comment": "Enhanced concealment - stronger invisibility"
     },
     {
       "Key": "Greater Ward",
-      "Translation": "Мощная Охрана",
+      "Translation": "Могучий щит защиты",
       "Comment": "Enhanced protection - stronger ward spell"
     },
     {
@@ -1063,12 +1063,12 @@
     },
     {
       "Key": "Master of Decay",
-      "Translation": "Мастер Разложения",
+      "Translation": "Мастер разложения",
       "Comment": "Master title - decay magic master"
     },
     {
       "Key": "Master of Trickery",
-      "Translation": "Мастер Коварства",
+      "Translation": "Мастер хитрости",
       "Comment": "Master title - trickery expert"
     },
     {
@@ -1088,12 +1088,12 @@
     },
     {
       "Key": "Greater Vengeance",
-      "Translation": "Мощная Месть",
+      "Translation": "Могучая месть",
       "Comment": "Enhanced retribution - greater vengeance"
     },
     {
       "Key": "Greater Protection",
-      "Translation": "Мощная Защита",
+      "Translation": "Могучая защита",
       "Comment": "Enhanced defense - stronger protection"
     },
     {
@@ -1208,7 +1208,7 @@
     },
     {
       "Key": "Rally the Tribes",
-      "Translation": "Сплотить племена",
+      "Translation": "Соберите племена",
       "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
