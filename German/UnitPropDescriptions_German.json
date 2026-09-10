@@ -398,357 +398,357 @@
     },
     {
       "Key": "+1 Power, +1 Attack",
-      "Translation": "",
+      "Translation": "+1 Stärke, +1 Angriff",
       "Comment": ""
     },
     {
       "Key": "Reroll failed Damage Saves",
-      "Translation": "",
+      "Translation": "Fehlgeschlagene Schadensrettungswürfe erneut würfeln",
       "Comment": ""
     },
     {
       "Key": "+3 Wounds",
-      "Translation": "",
+      "Translation": "+3 Wunden",
       "Comment": ""
     },
     {
       "Key": "+1 Power to Spell Attacks",
-      "Translation": "",
+      "Translation": "+1 Stärke auf Zauberangriffe",
       "Comment": ""
     },
     {
       "Key": "+3 Spell Attack",
-      "Translation": "",
+      "Translation": "+3 Zauberangriff",
       "Comment": ""
     },
     {
       "Key": "+3 Attack",
-      "Translation": "",
+      "Translation": "+3 Angriff",
       "Comment": ""
     },
     {
       "Key": "Unit rerolls 1s on Ranged Attack Rolls.",
-      "Translation": "",
+      "Translation": "Einheit würfelt 1er bei Fernkampfangriffen erneut.",
       "Comment": ""
     },
     {
       "Key": "+1 Skill",
-      "Translation": "",
+      "Translation": "+1 Fertigkeit",
       "Comment": ""
     },
     {
       "Key": "+1 Power",
-      "Translation": "",
+      "Translation": "+1 Stärke",
       "Comment": ""
     },
     {
       "Key": "+1 Wounds",
-      "Translation": "",
+      "Translation": "+1 Wunden",
       "Comment": ""
     },
     {
       "Key": "+1 Ranged Attack",
-      "Translation": "",
+      "Translation": "+1 Fernkampf-Angriff",
       "Comment": ""
     },
     {
       "Key": "+1 Defense",
-      "Translation": "",
+      "Translation": "+1 Verteidigung",
       "Comment": ""
     },
     {
       "Key": "+1 Spell Attack",
-      "Translation": "",
+      "Translation": "+1 Zauberangriff",
       "Comment": ""
     },
     {
       "Key": "+1 Power. Once per battle, cast the Fireball spell.",
-      "Translation": "",
+      "Translation": "+1 Stärke. Einmal pro Schlacht den Feuerball-Zauber wirken.",
       "Comment": ""
     },
     {
       "Key": "Commander and unit has Ambush deployment",
-      "Translation": "",
+      "Translation": "Kommandant und Einheit haben Hinterhalt-Aufstellung",
       "Comment": ""
     },
     {
       "Key": "All enemy units re-roll successful Discipline tests this turn. Use once per battle.",
-      "Translation": "",
+      "Translation": "Alle feindlichen Einheiten würfeln in dieser Runde erfolgreiche Disziplinproben erneut. Einmal pro Schlacht einsetzbar.",
       "Comment": ""
     },
     {
       "Key": "+1 to hit with Ranged Attacks.",
-      "Translation": "",
+      "Translation": "+1 auf Treffer mit Fernkampfangriffen.",
       "Comment": ""
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Ranged Units",
-      "Translation": "",
+      "Translation": "Würfle Fernkampf- und Nahkampfangriffe gegen Fernkampfeinheiten erneut",
       "Comment": ""
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Monsters.",
-      "Translation": "",
+      "Translation": "Würfle Fernkampf- und Nahkampfangriffe gegen Monster erneut.",
       "Comment": ""
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "",
+      "Translation": "Fernkampf- und Nahkampfangriffe gegen Kavallerie und Streitwagen erneut würfeln",
       "Comment": ""
     },
     {
       "Key": "Unit is Fearless. Once per battle, gain +3 Power this turn.",
-      "Translation": "",
+      "Translation": "Einheit ist Furchtlos. Einmal pro Schlacht in dieser Runde +3 Stärke erhalten.",
       "Comment": ""
     },
     {
       "Key": "All units gets +1 Skill and rerolls failed Discipline tests this turn.",
-      "Translation": "",
+      "Translation": "Alle Einheiten erhalten +1 Fertigkeit und würfeln in dieser Runde fehlgeschlagene Disziplinproben erneut.",
       "Comment": ""
     },
     {
       "Key": "Restore D3+1 wounds to a Reanimated unit, and give it +1 Power and Defense this turn.",
-      "Translation": "",
+      "Translation": "Stellt W3+1 Wunden bei einer Wiederbelebt-Einheit wieder her und gibt ihr in dieser Runde +1 Stärke und Verteidigung.",
       "Comment": ""
     },
     {
       "Key": "Restore D3+1 wounds to any unit.",
-      "Translation": "",
+      "Translation": "Stellt W3+1 Wunden bei einer beliebigen Einheit wieder her.",
       "Comment": ""
     },
     {
       "Key": "Target unit has -3 Defense and Power until end of turn.",
-      "Translation": "",
+      "Translation": "Zieleinheit hat bis zum Ende der Runde -3 Verteidigung und Stärke.",
       "Comment": ""
     },
     {
       "Key": "Target unit rerolls failed damage saves this turn.",
-      "Translation": "",
+      "Translation": "Zieleinheit würfelt in dieser Runde fehlgeschlagene Schadensrettungswürfe erneut.",
       "Comment": ""
     },
     {
       "Key": "Target Reanimated unit has +3 Move speed and rerolls missed Attack Rolls until it's next combat.",
-      "Translation": "",
+      "Translation": "Wiederbelebte Zieleinheit hat +3 Bewegungsgeschwindigkeit und würfelt verfehlte Angriffswürfe bis zu ihrem nächsten Nahkampf erneut.",
       "Comment": ""
     },
     {
       "Key": "Reduce target units movement speed to 0 this turn.",
-      "Translation": "",
+      "Translation": "Senkt die Bewegungsgeschwindigkeit der Zieleinheit in dieser Runde auf 0.",
       "Comment": ""
     },
     {
       "Key": "Unit can fire ranged weapons in one additional rank.\nRerolls 1s on Ranged Attack Rolls.",
-      "Translation": "",
+      "Translation": "Einheit kann Fernkampfwaffen in einer zusätzlichen Reihe abfeuern.\nWürfelt 1er bei Fernkampfangriffswürfen erneut.",
       "Comment": ""
     },
     {
       "Key": "+1 Power to Ranged Attacks.",
-      "Translation": "",
+      "Translation": "+1 Stärke für Fernkampfangriffe.",
       "Comment": ""
     },
     {
       "Key": "Unit re-rolls failed Damage Saves",
-      "Translation": "",
+      "Translation": "Einheit würfelt fehlgeschlagene Schadensrettungswürfe erneut",
       "Comment": ""
     },
     {
       "Key": "Unit can move and fire ranged weapons.",
-      "Translation": "",
+      "Translation": "Einheit kann sich bewegen und Fernkampfwaffen einsetzen.",
       "Comment": ""
     },
     {
       "Key": " Unit re-rolls missed Attack Rolls.",
-      "Translation": "",
+      "Translation": " Einheit würfelt verfehlte Angriffswürfe erneut.",
       "Comment": ""
     },
     {
       "Key": "Unit re-rolls missed Attack Rolls and is Fearless (Ignores penalties to Discipline tests).",
-      "Translation": "",
+      "Translation": "Einheit würfelt verfehlte Angriffswürfe erneut und ist Furchtlos (ignoriert Abzüge auf Disziplinproben).",
       "Comment": ""
     },
     {
       "Key": "Unit has +1 to Combat Score and is Fearless (Ignores penalties to Discipline tests).",
-      "Translation": "",
+      "Translation": "Einheit hat +1 auf Kampfwert und ist Furchtlos (ignoriert Abzüge auf Disziplinproben).",
       "Comment": ""
     },
     {
       "Key": "Unit has +1 to Combat Score.",
-      "Translation": "",
+      "Translation": "Einheit hat +1 auf Kampfwert.",
       "Comment": ""
     },
     {
       "Key": "Reduce Crumble rolls by 1. Increase Move Speed by 1. +3 Wounds",
-      "Translation": "",
+      "Translation": "Senkt Zerfallswürfe um 1. Erhöht Bewegungsgeschwindigkeit um 1. +3 Wunden",
       "Comment": ""
     },
     {
       "Key": "Reduce Crumble rolls by 1.",
-      "Translation": "",
+      "Translation": "Senkt Zerfallswürfe um 1.",
       "Comment": ""
     },
     {
       "Key": "Reduce Crumble rolls by 1. Increase Move Speed by 1.",
-      "Translation": "",
+      "Translation": "Senkt Zerfallswürfe um 1. Erhöht Bewegungsgeschwindigkeit um 1.",
       "Comment": ""
     },
     {
       "Key": "+1 Attack, -1 Skill.",
-      "Translation": "",
+      "Translation": "+1 Angriff, -1 Fertigkeit.",
       "Comment": ""
     },
     {
       "Key": "+1 Ranged Attack, -1 Skill.",
-      "Translation": "",
+      "Translation": "+1 Fernkampfangriff, -1 Fertigkeit.",
       "Comment": ""
     },
     {
       "Key": "Unit counts as Reanimated. (Never fails Discipline tests, loses D3 wounds on lost combat )+1 Defense,  -1 Move Speed.",
-      "Translation": "",
+      "Translation": "Einheit gilt als Wiederbelebt. (Besteht Disziplinproben immer, verliert W3 Wunden bei verlorenem Nahkampf )+1 Verteidigung,  -1 Bewegungsgeschwindigkeit.",
       "Comment": ""
     },
     {
       "Key": "Opponents re-roll hits in close combat. ",
-      "Translation": "",
+      "Translation": "Gegner würfeln Treffer im Nahkampf erneut. ",
       "Comment": ""
     },
     {
       "Key": "Ambush deployment.",
-      "Translation": "",
+      "Translation": "Hinterhalt-Aufstellung.",
       "Comment": ""
     },
     {
       "Key": "+1 Wound. -1 Move Speed.",
-      "Translation": "",
+      "Translation": "+1 Wunde. -1 Bewegungsgeschwindigkeit.",
       "Comment": ""
     },
     {
       "Key": "+1 Wounds. +1Power",
-      "Translation": "",
+      "Translation": "+1 Wunden. +1 Stärke",
       "Comment": ""
     },
     {
       "Key": "Unit gets supporting attacks from one extra rank.",
-      "Translation": "",
+      "Translation": "Einheit erhält Unterstützungsangriffe aus einer zusätzlichen Reihe.",
       "Comment": ""
     },
     {
       "Key": "Unit gets supporting attacks from one extra rank and re-rolls missed Attack Rolls.",
-      "Translation": "",
+      "Translation": "Einheit erhält Unterstützungsangriffe aus einer zusätzlichen Reihe und würfelt verfehlte Angriffswürfe erneut.",
       "Comment": ""
     },
     {
       "Key": "+1 Move Speed",
-      "Translation": "",
+      "Translation": "+1 Bewegungsgeschwindigkeit",
       "Comment": ""
     },
     {
       "Key": "+1 Move Speed. Charge Bonus: +1 Attack.",
-      "Translation": "",
+      "Translation": "+1 Bewegungsgeschwindigkeit. Ansturmbonus: +1 Angriff.",
       "Comment": ""
     },
     {
       "Key": "+1 Move Speed and ignores Difficult Terrain",
-      "Translation": "",
+      "Translation": "+1 Bewegungsgeschwindigkeit und ignoriert Schwieriges Gelände",
       "Comment": ""
     },
     {
       "Key": "Regeneration. (restores all wounds at end of turn)",
-      "Translation": "",
+      "Translation": "Regeneration. (stellt am Ende der Runde alle Wunden wieder her)",
       "Comment": ""
     },
     {
       "Key": "Unit re-rolls 1s on Damage Saves",
-      "Translation": "",
+      "Translation": "Einheit würfelt 1er bei Schadensrettungswürfen erneut",
       "Comment": ""
     },
     {
       "Key": "Reroll missed Attack Rolls when attacking from Flank or Rear",
-      "Translation": "",
+      "Translation": "Würfle fehlgeschlagene Angriffserfolge erneut bei Angriffen von der Flanke oder von hinten",
       "Comment": ""
     },
     {
       "Key": " +1 Attack and Fearless. Activate once per battle.",
-      "Translation": "",
+      "Translation": " +1 Angriff und Furchtlos. Einmal pro Schlacht aktivieren.",
       "Comment": ""
     },
     {
       "Key": " Reroll 1s on Damage Saves",
-      "Translation": "",
+      "Translation": " 1er bei Schadensrettungswürfen erneut würfeln",
       "Comment": ""
     },
     {
       "Key": "Earns 1 gold for each enemy killed in Combat.",
-      "Translation": "",
+      "Translation": "Verdient 1 Gold für jeden im Nahkampf getöteten Feind.",
       "Comment": ""
     },
     {
       "Key": "All friendly units counts as being in Cover against ranged attacks untill it's next combat.",
-      "Translation": "",
+      "Translation": "Alle befreundeten Einheiten gelten bis zu ihrem nächsten Nahkampf als in Deckung gegen Fernkampfangriffe.",
       "Comment": ""
     },
     {
       "Key": "+1 Damage Save vs Ranged",
-      "Translation": "",
+      "Translation": "+1 Schadensrettungswurf gegen Fernkampf",
       "Comment": ""
     },
     {
       "Key": "Once per battle: Gain +1 Attack\n+1 Damage Save vs Ranged",
-      "Translation": "",
+      "Translation": "Einmal pro Schlacht: +1 Angriff erhalten\n+1 Schadensrettungswurf gegen Fernkampf",
       "Comment": ""
     },
     {
       "Key": " +1 Wounds",
-      "Translation": "",
+      "Translation": " +1 Wunden",
       "Comment": ""
     },
     {
       "Key": "Once per battle: Gain Flying for one turn. \n+1 Move Speed",
-      "Translation": "",
+      "Translation": "Einmal pro Schlacht: Für eine Runde Fliegend erhalten. \n+1 Bewegungsgeschwindigkeit",
       "Comment": ""
     },
     {
       "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration.",
-      "Translation": "",
+      "Translation": "Einmal pro Schlacht würfeln alle befreundeten Einheiten mit Gabe der Verwesung fehlgeschlagene Schadensrettungswürfe erneut.\nRegeneration.",
       "Comment": ""
     },
     {
       "Key": "Once per battle, all friendly units with Gift of Trickery gain +3 move speed and Cover.\nAmbush Deployment.\n",
-      "Translation": "",
+      "Translation": "Einmal pro Schlacht erhalten alle befreundeten Einheiten mit Gabe der Täuschung +3 Bewegungsgeschwindigkeit und Deckung.\nHinterhalt-Aufstellung.\n",
       "Comment": ""
     },
     {
       "Key": "Unit has +10 range for Ranged attacks.",
-      "Translation": "",
+      "Translation": "Einheit hat +10 Reichweite für Fernkampfangriffe.",
       "Comment": ""
     },
     {
       "Key": "Paladin and retinue rerolls 1s on Attack Rolls. Activate once per battle; all friendly Knights reroll failed Attack Rolls.",
-      "Translation": "",
+      "Translation": "Paladin und Gefolge würfeln 1er bei Angriffswürfen erneut. Einmal pro Schlacht aktivieren; alle befreundeten Ritter würfeln fehlgeschlagene Angriffswürfe erneut.",
       "Comment": ""
     },
     {
       "Key": "Maiden and retinue rerolls 1s on Damage Saves.. Activate once per battle; all friendly Knights reroll failed Damage Saves. ",
-      "Translation": "",
+      "Translation": "Maid und Gefolge würfeln 1er bei Schadensrettungswürfen erneut.. Einmal pro Schlacht aktivieren; alle befreundeten Ritter würfeln fehlgeschlagene Schadensrettungswürfe erneut. ",
       "Comment": ""
     },
     {
       "Key": "-1 to targets Damage Save",
-      "Translation": "",
+      "Translation": "-1 auf den Schadensrettungswurf des Ziels",
       "Comment": ""
     },
     {
       "Key": "Gain +3 ranged attacks.",
-      "Translation": "",
+      "Translation": "+3 Fernkampfangriffe erhalten.",
       "Comment": ""
     },
     {
       "Key": "Ranged attacks have +10 range and ignores cover.",
-      "Translation": "",
+      "Translation": "Fernkampfangriffe haben +10 Reichweite und ignorieren Deckung.",
       "Comment": ""
     },
     {
       "Key": "Favoured by Trickery. Unit has Ambush Deployment and +1 Move Speed. Can Flee from Charges.",
-      "Translation": "",
+      "Translation": "Von der Täuschung begünstigt. Einheit hat Hinterhalt-Aufstellung und +1 Bewegungsgeschwindigkeit. Kann vor einem Ansturm flüchten.",
       "Comment": ""
     },
     {
@@ -963,157 +963,157 @@
     },
     {
       "Key": "+2 Wounds",
-      "Translation": "",
+      "Translation": "+2 Wunden",
       "Comment": ""
     },
     {
       "Key": "+2 Ranged Attack",
-      "Translation": "",
+      "Translation": "+2 Fernkampfangriff",
       "Comment": ""
     },
     {
       "Key": "+2 Ranged Attack, +1 Power to Ranged Attacks",
-      "Translation": "",
+      "Translation": "+2 Fernkampfangriff, +1 Stärke auf Fernkampfangriffe",
       "Comment": ""
     },
     {
       "Key": "+2 Spell Attacks",
-      "Translation": "",
+      "Translation": "+2 Zauberangriffe",
       "Comment": ""
     },
     {
       "Key": "+2 Attack",
-      "Translation": "",
+      "Translation": "+2 Angriff",
       "Comment": ""
     },
     {
       "Key": "+2 Ranged Attacks",
-      "Translation": "",
+      "Translation": "+2 Fernkampfangriffe",
       "Comment": ""
     },
     {
       "Key": "+2 Discipline",
-      "Translation": "",
+      "Translation": "+2 Disziplin",
       "Comment": ""
     },
     {
       "Key": "Target unit gets +2 Power in their next combat round.",
-      "Translation": "",
+      "Translation": "Zieleinheit erhält +2 Stärke in ihrer nächsten Nahkampfrunde.",
       "Comment": ""
     },
     {
       "Key": "2D6 Power 5 hits. Range 30.",
-      "Translation": "",
+      "Translation": "2W6 Treffer mit Stärke 5. Reichweite 30.",
       "Comment": ""
     },
     {
       "Key": "Target unit has +2 Power and rerolls missed Attack Rolls this turn.",
-      "Translation": "",
+      "Translation": "Zieleinheit hat +2 Stärke und würfelt in dieser Runde verfehlte Angriffswürfe erneut.",
       "Comment": ""
     },
     {
       "Key": "3 x Power 5 hits. Range: 24.",
-      "Translation": "",
+      "Translation": "3 x Treffer mit Stärke 5. Reichweite: 24.",
       "Comment": ""
     },
     {
       "Key": "Caster has +1 Power,  +1 Defense and +4 Attacks this turn.",
-      "Translation": "",
+      "Translation": "Zauberer hat in dieser Runde +1 Stärke,  +1 Verteidigung und +4 Angriffe.",
       "Comment": ""
     },
     {
       "Key": "3D6 Power 2 hits. Range 18.",
-      "Translation": "",
+      "Translation": "3W6 Treffer mit Stärke 2. Reichweite 18.",
       "Comment": ""
     },
     {
       "Key": "Ranged attack range increased by 5.",
-      "Translation": "",
+      "Translation": "Fernkampfreichweite um 5 erhöht.",
       "Comment": ""
     },
     {
       "Key": "Unit has +5 range for Ranged attacks.",
-      "Translation": "",
+      "Translation": "Einheit hat +5 Reichweite für Fernkampfangriffe.",
       "Comment": ""
     },
     {
       "Key": "+2 Attacks, -1 Skill.",
-      "Translation": "",
+      "Translation": "+2 Angriffe, -1 Fertigkeit.",
       "Comment": ""
     },
     {
       "Key": "Range 12. 2D3 Power 5. -1 Defense.",
-      "Translation": "",
+      "Translation": "Reichweite 12. 2W3 Stärke 5. -1 Verteidigung.",
       "Comment": ""
     },
     {
       "Key": "Range 12. D3 Power 5. -1 Defense.",
-      "Translation": "",
+      "Translation": "Reichweite 12. W3 Stärke 5. -1 Verteidigung.",
       "Comment": ""
     },
     {
       "Key": "Fly Speed 14. Ignore Terrain. -1 Discipline.",
-      "Translation": "",
+      "Translation": "Fluggeschwindigkeit 14. Ignoriert Gelände. -1 Disziplin.",
       "Comment": ""
     },
     {
       "Key": "+2 Wounds. -1 Move Speed.",
-      "Translation": "",
+      "Translation": "+2 Wunden. -1 Bewegungsgeschwindigkeit.",
       "Comment": ""
     },
     {
       "Key": "+5 range to Ranged Attacks",
-      "Translation": "",
+      "Translation": "+5 Reichweite auf Fernkampfangriffe",
       "Comment": ""
     },
     {
       "Key": "Lethal Attacks. (2x wounds)",
-      "Translation": "",
+      "Translation": "Tödliche Angriffe. (2x Wunden)",
       "Comment": ""
     },
     {
       "Key": "Poisoned Attacks (enemies re-roll 6s on Damage Saves)",
-      "Translation": "",
+      "Translation": "Vergiftete Angriffe (Feinde würfeln 6er bei Schadensrettungswürfen erneut)",
       "Comment": ""
     },
     {
       "Key": "All your units have +1 Power  and +2 Move Speed for one turn.",
-      "Translation": "",
+      "Translation": "Alle deine Einheiten haben für eine Runde +1 Stärke  und +2 Bewegungsgeschwindigkeit.",
       "Comment": ""
     },
     {
       "Key": "Target unit gets +2 to Damage Saves this turn.",
-      "Translation": "",
+      "Translation": "Zieleinheit erhält in dieser Runde +2 auf Schadensrettungswürfe.",
       "Comment": ""
     },
     {
       "Key": "These arrows deal 2x wounds against multiwound targets.",
-      "Translation": "",
+      "Translation": "Diese Pfeile verursachen 2x Wunden gegen Ziele mit mehreren Wunden.",
       "Comment": ""
     },
     {
       "Key": "Range 48. Power 4. Deadly Shots (Deals 2x Wounds)",
-      "Translation": "",
+      "Translation": "Reichweite 48. Stärke 4. Tödliche Schüsse (Verursacht 2x Wunden)",
       "Comment": ""
     },
     {
       "Key": "+1 Power for Ranged Attack",
-      "Translation": "",
+      "Translation": "+1 Stärke für Fernkampfangriff",
       "Comment": ""
     },
     {
       "Key": "+1 Power when charging.",
-      "Translation": "",
+      "Translation": "+1 Stärke beim Ansturm.",
       "Comment": ""
     },
     {
       "Key": "+4 Movement",
-      "Translation": "",
+      "Translation": "+4 Bewegung",
       "Comment": ""
     },
     {
       "Key": "+5 range to Ranged Attacks. Damage saves against units Ranged Attack are reduced by 1.",
-      "Translation": "",
+      "Translation": "+5 Reichweite auf Fernkampfangriffe. Schadensrettungswürfe gegen die Fernkampfangriffe der Einheit werden um 1 gesenkt.",
       "Comment": ""
     },
     {
@@ -1123,7 +1123,7 @@
     },
     {
       "Key": "Activate: For one turn, Commander and Retinue gains +2 to Damages Saves. Attacks set to 0.",
-      "Translation": "",
+      "Translation": "Aktivieren: Für eine Runde erhalten Kommandant und Gefolge +2 auf Schadensrettungswürfe. Angriffe auf 0 gesetzt.",
       "Comment": ""
     },
     {
@@ -1138,7 +1138,7 @@
     },
     {
       "Key": "Once per battle, all friendly units with Gift of War gain Deadly Strikes  (2x Wounds caused).\nCommander has Deadly Strikes.\n",
-      "Translation": "",
+      "Translation": "Einmal pro Schlacht erhalten alle befreundeten Einheiten mit Gabe des Krieges Tödliche Schläge  (2x Wunden verursacht).\nKommandant hat Tödliche Schläge.\n",
       "Comment": ""
     },
     {
@@ -1148,17 +1148,17 @@
     },
     {
       "Key": "Poisoned Attacks. (Opponent rerolls 6s on Damage Saves)\n+1 Wounds",
-      "Translation": "",
+      "Translation": "Vergiftete Angriffe. (Gegner würfelt 6er bei Schadensrettungswürfen erneut)\n+1 Wunden",
       "Comment": ""
     },
     {
       "Key": "Raise 2D3+3 models on a Zombie or Skeleton Warrior, Spear or Archer unit.",
-      "Translation": "",
+      "Translation": "Erweckt 2W3+3 Modelle bei einer Zombie- oder Skelettkrieger-, Speer- oder Bogenschützen-Einheit.",
       "Comment": ""
     },
     {
       "Key": "Re-rolls missed ranged Attack rolls. Retinue has +2 Move Speed",
-      "Translation": "",
+      "Translation": "Würfelt verfehlte Fernkampfangriffswürfe erneut. Gefolge hat +2 Bewegungsgeschwindigkeit",
       "Comment": ""
     },
     {
@@ -1168,7 +1168,7 @@
     },
     {
       "Key": "Target Unit has -3 Discipline for one turn. Activate once per battle.",
-      "Translation": "",
+      "Translation": "Zieleinheit hat für eine Runde -3 Disziplin. Einmal pro Schlacht aktivieren.",
       "Comment": ""
     },
     {
@@ -1178,22 +1178,22 @@
     },
     {
       "Key": "This units melee attacks deal 2x wounds against multiwound targets.",
-      "Translation": "",
+      "Translation": "Die Nahkampfangriffe dieser Einheit verursachen 2x Wunden gegen Ziele mit mehreren Wunden.",
       "Comment": ""
     },
     {
       "Key": "Unit has +2 Move Speed and +1 to Ranged Attack Rolls.",
-      "Translation": "",
+      "Translation": "Einheit hat +2 Bewegungsgeschwindigkeit und +1 auf Fernkampfangriffswürfe.",
       "Comment": ""
     },
     {
       "Key": "Unit has +5 range for Ranged attacks and ignores penalties for difficult terrain.",
-      "Translation": "",
+      "Translation": "Einheit hat +5 Reichweite für Fernkampfangriffe und ignoriert Abzüge für Schwieriges Gelände.",
       "Comment": ""
     },
     {
       "Key": "Unit is Fearless. Charge Bonus: +1 Attack",
-      "Translation": "",
+      "Translation": "Einheit ist Furchtlos. Ansturmbonus: +1 Angriff",
       "Comment": ""
     }
   ]

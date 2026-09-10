@@ -263,7 +263,7 @@
     },
     {
       "Key": "Heart Seeker",
-      "Translation": "Herzsucher",
+      "Translation": "Herzjäger",
       "Comment": ""
     },
     {
@@ -373,7 +373,7 @@
     },
     {
       "Key": "Inferno Cannon",
-      "Translation": "Inferno-Kanone",
+      "Translation": "Infernokanone",
       "Comment": ""
     },
     {
@@ -663,7 +663,7 @@
     },
     {
       "Key": "Lord of Trickery",
-      "Translation": "Herr der List",
+      "Translation": "Herr der Hinterlist",
       "Comment": ""
     },
     {
@@ -703,417 +703,417 @@
     },
     {
       "Key": "Dark Gift",
-      "Translation": "",
+      "Translation": "Dunkle Gabe",
       "Comment": ""
     },
     {
       "Key": "Divine Protection",
-      "Translation": "",
+      "Translation": "Göttlicher Schutz",
       "Comment": ""
     },
     {
       "Key": "Battle Hardened",
-      "Translation": "",
+      "Translation": "Kampferprobt",
       "Comment": ""
     },
     {
       "Key": "Marksman",
-      "Translation": "",
+      "Translation": "Scharfschütze",
       "Comment": ""
     },
     {
       "Key": "Spell Power",
-      "Translation": "",
+      "Translation": "Zauberkraft",
       "Comment": ""
     },
     {
       "Key": "Spell Weaver",
-      "Translation": "",
+      "Translation": "Zauberweber",
       "Comment": ""
     },
     {
       "Key": "Offensive Mastery",
-      "Translation": "",
+      "Translation": "Angriffsmeisterschaft",
       "Comment": ""
     },
     {
       "Key": "Veteran Crew",
-      "Translation": "",
+      "Translation": "Veteranen-Bedienung",
       "Comment": ""
     },
     {
       "Key": "Veteran Discipline",
-      "Translation": "",
+      "Translation": "Veteranen-Disziplin",
       "Comment": ""
     },
     {
       "Key": "Veteran Accuracy",
-      "Translation": "",
+      "Translation": "Veteranen-Treffsicherheit",
       "Comment": ""
     },
     {
       "Key": "Veteran Skill",
-      "Translation": "",
+      "Translation": "Veteranen-Fertigkeit",
       "Comment": ""
     },
     {
       "Key": "Demonic Discipline",
-      "Translation": "",
+      "Translation": "Dämonische Disziplin",
       "Comment": ""
     },
     {
       "Key": "Demonic Fury",
-      "Translation": "",
+      "Translation": "Dämonische Wut",
       "Comment": ""
     },
     {
       "Key": "Demonic Power",
-      "Translation": "",
+      "Translation": "Dämonische Stärke",
       "Comment": ""
     },
     {
       "Key": "Demonic Resilience",
-      "Translation": "",
+      "Translation": "Dämonische Widerstandskraft",
       "Comment": ""
     },
     {
       "Key": "Demonic Skill",
-      "Translation": "",
+      "Translation": "Dämonische Fertigkeit",
       "Comment": ""
     },
     {
       "Key": "Demonic Defense",
-      "Translation": "",
+      "Translation": "Dämonische Verteidigung",
       "Comment": ""
     },
     {
       "Key": "Sword Of Ruin",
-      "Translation": "",
+      "Translation": "Schwert des Verderbens",
       "Comment": ""
     },
     {
       "Key": "Cloak Of Shadows",
-      "Translation": "",
+      "Translation": "Umhang der Schatten",
       "Comment": ""
     },
     {
       "Key": "Horn Of Discord",
-      "Translation": "",
+      "Translation": "Horn der Zwietracht",
       "Comment": ""
     },
     {
       "Key": "Veteran Marksmen",
-      "Translation": "",
+      "Translation": "Veteranenschützen",
       "Comment": ""
     },
     {
       "Key": "Oath Of Retribution",
-      "Translation": "",
+      "Translation": "Eid der Vergeltung",
       "Comment": ""
     },
     {
       "Key": "Oath Of Reckoning",
-      "Translation": "",
+      "Translation": "Eid der Abrechnung",
       "Comment": ""
     },
     {
       "Key": "Oath Of Vengeance",
-      "Translation": "",
+      "Translation": "Eid der Rache",
       "Comment": ""
     },
     {
       "Key": "Ancestral Strength",
-      "Translation": "",
+      "Translation": "Ahnenkraft",
       "Comment": ""
     },
     {
       "Key": "Greater Blades",
-      "Translation": "",
+      "Translation": "Größere Klingen",
       "Comment": ""
     },
     {
       "Key": "Greater Favour",
-      "Translation": "",
+      "Translation": "Größere Gunst",
       "Comment": ""
     },
     {
       "Key": "Greater Fireball",
-      "Translation": "",
+      "Translation": "Größerer Feuerball",
       "Comment": ""
     },
     {
       "Key": "Greater Fury",
-      "Translation": "",
+      "Translation": "Größere Raserei",
       "Comment": ""
     },
     {
       "Key": "Greater Raise",
-      "Translation": "",
+      "Translation": "Größere Totenerweckung",
       "Comment": ""
     },
     {
       "Key": "Greater Reanimate",
-      "Translation": "",
+      "Translation": "Größere Wiederbelebung",
       "Comment": ""
     },
     {
       "Key": "Greater Regrowth",
-      "Translation": "",
+      "Translation": "Größere Nachwuchs",
       "Comment": ""
     },
     {
       "Key": "Greater Ruin",
-      "Translation": "",
+      "Translation": "Größerer Verderb",
       "Comment": ""
     },
     {
       "Key": "Greater Shadowbolt",
-      "Translation": "",
+      "Translation": "Größerer Schattenblitz",
       "Comment": ""
     },
     {
       "Key": "Greater Shield",
-      "Translation": "",
+      "Translation": "Größerer Schild",
       "Comment": ""
     },
     {
       "Key": "Greater Vigour",
-      "Translation": "",
+      "Translation": "Größere Vitalität",
       "Comment": ""
     },
     {
       "Key": "Greater Web",
-      "Translation": "",
+      "Translation": "Größeres Netz",
       "Comment": ""
     },
     {
       "Key": "Greater Wildform",
-      "Translation": "",
+      "Translation": "Größere Wildgestalt",
       "Comment": ""
     },
     {
       "Key": "Thousand Maws",
-      "Translation": "",
+      "Translation": "Tausend Schlünde",
       "Comment": ""
     },
     {
       "Key": "Rune Of Farsight",
-      "Translation": "",
+      "Translation": "Rune der Fernsicht",
       "Comment": ""
     },
     {
       "Key": "Rune Of Flame",
-      "Translation": "",
+      "Translation": "Rune der Flamme",
       "Comment": ""
     },
     {
       "Key": "Rune Of Resilience",
-      "Translation": "",
+      "Translation": "Rune der Widerstandskraft",
       "Comment": ""
     },
     {
       "Key": "Rune Of Speed",
-      "Translation": "",
+      "Translation": "Rune der Schnelligkeit",
       "Comment": ""
     },
     {
       "Key": "Imperial Elites",
-      "Translation": "",
+      "Translation": "Kaiserliche Elite",
       "Comment": ""
     },
     {
       "Key": "Imperial Veterans",
-      "Translation": "",
+      "Translation": "Kaiserliche Veteranen",
       "Comment": ""
     },
     {
       "Key": "Stronger Summons",
-      "Translation": "",
+      "Translation": "Stärkere Beschwörungen",
       "Comment": ""
     },
     {
       "Key": "Extra Limb",
-      "Translation": "",
+      "Translation": "Zusätzliches Glied",
       "Comment": ""
     },
     {
       "Key": "Extra Limbs",
-      "Translation": "",
+      "Translation": "Zusätzliche Glieder",
       "Comment": ""
     },
     {
       "Key": "Grafted Wings",
-      "Translation": "",
+      "Translation": "Angepfropfte Flügel",
       "Comment": ""
     },
     {
       "Key": "Necrotic Infusion",
-      "Translation": "",
+      "Translation": "Nekrotische Infusion",
       "Comment": ""
     },
     {
       "Key": "Putrid Hide",
-      "Translation": "",
+      "Translation": "Fauliger Balg",
       "Comment": ""
     },
     {
       "Key": "Tunneling Claws",
-      "Translation": "",
+      "Translation": "Grabklauen",
       "Comment": ""
     },
     {
       "Key": "Unnatural Size",
-      "Translation": "",
+      "Translation": "Unnatürliche Größe",
       "Comment": ""
     },
     {
       "Key": "Elf Bow Mastery",
-      "Translation": "",
+      "Translation": "Elfen-Bogenmeisterschaft",
       "Comment": ""
     },
     {
       "Key": "Elf Spear Mastery",
-      "Translation": "",
+      "Translation": "Elfen-Speermeisterschaft",
       "Comment": ""
     },
     {
       "Key": "Elf Steed Mastery",
-      "Translation": "",
+      "Translation": "Elfen-Reitkunst",
       "Comment": ""
     },
     {
       "Key": "Eagle Aspect",
-      "Translation": "",
+      "Translation": "Adler-Aspekt",
       "Comment": ""
     },
     {
       "Key": "Jaguar Aspect",
-      "Translation": "",
+      "Translation": "Jaguar-Aspekt",
       "Comment": ""
     },
     {
       "Key": "Raptor Aspect",
-      "Translation": "",
+      "Translation": "Raubvogel-Aspekt",
       "Comment": ""
     },
     {
       "Key": "Salamander Aspect",
-      "Translation": "",
+      "Translation": "Salamander-Aspekt",
       "Comment": ""
     },
     {
       "Key": "Serpent Aspect",
-      "Translation": "",
+      "Translation": "Schlangen-Aspekt",
       "Comment": ""
     },
     {
       "Key": "Turtle Aspect",
-      "Translation": "",
+      "Translation": "Schildkröten-Aspekt",
       "Comment": ""
     },
     {
       "Key": "Backstabbers",
-      "Translation": "",
+      "Translation": "Hinterhältige",
       "Comment": ""
     },
     {
       "Key": "Bloodlust",
-      "Translation": "",
+      "Translation": "Blutrausch",
       "Comment": ""
     },
     {
       "Key": "Tough As Nails",
-      "Translation": "",
+      "Translation": "Hart wie Nägel",
       "Comment": ""
     },
     {
       "Key": "Greater Warcry",
-      "Translation": "",
+      "Translation": "Größerer Kriegsruf",
       "Comment": ""
     },
     {
       "Key": "Slavers",
-      "Translation": "",
+      "Translation": "Sklavenjäger",
       "Comment": ""
     },
     {
       "Key": "Greater Shroud",
-      "Translation": "",
+      "Translation": "Größerer Schleier",
       "Comment": ""
     },
     {
       "Key": "Greater Ward",
-      "Translation": "",
+      "Translation": "Größerer Bann",
       "Comment": ""
     },
     {
       "Key": "War Gods Blessing",
-      "Translation": "",
+      "Translation": "Segen des Kriegsgottes",
       "Comment": ""
     },
     {
       "Key": "Blessing Of Decay",
-      "Translation": "",
+      "Translation": "Segen der Verwesung",
       "Comment": ""
     },
     {
       "Key": "Blessing Of Trickery",
-      "Translation": "",
+      "Translation": "Segen der Täuschung",
       "Comment": ""
     },
     {
       "Key": "Master of Decay",
-      "Translation": "",
+      "Translation": "Meister des Verfalls",
       "Comment": ""
     },
     {
       "Key": "Master of Trickery",
-      "Translation": "",
+      "Translation": "Meister der Hinterlist",
       "Comment": ""
     },
     {
       "Key": "Master Of War",
-      "Translation": "",
+      "Translation": "Meister des Krieges",
       "Comment": ""
     },
     {
       "Key": "Loyal Serfs",
-      "Translation": "",
+      "Translation": "Treue Leibeigene",
       "Comment": ""
     },
     {
       "Key": "Avalon Marksmen",
-      "Translation": "",
+      "Translation": "Avalon-Schützen",
       "Comment": ""
     },
     {
       "Key": "Greater Vengeance",
-      "Translation": "",
+      "Translation": "Größere Vergeltung",
       "Comment": ""
     },
     {
       "Key": "Greater Protection",
-      "Translation": "",
+      "Translation": "Größerer Schutz",
       "Comment": ""
     },
     {
       "Key": "Bodkin Arrows",
-      "Translation": "",
+      "Translation": "Bodkinpfeile",
       "Comment": ""
     },
     {
       "Key": "Serrated Arrows",
-      "Translation": "",
+      "Translation": "Widerhakenpfeile",
       "Comment": ""
     },
     {
       "Key": "Splitting Arrow",
-      "Translation": "",
+      "Translation": "Spaltpfeil",
       "Comment": ""
     },
     {
       "Key": "Trueflight Arrows",
-      "Translation": "",
+      "Translation": "Zielsichere Pfeile",
       "Comment": ""
     },
     {
@@ -1208,7 +1208,7 @@
     },
     {
       "Key": "Rally the Tribes",
-      "Translation": "Sammelt die Stämme",
+      "Translation": "Versammle die Stämme",
       "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
