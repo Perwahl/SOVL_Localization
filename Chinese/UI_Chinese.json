@@ -728,11 +728,6 @@
       "Comment": "Kill count statistic"
     },
     {
-      "Key": "<b>Draw<size=30%></color></b>\\n",
-      "Translation": "<b>平局<size=30%></color></b>\\n",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
       "Key": "Win <size=80%><color=green>+",
       "Translation": "胜<size=80%><color=green>+",
       "Comment": "Rich text formatting preserved"
@@ -1979,21 +1974,6 @@
       "Comment": "Status indicator"
     },
     {
-      "Key": "<color=#31D3E3>3<size=33%></color> D3",
-      "Translation": "<color=#31D3E3>3<size=33%></color> D3",
-      "Comment": "Rich text dice notation - preserved as is"
-    },
-    {
-      "Key": "< <color=#31D3E3>3",
-      "Translation": "< <color=#31D3E3>3",
-      "Comment": "Rich text comparison - keep as is"
-    },
-    {
-      "Key": "<color=#31D3E3>1<size=33%></color> D3",
-      "Translation": "<color=#31D3E3>1<size=33%></color> D3",
-      "Comment": "Rich text dice notation"
-    },
-    {
       "Key": "BorderPatrol",
       "Translation": "边界巡逻",
       "Comment": "Game mode name"
@@ -2290,11 +2270,6 @@
     },
     {
       "Key": "Enemies Killed: ",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "",
       "Translation": "",
       "Comment": ""
     },

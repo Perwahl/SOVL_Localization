@@ -728,11 +728,6 @@
       "Comment": "Enemy kill count"
     },
     {
-      "Key": "<b>Draw<size=30%></color></b>\\n",
-      "Translation": "<b>Ничья<size=30%></color></b>\\n",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
       "Key": "Win <size=80%><color=green>+",
       "Translation": "Победа <size=80%><color=green>+",
       "Comment": "Rich text formatting preserved"
@@ -1979,21 +1974,6 @@
       "Comment": "Status indicator"
     },
     {
-      "Key": "<color=#31D3E3>3<size=33%></color> D3",
-      "Translation": "<color=#31D3E3>3<size=33%></color> K3",
-      "Comment": "Rich text dice notation - W3 = Würfel3"
-    },
-    {
-      "Key": "< <color=#31D3E3>3",
-      "Translation": "< <color=#31D3E3>3",
-      "Comment": "Rich text comparison - keep as is"
-    },
-    {
-      "Key": "<color=#31D3E3>1<size=33%></color> D3",
-      "Translation": "<color=#31D3E3>1<size=33%></color> K3",
-      "Comment": "Rich text dice notation"
-    },
-    {
       "Key": "BorderPatrol",
       "Translation": "Пограничный дозор",
       "Comment": "Game mode name"
@@ -2292,11 +2272,6 @@
       "Key": "Enemies Killed: ",
       "Translation": "",
       "Comment": ""
-    },
-    {
-      "Key": "",
-      "Translation": "",
-      "Comment": "Empty placeholder"
     },
     {
       "Key": "Jungle Beasts",

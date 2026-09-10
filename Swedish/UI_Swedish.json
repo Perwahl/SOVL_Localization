@@ -728,11 +728,6 @@
       "Comment": ""
     },
     {
-      "Key": "<b>Draw<size=30%></color></b>\\n",
-      "Translation": "<b>Oavgjort<size=30%></color></b>\\n",
-      "Comment": ""
-    },
-    {
       "Key": "Win <size=80%><color=green>+",
       "Translation": "Seger <size=80%><color=green>+",
       "Comment": ""
@@ -1979,21 +1974,6 @@
       "Comment": ""
     },
     {
-      "Key": "<color=#31D3E3>3<size=33%></color> D3",
-      "Translation": "<color=#31D3E3>3<size=33%></color> D3",
-      "Comment": ""
-    },
-    {
-      "Key": "< <color=#31D3E3>3",
-      "Translation": "< <color=#31D3E3>3",
-      "Comment": ""
-    },
-    {
-      "Key": "<color=#31D3E3>1<size=33%></color> D3",
-      "Translation": "<color=#31D3E3>1<size=33%></color> D3",
-      "Comment": ""
-    },
-    {
       "Key": "BorderPatrol",
       "Translation": "Gränspatrull",
       "Comment": ""
@@ -2291,11 +2271,6 @@
     {
       "Key": "Enemies Killed: ",
       "Translation": "Fiender dödade: ",
-      "Comment": ""
-    },
-    {
-      "Key": "",
-      "Translation": "",
       "Comment": ""
     },
     {

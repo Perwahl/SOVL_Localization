@@ -728,11 +728,6 @@
       "Comment": ""
     },
     {
-      "Key": "<b>Draw<size=30%></color></b>\\n",
-      "Translation": "<b>引き分け<size=30%></color></b>\\n",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
       "Key": "Win <size=80%><color=green>+",
       "Translation": "勝利 <size=80%><color=green>+",
       "Comment": "Rich text formatting preserved"
@@ -1979,21 +1974,6 @@
       "Comment": "Status"
     },
     {
-      "Key": "<color=#31D3E3>3<size=33%></color> D3",
-      "Translation": "<color=#31D3E3>3<size=33%></color> D3",
-      "Comment": "Dice notation - keep as universal gaming term"
-    },
-    {
-      "Key": "< <color=#31D3E3>3",
-      "Translation": "< <color=#31D3E3>3",
-      "Comment": "Rich text comparison operator - keep as is"
-    },
-    {
-      "Key": "<color=#31D3E3>1<size=33%></color> D3",
-      "Translation": "<color=#31D3E3>1<size=33%></color> D3",
-      "Comment": "Dice notation - keep as is"
-    },
-    {
       "Key": "BorderPatrol",
       "Translation": "辺境警備",
       "Comment": "Game mode name"
@@ -2292,11 +2272,6 @@
       "Key": "Enemies Killed: ",
       "Translation": "",
       "Comment": ""
-    },
-    {
-      "Key": "",
-      "Translation": "",
-      "Comment": "Empty string entry"
     },
     {
       "Key": "Jungle Beasts",
