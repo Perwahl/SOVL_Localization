@@ -1149,18 +1149,18 @@
       "Comment": ""
     },
     {
-      "Key": "A units <color=#33FAFF>Skill</color> is a measure of its training and general ability to fight. It  detemines Hit Chance for close combat and ranged attacks.",
-      "Translation": "La <color=#33FAFF>Compétence</color> d'une unité est une mesure de son entraînement et de sa capacité générale à combattre. Elle détermine la chance de toucher pour le combat au corps à corps et les attaques à distance.",
+      "Key": "A unit's <color=#96FAFF>Skill</color> is a measure of its training and general ability to fight. It determines Hit Chance for close combat and ranged attacks.",
+      "Translation": "La <color=#96FAFF>Compétence</color> d'une unité est une mesure de son entraînement et de sa capacité générale à combattre. Elle détermine la chance de toucher pour le combat au corps à corps et les attaques à distance.",
       "Comment": "Stat explanation - note typo 'detemines' in original"
     },
     {
-      "Key": "The <color=#33FAFF>Power</color> stat describes a units physical strength and striking power. It's used in combat to overcome an opponents <color=#33FAFF>Defense.",
-      "Translation": "La statistique de <color=#33FAFF>Puissance</color> décrit la force physique et la puissance de frappe d'une unité. Elle est utilisée en combat pour surmonter la <color=#33FAFF>Défense</color> d'un adversaire.",
+      "Key": "The <color=#96FAFF>Power</color> stat describes a unit's physical strength and striking power. It's used in combat to overcome an opponent's <color=#96FAFF>Defense</color>.",
+      "Translation": "La statistique de <color=#96FAFF>Puissance</color> décrit la force physique et la puissance de frappe d'une unité. Elle est utilisée en combat pour surmonter la <color=#96FAFF>Défense</color> d'un adversaire.",
       "Comment": "Stat explanation"
     },
     {
-      "Key": "The <color=#33FAFF>Defense</color> stat is a combination of a units general toughness and armor. It determines the units Damage Save against incoming attacks.",
-      "Translation": "La statistique de <color=#33FAFF>Défense</color> est une combinaison de la résistance générale et de l'armure d'une unité. Elle détermine la sauvegarde contre les dégâts de l'unité contre les attaques entrantes.",
+      "Key": "The <color=#96FAFF>Defense</color> stat is a combination of a unit's general toughness and armor. It determines the unit's Damage Save against incoming attacks.",
+      "Translation": "La statistique de <color=#96FAFF>Défense</color> est une combinaison de la résistance générale et de l'armure d'une unité. Elle détermine la sauvegarde contre les dégâts de l'unité contre les attaques entrantes.",
       "Comment": "Stat explanation"
     },
     {

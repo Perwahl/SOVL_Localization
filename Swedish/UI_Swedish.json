@@ -1149,18 +1149,18 @@
       "Comment": ""
     },
     {
-      "Key": "A units <color=#33FAFF>Skill</color> is a measure of its training and general ability to fight. It  detemines Hit Chance for close combat and ranged attacks.",
-      "Translation": "En enhets <color=#33FAFF>Färdighet</color> är ett mått på dess träning och allmänna stridsförmåga. Den avgör träffchansen för närstrid och avståndsanfall.",
+      "Key": "A unit's <color=#96FAFF>Skill</color> is a measure of its training and general ability to fight. It determines Hit Chance for close combat and ranged attacks.",
+      "Translation": "En enhets <color=#96FAFF>Färdighet</color> är ett mått på dess träning och allmänna stridsförmåga. Den avgör träffchansen för närstrid och avståndsanfall.",
       "Comment": "This keeps the in-game terminology consistent while sounding more natural."
     },
     {
-      "Key": "The <color=#33FAFF>Power</color> stat describes a units physical strength and striking power. It's used in combat to overcome an opponents <color=#33FAFF>Defense.",
-      "Translation": "Statistiken <color=#33FAFF>Styrka</color> beskriver en enhets fysiska styrka och slagkraft. Den används i strid för att övervinna en motståndares <color=#33FAFF>försvar</color>.",
+      "Key": "The <color=#96FAFF>Power</color> stat describes a unit's physical strength and striking power. It's used in combat to overcome an opponent's <color=#96FAFF>Defense</color>.",
+      "Translation": "Statistiken <color=#96FAFF>Styrka</color> beskriver en enhets fysiska styrka och slagkraft. Den används i strid för att övervinna en motståndares <color=#96FAFF>försvar</color>.",
       "Comment": "The revised phrasing is slightly smoother while preserving the original meaning."
     },
     {
-      "Key": "The <color=#33FAFF>Defense</color> stat is a combination of a units general toughness and armor. It determines the units Damage Save against incoming attacks.",
-      "Translation": "Statistiken <color=#33FAFF>Försvar</color> är en kombination av en enhets allmänna tålighet och rustning. Den avgör enhetens skadespar mot inkommande attacker.",
+      "Key": "The <color=#96FAFF>Defense</color> stat is a combination of a unit's general toughness and armor. It determines the unit's Damage Save against incoming attacks.",
+      "Translation": "Statistiken <color=#96FAFF>Försvar</color> är en kombination av en enhets allmänna tålighet och rustning. Den avgör enhetens skadespar mot inkommande attacker.",
       "Comment": "The wording is now a bit more polished and easier to read."
     },
     {
