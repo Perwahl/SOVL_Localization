@@ -7,21 +7,9 @@
       "Comment": ""
     },
     {
-      "Key": "Passed {0} Break Tests.",
-      "Translation": "Klarade {0} Flykttest.",
-      "Comment": "",
-      "PluralOne": "Klarade {0} Flykttest."
-    },
-    {
       "Key": "Dragon Slayer",
       "Translation": "Drakdräpare",
       "Comment": ""
-    },
-    {
-      "Key": "Killed {0} dragons.",
-      "Translation": "Dödade {0} drakar.",
-      "Comment": "",
-      "PluralOne": "Dödade {0} drake."
     },
     {
       "Key": "Deadly",
@@ -29,21 +17,9 @@
       "Comment": ""
     },
     {
-      "Key": "Killed {0} enemies in combat.",
-      "Translation": "Dödade {0} fiender i strid.",
-      "Comment": "",
-      "PluralOne": "Dödade {0} fiende i strid."
-    },
-    {
       "Key": "Marksman",
       "Translation": "Prickskytt",
       "Comment": ""
-    },
-    {
-      "Key": "Killed {0} enemies with ranged weapons.",
-      "Translation": "Dödade {0} fiender med avståndsvapen.",
-      "Comment": "",
-      "PluralOne": "Dödade {0} fiende med avståndsvapen."
     },
     {
       "Key": "Lucky",
@@ -51,21 +27,9 @@
       "Comment": ""
     },
     {
-      "Key": "Rolled {0} natural sixes ({1:P0} of all rolls).",
-      "Translation": "Slog {0} naturliga sexor ({1:P0} av alla slag).",
-      "Comment": "",
-      "PluralOne": "Slog {0} naturlig sexa ({1:P0} av alla slag)."
-    },
-    {
       "Key": "Scorer",
       "Translation": "Poängsamlare",
       "Comment": "Objective-capture context; rendered as a point-collector title rather than a sports-style scorer."
-    },
-    {
-      "Key": "Captured {0} objectives.",
-      "Translation": "Erövrade {0} mål.",
-      "Comment": "",
-      "PluralOne": "Erövrade {0} mål."
     },
     {
       "Key": "Giant Slayer",
@@ -73,21 +37,9 @@
       "Comment": ""
     },
     {
-      "Key": "Killed {0} giants.",
-      "Translation": "Dödade {0} jättar.",
-      "Comment": "",
-      "PluralOne": "Dödade {0} jätte."
-    },
-    {
       "Key": "Treefeller",
       "Translation": "Trädfällare",
       "Comment": ""
-    },
-    {
-      "Key": "Felled {0} tree monsters.",
-      "Translation": "Fällde {0} trädmonster.",
-      "Comment": "",
-      "PluralOne": "Fällde {0} trädmonster."
     },
     {
       "Key": "Dino Hunter",
@@ -95,21 +47,9 @@
       "Comment": ""
     },
     {
-      "Key": "Killed {0} dinosaurs.",
-      "Translation": "Dödade {0} dinosaurier.",
-      "Comment": "",
-      "PluralOne": "Dödade {0} dinosaurie."
-    },
-    {
       "Key": "Warmachine Hunter",
       "Translation": "Krigsmaskinsjägare",
       "Comment": ""
-    },
-    {
-      "Key": "Killed {0} warmachines.",
-      "Translation": "Förstörde {0} krigsmaskiner.",
-      "Comment": "",
-      "PluralOne": "Förstörde {0} krigsmaskin."
     },
     {
       "Key": "Demon Hunter",
@@ -117,32 +57,14 @@
       "Comment": ""
     },
     {
-      "Key": "Slain {0} greater demons.",
-      "Translation": "Dräpte {0} stordemoner.",
-      "Comment": "",
-      "PluralOne": "Dräpte {0} stordemon."
-    },
-    {
       "Key": "Duelist",
       "Translation": "Duellant",
       "Comment": ""
     },
     {
-      "Key": "Killed {0} Commanders.",
-      "Translation": "Dödade {0} befälhavare.",
-      "Comment": "",
-      "PluralOne": "Dödade {0} befälhavare."
-    },
-    {
       "Key": "Spellslinger",
       "Translation": "Besvärjelsekastare",
       "Comment": "Used a literal compound to keep the boastful deed-title tone without implying a specific caster class."
-    },
-    {
-      "Key": "Cast {0} spells.",
-      "Translation": "Kastade {0} besvärjelser.",
-      "Comment": "",
-      "PluralOne": "Kastade {0} besvärjelse."
     },
     {
       "Key": "Coward",
@@ -158,12 +80,6 @@
       "Key": "Unlucky",
       "Translation": "Otursam",
       "Comment": ""
-    },
-    {
-      "Key": "Rolled {0} ones ({1:P0} of all rolls).",
-      "Translation": "Slog {0} ettor ({1:P0} av alla slag).",
-      "Comment": "",
-      "PluralOne": "Slog {0} etta ({1:P0} av alla slag)."
     },
     {
       "Key": "Last Man Standing",
@@ -199,12 +115,6 @@
       "Key": "Flanker",
       "Translation": "Flankör",
       "Comment": ""
-    },
-    {
-      "Key": "Performed {0} flank/rear charges.",
-      "Translation": "Utförde {0} flank- eller rygganfall.",
-      "Comment": "",
-      "PluralOne": "Utförde {0} flank- eller rygganfall."
     },
     {
       "Key": "Dragon Slayers",
@@ -265,6 +175,101 @@
       "Key": "Cursed!",
       "Translation": "Förbannad!",
       "Comment": ""
+    },
+    {
+      "Key": "Bloodthirsty!",
+      "Translation": "Blodtörstig!",
+      "Comment": ""
+    },
+    {
+      "Key": "Passed {0} Break Tests.",
+      "Translation": "Klarade {0} Flykttest.",
+      "Comment": "",
+      "PluralOne": "Klarade {0} Flykttest."
+    },
+    {
+      "Key": "Killed {0} dragons.",
+      "Translation": "Dödade {0} drakar.",
+      "Comment": "",
+      "PluralOne": "Dödade {0} drake."
+    },
+    {
+      "Key": "Killed {0} enemies in combat.",
+      "Translation": "Dödade {0} fiender i strid.",
+      "Comment": "",
+      "PluralOne": "Dödade {0} fiende i strid."
+    },
+    {
+      "Key": "Killed {0} enemies with ranged weapons.",
+      "Translation": "Dödade {0} fiender med avståndsvapen.",
+      "Comment": "",
+      "PluralOne": "Dödade {0} fiende med avståndsvapen."
+    },
+    {
+      "Key": "Rolled {0} natural sixes ({1:P0} of all rolls).",
+      "Translation": "Slog {0} naturliga sexor ({1:P0} av alla slag).",
+      "Comment": "",
+      "PluralOne": "Slog {0} naturlig sexa ({1:P0} av alla slag)."
+    },
+    {
+      "Key": "Captured {0} objectives.",
+      "Translation": "Erövrade {0} mål.",
+      "Comment": "",
+      "PluralOne": "Erövrade {0} mål."
+    },
+    {
+      "Key": "Killed {0} giants.",
+      "Translation": "Dödade {0} jättar.",
+      "Comment": "",
+      "PluralOne": "Dödade {0} jätte."
+    },
+    {
+      "Key": "Felled {0} tree monsters.",
+      "Translation": "Fällde {0} trädmonster.",
+      "Comment": "",
+      "PluralOne": "Fällde {0} trädmonster."
+    },
+    {
+      "Key": "Killed {0} dinosaurs.",
+      "Translation": "Dödade {0} dinosaurier.",
+      "Comment": "",
+      "PluralOne": "Dödade {0} dinosaurie."
+    },
+    {
+      "Key": "Killed {0} warmachines.",
+      "Translation": "Förstörde {0} krigsmaskiner.",
+      "Comment": "",
+      "PluralOne": "Förstörde {0} krigsmaskin."
+    },
+    {
+      "Key": "Slain {0} greater demons.",
+      "Translation": "Dräpte {0} stordemoner.",
+      "Comment": "",
+      "PluralOne": "Dräpte {0} stordemon."
+    },
+    {
+      "Key": "Killed {0} Commanders.",
+      "Translation": "Dödade {0} befälhavare.",
+      "Comment": "",
+      "PluralOne": "Dödade {0} befälhavare."
+    },
+    {
+      "Key": "Cast {0} spells.",
+      "Translation": "Kastade {0} besvärjelser.",
+      "Comment": "",
+      "PluralOne": "Kastade {0} besvärjelse."
+    },
+    {
+      "Key": "Rolled {0} ones ({1:P0} of all rolls).",
+      "Translation": "Slog {0} ettor ({1:P0} av alla slag).",
+      "Comment": "",
+      "PluralOne": "Slog {0} etta ({1:P0} av alla slag)."
+    },
+    {
+      "Key": "Performed {0} flank/rear charges.",
+      "Translation": "Utförde {0} flank- eller rygganfall.",
+      "Comment": "",
+      "PluralOne": "Utförde {0} flank- eller rygganfall."
     }
   ]
 }

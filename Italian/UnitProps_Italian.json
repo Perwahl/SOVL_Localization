@@ -263,7 +263,7 @@
     },
     {
       "Key": "Heart Seeker",
-      "Translation": "Ricerca del Cuore",
+      "Translation": "Ricercatrice di Cuori",
       "Comment": "Deadly attack ability; 'ricerca del cuore' suggests lethal precision"
     },
     {
@@ -573,7 +573,7 @@
     },
     {
       "Key": "Doom Bell",
-      "Translation": "Campana della Rovina",
+      "Translation": "Campana della Perdizione",
       "Comment": "Ominous artifact; mystical curse device"
     },
     {
@@ -695,16 +695,6 @@
       "Key": "Aura of Vengeance",
       "Translation": "Aura di Vendetta",
       "Comment": "Offensive battlefield effect; wrathful aura"
-    },
-    {
-      "Key": "2 Hand Weapons",
-      "Translation": "2 Armi da Mano",
-      "Comment": "Triple weapon loadout; notation matches game syntax"
-    },
-    {
-      "Key": "2x Pistols",
-      "Translation": "2x Pistole",
-      "Comment": "Triple pistol loadout; notation matches game syntax"
     },
     {
       "Key": "Lance+Shield",
@@ -838,67 +828,67 @@
     },
     {
       "Key": "Greater Blades",
-      "Translation": "Lame Superiori",
+      "Translation": "Lame Potenzziate",
       "Comment": "Enhanced weapon version; superior blade quality"
     },
     {
       "Key": "Greater Favour",
-      "Translation": "Favore Superiore",
+      "Translation": "Favore Divino Potenziato",
       "Comment": "Enhanced blessing; greater divine favor"
     },
     {
       "Key": "Greater Fireball",
-      "Translation": "Palla di Fuoco Superiore",
+      "Translation": "Palla di Fuoco Potenziata",
       "Comment": "Enhanced spell; more powerful fireball"
     },
     {
       "Key": "Greater Fury",
-      "Translation": "Furia Superiore",
+      "Translation": "Furia Potenziata",
       "Comment": "Enhanced combat rage; greater fury ability"
     },
     {
       "Key": "Greater Raise",
-      "Translation": "Resurrezione Superiore",
+      "Translation": "Resurrezione Potenziata",
       "Comment": "Enhanced necromancy; greater resurrection power"
     },
     {
       "Key": "Greater Reanimate",
-      "Translation": "Rianimazione Superiore",
+      "Translation": "Rianima Potenziata",
       "Comment": "Enhanced undead spell; greater reanimation power"
     },
     {
       "Key": "Greater Regrowth",
-      "Translation": "Ricrescita Superiore",
+      "Translation": "Rigenerazione Potenziata",
       "Comment": "Enhanced nature healing; greater regeneration"
     },
     {
       "Key": "Greater Ruin",
-      "Translation": "Rovina Superiore",
+      "Translation": "Rovina Potenziata",
       "Comment": "Enhanced curse; greater destruction hex"
     },
     {
       "Key": "Greater Shadowbolt",
-      "Translation": "Dardo d'Ombra Superiore",
+      "Translation": "Freccia d'Ombra Potenziata",
       "Comment": "Enhanced dark spell; greater shadow magic"
     },
     {
       "Key": "Greater Shield",
-      "Translation": "Scudo Superiore",
+      "Translation": "Scudo Potenziato",
       "Comment": "Enhanced protection spell; greater defensive magic"
     },
     {
       "Key": "Greater Vigour",
-      "Translation": "Vigore Superiore",
+      "Translation": "Vigore Potenziato",
       "Comment": "Enhanced vitality; greater strength increase"
     },
     {
       "Key": "Greater Web",
-      "Translation": "Ragnatela Superiore",
+      "Translation": "Ragnatela Potenziata",
       "Comment": "Enhanced entanglement spell; stronger web trap"
     },
     {
       "Key": "Greater Wildform",
-      "Translation": "Forma Selvaggia Superiore",
+      "Translation": "Forma Selvaggia Potenziata",
       "Comment": "Enhanced transformation; more powerful wildform"
     },
     {
@@ -908,22 +898,22 @@
     },
     {
       "Key": "Rune Of Farsight",
-      "Translation": "Runa della Visione Lontana",
+      "Translation": "Runa di Visione Lontana",
       "Comment": "Magical rune; long-distance perception enhancement"
     },
     {
       "Key": "Rune Of Flame",
-      "Translation": "Runa della Fiamma",
+      "Translation": "Runa di Fiamma",
       "Comment": "Magical rune; fire magic enhancement"
     },
     {
       "Key": "Rune Of Resilience",
-      "Translation": "Runa della Resilienza",
+      "Translation": "Runa di Resistenza",
       "Comment": "Magical rune; defense/durability enhancement"
     },
     {
       "Key": "Rune Of Speed",
-      "Translation": "Runa della Velocità",
+      "Translation": "Runa di Velocità",
       "Comment": "Magical rune; movement speed enhancement"
     },
     {
@@ -1023,7 +1013,7 @@
     },
     {
       "Key": "Backstabbers",
-      "Translation": "Pugnalatori alle Spalle",
+      "Translation": "Pugnalatori",
       "Comment": "Rogue tactic ability; surprise assassination expertise"
     },
     {
@@ -1033,12 +1023,12 @@
     },
     {
       "Key": "Tough As Nails",
-      "Translation": "Duro Come l'Acciaio",
+      "Translation": "Duro come l'Acciaio",
       "Comment": "Extreme durability; exceptional hardness"
     },
     {
       "Key": "Greater Warcry",
-      "Translation": "Grido di Guerra Superiore",
+      "Translation": "Grido di Guerra Potenziato",
       "Comment": "Enhanced battle cry; more powerful morale effect"
     },
     {
@@ -1048,12 +1038,12 @@
     },
     {
       "Key": "Greater Shroud",
-      "Translation": "Velo Superiore",
+      "Translation": "Velo Potenziato",
       "Comment": "Enhanced concealment; stronger magical obscurement"
     },
     {
       "Key": "Greater Ward",
-      "Translation": "Protezione Superiore",
+      "Translation": "Protezione Potenziata",
       "Comment": "Enhanced protection spell; stronger defensive ward"
     },
     {
@@ -1098,12 +1088,12 @@
     },
     {
       "Key": "Greater Vengeance",
-      "Translation": "Vendetta Superiore",
+      "Translation": "Vendetta Potenziata",
       "Comment": "Enhanced vengeance ability; greater retribution power"
     },
     {
       "Key": "Greater Protection",
-      "Translation": "Protezione Superiore",
+      "Translation": "Protezione Potenziata",
       "Comment": "Enhanced defense; greater protective power"
     },
     {
@@ -1125,6 +1115,121 @@
       "Key": "Trueflight Arrows",
       "Translation": "Frecce di Volo Vero",
       "Comment": "Magical ammunition; unerring arrows"
+    },
+    {
+      "Key": "Oath: Monsters",
+      "Translation": "Giuramento: Mostri",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Explosive Shells",
+      "Translation": "Proiettili Esplosivi",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Oath: Ranged Units",
+      "Translation": "Giuramento: Unità a Distanza",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Oath: Cavalry",
+      "Translation": "Giuramento: Cavalleria",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Steed Mastery",
+      "Translation": "Maestria Equestre",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Spear Mastery",
+      "Translation": "Maestria con la Lancia",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Bow Mastery",
+      "Translation": "Maestria con l'Arco",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "2 Hand Weapons",
+      "Translation": "2 Armi da Mano",
+      "Comment": "Triple weapon loadout; notation matches game syntax"
+    },
+    {
+      "Key": "2x Pistols",
+      "Translation": "2x Pistole",
+      "Comment": "Triple pistol loadout; notation matches game syntax"
+    },
+    {
+      "Key": "Aerodynamic Hull",
+      "Translation": "Scafo Aerodinamico",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Expanded Howdah",
+      "Translation": "Howdah Ampliato",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Flaming Ammunition",
+      "Translation": "Munizioni Infuocate",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Forest Spirits Aid",
+      "Translation": "Aiuto degli Spiriti della Foresta",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Lady's Blessing",
+      "Translation": "Benedizione della Dama",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Lethal Strikes",
+      "Translation": "Colpi Letali",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Pavise",
+      "Translation": "Pavese",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Plated Barding",
+      "Translation": "Barda a Piastre",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Potent Mixture",
+      "Translation": "Miscela Potente",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Rally the Tribes",
+      "Translation": "Raduna le Tribù",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Scythed Wheels",
+      "Translation": "Ruote Falcate",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Shield Wall",
+      "Translation": "Muro di Scudi",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Terror",
+      "Translation": "Terrore",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "VolatileAmmo",
+      "Translation": "Munizioni Instabili",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     }
   ]
 }

@@ -952,15 +952,27 @@
       "en": "D6",
       "category": "meta",
       "consistency": "preferred",
-      "definition": "A six-sided die. Also D3, 2D3, 2d6.",
+      "definition": "A six-sided die.",
       "aliases": [
-        "D3",
         "d6",
-        "d3",
-        "2D3",
+        "2D6",
         "2d6"
       ],
-      "notes": "Some languages have their own dice notation (German writes W6 and W3 for D6 and D3). Either keep the English notation or use the local convention, but use the same one in every file. Never change the NUMBER: D3 must not become D6.",
+      "notes": "Some languages have their own dice notation - German writes W6 and W3 for D6 and D3. Either keep the English notation or use the local convention, but use the same one in every file. The number is part of the term: D3 is a separate term and must never become D6.",
+      "skipInSentenceCheck": true
+    },
+    {
+      "id": "meta.d3",
+      "en": "D3",
+      "category": "meta",
+      "consistency": "preferred",
+      "definition": "A three-sided result, rolled on a D6 and halved.",
+      "aliases": [
+        "d3",
+        "2D3",
+        "2d3"
+      ],
+      "notes": "Some languages have their own dice notation - German writes W3. Match whatever convention this language uses for [meta.d6]. Never write this as D6: it is a different number of results.",
       "skipInSentenceCheck": true
     },
     {

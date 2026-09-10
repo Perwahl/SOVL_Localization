@@ -13,7 +13,9 @@ It is the same for every language and only changes when the rules change.
 
 **`<Language>/Glossary_<Language>.json`** is one file per language holding the approved
 translation of every term. This is the file translators fill in. It has the same shape
-as every other translation file, so the game imports it like any other store.
+as every other translation file, but the game does **not** import it: there is no
+`Glossary` store in the project, and there does not need to be. Its job is to constrain
+the other nineteen files, which the linter does. Nothing here reaches a player directly.
 
 ## Filling in a glossary
 

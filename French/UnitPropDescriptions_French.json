@@ -8,7 +8,7 @@
     },
     {
       "Key": "+1 Movement",
-      "Translation": "+1 Déplacement",
+      "Translation": "+1 Vitesse de Déplacement",
       "Comment": ""
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "Key": "-1 Movement. +1 Defense",
-      "Translation": "-1 Déplacement. +1 Défense",
+      "Translation": "-1 Vitesse de Déplacement. +1 Défense",
       "Comment": ""
     },
     {
@@ -62,23 +62,8 @@
       "Comment": ""
     },
     {
-      "Key": "Range: 20. Power 2.",
-      "Translation": "Portée: 20. Puissance 2.",
-      "Comment": ""
-    },
-    {
-      "Key": "Range: 20. Power 3.",
-      "Translation": "Portée: 20. Puissance 3.",
-      "Comment": ""
-    },
-    {
       "Key": "Range: 30. Power 3.",
       "Translation": "Portée: 30. Puissance 3.",
-      "Comment": ""
-    },
-    {
-      "Key": "Range: 24. Power 4. ",
-      "Translation": "Portée: 24. Puissance 4. ",
       "Comment": ""
     },
     {
@@ -193,7 +178,7 @@
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor.",
-      "Translation": "-1 Déplacement. Ignore les pénalités de déplacement de l'Armure Lourde.",
+      "Translation": "-1 Vitesse de Déplacement. Ignore les pénalités de déplacement de l'Armure Lourde.",
       "Comment": ""
     },
     {
@@ -238,7 +223,7 @@
     },
     {
       "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "-1 Déplacement. Ne rate jamais un jet de Discipline, perds D3 blessures durant un combat perdu.",
+      "Translation": "-1 Vitesse de Déplacement. Ne rate jamais un jet de Discipline, perds D3 blessures durant un combat perdu.",
       "Comment": ""
     },
     {
@@ -253,7 +238,7 @@
     },
     {
       "Key": "Reduce Crumble by 1. Regeneration (restore all lost wounds at end of turn).",
-      "Translation": "Reduis la déterioration de 1. Regeneration (restaure toutes les blessures à la fin du tour).",
+      "Translation": "Reduis la déterioration de 1. Régénération (restaure toutes les blessures à la fin du tour).",
       "Comment": ""
     },
     {
@@ -268,7 +253,7 @@
     },
     {
       "Key": "Target unit has -1 Skill and -1 Move Speed. Lasts until end of battle.",
-      "Translation": "L'unité ciblée a -1 Compétence and -1 Vitesse de Mouvement. Reste jusqu'à la fin de la Bataille.",
+      "Translation": "L'unité ciblée a -1 Compétence and -1 Vitesse de Déplacement. Reste jusqu'à la fin de la Bataille.",
       "Comment": ""
     },
     {
@@ -342,16 +327,6 @@
       "Comment": ""
     },
     {
-      "Key": "Range: 20. 2x Power 3.",
-      "Translation": "Portée: 20. 2x Puissance 3.",
-      "Comment": ""
-    },
-    {
-      "Key": "Range: 20. 4x Power 3.",
-      "Translation": "Portée: 20. 4x Puissance 3.",
-      "Comment": ""
-    },
-    {
       "Key": "Range: 30. 3x Power 3.",
       "Translation": "Portée: 30. 3x Puissance 3.",
       "Comment": ""
@@ -377,13 +352,8 @@
       "Comment": ""
     },
     {
-      "Key": "Favoured by Trickery. Unit has Ambush Deployment and +1 Move Speed",
-      "Translation": "Favorisé par La Ruse. L'unité a le déploiement en embuscade and +1 vitesse de mouvement",
-      "Comment": ""
-    },
-    {
       "Key": "Favoured by Decay. +1 Wounds. -1 Move Speed.",
-      "Translation": "Favorisé par la Pourriture. +1 Blessure. -1 Move Speed.",
+      "Translation": "Favorisé par la Pourriture. +1 Blessure. -1 Vitesse de Déplacement.",
       "Comment": ""
     },
     {
@@ -422,6 +392,391 @@
       "Comment": ""
     },
     {
+      "Key": "+3 Skill",
+      "Translation": "+3 Compétence",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Power, +1 Attack",
+      "Translation": "+1 Puissance, +1 Attaque",
+      "Comment": ""
+    },
+    {
+      "Key": "Reroll failed Damage Saves",
+      "Translation": "Relance les jets de Sauvegardes Ratés de Dégâts",
+      "Comment": ""
+    },
+    {
+      "Key": "+3 Wounds",
+      "Translation": "+3 Blessure",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Power to Spell Attacks",
+      "Translation": "+1 Puissance aux Attaques de Sort",
+      "Comment": ""
+    },
+    {
+      "Key": "+3 Spell Attack",
+      "Translation": "+3 Attaque de Sort",
+      "Comment": ""
+    },
+    {
+      "Key": "+3 Attack",
+      "Translation": "+3 Attaque",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit rerolls 1s on Ranged Attack Rolls.",
+      "Translation": "L'unité relance les 1 aux jets d'Attaque à Distance.",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Skill",
+      "Translation": "+1 Compétence",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Power",
+      "Translation": "+1 Puissance",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Wounds",
+      "Translation": "+1 Blessure",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Ranged Attack",
+      "Translation": "+1 Attaque à Distance",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Defense",
+      "Translation": "+1 Défence",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Spell Attack",
+      "Translation": "+1  Attaque de Sort",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Power. Once per battle, cast the Fireball spell.",
+      "Translation": "+1 Puissance. Une fois par bataille, lancez le sort Boule de feu.",
+      "Comment": ""
+    },
+    {
+      "Key": "Commander and unit has Ambush deployment",
+      "Translation": "Le Commandand et son unité ont déploiement en Embuscade",
+      "Comment": ""
+    },
+    {
+      "Key": "All enemy units re-roll successful Discipline tests this turn. Use once per battle.",
+      "Translation": "Tout les unités ennemies relance leurs tests de Discipline réussis ce tour. Une utilisation par bataille.",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 to hit with Ranged Attacks.",
+      "Translation": "+1 aux jets de touche pour les Attaques à Distances.",
+      "Comment": ""
+    },
+    {
+      "Key": "Reroll Ranged and Combat Attacks against Ranged Units",
+      "Translation": "Relance les Attaques à Distance et de Combat contre les Unités à Distance",
+      "Comment": ""
+    },
+    {
+      "Key": "Reroll Ranged and Combat Attacks against Monsters.",
+      "Translation": "Relance les Attaques à Distance et de Combat contre les Monstres.",
+      "Comment": ""
+    },
+    {
+      "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
+      "Translation": "Relance les jets d'Attaques contre la Cavalerie et les Chariots",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit is Fearless. Once per battle, gain +3 Power this turn.",
+      "Translation": "L'Unité est Intrépide. Une fois par bataille, gagne +3 Puissance ce tour.",
+      "Comment": ""
+    },
+    {
+      "Key": "All units gets +1 Skill and rerolls failed Discipline tests this turn.",
+      "Translation": "Toues les unités gagnent +1 Compétence et realnce les test raté de Discipline ce tour.",
+      "Comment": ""
+    },
+    {
+      "Key": "Restore D3+1 wounds to a Reanimated unit, and give it +1 Power and Defense this turn.",
+      "Translation": "Restore D3+1 blessures à une unité de Réanimée , et leur donne +1 Puissance and Défence ce tour.",
+      "Comment": ""
+    },
+    {
+      "Key": "Restore D3+1 wounds to any unit.",
+      "Translation": "Restaure D3+1 blessures à n'importe quelle unité.",
+      "Comment": ""
+    },
+    {
+      "Key": "Target unit has -3 Defense and Power until end of turn.",
+      "Translation": "L'unité ciblée a -3 Défence et Puissance jusqu'à la fin du tour.",
+      "Comment": ""
+    },
+    {
+      "Key": "Target unit rerolls failed damage saves this turn.",
+      "Translation": "L'unité ciblée relance les jets de sauvegarde de dégâts raté ce tour.",
+      "Comment": ""
+    },
+    {
+      "Key": "Target Reanimated unit has +3 Move speed and rerolls missed Attack Rolls until it's next combat.",
+      "Translation": "Cible une unité Réanimé elle a +3 vitesse de mouvement et relance les jets d'Attaque raté jusqu'à son prochain combat.",
+      "Comment": ""
+    },
+    {
+      "Key": "Reduce target units movement speed to 0 this turn.",
+      "Translation": "Reduit la vitesse de mouvement de l'unité ciblée à 0 ce tour.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit can fire ranged weapons in one additional rank.\nRerolls 1s on Ranged Attack Rolls.",
+      "Translation": "L'unité peut tirer sur un rang additionel.\nRelance les 1s aux Jets d'Attaque à Distance.",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Power to Ranged Attacks.",
+      "Translation": "+1 Puissance aux Attaques à Distance.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit re-rolls failed Damage Saves",
+      "Translation": "L'unité relance les Sauvegardes de Dégâts ratées",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit can move and fire ranged weapons.",
+      "Translation": "L'unité peut se déplacer et tirer avec des armes à distance.",
+      "Comment": ""
+    },
+    {
+      "Key": " Unit re-rolls missed Attack Rolls.",
+      "Translation": " L'Unité relance les jets d'Attaque ratés.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit re-rolls missed Attack Rolls and is Fearless (Ignores penalties to Discipline tests).",
+      "Translation": "L'Unité relance les jets d'Attaque ratés et est Intrépide (Ignore les penalités aux tests de Discipline).",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit has +1 to Combat Score and is Fearless (Ignores penalties to Discipline tests).",
+      "Translation": "L'unité a +1 au Score de Combat et est Intrépide (Ignore les penalités aux tests de Discipline).",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit has +1 to Combat Score.",
+      "Translation": "L'unité a +1 au Score de Combat.",
+      "Comment": ""
+    },
+    {
+      "Key": "Reduce Crumble rolls by 1. Increase Move Speed by 1. +3 Wounds",
+      "Translation": "Réduis le jet de Détérioration de 1. Augment la Vitesse de Déplacement de 1. +3 Blessure",
+      "Comment": ""
+    },
+    {
+      "Key": "Reduce Crumble rolls by 1.",
+      "Translation": "Réduit les jets de Détérioration de 1.",
+      "Comment": ""
+    },
+    {
+      "Key": "Reduce Crumble rolls by 1. Increase Move Speed by 1.",
+      "Translation": "Réduit les jets de Détérioration de 1. Augmente la Vitesse de Déplacement de 1.",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Attack, -1 Skill.",
+      "Translation": "+1 Attaque, -1 Compétence.",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Ranged Attack, -1 Skill.",
+      "Translation": "+1 Attaque à Distance, -1 Compétence.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit counts as Reanimated. (Never fails Discipline tests, loses D3 wounds on lost combat )+1 Defense,  -1 Move Speed.",
+      "Translation": "L'unité compte comme Réanimé. (Rate jamais les tests de Discipline, Perd D3 blessure durant les combats perdus )+1 Défence,  -1 Vitesse de Déplacement.",
+      "Comment": ""
+    },
+    {
+      "Key": "Opponents re-roll hits in close combat. ",
+      "Translation": "L'adversaires relance ses touches au corps à corps. ",
+      "Comment": ""
+    },
+    {
+      "Key": "Ambush deployment.",
+      "Translation": "Déploiement Embusqué.",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Wound. -1 Move Speed.",
+      "Translation": "+1 Blessure. -1 Vitesse de Déplacement.",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Wounds. +1Power",
+      "Translation": "+1 Blessure. +1Puissance",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit gets supporting attacks from one extra rank.",
+      "Translation": "L'unité obtient des attaques de soutien d'un rang supplémentaire.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit gets supporting attacks from one extra rank and re-rolls missed Attack Rolls.",
+      "Translation": "L'unité obtient des attaques de soutien d'un rang supplémentaire et relance jets d'Attaque ratés.",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Move Speed",
+      "Translation": "+1 Vitesse de Déplacement",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Move Speed. Charge Bonus: +1 Attack.",
+      "Translation": "+1 Vitesse de Déplacement. Bonus de Charge: +1 Attaque.",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Move Speed and ignores Difficult Terrain",
+      "Translation": "+1 Vitesse de Déplacement et ignores les Terrains Difficiles",
+      "Comment": ""
+    },
+    {
+      "Key": "Regeneration. (restores all wounds at end of turn)",
+      "Translation": "Régénération. (restaure toutes les blessures à la fin du tour)",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit re-rolls 1s on Damage Saves",
+      "Translation": "L'Unité relance les 1s aux Sauvegardes de Dégâts",
+      "Comment": ""
+    },
+    {
+      "Key": "Reroll missed Attack Rolls when attacking from Flank or Rear",
+      "Translation": "Relance les jets d'Attaque ratés lors d'une attaque de Flanc ou de l'Arrière",
+      "Comment": ""
+    },
+    {
+      "Key": " +1 Attack and Fearless. Activate once per battle.",
+      "Translation": " +1 Attaque et Intrépide. Activation une fois par bataille.",
+      "Comment": ""
+    },
+    {
+      "Key": " Reroll 1s on Damage Saves",
+      "Translation": " Relance les 1s aux Sauvegardes de Dégâts",
+      "Comment": ""
+    },
+    {
+      "Key": "Earns 1 gold for each enemy killed in Combat.",
+      "Translation": "Gagne 1 or pour chaque ennemi tué au Combat.",
+      "Comment": ""
+    },
+    {
+      "Key": "All friendly units counts as being in Cover against ranged attacks untill it's next combat.",
+      "Translation": "Toutes les unités amies compte comme étant à Couvert contre les attaques à distance jusqu'au prochain combat.",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Damage Save vs Ranged",
+      "Translation": "+1 Sauvegarde de Dégâts contre les Dégâts à Distance",
+      "Comment": ""
+    },
+    {
+      "Key": "Once per battle: Gain +1 Attack\n+1 Damage Save vs Ranged",
+      "Translation": "Une fois par bataille: Gagne +1 Attaque\n+1 aux sauvegardes de dégât vs attaques à Portée",
+      "Comment": ""
+    },
+    {
+      "Key": " +1 Wounds",
+      "Translation": " +1 Blessure",
+      "Comment": ""
+    },
+    {
+      "Key": "Once per battle: Gain Flying for one turn. \n+1 Move Speed",
+      "Translation": "Une fois par bataille: Gagne Vol pour un tour. \n+1 Vitesse de Déplacement",
+      "Comment": ""
+    },
+    {
+      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration.",
+      "Translation": "une fois par bataille, toute les unités amies avec le don de la Pourriture relancent les sauvegardes de dégâts ratées .\nRégénération.",
+      "Comment": ""
+    },
+    {
+      "Key": "Once per battle, all friendly units with Gift of Trickery gain +3 move speed and Cover.\nAmbush Deployment.\n",
+      "Translation": "Une fois par bataille, Toutes les unités avec le don de la Ruse gagne +3 Vitesse de Déplacement et le Couvert.\nDéploiement en Embuscade.\n",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit has +10 range for Ranged attacks.",
+      "Translation": "L'unité a +10 de portée aux attaques à distance.",
+      "Comment": ""
+    },
+    {
+      "Key": "Paladin and retinue rerolls 1s on Attack Rolls. Activate once per battle; all friendly Knights reroll failed Attack Rolls.",
+      "Translation": "Le Paladin et sa Suite relancent les 1s aux jets d'Attaque. Activatiion une fois par bataille; toute les unités de chevalier relancent les jets d'Attaque ratés.",
+      "Comment": ""
+    },
+    {
+      "Key": "Maiden and retinue rerolls 1s on Damage Saves.. Activate once per battle; all friendly Knights reroll failed Damage Saves. ",
+      "Translation": "La Pucelle et sa Suite relancent les 1s aux Sauvegardes de Dégâts.. Activation une fois par bataille; toute les unités de chevalier relancent les jets de Sauvegardes de Dégâts ratées. ",
+      "Comment": ""
+    },
+    {
+      "Key": "-1 to targets Damage Save",
+      "Translation": "-1 à la Sauvegarde de Dégâts de la cible",
+      "Comment": ""
+    },
+    {
+      "Key": "Gain +3 ranged attacks.",
+      "Translation": "Gagne +3 attaques à distance.",
+      "Comment": ""
+    },
+    {
+      "Key": "Ranged attacks have +10 range and ignores cover.",
+      "Translation": "les attaques à distance ont +10 range et ignore le couvert.",
+      "Comment": ""
+    },
+    {
+      "Key": "Favoured by Trickery. Unit has Ambush Deployment and +1 Move Speed. Can Flee from Charges.",
+      "Translation": "Favorisé par la Ruse. L'unité a un Déploiement en embuscade et +1 Vitesse de Déplacement. Peut fuir devant une charge.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 20. Power 2.",
+      "Translation": "Portée: 20. Puissance 2.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 20. Power 3.",
+      "Translation": "Portée: 20. Puissance 3.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 24. Power 4. ",
+      "Translation": "Portée: 24. Puissance 4. ",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 20. 2x Power 3.",
+      "Translation": "Portée: 20. 2x Puissance 3.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 20. 4x Power 3.",
+      "Translation": "Portée: 20. 4x Puissance 3.",
+      "Comment": ""
+    },
+    {
       "Key": "Range 12. 2D3 Power 3.",
       "Translation": "Portée 12. 2D3 Puissance 3.",
       "Comment": "W3 = Würfel mit 3 Seiten"
@@ -438,18 +793,8 @@
     },
     {
       "Key": "+6 Movement this turn.",
-      "Translation": "+6 Déplacement ce tour.",
+      "Translation": "+6 Vitesse de Déplacement ce tour.",
       "Comment": ""
-    },
-    {
-      "Key": "Always counts as being in Cover. -3 Defense in Close Combat. Unit can't charge.",
-      "Translation": "Compte comme toujours étant à Couvert. -3 Défence en Combat au corps à corps. L'Unité ne peut pas charger.",
-      "Comment": "Pavise/static defense weapon"
-    },
-    {
-      "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 3+.",
-      "Translation": "Bonus de Charge: +1 Puissance \nLes Sauvegardes de Dégâts contre cette arme ne sont jamais meilleures que 3+.",
-      "Comment": "Armor-piercing lance"
     },
     {
       "Key": "+1 Defense. Charge Bonus: +2 Power",
@@ -483,7 +828,7 @@
     },
     {
       "Key": "Activate for +4 Movement this turn.",
-      "Translation": "Activer for +4 Déplacement ce tour.",
+      "Translation": "Activer for +4 Vitesse de Déplacement ce tour.",
       "Comment": ""
     },
     {
@@ -494,11 +839,6 @@
     {
       "Key": "+2 Skill",
       "Translation": "+2 Compétence",
-      "Comment": ""
-    },
-    {
-      "Key": "+3 Skill",
-      "Translation": "+3 Compétence",
       "Comment": ""
     },
     {
@@ -543,7 +883,7 @@
     },
     {
       "Key": "Reduce an enemy units Move Speed by 4. Range 12.",
-      "Translation": "Reduit la vitesse de Mouvement de 4 d'une unité ennemie. Portée 12.",
+      "Translation": "Reduit la Vitesse de Déplacement de 4 d'une unité ennemie. Portée 12.",
       "Comment": ""
     },
     {
@@ -562,18 +902,8 @@
       "Comment": ""
     },
     {
-      "Key": "Retinue has +3 Move Speed",
-      "Translation": "La Suite has +3 vitesse de Mouvement",
-      "Comment": ""
-    },
-    {
-      "Key": "Target Warmachine gets +3 Defense and rerolls 1s on Ranged Attack rolls this battle.",
-      "Translation": "La Machine de Guerre gagne +3 Défence et relance les 1s aux jets d'Attaque à Distance durant cette Bataille.",
-      "Comment": "Engineer buff"
-    },
-    {
       "Key": "Caster and retinue gains Flying and Move Speed 20 for one turn",
-      "Translation": "Le Lanceur et sa Suite gagnent Vol et vitesse de Mouvement 20 pour un tour",
+      "Translation": "Le Lanceur et sa Suite gagnent Vol et Vitesse de Déplacement 20 pour un tour",
       "Comment": ""
     },
     {
@@ -602,11 +932,6 @@
       "Comment": ""
     },
     {
-      "Key": "All enemy units have -3 Discipline for one turn. Can only be  activated when damaged.",
-      "Translation": "Toutes les unités ennemies ont -3 Discipline pour un tour. Ne peut être activé que Endommagé.",
-      "Comment": "Terror roar"
-    },
-    {
       "Key": "Range: 8. Power 2.",
       "Translation": "Portée: 8. Puissance 2.",
       "Comment": "Breath weapon"
@@ -627,48 +952,18 @@
       "Comment": ""
     },
     {
-      "Key": "Retinue gets +3 Movement Speed and re-rolls missed Attack Rolls for one Turn. It loses one model.",
-      "Translation": "La Suite gagne +3 vitesse de Déplacement et relance les jets d'Attaque raté pour un Tour. Elle perd un modèle.",
-      "Comment": "Blood sacrifice"
-    },
-    {
-      "Key": "Activate once per battle. Melee attacks deal 3x wounds against multiwound targets for one turn.",
-      "Translation": "Activation une fois par bataille. Les attaques de mélée font 3x blessure contres les cible multi-blessures pour un tour.",
-      "Comment": "Deadly Strikes ability"
-    },
-    {
       "Key": "Range: 24. Power 3.",
       "Translation": "Portée: 24. Puissance 3.",
       "Comment": ""
     },
     {
       "Key": "Activate for +4 Movement and Flying for one turn.",
-      "Translation": "Activer pour +4 Déplacement et Vol pour un tour.",
-      "Comment": ""
-    },
-    {
-      "Key": "Once per battle, all friendly units with Gift of War gain Deadly Strikes (3x Wounds caused).",
-      "Translation": "Une fois par bataille, toutes les unitées amies avec le Don de la Guerre gagnent Frappe Mortel (3x Blessure occasionnées).",
-      "Comment": "Chaos faction buff"
-    },
-    {
-      "Key": "+1 Power, +1 Attack",
-      "Translation": "+1 Puissance, +1 Attaque",
-      "Comment": ""
-    },
-    {
-      "Key": "Reroll failed Damage Saves",
-      "Translation": "Relance les jets de Sauvegardes Ratés de Dégâts",
+      "Translation": "Activer pour +4 Vitesse de Déplacement et Vol pour un tour.",
       "Comment": ""
     },
     {
       "Key": "+2 Wounds",
       "Translation": "+2 Blessure",
-      "Comment": ""
-    },
-    {
-      "Key": "+3 Wounds",
-      "Translation": "+3 Blessure",
       "Comment": ""
     },
     {
@@ -682,28 +977,13 @@
       "Comment": ""
     },
     {
-      "Key": "+1 Power to Spell Attacks",
-      "Translation": "+1 Puissance aux Attaques de Sort",
-      "Comment": ""
-    },
-    {
       "Key": "+2 Spell Attacks",
       "Translation": "+2 Attaques de Sort",
       "Comment": ""
     },
     {
-      "Key": "+3 Spell Attack",
-      "Translation": "+3 Attaque de Sort",
-      "Comment": ""
-    },
-    {
       "Key": "+2 Attack",
       "Translation": "+2 Attaque",
-      "Comment": ""
-    },
-    {
-      "Key": "+3 Attack",
-      "Translation": "+3 Attaque",
       "Comment": ""
     },
     {
@@ -717,88 +997,8 @@
       "Comment": ""
     },
     {
-      "Key": "Unit rerolls 1s on Ranged Attack Rolls.",
-      "Translation": "L'Unité relance les 1s aux jets d'Attaque à Distance .",
-      "Comment": ""
-    },
-    {
-      "Key": "+1 Skill",
-      "Translation": "+1 Compétence",
-      "Comment": ""
-    },
-    {
-      "Key": "+1 Power",
-      "Translation": "+1 Puissance",
-      "Comment": ""
-    },
-    {
-      "Key": "+1 Wounds",
-      "Translation": "+1 Blessure",
-      "Comment": ""
-    },
-    {
-      "Key": "+1 Ranged Attack",
-      "Translation": "+1 Attaque à Distance",
-      "Comment": ""
-    },
-    {
-      "Key": "+1 Defense",
-      "Translation": "+1 Défence",
-      "Comment": ""
-    },
-    {
-      "Key": "+1 Spell Attack",
-      "Translation": "+1  Attaque de Sort",
-      "Comment": ""
-    },
-    {
-      "Key": "+1 Power. Once per battle, cast the Fireball spell.",
-      "Translation": "+1 Puissance. Une fois par bataille, Lance le sort Boule de feu.",
-      "Comment": ""
-    },
-    {
-      "Key": "Commander and unit has Ambush deployment",
-      "Translation": "Le Commandand et son unité ont déploiement en Embuscade",
-      "Comment": ""
-    },
-    {
-      "Key": "All enemy units re-roll successful Discipline tests this turn. Use once per battle.",
-      "Translation": "Tout les unités ennemies relance leurs tests de Discipline réussis ce tour. Une utilisation par bataille.",
-      "Comment": ""
-    },
-    {
-      "Key": "+1 to hit with Ranged Attacks.",
-      "Translation": "+1 aux jets de touche pour les Attaques à Distances.",
-      "Comment": ""
-    },
-    {
-      "Key": "Reroll Ranged and Combat Attacks against Ranged Units",
-      "Translation": "Relance les jets d'Attaques contre les Unités à Distance",
-      "Comment": ""
-    },
-    {
-      "Key": "Reroll Ranged and Combat Attacks against Monsters.",
-      "Translation": "Relance les jets d'Attaques contre les Monstres.",
-      "Comment": ""
-    },
-    {
-      "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "Relance les jets d'Attaques contre la Cavalerie et les Chariots",
-      "Comment": ""
-    },
-    {
-      "Key": "Unit is Fearless. Once per battle, gain +3 Power this turn.",
-      "Translation": "L'Unité est Intrépide. Une fois par bataille, gagne +3 Puissance ce tour.",
-      "Comment": ""
-    },
-    {
       "Key": "Target unit gets +2 Power in their next combat round.",
       "Translation": "L'unité ciblée obtient +2 Puissance lors de son prochain round de combat.",
-      "Comment": ""
-    },
-    {
-      "Key": "All units gets +1 Skill and rerolls failed Discipline tests this turn.",
-      "Translation": "Toues les unités gagnent +1 Compétence et realnce les test raté de Discipline ce tour.",
       "Comment": ""
     },
     {
@@ -812,43 +1012,8 @@
       "Comment": ""
     },
     {
-      "Key": "Raise 3D3+3 models on a Zombie or Skeleton Warrior, Spear or Archer unit.",
-      "Translation": "Relève 3D3+3 figurines sur une unité de Guerriers Zombies ou Squelettes, Lanciers ou Archers.",
-      "Comment": ""
-    },
-    {
-      "Key": "Restore D3+1 wounds to a Reanimated unit, and give it +1 Power and Defense this turn.",
-      "Translation": "Restore D3+1 blessures à une unité de Réanimée , et leur donne +1 Puissance and Défence ce tour.",
-      "Comment": ""
-    },
-    {
-      "Key": "Restore D3+1 wounds to any unit.",
-      "Translation": "Restaure D3+1 blessures à n'importe quelle unité.",
-      "Comment": ""
-    },
-    {
-      "Key": "Target unit has -3 Defense and Power until end of turn.",
-      "Translation": "L'unité ciblée a -3 Défence et Puissance jusqu'à la fin du tour.",
-      "Comment": ""
-    },
-    {
       "Key": "3 x Power 5 hits. Range: 24.",
       "Translation": "3 x Puissance 5 touches. Portée: 24.",
-      "Comment": ""
-    },
-    {
-      "Key": "Target unit rerolls failed damage saves this turn.",
-      "Translation": "L'unité ciblée relance les jets de sauvegarde de dégâts raté ce tour.",
-      "Comment": ""
-    },
-    {
-      "Key": "Target Reanimated unit has +3 Move speed and rerolls missed Attack Rolls until it's next combat.",
-      "Translation": "Cible une unité Réanimé elle a +3 vitesse de mouvement et relance les jets d'Attaque raté jusqu'à son prochain combat.",
-      "Comment": ""
-    },
-    {
-      "Key": "Reduce target units movement speed to 0 this turn.",
-      "Translation": "Reduit la vitesse de mouvement de l'unité ciblée à 0 ce tour.",
       "Comment": ""
     },
     {
@@ -862,88 +1027,18 @@
       "Comment": ""
     },
     {
-      "Key": "Unit can fire ranged weapons in one additional rank.\nRerolls 1s on Ranged Attack Rolls.",
-      "Translation": "L'unité peut tirer sur un rang additionel.\nRelance les 1s aux Jets d'Attaque à Distance.",
-      "Comment": ""
-    },
-    {
       "Key": "Ranged attack range increased by 5.",
-      "Translation": "L'Attaque à distance augmente de 5 de portée.",
-      "Comment": ""
-    },
-    {
-      "Key": "+1 Power to Ranged Attacks.",
-      "Translation": "+1 Puissance à l'Attaque à Distances.",
-      "Comment": ""
-    },
-    {
-      "Key": "Unit re-rolls failed Damage Saves",
-      "Translation": "L'Unité relance les jets de Sauvegarde de Dégâts ratés",
-      "Comment": ""
-    },
-    {
-      "Key": "Unit can move and fire ranged weapons.",
-      "Translation": "L'unité peut se déplacer et tirer avec des armes à distance.",
-      "Comment": ""
-    },
-    {
-      "Key": " Unit re-rolls missed Attack Rolls.",
-      "Translation": " L'Unité relance les jets d'Attaque ratés.",
-      "Comment": ""
-    },
-    {
-      "Key": "Unit re-rolls missed Attack Rolls and is Fearless (Ignores penalties to Discipline tests).",
-      "Translation": "L'Unité relance les jets d'Attaque ratés et est Intrépide (Ignore les penalités aux tests de Discipline).",
-      "Comment": ""
-    },
-    {
-      "Key": "Unit has +1 to Combat Score and is Fearless (Ignores penalties to Discipline tests).",
-      "Translation": "L'unité a +1 au Score de Combat et est Intrépide (Ignore les penalités aux tests de Discipline).",
+      "Translation": "Portée d'attaque à distance augmentée de 5.",
       "Comment": ""
     },
     {
       "Key": "Unit has +5 range for Ranged attacks.",
-      "Translation": "L'unité a +5 portée à ses attaques à distance.",
-      "Comment": ""
-    },
-    {
-      "Key": "Unit has +3 range for Ranged attacks and ignores penalties for difficult terrain.",
-      "Translation": "L'unité a +3 portée à ses attaques à distanc et ignores les penalités des terrains difficiles.",
-      "Comment": ""
-    },
-    {
-      "Key": "Unit has +1 to Combat Score.",
-      "Translation": "L'unité a +1 au Score de Combat.",
-      "Comment": ""
-    },
-    {
-      "Key": "Reduce Crumble rolls by 1. Increase Move Speed by 1. +3 Wounds",
-      "Translation": "Réduis le jet de Détérioration de 1. Augment la vitesse de Mouvement de 1. +3 Blessure",
-      "Comment": ""
-    },
-    {
-      "Key": "Reduce Crumble rolls by 1.",
-      "Translation": "Réduit les jets de Détérioration de 1.",
-      "Comment": ""
-    },
-    {
-      "Key": "Reduce Crumble rolls by 1. Increase Move Speed by 1.",
-      "Translation": "Réduit les jets de Détérioration de 1. Augmente la Vitesse de Mouvement de 1.",
-      "Comment": ""
-    },
-    {
-      "Key": "+1 Attack, -1 Skill.",
-      "Translation": "+1 Attaque, -1 Compétence.",
+      "Translation": "L'unité a +5 de portée pour les attaques à distance.",
       "Comment": ""
     },
     {
       "Key": "+2 Attacks, -1 Skill.",
       "Translation": "+2 Attaques, -1 Compétence.",
-      "Comment": ""
-    },
-    {
-      "Key": "+1 Ranged Attack, -1 Skill.",
-      "Translation": "+1 Attaque à Distance, -1 Compétence.",
       "Comment": ""
     },
     {
@@ -962,31 +1057,6 @@
       "Comment": ""
     },
     {
-      "Key": "Unit counts as Reanimated. (Never fails Discipline tests, loses D3 wounds on lost combat )+1 Defense,  -1 Move Speed.",
-      "Translation": "L'unité compte comme Réanimé. (Rate jamais les tests de Discipline, Perd D3 blessure durant les combats perdus )+1 Défence,  -1 vitesse de Mouvement.",
-      "Comment": ""
-    },
-    {
-      "Key": "Opponents re-roll hits in close combat. ",
-      "Translation": "L'adversaires relance ses touches au corps à corps. ",
-      "Comment": ""
-    },
-    {
-      "Key": "Ambush deployment.",
-      "Translation": "Déploiement Embusqué.",
-      "Comment": ""
-    },
-    {
-      "Key": "+1 Wound. -1 Move Speed.",
-      "Translation": "+1 Blessure. -1 Vitesse de Déplacement.",
-      "Comment": ""
-    },
-    {
-      "Key": "+1 Wounds. +1Power",
-      "Translation": "+1 Blessure. +1Puissance",
-      "Comment": ""
-    },
-    {
       "Key": "+2 Wounds. -1 Move Speed.",
       "Translation": "+2 Blessure. -1 Vitesse de Déplacement.",
       "Comment": ""
@@ -997,43 +1067,8 @@
       "Comment": ""
     },
     {
-      "Key": "+3 range to Ranged Attacks. Damage saves against units Ranged Attack are reduced by 1.",
-      "Translation": "+3 à la portée des Attaques à Distances. Les Sauvegardes de dégâts à Distance contre cette unité sont reduit de 1.",
-      "Comment": ""
-    },
-    {
-      "Key": "Unit gets supporting attacks from one extra rank.",
-      "Translation": "L'unité obtient des attaques de soutien d'un rang supplémentaire.",
-      "Comment": ""
-    },
-    {
-      "Key": "Unit gets supporting attacks from one extra rank and re-rolls missed Attack Rolls.",
-      "Translation": "L'unité obtient des attaques de soutien d'un rang supplémentaire et relance jets d'Attaque ratés.",
-      "Comment": ""
-    },
-    {
-      "Key": "+1 Move Speed",
-      "Translation": "+1 Vitesse de Déplacement",
-      "Comment": ""
-    },
-    {
-      "Key": "+1 Move Speed. Charge Bonus: +1 Attack.",
-      "Translation": "+1 Vitesse de Déplacement. Bonus de Charge: +1 Attaque.",
-      "Comment": ""
-    },
-    {
-      "Key": "+1 Move Speed and ignores Difficult Terrain",
-      "Translation": "+1 Vitesse de Déplacement et ignores les Terrains Difficiles",
-      "Comment": ""
-    },
-    {
       "Key": "Lethal Attacks. (2x wounds)",
       "Translation": "Attaques Mortelles. (2x wounds)",
-      "Comment": ""
-    },
-    {
-      "Key": "Regeneration. (restores all wounds at end of turn)",
-      "Translation": "Regeneration. (restaure toutes les blessures à la fin du tour)",
       "Comment": ""
     },
     {
@@ -1042,38 +1077,8 @@
       "Comment": ""
     },
     {
-      "Key": "Unit re-rolls 1s on Damage Saves",
-      "Translation": "L'Unité relance les 1s aux Sauvegardes de Dégâts",
-      "Comment": ""
-    },
-    {
-      "Key": "Reroll missed Attack Rolls when attacking from Flank or Rear",
-      "Translation": "Relance les jets d'Attaque ratés lors des attaques de Flanc ou de l'Arrière",
-      "Comment": ""
-    },
-    {
-      "Key": " +1 Attack and Fearless. Activate once per battle.",
-      "Translation": " +1 Attaque et Intrépide. Activation une fois par bataille.",
-      "Comment": ""
-    },
-    {
-      "Key": " Reroll 1s on Damage Saves",
-      "Translation": " Relance les 1s aux Sauvegardes de Dégâts",
-      "Comment": ""
-    },
-    {
       "Key": "All your units have +1 Power  and +2 Move Speed for one turn.",
       "Translation": "Toutes vos unités ont +1 Puissance  et +2 vitesse de Déplacement pour un tour.",
-      "Comment": ""
-    },
-    {
-      "Key": "Earns 1 gold for each enemy killed in Combat.",
-      "Translation": "Gagne 1 or pour chaque ennemi tué au Combat.",
-      "Comment": ""
-    },
-    {
-      "Key": "All friendly units counts as being in Cover against ranged attacks untill it's next combat.",
-      "Translation": "Toutes les unités amies compte comme étant à Couvert contre les attaques à distance jusqu'au prochain combat.",
       "Comment": ""
     },
     {
@@ -1082,78 +1087,113 @@
       "Comment": ""
     },
     {
-      "Key": "+1 Damage Save vs Ranged",
-      "Translation": "+1 aux sauvegardes de dégât vs attaques à Portée",
-      "Comment": ""
-    },
-    {
-      "Key": "Once per battle: Gain +1 Attack\n+1 Damage Save vs Ranged",
-      "Translation": "Une fois par bataille: Gagne +1 Attaque\n+1 aux sauvegardes de dégât vs attaques à Portée",
-      "Comment": ""
-    },
-    {
-      "Key": " +1 Wounds",
-      "Translation": " +1 Blessure",
-      "Comment": ""
-    },
-    {
-      "Key": "Poisoned Attacks. (Opponent rerolls 3s on Damage Saves)\n+1 Wounds",
-      "Translation": "Attaques Empoisonnées. (L'adversaire relance les 3s aux Sauvegardes de Dégâts)\n+1 Blessure",
-      "Comment": ""
-    },
-    {
-      "Key": "Once per battle: Gain Flying for one turn. \n+1 Move Speed",
-      "Translation": "Une fois par bataille: Gagne Vol pour un tour. \n+1 Vitesse de Déplacement",
-      "Comment": ""
-    },
-    {
-      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration.",
-      "Translation": "une fois par bataille, toute les unités amies avec le don de la Pourriture relancent les sauvegardes de dégâts ratées .\nRegeneration.",
-      "Comment": ""
-    },
-    {
-      "Key": "Once per battle, all friendly units with Gift of Trickery gain +3 move speed and Cover.\nAmbush Deployment.\n",
-      "Translation": "Une fois par bataille, Toutes les unités avec le don de la Ruse gagne +3 Vitesse de Déplacement et le Couvert.\nDéploiement en Embuscade.\n",
-      "Comment": ""
-    },
-    {
-      "Key": "Once per battle, all friendly units with Gift of War gain Deadly Strikes  (3x Wounds caused).\nCommander has Deadly Strikes.\n",
-      "Translation": "Une fois par bataille, Toutes les unités avec le don de la Guerre gagne Frappe Mortelle  (3x Blessure causée).\nCommandand a Frappe Mortelle.\n",
-      "Comment": ""
-    },
-    {
-      "Key": "Unit has +10 range for Ranged attacks.",
-      "Translation": "L'unité a +10 de portée aux attaques à distance.",
-      "Comment": ""
-    },
-    {
-      "Key": "Paladin and retinue rerolls 1s on Attack Rolls. Activate once per battle; all friendly Knights reroll failed Attack Rolls.",
-      "Translation": "Le Paladin et sa Suite relancent les 1s aux jets d'Attaque. Activatiion une fois par bataille; toute les unités de chevalier relancent les jets d'Attaque ratés.",
-      "Comment": ""
-    },
-    {
-      "Key": "Maiden and retinue rerolls 1s on Damage Saves.. Activate once per battle; all friendly Knights reroll failed Damage Saves. ",
-      "Translation": "La Pucelle et sa Suite relancent les 1s aux Sauvegardes de Dégâts.. Activation une fois par bataille; toute les unités de chevalier relancent les jets de Sauvegardes de Dégâts ratées. ",
-      "Comment": ""
-    },
-    {
-      "Key": "-1 to targets Damage Save",
-      "Translation": "-1 à la Sauvegarde de Dégâts de la cible",
-      "Comment": ""
-    },
-    {
       "Key": "These arrows deal 2x wounds against multiwound targets.",
       "Translation": "Ces flèches infligent 2x blessures contre les cibles multi-blessures.",
       "Comment": ""
     },
     {
-      "Key": "Gain +3 ranged attacks.",
-      "Translation": "Gagne +3 attaques à distance.",
+      "Key": "Range 48. Power 4. Deadly Shots (Deals 2x Wounds)",
+      "Translation": "Portée 48. Puissance 4. Tirs mortels (inflige 2x blessures)",
       "Comment": ""
     },
     {
-      "Key": "Ranged attacks have +10 range and ignores cover.",
-      "Translation": "les attaques à distance ont +10 range et ignore le couvert.",
+      "Key": "+1 Power for Ranged Attack",
+      "Translation": "+1 Puissance pour les attaques à distance",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Power when charging.",
+      "Translation": "+1 Puissance lors d'une charge.",
+      "Comment": ""
+    },
+    {
+      "Key": "+4 Movement",
+      "Translation": "+4 Mouvement",
+      "Comment": ""
+    },
+    {
+      "Key": "+5 range to Ranged Attacks. Damage saves against units Ranged Attack are reduced by 1.",
+      "Translation": "+5 à la portée des Attaques à Distances. Les Sauvegardes de dégâts à Distance contre cette unité sont reduit de 1.",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "Activate once per battle. Melee attacks deal 2x wounds against multiwound targets for one turn.",
+      "Translation": "Activation une fois par bataille. Les attaques de mélée font 2x blessure contres les cible multi-blessures pour un tour.",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "Activate: For one turn, Commander and Retinue gains +2 to Damages Saves. Attacks set to 0.",
+      "Translation": "Activer : pendant un tour, le commandant et sa suite gagnent +2 aux sauvegardes contre les dégâts. Attaques ramenées à 0.",
+      "Comment": ""
+    },
+    {
+      "Key": "All enemy units have -2 Discipline for one turn. Can only be  activated when damaged.",
+      "Translation": "Toutes les unités ennemies ont -2 Discipline pour un tour. Ne peut être activé que Endommagé.",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "Always counts as being in Cover. -2 Defense in Close Combat. Unit can't charge.",
+      "Translation": "Compte comme toujours étant à Couvert. -2 Défence en Combat au corps à corps. L'Unité ne peut pas charger.",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "Once per battle, all friendly units with Gift of War gain Deadly Strikes  (2x Wounds caused).\nCommander has Deadly Strikes.\n",
+      "Translation": "Une fois par bataille, Toutes les unités avec le don de la Guerre gagne Frappe Mortelle  (2x Blessure causée).\nCommandand a Frappe Mortelle.\n",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "Once per battle, all friendly units with Gift of War gain Deadly Strikes (2x Wounds caused).",
+      "Translation": "Une fois par bataille, toutes les unitées amies avec le Don de la Guerre gagnent Frappe Mortel (2x Blessure occasionnées).",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "Poisoned Attacks. (Opponent rerolls 6s on Damage Saves)\n+1 Wounds",
+      "Translation": "Attaques Empoisonnées. (L'adversaire relance les 6s aux Sauvegardes de Dégâts)\n+1 Blessure",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "Raise 2D3+3 models on a Zombie or Skeleton Warrior, Spear or Archer unit.",
+      "Translation": "Relève 2D3+3 figurines sur une unité de Guerriers Zombies ou Squelettes, Lanciers ou Archers.",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "Re-rolls missed ranged Attack rolls. Retinue has +2 Move Speed",
+      "Translation": "Relance les jets d'attaque à distance ratés. La suite a +2 Vitesse de Déplacement",
+      "Comment": ""
+    },
+    {
+      "Key": "Retinue gets +2 Movement Speed and re-rolls missed Attack Rolls for one Turn. It loses one model.",
+      "Translation": "La Suite gagne +2 vitesse de Déplacement et relance les jets d'Attaque raté pour un Tour. Elle perd un modèle.",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "Target Unit has -3 Discipline for one turn. Activate once per battle.",
+      "Translation": "L'unité ciblée a -3 Discipline pendant un tour. Activer une fois par bataille.",
+      "Comment": ""
+    },
+    {
+      "Key": "Target Warmachine gets +2 Defense and rerolls 1s on Ranged Attack rolls this battle.",
+      "Translation": "La Machine de Guerre gagne +2 Défence et relance les 1s aux jets d'Attaque à Distance durant cette Bataille.",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "This units melee attacks deal 2x wounds against multiwound targets.",
+      "Translation": "Les attaques de corps à corps de cette unité infligent 2x blessures aux cibles à blessures multiples.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit has +2 Move Speed and +1 to Ranged Attack Rolls.",
+      "Translation": "L'unité a +2 Vitesse de Déplacement et +1 aux jets d'attaque à distance.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit has +5 range for Ranged attacks and ignores penalties for difficult terrain.",
+      "Translation": "L'unité a +5 portée à ses attaques à distanc et ignores les penalités des terrains difficiles.",
+      "Comment": "Carried over from the superseded key that differed only by a mangled digit."
+    },
+    {
+      "Key": "Unit is Fearless. Charge Bonus: +1 Attack",
+      "Translation": "L'unité est Intrépide. Bonus de Charge : +1 Attaque",
       "Comment": ""
     }
   ]

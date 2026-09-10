@@ -1,5 +1,5 @@
 {
-  "TranslationContext": "This file contains names of enemu armies in the campaign.",
+  "TranslationContext": "This file contains names of enemy armies in the campaign.",
   "Translations": [
     {
       "Key": "Worlds Hope",
@@ -283,7 +283,7 @@
     },
     {
       "Key": "Abraxas The Decayed ",
-      "Translation": "Abraxas le Décomposé",
+      "Translation": "Abraxas le Décomposé ",
       "Comment": "Decay/plague demon lord"
     },
     {

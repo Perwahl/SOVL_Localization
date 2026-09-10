@@ -553,7 +553,7 @@
     },
     {
       "Key": "Cantrips",
-      "Translation": "Besvärjelser",
+      "Translation": "Trollformler",
       "Comment": ""
     },
     {
@@ -584,11 +584,6 @@
     {
       "Key": "- Defeat the enemy Army -",
       "Translation": "- Besegra fiendens armé -",
-      "Comment": ""
-    },
-    {
-      "Key": "- Survive for 6 Turns -",
-      "Translation": "- Överlev i 6 omgångar -",
       "Comment": ""
     },
     {
@@ -624,11 +619,6 @@
     {
       "Key": "...but more challenges await",
       "Translation": "...men fler utmaningar väntar",
-      "Comment": ""
-    },
-    {
-      "Key": "{0}pts",
-      "Translation": "{0} p",
       "Comment": ""
     },
     {
@@ -677,12 +667,6 @@
       "Comment": ""
     },
     {
-      "Key": "{0}% gold income",
-      "Translation": "{0} % guldinkomst",
-      "Comment": "",
-      "PluralOne": "{0} % guldinkomst"
-    },
-    {
       "Key": "Your regiment returns in the morning. But something has changed them...",
       "Translation": "Ditt regemente återvänder om morgonen. Men något har förändrat dem...",
       "Comment": ""
@@ -728,31 +712,6 @@
       "Comment": ""
     },
     {
-      "Key": "<b>Draw<size=30%></color></b>\\n",
-      "Translation": "<b>Oavgjort<size=30%></color></b>\\n",
-      "Comment": ""
-    },
-    {
-      "Key": "Win <size=80%><color=green>+",
-      "Translation": "Seger <size=80%><color=green>+",
-      "Comment": ""
-    },
-    {
-      "Key": "Loss <size=80%>",
-      "Translation": "Förlust <size=80%>",
-      "Comment": ""
-    },
-    {
-      "Key": "Total Points: <color=#9EFEFF>",
-      "Translation": "Totalt antal poäng: <color=#9EFEFF>",
-      "Comment": ""
-    },
-    {
-      "Key": "Elo:  <color=#9EFEFF>",
-      "Translation": "Elo:  <color=#9EFEFF>",
-      "Comment": ""
-    },
-    {
       "Key": "Restored 1 wound",
       "Translation": "Återställde 1 sår",
       "Comment": ""
@@ -768,29 +727,8 @@
       "Comment": ""
     },
     {
-      "Key": "Replenished 5 models",
-      "Translation": "Påfyllde 5 modeller",
-      "Comment": ""
-    },
-    {
-      "Key": "{0} XP",
-      "Translation": "{0} XP",
-      "Comment": "",
-      "PluralOne": "{0} XP"
-    },
-    {
-      "Key": "Defeated by <color=#FFDF7C>",
-      "Translation": "Besegrad av <color=#FFDF7C>",
-      "Comment": ""
-    },
-    {
       "Key": "</color> in Act",
       "Translation": "</color> i akt",
-      "Comment": ""
-    },
-    {
-      "Key": "Great Weapon <color=#B6F595>+1",
-      "Translation": "Stort vapen <color=#B6F595>+1",
       "Comment": ""
     },
     {
@@ -959,11 +897,6 @@
       "Comment": "Keep the in-game terminology consistent."
     },
     {
-      "Key": "2 Units",
-      "Translation": "2 enheter",
-      "Comment": ""
-    },
-    {
       "Key": "VS",
       "Translation": "mot",
       "Comment": ""
@@ -975,7 +908,7 @@
     },
     {
       "Key": "Attack Roll",
-      "Translation": "Anfallsrullning",
+      "Translation": "Attackslag",
       "Comment": ""
     },
     {
@@ -1005,17 +938,12 @@
     },
     {
       "Key": "Damage Save",
-      "Translation": "Skadespar",
+      "Translation": "Skyddskast",
       "Comment": ""
     },
     {
       "Key": "Opponent:",
       "Translation": "Motståndare:",
-      "Comment": ""
-    },
-    {
-      "Key": "<color=#81D7E5>3+ <size=85%></color> To Save",
-      "Translation": "<color=#81D7E5>3+ <size=85%></color> att spara",
       "Comment": ""
     },
     {
@@ -1029,11 +957,6 @@
       "Comment": ""
     },
     {
-      "Key": "<color=#70F6FF> 3x</color> Auto Hits",
-      "Translation": "<color=#70F6FF> 3x</color> automatiska träffar",
-      "Comment": ""
-    },
-    {
       "Key": "Event Panel",
       "Translation": "Händelsepanel",
       "Comment": ""
@@ -1044,11 +967,6 @@
       "Comment": ""
     },
     {
-      "Key": "Power <color=#81D7E5><size=125%>5</color> </size>VS Defense <color=#81D7E5><size=125%>5</color> ",
-      "Translation": "Styrka <color=#81D7E5><size=125%>5</color> </size>mot försvar <color=#81D7E5><size=125%>5</color> ",
-      "Comment": ""
-    },
-    {
       "Key": "-Opponent Roll-",
       "Translation": "-Motståndares rullning-",
       "Comment": ""
@@ -1056,11 +974,6 @@
     {
       "Key": "Roll to Hit",
       "Translation": "Rulla för träff",
-      "Comment": ""
-    },
-    {
-      "Key": "Power 3 vs Defense 4",
-      "Translation": "Styrka 3 mot försvar 4",
       "Comment": ""
     },
     {
@@ -1149,18 +1062,18 @@
       "Comment": ""
     },
     {
-      "Key": "A units <color=#33FAFF>Skill</color> is a measure of its training and general ability to fight. It  detemines Hit Chance for close combat and ranged attacks.",
-      "Translation": "En enhets <color=#33FAFF>Färdighet</color> är ett mått på dess träning och allmänna stridsförmåga. Den avgör träffchansen för närstrid och avståndsanfall.",
+      "Key": "A unit's <color=#96FAFF>Skill</color> is a measure of its training and general ability to fight. It determines Hit Chance for close combat and ranged attacks.",
+      "Translation": "En enhets <color=#96FAFF>Färdighet</color> är ett mått på dess träning och allmänna stridsförmåga. Den avgör träffchansen för närstrid och avståndsanfall.",
       "Comment": "This keeps the in-game terminology consistent while sounding more natural."
     },
     {
-      "Key": "The <color=#33FAFF>Power</color> stat describes a units physical strength and striking power. It's used in combat to overcome an opponents <color=#33FAFF>Defense.",
-      "Translation": "Statistiken <color=#33FAFF>Styrka</color> beskriver en enhets fysiska styrka och slagkraft. Den används i strid för att övervinna en motståndares <color=#33FAFF>försvar</color>.",
+      "Key": "The <color=#96FAFF>Power</color> stat describes a unit's physical strength and striking power. It's used in combat to overcome an opponent's <color=#96FAFF>Defense</color>.",
+      "Translation": "Statistiken <color=#96FAFF>Styrka</color> beskriver en enhets fysiska styrka och slagkraft. Den används i strid för att övervinna en motståndares <color=#96FAFF>försvar</color>.",
       "Comment": "The revised phrasing is slightly smoother while preserving the original meaning."
     },
     {
-      "Key": "The <color=#33FAFF>Defense</color> stat is a combination of a units general toughness and armor. It determines the units Damage Save against incoming attacks.",
-      "Translation": "Statistiken <color=#33FAFF>Försvar</color> är en kombination av en enhets allmänna tålighet och rustning. Den avgör enhetens skadespar mot inkommande attacker.",
+      "Key": "The <color=#96FAFF>Defense</color> stat is a combination of a unit's general toughness and armor. It determines the unit's Damage Save against incoming attacks.",
+      "Translation": "Statistiken <color=#96FAFF>Försvar</color> är en kombination av en enhets allmänna tålighet och rustning. Den avgör enhetens skadespar mot inkommande attacker.",
       "Comment": "The wording is now a bit more polished and easier to read."
     },
     {
@@ -1275,7 +1188,7 @@
     },
     {
       "Key": "Imperial Sword",
-      "Translation": "Imperiesvärd",
+      "Translation": "Kejserliga Svärdsmän",
       "Comment": ""
     },
     {
@@ -1326,16 +1239,6 @@
     {
       "Key": "Save & Exit",
       "Translation": "Spara och avsluta",
-      "Comment": ""
-    },
-    {
-      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 32.",
-      "Translation": "Besegrad av <color=blue>Gundrik Anvilhide</color> på steg 32.",
-      "Comment": ""
-    },
-    {
-      "Key": "Unlocked 1/5",
-      "Translation": "Upplåst 1/5",
       "Comment": ""
     },
     {
@@ -1465,7 +1368,7 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "Slå om avstånds- och närstridsattacker mot kavalleri och vagnar",
+      "Translation": "Slå om Avstånds- och Närstridsattacker mot Kavalleri och Krigsvagnar",
       "Comment": ""
     },
     {
@@ -1492,11 +1395,6 @@
       "Key": "OR",
       "Translation": "ELLER",
       "Comment": ""
-    },
-    {
-      "Key": "Mercenary Cut: <indent=55%><color=green><b>+10%",
-      "Translation": "Legoknektandel: <indent=55%><color=green><b>+10%",
-      "Comment": "The existing term is acceptable, but this keeps it consistent with the rest of the interface."
     },
     {
       "Key": "- Legend -",
@@ -1580,7 +1478,7 @@
     },
     {
       "Key": "This is a holy place. Your soldiers can ask for a blessing, but make your choice carefully. ",
-      "Translation": "Detta är en helig plats. Dina soldater kan be om en välsignelse, men välj med omsorg.",
+      "Translation": "Detta är en helig plats. Dina soldater kan be om en välsignelse, men välj med omsorg. ",
       "Comment": ""
     },
     {
@@ -1720,7 +1618,7 @@
     },
     {
       "Key": "An ancient place of power. ",
-      "Translation": "En uråldrig kraftplats.",
+      "Translation": "En uråldrig kraftplats. ",
       "Comment": ""
     },
     {
@@ -1755,7 +1653,7 @@
     },
     {
       "Key": "Your soldiers have found an ancient artifact. Make use of its power or sell it in the nearest settlement...",
-      "Translation": "Dina soldater har hittat en uråldrig artefakt. Använd dess kraft eller sälj den i närmaste bosättning...",
+      "Translation": "Dina soldater har hittat en uråldrig artefakt. Använd dess styrka eller sälj den i närmaste bosättning...",
       "Comment": ""
     },
     {
@@ -1845,7 +1743,7 @@
     },
     {
       "Key": "(Your Knights are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "(Dina riddare är modiga och har anfallsbonus: +1 attack)",
+      "Translation": "(Dina riddare är modiga och har anfallsbonus: +1 attack) ",
       "Comment": ""
     },
     {
@@ -1875,7 +1773,7 @@
     },
     {
       "Key": "(Your units are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "(Dina enheter är modiga och har anfallsbonus: +1 attack)",
+      "Translation": "(Dina enheter är modiga och har anfallsbonus: +1 attack) ",
       "Comment": ""
     },
     {
@@ -1904,11 +1802,6 @@
       "Comment": ""
     },
     {
-      "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
-      "Translation": "(Dina enheter får +2 rörelsehastighet och +1 på avståndsattacker)",
-      "Comment": ""
-    },
-    {
       "Key": "Deadly arrows crafted by the Deepwood Elves. Pick one.",
       "Translation": "Dödliga pilar smidda av djupeskogsalfarna. Välj en.",
       "Comment": ""
@@ -1916,11 +1809,6 @@
     {
       "Key": "Event Name",
       "Translation": "Händelsenamn",
-      "Comment": ""
-    },
-    {
-      "Key": "Light Infantry - 99 pts",
-      "Translation": "Lätt infanteri - 99 p",
       "Comment": ""
     },
     {
@@ -1976,21 +1864,6 @@
     {
       "Key": "Unlocked ",
       "Translation": "Upplåst ",
-      "Comment": ""
-    },
-    {
-      "Key": "<color=#31D3E3>3<size=33%></color> D3",
-      "Translation": "<color=#31D3E3>3<size=33%></color> D3",
-      "Comment": ""
-    },
-    {
-      "Key": "< <color=#31D3E3>3",
-      "Translation": "< <color=#31D3E3>3",
-      "Comment": ""
-    },
-    {
-      "Key": "<color=#31D3E3>1<size=33%></color> D3",
-      "Translation": "<color=#31D3E3>1<size=33%></color> D3",
       "Comment": ""
     },
     {
@@ -2084,11 +1957,6 @@
       "Comment": ""
     },
     {
-      "Key": "<b>Draw<size=80%></color></b>\n",
-      "Translation": "<b>Oavgjort<size=80%></color></b>\n",
-      "Comment": ""
-    },
-    {
       "Key": "Challenge Level: 3",
       "Translation": "Utmaningsnivå: 3",
       "Comment": ""
@@ -2099,18 +1967,8 @@
       "Comment": "This better captures the fantasy tone of the event description."
     },
     {
-      "Key": "Turn 1 begins!",
-      "Translation": "Omgång 1 börjar!",
-      "Comment": ""
-    },
-    {
       "Key": "Confident",
       "Translation": "Självsäker",
-      "Comment": ""
-    },
-    {
-      "Key": "Turn 3 begins!",
-      "Translation": "Omgång 3 börjar!",
       "Comment": ""
     },
     {
@@ -2130,7 +1988,7 @@
     },
     {
       "Key": " Attack Roll",
-      "Translation": " Anfallsrullning",
+      "Translation": " Attackslag",
       "Comment": ""
     },
     {
@@ -2149,18 +2007,8 @@
       "Comment": ""
     },
     {
-      "Key": "{0} or lower to Hold",
-      "Translation": "{0} eller lägre för att hålla",
-      "Comment": ""
-    },
-    {
       "Key": "rally!",
       "Translation": "samla sig!",
-      "Comment": ""
-    },
-    {
-      "Key": "{0} or lower to Rally",
-      "Translation": "{0} eller lägre för att samla sig",
       "Comment": ""
     },
     {
@@ -2294,128 +2142,310 @@
       "Comment": ""
     },
     {
-      "Key": "",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
       "Key": "Jungle Beasts",
-      "Translation": "",
+      "Translation": "Djungelbestar",
       "Comment": ""
     },
     {
       "Key": "Demonic Allies",
-      "Translation": "",
+      "Translation": "Demoniska allierade",
       "Comment": ""
     },
     {
       "Key": "War Beasts",
-      "Translation": "",
+      "Translation": "Krigsbestar",
       "Comment": ""
     },
     {
       "Key": "Player",
-      "Translation": "",
+      "Translation": "Spelare",
       "Comment": ""
     },
     {
       "Key": "Skip Charges",
-      "Translation": "",
+      "Translation": "Hoppa över anfall",
       "Comment": ""
     },
     {
       "Key": "Abyssal Terrors",
-      "Translation": "",
+      "Translation": "Avgrundsskräcken",
       "Comment": ""
     },
     {
       "Key": "AI Player",
-      "Translation": "",
+      "Translation": "AI-spelare",
       "Comment": ""
     },
     {
       "Key": "D3",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "D6",
-      "Translation": "",
+      "Translation": "D3",
       "Comment": ""
     },
     {
       "Key": " Damage Save",
-      "Translation": "",
+      "Translation": " Skyddskast",
       "Comment": ""
     },
     {
       "Key": "Confirm Charges",
-      "Translation": "",
+      "Translation": "Bekräfta anfall",
       "Comment": ""
     },
     {
       "Key": "Vermin",
-      "Translation": "",
+      "Translation": "Ohyra",
       "Comment": ""
     },
     {
       "Key": "conceded",
-      "Translation": "",
+      "Translation": "gav upp",
       "Comment": ""
     },
     {
       "Key": "Scoring Objectives",
-      "Translation": "",
+      "Translation": "Målpunkter",
       "Comment": ""
     },
     {
       "Key": "has been wiped out!",
-      "Translation": "",
+      "Translation": "har utplånats!",
       "Comment": ""
     },
     {
       "Key": "Auto Hits",
-      "Translation": "",
+      "Translation": "Automatiska träffar",
       "Comment": ""
     },
     {
       "Key": "No hits",
-      "Translation": "",
+      "Translation": "Inga träffar",
       "Comment": ""
     },
     {
       "Key": "-30% gold income",
-      "Translation": "",
+      "Translation": "-30 % guldinkomst",
       "Comment": ""
     },
     {
       "Key": "- Break the enemy Army -",
-      "Translation": "",
+      "Translation": "- Krossa fiendens armé -",
       "Comment": ""
     },
     {
       "Key": "continue fighting, but their magic weakens.",
-      "Translation": "",
+      "Translation": "fortsätter slåss, men deras magi försvagas.",
       "Comment": ""
     },
     {
       "Key": "-3 or lower to Hold",
-      "Translation": "",
+      "Translation": "-3 eller lägre för att hålla",
       "Comment": ""
     },
     {
       "Key": "Challenge Level: 0",
-      "Translation": "",
+      "Translation": "Utmaningsnivå: 0",
       "Comment": ""
     },
     {
       "Key": "Harder Minor Battles",
-      "Translation": "",
+      "Translation": "Svårare mindre strider",
+      "Comment": ""
+    },
+    {
+      "Key": "Abominations",
+      "Translation": "Vidundren",
+      "Comment": ""
+    },
+    {
+      "Key": "Army Destroyed",
+      "Translation": "Armén förintad",
+      "Comment": ""
+    },
+    {
+      "Key": "Tamed Beasts",
+      "Translation": "Tämjda bestar",
+      "Comment": ""
+    },
+    {
+      "Key": "Wild Beasts",
+      "Translation": "Vilda bestar",
+      "Comment": ""
+    },
+    {
+      "Key": "Forest Guardians",
+      "Translation": "Skogsväktarna",
+      "Comment": ""
+    },
+    {
+      "Key": "BattleLine",
+      "Translation": "Slaglinje",
+      "Comment": ""
+    },
+    {
+      "Key": "Monsters",
+      "Translation": "Monster",
+      "Comment": ""
+    },
+    {
+      "Key": "- Survive for 6 Turns -",
+      "Translation": "- Överlev i 6 omgångar -",
+      "Comment": ""
+    },
+    {
+      "Key": "{0}pts",
+      "Translation": "{0} p",
+      "Comment": ""
+    },
+    {
+      "Key": "{0}% gold income",
+      "Translation": "{0} % guldinkomst",
+      "Comment": "",
+      "PluralOne": "{0} % guldinkomst"
+    },
+    {
+      "Key": "Win <size=80%><color=green>+",
+      "Translation": "Seger <size=80%><color=green>+",
+      "Comment": ""
+    },
+    {
+      "Key": "Loss <size=80%>",
+      "Translation": "Förlust <size=80%>",
+      "Comment": ""
+    },
+    {
+      "Key": "Total Points: <color=#9EFEFF>",
+      "Translation": "Totalt antal poäng: <color=#9EFEFF>",
+      "Comment": ""
+    },
+    {
+      "Key": "Elo:  <color=#9EFEFF>",
+      "Translation": "Elo:  <color=#9EFEFF>",
+      "Comment": ""
+    },
+    {
+      "Key": "Replenished 5 models",
+      "Translation": "Påfyllde 5 modeller",
+      "Comment": ""
+    },
+    {
+      "Key": "{0} XP",
+      "Translation": "{0} XP",
+      "Comment": "",
+      "PluralOne": "{0} XP"
+    },
+    {
+      "Key": "Defeated by <color=#FFDF7C>",
+      "Translation": "Besegrad av <color=#FFDF7C>",
+      "Comment": ""
+    },
+    {
+      "Key": "2 Units",
+      "Translation": "2 enheter",
+      "Comment": ""
+    },
+    {
+      "Key": "<color=#81D7E5>3+ <size=85%></color> To Save",
+      "Translation": "<color=#81D7E5>3+ <size=85%></color> att spara",
+      "Comment": ""
+    },
+    {
+      "Key": "<color=#70F6FF> 3x</color> Auto Hits",
+      "Translation": "<color=#70F6FF> 3x</color> automatiska träffar",
+      "Comment": ""
+    },
+    {
+      "Key": "Power <color=#81D7E5><size=125%>5</color> </size>VS Defense <color=#81D7E5><size=125%>5</color> ",
+      "Translation": "Styrka <color=#81D7E5><size=125%>5</color> </size>mot försvar <color=#81D7E5><size=125%>5</color> ",
+      "Comment": ""
+    },
+    {
+      "Key": "Power 3 vs Defense 4",
+      "Translation": "Styrka 3 mot försvar 4",
+      "Comment": ""
+    },
+    {
+      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 32.",
+      "Translation": "Besegrad av <color=blue>Gundrik Anvilhide</color> på steg 32.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unlocked 1/5",
+      "Translation": "Upplåst 1/5",
+      "Comment": ""
+    },
+    {
+      "Key": "Mercenary Cut: <indent=55%><color=green><b>+10%",
+      "Translation": "Legoknektandel: <indent=55%><color=green><b>+10%",
+      "Comment": "The existing term is acceptable, but this keeps it consistent with the rest of the interface."
+    },
+    {
+      "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
+      "Translation": "(Dina enheter får +2 rörelsehastighet och +1 på avståndsattacker) ",
+      "Comment": ""
+    },
+    {
+      "Key": "Light Infantry - 99 pts",
+      "Translation": "Lätt infanteri - 99 p",
+      "Comment": ""
+    },
+    {
+      "Key": "<b>Draw<size=80%></color></b>\n",
+      "Translation": "<b>Oavgjort<size=80%></color></b>\n",
+      "Comment": ""
+    },
+    {
+      "Key": "{0} or lower to Hold",
+      "Translation": "{0} eller lägre för att hålla",
+      "Comment": ""
+    },
+    {
+      "Key": "{0} or lower to Rally",
+      "Translation": "{0} eller lägre för att samla sig",
+      "Comment": ""
+    },
+    {
+      "Key": "D6",
+      "Translation": "D6",
       "Comment": ""
     },
     {
       "Key": "takes priority",
+      "Translation": "har företräde",
+      "Comment": ""
+    },
+    {
+      "Key": "Turn {0} begins!",
+      "Translation": "Omgång {0} börjar!",
+      "Comment": ""
+    },
+    {
+      "Key": "version 99",
       "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Single Player",
+      "Translation": "Enspelarläge",
+      "Comment": ""
+    },
+    {
+      "Key": "Mods",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Mods ",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Mods\n",
+      "Translation": "Mods\n",
+      "Comment": ""
+    },
+    {
+      "Key": "Great Weapon <color=#B6F595>+1",
+      "Translation": "Stort vapen <color=#B6F595>+1",
       "Comment": ""
     }
   ]

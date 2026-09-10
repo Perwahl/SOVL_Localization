@@ -90,6 +90,11 @@
       "Key": "Goblin King",
       "Translation": "Roi Gobelin",
       "Comment": "Supreme goblin ruler"
+    },
+    {
+      "Key": "Goblin Flying Machine",
+      "Translation": "Machine volante gobeline",
+      "Comment": ""
     }
   ]
 }

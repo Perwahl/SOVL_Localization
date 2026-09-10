@@ -24,7 +24,7 @@
       "Notes": "Stat block name. Must be distinct from [stat.defense] and from any word used for magical power.",
       "ExampleUsage": [
         "Hex of Ruin also reduces Power.",
-        "Upgrades Primal Fury to give +3 Power."
+        "Reanimate also gives +1 Power and Defense."
       ]
     },
     {
@@ -38,7 +38,7 @@
       "Notes": "Stat block name. English source spells this 'Defense'; treat 'Defence' as the same term.",
       "ExampleUsage": [
         "Reanimate also gives +1 Power and Defense.",
-        "Power 3 vs Defense 3"
+        "Power 3 vs Defense 4"
       ]
     },
     {
@@ -66,7 +66,7 @@
       "Notes": "Stat block name. The same word is also the unit of damage caused ('one point for each wound caused'); keep them the same word.",
       "ExampleUsage": [
         "+1 Wounds",
-        "Unit gains Lethal attacks. (deals 3x wounds)"
+        "Unit gains Regeneration. (restores lost wounds at end of turn)"
       ]
     },
     {
@@ -120,8 +120,8 @@
     },
     {
       "Key": "Discipline Test",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "規律判定",
+      "Comment": "規律 + 判定, matching the approved Break Test = 崩壊判定.",
       "Category": "roll",
       "Consistency": "strict",
       "Definition": "A 2d6 roll against the unit's Discipline stat plus Rank Bonus.",
@@ -152,8 +152,8 @@
     },
     {
       "Key": "Spell Attack",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "呪文攻撃",
+      "Comment": "Contains 呪文 and 攻撃. Distinct from 遠距離攻撃.",
       "Category": "roll",
       "Consistency": "strict",
       "Definition": "An attack made by a spell rather than a weapon.",
@@ -179,22 +179,22 @@
     },
     {
       "Key": "Hit",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "命中",
+      "Comment": "From the corpus ('命中判定').",
       "Category": "roll",
       "Consistency": "preferred",
       "Definition": "A successful Attack Roll. Each hit is followed by a Damage Save.",
       "AlsoWrittenAs": "Hits",
       "Notes": "A hit is not yet a wound. Keep the two words distinct.",
       "ExampleUsage": [
-        "Upgrades Fireball to 3D3 hits.",
-        "Roll to Hit"
+        "+1 bonus hit for Ranged Attack",
+        "Upgrades Fireball to 2D6 hits."
       ]
     },
     {
       "Key": "Auto Hits",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "自動命中",
+      "Comment": "From the corpus. Contains 命中.",
       "Category": "roll",
       "Consistency": "strict",
       "Definition": "Hits scored without rolling an Attack Roll.",
@@ -228,8 +228,8 @@
     },
     {
       "Key": "Charge Phase",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "突撃フェーズ",
+      "Comment": "From the corpus.",
       "Category": "phase",
       "Consistency": "strict",
       "Definition": "First phase of the turn. Charges are declared and resolved.",
@@ -240,8 +240,8 @@
     },
     {
       "Key": "Strategic Phase",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "戦略フェーズ",
+      "Comment": "From the corpus.",
       "Category": "phase",
       "Consistency": "strict",
       "Definition": "Second phase of the turn. Units manoeuvre, make Ranged Attacks and use abilities.",
@@ -252,8 +252,8 @@
     },
     {
       "Key": "Combat Phase",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "戦闘フェーズ",
+      "Comment": "From the corpus.",
       "Category": "phase",
       "Consistency": "strict",
       "Definition": "Third phase of the turn. Engagements are resolved.",
@@ -305,8 +305,8 @@
     },
     {
       "Key": "Counter Charge",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "反撃突撃",
+      "Comment": "Contains 突撃.",
       "Category": "combat",
       "Consistency": "strict",
       "Definition": "A charge declared by a unit that already has a charge incoming to its front.",
@@ -314,8 +314,8 @@
     },
     {
       "Key": "Charge Intercept",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "突撃迎撃",
+      "Comment": "Contains 突撃.",
       "Category": "combat",
       "Consistency": "strict",
       "Definition": "A higher-priority charge that cancels a charge already declared against the same target.",
@@ -323,8 +323,8 @@
     },
     {
       "Key": "Engagement",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "交戦",
+      "Comment": "Distinct from 戦闘 (Battle/Combat).",
       "Category": "combat",
       "Consistency": "strict",
       "Definition": "A grouping of two or more units in base contact, resolved as a unit in the Combat Phase.",
@@ -336,8 +336,8 @@
     },
     {
       "Key": "Combat Score",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "戦闘スコア",
+      "Comment": "From the corpus.",
       "Category": "combat",
       "Consistency": "strict",
       "Definition": "The total of wounds caused plus Flank and Rear bonuses. The higher score wins the engagement.",
@@ -349,8 +349,8 @@
     },
     {
       "Key": "Supporting Attacks",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "支援攻撃",
+      "Comment": "Contains 攻撃.",
       "Category": "combat",
       "Consistency": "strict",
       "Definition": "Attacks made by models in the second rank of a unit engaged to its front. One roll per supporting model.",
@@ -362,8 +362,8 @@
     },
     {
       "Key": "Rank",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "横列",
+      "Comment": "The physical row of models. NOT ランク, the grade sense, which the corpus had in 'ランクボーナス'.",
       "Category": "combat",
       "Consistency": "strict",
       "Definition": "A row of models across the width of a unit.",
@@ -376,8 +376,8 @@
     },
     {
       "Key": "Rank Bonus",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "横列ボーナス",
+      "Comment": "Contains 横列. Corrects the corpus's ランクボーナス.",
       "Category": "combat",
       "Consistency": "strict",
       "Definition": "+1 to Discipline for each rank containing at least 3 models, including the first rank.",
@@ -416,8 +416,8 @@
     },
     {
       "Key": "Front",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "正面",
+      "Comment": "Completes the facing set 正面 / 側面 / 背面.",
       "Category": "combat",
       "Consistency": "strict",
       "Definition": "The facing edge of a unit. Line of Sight is a 45 degree arc from the front.",
@@ -425,8 +425,8 @@
     },
     {
       "Key": "Base Contact",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "ベース接触",
+      "Comment": "ベース is the miniature's base.",
       "Category": "combat",
       "Consistency": "strict",
       "Definition": "Two units touching base to base, which is what puts them in an Engagement.",
@@ -434,8 +434,8 @@
     },
     {
       "Key": "Advance",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "前進",
+      "Comment": "One of the two movement actions, paired with 旋回.",
       "Category": "movement",
       "Consistency": "strict",
       "Definition": "Move a unit straight forward. Movement cost equals distance moved.",
@@ -443,8 +443,8 @@
     },
     {
       "Key": "Pivot",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "旋回",
+      "Comment": "One of the two movement actions, paired with 前進.",
       "Category": "movement",
       "Consistency": "strict",
       "Definition": "Rotate a unit up to 45 degrees around its centre. Cost depends on unit type.",
@@ -452,8 +452,8 @@
     },
     {
       "Key": "Flight Move",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "敗走移動",
+      "Comment": "Built on 敗走. No collision with 飛行 (Flying).",
       "Category": "movement",
       "Consistency": "strict",
       "Definition": "A chaotic move made by a fleeing unit: one d6 per 4 points of movement allowance, in a straight line.",
@@ -461,8 +461,8 @@
     },
     {
       "Key": "Flee",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "敗走",
+      "Comment": "Opposite of 再結集.",
       "Category": "movement",
       "Consistency": "strict",
       "Definition": "To break and run. A fleeing unit cannot act except to Rally, and counts as destroyed if it leaves the table.",
@@ -475,8 +475,8 @@
     },
     {
       "Key": "Rally",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "再結集",
+      "Comment": "From the corpus ('敵の結集').",
       "Category": "movement",
       "Consistency": "strict",
       "Definition": "A Discipline Test taken by a fleeing unit to stop fleeing.",
@@ -488,7 +488,7 @@
     },
     {
       "Key": "Line of Sight",
-      "Translation": "",
+      "Translation": "視線",
       "Comment": "",
       "Category": "movement",
       "Consistency": "strict",
@@ -498,8 +498,8 @@
     },
     {
       "Key": "Difficult Terrain",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "困難な地形",
+      "Comment": "From the corpus. Contains 地形.",
       "Category": "movement",
       "Consistency": "strict",
       "Definition": "Terrain such as forest or swamp that costs extra movement to enter or start in.",
@@ -511,8 +511,8 @@
     },
     {
       "Key": "Impassable",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "通行不可",
+      "Comment": "From the corpus.",
       "Category": "movement",
       "Consistency": "strict",
       "Definition": "Terrain that blocks movement completely.",
@@ -523,8 +523,8 @@
     },
     {
       "Key": "Terrain",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "地形",
+      "Comment": "From the corpus.",
       "Category": "movement",
       "Consistency": "strict",
       "Definition": "Features placed on the table that affect movement and Line of Sight.",
@@ -535,8 +535,8 @@
     },
     {
       "Key": "Long Range",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "長射程",
+      "Comment": "Contains 射程.",
       "Category": "movement",
       "Consistency": "strict",
       "Definition": "Beyond half a weapon's maximum range. Ranged Attacks at Long Range take -1 to hit.",
@@ -544,20 +544,20 @@
     },
     {
       "Key": "Range",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "射程",
+      "Comment": "From the corpus.",
       "Category": "movement",
       "Consistency": "strict",
       "Definition": "The maximum distance a Ranged Attack can reach, in inches.",
       "Notes": "Appears constantly in weapon text as 'Range: 24.'. Keep it short; this string sits in a narrow UI column.",
       "ExampleUsage": [
-        "Upgrades Shadow Bolt to Power 3 and Range 33.",
-        "Ranged attack range increased by 3."
+        "Unit has +10 range for Ranged Attacks.",
+        "+3 range to Ranged Atacks."
       ]
     },
     {
       "Key": "Deployment Zone",
-      "Translation": "",
+      "Translation": "配置エリア",
       "Comment": "",
       "Category": "movement",
       "Consistency": "strict",
@@ -570,8 +570,8 @@
     },
     {
       "Key": "Forward Deployment",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "前方配置",
+      "Comment": "Shares 配置 with 配置エリア.",
       "Category": "movement",
       "Consistency": "strict",
       "Definition": "Deployment ahead of the normal deployment zone, granted by the Scout property.",
@@ -588,7 +588,7 @@
       "Notes": "The single most common rules word in the game. Must be distinct from [unit.model].",
       "ExampleUsage": [
         "Unit Size I",
-        "Max Unit size +3"
+        "Unit Size II"
       ]
     },
     {
@@ -607,8 +607,8 @@
     },
     {
       "Key": "Commander",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "指揮官",
+      "Comment": "The unit leader. The corpus writes 司令官 in one UnitDeeds row, which implies a general officer; that row is aligned to this.",
       "Category": "unit",
       "Consistency": "strict",
       "Definition": "The character leading an army. Can activate an ability separately from the unit it joins.",
@@ -620,20 +620,20 @@
     },
     {
       "Key": "Infantry",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "歩兵",
+      "Comment": "From the corpus.",
       "Category": "unit",
       "Consistency": "strict",
       "Definition": "Unit type. Base 20x20 or 25x25, movement 8, pivot cost 1.",
       "Notes": "Unit type name.",
       "ExampleUsage": [
-        "Light Infantry - 33 pts"
+        "Light Infantry - 99 pts"
       ]
     },
     {
       "Key": "Cavalry",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "騎兵",
+      "Comment": "From the corpus.",
       "Category": "unit",
       "Consistency": "strict",
       "Definition": "Unit type. Base 25x50, movement 16, pivot cost 2.",
@@ -645,8 +645,8 @@
     },
     {
       "Key": "Monstrous Infantry",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "怪物歩兵",
+      "Comment": "Contains 歩兵.",
       "Category": "unit",
       "Consistency": "strict",
       "Definition": "Unit type. Base 40x40, movement 12, pivot cost 1.5.",
@@ -654,8 +654,8 @@
     },
     {
       "Key": "Large Monster",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "大型モンスター",
+      "Comment": "Contains モンスター.",
       "Category": "unit",
       "Consistency": "strict",
       "Definition": "Unit type. Base 50x50, movement 12, pivot cost 1.5.",
@@ -663,8 +663,8 @@
     },
     {
       "Key": "Monster",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "モンスター",
+      "Comment": "From the corpus ('樹木モンスター').",
       "Category": "unit",
       "Consistency": "strict",
       "Definition": "A creature unit. Several abilities reroll specifically against Monsters.",
@@ -672,13 +672,13 @@
       "Notes": "This is a targeting category in ability text, not just flavour.",
       "ExampleUsage": [
         "Reroll Ranged and Combat Attacks against Monsters.",
-        "Felled 1 tree monster."
+        "Monsters"
       ]
     },
     {
       "Key": "Chariot",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "戦車",
+      "Comment": "From the corpus.",
       "Category": "unit",
       "Consistency": "strict",
       "Definition": "Unit type. Base 50x100, movement 16, pivot cost 2.",
@@ -691,7 +691,7 @@
     },
     {
       "Key": "War Machine",
-      "Translation": "",
+      "Translation": "戦争機械",
       "Comment": "",
       "Category": "unit",
       "Consistency": "strict",
@@ -700,7 +700,7 @@
     },
     {
       "Key": "Weapon Team",
-      "Translation": "",
+      "Translation": "武器チーム",
       "Comment": "",
       "Category": "unit",
       "Consistency": "strict",
@@ -709,8 +709,8 @@
     },
     {
       "Key": "War Wagon",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "戦闘馬車",
+      "Comment": "Distinct from the approved Chariot = 戦車.",
       "Category": "unit",
       "Consistency": "strict",
       "Definition": "Unit type. Base 50x100, movement 12, pivot cost 1.5.",
@@ -718,8 +718,8 @@
     },
     {
       "Key": "Swarm",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "群体",
+      "Comment": "The unit type. Enemy army names like ネズミの大群 are flavour.",
       "Category": "unit",
       "Consistency": "strict",
       "Definition": "Unit type. Base 40x40, movement 8, pivot cost 1.",
@@ -731,7 +731,7 @@
     },
     {
       "Key": "Hand Weapon",
-      "Translation": "",
+      "Translation": "片手武器",
       "Comment": "",
       "Category": "equipment",
       "Consistency": "strict",
@@ -744,8 +744,8 @@
     },
     {
       "Key": "Shield",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "盾",
+      "Comment": "From the corpus.",
       "Category": "equipment",
       "Consistency": "strict",
       "Definition": "Grants +1 Defense with a Hand Weapon, Spear or Lance.",
@@ -771,7 +771,7 @@
     },
     {
       "Key": "Halberd",
-      "Translation": "",
+      "Translation": "ハルバード",
       "Comment": "",
       "Category": "equipment",
       "Consistency": "strict",
@@ -783,8 +783,8 @@
     },
     {
       "Key": "Spear",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "槍",
+      "Comment": "From the corpus ('骸骨槍兵'). Distinct from Lance = 騎兵槍.",
       "Category": "equipment",
       "Consistency": "strict",
       "Definition": "Polearm. With a Shield: +1 Defense and an extra rank of Supporting Attacks when not charging.",
@@ -796,8 +796,8 @@
     },
     {
       "Key": "Lance",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "騎兵槍",
+      "Comment": "The cavalry weapon, distinct from Spear = 槍.",
       "Category": "equipment",
       "Consistency": "strict",
       "Definition": "Cavalry weapon. With a Shield: +1 Defense, Charge Bonus +2 Power.",
@@ -808,7 +808,7 @@
     },
     {
       "Key": "Two Hand Weapons",
-      "Translation": "",
+      "Translation": "両手武器",
       "Comment": "",
       "Category": "equipment",
       "Consistency": "strict",
@@ -831,8 +831,8 @@
     },
     {
       "Key": "Light Armor",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "軽装甲",
+      "Comment": "From the corpus. Contains 装甲, parallel to 重装甲.",
       "Category": "equipment",
       "Consistency": "strict",
       "Definition": "Light protection with no movement penalty.",
@@ -844,8 +844,8 @@
     },
     {
       "Key": "Armor",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "装甲",
+      "Comment": "Shared with the approved Heavy Armor = 重装甲.",
       "Category": "equipment",
       "Consistency": "strict",
       "Definition": "Protective equipment. Contributes to the Defense stat.",
@@ -871,7 +871,7 @@
     },
     {
       "Key": "Frenzy",
-      "Translation": "",
+      "Translation": "狂乱",
       "Comment": "",
       "Category": "property",
       "Consistency": "strict",
@@ -884,21 +884,21 @@
     },
     {
       "Key": "Flying",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "飛行",
+      "Comment": "From the corpus ('ドワーフ飛行兵器').",
       "Category": "property",
       "Consistency": "strict",
       "Definition": "Fly Speed 20. Ignores terrain.",
       "Notes": "Named property. Must NOT share a stem with [movement.flightMove], which is a rout move, not flight.",
       "ExampleUsage": [
         "Dwarf Flying Machine",
-        "Once per battle: Gain Flying for one turn."
+        "Goblin Flying Machine"
       ]
     },
     {
       "Key": "Regeneration",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "再生",
+      "Comment": "From the corpus.",
       "Category": "property",
       "Consistency": "strict",
       "Definition": "Unit recovers all missing wounds at end of turn.",
@@ -910,20 +910,20 @@
     },
     {
       "Key": "Poisoned Attacks",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "毒攻撃",
+      "Comment": "From the corpus. Contains 攻撃.",
       "Category": "property",
       "Consistency": "strict",
       "Definition": "Enemies reroll successful Damage Saves against this unit.",
       "Notes": "Must contain the target term for [stat.attacks].",
       "ExampleUsage": [
-        "Unit gains Poisoned Attacks (enemies re-roll 3s on Damage Saves)",
-        "Gain Poisoned Attacks"
+        "Gain Poisoned Attacks",
+        "Unit gains Poisoned Attacks (enemies re-roll 6s on Damage Saves)"
       ]
     },
     {
       "Key": "Scout",
-      "Translation": "",
+      "Translation": "斥候",
       "Comment": "",
       "Category": "property",
       "Consistency": "strict",
@@ -932,7 +932,7 @@
     },
     {
       "Key": "Sturdy",
-      "Translation": "",
+      "Translation": "頑健",
       "Comment": "",
       "Category": "property",
       "Consistency": "strict",
@@ -950,7 +950,7 @@
     },
     {
       "Key": "Reanimated",
-      "Translation": "",
+      "Translation": "蘇生",
       "Comment": "",
       "Category": "property",
       "Consistency": "strict",
@@ -984,8 +984,8 @@
       "Definition": "Abbreviation of Points, used in army list rows and unit cards where space is tight.",
       "Notes": "Appears glued to the number ('50pts') and separated ('999 pts'). Keep it short - this sits in a narrow column - and keep it recognisable as the short form of [meta.points]. German uses Pkt, Swedish p.",
       "ExampleUsage": [
-        "0 pts",
-        "3333 pts"
+        "{0}pts",
+        "Light Infantry - 99 pts"
       ]
     },
     {
@@ -998,14 +998,14 @@
       "AlsoWrittenAs": "Battles",
       "Notes": "Keep distinct from [combat.engagement], which is a single melee within a battle.",
       "ExampleUsage": [
-        "+3% post battle income",
-        "Battle Hardened I"
+        "Battle Hardened I",
+        "Battle Hardened II"
       ]
     },
     {
       "Key": "Army",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "軍団",
+      "Comment": "From the corpus ('軍団ビルダー').",
       "Category": "meta",
       "Consistency": "strict",
       "Definition": "The full collection of units a player brings to a battle.",
@@ -1017,7 +1017,7 @@
     },
     {
       "Key": "Faction",
-      "Translation": "",
+      "Translation": "派閥",
       "Comment": "",
       "Category": "meta",
       "Consistency": "strict",
@@ -1115,8 +1115,8 @@
     },
     {
       "Key": "Ability",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "能力",
+      "Comment": "Distinct from スキル (Skill) and 呪文 (Spell).",
       "Category": "meta",
       "Consistency": "strict",
       "Definition": "A non-spell effect a unit or commander can activate.",
@@ -1129,8 +1129,8 @@
     },
     {
       "Key": "Enchantment",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "魔法",
+      "Comment": "Matches the approved Weapon Enchantments = 武器の魔法.",
       "Category": "meta",
       "Consistency": "strict",
       "Definition": "A purchasable magic item or weapon upgrade.",
@@ -1195,14 +1195,14 @@
       "Definition": "Experience points earned by units in campaign play.",
       "Notes": "Short form used in tight UI. Keep the target form short; leaving it as 'XP' is acceptable in most languages.",
       "ExampleUsage": [
-        "1 XP",
-        "3 XP"
+        "+1 XP",
+        "XP:"
       ]
     },
     {
       "Key": "Deed",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "武勲",
+      "Comment": "Names a UI section.",
       "Category": "meta",
       "Consistency": "strict",
       "Definition": "A notable achievement a unit earns during a battle, awarding XP.",
@@ -1215,8 +1215,8 @@
     },
     {
       "Key": "Objective",
-      "Translation": "",
-      "Comment": "",
+      "Translation": "目標",
+      "Comment": "From the corpus ('スコアリング目標'). States as a set: Unclaimed = 未占領, Contested = 争奪中, Claimed = 占領済み.",
       "Category": "meta",
       "Consistency": "strict",
       "Definition": "A marker on the battlefield that can be claimed for scoring.",
@@ -1230,12 +1230,26 @@
     {
       "Key": "D6",
       "Translation": "D6",
-      "Comment": "Do not translate - leave exactly as written in the English.",
+      "Comment": "This language's dice notation. Corpus evidence: D notation throughout.",
       "Category": "meta",
       "Consistency": "preferred",
-      "Definition": "A six-sided die. Also D3, 2D3, 2d6.",
-      "AlsoWrittenAs": "D3, d6, d3, 2D3, 2d6",
-      "Notes": "Some languages have their own dice notation (German writes W6 and W3 for D6 and D3). Either keep the English notation or use the local convention, but use the same one in every file. Never change the NUMBER: D3 must not become D6.",
+      "Definition": "A six-sided die.",
+      "AlsoWrittenAs": "d6, 2D6, 2d6",
+      "Notes": "Some languages have their own dice notation - German writes W6 and W3 for D6 and D3. Either keep the English notation or use the local convention, but use the same one in every file. The number is part of the term: D3 is a separate term and must never become D6.",
+      "ExampleUsage": [
+        "Upgrades Fireball to 2D6 hits.",
+        "D6 Power 5 hits. Range 30."
+      ]
+    },
+    {
+      "Key": "D3",
+      "Translation": "D3",
+      "Comment": "Matches this language's D6 notation. A different number of results from D6 - never merge the two.",
+      "Category": "meta",
+      "Consistency": "preferred",
+      "Definition": "A three-sided result, rolled on a D6 and halved.",
+      "AlsoWrittenAs": "d3, 2D3, 2d3",
+      "Notes": "Some languages have their own dice notation - German writes W3. Match whatever convention this language uses for [meta.d6]. Never write this as D6: it is a different number of results.",
       "ExampleUsage": [
         "Upgrades Raise Dead to raise an additional D3 models.",
         "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat."

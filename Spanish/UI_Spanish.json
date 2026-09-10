@@ -3,7 +3,7 @@
   "Translations": [
     {
       "Key": "Commanders",
-      "Translation": "",
+      "Translation": "Comandantes",
       "Comment": ""
     },
     {
@@ -587,11 +587,6 @@
       "Comment": "Battle objective"
     },
     {
-      "Key": "- Survive for 6 Turns -",
-      "Translation": "- Sobrevive 6 Turnos -",
-      "Comment": "Survival objective"
-    },
-    {
       "Key": "Unclaimed",
       "Translation": "Sin Reclamar",
       "Comment": "Objective marker status"
@@ -625,11 +620,6 @@
       "Key": "...but more challenges await",
       "Translation": "...pero te esperan más desafíos",
       "Comment": ""
-    },
-    {
-      "Key": "{0}pts",
-      "Translation": "{0} pts",
-      "Comment": "Points abbreviation - consistent with existing translations"
     },
     {
       "Key": "Opponent Disconnected",
@@ -677,12 +667,6 @@
       "Comment": ""
     },
     {
-      "Key": "{0}% gold income",
-      "Translation": "{0}% de ingresos de oro",
-      "Comment": "",
-      "PluralOne": "{0}% de ingresos de oro"
-    },
-    {
       "Key": "Your regiment returns in the morning. But something has changed them...",
       "Translation": "Tu regimiento regresa por la mañana. Pero algo los ha cambiado...",
       "Comment": "Campaign event - ominous tone"
@@ -728,31 +712,6 @@
       "Comment": ""
     },
     {
-      "Key": "<b>Draw<size=30%></color></b>\\n",
-      "Translation": "<b>Empate<size=30%></color></b>\\n",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
-      "Key": "Win <size=80%><color=green>+",
-      "Translation": "Victoria <size=80%><color=green>+",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
-      "Key": "Loss <size=80%>",
-      "Translation": "Derrota <size=80%>",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
-      "Key": "Total Points: <color=#9EFEFF>",
-      "Translation": "Puntos Totales: <color=#9EFEFF>",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
-      "Key": "Elo:  <color=#9EFEFF>",
-      "Translation": "Elo:  <color=#9EFEFF>",
-      "Comment": "Keep Elo as international rating term"
-    },
-    {
       "Key": "Restored 1 wound",
       "Translation": "1 herida restaurada",
       "Comment": ""
@@ -768,29 +727,8 @@
       "Comment": "Unit replenishment"
     },
     {
-      "Key": "Replenished 5 models",
-      "Translation": "5 miniaturas repuestas",
-      "Comment": ""
-    },
-    {
-      "Key": "{0} XP",
-      "Translation": "{0} XP",
-      "Comment": "",
-      "PluralOne": "{0} XP"
-    },
-    {
-      "Key": "Defeated by <color=#FFDF7C>",
-      "Translation": "Derrotado por <color=#FFDF7C>",
-      "Comment": "Campaign defeat message"
-    },
-    {
       "Key": "</color> in Act",
       "Translation": "</color> en el Acto",
-      "Comment": ""
-    },
-    {
-      "Key": "Great Weapon <color=#B6F595>+1",
-      "Translation": "Arma a Dos Manos <color=#B6F595>+1",
       "Comment": ""
     },
     {
@@ -940,7 +878,7 @@
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor",
-      "Translation": "-1 Movimiento. Ignora la penalización de movimiento de la Armadura Pesada",
+      "Translation": "-1 Velocidad de Movimiento. Ignora la penalización de movimiento de la Armadura Pesada",
       "Comment": ""
     },
     {
@@ -956,11 +894,6 @@
     {
       "Key": "Greatweapon +1",
       "Translation": "Arma a Dos Manos +1",
-      "Comment": ""
-    },
-    {
-      "Key": "2 Units",
-      "Translation": "2 Unidades",
       "Comment": ""
     },
     {
@@ -1014,11 +947,6 @@
       "Comment": ""
     },
     {
-      "Key": "<color=#81D7E5>3+ <size=85%></color> To Save",
-      "Translation": "<color=#81D7E5>3+ <size=85%></color> para Salvar",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
       "Key": "Reroll Failures",
       "Translation": "Repetir Fallos",
       "Comment": ""
@@ -1027,11 +955,6 @@
       "Key": "Blaha vs Blaha",
       "Translation": "Blaha vs Blaha",
       "Comment": "Example/placeholder text"
-    },
-    {
-      "Key": "<color=#70F6FF> 3x</color> Auto Hits",
-      "Translation": "<color=#70F6FF> 3x</color> Impactos Automáticos",
-      "Comment": ""
     },
     {
       "Key": "Event Panel",
@@ -1044,11 +967,6 @@
       "Comment": "Example/template text - appears to have formatting issue in original"
     },
     {
-      "Key": "Power <color=#81D7E5><size=125%>5</color> </size>VS Defense <color=#81D7E5><size=125%>5</color> ",
-      "Translation": "Poder <color=#81D7E5><size=125%>5</color> </size>VS Defensa <color=#81D7E5><size=125%>5</color> ",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
       "Key": "-Opponent Roll-",
       "Translation": "-Tirada del Oponente-",
       "Comment": ""
@@ -1056,11 +974,6 @@
     {
       "Key": "Roll to Hit",
       "Translation": "Tirada para Impactar",
-      "Comment": ""
-    },
-    {
-      "Key": "Power 3 vs Defense 4",
-      "Translation": "Poder 3 vs Defensa 4",
       "Comment": ""
     },
     {
@@ -1149,18 +1062,18 @@
       "Comment": ""
     },
     {
-      "Key": "A units <color=#33FAFF>Skill</color> is a measure of its training and general ability to fight. It  detemines Hit Chance for close combat and ranged attacks.",
-      "Translation": "La <color=#33FAFF>Habilidad</color> de una unidad mide su entrenamiento y capacidad general de combate. Determina la probabilidad de impacto en combate cuerpo a cuerpo y ataques a distancia.",
+      "Key": "A unit's <color=#96FAFF>Skill</color> is a measure of its training and general ability to fight. It determines Hit Chance for close combat and ranged attacks.",
+      "Translation": "La <color=#96FAFF>Habilidad</color> de una unidad mide su entrenamiento y capacidad general de combate. Determina la probabilidad de impacto en combate cuerpo a cuerpo y ataques a distancia.",
       "Comment": "Stat explanation - note typo 'detemines' in original"
     },
     {
-      "Key": "The <color=#33FAFF>Power</color> stat describes a units physical strength and striking power. It's used in combat to overcome an opponents <color=#33FAFF>Defense.",
-      "Translation": "La estadística de <color=#33FAFF>Poder</color> describe la fuerza física y el poder de golpe de una unidad. Se usa en combate para superar la <color=#33FAFF>Defensa</color> del oponente.",
+      "Key": "The <color=#96FAFF>Power</color> stat describes a unit's physical strength and striking power. It's used in combat to overcome an opponent's <color=#96FAFF>Defense</color>.",
+      "Translation": "La estadística de <color=#96FAFF>Poder</color> describe la fuerza física y el poder de golpe de una unidad. Se usa en combate para superar la <color=#96FAFF>Defensa</color> del oponente.",
       "Comment": "Stat explanation"
     },
     {
-      "Key": "The <color=#33FAFF>Defense</color> stat is a combination of a units general toughness and armor. It determines the units Damage Save against incoming attacks.",
-      "Translation": "La estadística de <color=#33FAFF>Defensa</color> combina la resistencia general y la armadura de una unidad. Determina la Salvación de Daño de la unidad frente a los ataques recibidos.",
+      "Key": "The <color=#96FAFF>Defense</color> stat is a combination of a unit's general toughness and armor. It determines the unit's Damage Save against incoming attacks.",
+      "Translation": "La estadística de <color=#96FAFF>Defensa</color> combina la resistencia general y la armadura de una unidad. Determina la Salvación de Daño de la unidad frente a los ataques recibidos.",
       "Comment": "Stat explanation"
     },
     {
@@ -1275,7 +1188,7 @@
     },
     {
       "Key": "Imperial Sword",
-      "Translation": "Espada Imperial",
+      "Translation": "Espadachín Imperial",
       "Comment": "Item name"
     },
     {
@@ -1326,16 +1239,6 @@
     {
       "Key": "Save & Exit",
       "Translation": "Guardar y Salir",
-      "Comment": ""
-    },
-    {
-      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 32.",
-      "Translation": "Derrotado por <color=blue>Gundrik Cueroyunque</color> en el paso 32.",
-      "Comment": "Campaign defeat message with character name"
-    },
-    {
-      "Key": "Unlocked 1/5",
-      "Translation": "Desbloqueado 1/5",
       "Comment": ""
     },
     {
@@ -1465,7 +1368,7 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "Repite los ataques a distancia y de combate contra Caballería y Carros",
+      "Translation": "Relanza Ataques a Distancia y Combate contra Caballería y Carros",
       "Comment": "Ability description"
     },
     {
@@ -1492,11 +1395,6 @@
       "Key": "OR",
       "Translation": "O",
       "Comment": ""
-    },
-    {
-      "Key": "Mercenary Cut: <indent=55%><color=green><b>+10%",
-      "Translation": "Comisión del Mercenario: <indent=55%><color=green><b>+10%",
-      "Comment": "Rich text formatting preserved"
     },
     {
       "Key": "- Legend -",
@@ -1904,11 +1802,6 @@
       "Comment": ""
     },
     {
-      "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
-      "Translation": "(Tus unidades tienen +2 de Velocidad de Movimiento y +1 a las Tiradas de Ataque a Distancia) ",
-      "Comment": ""
-    },
-    {
       "Key": "Deadly arrows crafted by the Deepwood Elves. Pick one.",
       "Translation": "Flechas letales forjadas por los Elfos del Bosque Profundo. Elige una.",
       "Comment": ""
@@ -1917,11 +1810,6 @@
       "Key": "Event Name",
       "Translation": "Nombre del Evento",
       "Comment": "Placeholder string"
-    },
-    {
-      "Key": "Light Infantry - 99 pts",
-      "Translation": "Infantería Ligera - 99 pts",
-      "Comment": ""
     },
     {
       "Key": "Level:",
@@ -1977,21 +1865,6 @@
       "Key": "Unlocked ",
       "Translation": "Desbloqueado ",
       "Comment": ""
-    },
-    {
-      "Key": "<color=#31D3E3>3<size=33%></color> D3",
-      "Translation": "<color=#31D3E3>3<size=33%></color> D3",
-      "Comment": "Rich text dice notation - D3 means roll a three-sided die, kept as universal notation"
-    },
-    {
-      "Key": "< <color=#31D3E3>3",
-      "Translation": "< <color=#31D3E3>3",
-      "Comment": "Rich text comparison - keep as is"
-    },
-    {
-      "Key": "<color=#31D3E3>1<size=33%></color> D3",
-      "Translation": "<color=#31D3E3>1<size=33%></color> D3",
-      "Comment": "Rich text dice notation"
     },
     {
       "Key": "BorderPatrol",
@@ -2084,11 +1957,6 @@
       "Comment": ""
     },
     {
-      "Key": "<b>Draw<size=80%></color></b>\n",
-      "Translation": "<b>Empate<size=80%></color></b>\n",
-      "Comment": "Battle result - preserve rich text tags"
-    },
-    {
       "Key": "Challenge Level: 3",
       "Translation": "Nivel de Dificultad: 3",
       "Comment": "Campaign difficulty indicator"
@@ -2099,19 +1967,9 @@
       "Comment": "Campaign encounter description"
     },
     {
-      "Key": "Turn 1 begins!",
-      "Translation": "¡Comienza el Turno 1!",
-      "Comment": ""
-    },
-    {
       "Key": "Confident",
       "Translation": "Confiado",
       "Comment": "Morale state"
-    },
-    {
-      "Key": "Turn 3 begins!",
-      "Translation": "¡Comienza el Turno 3!",
-      "Comment": ""
     },
     {
       "Key": "activates",
@@ -2149,19 +2007,9 @@
       "Comment": "Test to see if unit breaks and flees"
     },
     {
-      "Key": "{0} or lower to Hold",
-      "Translation": "{0} o menos para Mantener",
-      "Comment": "Morale test success condition"
-    },
-    {
       "Key": "rally!",
       "Translation": "se reagrupa!",
       "Comment": "Unit regains morale - appended after unit name, no opening ¡"
-    },
-    {
-      "Key": "{0} or lower to Rally",
-      "Translation": "{0} o menos para Reagruparse",
-      "Comment": "Rally test success condition"
     },
     {
       "Key": "fled off the board!",
@@ -2260,162 +2108,344 @@
     },
     {
       "Key": "Raiders",
-      "Translation": "",
+      "Translation": "Saqueadores",
       "Comment": ""
     },
     {
       "Key": "Big Stuff",
-      "Translation": "",
+      "Translation": "Cosas Grandes",
       "Comment": ""
     },
     {
       "Key": "Battles: ",
-      "Translation": "",
+      "Translation": "Batallas: ",
       "Comment": ""
     },
     {
       "Key": "Points Earned: ",
-      "Translation": "",
+      "Translation": "Puntos Ganados: ",
       "Comment": ""
     },
     {
       "Key": "W/L: ",
-      "Translation": "",
+      "Translation": "V/D: ",
       "Comment": ""
     },
     {
       "Key": "W/L: -",
-      "Translation": "",
+      "Translation": "V/D: -",
       "Comment": ""
     },
     {
       "Key": "Enemies Killed: ",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "",
-      "Translation": "",
+      "Translation": "Enemigos Abatidos: ",
       "Comment": ""
     },
     {
       "Key": "Jungle Beasts",
-      "Translation": "",
+      "Translation": "Bestias de la Jungla",
       "Comment": ""
     },
     {
       "Key": "Demonic Allies",
-      "Translation": "",
+      "Translation": "Aliados Demoníacos",
       "Comment": ""
     },
     {
       "Key": "War Beasts",
-      "Translation": "",
+      "Translation": "Bestias de Guerra",
       "Comment": ""
     },
     {
       "Key": "Player",
-      "Translation": "",
+      "Translation": "Jugador",
       "Comment": ""
     },
     {
       "Key": "Skip Charges",
-      "Translation": "",
+      "Translation": "Omitir Cargas",
       "Comment": ""
     },
     {
       "Key": "Abyssal Terrors",
-      "Translation": "",
+      "Translation": "Terrores Abisales",
       "Comment": ""
     },
     {
       "Key": "AI Player",
-      "Translation": "",
+      "Translation": "Jugador IA",
       "Comment": ""
     },
     {
       "Key": "D3",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "D6",
-      "Translation": "",
+      "Translation": "D3",
       "Comment": ""
     },
     {
       "Key": " Damage Save",
-      "Translation": "",
+      "Translation": " Salvación de Daño",
       "Comment": ""
     },
     {
       "Key": "Confirm Charges",
-      "Translation": "",
+      "Translation": "Confirmar Cargas",
       "Comment": ""
     },
     {
       "Key": "Vermin",
-      "Translation": "",
+      "Translation": "Alimañas",
       "Comment": ""
     },
     {
       "Key": "conceded",
-      "Translation": "",
+      "Translation": "se ha rendido",
       "Comment": ""
     },
     {
       "Key": "Scoring Objectives",
-      "Translation": "",
+      "Translation": "Objetivos de Puntuación",
       "Comment": ""
     },
     {
       "Key": "has been wiped out!",
-      "Translation": "",
+      "Translation": "¡ha sido aniquilado!",
       "Comment": ""
     },
     {
       "Key": "Auto Hits",
-      "Translation": "",
+      "Translation": "Impactos Automáticos",
       "Comment": ""
     },
     {
       "Key": "No hits",
-      "Translation": "",
+      "Translation": "Sin impactos",
       "Comment": ""
     },
     {
       "Key": "-30% gold income",
-      "Translation": "",
+      "Translation": "-30 % de ingresos de oro",
       "Comment": ""
     },
     {
       "Key": "- Break the enemy Army -",
-      "Translation": "",
+      "Translation": "- Quiebra el Ejército enemigo -",
       "Comment": ""
     },
     {
       "Key": "continue fighting, but their magic weakens.",
-      "Translation": "",
+      "Translation": "siguen luchando, pero su magia se debilita.",
       "Comment": ""
     },
     {
       "Key": "-3 or lower to Hold",
-      "Translation": "",
+      "Translation": "-3 o menos para Resistir",
       "Comment": ""
     },
     {
       "Key": "Challenge Level: 0",
-      "Translation": "",
+      "Translation": "Nivel de Desafío: 0",
       "Comment": ""
     },
     {
       "Key": "Harder Minor Battles",
-      "Translation": "",
+      "Translation": "Batallas Menores más Difíciles",
+      "Comment": ""
+    },
+    {
+      "Key": "Abominations",
+      "Translation": "Abominaciones",
+      "Comment": ""
+    },
+    {
+      "Key": "Army Destroyed",
+      "Translation": "Ejército Destruido",
+      "Comment": ""
+    },
+    {
+      "Key": "Tamed Beasts",
+      "Translation": "Bestias Domadas",
+      "Comment": ""
+    },
+    {
+      "Key": "Wild Beasts",
+      "Translation": "Bestias Salvajes",
+      "Comment": ""
+    },
+    {
+      "Key": "Forest Guardians",
+      "Translation": "Guardianes del Bosque",
+      "Comment": ""
+    },
+    {
+      "Key": "BattleLine",
+      "Translation": "Línea de Batalla",
+      "Comment": ""
+    },
+    {
+      "Key": "Monsters",
+      "Translation": "Monstruos",
+      "Comment": ""
+    },
+    {
+      "Key": "- Survive for 6 Turns -",
+      "Translation": "- Sobrevive 6 Turnos -",
+      "Comment": "Survival objective"
+    },
+    {
+      "Key": "{0}pts",
+      "Translation": "{0} pts",
+      "Comment": "Points abbreviation - consistent with existing translations"
+    },
+    {
+      "Key": "{0}% gold income",
+      "Translation": "{0}% de ingresos de oro",
+      "Comment": "",
+      "PluralOne": "{0}% de ingresos de oro"
+    },
+    {
+      "Key": "Win <size=80%><color=green>+",
+      "Translation": "Victoria <size=80%><color=green>+",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Loss <size=80%>",
+      "Translation": "Derrota <size=80%>",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Total Points: <color=#9EFEFF>",
+      "Translation": "Puntos Totales: <color=#9EFEFF>",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Elo:  <color=#9EFEFF>",
+      "Translation": "Elo:  <color=#9EFEFF>",
+      "Comment": "Keep Elo as international rating term"
+    },
+    {
+      "Key": "Replenished 5 models",
+      "Translation": "5 miniaturas repuestas",
+      "Comment": ""
+    },
+    {
+      "Key": "{0} XP",
+      "Translation": "{0} XP",
+      "Comment": "",
+      "PluralOne": "{0} XP"
+    },
+    {
+      "Key": "Defeated by <color=#FFDF7C>",
+      "Translation": "Derrotado por <color=#FFDF7C>",
+      "Comment": "Campaign defeat message"
+    },
+    {
+      "Key": "2 Units",
+      "Translation": "2 Unidades",
+      "Comment": ""
+    },
+    {
+      "Key": "<color=#81D7E5>3+ <size=85%></color> To Save",
+      "Translation": "<color=#81D7E5>3+ <size=85%></color> para Salvar",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "<color=#70F6FF> 3x</color> Auto Hits",
+      "Translation": "<color=#70F6FF> 3x</color> Impactos Automáticos",
+      "Comment": ""
+    },
+    {
+      "Key": "Power <color=#81D7E5><size=125%>5</color> </size>VS Defense <color=#81D7E5><size=125%>5</color> ",
+      "Translation": "Poder <color=#81D7E5><size=125%>5</color> </size>VS Defensa <color=#81D7E5><size=125%>5</color> ",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Power 3 vs Defense 4",
+      "Translation": "Poder 3 vs Defensa 4",
+      "Comment": ""
+    },
+    {
+      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 32.",
+      "Translation": "Derrotado por <color=blue>Gundrik Cueroyunque</color> en el paso 32.",
+      "Comment": "Campaign defeat message with character name"
+    },
+    {
+      "Key": "Unlocked 1/5",
+      "Translation": "Desbloqueado 1/5",
+      "Comment": ""
+    },
+    {
+      "Key": "Mercenary Cut: <indent=55%><color=green><b>+10%",
+      "Translation": "Comisión del Mercenario: <indent=55%><color=green><b>+10%",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
+      "Translation": "(Tus unidades tienen +2 de Velocidad de Movimiento y +1 a las Tiradas de Ataque a Distancia) ",
+      "Comment": ""
+    },
+    {
+      "Key": "Light Infantry - 99 pts",
+      "Translation": "Infantería Ligera - 99 pts",
+      "Comment": ""
+    },
+    {
+      "Key": "<b>Draw<size=80%></color></b>\n",
+      "Translation": "<b>Empate<size=80%></color></b>\n",
+      "Comment": "Battle result - preserve rich text tags"
+    },
+    {
+      "Key": "{0} or lower to Hold",
+      "Translation": "{0} o menos para Mantener",
+      "Comment": "Morale test success condition"
+    },
+    {
+      "Key": "{0} or lower to Rally",
+      "Translation": "{0} o menos para Reagruparse",
+      "Comment": "Rally test success condition"
+    },
+    {
+      "Key": "D6",
+      "Translation": "D6",
       "Comment": ""
     },
     {
       "Key": "takes priority",
+      "Translation": "tiene prioridad",
+      "Comment": ""
+    },
+    {
+      "Key": "Turn {0} begins!",
+      "Translation": "¡Comienza el Turno {0}!",
+      "Comment": ""
+    },
+    {
+      "Key": "version 99",
       "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Single Player",
+      "Translation": "Un Jugador",
+      "Comment": ""
+    },
+    {
+      "Key": "Mods",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Mods ",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Mods\n",
+      "Translation": "Mods\n",
+      "Comment": ""
+    },
+    {
+      "Key": "Great Weapon <color=#B6F595>+1",
+      "Translation": "Arma a Dos Manos <color=#B6F595>+1",
       "Comment": ""
     }
   ]

@@ -3,7 +3,7 @@
   "Translations": [
     {
       "Key": "Commanders",
-      "Translation": "",
+      "Translation": "Командиры",
       "Comment": ""
     },
     {
@@ -587,11 +587,6 @@
       "Comment": "Battle objective"
     },
     {
-      "Key": "- Survive for 6 Turns -",
-      "Translation": "- Выживайте 6 хода -",
-      "Comment": "Survival objective"
-    },
-    {
       "Key": "Unclaimed",
       "Translation": "Невзято",
       "Comment": "Objective marker status"
@@ -625,11 +620,6 @@
       "Key": "...but more challenges await",
       "Translation": "...но впереди ещё больше вызовов",
       "Comment": "Campaign continuation message"
-    },
-    {
-      "Key": "{0}pts",
-      "Translation": "{0} очк",
-      "Comment": "Points abbreviation - consistent with existing translations"
     },
     {
       "Key": "Opponent Disconnected",
@@ -677,12 +667,6 @@
       "Comment": "Campaign event - assassination"
     },
     {
-      "Key": "{0}% gold income",
-      "Translation": "{0}% золотого дохода",
-      "Comment": "Economy bonus",
-      "PluralOne": "{0}% золотого дохода"
-    },
-    {
       "Key": "Your regiment returns in the morning. But something has changed them...",
       "Translation": "Ваш полк возвращается с утра. Но что-то изменило их...",
       "Comment": "Campaign event - ominous tone"
@@ -728,31 +712,6 @@
       "Comment": "Enemy kill count"
     },
     {
-      "Key": "<b>Draw<size=30%></color></b>\\n",
-      "Translation": "<b>Ничья<size=30%></color></b>\\n",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
-      "Key": "Win <size=80%><color=green>+",
-      "Translation": "Победа <size=80%><color=green>+",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
-      "Key": "Loss <size=80%>",
-      "Translation": "Поражение <size=80%>",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
-      "Key": "Total Points: <color=#9EFEFF>",
-      "Translation": "Всего очков: <color=#9EFEFF>",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
-      "Key": "Elo:  <color=#9EFEFF>",
-      "Translation": "Ело:  <color=#9EFEFF>",
-      "Comment": "Keep Elo as international rating term"
-    },
-    {
       "Key": "Restored 1 wound",
       "Translation": "Восстановлена 1 рана",
       "Comment": "Unit healing"
@@ -768,30 +727,9 @@
       "Comment": "Unit replenishment"
     },
     {
-      "Key": "Replenished 5 models",
-      "Translation": "Восполнены 5 модели",
-      "Comment": "Unit replenishment"
-    },
-    {
-      "Key": "{0} XP",
-      "Translation": "{0} ОП",
-      "Comment": "Experience Points",
-      "PluralOne": "{0} ОП"
-    },
-    {
-      "Key": "Defeated by <color=#FFDF7C>",
-      "Translation": "Поражение от <color=#FFDF7C>",
-      "Comment": "Campaign defeat message"
-    },
-    {
       "Key": "</color> in Act",
       "Translation": "</color> в Акте",
       "Comment": "Campaign act indicator"
-    },
-    {
-      "Key": "Great Weapon <color=#B6F595>+1",
-      "Translation": "Великое оружие <color=#B6F595>+1",
-      "Comment": "Weapon item"
     },
     {
       "Key": "Menu",
@@ -905,7 +843,7 @@
     },
     {
       "Key": "- Activate a Unit - ",
-      "Translation": "- Активируйте отряд -",
+      "Translation": "- Активировать отряд - ",
       "Comment": "Phase instruction"
     },
     {
@@ -940,7 +878,7 @@
     },
     {
       "Key": "-1 Movement. Ignore the movement penalty from Heavy Armor",
-      "Translation": "-1 Движение. Игнорирует штраф движения от тяжёлой брони",
+      "Translation": "-1 Скорость движения. Игнорирует штраф движения от тяжёлой брони",
       "Comment": "Ability description"
     },
     {
@@ -959,18 +897,13 @@
       "Comment": "Enchanted weapon"
     },
     {
-      "Key": "2 Units",
-      "Translation": "2 отряда",
-      "Comment": "Unit count"
-    },
-    {
       "Key": "VS",
       "Translation": "VS",
       "Comment": "Versus - universally understood"
     },
     {
       "Key": "Goblin Wolf Riders",
-      "Translation": "Гоблины верховые волков",
+      "Translation": "Волчьи всадники гоблинов",
       "Comment": "Consistent with faction translations"
     },
     {
@@ -1014,11 +947,6 @@
       "Comment": "Opponent label"
     },
     {
-      "Key": "<color=#81D7E5>3+ <size=85%></color> To Save",
-      "Translation": "<color=#81D7E5>3+ <size=85%></color> Спас",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
       "Key": "Reroll Failures",
       "Translation": "Переброс неудач",
       "Comment": "Dice action"
@@ -1027,11 +955,6 @@
       "Key": "Blaha vs Blaha",
       "Translation": "Плаха vs Плаха",
       "Comment": "Example/placeholder text"
-    },
-    {
-      "Key": "<color=#70F6FF> 3x</color> Auto Hits",
-      "Translation": "<color=#70F6FF> 3x</color> Автопопадание",
-      "Comment": "Combat result"
     },
     {
       "Key": "Event Panel",
@@ -1044,11 +967,6 @@
       "Comment": "Example/template text - appears to have formatting issue in original"
     },
     {
-      "Key": "Power <color=#81D7E5><size=125%>5</color> </size>VS Defense <color=#81D7E5><size=125%>5</color> ",
-      "Translation": "Мощь <color=#81D7E5><size=125%>5</color> </size>VS Защита <color=#81D7E5><size=125%>5</color> ",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
       "Key": "-Opponent Roll-",
       "Translation": "-Бросок противника-",
       "Comment": "Combat phase"
@@ -1057,11 +975,6 @@
       "Key": "Roll to Hit",
       "Translation": "Бросок на попадание",
       "Comment": "Attack roll action"
-    },
-    {
-      "Key": "Power 3 vs Defense 4",
-      "Translation": "Мощь 3 против Защиты 4",
-      "Comment": "Combat comparison"
     },
     {
       "Key": "Score\n",
@@ -1149,18 +1062,18 @@
       "Comment": "Rules tip"
     },
     {
-      "Key": "A units <color=#33FAFF>Skill</color> is a measure of its training and general ability to fight. It  detemines Hit Chance for close combat and ranged attacks.",
-      "Translation": "Умение отряда <color=#33FAFF>это</color> мера его подготовки и общей боевой способности. Оно определяет вероятность попадания в ближнем бою и дальнобойных атаках.",
+      "Key": "A unit's <color=#96FAFF>Skill</color> is a measure of its training and general ability to fight. It determines Hit Chance for close combat and ranged attacks.",
+      "Translation": "Умение отряда <color=#96FAFF>это</color> мера его подготовки и общей боевой способности. Оно определяет вероятность попадания в ближнем бою и дальнобойных атаках.",
       "Comment": "Stat explanation - note typo 'detemines' in original"
     },
     {
-      "Key": "The <color=#33FAFF>Power</color> stat describes a units physical strength and striking power. It's used in combat to overcome an opponents <color=#33FAFF>Defense.",
-      "Translation": "Статистика <color=#33FAFF>Мощь</color> описывает физическую силу отряда и его разрушительную силу. Используется в бою для преодоления <color=#33FAFF>Защиты</color> противника.",
+      "Key": "The <color=#96FAFF>Power</color> stat describes a unit's physical strength and striking power. It's used in combat to overcome an opponent's <color=#96FAFF>Defense</color>.",
+      "Translation": "Статистика <color=#96FAFF>Мощь</color> описывает физическую силу отряда и его разрушительную силу. Используется в бою для преодоления <color=#96FAFF>Защиты</color> противника.",
       "Comment": "Stat explanation"
     },
     {
-      "Key": "The <color=#33FAFF>Defense</color> stat is a combination of a units general toughness and armor. It determines the units Damage Save against incoming attacks.",
-      "Translation": "Статистика <color=#33FAFF>Защита</color> - это сочетание общей живучести отряда и брони. Она определяет спасение отряда от урона от входящих атак.",
+      "Key": "The <color=#96FAFF>Defense</color> stat is a combination of a unit's general toughness and armor. It determines the unit's Damage Save against incoming attacks.",
+      "Translation": "Статистика <color=#96FAFF>Защита</color> - это сочетание общей живучести отряда и брони. Она определяет спасение отряда от урона от входящих атак.",
       "Comment": "Stat explanation"
     },
     {
@@ -1235,7 +1148,7 @@
     },
     {
       "Key": "Dwarf Engineer",
-      "Translation": "Дварфийский инженер",
+      "Translation": "Инженер",
       "Comment": "Consistent with faction translations"
     },
     {
@@ -1275,7 +1188,7 @@
     },
     {
       "Key": "Imperial Sword",
-      "Translation": "Имперский меч",
+      "Translation": "Имперский Мечник",
       "Comment": "Item name"
     },
     {
@@ -1327,16 +1240,6 @@
       "Key": "Save & Exit",
       "Translation": "Сохранить и выход",
       "Comment": "Menu action"
-    },
-    {
-      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 32.",
-      "Translation": "Поражение от <color=blue>Гундрик Наковальник</color> на этапе 32.",
-      "Comment": "Campaign defeat message with character name"
-    },
-    {
-      "Key": "Unlocked 1/5",
-      "Translation": "Разблокировано 1/5",
-      "Comment": "Progress indicator"
     },
     {
       "Key": "Your army has been wiped out...\n",
@@ -1420,7 +1323,7 @@
     },
     {
       "Key": "Dwarf Berserkers",
-      "Translation": "Дварфийские берсеркеры",
+      "Translation": "Берсерки",
       "Comment": "Unit name - consistent with faction translations"
     },
     {
@@ -1465,7 +1368,7 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "Переброс дальнобойных и боевых атак против кавалерии и колесниц",
+      "Translation": "Переброс дальних и ближних атак против Кавалерии и Колесниц",
       "Comment": "Ability description"
     },
     {
@@ -1492,11 +1395,6 @@
       "Key": "OR",
       "Translation": "ИЛИ",
       "Comment": "Choice separator"
-    },
-    {
-      "Key": "Mercenary Cut: <indent=55%><color=green><b>+10%",
-      "Translation": "Доля наёмника: <indent=55%><color=green><b>+10%",
-      "Comment": "Rich text formatting preserved"
     },
     {
       "Key": "- Legend -",
@@ -1580,7 +1478,7 @@
     },
     {
       "Key": "This is a holy place. Your soldiers can ask for a blessing, but make your choice carefully. ",
-      "Translation": "Это священное место. Ваши солдаты могут попросить благословение, но выбирайте тщательно.",
+      "Translation": "Это священное место. Ваши солдаты могут попросить благословение, но выбирайте тщательно. ",
       "Comment": "Event description"
     },
     {
@@ -1720,7 +1618,7 @@
     },
     {
       "Key": "An ancient place of power. ",
-      "Translation": "Древнее место силы.",
+      "Translation": "Древнее место силы. ",
       "Comment": "Location description"
     },
     {
@@ -1745,7 +1643,7 @@
     },
     {
       "Key": "Dwarf Cannon",
-      "Translation": "Дварфийская пушка",
+      "Translation": "Гномья Пушка",
       "Comment": "Unit name"
     },
     {
@@ -1845,7 +1743,7 @@
     },
     {
       "Key": "(Your Knights are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "(Ваши рыцари бесстрашны и получают бонус натиска: +1 Атака)",
+      "Translation": "(Ваши рыцари бесстрашны и получают бонус натиска: +1 Атака) ",
       "Comment": "Effect description"
     },
     {
@@ -1875,7 +1773,7 @@
     },
     {
       "Key": "(Your units are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "(Ваши отряды бесстрашны и получают бонус натиска: +1 Атака)",
+      "Translation": "(Ваши отряды бесстрашны и получают бонус натиска: +1 Атака) ",
       "Comment": "Bonus effect"
     },
     {
@@ -1904,11 +1802,6 @@
       "Comment": "Bonus description"
     },
     {
-      "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
-      "Translation": "(Ваши отряды получают +2 к скорости движения и +1 к броскам дальнобойных атак)",
-      "Comment": "Bonus effect"
-    },
-    {
       "Key": "Deadly arrows crafted by the Deepwood Elves. Pick one.",
       "Translation": "Смертельные стрелы, созданные лесными эльфами. Выберите один.",
       "Comment": "Equipment choice"
@@ -1917,11 +1810,6 @@
       "Key": "Event Name",
       "Translation": "Название события",
       "Comment": "Placeholder string"
-    },
-    {
-      "Key": "Light Infantry - 99 pts",
-      "Translation": "Лёгкая пехота - 99 очк",
-      "Comment": "Unit with cost"
     },
     {
       "Key": "Level:",
@@ -1975,23 +1863,8 @@
     },
     {
       "Key": "Unlocked ",
-      "Translation": "Разблокировано",
+      "Translation": "Разблокировано ",
       "Comment": "Status indicator"
-    },
-    {
-      "Key": "<color=#31D3E3>3<size=33%></color> D3",
-      "Translation": "<color=#31D3E3>3<size=33%></color> K3",
-      "Comment": "Rich text dice notation - W3 = Würfel3"
-    },
-    {
-      "Key": "< <color=#31D3E3>3",
-      "Translation": "< <color=#31D3E3>3",
-      "Comment": "Rich text comparison - keep as is"
-    },
-    {
-      "Key": "<color=#31D3E3>1<size=33%></color> D3",
-      "Translation": "<color=#31D3E3>1<size=33%></color> K3",
-      "Comment": "Rich text dice notation"
     },
     {
       "Key": "BorderPatrol",
@@ -2084,11 +1957,6 @@
       "Comment": "Ability type"
     },
     {
-      "Key": "<b>Draw<size=80%></color></b>\n",
-      "Translation": "<b>Ничья<size=80%></color></b>\n",
-      "Comment": "Battle result - preserve rich text tags"
-    },
-    {
       "Key": "Challenge Level: 3",
       "Translation": "Уровень сложности: 3",
       "Comment": "Campaign difficulty indicator"
@@ -2099,19 +1967,9 @@
       "Comment": "Campaign encounter description"
     },
     {
-      "Key": "Turn 1 begins!",
-      "Translation": "Начинается ход 1!",
-      "Comment": "Battle start message"
-    },
-    {
       "Key": "Confident",
       "Translation": "Уверенный",
       "Comment": "Morale state"
-    },
-    {
-      "Key": "Turn 3 begins!",
-      "Translation": "Начинается ход 3!",
-      "Comment": "Battle phase message"
     },
     {
       "Key": "activates",
@@ -2149,19 +2007,9 @@
       "Comment": "Test to see if unit breaks and flees"
     },
     {
-      "Key": "{0} or lower to Hold",
-      "Translation": "{0} или меньше чтобы держать",
-      "Comment": "Morale test success condition"
-    },
-    {
       "Key": "rally!",
       "Translation": "восстать!",
       "Comment": "Unit regains morale"
-    },
-    {
-      "Key": "{0} or lower to Rally",
-      "Translation": "{0} или меньше чтобы восстать",
-      "Comment": "Rally test success condition"
     },
     {
       "Key": "fled off the board!",
@@ -2260,163 +2108,349 @@
     },
     {
       "Key": "Raiders",
-      "Translation": "",
+      "Translation": "Налётчики",
       "Comment": ""
     },
     {
       "Key": "Big Stuff",
-      "Translation": "",
+      "Translation": "Крупные силы",
       "Comment": ""
     },
     {
       "Key": "Battles: ",
-      "Translation": "",
+      "Translation": "Сражения: ",
       "Comment": ""
     },
     {
       "Key": "Points Earned: ",
-      "Translation": "",
+      "Translation": "Заработано очков: ",
       "Comment": ""
     },
     {
       "Key": "W/L: ",
-      "Translation": "",
+      "Translation": "П/П: ",
       "Comment": ""
     },
     {
       "Key": "W/L: -",
-      "Translation": "",
+      "Translation": "П/П: -",
       "Comment": ""
     },
     {
       "Key": "Enemies Killed: ",
-      "Translation": "",
+      "Translation": "Убито врагов: ",
       "Comment": ""
     },
     {
-      "Key": "",
-      "Translation": "",
-      "Comment": "Empty placeholder"
-    },
-    {
       "Key": "Jungle Beasts",
-      "Translation": "",
+      "Translation": "Звери джунглей",
       "Comment": ""
     },
     {
       "Key": "Demonic Allies",
-      "Translation": "",
+      "Translation": "Демонические союзники",
       "Comment": ""
     },
     {
       "Key": "War Beasts",
-      "Translation": "",
+      "Translation": "Боевые звери",
       "Comment": ""
     },
     {
       "Key": "Player",
-      "Translation": "",
+      "Translation": "Игрок",
       "Comment": ""
     },
     {
       "Key": "Skip Charges",
-      "Translation": "",
+      "Translation": "Пропустить натиск",
       "Comment": ""
     },
     {
       "Key": "Abyssal Terrors",
-      "Translation": "",
+      "Translation": "Ужасы Бездны",
       "Comment": ""
     },
     {
       "Key": "AI Player",
-      "Translation": "",
+      "Translation": "ИИ-игрок",
       "Comment": ""
     },
     {
       "Key": "D3",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "D6",
-      "Translation": "",
+      "Translation": "D3",
       "Comment": ""
     },
     {
       "Key": " Damage Save",
-      "Translation": "",
+      "Translation": " Спасение от урона",
       "Comment": ""
     },
     {
       "Key": "Confirm Charges",
-      "Translation": "",
+      "Translation": "Подтвердить натиск",
       "Comment": ""
     },
     {
       "Key": "Vermin",
-      "Translation": "",
+      "Translation": "Твари",
       "Comment": ""
     },
     {
       "Key": "conceded",
-      "Translation": "",
+      "Translation": "сдался",
       "Comment": ""
     },
     {
       "Key": "Scoring Objectives",
-      "Translation": "",
+      "Translation": "Цели для очков",
       "Comment": ""
     },
     {
       "Key": "has been wiped out!",
-      "Translation": "",
+      "Translation": "уничтожен!",
       "Comment": ""
     },
     {
       "Key": "Auto Hits",
-      "Translation": "",
+      "Translation": "Автопопадания",
       "Comment": ""
     },
     {
       "Key": "No hits",
-      "Translation": "",
+      "Translation": "Нет попаданий",
       "Comment": ""
     },
     {
       "Key": "-30% gold income",
-      "Translation": "",
+      "Translation": "-30 % золотого дохода",
       "Comment": ""
     },
     {
       "Key": "- Break the enemy Army -",
-      "Translation": "",
+      "Translation": "- Сломить вражескую армию -",
       "Comment": ""
     },
     {
       "Key": "continue fighting, but their magic weakens.",
-      "Translation": "",
+      "Translation": "продолжают сражаться, но их магия слабеет.",
       "Comment": ""
     },
     {
       "Key": "-3 or lower to Hold",
-      "Translation": "",
+      "Translation": "-3 или меньше, чтобы удержаться",
       "Comment": ""
     },
     {
       "Key": "Challenge Level: 0",
-      "Translation": "",
+      "Translation": "Уровень сложности: 0",
       "Comment": ""
     },
     {
       "Key": "Harder Minor Battles",
-      "Translation": "",
+      "Translation": "Более сложные малые сражения",
+      "Comment": ""
+    },
+    {
+      "Key": "Abominations",
+      "Translation": "Мерзости",
+      "Comment": ""
+    },
+    {
+      "Key": "Army Destroyed",
+      "Translation": "Армия уничтожена",
+      "Comment": ""
+    },
+    {
+      "Key": "Tamed Beasts",
+      "Translation": "Прирученные звери",
+      "Comment": ""
+    },
+    {
+      "Key": "Wild Beasts",
+      "Translation": "Дикие звери",
+      "Comment": ""
+    },
+    {
+      "Key": "Forest Guardians",
+      "Translation": "Стражи леса",
+      "Comment": ""
+    },
+    {
+      "Key": "BattleLine",
+      "Translation": "Боевая линия",
+      "Comment": ""
+    },
+    {
+      "Key": "Monsters",
+      "Translation": "Чудовища",
+      "Comment": ""
+    },
+    {
+      "Key": "- Survive for 6 Turns -",
+      "Translation": "- Выживайте 6 хода -",
+      "Comment": "Survival objective"
+    },
+    {
+      "Key": "{0}pts",
+      "Translation": "{0} очк",
+      "Comment": "Points abbreviation - consistent with existing translations"
+    },
+    {
+      "Key": "{0}% gold income",
+      "Translation": "{0}% золотого дохода",
+      "Comment": "Economy bonus",
+      "PluralOne": "{0}% золотого дохода",
+      "PluralFew": "{0}% золотого дохода",
+      "PluralMany": "{0}% золотого дохода"
+    },
+    {
+      "Key": "Win <size=80%><color=green>+",
+      "Translation": "Победа <size=80%><color=green>+",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Loss <size=80%>",
+      "Translation": "Поражение <size=80%>",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Total Points: <color=#9EFEFF>",
+      "Translation": "Всего очков: <color=#9EFEFF>",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Elo:  <color=#9EFEFF>",
+      "Translation": "Ело:  <color=#9EFEFF>",
+      "Comment": "Keep Elo as international rating term"
+    },
+    {
+      "Key": "Replenished 5 models",
+      "Translation": "Восполнены 5 модели",
+      "Comment": "Unit replenishment"
+    },
+    {
+      "Key": "{0} XP",
+      "Translation": "{0} ОП",
+      "Comment": "Experience Points",
+      "PluralOne": "{0} ОП",
+      "PluralFew": "{0} ОП",
+      "PluralMany": "{0} ОП"
+    },
+    {
+      "Key": "Defeated by <color=#FFDF7C>",
+      "Translation": "Поражение от <color=#FFDF7C>",
+      "Comment": "Campaign defeat message"
+    },
+    {
+      "Key": "2 Units",
+      "Translation": "2 отряда",
+      "Comment": "Unit count"
+    },
+    {
+      "Key": "<color=#81D7E5>3+ <size=85%></color> To Save",
+      "Translation": "<color=#81D7E5>3+ <size=85%></color> Спас",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "<color=#70F6FF> 3x</color> Auto Hits",
+      "Translation": "<color=#70F6FF> 3x</color> Автопопадание",
+      "Comment": "Combat result"
+    },
+    {
+      "Key": "Power <color=#81D7E5><size=125%>5</color> </size>VS Defense <color=#81D7E5><size=125%>5</color> ",
+      "Translation": "Мощь <color=#81D7E5><size=125%>5</color> </size>VS Защита <color=#81D7E5><size=125%>5</color> ",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Power 3 vs Defense 4",
+      "Translation": "Мощь 3 против Защиты 4",
+      "Comment": "Combat comparison"
+    },
+    {
+      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 32.",
+      "Translation": "Поражение от <color=blue>Гундрик Наковальник</color> на этапе 32.",
+      "Comment": "Campaign defeat message with character name"
+    },
+    {
+      "Key": "Unlocked 1/5",
+      "Translation": "Разблокировано 1/5",
+      "Comment": "Progress indicator"
+    },
+    {
+      "Key": "Mercenary Cut: <indent=55%><color=green><b>+10%",
+      "Translation": "Доля наёмника: <indent=55%><color=green><b>+10%",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
+      "Translation": "(Ваши отряды получают +2 к скорости движения и +1 к броскам дальнобойных атак) ",
+      "Comment": "Bonus effect"
+    },
+    {
+      "Key": "Light Infantry - 99 pts",
+      "Translation": "Лёгкая пехота - 99 очк",
+      "Comment": "Unit with cost"
+    },
+    {
+      "Key": "<b>Draw<size=80%></color></b>\n",
+      "Translation": "<b>Ничья<size=80%></color></b>\n",
+      "Comment": "Battle result - preserve rich text tags"
+    },
+    {
+      "Key": "{0} or lower to Hold",
+      "Translation": "{0} или меньше чтобы держать",
+      "Comment": "Morale test success condition"
+    },
+    {
+      "Key": "{0} or lower to Rally",
+      "Translation": "{0} или меньше чтобы восстать",
+      "Comment": "Rally test success condition"
+    },
+    {
+      "Key": "D6",
+      "Translation": "D6",
       "Comment": ""
     },
     {
       "Key": "takes priority",
+      "Translation": "имеет приоритет",
+      "Comment": ""
+    },
+    {
+      "Key": "Turn {0} begins!",
+      "Translation": "Начинается ход {0}!",
+      "Comment": ""
+    },
+    {
+      "Key": "version 99",
       "Translation": "",
       "Comment": ""
+    },
+    {
+      "Key": "Single Player",
+      "Translation": "Одиночная игра",
+      "Comment": ""
+    },
+    {
+      "Key": "Mods",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Mods ",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Mods\n",
+      "Translation": "Моды\n",
+      "Comment": ""
+    },
+    {
+      "Key": "Great Weapon <color=#B6F595>+1",
+      "Translation": "Великое оружие <color=#B6F595>+1",
+      "Comment": "Weapon item"
     }
   ]
 }

@@ -43,13 +43,13 @@
     },
     {
       "Key": "Archdevil",
-      "Translation": "Архидемон",
+      "Translation": "Архидьявол",
       "Comment": "Greater demon. Same as in Abyssal Demons faction. Архидемон = arch-demon, highest ranking demon."
     },
     {
       "Key": "Devilspawn",
-        "Translation": "Дьявольские Отродья",
-        "Comment": "Lesser demons. Same as in Abyssal Demons faction. Дьявольские Отродья = infernal offspring, fitting the faction's demonic tone."
+      "Translation": "Дьявольские Отродья",
+      "Comment": "Lesser demons. Same as in Abyssal Demons faction. Дьявольские Отродья = infernal offspring, fitting the faction's demonic tone."
     },
     {
       "Key": "War Mammoth",

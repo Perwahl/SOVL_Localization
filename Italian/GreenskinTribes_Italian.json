@@ -90,6 +90,11 @@
       "Key": "Goblin King",
       "Translation": "Re Goblin",
       "Comment": "Faction leader. Grand title conveying both goblin nature and royal authority."
+    },
+    {
+      "Key": "Goblin Flying Machine",
+      "Translation": "Macchina Volante Goblin",
+      "Comment": ""
     }
   ]
 }

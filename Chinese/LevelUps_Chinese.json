@@ -7,11 +7,6 @@
       "Comment": "单位规模等级一"
     },
     {
-      "Key": "Max Unit size +5",
-      "Translation": "最大单位规模 +5",
-      "Comment": "最大单位数量增加3"
-    },
-    {
       "Key": "Unit Size II",
       "Translation": "单位规模 II",
       "Comment": "单位规模等级二"
@@ -25,11 +20,6 @@
       "Key": "Replenish I",
       "Translation": "补员 I",
       "Comment": "战斗后单位补员等级一"
-    },
-    {
-      "Key": "+50% base unit Replenishment",
-      "Translation": "基础单位补员提升 +50%",
-      "Comment": "基础单位补员数量增加30%"
     },
     {
       "Key": "Replenish II",
@@ -72,11 +62,6 @@
       "Comment": "战斗后获得金币奖励等级一"
     },
     {
-      "Key": "+5% post battle income",
-      "Translation": "战后收入提升 +5%",
-      "Comment": "战斗后获得的金币增加3%"
-    },
-    {
       "Key": "Coin Counter II",
       "Translation": "掠夺者 II",
       "Comment": "战斗后获得金币奖励等级二"
@@ -88,7 +73,7 @@
     },
     {
       "Key": "+1 Wounds",
-      "Translation": "伤害值 +1",
+      "Translation": "伤口 +1",
       "Comment": "单位可承受伤害值增加1点"
     },
     {
@@ -147,11 +132,6 @@
       "Comment": "魔法强化技能，提升火球术威力"
     },
     {
-      "Key": "Upgrades Fireball to 2D6 hits.",
-      "Translation": "将火球术升级为2D6命中",
-      "Comment": "骰子掷数增加，伤害提升"
-    },
-    {
       "Key": "Greater Favour",
       "Translation": "高等恩宠",
       "Comment": "神圣魔法强化"
@@ -175,11 +155,6 @@
       "Key": "Greater Fury",
       "Translation": "高等狂怒",
       "Comment": "原始魔法强化"
-    },
-    {
-      "Key": "Upgrades Primal Fury to give +2 Power.",
-      "Translation": "将原始狂怒升级为提供 +2 力量",
-      "Comment": "增加额外的力量属性加成"
     },
     {
       "Key": "Greater Web",
@@ -207,11 +182,6 @@
       "Comment": "暗影魔法强化"
     },
     {
-      "Key": "Upgrades Shadow Bolt to Power 5 and Range 24.",
-      "Translation": "将暗影箭升级为力量 5 和射程 24",
-      "Comment": "提升魔法伤害和作用范围"
-    },
-    {
       "Key": "Greater Regrowth",
       "Translation": "高等重生术",
       "Comment": "治疗魔法强化"
@@ -225,11 +195,6 @@
       "Key": "Greater Wildform",
       "Translation": "高等野性形态",
       "Comment": "自然魔法强化"
-    },
-    {
-      "Key": "Upgrades Wildform to give +4 Attacks.",
-      "Translation": "将野性形态升级为提供 +4 攻击",
-      "Comment": "增加额外攻击次数"
     },
     {
       "Key": "Greater Raise",
@@ -267,19 +232,9 @@
       "Comment": "怪物强化技能"
     },
     {
-      "Key": "Upgrades Thousand Mouths to Power 2.",
-      "Translation": "将千张嘴升级为力量 2",
-      "Comment": "提升怪物伤害"
-    },
-    {
       "Key": "Greater Blades",
       "Translation": "高等烈焰刃",
       "Comment": "火焰强化技能"
-    },
-    {
-      "Key": "Upgrades Fiery Blades to give +2 Power.",
-      "Translation": "将烈焰刃升级为提供 +2 力量",
-      "Comment": "增加火焰伤害"
     },
     {
       "Key": "Greater Shroud",
@@ -305,11 +260,6 @@
       "Key": "Looter I",
       "Translation": "掠夺者 I",
       "Comment": "战斗中获取金币能力等级一"
-    },
-    {
-      "Key": "+5 gold when looting",
-      "Translation": "掠夺时获得 +5 金币",
-      "Comment": "每次战利品增加3金币"
     },
     {
       "Key": "Looter II",
@@ -348,7 +298,7 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "对骑兵和战车重投远程和近战攻击",
+      "Translation": "对骑兵和战车重投远程攻击和近战攻击检定。",
       "Comment": "克制重骑兵单位"
     },
     {
@@ -375,11 +325,6 @@
       "Key": "Rune Of Farsight",
       "Translation": "远视符文",
       "Comment": "远程视野增强符文"
-    },
-    {
-      "Key": "Ranged attack range increased by 5.",
-      "Translation": "远程攻击射程 +5",
-      "Comment": "增加射程距离"
     },
     {
       "Key": "Rune Of Speed",
@@ -435,11 +380,6 @@
       "Key": "Imperial Veterans II",
       "Translation": "帝国老兵 II",
       "Comment": "单位经验等级二"
-    },
-    {
-      "Key": "Unit has +5 range for Ranged attacks.",
-      "Translation": "单位远程攻击射程 +5",
-      "Comment": "增加远程攻击范围"
     },
     {
       "Key": "Unit ignores penalties for difficult terrain.",
@@ -522,11 +462,6 @@
       "Comment": "精灵射击技能等级一"
     },
     {
-      "Key": "+5 range for Ranged Attacks.",
-      "Translation": "远程攻击射程 +5",
-      "Comment": "增加射程范围"
-    },
-    {
       "Key": "Elf Bow Mastery II",
       "Translation": "精灵弓术精通 II",
       "Comment": "精灵射击技能等级二"
@@ -597,19 +532,9 @@
       "Comment": "化身为猛禽的能力"
     },
     {
-      "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
-      "Translation": "单位获得致命攻击（造成2倍伤害）",
-      "Comment": "大幅提升攻击伤害"
-    },
-    {
       "Key": "Serpent Aspect",
       "Translation": "蛇形外形",
       "Comment": "化身为蛇的能力"
-    },
-    {
-      "Key": "Unit gains Poisoned Attacks (enemies re-roll 6s on Damage Saves)",
-      "Translation": "单位获得毒性攻击（敌人重投伤害豁免的 6 点）",
-      "Comment": "攻击附带毒性效果"
     },
     {
       "Key": "Salamander Aspect",
@@ -685,11 +610,6 @@
       "Key": "Greater Warcry",
       "Translation": "高等战吼",
       "Comment": "强大的战斗精神提升"
-    },
-    {
-      "Key": "Warcry also gives +2 Move Speed to all units.",
-      "Translation": "战吼还为所有单位提供 +2 移动速度",
-      "Comment": "增强范围能力"
     },
     {
       "Key": "Slavers",
@@ -812,11 +732,6 @@
       "Comment": "战争魔法的大师"
     },
     {
-      "Key": "Gain Deadly Strikes (deal 2x Wounds)",
-      "Translation": "获得致命打击（造成2倍伤害）",
-      "Comment": "大幅提升攻击伤害"
-    },
-    {
       "Key": "Knightly Vow",
       "Translation": "骑士誓言",
       "Comment": "提升为誓言骑士的能力"
@@ -850,11 +765,6 @@
       "Key": "Avalon Marksmen I",
       "Translation": "阿瓦隆射手 I",
       "Comment": "阿瓦隆射手等级一"
-    },
-    {
-      "Key": "Unit has +5 range for Ranged Attacks.",
-      "Translation": "单位远程攻击射程 +5",
-      "Comment": "增加射程范围"
     },
     {
       "Key": "Avalon Marksmen II",
@@ -894,6 +804,101 @@
     {
       "Key": "+3 range to Ranged Atacks.",
       "Translation": "远程攻击射程 +3",
+      "Comment": "增加射程范围"
+    },
+    {
+      "Key": "+1 bonus hit for Ranged Attack",
+      "Translation": "远程攻击 +1 额外命中",
+      "Comment": ""
+    },
+    {
+      "Key": "Max Unit size +5",
+      "Translation": "最大单位规模 +5",
+      "Comment": "最大单位数量增加3"
+    },
+    {
+      "Key": "+50% base unit Replenishment",
+      "Translation": "基础单位补员提升 +50%",
+      "Comment": "基础单位补员数量增加30%"
+    },
+    {
+      "Key": "+5% post battle income",
+      "Translation": "战后收入提升 +5%",
+      "Comment": "战斗后获得的金币增加3%"
+    },
+    {
+      "Key": "Upgrades Fireball to 2D6 hits.",
+      "Translation": "将火球术升级为2D6命中",
+      "Comment": "骰子掷数增加，伤害提升"
+    },
+    {
+      "Key": "Upgrades Primal Fury to give +2 Power.",
+      "Translation": "将原始狂怒升级为提供 +2 力量",
+      "Comment": "增加额外的力量属性加成"
+    },
+    {
+      "Key": "Upgrades Shadow Bolt to Power 5 and Range 24.",
+      "Translation": "将暗影箭升级为力量 5 和射程 24",
+      "Comment": "提升魔法伤害和作用范围"
+    },
+    {
+      "Key": "Upgrades Wildform to give +4 Attacks.",
+      "Translation": "将野性形态升级为提供 +4 攻击",
+      "Comment": "增加额外攻击次数"
+    },
+    {
+      "Key": "Upgrades Thousand Mouths to Power 2.",
+      "Translation": "将千张嘴升级为力量 2",
+      "Comment": "提升怪物伤害"
+    },
+    {
+      "Key": "Upgrades Fiery Blades to give +2 Power.",
+      "Translation": "将烈焰刃升级为提供 +2 力量",
+      "Comment": "增加火焰伤害"
+    },
+    {
+      "Key": "+5 gold when looting",
+      "Translation": "掠夺时获得 +5 金币",
+      "Comment": "每次战利品增加3金币"
+    },
+    {
+      "Key": "Ranged attack range increased by 5.",
+      "Translation": "远程攻击射程 +5",
+      "Comment": "增加射程距离"
+    },
+    {
+      "Key": "Unit has +5 range for Ranged attacks.",
+      "Translation": "单位远程攻击射程 +5",
+      "Comment": "增加远程攻击范围"
+    },
+    {
+      "Key": "+5 range for Ranged Attacks.",
+      "Translation": "远程攻击射程 +5",
+      "Comment": "增加射程范围"
+    },
+    {
+      "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
+      "Translation": "单位获得致命攻击（造成2倍伤口）",
+      "Comment": "大幅提升攻击伤害"
+    },
+    {
+      "Key": "Unit gains Poisoned Attacks (enemies re-roll 6s on Damage Saves)",
+      "Translation": "单位获得毒性攻击（敌人重投伤害豁免的 6 点）",
+      "Comment": "攻击附带毒性效果"
+    },
+    {
+      "Key": "Warcry also gives +2 Move Speed to all units.",
+      "Translation": "战吼还为所有单位提供 +2 移动速度",
+      "Comment": "增强范围能力"
+    },
+    {
+      "Key": "Gain Deadly Strikes (deal 2x Wounds)",
+      "Translation": "获得致命打击（造成2倍伤口）",
+      "Comment": "大幅提升攻击伤害"
+    },
+    {
+      "Key": "Unit has +5 range for Ranged Attacks.",
+      "Translation": "单位远程攻击射程 +5",
       "Comment": "增加射程范围"
     }
   ]

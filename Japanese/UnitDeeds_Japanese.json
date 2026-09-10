@@ -7,21 +7,9 @@
       "Comment": "用語選択: 堅実さと揺るがぬ意志を表すため「不動の者」を選択"
     },
     {
-      "Key": "Passed {0} Break Tests.",
-      "Translation": "{0}回の試験に合格した。",
-      "Comment": "ゲーム用語: 1回と同じルールで複数化",
-      "PluralOne": "{0}回の試験に合格した。"
-    },
-    {
       "Key": "Dragon Slayer",
       "Translation": "ドラゴン殺し",
       "Comment": "ファンタジー用語: 古典的な「Slayer」は「殺し」で統一"
-    },
-    {
-      "Key": "Killed {0} dragons.",
-      "Translation": "ドラゴン{0}体を倒した。",
-      "Comment": "複数敵: 複数形も同じ翻訳パターン",
-      "PluralOne": "ドラゴン{0}体を倒した。"
     },
     {
       "Key": "Deadly",
@@ -29,21 +17,9 @@
       "Comment": "ファンタジートーン: より劇的な表現で闇の雰囲気を強調"
     },
     {
-      "Key": "Killed {0} enemies in combat.",
-      "Translation": "格闘戦で敵{0}体を倒した。",
-      "Comment": "複数敵: 複数形も同じパターン",
-      "PluralOne": "格闘戦で敵{0}体を倒した。"
-    },
-    {
       "Key": "Marksman",
       "Translation": "射手",
       "Comment": "用語選択: シンプルで古典的なファンタジー用語"
-    },
-    {
-      "Key": "Killed {0} enemies with ranged weapons.",
-      "Translation": "遠距離武器で敵{0}体を倒した。",
-      "Comment": "複数敵: 複数形も同じパターン",
-      "PluralOne": "遠距離武器で敵{0}体を倒した。"
     },
     {
       "Key": "Lucky",
@@ -51,21 +27,9 @@
       "Comment": "用語選択: ゲーム内のダイスロール文脈での「幸運」"
     },
     {
-      "Key": "Rolled {0} natural sixes ({1:P0} of all rolls).",
-      "Translation": "自然な6を{0}回出した（全ロールの{1:P0}）。",
-      "Comment": "ゲーム用語: ダイス運に恵まれた成果",
-      "PluralOne": "自然な6を{0}回出した（全ロールの{1:P0}）。"
-    },
-    {
       "Key": "Scorer",
       "Translation": "得点者",
       "Comment": "ゲーム用語: 目標占領に関わる成果"
-    },
-    {
-      "Key": "Captured {0} objectives.",
-      "Translation": "目標{0}つを占領した。",
-      "Comment": "複数目標: 複数形も同じパターン",
-      "PluralOne": "目標{0}つを占領した。"
     },
     {
       "Key": "Giant Slayer",
@@ -73,21 +37,9 @@
       "Comment": "ファンタジー用語: 「Dragon Slayer」と同じパターンで統一"
     },
     {
-      "Key": "Killed {0} giants.",
-      "Translation": "巨人{0}体を倒した。",
-      "Comment": "複数敵: 複数形も同じパターン",
-      "PluralOne": "巨人{0}体を倒した。"
-    },
-    {
       "Key": "Treefeller",
       "Translation": "樹木殺し",
       "Comment": "ゲーム用語: 樹木モンスターに特化した称号"
-    },
-    {
-      "Key": "Felled {0} tree monsters.",
-      "Translation": "樹木モンスター{0}体を倒した。",
-      "Comment": "複数敵: 複数形も同じパターン",
-      "PluralOne": "樹木モンスター{0}体を倒した。"
     },
     {
       "Key": "Dino Hunter",
@@ -95,21 +47,9 @@
       "Comment": "ゲーム用語: 「Dino」はカジュアルなファンタジー設定に適合"
     },
     {
-      "Key": "Killed {0} dinosaurs.",
-      "Translation": "恐竜{0}体を倒した。",
-      "Comment": "複数敵: 複数形も同じパターン",
-      "PluralOne": "恐竜{0}体を倒した。"
-    },
-    {
       "Key": "Warmachine Hunter",
       "Translation": "ウォーマシンハンター",
       "Comment": "ゲーム用語: 特殊な機械兵器を狙う専門家"
-    },
-    {
-      "Key": "Killed {0} warmachines.",
-      "Translation": "ウォーマシン{0}台を倒した。",
-      "Comment": "複数機械: 複数形も同じパターン",
-      "PluralOne": "ウォーマシン{0}台を倒した。"
     },
     {
       "Key": "Demon Hunter",
@@ -117,32 +57,14 @@
       "Comment": "ファンタジー用語: 悪魔退治の専門家"
     },
     {
-      "Key": "Slain {0} greater demons.",
-      "Translation": "上位悪魔{0}体を討滅した。",
-      "Comment": "複数敵: 複数形も同じパターン",
-      "PluralOne": "上位悪魔{0}体を討滅した。"
-    },
-    {
       "Key": "Duelist",
       "Translation": "決闘者",
       "Comment": "用語選択: 指揮官1対1との戦いを表す古典的な用語"
     },
     {
-      "Key": "Killed {0} Commanders.",
-      "Translation": "司令官{0}人を倒した。",
-      "Comment": "複数敵: 複数形も同じパターン",
-      "PluralOne": "司令官{0}人を倒した。"
-    },
-    {
       "Key": "Spellslinger",
       "Translation": "魔法使い",
       "Comment": "ファンタジー用語: 魔法を扱う者"
-    },
-    {
-      "Key": "Cast {0} spells.",
-      "Translation": "魔法を{0}つ唱えた。",
-      "Comment": "複数魔法: 複数形も同じパターン",
-      "PluralOne": "魔法を{0}つ唱えた。"
     },
     {
       "Key": "Coward",
@@ -158,12 +80,6 @@
       "Key": "Unlucky",
       "Translation": "不幸な者",
       "Comment": "用語選択: 「Lucky」と対比させる"
-    },
-    {
-      "Key": "Rolled {0} ones ({1:P0} of all rolls).",
-      "Translation": "1を{0}回出した（全ロールの{1:P0}）。",
-      "Comment": "ゲーム用語: ダイス運に見放された成果",
-      "PluralOne": "{0}を1回出した（全ロールの{1:P0}）。"
     },
     {
       "Key": "Last Man Standing",
@@ -199,12 +115,6 @@
       "Key": "Flanker",
       "Translation": "側面攻撃者",
       "Comment": "戦術用語: 側面または後方から攻撃する者"
-    },
-    {
-      "Key": "Performed {0} flank/rear charges.",
-      "Translation": "側面／後方からの突撃{0}回を行った。",
-      "Comment": "複数突撃: 複数形も同じパターン",
-      "PluralOne": "側面／後方からの突撃{0}回を行った。"
     },
     {
       "Key": "Dragon Slayers",
@@ -265,6 +175,86 @@
       "Key": "Cursed!",
       "Translation": "呪われし者！",
       "Comment": "ファンタジートーン: ダイス運の最悪を表す劇的な表現、「Blessed!」と対比"
+    },
+    {
+      "Key": "Bloodthirsty!",
+      "Translation": "血に飢えた！",
+      "Comment": ""
+    },
+    {
+      "Key": "Passed {0} Break Tests.",
+      "Translation": "{0}回の試験に合格した。",
+      "Comment": "ゲーム用語: 1回と同じルールで複数化"
+    },
+    {
+      "Key": "Killed {0} dragons.",
+      "Translation": "ドラゴン{0}体を倒した。",
+      "Comment": "複数敵: 複数形も同じ翻訳パターン"
+    },
+    {
+      "Key": "Killed {0} enemies in combat.",
+      "Translation": "格闘戦で敵{0}体を倒した。",
+      "Comment": "複数敵: 複数形も同じパターン"
+    },
+    {
+      "Key": "Killed {0} enemies with ranged weapons.",
+      "Translation": "遠距離武器で敵{0}体を倒した。",
+      "Comment": "複数敵: 複数形も同じパターン"
+    },
+    {
+      "Key": "Rolled {0} natural sixes ({1:P0} of all rolls).",
+      "Translation": "自然な6を{0}回出した（全ロールの{1:P0}）。",
+      "Comment": "The digit is deliberate: it names the die face, and 6 or 1 reads more clearly to a player than the word would. The linter flags it because the English spells the number out."
+    },
+    {
+      "Key": "Captured {0} objectives.",
+      "Translation": "目標{0}つを占領した。",
+      "Comment": "複数目標: 複数形も同じパターン"
+    },
+    {
+      "Key": "Killed {0} giants.",
+      "Translation": "巨人{0}体を倒した。",
+      "Comment": "複数敵: 複数形も同じパターン"
+    },
+    {
+      "Key": "Felled {0} tree monsters.",
+      "Translation": "樹木モンスター{0}体を倒した。",
+      "Comment": "複数敵: 複数形も同じパターン"
+    },
+    {
+      "Key": "Killed {0} dinosaurs.",
+      "Translation": "恐竜{0}体を倒した。",
+      "Comment": "複数敵: 複数形も同じパターン"
+    },
+    {
+      "Key": "Killed {0} warmachines.",
+      "Translation": "ウォーマシン{0}台を倒した。",
+      "Comment": "複数機械: 複数形も同じパターン"
+    },
+    {
+      "Key": "Slain {0} greater demons.",
+      "Translation": "上位悪魔{0}体を討滅した。",
+      "Comment": "複数敵: 複数形も同じパターン"
+    },
+    {
+      "Key": "Killed {0} Commanders.",
+      "Translation": "指揮官{0}人を倒した。",
+      "Comment": "複数敵: 複数形も同じパターン"
+    },
+    {
+      "Key": "Cast {0} spells.",
+      "Translation": "魔法を{0}つ唱えた。",
+      "Comment": "複数魔法: 複数形も同じパターン"
+    },
+    {
+      "Key": "Rolled {0} ones ({1:P0} of all rolls).",
+      "Translation": "1を{0}回出した（全ロールの{1:P0}）。",
+      "Comment": "The digit is deliberate: it names the die face, and 6 or 1 reads more clearly to a player than the word would. The linter flags it because the English spells the number out."
+    },
+    {
+      "Key": "Performed {0} flank/rear charges.",
+      "Translation": "側面／後方からの突撃{0}回を行った。",
+      "Comment": "複数突撃: 複数形も同じパターン"
     }
   ]
 }

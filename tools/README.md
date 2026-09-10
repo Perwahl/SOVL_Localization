@@ -31,16 +31,23 @@ there is nothing to recover it from. Files must be UTF-8 without a BOM.
 
 Things that must survive translation intact:
 
-- **Rich text tags.** `<color=#31D3E3>`, `<size=133%>`, `<b>`. TMP renders these; if one
+- **Rich text tags.** `<color=#96FAFF>`, `<size=125%>`, `<b>`. TMP renders these; if one
   is dropped the markup shows up on screen as literal text.
-- **Number placeholders.** This one is not obvious. The game normalises every digit
-  except `0` and `1` to a `3` when it builds the lookup key, remembers the real values,
-  and after translation walks the result left to right putting them back into each `3`
-  it finds. So the `3`s are load-bearing: lose one and a real rules number vanishes,
-  gain one and every number after it shifts into the wrong slot. `Range: 33. Power 3.`
-  needs exactly three `3` characters in the translation, in that order.
-- **Literal numbers** (`0` and `1`), reported as warnings — no substitution happens, but
-  a changed one usually means the rules meaning drifted.
+- **Placeholders.** `{0}`, `{1}`, and forms with a format specifier such as `{1:P0}`.
+  The game fills these with real values at runtime, so the translation needs the same
+  set as the source — lose one and a rules number never reaches the screen, and a
+  translation whose placeholders do not match falls back to English with an error in
+  the log. Reordering them is fine; each is filled by its own number.
+- **Digits**, reported as warnings. Every digit in a source string is a rules value and
+  should appear unchanged in the translation, in the same order. Take care in languages
+  that spell numbers differently: writing "1 turn" where the English says "one turn"
+  introduces a digit the rules do not have, and Japanese uses kanji numerals there for
+  exactly that reason.
+
+  > This check used to describe something else entirely. Before the placeholder work,
+  > the game rewrote every digit except `0` and `1` to a `3` when building the lookup
+  > key and substituted the real values back afterwards, which made stray `3`s
+  > load-bearing. That mechanism is gone; `{0}` is a real placeholder now.
 - **Line breaks and edge whitespace.** In this project a leading or trailing space is
   usually deliberate layout (`" Icon"`, `"Battles: "`) and translators tend to trim it.
 

@@ -3,1128 +3,1233 @@
   "Translations": [
     {
       "Key": "Spear and Shield",
-      "Translation": "",
+      "Translation": "槍と盾",
       "Comment": ""
     },
     {
       "Key": "Swift",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "迅速",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Bolt Thrower",
-      "Translation": "",
+      "Translation": "ボルトスロワー",
       "Comment": ""
     },
     {
       "Key": "Lethal Shots",
-      "Translation": "",
+      "Translation": "致命的な射撃",
       "Comment": ""
     },
     {
       "Key": "Crewed Weapon",
-      "Translation": "",
+      "Translation": "操作兵器",
       "Comment": ""
     },
     {
       "Key": "Reposition",
-      "Translation": "",
+      "Translation": "位置変更",
       "Comment": ""
     },
     {
       "Key": "Hand Weapon+Shield",
-      "Translation": "",
+      "Translation": "片手武器+盾",
       "Comment": ""
     },
     {
       "Key": "Sturdy",
-      "Translation": "",
+      "Translation": "頑健",
       "Comment": ""
     },
     {
       "Key": "Fearless",
-      "Translation": "",
+      "Translation": "恐れ知らず",
       "Comment": ""
     },
     {
       "Key": "Greatweapon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大武器",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Hand Weapon and Shield",
-      "Translation": "",
+      "Translation": "片手武器と盾",
       "Comment": ""
     },
     {
       "Key": "Mountain's Will",
-      "Translation": "",
+      "Translation": "山の意志",
       "Comment": ""
     },
     {
       "Key": "Ramming Speed",
-      "Translation": "",
+      "Translation": "突撃速度",
       "Comment": ""
     },
     {
       "Key": "Steam Gun",
-      "Translation": "",
+      "Translation": "蒸気銃",
       "Comment": ""
     },
     {
       "Key": "Flying",
-      "Translation": "",
+      "Translation": "飛行",
       "Comment": ""
     },
     {
       "Key": "Masterwork Armor",
-      "Translation": "",
+      "Translation": "名匠の装甲",
       "Comment": ""
     },
     {
       "Key": "Bodyguard",
-      "Translation": "",
+      "Translation": "護衛",
       "Comment": ""
     },
     {
       "Key": "Frenzy",
-      "Translation": "",
+      "Translation": "狂乱",
       "Comment": ""
     },
     {
       "Key": "Two Hand Weapons",
-      "Translation": "",
+      "Translation": "両手武器",
       "Comment": ""
     },
     {
       "Key": "Crossbows",
-      "Translation": "",
+      "Translation": "クロスボウ",
       "Comment": ""
     },
     {
       "Key": "Scout",
-      "Translation": "",
+      "Translation": "斥候",
       "Comment": ""
     },
     {
       "Key": "Cannon",
-      "Translation": "",
+      "Translation": "大砲",
       "Comment": ""
     },
     {
       "Key": "Handguns",
-      "Translation": "",
+      "Translation": "手銃",
       "Comment": ""
     },
     {
       "Key": "Catapult",
-      "Translation": "",
+      "Translation": "カタパルト",
       "Comment": ""
     },
     {
       "Key": "Banner of Swiftness",
-      "Translation": "",
+      "Translation": "迅速の旗",
       "Comment": ""
     },
     {
       "Key": "Banner of Fury",
-      "Translation": "",
+      "Translation": "憤怒の旗",
       "Comment": ""
     },
     {
       "Key": "Banner of Valor",
-      "Translation": "",
+      "Translation": "勇武の旗",
       "Comment": ""
     },
     {
       "Key": "Banner of Mist",
-      "Translation": "",
+      "Translation": "霧の旗",
       "Comment": ""
     },
     {
       "Key": "War Banner",
-      "Translation": "",
+      "Translation": "戦旗",
       "Comment": ""
     },
     {
       "Key": "Cursed Standard",
-      "Translation": "",
+      "Translation": "呪われた軍旗",
       "Comment": ""
     },
     {
       "Key": "Heavy Armor",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "重装甲",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Halberd",
-      "Translation": "",
+      "Translation": "ハルバード",
       "Comment": ""
     },
     {
       "Key": "Lance and Shield",
-      "Translation": "",
+      "Translation": "騎兵槍と盾",
       "Comment": ""
     },
     {
       "Key": "Hand Weapon",
-      "Translation": "",
+      "Translation": "片手武器",
       "Comment": ""
     },
     {
       "Key": "Brace of Pistols",
-      "Translation": "",
+      "Translation": "二丁拳銃",
       "Comment": ""
     },
     {
       "Key": "Longbows",
-      "Translation": "",
+      "Translation": "長弓",
       "Comment": ""
     },
     {
       "Key": "Mortar",
-      "Translation": "",
+      "Translation": "臼砲",
       "Comment": ""
     },
     {
       "Key": "Armor Plating",
-      "Translation": "",
+      "Translation": "装甲板",
       "Comment": ""
     },
     {
       "Key": "Full Steam",
-      "Translation": "",
+      "Translation": "全速蒸気",
       "Comment": ""
     },
     {
       "Key": "Claws",
-      "Translation": "",
+      "Translation": "爪",
       "Comment": ""
     },
     {
       "Key": "Fangs",
-      "Translation": "",
+      "Translation": "牙",
       "Comment": ""
     },
     {
       "Key": "Fire Breath",
-      "Translation": "",
+      "Translation": "火炎のブレス",
       "Comment": ""
     },
     {
       "Key": "Inspire Valor",
-      "Translation": "",
+      "Translation": "勇気鼓舞",
       "Comment": ""
     },
     {
       "Key": "Vitality",
-      "Translation": "",
+      "Translation": "活力",
       "Comment": ""
     },
     {
       "Key": "Unyielding",
-      "Translation": "",
+      "Translation": "不屈",
       "Comment": ""
     },
     {
       "Key": "Command",
-      "Translation": "",
+      "Translation": "指揮",
       "Comment": ""
     },
     {
       "Key": "Prowess",
-      "Translation": "",
+      "Translation": "武勇",
       "Comment": ""
     },
     {
       "Key": "Unnatural Power",
-      "Translation": "",
+      "Translation": "異常な力",
       "Comment": ""
     },
     {
       "Key": "Potion of Power",
-      "Translation": "",
+      "Translation": "力の薬",
       "Comment": ""
     },
     {
       "Key": "Cruelty",
-      "Translation": "",
+      "Translation": "残虐",
       "Comment": ""
     },
     {
       "Key": "Flametongue",
-      "Translation": "",
+      "Translation": "炎舌",
       "Comment": ""
     },
     {
       "Key": "Relentless",
-      "Translation": "",
+      "Translation": "執拗",
       "Comment": ""
     },
     {
       "Key": "Heart Seeker",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "心臓狙い",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "True Strike",
-      "Translation": "",
+      "Translation": "必中の一撃",
       "Comment": ""
     },
     {
       "Key": "Furious Charge",
-      "Translation": "",
+      "Translation": "猛烈な突撃",
       "Comment": ""
     },
     {
       "Key": "Fireball",
-      "Translation": "",
+      "Translation": "ファイアボール",
       "Comment": ""
     },
     {
       "Key": "Frost Ward",
-      "Translation": "",
+      "Translation": "氷結の守護",
       "Comment": ""
     },
     {
       "Key": "Divine Favour",
-      "Translation": "",
+      "Translation": "神の加護",
       "Comment": ""
     },
     {
       "Key": "Shadow Bolt",
-      "Translation": "",
+      "Translation": "影の矢",
       "Comment": ""
     },
     {
       "Key": "Radiant Shield",
-      "Translation": "",
+      "Translation": "光輝の盾",
       "Comment": ""
     },
     {
       "Key": "Hex Of Ruin",
-      "Translation": "",
+      "Translation": "破滅の呪い",
       "Comment": ""
     },
     {
       "Key": "Shortbows",
-      "Translation": "",
+      "Translation": "短弓",
       "Comment": ""
     },
     {
       "Key": "Crushing Charge",
-      "Translation": "",
+      "Translation": "粉砕突撃",
       "Comment": ""
     },
     {
       "Key": "Regeneration",
-      "Translation": "",
+      "Translation": "再生",
       "Comment": ""
     },
     {
       "Key": "Poisoned Attacks",
-      "Translation": "",
+      "Translation": "毒攻撃",
       "Comment": ""
     },
     {
       "Key": "Web",
-      "Translation": "",
+      "Translation": "蜘蛛の巣",
       "Comment": ""
     },
     {
       "Key": "Warcry",
-      "Translation": "",
+      "Translation": "鬨の声",
       "Comment": ""
     },
     {
       "Key": "Primal Fury",
-      "Translation": "",
+      "Translation": "原初の憤怒",
       "Comment": ""
     },
     {
       "Key": "Thousand Mouths",
-      "Translation": "",
+      "Translation": "千の口",
       "Comment": ""
     },
     {
       "Key": "Shroud",
-      "Translation": "",
+      "Translation": "帳",
       "Comment": ""
     },
     {
       "Key": "Wildform",
-      "Translation": "",
+      "Translation": "野生形態",
       "Comment": ""
     },
     {
       "Key": "Power Of Many",
-      "Translation": "",
+      "Translation": "群れの力",
       "Comment": ""
     },
     {
       "Key": "Explosive Charges",
-      "Translation": "",
+      "Translation": "爆薬",
       "Comment": ""
     },
     {
       "Key": "Ambusher",
-      "Translation": "",
+      "Translation": "伏兵",
       "Comment": ""
     },
     {
       "Key": "Inferno Cannon",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "地獄火砲",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Marksman Rifle",
-      "Translation": "",
+      "Translation": "狙撃銃",
       "Comment": ""
     },
     {
       "Key": "Ranger",
-      "Translation": "",
+      "Translation": "レンジャー",
       "Comment": ""
     },
     {
       "Key": "Dwarf Pistol",
-      "Translation": "",
+      "Translation": "ドワーフの拳銃",
       "Comment": ""
     },
     {
       "Key": "Mechanical Expertise",
-      "Translation": "",
+      "Translation": "機械技術",
       "Comment": ""
     },
     {
       "Key": "Elven Mastery",
-      "Translation": "",
+      "Translation": "エルフの熟練",
       "Comment": ""
     },
     {
       "Key": "Bows",
-      "Translation": "",
+      "Translation": "弓",
       "Comment": ""
     },
     {
       "Key": "Rallying Cry",
-      "Translation": "",
+      "Translation": "再結集の叫び",
       "Comment": ""
     },
     {
       "Key": "Arcane Web",
-      "Translation": "",
+      "Translation": "秘術の網",
       "Comment": ""
     },
     {
       "Key": "Reality Rift",
-      "Translation": "",
+      "Translation": "現実の裂け目",
       "Comment": ""
     },
     {
       "Key": "Fiery Blades",
-      "Translation": "",
+      "Translation": "炎の刃",
       "Comment": ""
     },
     {
       "Key": "Reanimated",
-      "Translation": "",
+      "Translation": "蘇生",
       "Comment": ""
     },
     {
       "Key": "Unarmed",
-      "Translation": "",
+      "Translation": "素手",
       "Comment": ""
     },
     {
       "Key": "Putrid Stench",
-      "Translation": "",
+      "Translation": "腐臭",
       "Comment": ""
     },
     {
       "Key": "Eternal Reign",
-      "Translation": "",
+      "Translation": "永遠の統治",
       "Comment": ""
     },
     {
       "Key": "Unholy Vigour",
-      "Translation": "",
+      "Translation": "不浄なる活力",
       "Comment": ""
     },
     {
       "Key": "Reanimate",
-      "Translation": "",
+      "Translation": "蘇生術",
       "Comment": ""
     },
     {
       "Key": "Plague",
-      "Translation": "",
+      "Translation": "疫病",
       "Comment": ""
     },
     {
       "Key": "Raise Dead",
-      "Translation": "",
+      "Translation": "死者蘇生",
       "Comment": ""
     },
     {
       "Key": "Javelins",
-      "Translation": "",
+      "Translation": "投槍",
       "Comment": ""
     },
     {
       "Key": "Boulder Throw",
-      "Translation": "",
+      "Translation": "巨石投擲",
       "Comment": ""
     },
     {
       "Key": "Blood Frenzy",
-      "Translation": "",
+      "Translation": "血の狂乱",
       "Comment": ""
     },
     {
       "Key": "Raider",
-      "Translation": "",
+      "Translation": "略奪者",
       "Comment": ""
     },
     {
       "Key": "Blood Fury",
-      "Translation": "",
+      "Translation": "血の憤怒",
       "Comment": ""
     },
     {
       "Key": "Abyssal Armor",
-      "Translation": "",
+      "Translation": "深淵の装甲",
       "Comment": ""
     },
     {
       "Key": "Scaly Skin",
-      "Translation": "",
+      "Translation": "鱗皮",
       "Comment": ""
     },
     {
       "Key": "Demonic",
-      "Translation": "",
+      "Translation": "悪魔的",
       "Comment": ""
     },
     {
       "Key": "Gift Of War",
-      "Translation": "",
+      "Translation": "戦の贈り物",
       "Comment": ""
     },
     {
       "Key": "Tusks",
-      "Translation": "",
+      "Translation": "大牙",
       "Comment": ""
     },
     {
       "Key": "Demonic Possession",
-      "Translation": "",
+      "Translation": "悪魔憑き",
       "Comment": ""
     },
     {
       "Key": "Pack Tactics",
-      "Translation": "",
+      "Translation": "群れの戦術",
       "Comment": ""
     },
     {
       "Key": "Howl",
-      "Translation": "",
+      "Translation": "遠吠え",
       "Comment": ""
     },
     {
       "Key": "Horns",
-      "Translation": "",
+      "Translation": "角",
       "Comment": ""
     },
     {
       "Key": "Newt Shortbows",
-      "Translation": "",
+      "Translation": "イモリの短弓",
       "Comment": ""
     },
     {
       "Key": "Roar!",
-      "Translation": "",
+      "Translation": "咆哮！",
       "Comment": ""
     },
     {
       "Key": "Ancient Knowledge",
-      "Translation": "",
+      "Translation": "古の知識",
       "Comment": ""
     },
     {
       "Key": "Throwing Stars",
-      "Translation": "",
+      "Translation": "手裏剣",
       "Comment": ""
     },
     {
       "Key": "Longrifle",
-      "Translation": "",
+      "Translation": "長銃",
       "Comment": ""
     },
     {
       "Key": "Sling",
-      "Translation": "",
+      "Translation": "投石紐",
       "Comment": ""
     },
     {
       "Key": "Flamer",
-      "Translation": "",
+      "Translation": "火炎放射器",
       "Comment": ""
     },
     {
       "Key": "Doom Bell",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "滅亡の鐘",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Cruel Motivation",
-      "Translation": "",
+      "Translation": "残虐な鼓舞",
       "Comment": ""
     },
     {
       "Key": "Deadly Strike",
-      "Translation": "",
+      "Translation": "致命の一撃",
       "Comment": ""
     },
     {
       "Key": "Hidden",
-      "Translation": "",
+      "Translation": "隠密",
       "Comment": ""
     },
     {
       "Key": "Barkskin",
-      "Translation": "",
+      "Translation": "樹皮の肌",
       "Comment": ""
     },
     {
       "Key": "Forest Spirit",
-      "Translation": "",
+      "Translation": "森の精霊",
       "Comment": ""
     },
     {
       "Key": "Elven Accuracy",
-      "Translation": "",
+      "Translation": "エルフの精度",
       "Comment": ""
     },
     {
       "Key": "Hunters Bow",
-      "Translation": "",
+      "Translation": "狩人の弓",
       "Comment": ""
     },
     {
       "Key": "Hunters Call",
-      "Translation": "",
+      "Translation": "狩人の呼び声",
       "Comment": ""
     },
     {
       "Key": "Regrowth",
-      "Translation": "",
+      "Translation": "再成長",
       "Comment": ""
     },
     {
       "Key": "Take Root",
-      "Translation": "",
+      "Translation": "根付き",
       "Comment": ""
     },
     {
       "Key": "Light Crossbow",
-      "Translation": "",
+      "Translation": "軽クロスボウ",
       "Comment": ""
     },
     {
       "Key": "Hooves",
-      "Translation": "",
+      "Translation": "蹄",
       "Comment": ""
     },
     {
       "Key": "Feint",
-      "Translation": "",
+      "Translation": "陽動",
       "Comment": ""
     },
     {
       "Key": "Gift Of Trickery",
-      "Translation": "",
+      "Translation": "詭計の贈り物",
       "Comment": ""
     },
     {
       "Key": "Gift Of Decay",
-      "Translation": "",
+      "Translation": "腐敗の贈り物",
       "Comment": ""
     },
     {
       "Key": "Phase Out",
-      "Translation": "",
+      "Translation": "位相ずれ",
       "Comment": ""
     },
     {
       "Key": "Lord of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "腐敗の領主",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Lord of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "詐欺の領主",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Lord Of War",
-      "Translation": "",
+      "Translation": "戦の主",
       "Comment": ""
     },
     {
       "Key": "Horse Masters",
-      "Translation": "",
+      "Translation": "馬術の達人",
       "Comment": ""
     },
     {
       "Key": "Fey",
-      "Translation": "",
+      "Translation": "妖精",
       "Comment": ""
     },
     {
       "Key": "Aura of Protection",
-      "Translation": "",
+      "Translation": "守護のオーラ",
       "Comment": ""
     },
     {
       "Key": "Holy Blade",
-      "Translation": "",
+      "Translation": "聖なる刃",
       "Comment": ""
     },
     {
       "Key": "Aura of Vengeance",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "2 Hand Weapons",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "2x Pistols",
-      "Translation": "",
+      "Translation": "復讐のオーラ",
       "Comment": ""
     },
     {
       "Key": "Lance+Shield",
-      "Translation": "",
+      "Translation": "騎兵槍+盾",
       "Comment": ""
     },
     {
       "Key": "Dark Gift",
-      "Translation": "",
+      "Translation": "闇の贈り物",
       "Comment": ""
     },
     {
       "Key": "Divine Protection",
-      "Translation": "",
+      "Translation": "神の守護",
       "Comment": ""
     },
     {
       "Key": "Battle Hardened",
-      "Translation": "",
+      "Translation": "歴戦",
       "Comment": ""
     },
     {
       "Key": "Marksman",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "射手",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Spell Power",
-      "Translation": "",
+      "Translation": "呪文の力",
       "Comment": ""
     },
     {
       "Key": "Spell Weaver",
-      "Translation": "",
+      "Translation": "呪文織り",
       "Comment": ""
     },
     {
       "Key": "Offensive Mastery",
-      "Translation": "",
+      "Translation": "攻撃の熟練",
       "Comment": ""
     },
     {
       "Key": "Veteran Crew",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "経験を積んだ部隊",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Veteran Discipline",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "老兵の規律",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Veteran Accuracy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "老兵の精度",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Veteran Skill",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "老兵の技術",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Demonic Discipline",
-      "Translation": "",
+      "Translation": "悪魔の規律",
       "Comment": ""
     },
     {
       "Key": "Demonic Fury",
-      "Translation": "",
+      "Translation": "悪魔の憤怒",
       "Comment": ""
     },
     {
       "Key": "Demonic Power",
-      "Translation": "",
+      "Translation": "悪魔の力",
       "Comment": ""
     },
     {
       "Key": "Demonic Resilience",
-      "Translation": "",
+      "Translation": "悪魔の頑強",
       "Comment": ""
     },
     {
       "Key": "Demonic Skill",
-      "Translation": "",
+      "Translation": "悪魔のスキル",
       "Comment": ""
     },
     {
       "Key": "Demonic Defense",
-      "Translation": "",
+      "Translation": "悪魔の防御",
       "Comment": ""
     },
     {
       "Key": "Sword Of Ruin",
-      "Translation": "",
+      "Translation": "破滅の剣",
       "Comment": ""
     },
     {
       "Key": "Cloak Of Shadows",
-      "Translation": "",
+      "Translation": "影の外套",
       "Comment": ""
     },
     {
       "Key": "Horn Of Discord",
-      "Translation": "",
+      "Translation": "不和の角笛",
       "Comment": ""
     },
     {
       "Key": "Veteran Marksmen",
-      "Translation": "",
+      "Translation": "熟練狙撃兵",
       "Comment": ""
     },
     {
       "Key": "Oath Of Retribution",
-      "Translation": "",
+      "Translation": "報復の誓い",
       "Comment": ""
     },
     {
       "Key": "Oath Of Reckoning",
-      "Translation": "",
+      "Translation": "清算の誓い",
       "Comment": ""
     },
     {
       "Key": "Oath Of Vengeance",
-      "Translation": "",
+      "Translation": "復讐の誓い",
       "Comment": ""
     },
     {
       "Key": "Ancestral Strength",
-      "Translation": "",
+      "Translation": "祖先の力",
       "Comment": ""
     },
     {
       "Key": "Greater Blades",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大炎刃",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Favour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大いなる恵み",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Fireball",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大火球",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大狂乱",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Raise",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大死者の蘇生",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Reanimate",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大再生",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Regrowth",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "幻の再茂",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Ruin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大破壊",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Shadowbolt",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "影の矢",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "輝きの盾",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Vigour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大活力",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Web",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "幻の網",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Wildform",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大獣変化",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Thousand Maws",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "千の顎",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Rune Of Farsight",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "遠見のルーン",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Rune Of Flame",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "炎のルーン",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Rune Of Resilience",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "耐久のルーン",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Rune Of Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "速度のルーン",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Imperial Elites",
-      "Translation": "",
+      "Translation": "帝国精鋭",
       "Comment": ""
     },
     {
       "Key": "Imperial Veterans",
-      "Translation": "",
+      "Translation": "帝国古参兵",
       "Comment": ""
     },
     {
       "Key": "Stronger Summons",
-      "Translation": "",
+      "Translation": "強化召喚",
       "Comment": ""
     },
     {
       "Key": "Extra Limb",
-      "Translation": "",
+      "Translation": "追加の肢",
       "Comment": ""
     },
     {
       "Key": "Extra Limbs",
-      "Translation": "",
+      "Translation": "複数の追加肢",
       "Comment": ""
     },
     {
       "Key": "Grafted Wings",
-      "Translation": "",
+      "Translation": "接ぎ木の翼",
       "Comment": ""
     },
     {
       "Key": "Necrotic Infusion",
-      "Translation": "",
+      "Translation": "壊死の注入",
       "Comment": ""
     },
     {
       "Key": "Putrid Hide",
-      "Translation": "",
+      "Translation": "腐った皮",
       "Comment": ""
     },
     {
       "Key": "Tunneling Claws",
-      "Translation": "",
+      "Translation": "掘削の爪",
       "Comment": ""
     },
     {
       "Key": "Unnatural Size",
-      "Translation": "",
+      "Translation": "異常な巨躯",
       "Comment": ""
     },
     {
       "Key": "Elf Bow Mastery",
-      "Translation": "",
+      "Translation": "エルフの弓熟練",
       "Comment": ""
     },
     {
       "Key": "Elf Spear Mastery",
-      "Translation": "",
+      "Translation": "エルフの槍熟練",
       "Comment": ""
     },
     {
       "Key": "Elf Steed Mastery",
-      "Translation": "",
+      "Translation": "エルフの騎乗熟練",
       "Comment": ""
     },
     {
       "Key": "Eagle Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "鷲の姿",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Jaguar Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "ジャガーの姿",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Raptor Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "猛禽の姿",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Salamander Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "サラマンダーの姿",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Serpent Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "蛇の姿",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Turtle Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "亀の姿",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Backstabbers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "背後からの襲撃者",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Bloodlust",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "血の渇望",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Tough As Nails",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "爪のように硬い",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Warcry",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大戦闘叫",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Slavers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "奴隷商人",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Shroud",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大幻隠れ",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Ward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大氷壁",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "War Gods Blessing",
-      "Translation": "",
+      "Translation": "戦神の祝福",
       "Comment": ""
     },
     {
       "Key": "Blessing Of Decay",
-      "Translation": "",
+      "Translation": "腐敗の祝福",
       "Comment": ""
     },
     {
       "Key": "Blessing Of Trickery",
-      "Translation": "",
+      "Translation": "詭計の祝福",
       "Comment": ""
     },
     {
       "Key": "Master of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "腐敗の達人",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Master of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "詐欺の達人",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Master Of War",
-      "Translation": "",
+      "Translation": "戦の達人",
       "Comment": ""
     },
     {
       "Key": "Loyal Serfs",
-      "Translation": "",
+      "Translation": "忠実な農奴",
       "Comment": ""
     },
     {
       "Key": "Avalon Marksmen",
-      "Translation": "",
+      "Translation": "アヴァロンの狙撃兵",
       "Comment": ""
     },
     {
       "Key": "Greater Vengeance",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大復讐",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Protection",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "大保護",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Bodkin Arrows",
-      "Translation": "",
+      "Translation": "徹甲矢",
       "Comment": ""
     },
     {
       "Key": "Serrated Arrows",
-      "Translation": "",
+      "Translation": "鋸歯の矢",
       "Comment": ""
     },
     {
       "Key": "Splitting Arrow",
-      "Translation": "",
+      "Translation": "分裂矢",
       "Comment": ""
     },
     {
       "Key": "Trueflight Arrows",
-      "Translation": "",
+      "Translation": "必中の矢",
       "Comment": ""
+    },
+    {
+      "Key": "Oath: Monsters",
+      "Translation": "誓い：モンスター",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Explosive Shells",
+      "Translation": "炸裂弾",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Oath: Ranged Units",
+      "Translation": "誓い：遠距離ユニット",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Oath: Cavalry",
+      "Translation": "誓い：騎兵",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Steed Mastery",
+      "Translation": "騎乗熟練",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Spear Mastery",
+      "Translation": "槍熟練",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Bow Mastery",
+      "Translation": "弓熟練",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "2 Hand Weapons",
+      "Translation": "片手武器×2",
+      "Comment": ""
+    },
+    {
+      "Key": "2x Pistols",
+      "Translation": "拳銃×2",
+      "Comment": ""
+    },
+    {
+      "Key": "Aerodynamic Hull",
+      "Translation": "流線型船体",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Expanded Howdah",
+      "Translation": "拡張ハウダ",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Flaming Ammunition",
+      "Translation": "火炎弾",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Forest Spirits Aid",
+      "Translation": "森の精霊の加護",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Lady's Blessing",
+      "Translation": "貴婦人の祝福",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Lethal Strikes",
+      "Translation": "致命的な一撃",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Pavise",
+      "Translation": "パヴィス",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Plated Barding",
+      "Translation": "板金馬鎧",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Potent Mixture",
+      "Translation": "強力な調合薬",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Rally the Tribes",
+      "Translation": "部族を集結させる",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Scythed Wheels",
+      "Translation": "鎌付き車輪",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Shield Wall",
+      "Translation": "盾の壁",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Terror",
+      "Translation": "恐怖",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "VolatileAmmo",
+      "Translation": "不安定な弾薬",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     }
   ]
 }

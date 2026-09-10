@@ -263,7 +263,7 @@
     },
     {
       "Key": "Heart Seeker",
-      "Translation": "Buscador de Corazones",
+      "Translation": "Buscacorazones",
       "Comment": ""
     },
     {
@@ -573,7 +573,7 @@
     },
     {
       "Key": "Doom Bell",
-      "Translation": "Campana de Perdición",
+      "Translation": "Campana de la Perdición",
       "Comment": ""
     },
     {
@@ -658,7 +658,7 @@
     },
     {
       "Key": "Lord of Decay",
-      "Translation": "Señor de la Descomposición",
+      "Translation": "Señor de la Decadencia",
       "Comment": ""
     },
     {
@@ -677,273 +677,33 @@
       "Comment": ""
     },
     {
-      "Key": "Fey Enchantment",
-      "Translation": "Encantamiento de Hadas",
+      "Key": "Fey",
+      "Translation": "Feérico",
       "Comment": ""
     },
     {
-      "Key": "Silver Tongue",
-      "Translation": "Lengua Plateada",
+      "Key": "Aura of Protection",
+      "Translation": "Aura de Protección",
       "Comment": ""
     },
     {
-      "Key": "Fey Armor",
-      "Translation": "Armadura de Hadas",
+      "Key": "Holy Blade",
+      "Translation": "Hoja Sagrada",
       "Comment": ""
     },
     {
-      "Key": "Piercers",
-      "Translation": "Perforadores",
+      "Key": "Aura of Vengeance",
+      "Translation": "Aura de Venganza",
       "Comment": ""
     },
     {
-      "Key": "Savage Riders",
-      "Translation": "Jinetes Salvajes",
+      "Key": "Lance+Shield",
+      "Translation": "Lanza+Escudo",
       "Comment": ""
     },
     {
-      "Key": "Elemental Strike",
-      "Translation": "Golpe Elemental",
-      "Comment": ""
-    },
-    {
-      "Key": "Elemental Armor",
-      "Translation": "Armadura Elemental",
-      "Comment": ""
-    },
-    {
-      "Key": "Strength Of Earth",
-      "Translation": "Fuerza de la Tierra",
-      "Comment": ""
-    },
-    {
-      "Key": "Undead Vigor",
-      "Translation": "Vigor No-Muerto",
-      "Comment": ""
-    },
-    {
-      "Key": "Cold Touch",
-      "Translation": "Toque Frío",
-      "Comment": ""
-    },
-    {
-      "Key": "Spirit",
-      "Translation": "Espíritu",
-      "Comment": ""
-    },
-    {
-      "Key": "Ethereal Form",
-      "Translation": "Forma Etérea",
-      "Comment": ""
-    },
-    {
-      "Key": "Phase Shift",
-      "Translation": "Desplazamiento de Fase",
-      "Comment": ""
-    },
-    {
-      "Key": "Spectral Armor",
-      "Translation": "Armadura Espectral",
-      "Comment": ""
-    },
-    {
-      "Key": "Spell Eater",
-      "Translation": "Devorador de Hechizos",
-      "Comment": ""
-    },
-    {
-      "Key": "Void Armor",
-      "Translation": "Armadura del Vacío",
-      "Comment": ""
-    },
-    {
-      "Key": "Void Bolt",
-      "Translation": "Rayo del Vacío",
-      "Comment": ""
-    },
-    {
-      "Key": "Void Touched",
-      "Translation": "Tocado por el Vacío",
-      "Comment": ""
-    },
-    {
-      "Key": "Void Step",
-      "Translation": "Paso del Vacío",
-      "Comment": ""
-    },
-    {
-      "Key": "Dimensional Rift",
-      "Translation": "Grieta Dimensional",
-      "Comment": ""
-    },
-    {
-      "Key": "Storm Form",
-      "Translation": "Forma de Tormenta",
-      "Comment": ""
-    },
-    {
-      "Key": "Lightning Bolt",
-      "Translation": "Rayo de Rayo",
-      "Comment": ""
-    },
-    {
-      "Key": "Electric Shield",
-      "Translation": "Escudo Eléctrico",
-      "Comment": ""
-    },
-    {
-      "Key": "Gravity Well",
-      "Translation": "Pozo de Gravedad",
-      "Comment": ""
-    },
-    {
-      "Key": "Sand Armor",
-      "Translation": "Armadura de Arena",
-      "Comment": ""
-    },
-    {
-      "Key": "Sand Storm",
-      "Translation": "Tormenta de Arena",
-      "Comment": ""
-    },
-    {
-      "Key": "Sand Blast",
-      "Translation": "Ráfaga de Arena",
-      "Comment": ""
-    },
-    {
-      "Key": "Nature's Wrath",
-      "Translation": "Ira de la Naturaleza",
-      "Comment": ""
-    },
-    {
-      "Key": "Nature's Blessing",
-      "Translation": "Bendición de la Naturaleza",
-      "Comment": ""
-    },
-    {
-      "Key": "Nature's Thorns",
-      "Translation": "Espinas de la Naturaleza",
-      "Comment": ""
-    },
-    {
-      "Key": "Shattered",
-      "Translation": "Hecho Pedazos",
-      "Comment": ""
-    },
-    {
-      "Key": "Stone Armor",
-      "Translation": "Armadura de Piedra",
-      "Comment": ""
-    },
-    {
-      "Key": "Stone Skin",
-      "Translation": "Piel de Piedra",
-      "Comment": ""
-    },
-    {
-      "Key": "Rock Slide",
-      "Translation": "Alud de Rocas",
-      "Comment": ""
-    },
-    {
-      "Key": "Aquatic Form",
-      "Translation": "Forma Acuática",
-      "Comment": ""
-    },
-    {
-      "Key": "Aquatic Breathing",
-      "Translation": "Respiración Acuática",
-      "Comment": ""
-    },
-    {
-      "Key": "Water Armor",
-      "Translation": "Armadura de Agua",
-      "Comment": ""
-    },
-    {
-      "Key": "Crystal Shield",
-      "Translation": "Escudo de Cristal",
-      "Comment": ""
-    },
-    {
-      "Key": "Ice",
-      "Translation": "Hielo",
-      "Comment": ""
-    },
-    {
-      "Key": "Ice Armor",
-      "Translation": "Armadura de Hielo",
-      "Comment": ""
-    },
-    {
-      "Key": "Immolate",
-      "Translation": "Inmolación",
-      "Comment": ""
-    },
-    {
-      "Key": "Magma Armor",
-      "Translation": "Armadura de Magma",
-      "Comment": ""
-    },
-    {
-      "Key": "Magma Pool",
-      "Translation": "Charco de Magma",
-      "Comment": ""
-    },
-    {
-      "Key": "Smoke Cloud",
-      "Translation": "Nube de Humo",
-      "Comment": ""
-    },
-    {
-      "Key": "Smoke Bomb",
-      "Translation": "Bomba de Humo",
-      "Comment": ""
-    },
-    {
-      "Key": "Wind Spirit",
-      "Translation": "Espíritu del Viento",
-      "Comment": ""
-    },
-    {
-      "Key": "Wind Armor",
-      "Translation": "Armadura de Viento",
-      "Comment": ""
-    },
-    {
-      "Key": "Haste",
-      "Translation": "Rapidez",
-      "Comment": ""
-    },
-    {
-      "Key": "Wind Blast",
-      "Translation": "Ráfaga de Viento",
-      "Comment": ""
-    },
-    {
-      "Key": "Metal Skin",
-      "Translation": "Piel de Metal",
-      "Comment": ""
-    },
-    {
-      "Key": "Metal Armor",
-      "Translation": "Armadura de Metal",
-      "Comment": ""
-    },
-    {
-      "Key": "Metal Storm",
-      "Translation": "Tormenta de Metal",
-      "Comment": ""
-    },
-    {
-      "Key": "Quicksand",
-      "Translation": "Arenas Movedizas",
-      "Comment": ""
-    },
-    {
-      "Key": "Divine Cleansing",
-      "Translation": "Purificación Divina",
+      "Key": "Dark Gift",
+      "Translation": "Don Oscuro",
       "Comment": ""
     },
     {
@@ -952,804 +712,524 @@
       "Comment": ""
     },
     {
-      "Key": "Holy Smite",
-      "Translation": "Golpe Sagrado",
-      "Comment": ""
-    },
-    {
-      "Key": "Shadow Cloak",
-      "Translation": "Capa de Sombra",
-      "Comment": ""
-    },
-    {
-      "Key": "Shadow Strike",
-      "Translation": "Golpe de Sombra",
-      "Comment": ""
-    },
-    {
-      "Key": "Darkness",
-      "Translation": "Oscuridad",
-      "Comment": ""
-    },
-    {
-      "Key": "Necrotic Touch",
-      "Translation": "Toque Necrótico",
-      "Comment": ""
-    },
-    {
-      "Key": "Necrotic Aura",
-      "Translation": "Aura Necrótica",
-      "Comment": ""
-    },
-    {
-      "Key": "Death Curse",
-      "Translation": "Maldición de Muerte",
-      "Comment": ""
-    },
-    {
-      "Key": "Unholy Touch",
-      "Translation": "Toque Profano",
-      "Comment": ""
-    },
-    {
-      "Key": "Unholy Aura",
-      "Translation": "Aura Profana",
-      "Comment": ""
-    },
-    {
-      "Key": "Sacrifice",
-      "Translation": "Sacrificio",
-      "Comment": ""
-    },
-    {
-      "Key": "Holy Aura",
-      "Translation": "Aura Sagrada",
-      "Comment": ""
-    },
-    {
-      "Key": "Blessed Armor",
-      "Translation": "Armadura Bendita",
-      "Comment": ""
-    },
-    {
-      "Key": "Holy Strike",
-      "Translation": "Golpe Sagrado",
-      "Comment": ""
-    },
-    {
-      "Key": "Psychic Scream",
-      "Translation": "Grito Psíquico",
-      "Comment": ""
-    },
-    {
-      "Key": "Psychic Shield",
-      "Translation": "Escudo Psíquico",
-      "Comment": ""
-    },
-    {
-      "Key": "Telepathy",
-      "Translation": "Telepatía",
-      "Comment": ""
-    },
-    {
-      "Key": "Charm",
-      "Translation": "Encantamiento",
-      "Comment": ""
-    },
-    {
-      "Key": "Mental Link",
-      "Translation": "Vínculo Mental",
-      "Comment": ""
-    },
-    {
-      "Key": "Mind Control",
-      "Translation": "Control Mental",
-      "Comment": ""
-    },
-    {
-      "Key": "Illusion",
-      "Translation": "Ilusión",
-      "Comment": ""
-    },
-    {
-      "Key": "Mirage",
-      "Translation": "Espejismo",
-      "Comment": ""
-    },
-    {
-      "Key": "Invisibility",
-      "Translation": "Invisibilidad",
-      "Comment": ""
-    },
-    {
-      "Key": "Teleport",
-      "Translation": "Teletransporte",
-      "Comment": ""
-    },
-    {
-      "Key": "Time Warp",
-      "Translation": "Distorsión Temporal",
-      "Comment": ""
-    },
-    {
-      "Key": "Haste Spell",
-      "Translation": "Hechizo de Rapidez",
-      "Comment": ""
-    },
-    {
-      "Key": "Slow",
-      "Translation": "Lentitud",
-      "Comment": ""
-    },
-    {
-      "Key": "Freeze",
-      "Translation": "Congelación",
-      "Comment": ""
-    },
-    {
-      "Key": "Stun",
-      "Translation": "Atordimiento",
-      "Comment": ""
-    },
-    {
-      "Key": "Paralyze",
-      "Translation": "Parálisis",
-      "Comment": ""
-    },
-    {
-      "Key": "Petrify",
-      "Translation": "Petrificación",
-      "Comment": ""
-    },
-    {
-      "Key": "Blind",
-      "Translation": "Ceguera",
-      "Comment": ""
-    },
-    {
-      "Key": "Silence",
-      "Translation": "Silencio",
-      "Comment": ""
-    },
-    {
-      "Key": "Deafen",
-      "Translation": "Sordera",
-      "Comment": ""
-    },
-    {
-      "Key": "Confusion",
-      "Translation": "Confusión",
-      "Comment": ""
-    },
-    {
-      "Key": "Fear",
-      "Translation": "Miedo",
-      "Comment": ""
-    },
-    {
-      "Key": "Panic",
-      "Translation": "Pánico",
-      "Comment": ""
-    },
-    {
-      "Key": "Charm Spell",
-      "Translation": "Hechizo de Encantamiento",
-      "Comment": ""
-    },
-    {
-      "Key": "Dominate",
-      "Translation": "Dominar",
-      "Comment": ""
-    },
-    {
-      "Key": "Enslave",
-      "Translation": "Esclavizar",
-      "Comment": ""
-    },
-    {
-      "Key": "Geas",
-      "Translation": "Geasa",
-      "Comment": ""
-    },
-    {
-      "Key": "Curse",
-      "Translation": "Maldición",
-      "Comment": ""
-    },
-    {
-      "Key": "Bless",
-      "Translation": "Bendición",
-      "Comment": ""
-    },
-    {
-      "Key": "Enhance",
-      "Translation": "Mejora",
-      "Comment": ""
-    },
-    {
-      "Key": "Buff",
-      "Translation": "Refuerzo",
-      "Comment": ""
-    },
-    {
-      "Key": "Debuff",
-      "Translation": "Debilitamiento",
-      "Comment": ""
-    },
-    {
-      "Key": "Weakness",
-      "Translation": "Debilidad",
-      "Comment": ""
-    },
-    {
-      "Key": "Vulnerability",
-      "Translation": "Vulnerabilidad",
-      "Comment": ""
-    },
-    {
-      "Key": "Fragile",
-      "Translation": "Frágil",
-      "Comment": ""
-    },
-    {
-      "Key": "Brittle",
-      "Translation": "Quebradizo",
-      "Comment": ""
-    },
-    {
-      "Key": "Decay",
-      "Translation": "Descomposición",
-      "Comment": ""
-    },
-    {
-      "Key": "Corruption",
-      "Translation": "Corrupción",
-      "Comment": ""
-    },
-    {
-      "Key": "Taint",
-      "Translation": "Mancilla",
-      "Comment": ""
-    },
-    {
-      "Key": "Mutation",
-      "Translation": "Mutación",
-      "Comment": ""
-    },
-    {
-      "Key": "Transform",
-      "Translation": "Transformación",
-      "Comment": ""
-    },
-    {
-      "Key": "Shapeshift",
-      "Translation": "Cambio de Forma",
-      "Comment": ""
-    },
-    {
-      "Key": "Polymorph",
-      "Translation": "Polimorfismo",
-      "Comment": ""
-    },
-    {
-      "Key": "Hybrid",
-      "Translation": "Híbrido",
-      "Comment": ""
-    },
-    {
-      "Key": "Beast Form",
-      "Translation": "Forma de Bestia",
-      "Comment": ""
-    },
-    {
-      "Key": "Dragon Form",
-      "Translation": "Forma de Dragón",
-      "Comment": ""
-    },
-    {
-      "Key": "Titan Form",
-      "Translation": "Forma de Titán",
-      "Comment": ""
-    },
-    {
-      "Key": "Giant Form",
-      "Translation": "Forma de Gigante",
-      "Comment": ""
-    },
-    {
-      "Key": "Improved",
-      "Translation": "Mejorado",
-      "Comment": ""
-    },
-    {
-      "Key": "Enhanced",
-      "Translation": "Potenciado",
-      "Comment": ""
-    },
-    {
-      "Key": "Superior",
-      "Translation": "Superior",
-      "Comment": ""
-    },
-    {
-      "Key": "Perfect",
-      "Translation": "Perfecto",
-      "Comment": ""
-    },
-    {
-      "Key": "Legendary",
-      "Translation": "Legendario",
-      "Comment": ""
-    },
-    {
-      "Key": "Mythical",
-      "Translation": "Mítico",
-      "Comment": ""
-    },
-    {
-      "Key": "Ancient",
-      "Translation": "Antiguo",
-      "Comment": ""
-    },
-    {
-      "Key": "Eternal",
-      "Translation": "Eterno",
-      "Comment": ""
-    },
-    {
-      "Key": "Timeless",
-      "Translation": "Atemporal",
-      "Comment": ""
-    },
-    {
-      "Key": "Primordial",
-      "Translation": "Primordial",
-      "Comment": ""
-    },
-    {
-      "Key": "Fey",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "Aura of Protection",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "Holy Blade",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "Aura of Vengeance",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "2 Hand Weapons",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "2x Pistols",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "Lance+Shield",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "Dark Gift",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
       "Key": "Battle Hardened",
-      "Translation": "",
+      "Translation": "Curtido en Batalla",
       "Comment": ""
     },
     {
       "Key": "Marksman",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Tirador de Precisión",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Spell Power",
-      "Translation": "",
+      "Translation": "Poder de Hechizo",
       "Comment": ""
     },
     {
       "Key": "Spell Weaver",
-      "Translation": "",
+      "Translation": "Tejedor de Hechizos",
       "Comment": ""
     },
     {
       "Key": "Offensive Mastery",
-      "Translation": "",
+      "Translation": "Maestría Ofensiva",
       "Comment": ""
     },
     {
       "Key": "Veteran Crew",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Tripulación Veterana",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Veteran Discipline",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Disciplina Veterana",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Veteran Accuracy",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Precisión Veterana",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Veteran Skill",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Habilidad Veterana",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Demonic Discipline",
-      "Translation": "",
+      "Translation": "Disciplina Demoníaca",
       "Comment": ""
     },
     {
       "Key": "Demonic Fury",
-      "Translation": "",
+      "Translation": "Furia Demoníaca",
       "Comment": ""
     },
     {
       "Key": "Demonic Power",
-      "Translation": "",
+      "Translation": "Poder Demoníaco",
       "Comment": ""
     },
     {
       "Key": "Demonic Resilience",
-      "Translation": "",
+      "Translation": "Resistencia Demoníaca",
       "Comment": ""
     },
     {
       "Key": "Demonic Skill",
-      "Translation": "",
+      "Translation": "Habilidad Demoníaca",
       "Comment": ""
     },
     {
       "Key": "Demonic Defense",
-      "Translation": "",
+      "Translation": "Defensa Demoníaca",
       "Comment": ""
     },
     {
       "Key": "Sword Of Ruin",
-      "Translation": "",
+      "Translation": "Espada de la Ruina",
       "Comment": ""
     },
     {
       "Key": "Cloak Of Shadows",
-      "Translation": "",
+      "Translation": "Capa de Sombras",
       "Comment": ""
     },
     {
       "Key": "Horn Of Discord",
-      "Translation": "",
+      "Translation": "Cuerno de la Discordia",
       "Comment": ""
     },
     {
       "Key": "Veteran Marksmen",
-      "Translation": "",
+      "Translation": "Tiradores Veteranos",
       "Comment": ""
     },
     {
       "Key": "Oath Of Retribution",
-      "Translation": "",
+      "Translation": "Juramento de Retribución",
       "Comment": ""
     },
     {
       "Key": "Oath Of Reckoning",
-      "Translation": "",
+      "Translation": "Juramento de Ajuste de Cuentas",
       "Comment": ""
     },
     {
       "Key": "Oath Of Vengeance",
-      "Translation": "",
+      "Translation": "Juramento de Venganza",
       "Comment": ""
     },
     {
       "Key": "Ancestral Strength",
-      "Translation": "",
+      "Translation": "Fuerza Ancestral",
       "Comment": ""
     },
     {
       "Key": "Greater Blades",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Espadas Ardientes Mejoradas",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Favour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Favor Divino Mejorado",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Fireball",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Bola de Fuego Mejorada",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Fury",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Furia Primitiva Mejorada",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Raise",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Resurrección Mejorada",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Reanimate",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Reanimar Mejorado",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Regrowth",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Regeneración Mejorada",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Ruin",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Ruina Mejorada",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Shadowbolt",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Rayo de Sombra Mejorado",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Shield",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Escudo Radiante Mejorado",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Vigour",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Vigor Profano Mejorado",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Web",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Red Arcana Mejorada",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Wildform",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Forma Salvaje Mejorada",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Thousand Maws",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mil Fauces Mejoradas",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Rune Of Farsight",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Runa de Visión Lejana",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Rune Of Flame",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Runa de Fuego",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Rune Of Resilience",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Runa de Resiliencia",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Rune Of Speed",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Runa de Velocidad",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Imperial Elites",
-      "Translation": "",
+      "Translation": "Élites Imperiales",
       "Comment": ""
     },
     {
       "Key": "Imperial Veterans",
-      "Translation": "",
+      "Translation": "Veteranos Imperiales",
       "Comment": ""
     },
     {
       "Key": "Stronger Summons",
-      "Translation": "",
+      "Translation": "Invocaciones Más Fuertes",
       "Comment": ""
     },
     {
       "Key": "Extra Limb",
-      "Translation": "",
+      "Translation": "Miembro Adicional",
       "Comment": ""
     },
     {
       "Key": "Extra Limbs",
-      "Translation": "",
+      "Translation": "Miembros Adicionales",
       "Comment": ""
     },
     {
       "Key": "Grafted Wings",
-      "Translation": "",
+      "Translation": "Alas Injertadas",
       "Comment": ""
     },
     {
       "Key": "Necrotic Infusion",
-      "Translation": "",
+      "Translation": "Infusión Necrótica",
       "Comment": ""
     },
     {
       "Key": "Putrid Hide",
-      "Translation": "",
+      "Translation": "Piel Pútrida",
       "Comment": ""
     },
     {
       "Key": "Tunneling Claws",
-      "Translation": "",
+      "Translation": "Garras Excavadoras",
       "Comment": ""
     },
     {
       "Key": "Unnatural Size",
-      "Translation": "",
+      "Translation": "Tamaño Antinatural",
       "Comment": ""
     },
     {
       "Key": "Elf Bow Mastery",
-      "Translation": "",
+      "Translation": "Maestría Élfica con el Arco",
       "Comment": ""
     },
     {
       "Key": "Elf Spear Mastery",
-      "Translation": "",
+      "Translation": "Maestría Élfica con la Lanza",
       "Comment": ""
     },
     {
       "Key": "Elf Steed Mastery",
-      "Translation": "",
+      "Translation": "Maestría Élfica Ecuestre",
       "Comment": ""
     },
     {
       "Key": "Eagle Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspecto de Águila",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Jaguar Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspecto de Jaguar",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Raptor Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspecto de Raptor",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Salamander Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspecto de Salamandra",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Serpent Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspecto de Serpiente",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Turtle Aspect",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aspecto de Tortuga",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Backstabbers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Apuñaladores",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Bloodlust",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Sed de Sangre",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Tough As Nails",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Duro Como el Acero",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Warcry",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Grito de Guerra Mejorado",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Slavers",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Esclavistas",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Shroud",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Manto Mejorado",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Ward",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Protección Mejorada",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "War Gods Blessing",
-      "Translation": "",
+      "Translation": "Bendición del Dios de la Guerra",
       "Comment": ""
     },
     {
       "Key": "Blessing Of Decay",
-      "Translation": "",
+      "Translation": "Bendición de la Descomposición",
       "Comment": ""
     },
     {
       "Key": "Blessing Of Trickery",
-      "Translation": "",
+      "Translation": "Bendición del Engaño",
       "Comment": ""
     },
     {
       "Key": "Master of Decay",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maestro de la Decadencia",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Master of Trickery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maestro del Engaño",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Master Of War",
-      "Translation": "",
+      "Translation": "Maestro de la Guerra",
       "Comment": ""
     },
     {
       "Key": "Loyal Serfs",
-      "Translation": "",
+      "Translation": "Siervos Leales",
       "Comment": ""
     },
     {
       "Key": "Avalon Marksmen",
-      "Translation": "",
+      "Translation": "Tiradores de Avalon",
       "Comment": ""
     },
     {
       "Key": "Greater Vengeance",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Venganza Mejorada",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Greater Protection",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Protección Mejorada",
+      "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
       "Key": "Bodkin Arrows",
-      "Translation": "",
+      "Translation": "Flechas Perforantes",
       "Comment": ""
     },
     {
       "Key": "Serrated Arrows",
-      "Translation": "",
+      "Translation": "Flechas Dentadas",
       "Comment": ""
     },
     {
       "Key": "Splitting Arrow",
-      "Translation": "",
+      "Translation": "Flecha Divisoria",
       "Comment": ""
     },
     {
       "Key": "Trueflight Arrows",
-      "Translation": "",
+      "Translation": "Flechas Certeras",
       "Comment": ""
+    },
+    {
+      "Key": "Oath: Monsters",
+      "Translation": "Juramento: Monstruos",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Explosive Shells",
+      "Translation": "Proyectiles Explosivos",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Oath: Ranged Units",
+      "Translation": "Juramento: Unidades a Distancia",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Oath: Cavalry",
+      "Translation": "Juramento: Caballería",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Steed Mastery",
+      "Translation": "Maestría Ecuestre",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Spear Mastery",
+      "Translation": "Maestría con la Lanza",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Bow Mastery",
+      "Translation": "Maestría con el Arco",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "2 Hand Weapons",
+      "Translation": "2 Armas Manuales",
+      "Comment": ""
+    },
+    {
+      "Key": "2x Pistols",
+      "Translation": "2x Pistolas",
+      "Comment": ""
+    },
+    {
+      "Key": "Aerodynamic Hull",
+      "Translation": "Casco Aerodinámico",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Expanded Howdah",
+      "Translation": "Howdah Ampliado",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Flaming Ammunition",
+      "Translation": "Munición Incendiaria",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Forest Spirits Aid",
+      "Translation": "Ayuda de los Espíritus del Bosque",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Lady's Blessing",
+      "Translation": "Bendición de la Dama",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Lethal Strikes",
+      "Translation": "Golpes Letales",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Pavise",
+      "Translation": "Pavés",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Plated Barding",
+      "Translation": "Barda de Placas",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Potent Mixture",
+      "Translation": "Mezcla Potente",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Rally the Tribes",
+      "Translation": "Reunir a las Tribus",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Scythed Wheels",
+      "Translation": "Ruedas Guadañadas",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Shield Wall",
+      "Translation": "Muro de Escudos",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Terror",
+      "Translation": "Terror",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "VolatileAmmo",
+      "Translation": "Munición Inestable",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     }
   ]
 }

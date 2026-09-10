@@ -78,7 +78,7 @@
     },
     {
       "Key": "War Chief",
-      "Translation": "戦争司令官",
+      "Translation": "戦争指揮官",
       "Comment": "司令官 = war chief/commander. Tribal military leader."
     },
     {
@@ -90,6 +90,11 @@
       "Key": "Goblin King",
       "Translation": "ゴブリン王",
       "Comment": "王 = king. Grand title for greenskin faction leader."
+    },
+    {
+      "Key": "Goblin Flying Machine",
+      "Translation": "ゴブリン飛行機械",
+      "Comment": ""
     }
   ]
 }

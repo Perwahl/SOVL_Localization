@@ -7,21 +7,9 @@
       "Comment": "Steadfast - unwavering and resolute in battle"
     },
     {
-      "Key": "Passed {0} Break Tests.",
-      "Translation": "通过了{0}次精神检定。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "通过了{0}次精神检定。"
-    },
-    {
       "Key": "Dragon Slayer",
       "Translation": "龙杀手",
       "Comment": "Title for slaying dragons"
-    },
-    {
-      "Key": "Killed {0} dragons.",
-      "Translation": "击杀了{0}条龙。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "击杀了{0}条龙。"
     },
     {
       "Key": "Deadly",
@@ -29,21 +17,9 @@
       "Comment": "Combat title - deadly in battle"
     },
     {
-      "Key": "Killed {0} enemies in combat.",
-      "Translation": "在近战中击杀了{0}个敌人。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "在近战中击杀了{0}个敌人。"
-    },
-    {
       "Key": "Marksman",
-      "Translation": "神射手",
+      "Translation": "神枪手",
       "Comment": "Title for skilled ranged combatant"
-    },
-    {
-      "Key": "Killed {0} enemies with ranged weapons.",
-      "Translation": "用远程武器击杀了{0}个敌人。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "用远程武器击杀了{0}个敌人。"
     },
     {
       "Key": "Lucky",
@@ -51,21 +27,9 @@
       "Comment": "Lucky - blessed by fortune"
     },
     {
-      "Key": "Rolled {0} natural sixes ({1:P0} of all rolls).",
-      "Translation": "掷出了{0}个自然六点（占总掷骰的{1:P0}）。",
-      "Comment": "Higher tier lucky achievement",
-      "PluralOne": "掷出了{0}个自然的六点（占总掷骰的{1:P0}）。"
-    },
-    {
       "Key": "Scorer",
       "Translation": "得分者",
       "Comment": "Title for capturing objectives"
-    },
-    {
-      "Key": "Captured {0} objectives.",
-      "Translation": "夺取了{0}个目标。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "夺取了{0}个目标。"
     },
     {
       "Key": "Giant Slayer",
@@ -73,21 +37,9 @@
       "Comment": "Title for slaying giants"
     },
     {
-      "Key": "Killed {0} giants.",
-      "Translation": "击杀了{0}个巨人。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "击杀了{0}个巨人。"
-    },
-    {
       "Key": "Treefeller",
       "Translation": "树木杀手",
       "Comment": "Title for defeating tree creatures/monsters"
-    },
-    {
-      "Key": "Felled {0} tree monsters.",
-      "Translation": "砍倒了{0}个树木怪物。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "砍倒了{0}个树木怪物。"
     },
     {
       "Key": "Dino Hunter",
@@ -95,21 +47,9 @@
       "Comment": "Title for hunting dinosaurs"
     },
     {
-      "Key": "Killed {0} dinosaurs.",
-      "Translation": "击杀了{0}只恐龙。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "击杀了{0}只恐龙。"
-    },
-    {
       "Key": "Warmachine Hunter",
       "Translation": "战争机器猎人",
       "Comment": "Title for destroying war machines"
-    },
-    {
-      "Key": "Killed {0} warmachines.",
-      "Translation": "击杀了{0}台战争机器。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "击杀了{0}台战争机器。"
     },
     {
       "Key": "Demon Hunter",
@@ -117,32 +57,14 @@
       "Comment": "Title for hunting demons"
     },
     {
-      "Key": "Slain {0} greater demons.",
-      "Translation": "杀死了{0}个高阶恶魔。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "杀死了{0}个高阶恶魔。"
-    },
-    {
       "Key": "Duelist",
       "Translation": "决斗者",
       "Comment": "Title for combat expertise"
     },
     {
-      "Key": "Killed {0} Commanders.",
-      "Translation": "击杀了{0}个指挥官。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "击杀了{0}个指挥官。"
-    },
-    {
       "Key": "Spellslinger",
       "Translation": "法术投掷者",
       "Comment": "Title for spellcasting"
-    },
-    {
-      "Key": "Cast {0} spells.",
-      "Translation": "施放了{0}个法术。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "施放了{0}个法术。"
     },
     {
       "Key": "Coward",
@@ -158,12 +80,6 @@
       "Key": "Unlucky",
       "Translation": "不幸的",
       "Comment": "Unlucky - cursed by fate"
-    },
-    {
-      "Key": "Rolled {0} ones ({1:P0} of all rolls).",
-      "Translation": "掷出了{0}个一点（占总掷骰的{1:P0}）。",
-      "Comment": "Higher tier unlucky achievement",
-      "PluralOne": "掷出了{0}个一点（占总掷骰的{1:P0}）。"
     },
     {
       "Key": "Last Man Standing",
@@ -199,12 +115,6 @@
       "Key": "Flanker",
       "Translation": "侧翼突击者",
       "Comment": "Title for performing flank charges"
-    },
-    {
-      "Key": "Performed {0} flank/rear charges.",
-      "Translation": "执行了{0}次侧翼/后方冲锋。",
-      "Comment": "Higher tier achievement",
-      "PluralOne": "执行了{0}次侧翼/后方冲锋。"
     },
     {
       "Key": "Dragon Slayers",
@@ -265,6 +175,86 @@
       "Key": "Cursed!",
       "Translation": "被诅咒了！",
       "Comment": "Higher tier unlucky achievement - exclamation"
+    },
+    {
+      "Key": "Bloodthirsty!",
+      "Translation": "嗜血！",
+      "Comment": ""
+    },
+    {
+      "Key": "Passed {0} Break Tests.",
+      "Translation": "通过了{0}次精神检定。",
+      "Comment": "Higher tier achievement"
+    },
+    {
+      "Key": "Killed {0} dragons.",
+      "Translation": "击杀了{0}条龙。",
+      "Comment": "Higher tier achievement"
+    },
+    {
+      "Key": "Killed {0} enemies in combat.",
+      "Translation": "在近战中击杀了{0}个敌人。",
+      "Comment": "Higher tier achievement"
+    },
+    {
+      "Key": "Killed {0} enemies with ranged weapons.",
+      "Translation": "用远程武器击杀了{0}个敌人。",
+      "Comment": "Higher tier achievement"
+    },
+    {
+      "Key": "Rolled {0} natural sixes ({1:P0} of all rolls).",
+      "Translation": "掷出了{0}个自然六点（占总掷骰的{1:P0}）。",
+      "Comment": "Higher tier lucky achievement"
+    },
+    {
+      "Key": "Captured {0} objectives.",
+      "Translation": "夺取了{0}个目标。",
+      "Comment": "Higher tier achievement"
+    },
+    {
+      "Key": "Killed {0} giants.",
+      "Translation": "击杀了{0}个巨人。",
+      "Comment": "Higher tier achievement"
+    },
+    {
+      "Key": "Felled {0} tree monsters.",
+      "Translation": "砍倒了{0}个树木怪物。",
+      "Comment": "Higher tier achievement"
+    },
+    {
+      "Key": "Killed {0} dinosaurs.",
+      "Translation": "击杀了{0}只恐龙。",
+      "Comment": "Higher tier achievement"
+    },
+    {
+      "Key": "Killed {0} warmachines.",
+      "Translation": "击杀了{0}台战争机器。",
+      "Comment": "Higher tier achievement"
+    },
+    {
+      "Key": "Slain {0} greater demons.",
+      "Translation": "杀死了{0}个高阶恶魔。",
+      "Comment": "Higher tier achievement"
+    },
+    {
+      "Key": "Killed {0} Commanders.",
+      "Translation": "击杀了{0}个指挥官。",
+      "Comment": "Higher tier achievement"
+    },
+    {
+      "Key": "Cast {0} spells.",
+      "Translation": "施放了{0}个法术。",
+      "Comment": "Higher tier achievement"
+    },
+    {
+      "Key": "Rolled {0} ones ({1:P0} of all rolls).",
+      "Translation": "掷出了{0}个一点（占总掷骰的{1:P0}）。",
+      "Comment": "Higher tier unlucky achievement"
+    },
+    {
+      "Key": "Performed {0} flank/rear charges.",
+      "Translation": "执行了{0}次侧翼/后方冲锋。",
+      "Comment": "Higher tier achievement"
     }
   ]
 }
