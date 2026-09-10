@@ -950,8 +950,8 @@
     },
     {
       "Key": "Reanimated",
-      "Translation": "复活的",
-      "Comment": "Seeded from the existing translation in UnitProps:Reanimated. Confirm this is the term you want.",
+      "Translation": "复活",
+      "Comment": "Dropped the trailing 的 so the term matches inside compounds such as 复活单位; Chinese attributive 的 is supplied by the sentence, not carried by the term.",
       "Category": "property",
       "Consistency": "strict",
       "Definition": "-1 Movement. Never fails Discipline Tests.",

@@ -428,7 +428,7 @@
     },
     {
       "Key": "Unit rerolls 1s on Ranged Attack Rolls.",
-      "Translation": "La unidad reintenta 1s en tiradas de Ataque a Distancia.",
+      "Translation": "La unidad relanza 1s en tiradas de Ataque a Distancia.",
       "Comment": ""
     },
     {
@@ -483,12 +483,12 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Ranged Units",
-      "Translation": "Reintentar Ataques a Distancia y Combate contra Unidades a Distancia",
+      "Translation": "Relanzar Ataques a Distancia y Combate contra Unidades a Distancia",
       "Comment": ""
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Monsters.",
-      "Translation": "Reintentar Ataques a Distancia y Combate contra Monstruos.",
+      "Translation": "Relanzar Ataques a Distancia y Combate contra Monstruos.",
       "Comment": ""
     },
     {
@@ -548,7 +548,7 @@
     },
     {
       "Key": "Unit re-rolls failed Damage Saves",
-      "Translation": "La unidad reintenta Salvadas de Daño fallidas",
+      "Translation": "La unidad relanza Salvadas de Daño fallidas",
       "Comment": ""
     },
     {
@@ -663,7 +663,7 @@
     },
     {
       "Key": "Reroll missed Attack Rolls when attacking from Flank or Rear",
-      "Translation": "Reintentar tiradas de Ataque fallidas cuando ataca desde el Flanco o Retaguardia",
+      "Translation": "Relanzar tiradas de Ataque fallidas cuando ataca desde el Flanco o Retaguardia",
       "Comment": ""
     },
     {

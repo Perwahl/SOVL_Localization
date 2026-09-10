@@ -238,7 +238,7 @@
     },
     {
       "Key": "Reduce Crumble by 1. Regeneration (restore all lost wounds at end of turn).",
-      "Translation": "Reduis la déterioration de 1. Regeneration (restaure toutes les blessures à la fin du tour).",
+      "Translation": "Reduis la déterioration de 1. Régénération (restaure toutes les blessures à la fin du tour).",
       "Comment": ""
     },
     {
@@ -253,7 +253,7 @@
     },
     {
       "Key": "Target unit has -1 Skill and -1 Move Speed. Lasts until end of battle.",
-      "Translation": "L'unité ciblée a -1 Compétence and -1 Vitesse de Mouvement. Reste jusqu'à la fin de la Bataille.",
+      "Translation": "L'unité ciblée a -1 Compétence and -1 Vitesse de Déplacement. Reste jusqu'à la fin de la Bataille.",
       "Comment": ""
     },
     {
@@ -353,7 +353,7 @@
     },
     {
       "Key": "Favoured by Decay. +1 Wounds. -1 Move Speed.",
-      "Translation": "Favorisé par la Pourriture. +1 Blessure. -1 Move Speed.",
+      "Translation": "Favorisé par la Pourriture. +1 Blessure. -1 Vitesse de Déplacement.",
       "Comment": ""
     },
     {
@@ -578,7 +578,7 @@
     },
     {
       "Key": "Reduce Crumble rolls by 1. Increase Move Speed by 1. +3 Wounds",
-      "Translation": "Réduis le jet de Détérioration de 1. Augment la vitesse de Mouvement de 1. +3 Blessure",
+      "Translation": "Réduis le jet de Détérioration de 1. Augment la Vitesse de Déplacement de 1. +3 Blessure",
       "Comment": ""
     },
     {
@@ -588,7 +588,7 @@
     },
     {
       "Key": "Reduce Crumble rolls by 1. Increase Move Speed by 1.",
-      "Translation": "Réduit les jets de Détérioration de 1. Augmente la Vitesse de Mouvement de 1.",
+      "Translation": "Réduit les jets de Détérioration de 1. Augmente la Vitesse de Déplacement de 1.",
       "Comment": ""
     },
     {
@@ -603,7 +603,7 @@
     },
     {
       "Key": "Unit counts as Reanimated. (Never fails Discipline tests, loses D3 wounds on lost combat )+1 Defense,  -1 Move Speed.",
-      "Translation": "L'unité compte comme Réanimé. (Rate jamais les tests de Discipline, Perd D3 blessure durant les combats perdus )+1 Défence,  -1 vitesse de Mouvement.",
+      "Translation": "L'unité compte comme Réanimé. (Rate jamais les tests de Discipline, Perd D3 blessure durant les combats perdus )+1 Défence,  -1 Vitesse de Déplacement.",
       "Comment": ""
     },
     {
@@ -653,7 +653,7 @@
     },
     {
       "Key": "Regeneration. (restores all wounds at end of turn)",
-      "Translation": "Regeneration. (restaure toutes les blessures à la fin du tour)",
+      "Translation": "Régénération. (restaure toutes les blessures à la fin du tour)",
       "Comment": ""
     },
     {
@@ -708,7 +708,7 @@
     },
     {
       "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration.",
-      "Translation": "une fois par bataille, toute les unités amies avec le don de la Pourriture relancent les sauvegardes de dégâts ratées .\nRegeneration.",
+      "Translation": "une fois par bataille, toute les unités amies avec le don de la Pourriture relancent les sauvegardes de dégâts ratées .\nRégénération.",
       "Comment": ""
     },
     {
@@ -883,7 +883,7 @@
     },
     {
       "Key": "Reduce an enemy units Move Speed by 4. Range 12.",
-      "Translation": "Reduit la vitesse de Mouvement de 4 d'une unité ennemie. Portée 12.",
+      "Translation": "Reduit la Vitesse de Déplacement de 4 d'une unité ennemie. Portée 12.",
       "Comment": ""
     },
     {
@@ -903,7 +903,7 @@
     },
     {
       "Key": "Caster and retinue gains Flying and Move Speed 20 for one turn",
-      "Translation": "Le Lanceur et sa Suite gagnent Vol et vitesse de Mouvement 20 pour un tour",
+      "Translation": "Le Lanceur et sa Suite gagnent Vol et Vitesse de Déplacement 20 pour un tour",
       "Comment": ""
     },
     {

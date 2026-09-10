@@ -258,7 +258,7 @@
     },
     {
       "Key": "Unholy Vigour also lets the unit reroll missed Attack Rolls.",
-      "Translation": "Vigor Profano también permite reintentar tiradas de Ataque fallidas.",
+      "Translation": "Vigor Profano también permite relanzar tiradas de Ataque fallidas.",
       "Comment": ""
     },
     {
@@ -328,7 +328,7 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Monsters.",
-      "Translation": "Reintentar Ataques a Distancia y Combate contra Monstruos.",
+      "Translation": "Relanzar Ataques a Distancia y Combate contra Monstruos.",
       "Comment": ""
     },
     {
@@ -338,7 +338,7 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Ranged Units",
-      "Translation": "Reintentar Ataques a Distancia y Combate contra Unidades a Distancia",
+      "Translation": "Relanzar Ataques a Distancia y Combate contra Unidades a Distancia",
       "Comment": ""
     },
     {
@@ -348,7 +348,7 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "Reintentar Ataques a Distancia y Combate contra Caballería y Carros",
+      "Translation": "Relanzar Ataques a Distancia y Combate contra Caballería y Carros",
       "Comment": ""
     },
     {
@@ -368,7 +368,7 @@
     },
     {
       "Key": "Unit re-rolls failed Damage Saves",
-      "Translation": "La unidad reintenta Salvadas de Daño fallidas",
+      "Translation": "La unidad relanza Salvadas de Daño fallidas",
       "Comment": ""
     },
     {
@@ -408,7 +408,7 @@
     },
     {
       "Key": "Unit re-rolls missed Attack Rolls.",
-      "Translation": "La unidad reintenta tiradas de Ataque fallidas.",
+      "Translation": "La unidad relanza tiradas de Ataque fallidas.",
       "Comment": ""
     },
     {
@@ -478,7 +478,7 @@
     },
     {
       "Key": "Unit rerolls 1s on Ranged Attack Rolls.",
-      "Translation": "La unidad reintenta 1s en tiradas de Ataque a Distancia.",
+      "Translation": "La unidad relanza 1s en tiradas de Ataque a Distancia.",
       "Comment": ""
     },
     {
@@ -588,7 +588,7 @@
     },
     {
       "Key": "Unit re-rolls 1s on Damage Saves.",
-      "Translation": "La unidad reintenta 1s en Salvadas de Daño.",
+      "Translation": "La unidad relanza 1s en Salvadas de Daño.",
       "Comment": ""
     },
     {
@@ -648,7 +648,7 @@
     },
     {
       "Key": "Reroll missed Attack Rolls when attacking from Flank or Rear",
-      "Translation": "Reintentar tiradas de Ataque fallidas cuando ataca desde el Flanco o Retaguardia",
+      "Translation": "Relanzar tiradas de Ataque fallidas cuando ataca desde el Flanco o Retaguardia",
       "Comment": ""
     },
     {
@@ -678,7 +678,7 @@
     },
     {
       "Key": "Unit Rerolls 1s on Damage Saves",
-      "Translation": "La unidad reintenta 1s en Salvadas de Daño",
+      "Translation": "La unidad relanza 1s en Salvadas de Daño",
       "Comment": ""
     },
     {

@@ -783,7 +783,7 @@
     },
     {
       "Key": "Great Weapon <color=#B6F595>+1",
-      "Translation": "伟大武器<color=#B6F595>+1",
+      "Translation": "巨型武器<color=#B6F595>+1",
       "Comment": "Equipment bonus"
     },
     {
@@ -943,12 +943,12 @@
     },
     {
       "Key": "Greatweapon and Shield, ",
-      "Translation": "伟大武器和盾牌， ",
+      "Translation": "巨型武器和盾牌， ",
       "Comment": "Equipment combination"
     },
     {
       "Key": "Greatweapon +1",
-      "Translation": "伟大武器+1",
+      "Translation": "巨型武器+1",
       "Comment": "Equipment bonus"
     },
     {

@@ -428,7 +428,7 @@
     },
     {
       "Key": "Unit rerolls 1s on Ranged Attack Rolls.",
-      "Translation": "L'unità ripete i 1 nei Tiri Attacco a Distanza.",
+      "Translation": "L'unità rilancia i 1 nei Tiri Attacco a Distanza.",
       "Comment": ""
     },
     {
@@ -483,12 +483,12 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Ranged Units",
-      "Translation": "Ripeti gli Attacchi a Distanza e da Combattimento contro Unità a Distanza",
+      "Translation": "Rilancia gli Attacchi a Distanza e da Combattimento contro Unità a Distanza",
       "Comment": ""
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Monsters.",
-      "Translation": "Ripeti gli Attacchi a Distanza e da Combattimento contro Mostri.",
+      "Translation": "Rilancia gli Attacchi a Distanza e da Combattimento contro Mostri.",
       "Comment": ""
     },
     {
@@ -548,7 +548,7 @@
     },
     {
       "Key": "Unit re-rolls failed Damage Saves",
-      "Translation": "L'unità ripete i Tiri Salvezza da Danno falliti",
+      "Translation": "L'unità rilancia i Tiri Salvezza da Danno falliti",
       "Comment": ""
     },
     {
@@ -663,7 +663,7 @@
     },
     {
       "Key": "Reroll missed Attack Rolls when attacking from Flank or Rear",
-      "Translation": "Ripeti gli Attacchi falliti quando attacchi dal Fianco o da Dietro",
+      "Translation": "Rilancia gli Attacchi falliti quando attacchi dal Fianco o da Dietro",
       "Comment": ""
     },
     {
