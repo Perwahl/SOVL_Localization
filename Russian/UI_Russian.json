@@ -969,7 +969,7 @@
     },
     {
       "Key": "Goblin Wolf Riders",
-      "Translation": "Гоблины верховые волков",
+      "Translation": "Волчьи всадники гоблинов",
       "Comment": "Consistent with faction translations"
     },
     {
@@ -1234,7 +1234,7 @@
     },
     {
       "Key": "Dwarf Engineer",
-      "Translation": "Дварфийский инженер",
+      "Translation": "Инженер",
       "Comment": "Consistent with faction translations"
     },
     {
@@ -1274,7 +1274,7 @@
     },
     {
       "Key": "Imperial Sword",
-      "Translation": "Имперский меч",
+      "Translation": "Имперский Мечник",
       "Comment": "Item name"
     },
     {
@@ -1419,7 +1419,7 @@
     },
     {
       "Key": "Dwarf Berserkers",
-      "Translation": "Дварфийские берсеркеры",
+      "Translation": "Берсерки",
       "Comment": "Unit name - consistent with faction translations"
     },
     {
@@ -1464,7 +1464,7 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "Переброс дальнобойных и боевых атак против кавалерии и колесниц",
+      "Translation": "Переброс дальних и ближних атак против Кавалерии и Колесниц",
       "Comment": "Ability description"
     },
     {
@@ -1744,7 +1744,7 @@
     },
     {
       "Key": "Dwarf Cannon",
-      "Translation": "Дварфийская пушка",
+      "Translation": "Гномья Пушка",
       "Comment": "Unit name"
     },
     {

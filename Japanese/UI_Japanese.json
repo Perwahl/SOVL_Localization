@@ -963,7 +963,7 @@
     },
     {
       "Key": "Goblin Wolf Riders",
-      "Translation": "ゴブリンウルフライダー",
+      "Translation": "ゴブリン狼騎手",
       "Comment": "Unit name - faction unit"
     },
     {
@@ -1228,7 +1228,7 @@
     },
     {
       "Key": "Dwarf Engineer",
-      "Translation": "ドワーフエンジニア",
+      "Translation": "ドワーフ技師",
       "Comment": "Faction unit name"
     },
     {
@@ -1268,7 +1268,7 @@
     },
     {
       "Key": "Imperial Sword",
-      "Translation": "皇帝剣",
+      "Translation": "皇帝剣士",
       "Comment": "Weapon item name"
     },
     {
@@ -1413,7 +1413,7 @@
     },
     {
       "Key": "Dwarf Berserkers",
-      "Translation": "ドワーフバーサーカー",
+      "Translation": "ドワーフ狂戦士",
       "Comment": "Unit name - faction unit"
     },
     {
@@ -1458,7 +1458,7 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "騎兵と戦車に対する遠距離および近接攻撃を再ロール",
+      "Translation": "騎兵と戦車に対する遠距離攻撃と接近戦攻撃を再ロール",
       "Comment": "Ability description - game rules text"
     },
     {
@@ -1738,7 +1738,7 @@
     },
     {
       "Key": "Dwarf Cannon",
-      "Translation": "ドワーフキャノン",
+      "Translation": "ドワーフ砲",
       "Comment": "Unit name - faction weapon"
     },
     {

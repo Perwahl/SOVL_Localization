@@ -348,7 +348,7 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "对骑兵和战车重投远程和近战攻击",
+      "Translation": "对骑兵和战车重投远程攻击和近战攻击检定。",
       "Comment": "克制重骑兵单位"
     },
     {

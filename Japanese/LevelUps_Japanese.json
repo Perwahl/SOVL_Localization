@@ -348,7 +348,7 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "騎兵と戦車に対する遠距離・接近攻撃を再ロール。",
+      "Translation": "騎兵と戦車に対する遠距離攻撃と接近戦攻撃を再ロール",
       "Comment": "Anti-mounted unit bonus, reroll mechanic"
     },
     {

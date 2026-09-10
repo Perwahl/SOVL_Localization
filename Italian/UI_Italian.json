@@ -965,7 +965,7 @@
     },
     {
       "Key": "Goblin Wolf Riders",
-      "Translation": "Cavalieri Lupo Goblin",
+      "Translation": "Cavalieri di Lupo Goblin",
       "Comment": "Unit name - combines creature type with rider term."
     },
     {
@@ -1270,7 +1270,7 @@
     },
     {
       "Key": "Imperial Sword",
-      "Translation": "Spada Imperiale",
+      "Translation": "Spadaccino Imperiale",
       "Comment": "Item name"
     },
     {
@@ -1415,7 +1415,7 @@
     },
     {
       "Key": "Dwarf Berserkers",
-      "Translation": "Guerrieri Frenetici Nani",
+      "Translation": "Berserk Nani",
       "Comment": "Unit name - consistent with faction translations"
     },
     {
@@ -1460,7 +1460,7 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "Rilancia Attacchi a Distanza e di Combattimento contro Cavalleria e Carri",
+      "Translation": "Rilancia Attacchi a Distanza e da Combattimento contro Cavalleria e Carri da Guerra",
       "Comment": "Ability description"
     },
     {

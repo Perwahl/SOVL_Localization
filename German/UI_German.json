@@ -1270,7 +1270,7 @@
     },
     {
       "Key": "Imperial Sword",
-      "Translation": "Kaiserliches Schwert",
+      "Translation": "Kaiserliche Schwertkämpfer",
       "Comment": "Item name"
     },
     {
@@ -1460,7 +1460,7 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "Wiederhole Fernkampf- und Kampfangriffe gegen Kavallerie und Streitwagen",
+      "Translation": "Fernkampf- und Nahkampfangriffe gegen Kavallerie und Streitwagen erneut würfeln",
       "Comment": "Ability description"
     },
     {

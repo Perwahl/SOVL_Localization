@@ -965,7 +965,7 @@
     },
     {
       "Key": "Goblin Wolf Riders",
-      "Translation": "Cavaliers gobelins sur loup",
+      "Translation": "Chevaucheurs de Loups Gobelins",
       "Comment": "Consistent with faction translations"
     },
     {
@@ -1230,7 +1230,7 @@
     },
     {
       "Key": "Dwarf Engineer",
-      "Translation": "Ingénieur nain",
+      "Translation": "Ingénieur Nain",
       "Comment": "Consistent with faction translations"
     },
     {
@@ -1270,7 +1270,7 @@
     },
     {
       "Key": "Imperial Sword",
-      "Translation": "Épée impériale",
+      "Translation": "Épéistes Impériaux",
       "Comment": "Item name"
     },
     {
@@ -1415,7 +1415,7 @@
     },
     {
       "Key": "Dwarf Berserkers",
-      "Translation": "Berserkers nains",
+      "Translation": "Berserkers Nains",
       "Comment": "Unit name - consistent with faction translations"
     },
     {
@@ -1460,7 +1460,7 @@
     },
     {
       "Key": "Reroll Ranged and Combat Attacks against Cavalry and Chariots",
-      "Translation": "Relancez les attaques à distance et de combat contre la cavalerie et les chariots",
+      "Translation": "Relance les jets d'Attaques contre la Cavalerie et les Chariots",
       "Comment": "Ability description"
     },
     {
@@ -1740,7 +1740,7 @@
     },
     {
       "Key": "Dwarf Cannon",
-      "Translation": "Canon nain",
+      "Translation": "Canon Nain",
       "Comment": "Unit name"
     },
     {
