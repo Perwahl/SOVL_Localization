@@ -697,16 +697,6 @@
       "Comment": "Offensive battlefield effect; wrathful aura"
     },
     {
-      "Key": "2 Hand Weapons",
-      "Translation": "2 Armi da Mano",
-      "Comment": "Triple weapon loadout; notation matches game syntax"
-    },
-    {
-      "Key": "2x Pistols",
-      "Translation": "2x Pistole",
-      "Comment": "Triple pistol loadout; notation matches game syntax"
-    },
-    {
       "Key": "Lance+Shield",
       "Translation": "Lancia+Scudo",
       "Comment": "Combined equipment notation; game mechanics formatting"
@@ -1125,6 +1115,121 @@
       "Key": "Trueflight Arrows",
       "Translation": "Frecce di Volo Vero",
       "Comment": "Magical ammunition; unerring arrows"
+    },
+    {
+      "Key": "Oath: Monsters",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Explosive Shells",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Oath: Ranged Units",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Oath: Cavalry",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Steed Mastery",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Spear Mastery",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Bow Mastery",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "2 Hand Weapons",
+      "Translation": "2 Armi da Mano",
+      "Comment": "Triple weapon loadout; notation matches game syntax"
+    },
+    {
+      "Key": "2x Pistols",
+      "Translation": "2x Pistole",
+      "Comment": "Triple pistol loadout; notation matches game syntax"
+    },
+    {
+      "Key": "Aerodynamic Hull",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Expanded Howdah",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Flaming Ammunition",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Forest Spirits Aid",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Lady's Blessing",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Lethal Strikes",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Pavise",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Plated Barding",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Potent Mixture",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rally the Tribes",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Scythed Wheels",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Shield Wall",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Terror",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "VolatileAmmo",
+      "Translation": "",
+      "Comment": ""
     }
   ]
 }

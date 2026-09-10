@@ -677,636 +677,6 @@
       "Comment": ""
     },
     {
-      "Key": "Fey Enchantment",
-      "Translation": "Encantamiento de Hadas",
-      "Comment": ""
-    },
-    {
-      "Key": "Silver Tongue",
-      "Translation": "Lengua Plateada",
-      "Comment": ""
-    },
-    {
-      "Key": "Fey Armor",
-      "Translation": "Armadura de Hadas",
-      "Comment": ""
-    },
-    {
-      "Key": "Piercers",
-      "Translation": "Perforadores",
-      "Comment": ""
-    },
-    {
-      "Key": "Savage Riders",
-      "Translation": "Jinetes Salvajes",
-      "Comment": ""
-    },
-    {
-      "Key": "Elemental Strike",
-      "Translation": "Golpe Elemental",
-      "Comment": ""
-    },
-    {
-      "Key": "Elemental Armor",
-      "Translation": "Armadura Elemental",
-      "Comment": ""
-    },
-    {
-      "Key": "Strength Of Earth",
-      "Translation": "Fuerza de la Tierra",
-      "Comment": ""
-    },
-    {
-      "Key": "Undead Vigor",
-      "Translation": "Vigor No-Muerto",
-      "Comment": ""
-    },
-    {
-      "Key": "Cold Touch",
-      "Translation": "Toque Frío",
-      "Comment": ""
-    },
-    {
-      "Key": "Spirit",
-      "Translation": "Espíritu",
-      "Comment": ""
-    },
-    {
-      "Key": "Ethereal Form",
-      "Translation": "Forma Etérea",
-      "Comment": ""
-    },
-    {
-      "Key": "Phase Shift",
-      "Translation": "Desplazamiento de Fase",
-      "Comment": ""
-    },
-    {
-      "Key": "Spectral Armor",
-      "Translation": "Armadura Espectral",
-      "Comment": ""
-    },
-    {
-      "Key": "Spell Eater",
-      "Translation": "Devorador de Hechizos",
-      "Comment": ""
-    },
-    {
-      "Key": "Void Armor",
-      "Translation": "Armadura del Vacío",
-      "Comment": ""
-    },
-    {
-      "Key": "Void Bolt",
-      "Translation": "Rayo del Vacío",
-      "Comment": ""
-    },
-    {
-      "Key": "Void Touched",
-      "Translation": "Tocado por el Vacío",
-      "Comment": ""
-    },
-    {
-      "Key": "Void Step",
-      "Translation": "Paso del Vacío",
-      "Comment": ""
-    },
-    {
-      "Key": "Dimensional Rift",
-      "Translation": "Grieta Dimensional",
-      "Comment": ""
-    },
-    {
-      "Key": "Storm Form",
-      "Translation": "Forma de Tormenta",
-      "Comment": ""
-    },
-    {
-      "Key": "Lightning Bolt",
-      "Translation": "Rayo de Rayo",
-      "Comment": ""
-    },
-    {
-      "Key": "Electric Shield",
-      "Translation": "Escudo Eléctrico",
-      "Comment": ""
-    },
-    {
-      "Key": "Gravity Well",
-      "Translation": "Pozo de Gravedad",
-      "Comment": ""
-    },
-    {
-      "Key": "Sand Armor",
-      "Translation": "Armadura de Arena",
-      "Comment": ""
-    },
-    {
-      "Key": "Sand Storm",
-      "Translation": "Tormenta de Arena",
-      "Comment": ""
-    },
-    {
-      "Key": "Sand Blast",
-      "Translation": "Ráfaga de Arena",
-      "Comment": ""
-    },
-    {
-      "Key": "Nature's Wrath",
-      "Translation": "Ira de la Naturaleza",
-      "Comment": ""
-    },
-    {
-      "Key": "Nature's Blessing",
-      "Translation": "Bendición de la Naturaleza",
-      "Comment": ""
-    },
-    {
-      "Key": "Nature's Thorns",
-      "Translation": "Espinas de la Naturaleza",
-      "Comment": ""
-    },
-    {
-      "Key": "Shattered",
-      "Translation": "Hecho Pedazos",
-      "Comment": ""
-    },
-    {
-      "Key": "Stone Armor",
-      "Translation": "Armadura de Piedra",
-      "Comment": ""
-    },
-    {
-      "Key": "Stone Skin",
-      "Translation": "Piel de Piedra",
-      "Comment": ""
-    },
-    {
-      "Key": "Rock Slide",
-      "Translation": "Alud de Rocas",
-      "Comment": ""
-    },
-    {
-      "Key": "Aquatic Form",
-      "Translation": "Forma Acuática",
-      "Comment": ""
-    },
-    {
-      "Key": "Aquatic Breathing",
-      "Translation": "Respiración Acuática",
-      "Comment": ""
-    },
-    {
-      "Key": "Water Armor",
-      "Translation": "Armadura de Agua",
-      "Comment": ""
-    },
-    {
-      "Key": "Crystal Shield",
-      "Translation": "Escudo de Cristal",
-      "Comment": ""
-    },
-    {
-      "Key": "Ice",
-      "Translation": "Hielo",
-      "Comment": ""
-    },
-    {
-      "Key": "Ice Armor",
-      "Translation": "Armadura de Hielo",
-      "Comment": ""
-    },
-    {
-      "Key": "Immolate",
-      "Translation": "Inmolación",
-      "Comment": ""
-    },
-    {
-      "Key": "Magma Armor",
-      "Translation": "Armadura de Magma",
-      "Comment": ""
-    },
-    {
-      "Key": "Magma Pool",
-      "Translation": "Charco de Magma",
-      "Comment": ""
-    },
-    {
-      "Key": "Smoke Cloud",
-      "Translation": "Nube de Humo",
-      "Comment": ""
-    },
-    {
-      "Key": "Smoke Bomb",
-      "Translation": "Bomba de Humo",
-      "Comment": ""
-    },
-    {
-      "Key": "Wind Spirit",
-      "Translation": "Espíritu del Viento",
-      "Comment": ""
-    },
-    {
-      "Key": "Wind Armor",
-      "Translation": "Armadura de Viento",
-      "Comment": ""
-    },
-    {
-      "Key": "Haste",
-      "Translation": "Rapidez",
-      "Comment": ""
-    },
-    {
-      "Key": "Wind Blast",
-      "Translation": "Ráfaga de Viento",
-      "Comment": ""
-    },
-    {
-      "Key": "Metal Skin",
-      "Translation": "Piel de Metal",
-      "Comment": ""
-    },
-    {
-      "Key": "Metal Armor",
-      "Translation": "Armadura de Metal",
-      "Comment": ""
-    },
-    {
-      "Key": "Metal Storm",
-      "Translation": "Tormenta de Metal",
-      "Comment": ""
-    },
-    {
-      "Key": "Quicksand",
-      "Translation": "Arenas Movedizas",
-      "Comment": ""
-    },
-    {
-      "Key": "Divine Cleansing",
-      "Translation": "Purificación Divina",
-      "Comment": ""
-    },
-    {
-      "Key": "Divine Protection",
-      "Translation": "Protección Divina",
-      "Comment": ""
-    },
-    {
-      "Key": "Holy Smite",
-      "Translation": "Golpe Sagrado",
-      "Comment": ""
-    },
-    {
-      "Key": "Shadow Cloak",
-      "Translation": "Capa de Sombra",
-      "Comment": ""
-    },
-    {
-      "Key": "Shadow Strike",
-      "Translation": "Golpe de Sombra",
-      "Comment": ""
-    },
-    {
-      "Key": "Darkness",
-      "Translation": "Oscuridad",
-      "Comment": ""
-    },
-    {
-      "Key": "Necrotic Touch",
-      "Translation": "Toque Necrótico",
-      "Comment": ""
-    },
-    {
-      "Key": "Necrotic Aura",
-      "Translation": "Aura Necrótica",
-      "Comment": ""
-    },
-    {
-      "Key": "Death Curse",
-      "Translation": "Maldición de Muerte",
-      "Comment": ""
-    },
-    {
-      "Key": "Unholy Touch",
-      "Translation": "Toque Profano",
-      "Comment": ""
-    },
-    {
-      "Key": "Unholy Aura",
-      "Translation": "Aura Profana",
-      "Comment": ""
-    },
-    {
-      "Key": "Sacrifice",
-      "Translation": "Sacrificio",
-      "Comment": ""
-    },
-    {
-      "Key": "Holy Aura",
-      "Translation": "Aura Sagrada",
-      "Comment": ""
-    },
-    {
-      "Key": "Blessed Armor",
-      "Translation": "Armadura Bendita",
-      "Comment": ""
-    },
-    {
-      "Key": "Holy Strike",
-      "Translation": "Golpe Sagrado",
-      "Comment": ""
-    },
-    {
-      "Key": "Psychic Scream",
-      "Translation": "Grito Psíquico",
-      "Comment": ""
-    },
-    {
-      "Key": "Psychic Shield",
-      "Translation": "Escudo Psíquico",
-      "Comment": ""
-    },
-    {
-      "Key": "Telepathy",
-      "Translation": "Telepatía",
-      "Comment": ""
-    },
-    {
-      "Key": "Charm",
-      "Translation": "Encantamiento",
-      "Comment": ""
-    },
-    {
-      "Key": "Mental Link",
-      "Translation": "Vínculo Mental",
-      "Comment": ""
-    },
-    {
-      "Key": "Mind Control",
-      "Translation": "Control Mental",
-      "Comment": ""
-    },
-    {
-      "Key": "Illusion",
-      "Translation": "Ilusión",
-      "Comment": ""
-    },
-    {
-      "Key": "Mirage",
-      "Translation": "Espejismo",
-      "Comment": ""
-    },
-    {
-      "Key": "Invisibility",
-      "Translation": "Invisibilidad",
-      "Comment": ""
-    },
-    {
-      "Key": "Teleport",
-      "Translation": "Teletransporte",
-      "Comment": ""
-    },
-    {
-      "Key": "Time Warp",
-      "Translation": "Distorsión Temporal",
-      "Comment": ""
-    },
-    {
-      "Key": "Haste Spell",
-      "Translation": "Hechizo de Rapidez",
-      "Comment": ""
-    },
-    {
-      "Key": "Slow",
-      "Translation": "Lentitud",
-      "Comment": ""
-    },
-    {
-      "Key": "Freeze",
-      "Translation": "Congelación",
-      "Comment": ""
-    },
-    {
-      "Key": "Stun",
-      "Translation": "Atordimiento",
-      "Comment": ""
-    },
-    {
-      "Key": "Paralyze",
-      "Translation": "Parálisis",
-      "Comment": ""
-    },
-    {
-      "Key": "Petrify",
-      "Translation": "Petrificación",
-      "Comment": ""
-    },
-    {
-      "Key": "Blind",
-      "Translation": "Ceguera",
-      "Comment": ""
-    },
-    {
-      "Key": "Silence",
-      "Translation": "Silencio",
-      "Comment": ""
-    },
-    {
-      "Key": "Deafen",
-      "Translation": "Sordera",
-      "Comment": ""
-    },
-    {
-      "Key": "Confusion",
-      "Translation": "Confusión",
-      "Comment": ""
-    },
-    {
-      "Key": "Fear",
-      "Translation": "Miedo",
-      "Comment": ""
-    },
-    {
-      "Key": "Panic",
-      "Translation": "Pánico",
-      "Comment": ""
-    },
-    {
-      "Key": "Charm Spell",
-      "Translation": "Hechizo de Encantamiento",
-      "Comment": ""
-    },
-    {
-      "Key": "Dominate",
-      "Translation": "Dominar",
-      "Comment": ""
-    },
-    {
-      "Key": "Enslave",
-      "Translation": "Esclavizar",
-      "Comment": ""
-    },
-    {
-      "Key": "Geas",
-      "Translation": "Geasa",
-      "Comment": ""
-    },
-    {
-      "Key": "Curse",
-      "Translation": "Maldición",
-      "Comment": ""
-    },
-    {
-      "Key": "Bless",
-      "Translation": "Bendición",
-      "Comment": ""
-    },
-    {
-      "Key": "Enhance",
-      "Translation": "Mejora",
-      "Comment": ""
-    },
-    {
-      "Key": "Buff",
-      "Translation": "Refuerzo",
-      "Comment": ""
-    },
-    {
-      "Key": "Debuff",
-      "Translation": "Debilitamiento",
-      "Comment": ""
-    },
-    {
-      "Key": "Weakness",
-      "Translation": "Debilidad",
-      "Comment": ""
-    },
-    {
-      "Key": "Vulnerability",
-      "Translation": "Vulnerabilidad",
-      "Comment": ""
-    },
-    {
-      "Key": "Fragile",
-      "Translation": "Frágil",
-      "Comment": ""
-    },
-    {
-      "Key": "Brittle",
-      "Translation": "Quebradizo",
-      "Comment": ""
-    },
-    {
-      "Key": "Decay",
-      "Translation": "Descomposición",
-      "Comment": ""
-    },
-    {
-      "Key": "Corruption",
-      "Translation": "Corrupción",
-      "Comment": ""
-    },
-    {
-      "Key": "Taint",
-      "Translation": "Mancilla",
-      "Comment": ""
-    },
-    {
-      "Key": "Mutation",
-      "Translation": "Mutación",
-      "Comment": ""
-    },
-    {
-      "Key": "Transform",
-      "Translation": "Transformación",
-      "Comment": ""
-    },
-    {
-      "Key": "Shapeshift",
-      "Translation": "Cambio de Forma",
-      "Comment": ""
-    },
-    {
-      "Key": "Polymorph",
-      "Translation": "Polimorfismo",
-      "Comment": ""
-    },
-    {
-      "Key": "Hybrid",
-      "Translation": "Híbrido",
-      "Comment": ""
-    },
-    {
-      "Key": "Beast Form",
-      "Translation": "Forma de Bestia",
-      "Comment": ""
-    },
-    {
-      "Key": "Dragon Form",
-      "Translation": "Forma de Dragón",
-      "Comment": ""
-    },
-    {
-      "Key": "Titan Form",
-      "Translation": "Forma de Titán",
-      "Comment": ""
-    },
-    {
-      "Key": "Giant Form",
-      "Translation": "Forma de Gigante",
-      "Comment": ""
-    },
-    {
-      "Key": "Improved",
-      "Translation": "Mejorado",
-      "Comment": ""
-    },
-    {
-      "Key": "Enhanced",
-      "Translation": "Potenciado",
-      "Comment": ""
-    },
-    {
-      "Key": "Superior",
-      "Translation": "Superior",
-      "Comment": ""
-    },
-    {
-      "Key": "Perfect",
-      "Translation": "Perfecto",
-      "Comment": ""
-    },
-    {
-      "Key": "Legendary",
-      "Translation": "Legendario",
-      "Comment": ""
-    },
-    {
-      "Key": "Mythical",
-      "Translation": "Mítico",
-      "Comment": ""
-    },
-    {
-      "Key": "Ancient",
-      "Translation": "Antiguo",
-      "Comment": ""
-    },
-    {
-      "Key": "Eternal",
-      "Translation": "Eterno",
-      "Comment": ""
-    },
-    {
-      "Key": "Timeless",
-      "Translation": "Atemporal",
-      "Comment": ""
-    },
-    {
-      "Key": "Primordial",
-      "Translation": "Primordial",
-      "Comment": ""
-    },
-    {
       "Key": "Fey",
       "Translation": "",
       "Comment": ""
@@ -1327,16 +697,6 @@
       "Comment": ""
     },
     {
-      "Key": "2 Hand Weapons",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
-      "Key": "2x Pistols",
-      "Translation": "",
-      "Comment": ""
-    },
-    {
       "Key": "Lance+Shield",
       "Translation": "",
       "Comment": ""
@@ -1344,6 +704,11 @@
     {
       "Key": "Dark Gift",
       "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Divine Protection",
+      "Translation": "Protección Divina",
       "Comment": ""
     },
     {
@@ -1748,6 +1113,121 @@
     },
     {
       "Key": "Trueflight Arrows",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Oath: Monsters",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Explosive Shells",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Oath: Ranged Units",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Oath: Cavalry",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Steed Mastery",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Spear Mastery",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Bow Mastery",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "2 Hand Weapons",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "2x Pistols",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Aerodynamic Hull",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Expanded Howdah",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Flaming Ammunition",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Forest Spirits Aid",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Lady's Blessing",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Lethal Strikes",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Pavise",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Plated Barding",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Potent Mixture",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rally the Tribes",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Scythed Wheels",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Shield Wall",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Terror",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "VolatileAmmo",
       "Translation": "",
       "Comment": ""
     }
