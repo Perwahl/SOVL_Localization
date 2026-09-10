@@ -587,11 +587,6 @@
       "Comment": "Battle objective"
     },
     {
-      "Key": "- Survive for 6 Turns -",
-      "Translation": "- Выживайте 6 хода -",
-      "Comment": "Survival objective"
-    },
-    {
       "Key": "Unclaimed",
       "Translation": "Невзято",
       "Comment": "Objective marker status"
@@ -625,11 +620,6 @@
       "Key": "...but more challenges await",
       "Translation": "...но впереди ещё больше вызовов",
       "Comment": "Campaign continuation message"
-    },
-    {
-      "Key": "{0}pts",
-      "Translation": "{0} очк",
-      "Comment": "Points abbreviation - consistent with existing translations"
     },
     {
       "Key": "Opponent Disconnected",
@@ -677,14 +667,6 @@
       "Comment": "Campaign event - assassination"
     },
     {
-      "Key": "{0}% gold income",
-      "Translation": "{0}% золотого дохода",
-      "Comment": "Economy bonus",
-      "PluralOne": "{0}% золотого дохода",
-      "PluralFew": "{0}% золотого дохода",
-      "PluralMany": "{0}% золотого дохода"
-    },
-    {
       "Key": "Your regiment returns in the morning. But something has changed them...",
       "Translation": "Ваш полк возвращается с утра. Но что-то изменило их...",
       "Comment": "Campaign event - ominous tone"
@@ -730,26 +712,6 @@
       "Comment": "Enemy kill count"
     },
     {
-      "Key": "Win <size=80%><color=green>+",
-      "Translation": "Победа <size=80%><color=green>+",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
-      "Key": "Loss <size=80%>",
-      "Translation": "Поражение <size=80%>",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
-      "Key": "Total Points: <color=#9EFEFF>",
-      "Translation": "Всего очков: <color=#9EFEFF>",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
-      "Key": "Elo:  <color=#9EFEFF>",
-      "Translation": "Ело:  <color=#9EFEFF>",
-      "Comment": "Keep Elo as international rating term"
-    },
-    {
       "Key": "Restored 1 wound",
       "Translation": "Восстановлена 1 рана",
       "Comment": "Unit healing"
@@ -765,32 +727,9 @@
       "Comment": "Unit replenishment"
     },
     {
-      "Key": "Replenished 5 models",
-      "Translation": "Восполнены 5 модели",
-      "Comment": "Unit replenishment"
-    },
-    {
-      "Key": "{0} XP",
-      "Translation": "{0} ОП",
-      "Comment": "Experience Points",
-      "PluralOne": "{0} ОП",
-      "PluralFew": "{0} ОП",
-      "PluralMany": "{0} ОП"
-    },
-    {
-      "Key": "Defeated by <color=#FFDF7C>",
-      "Translation": "Поражение от <color=#FFDF7C>",
-      "Comment": "Campaign defeat message"
-    },
-    {
       "Key": "</color> in Act",
       "Translation": "</color> в Акте",
       "Comment": "Campaign act indicator"
-    },
-    {
-      "Key": "Great Weapon <color=#B6F595>+1",
-      "Translation": "Великое оружие <color=#B6F595>+1",
-      "Comment": "Weapon item"
     },
     {
       "Key": "Menu",
@@ -958,11 +897,6 @@
       "Comment": "Enchanted weapon"
     },
     {
-      "Key": "2 Units",
-      "Translation": "2 отряда",
-      "Comment": "Unit count"
-    },
-    {
       "Key": "VS",
       "Translation": "VS",
       "Comment": "Versus - universally understood"
@@ -1013,11 +947,6 @@
       "Comment": "Opponent label"
     },
     {
-      "Key": "<color=#81D7E5>3+ <size=85%></color> To Save",
-      "Translation": "<color=#81D7E5>3+ <size=85%></color> Спас",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
       "Key": "Reroll Failures",
       "Translation": "Переброс неудач",
       "Comment": "Dice action"
@@ -1026,11 +955,6 @@
       "Key": "Blaha vs Blaha",
       "Translation": "Плаха vs Плаха",
       "Comment": "Example/placeholder text"
-    },
-    {
-      "Key": "<color=#70F6FF> 3x</color> Auto Hits",
-      "Translation": "<color=#70F6FF> 3x</color> Автопопадание",
-      "Comment": "Combat result"
     },
     {
       "Key": "Event Panel",
@@ -1043,11 +967,6 @@
       "Comment": "Example/template text - appears to have formatting issue in original"
     },
     {
-      "Key": "Power <color=#81D7E5><size=125%>5</color> </size>VS Defense <color=#81D7E5><size=125%>5</color> ",
-      "Translation": "Мощь <color=#81D7E5><size=125%>5</color> </size>VS Защита <color=#81D7E5><size=125%>5</color> ",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
       "Key": "-Opponent Roll-",
       "Translation": "-Бросок противника-",
       "Comment": "Combat phase"
@@ -1056,11 +975,6 @@
       "Key": "Roll to Hit",
       "Translation": "Бросок на попадание",
       "Comment": "Attack roll action"
-    },
-    {
-      "Key": "Power 3 vs Defense 4",
-      "Translation": "Мощь 3 против Защиты 4",
-      "Comment": "Combat comparison"
     },
     {
       "Key": "Score\n",
@@ -1328,16 +1242,6 @@
       "Comment": "Menu action"
     },
     {
-      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 32.",
-      "Translation": "Поражение от <color=blue>Гундрик Наковальник</color> на этапе 32.",
-      "Comment": "Campaign defeat message with character name"
-    },
-    {
-      "Key": "Unlocked 1/5",
-      "Translation": "Разблокировано 1/5",
-      "Comment": "Progress indicator"
-    },
-    {
       "Key": "Your army has been wiped out...\n",
       "Translation": "Ваша армия полностью разгромлена...\n",
       "Comment": "Campaign defeat message"
@@ -1491,11 +1395,6 @@
       "Key": "OR",
       "Translation": "ИЛИ",
       "Comment": "Choice separator"
-    },
-    {
-      "Key": "Mercenary Cut: <indent=55%><color=green><b>+10%",
-      "Translation": "Доля наёмника: <indent=55%><color=green><b>+10%",
-      "Comment": "Rich text formatting preserved"
     },
     {
       "Key": "- Legend -",
@@ -1903,11 +1802,6 @@
       "Comment": "Bonus description"
     },
     {
-      "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
-      "Translation": "(Ваши отряды получают +2 к скорости движения и +1 к броскам дальнобойных атак) ",
-      "Comment": "Bonus effect"
-    },
-    {
       "Key": "Deadly arrows crafted by the Deepwood Elves. Pick one.",
       "Translation": "Смертельные стрелы, созданные лесными эльфами. Выберите один.",
       "Comment": "Equipment choice"
@@ -1916,11 +1810,6 @@
       "Key": "Event Name",
       "Translation": "Название события",
       "Comment": "Placeholder string"
-    },
-    {
-      "Key": "Light Infantry - 99 pts",
-      "Translation": "Лёгкая пехота - 99 очк",
-      "Comment": "Unit with cost"
     },
     {
       "Key": "Level:",
@@ -2068,11 +1957,6 @@
       "Comment": "Ability type"
     },
     {
-      "Key": "<b>Draw<size=80%></color></b>\n",
-      "Translation": "<b>Ничья<size=80%></color></b>\n",
-      "Comment": "Battle result - preserve rich text tags"
-    },
-    {
       "Key": "Challenge Level: 3",
       "Translation": "Уровень сложности: 3",
       "Comment": "Campaign difficulty indicator"
@@ -2083,19 +1967,9 @@
       "Comment": "Campaign encounter description"
     },
     {
-      "Key": "Turn 1 begins!",
-      "Translation": "Начинается ход 1!",
-      "Comment": "Battle start message"
-    },
-    {
       "Key": "Confident",
       "Translation": "Уверенный",
       "Comment": "Morale state"
-    },
-    {
-      "Key": "Turn 3 begins!",
-      "Translation": "Начинается ход 3!",
-      "Comment": "Battle phase message"
     },
     {
       "Key": "activates",
@@ -2133,19 +2007,9 @@
       "Comment": "Test to see if unit breaks and flees"
     },
     {
-      "Key": "{0} or lower to Hold",
-      "Translation": "{0} или меньше чтобы держать",
-      "Comment": "Morale test success condition"
-    },
-    {
       "Key": "rally!",
       "Translation": "восстать!",
       "Comment": "Unit regains morale"
-    },
-    {
-      "Key": "{0} or lower to Rally",
-      "Translation": "{0} или меньше чтобы восстать",
-      "Comment": "Rally test success condition"
     },
     {
       "Key": "fled off the board!",
@@ -2318,11 +2182,6 @@
       "Comment": ""
     },
     {
-      "Key": "D6",
-      "Translation": "D6",
-      "Comment": ""
-    },
-    {
       "Key": " Damage Save",
       "Translation": " Спасение от урона",
       "Comment": ""
@@ -2393,9 +2252,180 @@
       "Comment": ""
     },
     {
+      "Key": "Abominations",
+      "Translation": "Мерзости",
+      "Comment": ""
+    },
+    {
+      "Key": "Army Destroyed",
+      "Translation": "Армия уничтожена",
+      "Comment": ""
+    },
+    {
+      "Key": "Tamed Beasts",
+      "Translation": "Прирученные звери",
+      "Comment": ""
+    },
+    {
+      "Key": "Wild Beasts",
+      "Translation": "Дикие звери",
+      "Comment": ""
+    },
+    {
+      "Key": "Forest Guardians",
+      "Translation": "Стражи леса",
+      "Comment": ""
+    },
+    {
+      "Key": "BattleLine",
+      "Translation": "Боевая линия",
+      "Comment": ""
+    },
+    {
+      "Key": "Monsters",
+      "Translation": "Чудовища",
+      "Comment": ""
+    },
+    {
+      "Key": "- Survive for 6 Turns -",
+      "Translation": "- Выживайте 6 хода -",
+      "Comment": "Survival objective"
+    },
+    {
+      "Key": "{0}pts",
+      "Translation": "{0} очк",
+      "Comment": "Points abbreviation - consistent with existing translations"
+    },
+    {
+      "Key": "{0}% gold income",
+      "Translation": "{0}% золотого дохода",
+      "Comment": "Economy bonus",
+      "PluralOne": "{0}% золотого дохода",
+      "PluralFew": "{0}% золотого дохода",
+      "PluralMany": "{0}% золотого дохода"
+    },
+    {
+      "Key": "Win <size=80%><color=green>+",
+      "Translation": "Победа <size=80%><color=green>+",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Loss <size=80%>",
+      "Translation": "Поражение <size=80%>",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Total Points: <color=#9EFEFF>",
+      "Translation": "Всего очков: <color=#9EFEFF>",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Elo:  <color=#9EFEFF>",
+      "Translation": "Ело:  <color=#9EFEFF>",
+      "Comment": "Keep Elo as international rating term"
+    },
+    {
+      "Key": "Replenished 5 models",
+      "Translation": "Восполнены 5 модели",
+      "Comment": "Unit replenishment"
+    },
+    {
+      "Key": "{0} XP",
+      "Translation": "{0} ОП",
+      "Comment": "Experience Points",
+      "PluralOne": "{0} ОП",
+      "PluralFew": "{0} ОП",
+      "PluralMany": "{0} ОП"
+    },
+    {
+      "Key": "Defeated by <color=#FFDF7C>",
+      "Translation": "Поражение от <color=#FFDF7C>",
+      "Comment": "Campaign defeat message"
+    },
+    {
+      "Key": "2 Units",
+      "Translation": "2 отряда",
+      "Comment": "Unit count"
+    },
+    {
+      "Key": "<color=#81D7E5>3+ <size=85%></color> To Save",
+      "Translation": "<color=#81D7E5>3+ <size=85%></color> Спас",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "<color=#70F6FF> 3x</color> Auto Hits",
+      "Translation": "<color=#70F6FF> 3x</color> Автопопадание",
+      "Comment": "Combat result"
+    },
+    {
+      "Key": "Power <color=#81D7E5><size=125%>5</color> </size>VS Defense <color=#81D7E5><size=125%>5</color> ",
+      "Translation": "Мощь <color=#81D7E5><size=125%>5</color> </size>VS Защита <color=#81D7E5><size=125%>5</color> ",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Power 3 vs Defense 4",
+      "Translation": "Мощь 3 против Защиты 4",
+      "Comment": "Combat comparison"
+    },
+    {
+      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 32.",
+      "Translation": "Поражение от <color=blue>Гундрик Наковальник</color> на этапе 32.",
+      "Comment": "Campaign defeat message with character name"
+    },
+    {
+      "Key": "Unlocked 1/5",
+      "Translation": "Разблокировано 1/5",
+      "Comment": "Progress indicator"
+    },
+    {
+      "Key": "Mercenary Cut: <indent=55%><color=green><b>+10%",
+      "Translation": "Доля наёмника: <indent=55%><color=green><b>+10%",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
+      "Translation": "(Ваши отряды получают +2 к скорости движения и +1 к броскам дальнобойных атак) ",
+      "Comment": "Bonus effect"
+    },
+    {
+      "Key": "Light Infantry - 99 pts",
+      "Translation": "Лёгкая пехота - 99 очк",
+      "Comment": "Unit with cost"
+    },
+    {
+      "Key": "<b>Draw<size=80%></color></b>\n",
+      "Translation": "<b>Ничья<size=80%></color></b>\n",
+      "Comment": "Battle result - preserve rich text tags"
+    },
+    {
+      "Key": "{0} or lower to Hold",
+      "Translation": "{0} или меньше чтобы держать",
+      "Comment": "Morale test success condition"
+    },
+    {
+      "Key": "{0} or lower to Rally",
+      "Translation": "{0} или меньше чтобы восстать",
+      "Comment": "Rally test success condition"
+    },
+    {
+      "Key": "D6",
+      "Translation": "D6",
+      "Comment": ""
+    },
+    {
       "Key": "takes priority",
       "Translation": "имеет приоритет",
       "Comment": ""
+    },
+    {
+      "Key": "Turn {0} begins!",
+      "Translation": "Начинается ход {0}!",
+      "Comment": ""
+    },
+    {
+      "Key": "Great Weapon <color=#B6F595>+1",
+      "Translation": "Великое оружие <color=#B6F595>+1",
+      "Comment": "Weapon item"
     }
   ]
 }

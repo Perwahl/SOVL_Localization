@@ -587,11 +587,6 @@
       "Comment": "Battle objective"
     },
     {
-      "Key": "- Survive for 6 Turns -",
-      "Translation": "- 6ターン生き残る -",
-      "Comment": "Survival objective"
-    },
-    {
       "Key": "Unclaimed",
       "Translation": "未請求",
       "Comment": "Objective marker status"
@@ -625,11 +620,6 @@
       "Key": "...but more challenges await",
       "Translation": "...だがさらなる試練が待ち受けている",
       "Comment": "Campaign continuation hint"
-    },
-    {
-      "Key": "{0}pts",
-      "Translation": "{0}ポイント",
-      "Comment": "Points abbreviation"
     },
     {
       "Key": "Opponent Disconnected",
@@ -677,11 +667,6 @@
       "Comment": "Mission reward message"
     },
     {
-      "Key": "{0}% gold income",
-      "Translation": "ゴール収入{0}%",
-      "Comment": "Economic bonus description"
-    },
-    {
       "Key": "Your regiment returns in the morning. But something has changed them...",
       "Translation": "あなたの連隊は朝に戻ります。しかし何かが彼らを変えた...",
       "Comment": "Campaign event - ominous tone"
@@ -727,26 +712,6 @@
       "Comment": ""
     },
     {
-      "Key": "Win <size=80%><color=green>+",
-      "Translation": "勝利 <size=80%><color=green>+",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
-      "Key": "Loss <size=80%>",
-      "Translation": "敗北 <size=80%>",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
-      "Key": "Total Points: <color=#9EFEFF>",
-      "Translation": "合計ポイント: <color=#9EFEFF>",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
-      "Key": "Elo:  <color=#9EFEFF>",
-      "Translation": "Elo:  <color=#9EFEFF>",
-      "Comment": "Keep Elo as international rating term"
-    },
-    {
       "Key": "Restored 1 wound",
       "Translation": "1傷復元",
       "Comment": "Unit healing"
@@ -762,29 +727,9 @@
       "Comment": "Unit replenishment"
     },
     {
-      "Key": "Replenished 5 models",
-      "Translation": "5モデル補充",
-      "Comment": "Unit replenishment"
-    },
-    {
-      "Key": "{0} XP",
-      "Translation": "{0}経験値",
-      "Comment": "Experience Points"
-    },
-    {
-      "Key": "Defeated by <color=#FFDF7C>",
-      "Translation": "<color=#FFDF7C>に敗北",
-      "Comment": "Campaign defeat message - rich text"
-    },
-    {
       "Key": "</color> in Act",
       "Translation": "</color> in Act",
       "Comment": "Keep html formatting"
-    },
-    {
-      "Key": "Great Weapon <color=#B6F595>+1",
-      "Translation": "大武器 <color=#B6F595>+1",
-      "Comment": "Rich text formatting preserved"
     },
     {
       "Key": "Menu",
@@ -952,11 +897,6 @@
       "Comment": "Enhanced weapon"
     },
     {
-      "Key": "2 Units",
-      "Translation": "2ユニット",
-      "Comment": "Group composition"
-    },
-    {
       "Key": "VS",
       "Translation": "VS",
       "Comment": "Versus - keep abbreviation"
@@ -1007,11 +947,6 @@
       "Comment": ""
     },
     {
-      "Key": "<color=#81D7E5>3+ <size=85%></color> To Save",
-      "Translation": "<color=#81D7E5>3+ <size=85%></color> セーブ判定",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
       "Key": "Reroll Failures",
       "Translation": "失敗を再ロール",
       "Comment": "Combat action"
@@ -1020,11 +955,6 @@
       "Key": "Blaha vs Blaha",
       "Translation": "Blaha vs Blaha",
       "Comment": "Example/placeholder text - keep as is"
-    },
-    {
-      "Key": "<color=#70F6FF> 3x</color> Auto Hits",
-      "Translation": "<color=#70F6FF> 3x</color> 自動命中",
-      "Comment": "Rich text formatting preserved"
     },
     {
       "Key": "Event Panel",
@@ -1037,11 +967,6 @@
       "Comment": "Battle event text - appears to have formatting issue in original"
     },
     {
-      "Key": "Power <color=#81D7E5><size=125%>5</color> </size>VS Defense <color=#81D7E5><size=125%>5</color> ",
-      "Translation": "力 <color=#81D7E5><size=125%>5</color> </size>VS 防御 <color=#81D7E5><size=125%>5</color> ",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
       "Key": "-Opponent Roll-",
       "Translation": "-対戦相手のロール-",
       "Comment": "Combat action indicator"
@@ -1050,11 +975,6 @@
       "Key": "Roll to Hit",
       "Translation": "命中判定",
       "Comment": "Combat mechanics term"
-    },
-    {
-      "Key": "Power 3 vs Defense 4",
-      "Translation": "力3対防御4",
-      "Comment": "Combat comparison"
     },
     {
       "Key": "Score\n",
@@ -1322,16 +1242,6 @@
       "Comment": ""
     },
     {
-      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 32.",
-      "Translation": "<color=blue>Gundrik Anvilhide</color>に32ターン目に敗北。",
-      "Comment": "Campaign defeat message - character name in rich text"
-    },
-    {
-      "Key": "Unlocked 1/5",
-      "Translation": "ロック解除 1/5",
-      "Comment": "Progress tracker"
-    },
-    {
       "Key": "Your army has been wiped out...\n",
       "Translation": "あなたの軍団は全滅しました...\n",
       "Comment": "Campaign defeat message"
@@ -1485,11 +1395,6 @@
       "Key": "OR",
       "Translation": "または",
       "Comment": "Choice indicator"
-    },
-    {
-      "Key": "Mercenary Cut: <indent=55%><color=green><b>+10%",
-      "Translation": "傭兵の取り分: <indent=55%><color=green><b>+10%",
-      "Comment": "Rich text formatting preserved"
     },
     {
       "Key": "- Legend -",
@@ -1897,11 +1802,6 @@
       "Comment": "Buff effect"
     },
     {
-      "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
-      "Translation": "(あなたのユニットは +2 移動速度と遠距離攻撃ロール +1 を持つ) ",
-      "Comment": "Effect description - game rules term"
-    },
-    {
       "Key": "Deadly arrows crafted by the Deepwood Elves. Pick one.",
       "Translation": "ディープウッドエルフが作った致命的な矢。一つ選択してください。",
       "Comment": "Equipment reward description"
@@ -1910,11 +1810,6 @@
       "Key": "Event Name",
       "Translation": "イベント名",
       "Comment": "Placeholder string"
-    },
-    {
-      "Key": "Light Infantry - 99 pts",
-      "Translation": "軽歩兵 - 99ポイント",
-      "Comment": "Unit category"
     },
     {
       "Key": "Level:",
@@ -2062,11 +1957,6 @@
       "Comment": "Magical spell"
     },
     {
-      "Key": "<b>Draw<size=80%></color></b>\n",
-      "Translation": "<b>引き分け<size=80%></color></b>\n",
-      "Comment": "Battle result - preserve rich text tags"
-    },
-    {
       "Key": "Challenge Level: 3",
       "Translation": "チャレンジレベル: 3",
       "Comment": "Campaign difficulty indicator"
@@ -2077,19 +1967,9 @@
       "Comment": "Campaign encounter description - fantasy wargame tone"
     },
     {
-      "Key": "Turn 1 begins!",
-      "Translation": "ターン1開始!",
-      "Comment": "Battle phase notification"
-    },
-    {
       "Key": "Confident",
       "Translation": "自信に満ちた",
       "Comment": "Morale state - positive"
-    },
-    {
-      "Key": "Turn 3 begins!",
-      "Translation": "ターン3開始!",
-      "Comment": "Battle phase notification"
     },
     {
       "Key": "activates",
@@ -2127,19 +2007,9 @@
       "Comment": "Morale test to determine if unit breaks/flees"
     },
     {
-      "Key": "{0} or lower to Hold",
-      "Translation": "{0}以下で堅守",
-      "Comment": "Morale test success condition - wargame terminology"
-    },
-    {
       "Key": "rally!",
       "Translation": "集結!",
       "Comment": "Unit regains morale and rallies"
-    },
-    {
-      "Key": "{0} or lower to Rally",
-      "Translation": "{0}以下で集結",
-      "Comment": "Rally test success condition"
     },
     {
       "Key": "fled off the board!",
@@ -2312,11 +2182,6 @@
       "Comment": ""
     },
     {
-      "Key": "D6",
-      "Translation": "D6",
-      "Comment": ""
-    },
-    {
       "Key": " Damage Save",
       "Translation": " ダメージセーブ",
       "Comment": ""
@@ -2387,9 +2252,174 @@
       "Comment": ""
     },
     {
+      "Key": "Abominations",
+      "Translation": "忌まわしき者",
+      "Comment": ""
+    },
+    {
+      "Key": "Army Destroyed",
+      "Translation": "軍団壊滅",
+      "Comment": ""
+    },
+    {
+      "Key": "Tamed Beasts",
+      "Translation": "馴らされた獣",
+      "Comment": ""
+    },
+    {
+      "Key": "Wild Beasts",
+      "Translation": "野生の獣",
+      "Comment": ""
+    },
+    {
+      "Key": "Forest Guardians",
+      "Translation": "森の守護者",
+      "Comment": ""
+    },
+    {
+      "Key": "BattleLine",
+      "Translation": "戦列",
+      "Comment": ""
+    },
+    {
+      "Key": "Monsters",
+      "Translation": "モンスター",
+      "Comment": ""
+    },
+    {
+      "Key": "- Survive for 6 Turns -",
+      "Translation": "- 6ターン生き残る -",
+      "Comment": "Survival objective"
+    },
+    {
+      "Key": "{0}pts",
+      "Translation": "{0}ポイント",
+      "Comment": "Points abbreviation"
+    },
+    {
+      "Key": "{0}% gold income",
+      "Translation": "ゴール収入{0}%",
+      "Comment": "Economic bonus description"
+    },
+    {
+      "Key": "Win <size=80%><color=green>+",
+      "Translation": "勝利 <size=80%><color=green>+",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Loss <size=80%>",
+      "Translation": "敗北 <size=80%>",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Total Points: <color=#9EFEFF>",
+      "Translation": "合計ポイント: <color=#9EFEFF>",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Elo:  <color=#9EFEFF>",
+      "Translation": "Elo:  <color=#9EFEFF>",
+      "Comment": "Keep Elo as international rating term"
+    },
+    {
+      "Key": "Replenished 5 models",
+      "Translation": "5モデル補充",
+      "Comment": "Unit replenishment"
+    },
+    {
+      "Key": "{0} XP",
+      "Translation": "{0}経験値",
+      "Comment": "Experience Points"
+    },
+    {
+      "Key": "Defeated by <color=#FFDF7C>",
+      "Translation": "<color=#FFDF7C>に敗北",
+      "Comment": "Campaign defeat message - rich text"
+    },
+    {
+      "Key": "2 Units",
+      "Translation": "2ユニット",
+      "Comment": "Group composition"
+    },
+    {
+      "Key": "<color=#81D7E5>3+ <size=85%></color> To Save",
+      "Translation": "<color=#81D7E5>3+ <size=85%></color> セーブ判定",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "<color=#70F6FF> 3x</color> Auto Hits",
+      "Translation": "<color=#70F6FF> 3x</color> 自動命中",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Power <color=#81D7E5><size=125%>5</color> </size>VS Defense <color=#81D7E5><size=125%>5</color> ",
+      "Translation": "力 <color=#81D7E5><size=125%>5</color> </size>VS 防御 <color=#81D7E5><size=125%>5</color> ",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Power 3 vs Defense 4",
+      "Translation": "力3対防御4",
+      "Comment": "Combat comparison"
+    },
+    {
+      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 32.",
+      "Translation": "<color=blue>Gundrik Anvilhide</color>に32ターン目に敗北。",
+      "Comment": "Campaign defeat message - character name in rich text"
+    },
+    {
+      "Key": "Unlocked 1/5",
+      "Translation": "ロック解除 1/5",
+      "Comment": "Progress tracker"
+    },
+    {
+      "Key": "Mercenary Cut: <indent=55%><color=green><b>+10%",
+      "Translation": "傭兵の取り分: <indent=55%><color=green><b>+10%",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
+      "Translation": "(あなたのユニットは +2 移動速度と遠距離攻撃ロール +1 を持つ) ",
+      "Comment": "Effect description - game rules term"
+    },
+    {
+      "Key": "Light Infantry - 99 pts",
+      "Translation": "軽歩兵 - 99ポイント",
+      "Comment": "Unit category"
+    },
+    {
+      "Key": "<b>Draw<size=80%></color></b>\n",
+      "Translation": "<b>引き分け<size=80%></color></b>\n",
+      "Comment": "Battle result - preserve rich text tags"
+    },
+    {
+      "Key": "{0} or lower to Hold",
+      "Translation": "{0}以下で堅守",
+      "Comment": "Morale test success condition - wargame terminology"
+    },
+    {
+      "Key": "{0} or lower to Rally",
+      "Translation": "{0}以下で集結",
+      "Comment": "Rally test success condition"
+    },
+    {
+      "Key": "D6",
+      "Translation": "D6",
+      "Comment": ""
+    },
+    {
       "Key": "takes priority",
       "Translation": "が優先される",
       "Comment": ""
+    },
+    {
+      "Key": "Turn {0} begins!",
+      "Translation": "ターン{0}開始!",
+      "Comment": ""
+    },
+    {
+      "Key": "Great Weapon <color=#B6F595>+1",
+      "Translation": "大武器 <color=#B6F595>+1",
+      "Comment": "Rich text formatting preserved"
     }
   ]
 }

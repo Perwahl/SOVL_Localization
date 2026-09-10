@@ -90,6 +90,11 @@
       "Key": "Goblin King",
       "Translation": "ゴブリン王",
       "Comment": "王 = king. Grand title for greenskin faction leader."
+    },
+    {
+      "Key": "Goblin Flying Machine",
+      "Translation": "ゴブリン飛行機械",
+      "Comment": ""
     }
   ]
 }

@@ -90,6 +90,11 @@
       "Key": "Goblin King",
       "Translation": "Goblinkönig",
       "Comment": "Direct translation, König is king. Grand title for the faction leader."
+    },
+    {
+      "Key": "Goblin Flying Machine",
+      "Translation": "Goblin-Flugmaschine",
+      "Comment": ""
     }
   ]
 }

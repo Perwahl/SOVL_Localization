@@ -7,11 +7,6 @@
       "Comment": ""
     },
     {
-      "Key": "Max Unit size +5",
-      "Translation": "Tamaño Máximo de Unidad +5",
-      "Comment": ""
-    },
-    {
       "Key": "Unit Size II",
       "Translation": "Tamaño de Unidad II",
       "Comment": ""
@@ -24,11 +19,6 @@
     {
       "Key": "Replenish I",
       "Translation": "Reabastecimiento I",
-      "Comment": ""
-    },
-    {
-      "Key": "+50% base unit Replenishment",
-      "Translation": "+50% de Reabastecimiento base de unidad",
       "Comment": ""
     },
     {
@@ -70,11 +60,6 @@
       "Key": "Coin Counter I",
       "Translation": "Contador de Monedas I",
       "Comment": "Gold income bonus"
-    },
-    {
-      "Key": "+5% post battle income",
-      "Translation": "+5% de ingresos después de batalla",
-      "Comment": ""
     },
     {
       "Key": "Coin Counter II",
@@ -147,11 +132,6 @@
       "Comment": ""
     },
     {
-      "Key": "Upgrades Fireball to 2D6 hits.",
-      "Translation": "Mejora Bola de Fuego a 2D6 impactos.",
-      "Comment": ""
-    },
-    {
       "Key": "Greater Favour",
       "Translation": "Favor Divino Mejorado",
       "Comment": ""
@@ -174,11 +154,6 @@
     {
       "Key": "Greater Fury",
       "Translation": "Furia Primitiva Mejorada",
-      "Comment": ""
-    },
-    {
-      "Key": "Upgrades Primal Fury to give +2 Power.",
-      "Translation": "Mejora Furia Primitiva para otorgar +2 de Poder.",
       "Comment": ""
     },
     {
@@ -207,11 +182,6 @@
       "Comment": ""
     },
     {
-      "Key": "Upgrades Shadow Bolt to Power 5 and Range 24.",
-      "Translation": "Mejora Rayo de Sombra a Poder 5 y Alcance 24.",
-      "Comment": ""
-    },
-    {
       "Key": "Greater Regrowth",
       "Translation": "Regeneración Mejorada",
       "Comment": "Healing spell"
@@ -224,11 +194,6 @@
     {
       "Key": "Greater Wildform",
       "Translation": "Forma Salvaje Mejorada",
-      "Comment": ""
-    },
-    {
-      "Key": "Upgrades Wildform to give +4 Attacks.",
-      "Translation": "Mejora Forma Salvaje para otorgar +4 Ataques.",
       "Comment": ""
     },
     {
@@ -267,18 +232,8 @@
       "Comment": ""
     },
     {
-      "Key": "Upgrades Thousand Mouths to Power 2.",
-      "Translation": "Mejora Mil Bocas a Poder 2.",
-      "Comment": ""
-    },
-    {
       "Key": "Greater Blades",
       "Translation": "Espadas Ardientes Mejoradas",
-      "Comment": ""
-    },
-    {
-      "Key": "Upgrades Fiery Blades to give +2 Power.",
-      "Translation": "Mejora Espadas Ardientes para otorgar +2 de Poder.",
       "Comment": ""
     },
     {
@@ -304,11 +259,6 @@
     {
       "Key": "Looter I",
       "Translation": "Saqueador I",
-      "Comment": ""
-    },
-    {
-      "Key": "+5 gold when looting",
-      "Translation": "+5 de oro al saquear",
       "Comment": ""
     },
     {
@@ -377,11 +327,6 @@
       "Comment": ""
     },
     {
-      "Key": "Ranged attack range increased by 5.",
-      "Translation": "Rango de Ataque a Distancia aumenta 5.",
-      "Comment": ""
-    },
-    {
       "Key": "Rune Of Speed",
       "Translation": "Runa de Velocidad",
       "Comment": ""
@@ -434,11 +379,6 @@
     {
       "Key": "Imperial Veterans II",
       "Translation": "Veteranos Imperiales II",
-      "Comment": ""
-    },
-    {
-      "Key": "Unit has +5 range for Ranged attacks.",
-      "Translation": "La unidad tiene +5 de rango para Ataques a Distancia.",
       "Comment": ""
     },
     {
@@ -522,11 +462,6 @@
       "Comment": ""
     },
     {
-      "Key": "+5 range for Ranged Attacks.",
-      "Translation": "+5 de rango para Ataques a Distancia.",
-      "Comment": ""
-    },
-    {
       "Key": "Elf Bow Mastery II",
       "Translation": "Dominio del Arco Élfico II",
       "Comment": ""
@@ -597,18 +532,8 @@
       "Comment": ""
     },
     {
-      "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
-      "Translation": "La unidad obtiene Ataques Letales. (inflige 2x heridas)",
-      "Comment": ""
-    },
-    {
       "Key": "Serpent Aspect",
       "Translation": "Aspecto de Serpiente",
-      "Comment": ""
-    },
-    {
-      "Key": "Unit gains Poisoned Attacks (enemies re-roll 6s on Damage Saves)",
-      "Translation": "La unidad obtiene Ataques Envenenados (los enemigos reintentan 6s en Salvadas de Daño)",
       "Comment": ""
     },
     {
@@ -684,11 +609,6 @@
     {
       "Key": "Greater Warcry",
       "Translation": "Grito de Guerra Mejorado",
-      "Comment": ""
-    },
-    {
-      "Key": "Warcry also gives +2 Move Speed to all units.",
-      "Translation": "Grito de Guerra también otorga +2 de Velocidad de Movimiento a todas las unidades.",
       "Comment": ""
     },
     {
@@ -812,11 +732,6 @@
       "Comment": ""
     },
     {
-      "Key": "Gain Deadly Strikes (deal 2x Wounds)",
-      "Translation": "Obtiene Golpes Mortales (inflige 2x heridas)",
-      "Comment": ""
-    },
-    {
       "Key": "Knightly Vow",
       "Translation": "Voto Caballeresco",
       "Comment": ""
@@ -849,11 +764,6 @@
     {
       "Key": "Avalon Marksmen I",
       "Translation": "Tiradores de Avalon I",
-      "Comment": ""
-    },
-    {
-      "Key": "Unit has +5 range for Ranged Attacks.",
-      "Translation": "La unidad tiene +5 de rango para Ataques a Distancia.",
       "Comment": ""
     },
     {
@@ -894,6 +804,101 @@
     {
       "Key": "+3 range to Ranged Atacks.",
       "Translation": "+3 de rango a Ataques a Distancia.",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 bonus hit for Ranged Attack",
+      "Translation": "+1 impacto adicional para Ataque a Distancia",
+      "Comment": ""
+    },
+    {
+      "Key": "Max Unit size +5",
+      "Translation": "Tamaño Máximo de Unidad +5",
+      "Comment": ""
+    },
+    {
+      "Key": "+50% base unit Replenishment",
+      "Translation": "+50% de Reabastecimiento base de unidad",
+      "Comment": ""
+    },
+    {
+      "Key": "+5% post battle income",
+      "Translation": "+5% de ingresos después de batalla",
+      "Comment": ""
+    },
+    {
+      "Key": "Upgrades Fireball to 2D6 hits.",
+      "Translation": "Mejora Bola de Fuego a 2D6 impactos.",
+      "Comment": ""
+    },
+    {
+      "Key": "Upgrades Primal Fury to give +2 Power.",
+      "Translation": "Mejora Furia Primitiva para otorgar +2 de Poder.",
+      "Comment": ""
+    },
+    {
+      "Key": "Upgrades Shadow Bolt to Power 5 and Range 24.",
+      "Translation": "Mejora Rayo de Sombra a Poder 5 y Alcance 24.",
+      "Comment": ""
+    },
+    {
+      "Key": "Upgrades Wildform to give +4 Attacks.",
+      "Translation": "Mejora Forma Salvaje para otorgar +4 Ataques.",
+      "Comment": ""
+    },
+    {
+      "Key": "Upgrades Thousand Mouths to Power 2.",
+      "Translation": "Mejora Mil Bocas a Poder 2.",
+      "Comment": ""
+    },
+    {
+      "Key": "Upgrades Fiery Blades to give +2 Power.",
+      "Translation": "Mejora Espadas Ardientes para otorgar +2 de Poder.",
+      "Comment": ""
+    },
+    {
+      "Key": "+5 gold when looting",
+      "Translation": "+5 de oro al saquear",
+      "Comment": ""
+    },
+    {
+      "Key": "Ranged attack range increased by 5.",
+      "Translation": "Rango de Ataque a Distancia aumenta 5.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit has +5 range for Ranged attacks.",
+      "Translation": "La unidad tiene +5 de rango para Ataques a Distancia.",
+      "Comment": ""
+    },
+    {
+      "Key": "+5 range for Ranged Attacks.",
+      "Translation": "+5 de rango para Ataques a Distancia.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
+      "Translation": "La unidad obtiene Ataques Letales. (inflige 2x heridas)",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit gains Poisoned Attacks (enemies re-roll 6s on Damage Saves)",
+      "Translation": "La unidad obtiene Ataques Envenenados (los enemigos reintentan 6s en Salvadas de Daño)",
+      "Comment": ""
+    },
+    {
+      "Key": "Warcry also gives +2 Move Speed to all units.",
+      "Translation": "Grito de Guerra también otorga +2 de Velocidad de Movimiento a todas las unidades.",
+      "Comment": ""
+    },
+    {
+      "Key": "Gain Deadly Strikes (deal 2x Wounds)",
+      "Translation": "Obtiene Golpes Mortales (inflige 2x heridas)",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit has +5 range for Ranged Attacks.",
+      "Translation": "La unidad tiene +5 de rango para Ataques a Distancia.",
       "Comment": ""
     }
   ]

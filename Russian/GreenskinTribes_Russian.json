@@ -90,6 +90,11 @@
       "Key": "Goblin King",
       "Translation": "Король гоблинов",
       "Comment": "Король гоблинов (Goblin King) is a grand title befitting the faction leader."
+    },
+    {
+      "Key": "Goblin Flying Machine",
+      "Translation": "Гоблинская летающая машина",
+      "Comment": ""
     }
   ]
 }

@@ -90,6 +90,11 @@
       "Key": "Goblin King",
       "Translation": "Rey Trasgo",
       "Comment": "Rey Trasgo (Goblin King) is the grand title for the faction leader, conveying both the goblin nature and royal authority."
+    },
+    {
+      "Key": "Goblin Flying Machine",
+      "Translation": "Máquina Voladora Goblin",
+      "Comment": ""
     }
   ]
 }

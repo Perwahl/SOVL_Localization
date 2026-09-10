@@ -1,5 +1,5 @@
 {
-  "TranslationContext": "This file contains strings from Unit Deeds and achievements.",
+  "TranslationContext": "This file contains strings from Unit Deeds and acheivements.",
   "Translations": [
     {
       "Key": "Steadfast",
@@ -7,21 +7,9 @@
       "Comment": "Unwavering resolve in battle. Maintains heroic tone."
     },
     {
-      "Key": "Passed {0} Break Tests.",
-      "Translation": "Superati {0} Test di Sfondamento.",
-      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
-      "PluralOne": "Superato {0} Test di Sfondamento."
-    },
-    {
       "Key": "Dragon Slayer",
       "Translation": "Ammazzadraghi",
       "Comment": "Classic fantasy achievement. Maintains epic tone."
-    },
-    {
-      "Key": "Killed {0} dragons.",
-      "Translation": "Uccisi {0} draghi.",
-      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
-      "PluralOne": "Ucciso {0} drago."
     },
     {
       "Key": "Deadly",
@@ -29,21 +17,9 @@
       "Comment": "Conveys combat prowess. Serious wargame tone."
     },
     {
-      "Key": "Killed {0} enemies in combat.",
-      "Translation": "Uccisi {0} nemici in combattimento.",
-      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
-      "PluralOne": "Ucciso {0} nemico in combattimento."
-    },
-    {
       "Key": "Marksman",
       "Translation": "Tiratore Scelto",
       "Comment": "Emphasizes ranged weapon skill. Maintains martial tone."
-    },
-    {
-      "Key": "Killed {0} enemies with ranged weapons.",
-      "Translation": "Uccisi {0} nemici con armi a distanza.",
-      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
-      "PluralOne": "Ucciso {0} nemico con armi a distanza."
     },
     {
       "Key": "Lucky",
@@ -51,21 +27,9 @@
       "Comment": "Relates to dice roll fortune in wargaming."
     },
     {
-      "Key": "Rolled {0} natural sixes ({1:P0} of all rolls).",
-      "Translation": "Ottenuti {0} sei naturali ({1:P0} di tutti i tiri).",
-      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
-      "PluralOne": "Ottenuto {0} sei naturale ({1:P0} di tutti i tiri)."
-    },
-    {
       "Key": "Scorer",
       "Translation": "Conquistatore",
       "Comment": "Objective capture achievement. Emphasizes victory."
-    },
-    {
-      "Key": "Captured {0} objectives.",
-      "Translation": "Catturati {0} obiettivi.",
-      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
-      "PluralOne": "Catturato {0} obiettivo."
     },
     {
       "Key": "Giant Slayer",
@@ -73,21 +37,9 @@
       "Comment": "Monster hunter achievement. Maintains fantasy tone."
     },
     {
-      "Key": "Killed {0} giants.",
-      "Translation": "Uccisi {0} giganti.",
-      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
-      "PluralOne": "Ucciso {0} gigante."
-    },
-    {
       "Key": "Treefeller",
       "Translation": "Abbattitore di Alberi",
       "Comment": "Treant/forest spirit slayer. Specific monster type."
-    },
-    {
-      "Key": "Felled {0} tree monsters.",
-      "Translation": "Abbattuti {0} mostri arborei.",
-      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
-      "PluralOne": "Abbattuto {0} mostro arboreo."
     },
     {
       "Key": "Dino Hunter",
@@ -95,21 +47,9 @@
       "Comment": "Dinosaur slayer. Fantasy creature hunter."
     },
     {
-      "Key": "Killed {0} dinosaurs.",
-      "Translation": "Uccisi {0} dinosauri.",
-      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
-      "PluralOne": "Ucciso {0} dinosauro."
-    },
-    {
       "Key": "Warmachine Hunter",
       "Translation": "Cacciatore di Macchine da Guerra",
       "Comment": ""
-    },
-    {
-      "Key": "Killed {0} warmachines.",
-      "Translation": "Distrutte {0} macchine da guerra.",
-      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
-      "PluralOne": "Distrutta {0} macchina da guerra."
     },
     {
       "Key": "Demon Hunter",
@@ -117,32 +57,14 @@
       "Comment": ""
     },
     {
-      "Key": "Slain {0} greater demons.",
-      "Translation": "Abbattuti {0} demoni maggiori.",
-      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
-      "PluralOne": "Abbattuto {0} demone maggiore."
-    },
-    {
       "Key": "Duelist",
       "Translation": "Duellante",
       "Comment": ""
     },
     {
-      "Key": "Killed {0} Commanders.",
-      "Translation": "Uccisi {0} Comandanti.",
-      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
-      "PluralOne": "Ucciso {0} Comandante."
-    },
-    {
       "Key": "Spellslinger",
       "Translation": "Incantatore",
       "Comment": ""
-    },
-    {
-      "Key": "Cast {0} spells.",
-      "Translation": "Lanciati {0} incantesimi.",
-      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
-      "PluralOne": "Lanciato {0} incantesimo."
     },
     {
       "Key": "Coward",
@@ -158,12 +80,6 @@
       "Key": "Unlucky",
       "Translation": "Sfortunato",
       "Comment": ""
-    },
-    {
-      "Key": "Rolled {0} ones ({1:P0} of all rolls).",
-      "Translation": "Ottenuti {0} uno ({1:P0} di tutti i tiri).",
-      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
-      "PluralOne": "Ottenuto {0} uno ({1:P0} di tutti i tiri)."
     },
     {
       "Key": "Last Man Standing",
@@ -199,12 +115,6 @@
       "Key": "Flanker",
       "Translation": "Fiancheggiatore",
       "Comment": ""
-    },
-    {
-      "Key": "Performed {0} flank/rear charges.",
-      "Translation": "Eseguite {0} cariche sul fianco/retro.",
-      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
-      "PluralOne": "Eseguita {0} carica sul fianco/retro."
     },
     {
       "Key": "Dragon Slayers",
@@ -265,6 +175,101 @@
       "Key": "Cursed!",
       "Translation": "Maledetto!",
       "Comment": ""
+    },
+    {
+      "Key": "Bloodthirsty!",
+      "Translation": "Sanguinario!",
+      "Comment": ""
+    },
+    {
+      "Key": "Passed {0} Break Tests.",
+      "Translation": "Superati {0} Test di Sfondamento.",
+      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
+      "PluralOne": "Superato {0} Test di Sfondamento."
+    },
+    {
+      "Key": "Killed {0} dragons.",
+      "Translation": "Uccisi {0} draghi.",
+      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
+      "PluralOne": "Ucciso {0} drago."
+    },
+    {
+      "Key": "Killed {0} enemies in combat.",
+      "Translation": "Uccisi {0} nemici in combattimento.",
+      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
+      "PluralOne": "Ucciso {0} nemico in combattimento."
+    },
+    {
+      "Key": "Killed {0} enemies with ranged weapons.",
+      "Translation": "Uccisi {0} nemici con armi a distanza.",
+      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
+      "PluralOne": "Ucciso {0} nemico con armi a distanza."
+    },
+    {
+      "Key": "Rolled {0} natural sixes ({1:P0} of all rolls).",
+      "Translation": "Ottenuti {0} sei naturali ({1:P0} di tutti i tiri).",
+      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
+      "PluralOne": "Ottenuto {0} sei naturale ({1:P0} di tutti i tiri)."
+    },
+    {
+      "Key": "Captured {0} objectives.",
+      "Translation": "Catturati {0} obiettivi.",
+      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
+      "PluralOne": "Catturato {0} obiettivo."
+    },
+    {
+      "Key": "Killed {0} giants.",
+      "Translation": "Uccisi {0} giganti.",
+      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
+      "PluralOne": "Ucciso {0} gigante."
+    },
+    {
+      "Key": "Felled {0} tree monsters.",
+      "Translation": "Abbattuti {0} mostri arborei.",
+      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
+      "PluralOne": "Abbattuto {0} mostro arboreo."
+    },
+    {
+      "Key": "Killed {0} dinosaurs.",
+      "Translation": "Uccisi {0} dinosauri.",
+      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
+      "PluralOne": "Ucciso {0} dinosauro."
+    },
+    {
+      "Key": "Killed {0} warmachines.",
+      "Translation": "Distrutte {0} macchine da guerra.",
+      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
+      "PluralOne": "Distrutta {0} macchina da guerra."
+    },
+    {
+      "Key": "Slain {0} greater demons.",
+      "Translation": "Abbattuti {0} demoni maggiori.",
+      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
+      "PluralOne": "Abbattuto {0} demone maggiore."
+    },
+    {
+      "Key": "Killed {0} Commanders.",
+      "Translation": "Uccisi {0} Comandanti.",
+      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
+      "PluralOne": "Ucciso {0} Comandante."
+    },
+    {
+      "Key": "Cast {0} spells.",
+      "Translation": "Lanciati {0} incantesimi.",
+      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
+      "PluralOne": "Lanciato {0} incantesimo."
+    },
+    {
+      "Key": "Rolled {0} ones ({1:P0} of all rolls).",
+      "Translation": "Ottenuti {0} uno ({1:P0} di tutti i tiri).",
+      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
+      "PluralOne": "Ottenuto {0} uno ({1:P0} di tutti i tiri)."
+    },
+    {
+      "Key": "Performed {0} flank/rear charges.",
+      "Translation": "Eseguite {0} cariche sul fianco/retro.",
+      "Comment": "Italian takes one/other. Translation holds the other (plural) form and PluralOne the singular; the row previously held only a singular, which read wrong for any count above one.",
+      "PluralOne": "Eseguita {0} carica sul fianco/retro."
     }
   ]
 }

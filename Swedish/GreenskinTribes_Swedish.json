@@ -90,6 +90,11 @@
       "Key": "Goblin King",
       "Translation": "Goblinkung",
       "Comment": "A clear and fitting title for the faction leader."
+    },
+    {
+      "Key": "Goblin Flying Machine",
+      "Translation": "Goblinflygmaskin",
+      "Comment": ""
     }
   ]
 }

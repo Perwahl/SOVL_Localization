@@ -587,11 +587,6 @@
       "Comment": ""
     },
     {
-      "Key": "- Survive for 6 Turns -",
-      "Translation": "- Överlev i 6 omgångar -",
-      "Comment": ""
-    },
-    {
       "Key": "Unclaimed",
       "Translation": "Obesatt",
       "Comment": ""
@@ -624,11 +619,6 @@
     {
       "Key": "...but more challenges await",
       "Translation": "...men fler utmaningar väntar",
-      "Comment": ""
-    },
-    {
-      "Key": "{0}pts",
-      "Translation": "{0} p",
       "Comment": ""
     },
     {
@@ -677,12 +667,6 @@
       "Comment": ""
     },
     {
-      "Key": "{0}% gold income",
-      "Translation": "{0} % guldinkomst",
-      "Comment": "",
-      "PluralOne": "{0} % guldinkomst"
-    },
-    {
       "Key": "Your regiment returns in the morning. But something has changed them...",
       "Translation": "Ditt regemente återvänder om morgonen. Men något har förändrat dem...",
       "Comment": ""
@@ -728,26 +712,6 @@
       "Comment": ""
     },
     {
-      "Key": "Win <size=80%><color=green>+",
-      "Translation": "Seger <size=80%><color=green>+",
-      "Comment": ""
-    },
-    {
-      "Key": "Loss <size=80%>",
-      "Translation": "Förlust <size=80%>",
-      "Comment": ""
-    },
-    {
-      "Key": "Total Points: <color=#9EFEFF>",
-      "Translation": "Totalt antal poäng: <color=#9EFEFF>",
-      "Comment": ""
-    },
-    {
-      "Key": "Elo:  <color=#9EFEFF>",
-      "Translation": "Elo:  <color=#9EFEFF>",
-      "Comment": ""
-    },
-    {
       "Key": "Restored 1 wound",
       "Translation": "Återställde 1 sår",
       "Comment": ""
@@ -763,29 +727,8 @@
       "Comment": ""
     },
     {
-      "Key": "Replenished 5 models",
-      "Translation": "Påfyllde 5 modeller",
-      "Comment": ""
-    },
-    {
-      "Key": "{0} XP",
-      "Translation": "{0} XP",
-      "Comment": "",
-      "PluralOne": "{0} XP"
-    },
-    {
-      "Key": "Defeated by <color=#FFDF7C>",
-      "Translation": "Besegrad av <color=#FFDF7C>",
-      "Comment": ""
-    },
-    {
       "Key": "</color> in Act",
       "Translation": "</color> i akt",
-      "Comment": ""
-    },
-    {
-      "Key": "Great Weapon <color=#B6F595>+1",
-      "Translation": "Stort vapen <color=#B6F595>+1",
       "Comment": ""
     },
     {
@@ -954,11 +897,6 @@
       "Comment": "Keep the in-game terminology consistent."
     },
     {
-      "Key": "2 Units",
-      "Translation": "2 enheter",
-      "Comment": ""
-    },
-    {
       "Key": "VS",
       "Translation": "mot",
       "Comment": ""
@@ -1009,11 +947,6 @@
       "Comment": ""
     },
     {
-      "Key": "<color=#81D7E5>3+ <size=85%></color> To Save",
-      "Translation": "<color=#81D7E5>3+ <size=85%></color> att spara",
-      "Comment": ""
-    },
-    {
       "Key": "Reroll Failures",
       "Translation": "Slå om missar",
       "Comment": ""
@@ -1021,11 +954,6 @@
     {
       "Key": "Blaha vs Blaha",
       "Translation": "Blaha mot Blaha",
-      "Comment": ""
-    },
-    {
-      "Key": "<color=#70F6FF> 3x</color> Auto Hits",
-      "Translation": "<color=#70F6FF> 3x</color> automatiska träffar",
       "Comment": ""
     },
     {
@@ -1039,11 +967,6 @@
       "Comment": ""
     },
     {
-      "Key": "Power <color=#81D7E5><size=125%>5</color> </size>VS Defense <color=#81D7E5><size=125%>5</color> ",
-      "Translation": "Styrka <color=#81D7E5><size=125%>5</color> </size>mot försvar <color=#81D7E5><size=125%>5</color> ",
-      "Comment": ""
-    },
-    {
       "Key": "-Opponent Roll-",
       "Translation": "-Motståndares rullning-",
       "Comment": ""
@@ -1051,11 +974,6 @@
     {
       "Key": "Roll to Hit",
       "Translation": "Rulla för träff",
-      "Comment": ""
-    },
-    {
-      "Key": "Power 3 vs Defense 4",
-      "Translation": "Styrka 3 mot försvar 4",
       "Comment": ""
     },
     {
@@ -1324,16 +1242,6 @@
       "Comment": ""
     },
     {
-      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 32.",
-      "Translation": "Besegrad av <color=blue>Gundrik Anvilhide</color> på steg 32.",
-      "Comment": ""
-    },
-    {
-      "Key": "Unlocked 1/5",
-      "Translation": "Upplåst 1/5",
-      "Comment": ""
-    },
-    {
       "Key": "Your army has been wiped out...\n",
       "Translation": "Din armé har utplånats...\n",
       "Comment": ""
@@ -1487,11 +1395,6 @@
       "Key": "OR",
       "Translation": "ELLER",
       "Comment": ""
-    },
-    {
-      "Key": "Mercenary Cut: <indent=55%><color=green><b>+10%",
-      "Translation": "Legoknektandel: <indent=55%><color=green><b>+10%",
-      "Comment": "The existing term is acceptable, but this keeps it consistent with the rest of the interface."
     },
     {
       "Key": "- Legend -",
@@ -1899,11 +1802,6 @@
       "Comment": ""
     },
     {
-      "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
-      "Translation": "(Dina enheter får +2 rörelsehastighet och +1 på avståndsattacker) ",
-      "Comment": ""
-    },
-    {
       "Key": "Deadly arrows crafted by the Deepwood Elves. Pick one.",
       "Translation": "Dödliga pilar smidda av djupeskogsalfarna. Välj en.",
       "Comment": ""
@@ -1911,11 +1809,6 @@
     {
       "Key": "Event Name",
       "Translation": "Händelsenamn",
-      "Comment": ""
-    },
-    {
-      "Key": "Light Infantry - 99 pts",
-      "Translation": "Lätt infanteri - 99 p",
       "Comment": ""
     },
     {
@@ -2064,11 +1957,6 @@
       "Comment": ""
     },
     {
-      "Key": "<b>Draw<size=80%></color></b>\n",
-      "Translation": "<b>Oavgjort<size=80%></color></b>\n",
-      "Comment": ""
-    },
-    {
       "Key": "Challenge Level: 3",
       "Translation": "Utmaningsnivå: 3",
       "Comment": ""
@@ -2079,18 +1967,8 @@
       "Comment": "This better captures the fantasy tone of the event description."
     },
     {
-      "Key": "Turn 1 begins!",
-      "Translation": "Omgång 1 börjar!",
-      "Comment": ""
-    },
-    {
       "Key": "Confident",
       "Translation": "Självsäker",
-      "Comment": ""
-    },
-    {
-      "Key": "Turn 3 begins!",
-      "Translation": "Omgång 3 börjar!",
       "Comment": ""
     },
     {
@@ -2129,18 +2007,8 @@
       "Comment": ""
     },
     {
-      "Key": "{0} or lower to Hold",
-      "Translation": "{0} eller lägre för att hålla",
-      "Comment": ""
-    },
-    {
       "Key": "rally!",
       "Translation": "samla sig!",
-      "Comment": ""
-    },
-    {
-      "Key": "{0} or lower to Rally",
-      "Translation": "{0} eller lägre för att samla sig",
       "Comment": ""
     },
     {
@@ -2314,11 +2182,6 @@
       "Comment": ""
     },
     {
-      "Key": "D6",
-      "Translation": "D6",
-      "Comment": ""
-    },
-    {
       "Key": " Damage Save",
       "Translation": " Skyddskast",
       "Comment": ""
@@ -2389,8 +2252,175 @@
       "Comment": ""
     },
     {
+      "Key": "Abominations",
+      "Translation": "Vidundren",
+      "Comment": ""
+    },
+    {
+      "Key": "Army Destroyed",
+      "Translation": "Armén förintad",
+      "Comment": ""
+    },
+    {
+      "Key": "Tamed Beasts",
+      "Translation": "Tämjda bestar",
+      "Comment": ""
+    },
+    {
+      "Key": "Wild Beasts",
+      "Translation": "Vilda bestar",
+      "Comment": ""
+    },
+    {
+      "Key": "Forest Guardians",
+      "Translation": "Skogsväktarna",
+      "Comment": ""
+    },
+    {
+      "Key": "BattleLine",
+      "Translation": "Slaglinje",
+      "Comment": ""
+    },
+    {
+      "Key": "Monsters",
+      "Translation": "Monster",
+      "Comment": ""
+    },
+    {
+      "Key": "- Survive for 6 Turns -",
+      "Translation": "- Överlev i 6 omgångar -",
+      "Comment": ""
+    },
+    {
+      "Key": "{0}pts",
+      "Translation": "{0} p",
+      "Comment": ""
+    },
+    {
+      "Key": "{0}% gold income",
+      "Translation": "{0} % guldinkomst",
+      "Comment": "",
+      "PluralOne": "{0} % guldinkomst"
+    },
+    {
+      "Key": "Win <size=80%><color=green>+",
+      "Translation": "Seger <size=80%><color=green>+",
+      "Comment": ""
+    },
+    {
+      "Key": "Loss <size=80%>",
+      "Translation": "Förlust <size=80%>",
+      "Comment": ""
+    },
+    {
+      "Key": "Total Points: <color=#9EFEFF>",
+      "Translation": "Totalt antal poäng: <color=#9EFEFF>",
+      "Comment": ""
+    },
+    {
+      "Key": "Elo:  <color=#9EFEFF>",
+      "Translation": "Elo:  <color=#9EFEFF>",
+      "Comment": ""
+    },
+    {
+      "Key": "Replenished 5 models",
+      "Translation": "Påfyllde 5 modeller",
+      "Comment": ""
+    },
+    {
+      "Key": "{0} XP",
+      "Translation": "{0} XP",
+      "Comment": "",
+      "PluralOne": "{0} XP"
+    },
+    {
+      "Key": "Defeated by <color=#FFDF7C>",
+      "Translation": "Besegrad av <color=#FFDF7C>",
+      "Comment": ""
+    },
+    {
+      "Key": "2 Units",
+      "Translation": "2 enheter",
+      "Comment": ""
+    },
+    {
+      "Key": "<color=#81D7E5>3+ <size=85%></color> To Save",
+      "Translation": "<color=#81D7E5>3+ <size=85%></color> att spara",
+      "Comment": ""
+    },
+    {
+      "Key": "<color=#70F6FF> 3x</color> Auto Hits",
+      "Translation": "<color=#70F6FF> 3x</color> automatiska träffar",
+      "Comment": ""
+    },
+    {
+      "Key": "Power <color=#81D7E5><size=125%>5</color> </size>VS Defense <color=#81D7E5><size=125%>5</color> ",
+      "Translation": "Styrka <color=#81D7E5><size=125%>5</color> </size>mot försvar <color=#81D7E5><size=125%>5</color> ",
+      "Comment": ""
+    },
+    {
+      "Key": "Power 3 vs Defense 4",
+      "Translation": "Styrka 3 mot försvar 4",
+      "Comment": ""
+    },
+    {
+      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 32.",
+      "Translation": "Besegrad av <color=blue>Gundrik Anvilhide</color> på steg 32.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unlocked 1/5",
+      "Translation": "Upplåst 1/5",
+      "Comment": ""
+    },
+    {
+      "Key": "Mercenary Cut: <indent=55%><color=green><b>+10%",
+      "Translation": "Legoknektandel: <indent=55%><color=green><b>+10%",
+      "Comment": "The existing term is acceptable, but this keeps it consistent with the rest of the interface."
+    },
+    {
+      "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
+      "Translation": "(Dina enheter får +2 rörelsehastighet och +1 på avståndsattacker) ",
+      "Comment": ""
+    },
+    {
+      "Key": "Light Infantry - 99 pts",
+      "Translation": "Lätt infanteri - 99 p",
+      "Comment": ""
+    },
+    {
+      "Key": "<b>Draw<size=80%></color></b>\n",
+      "Translation": "<b>Oavgjort<size=80%></color></b>\n",
+      "Comment": ""
+    },
+    {
+      "Key": "{0} or lower to Hold",
+      "Translation": "{0} eller lägre för att hålla",
+      "Comment": ""
+    },
+    {
+      "Key": "{0} or lower to Rally",
+      "Translation": "{0} eller lägre för att samla sig",
+      "Comment": ""
+    },
+    {
+      "Key": "D6",
+      "Translation": "D6",
+      "Comment": ""
+    },
+    {
       "Key": "takes priority",
       "Translation": "har företräde",
+      "Comment": ""
+    },
+    {
+      "Key": "Turn {0} begins!",
+      "Translation": "Omgång {0} börjar!",
+      "Comment": ""
+    },
+    {
+      "Key": "Great Weapon <color=#B6F595>+1",
+      "Translation": "Stort vapen <color=#B6F595>+1",
       "Comment": ""
     }
   ]

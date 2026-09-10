@@ -7,21 +7,9 @@
       "Comment": ""
     },
     {
-      "Key": "Passed {0} Break Tests.",
-      "Translation": "{0} Moraltests bestanden.",
-      "Comment": "",
-      "PluralOne": "{0} Moraltest bestanden."
-    },
-    {
       "Key": "Dragon Slayer",
       "Translation": "Drachentöter",
       "Comment": ""
-    },
-    {
-      "Key": "Killed {0} dragons.",
-      "Translation": "{0} Drachen getötet.",
-      "Comment": "",
-      "PluralOne": "{0} Drache getötet."
     },
     {
       "Key": "Deadly",
@@ -29,21 +17,9 @@
       "Comment": ""
     },
     {
-      "Key": "Killed {0} enemies in combat.",
-      "Translation": "{0} Gegner im Kampf getötet.",
-      "Comment": "",
-      "PluralOne": "{0} Gegner im Kampf getötet."
-    },
-    {
       "Key": "Marksman",
       "Translation": "Scharfschütze",
       "Comment": ""
-    },
-    {
-      "Key": "Killed {0} enemies with ranged weapons.",
-      "Translation": "{0} Gegner mit Fernkampfwaffen getötet.",
-      "Comment": "",
-      "PluralOne": "{0} Gegner mit Fernkampfwaffen getötet."
     },
     {
       "Key": "Lucky",
@@ -51,21 +27,9 @@
       "Comment": ""
     },
     {
-      "Key": "Rolled {0} natural sixes ({1:P0} of all rolls).",
-      "Translation": "{0} natürliche Sechsen gewürfelt ({1:P0} aller Würfe).",
-      "Comment": "",
-      "PluralOne": "{0} natürliche Sechs gewürfelt ({1:P0} aller Würfe)."
-    },
-    {
       "Key": "Scorer",
       "Translation": "Punktesammler",
       "Comment": ""
-    },
-    {
-      "Key": "Captured {0} objectives.",
-      "Translation": "{0} Ziele erobert.",
-      "Comment": "",
-      "PluralOne": "{0} Ziel erobert."
     },
     {
       "Key": "Giant Slayer",
@@ -73,21 +37,9 @@
       "Comment": ""
     },
     {
-      "Key": "Killed {0} giants.",
-      "Translation": "{0} Riesen getötet.",
-      "Comment": "",
-      "PluralOne": "{0} Riese getötet."
-    },
-    {
       "Key": "Treefeller",
       "Translation": "Baumfäller",
       "Comment": ""
-    },
-    {
-      "Key": "Felled {0} tree monsters.",
-      "Translation": "{0} Baummonster gefällt.",
-      "Comment": "",
-      "PluralOne": "{0} Baummonster gefällt."
     },
     {
       "Key": "Dino Hunter",
@@ -95,21 +47,9 @@
       "Comment": ""
     },
     {
-      "Key": "Killed {0} dinosaurs.",
-      "Translation": "{0} Dinosaurier getötet.",
-      "Comment": "",
-      "PluralOne": "{0} Dinosaurier getötet."
-    },
-    {
       "Key": "Warmachine Hunter",
       "Translation": "Kriegsmaschinenjäger",
       "Comment": ""
-    },
-    {
-      "Key": "Killed {0} warmachines.",
-      "Translation": "{0} Kriegsmaschinen zerstört.",
-      "Comment": "",
-      "PluralOne": "{0} Kriegsmaschine zerstört."
     },
     {
       "Key": "Demon Hunter",
@@ -117,32 +57,14 @@
       "Comment": ""
     },
     {
-      "Key": "Slain {0} greater demons.",
-      "Translation": "{0} mächtige Dämonen getötet.",
-      "Comment": "",
-      "PluralOne": "{0} mächtigen Dämon getötet."
-    },
-    {
       "Key": "Duelist",
       "Translation": "Duellant",
       "Comment": ""
     },
     {
-      "Key": "Killed {0} Commanders.",
-      "Translation": "{0} Kommandanten getötet.",
-      "Comment": "",
-      "PluralOne": "{0} Kommandant getötet."
-    },
-    {
       "Key": "Spellslinger",
       "Translation": "Zauberwirker",
       "Comment": ""
-    },
-    {
-      "Key": "Cast {0} spells.",
-      "Translation": "{0} Zauber gewirkt.",
-      "Comment": "",
-      "PluralOne": "{0} Zauber gewirkt."
     },
     {
       "Key": "Coward",
@@ -158,12 +80,6 @@
       "Key": "Unlucky",
       "Translation": "Pechvogel",
       "Comment": ""
-    },
-    {
-      "Key": "Rolled {0} ones ({1:P0} of all rolls).",
-      "Translation": "{0} Einsen gewürfelt ({1:P0} aller Würfe).",
-      "Comment": "",
-      "PluralOne": "{0} Eins gewürfelt ({1:P0} aller Würfe)."
     },
     {
       "Key": "Last Man Standing",
@@ -199,12 +115,6 @@
       "Key": "Flanker",
       "Translation": "Flankierer",
       "Comment": ""
-    },
-    {
-      "Key": "Performed {0} flank/rear charges.",
-      "Translation": "{0} Flanken-/Heckangriffe ausgeführt.",
-      "Comment": "",
-      "PluralOne": "{0} Flanken-/Heckangriff ausgeführt."
     },
     {
       "Key": "Dragon Slayers",
@@ -265,6 +175,101 @@
       "Key": "Cursed!",
       "Translation": "Verflucht!",
       "Comment": ""
+    },
+    {
+      "Key": "Bloodthirsty!",
+      "Translation": "Blutrünstig!",
+      "Comment": ""
+    },
+    {
+      "Key": "Passed {0} Break Tests.",
+      "Translation": "{0} Moraltests bestanden.",
+      "Comment": "",
+      "PluralOne": "{0} Moraltest bestanden."
+    },
+    {
+      "Key": "Killed {0} dragons.",
+      "Translation": "{0} Drachen getötet.",
+      "Comment": "",
+      "PluralOne": "{0} Drache getötet."
+    },
+    {
+      "Key": "Killed {0} enemies in combat.",
+      "Translation": "{0} Gegner im Kampf getötet.",
+      "Comment": "",
+      "PluralOne": "{0} Gegner im Kampf getötet."
+    },
+    {
+      "Key": "Killed {0} enemies with ranged weapons.",
+      "Translation": "{0} Gegner mit Fernkampfwaffen getötet.",
+      "Comment": "",
+      "PluralOne": "{0} Gegner mit Fernkampfwaffen getötet."
+    },
+    {
+      "Key": "Rolled {0} natural sixes ({1:P0} of all rolls).",
+      "Translation": "{0} natürliche Sechsen gewürfelt ({1:P0} aller Würfe).",
+      "Comment": "",
+      "PluralOne": "{0} natürliche Sechs gewürfelt ({1:P0} aller Würfe)."
+    },
+    {
+      "Key": "Captured {0} objectives.",
+      "Translation": "{0} Ziele erobert.",
+      "Comment": "",
+      "PluralOne": "{0} Ziel erobert."
+    },
+    {
+      "Key": "Killed {0} giants.",
+      "Translation": "{0} Riesen getötet.",
+      "Comment": "",
+      "PluralOne": "{0} Riese getötet."
+    },
+    {
+      "Key": "Felled {0} tree monsters.",
+      "Translation": "{0} Baummonster gefällt.",
+      "Comment": "",
+      "PluralOne": "{0} Baummonster gefällt."
+    },
+    {
+      "Key": "Killed {0} dinosaurs.",
+      "Translation": "{0} Dinosaurier getötet.",
+      "Comment": "",
+      "PluralOne": "{0} Dinosaurier getötet."
+    },
+    {
+      "Key": "Killed {0} warmachines.",
+      "Translation": "{0} Kriegsmaschinen zerstört.",
+      "Comment": "",
+      "PluralOne": "{0} Kriegsmaschine zerstört."
+    },
+    {
+      "Key": "Slain {0} greater demons.",
+      "Translation": "{0} mächtige Dämonen getötet.",
+      "Comment": "",
+      "PluralOne": "{0} mächtigen Dämon getötet."
+    },
+    {
+      "Key": "Killed {0} Commanders.",
+      "Translation": "{0} Kommandanten getötet.",
+      "Comment": "",
+      "PluralOne": "{0} Kommandant getötet."
+    },
+    {
+      "Key": "Cast {0} spells.",
+      "Translation": "{0} Zauber gewirkt.",
+      "Comment": "",
+      "PluralOne": "{0} Zauber gewirkt."
+    },
+    {
+      "Key": "Rolled {0} ones ({1:P0} of all rolls).",
+      "Translation": "{0} Einsen gewürfelt ({1:P0} aller Würfe).",
+      "Comment": "",
+      "PluralOne": "{0} Eins gewürfelt ({1:P0} aller Würfe)."
+    },
+    {
+      "Key": "Performed {0} flank/rear charges.",
+      "Translation": "{0} Flanken-/Heckangriffe ausgeführt.",
+      "Comment": "",
+      "PluralOne": "{0} Flanken-/Heckangriff ausgeführt."
     }
   ]
 }

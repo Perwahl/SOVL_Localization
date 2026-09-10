@@ -587,11 +587,6 @@
       "Comment": "Battle objective"
     },
     {
-      "Key": "- Survive for 6 Turns -",
-      "Translation": "- 生存6轮 -",
-      "Comment": "Survival objective"
-    },
-    {
       "Key": "Unclaimed",
       "Translation": "未领取",
       "Comment": "Objective marker status"
@@ -625,11 +620,6 @@
       "Key": "...but more challenges await",
       "Translation": "...但更多挑战在等待",
       "Comment": "Campaign continuation message"
-    },
-    {
-      "Key": "{0}pts",
-      "Translation": "{0}分",
-      "Comment": "Points abbreviation - consistent with existing translations"
     },
     {
       "Key": "Opponent Disconnected",
@@ -677,11 +667,6 @@
       "Comment": "Mission reward notification"
     },
     {
-      "Key": "{0}% gold income",
-      "Translation": "{0}%金币收入",
-      "Comment": "Economic bonus"
-    },
-    {
       "Key": "Your regiment returns in the morning. But something has changed them...",
       "Translation": "你的团队在早上回来了。但某些东西改变了他们...",
       "Comment": "Campaign event - ominous tone"
@@ -727,26 +712,6 @@
       "Comment": "Kill count statistic"
     },
     {
-      "Key": "Win <size=80%><color=green>+",
-      "Translation": "胜<size=80%><color=green>+",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
-      "Key": "Loss <size=80%>",
-      "Translation": "负<size=80%>",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
-      "Key": "Total Points: <color=#9EFEFF>",
-      "Translation": "总分：<color=#9EFEFF>",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
-      "Key": "Elo:  <color=#9EFEFF>",
-      "Translation": "Elo：<color=#9EFEFF>",
-      "Comment": "Keep Elo as international rating term"
-    },
-    {
       "Key": "Restored 1 wound",
       "Translation": "恢复1处伤口",
       "Comment": "Healing notification"
@@ -762,29 +727,9 @@
       "Comment": "Unit replenishment"
     },
     {
-      "Key": "Replenished 5 models",
-      "Translation": "补充5个模型",
-      "Comment": "Unit replenishment"
-    },
-    {
-      "Key": "{0} XP",
-      "Translation": "{0} XP",
-      "Comment": "Experience Points"
-    },
-    {
-      "Key": "Defeated by <color=#FFDF7C>",
-      "Translation": "被<color=#FFDF7C>击败",
-      "Comment": "Campaign defeat message"
-    },
-    {
       "Key": "</color> in Act",
       "Translation": "</color>在第幕中击败",
       "Comment": "Campaign act reference"
-    },
-    {
-      "Key": "Great Weapon <color=#B6F595>+1",
-      "Translation": "巨型武器<color=#B6F595>+1",
-      "Comment": "Equipment bonus"
     },
     {
       "Key": "Menu",
@@ -952,11 +897,6 @@
       "Comment": "Equipment bonus"
     },
     {
-      "Key": "2 Units",
-      "Translation": "2个单位",
-      "Comment": "Unit count"
-    },
-    {
       "Key": "VS",
       "Translation": "VS",
       "Comment": "Versus - universally understood"
@@ -1007,11 +947,6 @@
       "Comment": "Combat participant"
     },
     {
-      "Key": "<color=#81D7E5>3+ <size=85%></color> To Save",
-      "Translation": "<color=#81D7E5>3+<size=85%></color>豁免",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
       "Key": "Reroll Failures",
       "Translation": "重新投掷失败",
       "Comment": "Combat action"
@@ -1020,11 +955,6 @@
       "Key": "Blaha vs Blaha",
       "Translation": "布拉哈对布拉哈",
       "Comment": "Example/placeholder text"
-    },
-    {
-      "Key": "<color=#70F6FF> 3x</color> Auto Hits",
-      "Translation": "<color=#70F6FF>3x</color>自动命中",
-      "Comment": "Combat result"
     },
     {
       "Key": "Event Panel",
@@ -1037,11 +967,6 @@
       "Comment": "Example/template text - appears to have formatting issue in original"
     },
     {
-      "Key": "Power <color=#81D7E5><size=125%>5</color> </size>VS Defense <color=#81D7E5><size=125%>5</color> ",
-      "Translation": "力量<color=#81D7E5><size=125%>5</color></size>对防御<color=#81D7E5><size=125%>5</color> ",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
       "Key": "-Opponent Roll-",
       "Translation": "-对手投掷-",
       "Comment": "Combat phase"
@@ -1050,11 +975,6 @@
       "Key": "Roll to Hit",
       "Translation": "投掷命中",
       "Comment": "Combat action"
-    },
-    {
-      "Key": "Power 3 vs Defense 4",
-      "Translation": "力量3对防御4",
-      "Comment": "Combat comparison"
     },
     {
       "Key": "Score\n",
@@ -1322,16 +1242,6 @@
       "Comment": "Menu action"
     },
     {
-      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 32.",
-      "Translation": "在第32步被<color=blue>古德里克铁砧隐者</color>击败",
-      "Comment": "Campaign defeat message with character name"
-    },
-    {
-      "Key": "Unlocked 1/5",
-      "Translation": "已解锁1/5",
-      "Comment": "Unlock progress"
-    },
-    {
       "Key": "Your army has been wiped out...\n",
       "Translation": "你的军队被彻底消灭了...\n",
       "Comment": "Campaign defeat message"
@@ -1485,11 +1395,6 @@
       "Key": "OR",
       "Translation": "或",
       "Comment": "Choice separator"
-    },
-    {
-      "Key": "Mercenary Cut: <indent=55%><color=green><b>+10%",
-      "Translation": "雇佣兵分成：<indent=55%><color=green><b>+10%",
-      "Comment": "Rich text formatting preserved"
     },
     {
       "Key": "- Legend -",
@@ -1897,11 +1802,6 @@
       "Comment": "Ability effect"
     },
     {
-      "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
-      "Translation": "（你的单位拥有+2移动速度和+1远程攻击投骰） ",
-      "Comment": "Effect description"
-    },
-    {
       "Key": "Deadly arrows crafted by the Deepwood Elves. Pick one.",
       "Translation": "由深林精灵制作的致命箭矢。选择一个。",
       "Comment": "Equipment choice"
@@ -1910,11 +1810,6 @@
       "Key": "Event Name",
       "Translation": "事件名称",
       "Comment": "Placeholder string"
-    },
-    {
-      "Key": "Light Infantry - 99 pts",
-      "Translation": "轻步兵 - 99分",
-      "Comment": "Unit cost display"
     },
     {
       "Key": "Level:",
@@ -2062,11 +1957,6 @@
       "Comment": "Equipment type"
     },
     {
-      "Key": "<b>Draw<size=80%></color></b>\n",
-      "Translation": "<b>平局<size=80%></color></b>\n",
-      "Comment": "Battle result - preserve rich text tags"
-    },
-    {
       "Key": "Challenge Level: 3",
       "Translation": "挑战等级：3",
       "Comment": "Campaign difficulty indicator"
@@ -2077,19 +1967,9 @@
       "Comment": "Campaign encounter description"
     },
     {
-      "Key": "Turn 1 begins!",
-      "Translation": "第1轮开始！",
-      "Comment": "Battle phase message"
-    },
-    {
       "Key": "Confident",
       "Translation": "自信",
       "Comment": "Morale state"
-    },
-    {
-      "Key": "Turn 3 begins!",
-      "Translation": "第3轮开始！",
-      "Comment": "Battle phase message"
     },
     {
       "Key": "activates",
@@ -2127,19 +2007,9 @@
       "Comment": "Morale test type"
     },
     {
-      "Key": "{0} or lower to Hold",
-      "Translation": "{0}或更低才能坚守",
-      "Comment": "Morale test success condition"
-    },
-    {
       "Key": "rally!",
       "Translation": "集结！",
       "Comment": "Unit regains morale"
-    },
-    {
-      "Key": "{0} or lower to Rally",
-      "Translation": "{0}或更低才能集结",
-      "Comment": "Rally test success condition"
     },
     {
       "Key": "fled off the board!",
@@ -2312,11 +2182,6 @@
       "Comment": ""
     },
     {
-      "Key": "D6",
-      "Translation": "D6",
-      "Comment": ""
-    },
-    {
       "Key": " Damage Save",
       "Translation": " 伤害豁免",
       "Comment": ""
@@ -2387,9 +2252,174 @@
       "Comment": ""
     },
     {
+      "Key": "Abominations",
+      "Translation": "憎恶",
+      "Comment": ""
+    },
+    {
+      "Key": "Army Destroyed",
+      "Translation": "军队被消灭",
+      "Comment": ""
+    },
+    {
+      "Key": "Tamed Beasts",
+      "Translation": "驯服野兽",
+      "Comment": ""
+    },
+    {
+      "Key": "Wild Beasts",
+      "Translation": "野兽",
+      "Comment": ""
+    },
+    {
+      "Key": "Forest Guardians",
+      "Translation": "森林守护者",
+      "Comment": ""
+    },
+    {
+      "Key": "BattleLine",
+      "Translation": "战列",
+      "Comment": ""
+    },
+    {
+      "Key": "Monsters",
+      "Translation": "怪物",
+      "Comment": ""
+    },
+    {
+      "Key": "- Survive for 6 Turns -",
+      "Translation": "- 生存6轮 -",
+      "Comment": "Survival objective"
+    },
+    {
+      "Key": "{0}pts",
+      "Translation": "{0}分",
+      "Comment": "Points abbreviation - consistent with existing translations"
+    },
+    {
+      "Key": "{0}% gold income",
+      "Translation": "{0}%金币收入",
+      "Comment": "Economic bonus"
+    },
+    {
+      "Key": "Win <size=80%><color=green>+",
+      "Translation": "胜<size=80%><color=green>+",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Loss <size=80%>",
+      "Translation": "负<size=80%>",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Total Points: <color=#9EFEFF>",
+      "Translation": "总分：<color=#9EFEFF>",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Elo:  <color=#9EFEFF>",
+      "Translation": "Elo：<color=#9EFEFF>",
+      "Comment": "Keep Elo as international rating term"
+    },
+    {
+      "Key": "Replenished 5 models",
+      "Translation": "补充5个模型",
+      "Comment": "Unit replenishment"
+    },
+    {
+      "Key": "{0} XP",
+      "Translation": "{0} XP",
+      "Comment": "Experience Points"
+    },
+    {
+      "Key": "Defeated by <color=#FFDF7C>",
+      "Translation": "被<color=#FFDF7C>击败",
+      "Comment": "Campaign defeat message"
+    },
+    {
+      "Key": "2 Units",
+      "Translation": "2个单位",
+      "Comment": "Unit count"
+    },
+    {
+      "Key": "<color=#81D7E5>3+ <size=85%></color> To Save",
+      "Translation": "<color=#81D7E5>3+<size=85%></color>豁免",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "<color=#70F6FF> 3x</color> Auto Hits",
+      "Translation": "<color=#70F6FF>3x</color>自动命中",
+      "Comment": "Combat result"
+    },
+    {
+      "Key": "Power <color=#81D7E5><size=125%>5</color> </size>VS Defense <color=#81D7E5><size=125%>5</color> ",
+      "Translation": "力量<color=#81D7E5><size=125%>5</color></size>对防御<color=#81D7E5><size=125%>5</color> ",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Power 3 vs Defense 4",
+      "Translation": "力量3对防御4",
+      "Comment": "Combat comparison"
+    },
+    {
+      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 32.",
+      "Translation": "在第32步被<color=blue>古德里克铁砧隐者</color>击败",
+      "Comment": "Campaign defeat message with character name"
+    },
+    {
+      "Key": "Unlocked 1/5",
+      "Translation": "已解锁1/5",
+      "Comment": "Unlock progress"
+    },
+    {
+      "Key": "Mercenary Cut: <indent=55%><color=green><b>+10%",
+      "Translation": "雇佣兵分成：<indent=55%><color=green><b>+10%",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
+      "Translation": "（你的单位拥有+2移动速度和+1远程攻击投骰） ",
+      "Comment": "Effect description"
+    },
+    {
+      "Key": "Light Infantry - 99 pts",
+      "Translation": "轻步兵 - 99分",
+      "Comment": "Unit cost display"
+    },
+    {
+      "Key": "<b>Draw<size=80%></color></b>\n",
+      "Translation": "<b>平局<size=80%></color></b>\n",
+      "Comment": "Battle result - preserve rich text tags"
+    },
+    {
+      "Key": "{0} or lower to Hold",
+      "Translation": "{0}或更低才能坚守",
+      "Comment": "Morale test success condition"
+    },
+    {
+      "Key": "{0} or lower to Rally",
+      "Translation": "{0}或更低才能集结",
+      "Comment": "Rally test success condition"
+    },
+    {
+      "Key": "D6",
+      "Translation": "D6",
+      "Comment": ""
+    },
+    {
       "Key": "takes priority",
       "Translation": "优先",
       "Comment": ""
+    },
+    {
+      "Key": "Turn {0} begins!",
+      "Translation": "第{0}轮开始！",
+      "Comment": ""
+    },
+    {
+      "Key": "Great Weapon <color=#B6F595>+1",
+      "Translation": "巨型武器<color=#B6F595>+1",
+      "Comment": "Equipment bonus"
     }
   ]
 }

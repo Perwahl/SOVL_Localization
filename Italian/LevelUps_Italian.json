@@ -7,11 +7,6 @@
       "Comment": ""
     },
     {
-      "Key": "Max Unit size +5",
-      "Translation": "Dimensione Massima Unità +5",
-      "Comment": ""
-    },
-    {
       "Key": "Unit Size II",
       "Translation": "Dimensione Unità II",
       "Comment": ""
@@ -25,11 +20,6 @@
       "Key": "Replenish I",
       "Translation": "Ricostituimento I",
       "Comment": "Refers to replenishing troop losses"
-    },
-    {
-      "Key": "+50% base unit Replenishment",
-      "Translation": "+50% Ricostituimento Unità Base",
-      "Comment": ""
     },
     {
       "Key": "Replenish II",
@@ -70,11 +60,6 @@
       "Key": "Coin Counter I",
       "Translation": "Incassatore di Monete I",
       "Comment": "Gold income bonus - maintains wargame flavor with mercenary context"
-    },
-    {
-      "Key": "+5% post battle income",
-      "Translation": "+5% Guadagno Post-Battaglia",
-      "Comment": ""
     },
     {
       "Key": "Coin Counter II",
@@ -147,11 +132,6 @@
       "Comment": "Fantasy spell terminology - 'Greater' suggests improved version"
     },
     {
-      "Key": "Upgrades Fireball to 2D6 hits.",
-      "Translation": "Migliora Palla di Fuoco a 2D6 colpi.",
-      "Comment": "Maintains game mechanics notation"
-    },
-    {
       "Key": "Greater Favour",
       "Translation": "Favore Divino Potenziato",
       "Comment": "Religious/divine magic theme"
@@ -175,11 +155,6 @@
       "Key": "Greater Fury",
       "Translation": "Furia Potenziata",
       "Comment": "Primal/bestial magic"
-    },
-    {
-      "Key": "Upgrades Primal Fury to give +2 Power.",
-      "Translation": "Migliora Furia Primordiale per dare +2 Potenza.",
-      "Comment": ""
     },
     {
       "Key": "Greater Web",
@@ -207,11 +182,6 @@
       "Comment": "Dark magic ranged spell"
     },
     {
-      "Key": "Upgrades Shadow Bolt to Power 5 and Range 24.",
-      "Translation": "Migliora Freccia d'Ombra a Potenza 5 e Portata 24.",
-      "Comment": ""
-    },
-    {
       "Key": "Greater Regrowth",
       "Translation": "Rigenerazione Potenziata",
       "Comment": "Healing spell - nature magic theme"
@@ -225,11 +195,6 @@
       "Key": "Greater Wildform",
       "Translation": "Forma Selvaggia Potenziata",
       "Comment": "Shapeshifting/beast form magic"
-    },
-    {
-      "Key": "Upgrades Wildform to give +4 Attacks.",
-      "Translation": "Migliora Forma Selvaggia per dare +4 Attacchi.",
-      "Comment": ""
     },
     {
       "Key": "Greater Raise",
@@ -267,19 +232,9 @@
       "Comment": "Primal, bestial spell name"
     },
     {
-      "Key": "Upgrades Thousand Mouths to Power 2.",
-      "Translation": "Migliora Mille Bocche a Potenza 2.",
-      "Comment": ""
-    },
-    {
       "Key": "Greater Blades",
       "Translation": "Lame Potenzziate",
       "Comment": "Enchanted weapons"
-    },
-    {
-      "Key": "Upgrades Fiery Blades to give +2 Power.",
-      "Translation": "Migliora Lame Infuocate per dare +2 Potenza.",
-      "Comment": ""
     },
     {
       "Key": "Greater Shroud",
@@ -305,11 +260,6 @@
       "Key": "Looter I",
       "Translation": "Saccheggiatore I",
       "Comment": "Military plunder theme"
-    },
-    {
-      "Key": "+5 gold when looting",
-      "Translation": "+5 Oro durante il saccheggio",
-      "Comment": ""
     },
     {
       "Key": "Looter II",
@@ -377,11 +327,6 @@
       "Comment": ""
     },
     {
-      "Key": "Ranged attack range increased by 5.",
-      "Translation": "Portata Attacchi a Distanza aumentata di 5.",
-      "Comment": ""
-    },
-    {
       "Key": "Rune Of Speed",
       "Translation": "Runa di Velocità",
       "Comment": ""
@@ -434,11 +379,6 @@
     {
       "Key": "Imperial Veterans II",
       "Translation": "Veterani Imperiali II",
-      "Comment": ""
-    },
-    {
-      "Key": "Unit has +5 range for Ranged attacks.",
-      "Translation": "L'unità ha +5 di portata per gli Attacchi a Distanza.",
       "Comment": ""
     },
     {
@@ -522,11 +462,6 @@
       "Comment": "Racial specialization in ranged combat"
     },
     {
-      "Key": "+5 range for Ranged Attacks.",
-      "Translation": "+5 Portata agli Attacchi a Distanza.",
-      "Comment": ""
-    },
-    {
       "Key": "Elf Bow Mastery II",
       "Translation": "Maestria dell'Arco Elfico II",
       "Comment": ""
@@ -597,19 +532,9 @@
       "Comment": "Aggressive aerial hunter"
     },
     {
-      "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
-      "Translation": "L'unità ottiene Attacchi Letali. (infligge 2x Ferite)",
-      "Comment": ""
-    },
-    {
       "Key": "Serpent Aspect",
       "Translation": "Aspetto del Serpente",
       "Comment": "Venomous, sinuous combatant"
-    },
-    {
-      "Key": "Unit gains Poisoned Attacks (enemies re-roll 6s on Damage Saves)",
-      "Translation": "L'unità ottiene Attacchi Avvelenati (i nemici ripetono i 6 nei Tiri Salvezza da Danno)",
-      "Comment": ""
     },
     {
       "Key": "Salamander Aspect",
@@ -685,11 +610,6 @@
       "Key": "Greater Warcry",
       "Translation": "Grido di Guerra Potenziato",
       "Comment": "Enhanced battle cry with morale-boosting effect"
-    },
-    {
-      "Key": "Warcry also gives +2 Move Speed to all units.",
-      "Translation": "Il Grido di Guerra dona anche +2 Velocità di Movimento a tutte le unità.",
-      "Comment": ""
     },
     {
       "Key": "Slavers",
@@ -812,11 +732,6 @@
       "Comment": ""
     },
     {
-      "Key": "Gain Deadly Strikes (deal 2x Wounds)",
-      "Translation": "Ottieni Colpi Mortali (infliggi 2x Ferite)",
-      "Comment": ""
-    },
-    {
       "Key": "Knightly Vow",
       "Translation": "Giuramento Cavalleresco",
       "Comment": "Chivalric oath marking noble elevation"
@@ -850,11 +765,6 @@
       "Key": "Avalon Marksmen I",
       "Translation": "Tiratori di Avalon I",
       "Comment": "Legendary realm elite archers"
-    },
-    {
-      "Key": "Unit has +5 range for Ranged Attacks.",
-      "Translation": "L'unità ha +5 di portata per gli Attacchi a Distanza.",
-      "Comment": ""
     },
     {
       "Key": "Avalon Marksmen II",
@@ -895,6 +805,101 @@
       "Key": "+3 range to Ranged Atacks.",
       "Translation": "+3 Portata agli Attacchi a Distanza.",
       "Comment": "Typo in source: 'Atacks' should be 'Attacks' - translated correctly"
+    },
+    {
+      "Key": "+1 bonus hit for Ranged Attack",
+      "Translation": "+1 colpo bonus per l'Attacco a Distanza",
+      "Comment": ""
+    },
+    {
+      "Key": "Max Unit size +5",
+      "Translation": "Dimensione Massima Unità +5",
+      "Comment": ""
+    },
+    {
+      "Key": "+50% base unit Replenishment",
+      "Translation": "+50% Ricostituimento Unità Base",
+      "Comment": ""
+    },
+    {
+      "Key": "+5% post battle income",
+      "Translation": "+5% Guadagno Post-Battaglia",
+      "Comment": ""
+    },
+    {
+      "Key": "Upgrades Fireball to 2D6 hits.",
+      "Translation": "Migliora Palla di Fuoco a 2D6 colpi.",
+      "Comment": "Maintains game mechanics notation"
+    },
+    {
+      "Key": "Upgrades Primal Fury to give +2 Power.",
+      "Translation": "Migliora Furia Primordiale per dare +2 Potenza.",
+      "Comment": ""
+    },
+    {
+      "Key": "Upgrades Shadow Bolt to Power 5 and Range 24.",
+      "Translation": "Migliora Freccia d'Ombra a Potenza 5 e Portata 24.",
+      "Comment": ""
+    },
+    {
+      "Key": "Upgrades Wildform to give +4 Attacks.",
+      "Translation": "Migliora Forma Selvaggia per dare +4 Attacchi.",
+      "Comment": ""
+    },
+    {
+      "Key": "Upgrades Thousand Mouths to Power 2.",
+      "Translation": "Migliora Mille Bocche a Potenza 2.",
+      "Comment": ""
+    },
+    {
+      "Key": "Upgrades Fiery Blades to give +2 Power.",
+      "Translation": "Migliora Lame Infuocate per dare +2 Potenza.",
+      "Comment": ""
+    },
+    {
+      "Key": "+5 gold when looting",
+      "Translation": "+5 Oro durante il saccheggio",
+      "Comment": ""
+    },
+    {
+      "Key": "Ranged attack range increased by 5.",
+      "Translation": "Portata Attacchi a Distanza aumentata di 5.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit has +5 range for Ranged attacks.",
+      "Translation": "L'unità ha +5 di portata per gli Attacchi a Distanza.",
+      "Comment": ""
+    },
+    {
+      "Key": "+5 range for Ranged Attacks.",
+      "Translation": "+5 Portata agli Attacchi a Distanza.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
+      "Translation": "L'unità ottiene Attacchi Letali. (infligge 2x Ferite)",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit gains Poisoned Attacks (enemies re-roll 6s on Damage Saves)",
+      "Translation": "L'unità ottiene Attacchi Avvelenati (i nemici ripetono i 6 nei Tiri Salvezza da Danno)",
+      "Comment": ""
+    },
+    {
+      "Key": "Warcry also gives +2 Move Speed to all units.",
+      "Translation": "Il Grido di Guerra dona anche +2 Velocità di Movimento a tutte le unità.",
+      "Comment": ""
+    },
+    {
+      "Key": "Gain Deadly Strikes (deal 2x Wounds)",
+      "Translation": "Ottieni Colpi Mortali (infliggi 2x Ferite)",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit has +5 range for Ranged Attacks.",
+      "Translation": "L'unità ha +5 di portata per gli Attacchi a Distanza.",
+      "Comment": ""
     }
   ]
 }

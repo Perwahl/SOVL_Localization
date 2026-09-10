@@ -7,11 +7,6 @@
       "Comment": ""
     },
     {
-      "Key": "Max Unit size +5",
-      "Translation": "Максимальный размер отряда +5",
-      "Comment": ""
-    },
-    {
       "Key": "Unit Size II",
       "Translation": "Размер отряда II",
       "Comment": ""
@@ -24,11 +19,6 @@
     {
       "Key": "Replenish I",
       "Translation": "Пополнение I",
-      "Comment": ""
-    },
-    {
-      "Key": "+50% base unit Replenishment",
-      "Translation": "+50% пополнение базовых единиц",
       "Comment": ""
     },
     {
@@ -70,11 +60,6 @@
       "Key": "Coin Counter I",
       "Translation": "Сборщик монет I",
       "Comment": "Gold income bonus"
-    },
-    {
-      "Key": "+5% post battle income",
-      "Translation": "+5% дохода после боя",
-      "Comment": ""
     },
     {
       "Key": "Coin Counter II",
@@ -147,11 +132,6 @@
       "Comment": ""
     },
     {
-      "Key": "Upgrades Fireball to 2D6 hits.",
-      "Translation": "Улучшает огненный шар до 2D6 попаданий",
-      "Comment": "Rules text: D3 is dice notation"
-    },
-    {
       "Key": "Greater Favour",
       "Translation": "Могучее покровительство",
       "Comment": "Favour is divine blessing in wargame context"
@@ -174,11 +154,6 @@
     {
       "Key": "Greater Fury",
       "Translation": "Могучая ярость",
-      "Comment": ""
-    },
-    {
-      "Key": "Upgrades Primal Fury to give +2 Power.",
-      "Translation": "Улучшает первобытную ярость, дав +2 мощи",
       "Comment": ""
     },
     {
@@ -207,11 +182,6 @@
       "Comment": ""
     },
     {
-      "Key": "Upgrades Shadow Bolt to Power 5 and Range 24.",
-      "Translation": "Улучшает черный болт до мощи 5 и дальности 24",
-      "Comment": "Rules text: 'Power' and 'Range' are game mechanics terms"
-    },
-    {
       "Key": "Greater Regrowth",
       "Translation": "Могучее возрождение",
       "Comment": "Healing spell"
@@ -224,11 +194,6 @@
     {
       "Key": "Greater Wildform",
       "Translation": "Могучая дикая форма",
-      "Comment": ""
-    },
-    {
-      "Key": "Upgrades Wildform to give +4 Attacks.",
-      "Translation": "Улучшает дикую форму, дав +4 атаки",
       "Comment": ""
     },
     {
@@ -267,18 +232,8 @@
       "Comment": ""
     },
     {
-      "Key": "Upgrades Thousand Mouths to Power 2.",
-      "Translation": "Улучшает тысячу ртов до мощи 2",
-      "Comment": "Rules text"
-    },
-    {
       "Key": "Greater Blades",
       "Translation": "Могучие клинки",
-      "Comment": ""
-    },
-    {
-      "Key": "Upgrades Fiery Blades to give +2 Power.",
-      "Translation": "Улучшает огненные клинки, дав +2 мощи",
       "Comment": ""
     },
     {
@@ -304,11 +259,6 @@
     {
       "Key": "Looter I",
       "Translation": "Грабитель I",
-      "Comment": ""
-    },
-    {
-      "Key": "+5 gold when looting",
-      "Translation": "+5 золота при грабеже",
       "Comment": ""
     },
     {
@@ -377,11 +327,6 @@
       "Comment": ""
     },
     {
-      "Key": "Ranged attack range increased by 5.",
-      "Translation": "Дальность дальнобойной атаки увеличена на 5",
-      "Comment": ""
-    },
-    {
       "Key": "Rune Of Speed",
       "Translation": "Руна скорости",
       "Comment": ""
@@ -435,11 +380,6 @@
       "Key": "Imperial Veterans II",
       "Translation": "Имперские ветераны II",
       "Comment": ""
-    },
-    {
-      "Key": "Unit has +5 range for Ranged attacks.",
-      "Translation": "Отряд имеет +5 дальность для дальнобойных атак",
-      "Comment": "Rules text"
     },
     {
       "Key": "Unit ignores penalties for difficult terrain.",
@@ -522,11 +462,6 @@
       "Comment": ""
     },
     {
-      "Key": "+5 range for Ranged Attacks.",
-      "Translation": "+5 дальности для дальнобойных атак",
-      "Comment": ""
-    },
-    {
       "Key": "Elf Bow Mastery II",
       "Translation": "Мастерство эльфийского лука II",
       "Comment": ""
@@ -597,19 +532,9 @@
       "Comment": "Fantasy transformation ability"
     },
     {
-      "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
-      "Translation": "Отряд получает летальные атаки (наносит 2x раны)",
-      "Comment": "Rules text: Lethal attacks mechanic"
-    },
-    {
       "Key": "Serpent Aspect",
       "Translation": "Облик змеи",
       "Comment": "Fantasy transformation ability"
-    },
-    {
-      "Key": "Unit gains Poisoned Attacks (enemies re-roll 6s on Damage Saves)",
-      "Translation": "Отряд получает ядовитые атаки (враги перебрасывают 6 при сохранениях урона)",
-      "Comment": "Rules text: Poisoned Attacks mechanic"
     },
     {
       "Key": "Salamander Aspect",
@@ -685,11 +610,6 @@
       "Key": "Greater Warcry",
       "Translation": "Могучий боевой клич",
       "Comment": ""
-    },
-    {
-      "Key": "Warcry also gives +2 Move Speed to all units.",
-      "Translation": "Боевой клич также дает +2 скорость движения всем отрядам",
-      "Comment": "Rules text"
     },
     {
       "Key": "Slavers",
@@ -812,11 +732,6 @@
       "Comment": ""
     },
     {
-      "Key": "Gain Deadly Strikes (deal 2x Wounds)",
-      "Translation": "Получить смертельные удары (наносят 2x раны)",
-      "Comment": "Rules text"
-    },
-    {
       "Key": "Knightly Vow",
       "Translation": "Рыцарская клятва",
       "Comment": ""
@@ -850,11 +765,6 @@
       "Key": "Avalon Marksmen I",
       "Translation": "Авалонские стрелки I",
       "Comment": "Avalon is fantasy realm in the setting"
-    },
-    {
-      "Key": "Unit has +5 range for Ranged Attacks.",
-      "Translation": "Отряд имеет +5 дальности для дальнобойных атак",
-      "Comment": "Rules text"
     },
     {
       "Key": "Avalon Marksmen II",
@@ -895,6 +805,101 @@
       "Key": "+3 range to Ranged Atacks.",
       "Translation": "+3 дальности к дальним атакам",
       "Comment": "Note: Typo in source 'Atacks' should be 'Attacks'"
+    },
+    {
+      "Key": "+1 bonus hit for Ranged Attack",
+      "Translation": "+1 бонусное попадание для дальнобойной атаки",
+      "Comment": ""
+    },
+    {
+      "Key": "Max Unit size +5",
+      "Translation": "Максимальный размер отряда +5",
+      "Comment": ""
+    },
+    {
+      "Key": "+50% base unit Replenishment",
+      "Translation": "+50% пополнение базовых единиц",
+      "Comment": ""
+    },
+    {
+      "Key": "+5% post battle income",
+      "Translation": "+5% дохода после боя",
+      "Comment": ""
+    },
+    {
+      "Key": "Upgrades Fireball to 2D6 hits.",
+      "Translation": "Улучшает огненный шар до 2D6 попаданий",
+      "Comment": "Rules text: D3 is dice notation"
+    },
+    {
+      "Key": "Upgrades Primal Fury to give +2 Power.",
+      "Translation": "Улучшает первобытную ярость, дав +2 мощи",
+      "Comment": ""
+    },
+    {
+      "Key": "Upgrades Shadow Bolt to Power 5 and Range 24.",
+      "Translation": "Улучшает черный болт до мощи 5 и дальности 24",
+      "Comment": "Rules text: 'Power' and 'Range' are game mechanics terms"
+    },
+    {
+      "Key": "Upgrades Wildform to give +4 Attacks.",
+      "Translation": "Улучшает дикую форму, дав +4 атаки",
+      "Comment": ""
+    },
+    {
+      "Key": "Upgrades Thousand Mouths to Power 2.",
+      "Translation": "Улучшает тысячу ртов до мощи 2",
+      "Comment": "Rules text"
+    },
+    {
+      "Key": "Upgrades Fiery Blades to give +2 Power.",
+      "Translation": "Улучшает огненные клинки, дав +2 мощи",
+      "Comment": ""
+    },
+    {
+      "Key": "+5 gold when looting",
+      "Translation": "+5 золота при грабеже",
+      "Comment": ""
+    },
+    {
+      "Key": "Ranged attack range increased by 5.",
+      "Translation": "Дальность дальнобойной атаки увеличена на 5",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit has +5 range for Ranged attacks.",
+      "Translation": "Отряд имеет +5 дальность для дальнобойных атак",
+      "Comment": "Rules text"
+    },
+    {
+      "Key": "+5 range for Ranged Attacks.",
+      "Translation": "+5 дальности для дальнобойных атак",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
+      "Translation": "Отряд получает летальные атаки (наносит 2x раны)",
+      "Comment": "Rules text: Lethal attacks mechanic"
+    },
+    {
+      "Key": "Unit gains Poisoned Attacks (enemies re-roll 6s on Damage Saves)",
+      "Translation": "Отряд получает ядовитые атаки (враги перебрасывают 6 при сохранениях урона)",
+      "Comment": "Rules text: Poisoned Attacks mechanic"
+    },
+    {
+      "Key": "Warcry also gives +2 Move Speed to all units.",
+      "Translation": "Боевой клич также дает +2 скорость движения всем отрядам",
+      "Comment": "Rules text"
+    },
+    {
+      "Key": "Gain Deadly Strikes (deal 2x Wounds)",
+      "Translation": "Получить смертельные удары (наносят 2x раны)",
+      "Comment": "Rules text"
+    },
+    {
+      "Key": "Unit has +5 range for Ranged Attacks.",
+      "Translation": "Отряд имеет +5 дальности для дальнобойных атак",
+      "Comment": "Rules text"
     }
   ]
 }

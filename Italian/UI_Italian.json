@@ -587,11 +587,6 @@
       "Comment": "Primary battle objective. Military fantasy tone."
     },
     {
-      "Key": "- Survive for 6 Turns -",
-      "Translation": "- Sopravvivi per 6 Turni -",
-      "Comment": "Defensive battle objective. Clear and direct."
-    },
-    {
       "Key": "Unclaimed",
       "Translation": "Non Reclamato",
       "Comment": "Objective not yet held by anyone. Standard wargame terminology."
@@ -625,11 +620,6 @@
       "Key": "...but more challenges await",
       "Translation": "...ma più sfide ti attendono",
       "Comment": ""
-    },
-    {
-      "Key": "{0}pts",
-      "Translation": "{0} pt",
-      "Comment": "Points abbreviation - consistent with existing translations"
     },
     {
       "Key": "Opponent Disconnected",
@@ -677,12 +667,6 @@
       "Comment": ""
     },
     {
-      "Key": "{0}% gold income",
-      "Translation": "{0}% del reddito d'oro",
-      "Comment": "",
-      "PluralOne": "{0}% del reddito d'oro"
-    },
-    {
       "Key": "Your regiment returns in the morning. But something has changed them...",
       "Translation": "Il tuo reggimento ritorna al mattino. Ma qualcosa li ha cambiati...",
       "Comment": "Campaign event - ominous tone"
@@ -728,26 +712,6 @@
       "Comment": ""
     },
     {
-      "Key": "Win <size=80%><color=green>+",
-      "Translation": "Vittoria <size=80%><color=green>+",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
-      "Key": "Loss <size=80%>",
-      "Translation": "Sconfitta <size=80%>",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
-      "Key": "Total Points: <color=#9EFEFF>",
-      "Translation": "Punti Totali: <color=#9EFEFF>",
-      "Comment": "Rich text formatting preserved"
-    },
-    {
-      "Key": "Elo:  <color=#9EFEFF>",
-      "Translation": "Elo:  <color=#9EFEFF>",
-      "Comment": "Keep Elo as international rating term"
-    },
-    {
       "Key": "Restored 1 wound",
       "Translation": "1 ferita ripristinata",
       "Comment": ""
@@ -763,29 +727,8 @@
       "Comment": "Unit replenishment"
     },
     {
-      "Key": "Replenished 5 models",
-      "Translation": "5 modelli reintegrati",
-      "Comment": ""
-    },
-    {
-      "Key": "{0} XP",
-      "Translation": "{0} PE",
-      "Comment": "",
-      "PluralOne": "{0} PE"
-    },
-    {
-      "Key": "Defeated by <color=#FFDF7C>",
-      "Translation": "Sconfitto da <color=#FFDF7C>",
-      "Comment": "Campaign defeat message"
-    },
-    {
       "Key": "</color> in Act",
       "Translation": "</color> nell'Atto",
-      "Comment": ""
-    },
-    {
-      "Key": "Great Weapon <color=#B6F595>+1",
-      "Translation": "Arma Straordinaria <color=#B6F595>+1",
       "Comment": ""
     },
     {
@@ -954,11 +897,6 @@
       "Comment": "Enhanced weapon notation. Maintains game mechanics terminology."
     },
     {
-      "Key": "2 Units",
-      "Translation": "2 Unità",
-      "Comment": "Unit count descriptor. Functional notation."
-    },
-    {
       "Key": "VS",
       "Translation": "VS",
       "Comment": "Versus indicator. Left as-is - universally understood in gaming."
@@ -1009,11 +947,6 @@
       "Comment": "Combat participant label. Formal terminology."
     },
     {
-      "Key": "<color=#81D7E5>3+ <size=85%></color> To Save",
-      "Translation": "<color=#81D7E5>3+ <size=85%></color> Per Salvarsi",
-      "Comment": "Combat odds notation. Rich text formatting preserved."
-    },
-    {
       "Key": "Reroll Failures",
       "Translation": "Rilancia Fallimenti",
       "Comment": "Combat action. Direct action term."
@@ -1022,11 +955,6 @@
       "Key": "Blaha vs Blaha",
       "Translation": "Blaha vs Blaha",
       "Comment": "Example/placeholder text - left as-is for template purposes."
-    },
-    {
-      "Key": "<color=#70F6FF> 3x</color> Auto Hits",
-      "Translation": "<color=#70F6FF> 3x</color> Colpi Automatici",
-      "Comment": "Combat result notation. Rich text formatting preserved."
     },
     {
       "Key": "Event Panel",
@@ -1039,11 +967,6 @@
       "Comment": "Battle event message. Maintains action-packed tone."
     },
     {
-      "Key": "Power <color=#81D7E5><size=125%>5</color> </size>VS Defense <color=#81D7E5><size=125%>5</color> ",
-      "Translation": "Potenza <color=#81D7E5><size=125%>5</color> </size>VS Difesa <color=#81D7E5><size=125%>5</color> ",
-      "Comment": "Combat comparison display. Rich text formatting preserved."
-    },
-    {
       "Key": "-Opponent Roll-",
       "Translation": "-Tiro dell'Avversario-",
       "Comment": "Combat phase indicator. Maintains dash notation."
@@ -1052,11 +975,6 @@
       "Key": "Roll to Hit",
       "Translation": "Tiro per Colpire",
       "Comment": "Combat mechanics. Standard wargame terminology."
-    },
-    {
-      "Key": "Power 3 vs Defense 4",
-      "Translation": "Potenza 3 contro Difesa 4",
-      "Comment": "Combat comparison. Direct and clear."
     },
     {
       "Key": "Score\n",
@@ -1324,16 +1242,6 @@
       "Comment": ""
     },
     {
-      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 32.",
-      "Translation": "Sconfitto da <color=blue>Gundrik Incudinepelle</color> al passo 32.",
-      "Comment": "Campaign defeat message with character name"
-    },
-    {
-      "Key": "Unlocked 1/5",
-      "Translation": "Sbloccato 1/5",
-      "Comment": ""
-    },
-    {
       "Key": "Your army has been wiped out...\n",
       "Translation": "La tua armata è stata annientata...\n",
       "Comment": "Campaign defeat message"
@@ -1487,11 +1395,6 @@
       "Key": "OR",
       "Translation": "OPPURE",
       "Comment": ""
-    },
-    {
-      "Key": "Mercenary Cut: <indent=55%><color=green><b>+10%",
-      "Translation": "Compenso dei Mercenari: <indent=55%><color=green><b>+10%",
-      "Comment": "Rich text formatting preserved"
     },
     {
       "Key": "- Legend -",
@@ -1899,11 +1802,6 @@
       "Comment": ""
     },
     {
-      "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
-      "Translation": "(Le tue unità hanno +2 Velocità Movimento e +1 ai Tiri di Attacco a Distanza) ",
-      "Comment": ""
-    },
-    {
       "Key": "Deadly arrows crafted by the Deepwood Elves. Pick one.",
       "Translation": "Frecce mortali forgiate dagli Elfi della Foresta Profonda. Scegline una.",
       "Comment": ""
@@ -1912,11 +1810,6 @@
       "Key": "Event Name",
       "Translation": "Nome Evento",
       "Comment": "Placeholder string"
-    },
-    {
-      "Key": "Light Infantry - 99 pts",
-      "Translation": "Fanteria Leggera - 99 pt",
-      "Comment": ""
     },
     {
       "Key": "Level:",
@@ -2064,11 +1957,6 @@
       "Comment": ""
     },
     {
-      "Key": "<b>Draw<size=80%></color></b>\n",
-      "Translation": "<b>Pareggio<size=80%></color></b>\n",
-      "Comment": "Battle result - preserve rich text tags"
-    },
-    {
       "Key": "Challenge Level: 3",
       "Translation": "Livello di Sfida: 3",
       "Comment": "Campaign difficulty indicator"
@@ -2079,19 +1967,9 @@
       "Comment": "Campaign encounter description"
     },
     {
-      "Key": "Turn 1 begins!",
-      "Translation": "Turno 1 inizia!",
-      "Comment": ""
-    },
-    {
       "Key": "Confident",
       "Translation": "Fiducioso",
       "Comment": "Morale state"
-    },
-    {
-      "Key": "Turn 3 begins!",
-      "Translation": "Turno 3 inizia!",
-      "Comment": ""
     },
     {
       "Key": "activates",
@@ -2129,19 +2007,9 @@
       "Comment": "Test to see if unit breaks and flees"
     },
     {
-      "Key": "{0} or lower to Hold",
-      "Translation": "{0} o inferiore per Resistere",
-      "Comment": "Morale test success condition"
-    },
-    {
       "Key": "rally!",
       "Translation": "riscuotiti!",
       "Comment": "Unit regains morale"
-    },
-    {
-      "Key": "{0} or lower to Rally",
-      "Translation": "{0} o inferiore per Riscuotersi",
-      "Comment": "Rally test success condition"
     },
     {
       "Key": "fled off the board!",
@@ -2314,11 +2182,6 @@
       "Comment": ""
     },
     {
-      "Key": "D6",
-      "Translation": "D6",
-      "Comment": ""
-    },
-    {
       "Key": " Damage Save",
       "Translation": " Tiro Salvezza Danno",
       "Comment": ""
@@ -2389,8 +2252,175 @@
       "Comment": ""
     },
     {
+      "Key": "Abominations",
+      "Translation": "Abomini",
+      "Comment": ""
+    },
+    {
+      "Key": "Army Destroyed",
+      "Translation": "Armata Distrutta",
+      "Comment": ""
+    },
+    {
+      "Key": "Tamed Beasts",
+      "Translation": "Bestie Addomesticate",
+      "Comment": ""
+    },
+    {
+      "Key": "Wild Beasts",
+      "Translation": "Bestie Selvagge",
+      "Comment": ""
+    },
+    {
+      "Key": "Forest Guardians",
+      "Translation": "Guardiani della Foresta",
+      "Comment": ""
+    },
+    {
+      "Key": "BattleLine",
+      "Translation": "Linea di Battaglia",
+      "Comment": ""
+    },
+    {
+      "Key": "Monsters",
+      "Translation": "Mostri",
+      "Comment": ""
+    },
+    {
+      "Key": "- Survive for 6 Turns -",
+      "Translation": "- Sopravvivi per 6 Turni -",
+      "Comment": "Defensive battle objective. Clear and direct."
+    },
+    {
+      "Key": "{0}pts",
+      "Translation": "{0} pt",
+      "Comment": "Points abbreviation - consistent with existing translations"
+    },
+    {
+      "Key": "{0}% gold income",
+      "Translation": "{0}% del reddito d'oro",
+      "Comment": "",
+      "PluralOne": "{0}% del reddito d'oro"
+    },
+    {
+      "Key": "Win <size=80%><color=green>+",
+      "Translation": "Vittoria <size=80%><color=green>+",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Loss <size=80%>",
+      "Translation": "Sconfitta <size=80%>",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Total Points: <color=#9EFEFF>",
+      "Translation": "Punti Totali: <color=#9EFEFF>",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "Elo:  <color=#9EFEFF>",
+      "Translation": "Elo:  <color=#9EFEFF>",
+      "Comment": "Keep Elo as international rating term"
+    },
+    {
+      "Key": "Replenished 5 models",
+      "Translation": "5 modelli reintegrati",
+      "Comment": ""
+    },
+    {
+      "Key": "{0} XP",
+      "Translation": "{0} PE",
+      "Comment": "",
+      "PluralOne": "{0} PE"
+    },
+    {
+      "Key": "Defeated by <color=#FFDF7C>",
+      "Translation": "Sconfitto da <color=#FFDF7C>",
+      "Comment": "Campaign defeat message"
+    },
+    {
+      "Key": "2 Units",
+      "Translation": "2 Unità",
+      "Comment": "Unit count descriptor. Functional notation."
+    },
+    {
+      "Key": "<color=#81D7E5>3+ <size=85%></color> To Save",
+      "Translation": "<color=#81D7E5>3+ <size=85%></color> Per Salvarsi",
+      "Comment": "Combat odds notation. Rich text formatting preserved."
+    },
+    {
+      "Key": "<color=#70F6FF> 3x</color> Auto Hits",
+      "Translation": "<color=#70F6FF> 3x</color> Colpi Automatici",
+      "Comment": "Combat result notation. Rich text formatting preserved."
+    },
+    {
+      "Key": "Power <color=#81D7E5><size=125%>5</color> </size>VS Defense <color=#81D7E5><size=125%>5</color> ",
+      "Translation": "Potenza <color=#81D7E5><size=125%>5</color> </size>VS Difesa <color=#81D7E5><size=125%>5</color> ",
+      "Comment": "Combat comparison display. Rich text formatting preserved."
+    },
+    {
+      "Key": "Power 3 vs Defense 4",
+      "Translation": "Potenza 3 contro Difesa 4",
+      "Comment": "Combat comparison. Direct and clear."
+    },
+    {
+      "Key": "Defeated by <color=blue>Gundrik Anvilhide</color> on step 32.",
+      "Translation": "Sconfitto da <color=blue>Gundrik Incudinepelle</color> al passo 32.",
+      "Comment": "Campaign defeat message with character name"
+    },
+    {
+      "Key": "Unlocked 1/5",
+      "Translation": "Sbloccato 1/5",
+      "Comment": ""
+    },
+    {
+      "Key": "Mercenary Cut: <indent=55%><color=green><b>+10%",
+      "Translation": "Compenso dei Mercenari: <indent=55%><color=green><b>+10%",
+      "Comment": "Rich text formatting preserved"
+    },
+    {
+      "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
+      "Translation": "(Le tue unità hanno +2 Velocità Movimento e +1 ai Tiri di Attacco a Distanza) ",
+      "Comment": ""
+    },
+    {
+      "Key": "Light Infantry - 99 pts",
+      "Translation": "Fanteria Leggera - 99 pt",
+      "Comment": ""
+    },
+    {
+      "Key": "<b>Draw<size=80%></color></b>\n",
+      "Translation": "<b>Pareggio<size=80%></color></b>\n",
+      "Comment": "Battle result - preserve rich text tags"
+    },
+    {
+      "Key": "{0} or lower to Hold",
+      "Translation": "{0} o inferiore per Resistere",
+      "Comment": "Morale test success condition"
+    },
+    {
+      "Key": "{0} or lower to Rally",
+      "Translation": "{0} o inferiore per Riscuotersi",
+      "Comment": "Rally test success condition"
+    },
+    {
+      "Key": "D6",
+      "Translation": "D6",
+      "Comment": ""
+    },
+    {
       "Key": "takes priority",
       "Translation": "ha la priorità",
+      "Comment": ""
+    },
+    {
+      "Key": "Turn {0} begins!",
+      "Translation": "Il Turno {0} inizia!",
+      "Comment": ""
+    },
+    {
+      "Key": "Great Weapon <color=#B6F595>+1",
+      "Translation": "Arma Straordinaria <color=#B6F595>+1",
       "Comment": ""
     }
   ]
