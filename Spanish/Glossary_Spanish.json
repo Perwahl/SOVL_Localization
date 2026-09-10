@@ -24,7 +24,7 @@
       "Notes": "Stat block name. Must be distinct from [stat.defense] and from any word used for magical power.",
       "ExampleUsage": [
         "Hex of Ruin also reduces Power.",
-        "Upgrades Primal Fury to give +2 Power."
+        "Reanimate also gives +1 Power and Defense."
       ]
     },
     {
@@ -66,7 +66,7 @@
       "Notes": "Stat block name. The same word is also the unit of damage caused ('one point for each wound caused'); keep them the same word.",
       "ExampleUsage": [
         "+1 Wounds",
-        "Unit gains Lethal attacks. (deals 2x wounds)"
+        "Unit gains Regeneration. (restores lost wounds at end of turn)"
       ]
     },
     {
@@ -187,8 +187,8 @@
       "AlsoWrittenAs": "Hits",
       "Notes": "A hit is not yet a wound. Keep the two words distinct.",
       "ExampleUsage": [
-        "Upgrades Fireball to 2D6 hits.",
-        "Roll to Hit"
+        "+1 bonus hit for Ranged Attack",
+        "Upgrades Fireball to 2D6 hits."
       ]
     },
     {
@@ -551,8 +551,8 @@
       "Definition": "The maximum distance a Ranged Attack can reach, in inches.",
       "Notes": "Appears constantly in weapon text as 'Range: 24.'. Keep it short; this string sits in a narrow UI column.",
       "ExampleUsage": [
-        "Upgrades Shadow Bolt to Power 5 and Range 24.",
-        "Ranged attack range increased by 5."
+        "Unit has +10 range for Ranged Attacks.",
+        "+3 range to Ranged Atacks."
       ]
     },
     {
@@ -588,7 +588,7 @@
       "Notes": "The single most common rules word in the game. Must be distinct from [unit.model].",
       "ExampleUsage": [
         "Unit Size I",
-        "Max Unit size +5"
+        "Unit Size II"
       ]
     },
     {
@@ -672,7 +672,7 @@
       "Notes": "This is a targeting category in ability text, not just flavour.",
       "ExampleUsage": [
         "Reroll Ranged and Combat Attacks against Monsters.",
-        "Felled {0} tree monsters."
+        "Monsters"
       ]
     },
     {
@@ -892,7 +892,7 @@
       "Notes": "Named property. Must NOT share a stem with [movement.flightMove], which is a rout move, not flight.",
       "ExampleUsage": [
         "Dwarf Flying Machine",
-        "Once per battle: Gain Flying for one turn."
+        "Goblin Flying Machine"
       ]
     },
     {
@@ -917,8 +917,8 @@
       "Definition": "Enemies reroll successful Damage Saves against this unit.",
       "Notes": "Must contain the target term for [stat.attacks].",
       "ExampleUsage": [
-        "Unit gains Poisoned Attacks (enemies re-roll 6s on Damage Saves)",
-        "Gain Poisoned Attacks"
+        "Gain Poisoned Attacks",
+        "Unit gains Poisoned Attacks (enemies re-roll 6s on Damage Saves)"
       ]
     },
     {
@@ -998,8 +998,8 @@
       "AlsoWrittenAs": "Battles",
       "Notes": "Keep distinct from [combat.engagement], which is a single melee within a battle.",
       "ExampleUsage": [
-        "+5% post battle income",
-        "Battle Hardened I"
+        "Battle Hardened I",
+        "Battle Hardened II"
       ]
     },
     {
@@ -1195,8 +1195,8 @@
       "Definition": "Experience points earned by units in campaign play.",
       "Notes": "Short form used in tight UI. Keep the target form short; leaving it as 'XP' is acceptable in most languages.",
       "ExampleUsage": [
-        "{0} XP",
-        "+1 XP"
+        "+1 XP",
+        "XP:"
       ]
     },
     {
