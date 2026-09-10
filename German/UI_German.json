@@ -805,7 +805,7 @@
     },
     {
       "Key": "- Charge Phase -",
-      "Translation": "- Angriffphase -",
+      "Translation": "- Ansturmphase -",
       "Comment": "Battle phase"
     },
     {
@@ -995,7 +995,7 @@
     },
     {
       "Key": "Rank Bonus:",
-      "Translation": "Rangbonus:",
+      "Translation": "Reihenbonus:",
       "Comment": ""
     },
     {
@@ -1135,7 +1135,7 @@
     },
     {
       "Key": "Units always add their rank bonus to Discipline Tests",
-      "Translation": "Einheiten addieren immer ihren Rangbonus zu Disziplinproben",
+      "Translation": "Einheiten addieren immer ihren Reihenbonus zu Disziplinproben",
       "Comment": "Rules tip"
     },
     {

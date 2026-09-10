@@ -993,7 +993,7 @@
     },
     {
       "Key": "Rank Bonus:",
-      "Translation": "等级奖励：",
+      "Translation": "横列奖励：",
       "Comment": "Formation bonus"
     },
     {
@@ -1133,7 +1133,7 @@
     },
     {
       "Key": "Units always add their rank bonus to Discipline Tests",
-      "Translation": "单位总是将他们的等级奖励加入纪律测试中",
+      "Translation": "单位总是将他们的横列奖励加入纪律测试中",
       "Comment": "Rules tip"
     },
     {

@@ -118,7 +118,7 @@
     },
     {
       "Key": "Killed {0} Commanders.",
-      "Translation": "司令官{0}人を倒した。",
+      "Translation": "指揮官{0}人を倒した。",
       "Comment": "複数敵: 複数形も同じパターン"
     },
     {
