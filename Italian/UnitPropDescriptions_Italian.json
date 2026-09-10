@@ -173,7 +173,7 @@
     },
     {
       "Key": "All your Goblins are Fearless for one turn. Activate once per battle. ",
-      "Translation": "Tutti i tuoi Goblin sono Senza Paura per un turno. Attiva una volta per battaglia.",
+      "Translation": "Tutti i tuoi Goblin sono Senza Paura per un turno. Attiva una volta per battaglia. ",
       "Comment": "Species-specific buff"
     },
     {
@@ -258,7 +258,7 @@
     },
     {
       "Key": "Raise D3+3 models on a Zombie or Skeleton Warrior, Spear or Archer unit. ",
-      "Translation": "Evoca D3+3 modelli in un'unità di Zombie o Guerrieri Scheletri, Lancia o Arcieri.",
+      "Translation": "Evoca D3+3 modelli in un'unità di Zombie o Guerrieri Scheletri, Lancia o Arcieri. ",
       "Comment": "Necromancy summoning"
     },
     {
@@ -298,12 +298,12 @@
     },
     {
       "Key": "All your Northmen are Fearless for one turn. Activate once per battle. ",
-      "Translation": "Tutti i tuoi Uomini del Nord sono Senza Paura per un turno. Attiva una volta per battaglia.",
+      "Translation": "Tutti i tuoi Uomini del Nord sono Senza Paura per un turno. Attiva una volta per battaglia. ",
       "Comment": ""
     },
     {
       "Key": "Restore all used spell charges. ",
-      "Translation": "Ripristina tutti gli incantesimi usati.",
+      "Translation": "Ripristina tutti gli incantesimi usati. ",
       "Comment": ""
     },
     {
@@ -558,7 +558,7 @@
     },
     {
       "Key": " Unit re-rolls missed Attack Rolls.",
-      "Translation": "L'unità rilancia i Tiri di Attacco mancati.",
+      "Translation": " L'unità rilancia i Tiri di Attacco mancati.",
       "Comment": ""
     },
     {
@@ -608,7 +608,7 @@
     },
     {
       "Key": "Opponents re-roll hits in close combat. ",
-      "Translation": "Gli avversari rilanciano i colpi nel combattimento ravvicinato.",
+      "Translation": "Gli avversari rilanciano i colpi nel combattimento ravvicinato. ",
       "Comment": ""
     },
     {
@@ -668,12 +668,12 @@
     },
     {
       "Key": " +1 Attack and Fearless. Activate once per battle.",
-      "Translation": "+1 Attacco e Senza Paura. Attiva una volta per battaglia.",
+      "Translation": " +1 Attacco e Senza Paura. Attiva una volta per battaglia.",
       "Comment": ""
     },
     {
       "Key": " Reroll 1s on Damage Saves",
-      "Translation": "Rilancia i 1 ai Tiri Salvezza dai Danni",
+      "Translation": " Rilancia i 1 ai Tiri Salvezza dai Danni",
       "Comment": ""
     },
     {
@@ -698,7 +698,7 @@
     },
     {
       "Key": " +1 Wounds",
-      "Translation": "+1 Ferite",
+      "Translation": " +1 Ferite",
       "Comment": ""
     },
     {
@@ -728,7 +728,7 @@
     },
     {
       "Key": "Maiden and retinue rerolls 1s on Damage Saves.. Activate once per battle; all friendly Knights reroll failed Damage Saves. ",
-      "Translation": "La Sacerdotessa e la Corte rilanciano i 1 ai Tiri Salvezza dai Danni. Attiva una volta per battaglia; tutti i Cavalieri amici rilanciano i Tiri Salvezza dai Danni falliti.",
+      "Translation": "La Sacerdotessa e la Corte rilanciano i 1 ai Tiri Salvezza dai Danni. Attiva una volta per battaglia; tutti i Cavalieri amici rilanciano i Tiri Salvezza dai Danni falliti. ",
       "Comment": ""
     },
     {
@@ -763,7 +763,7 @@
     },
     {
       "Key": "Range: 24. Power 4. ",
-      "Translation": "Gittata: 24. Potenza 4.",
+      "Translation": "Gittata: 24. Potenza 4. ",
       "Comment": ""
     },
     {

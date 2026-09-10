@@ -248,7 +248,7 @@
     },
     {
       "Key": "Reanimate also gives +1 Power and Defense.",
-      "Translation": "再生はさらに武力 +1と防御 +1を与える。",
+      "Translation": "蘇生術はさらに力と防御を+1する。",
       "Comment": "Game mechanics, shows stat bonuses from ability"
     },
     {
@@ -488,7 +488,7 @@
     },
     {
       "Key": "Unit can fire ranged weapons in one additional rank",
-      "Translation": "ユニットは追加1列から遠距離兵器を発火できる。",
+      "Translation": "ユニットは追加の横列から遠距離武器を撃てる",
       "Comment": "Ranged combat formation bonus, battlefield positioning"
     },
     {
@@ -543,7 +543,7 @@
     },
     {
       "Key": "Unit fights in one additional rank when not charging.",
-      "Translation": "ユニットは突撃しない場合、追加1列から戦闘する。",
+      "Translation": "ユニットは突撃していないとき、追加の横列から戦う。",
       "Comment": "Spear phalanx formation, tactical battlefield positioning"
     },
     {
@@ -658,7 +658,7 @@
     },
     {
       "Key": "Activate once per battle, +1 Attack and Fearless.",
-      "Translation": "1戦闘中に1回起動、攻撃 +1と恐れ知らずを得る。",
+      "Translation": "戦闘ごとに一回行動、攻撃+1と恐れ知らず。",
       "Comment": "Combat activation ability, limited use but powerful"
     },
     {
@@ -668,7 +668,7 @@
     },
     {
       "Key": "Recover an extra model that died after each battle.",
-      "Translation": "各戦闘後、死亡したユニットをさらに1体復活させる。",
+      "Translation": "各戦闘後、死亡したモデルをさらに一体復活させる。",
       "Comment": "Post-battle recovery mechanic, resilience ability"
     },
     {
@@ -698,7 +698,7 @@
     },
     {
       "Key": "Unit earns 1 gold per enemy killed in combat after each battle.",
-      "Translation": "ユニットは各戦闘後、戦闘で倒した敵1体につき金1を獲得する。",
+      "Translation": "ユニットは各戦闘後、接近戦で倒した敵一体につき1ゴールドを得る。",
       "Comment": "Post-battle income from combat victories"
     },
     {
@@ -733,7 +733,7 @@
     },
     {
       "Key": "Once per battle: Gain Flying for one turn.",
-      "Translation": "1戦闘中に1回：1ターンの間、飛行を得る。",
+      "Translation": "戦闘ごとに一回：一ターンの間、飛行を得る。",
       "Comment": "Trickery god tactical ability, limited use blessing"
     },
     {
@@ -753,7 +753,7 @@
     },
     {
       "Key": "Once per battle: Gain +1 Attack",
-      "Translation": "1戦闘中に1回：攻撃 +1を得る。",
+      "Translation": "戦闘ごとに一回：攻撃+1を得る",
       "Comment": "War god combat activation ability"
     },
     {

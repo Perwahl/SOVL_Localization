@@ -943,7 +943,7 @@
     },
     {
       "Key": "Greatweapon and Shield, ",
-      "Translation": "大武器と盾、",
+      "Translation": "大武器と盾、 ",
       "Comment": "Equipment combination"
     },
     {
@@ -1108,7 +1108,7 @@
     },
     {
       "Key": "Display charge ranges by pressing         -Your Units         - Opponents Units\n",
-      "Translation": "        を押して突撃範囲を表示します         - あなたのユニット         - 対戦相手のユニット\n",
+      "Translation": "を押して突撃範囲を表示します         - あなたのユニット         - 対戦相手のユニット\n",
       "Comment": "Tutorial tip with key binding"
     },
     {
@@ -1428,7 +1428,7 @@
     },
     {
       "Key": "Pick One",
-      "Translation": "1つ選択",
+      "Translation": "一つ選択",
       "Comment": "Selection instruction"
     },
     {
@@ -1573,7 +1573,7 @@
     },
     {
       "Key": "This is a holy place. Your soldiers can ask for a blessing, but make your choice carefully. ",
-      "Translation": "ここは聖なる場所です。あなたの兵士は祝福を求めることができますが、慎重に選択してください。",
+      "Translation": "ここは聖なる場所です。あなたの兵士は祝福を求めることができますが、慎重に選択してください。 ",
       "Comment": "Event description - fantasy setting"
     },
     {
@@ -1703,7 +1703,7 @@
     },
     {
       "Key": "You come across a treacherous swamp. As you attempt to cross it, one of your regiments fall behind and is lost in the fog. You can wait for them to return or risk sending a search party.",
-      "Translation": "危険な沼地に遭遇します。渡ろうとすると、連隊の1つが取り残され、霧の中で失われます。彼らが戻るのを待つか、捜索隊を送るリスクを負うかのいずれかです。",
+      "Translation": "危険な沼地に遭遇します。渡ろうとすると、連隊の一つが取り残され、霧の中で失われます。彼らが戻るのを待つか、捜索隊を送るリスクを負うかのいずれかです。",
       "Comment": "Event description - dramatic situation"
     },
     {
@@ -1713,7 +1713,7 @@
     },
     {
       "Key": "An ancient place of power. ",
-      "Translation": "古い力の場所。",
+      "Translation": "古い力の場所。 ",
       "Comment": "Location description"
     },
     {
@@ -1758,7 +1758,7 @@
     },
     {
       "Key": "+1 Power. Once per battle, cast the Fireball spell.",
-      "Translation": "+1 力。1回の戦闘に1回、ファイアボール呪文をキャスト。",
+      "Translation": "力+1。戦闘ごとに一回、ファイアボール呪文を唱える。",
       "Comment": "Item ability description"
     },
     {
@@ -1773,7 +1773,7 @@
     },
     {
       "Key": "An old dwarven weapon cache. We can probably salvage something.\n Pick one...",
-      "Translation": "古いドワーフの武器キャッシュ。おそらく何かを救出できるでしょう。\n 1つ選択...",
+      "Translation": "古いドワーフの武器キャッシュ。おそらく何かを救出できるでしょう。\n 一つ選択...",
       "Comment": "Equipment choice event"
     },
     {
@@ -1803,7 +1803,7 @@
     },
     {
       "Key": "- Choose One -",
-      "Translation": "- 1つ選択 -",
+      "Translation": "- 一つ選択 -",
       "Comment": "Selection prompt"
     },
     {
@@ -1838,7 +1838,7 @@
     },
     {
       "Key": "(Your Knights are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "(あなたの騎士は恐れを知らずに突撃ボーナス +1 攻撃を持つ)",
+      "Translation": "(あなたの騎士は恐れを知らずに突撃ボーナス +1 攻撃を持つ) ",
       "Comment": "Effect description - game rules term"
     },
     {
@@ -1868,7 +1868,7 @@
     },
     {
       "Key": "(Your units are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "(あなたのユニットは恐れを知らずに突撃ボーナス +1 攻撃を持つ)",
+      "Translation": "(あなたのユニットは恐れを知らずに突撃ボーナス +1 攻撃を持つ) ",
       "Comment": "Effect description - game rules term"
     },
     {
@@ -1898,12 +1898,12 @@
     },
     {
       "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
-      "Translation": "(あなたのユニットは +2 移動速度と遠距離攻撃ロール +1 を持つ)",
+      "Translation": "(あなたのユニットは +2 移動速度と遠距離攻撃ロール +1 を持つ) ",
       "Comment": "Effect description - game rules term"
     },
     {
       "Key": "Deadly arrows crafted by the Deepwood Elves. Pick one.",
-      "Translation": "ディープウッドエルフによって製造された致命的な矢。1つ選択してください。",
+      "Translation": "ディープウッドエルフが作った致命的な矢。一つ選択してください。",
       "Comment": "Equipment reward description"
     },
     {
@@ -1968,7 +1968,7 @@
     },
     {
       "Key": "Unlocked ",
-      "Translation": "ロック解除",
+      "Translation": "ロック解除 ",
       "Comment": "Status"
     },
     {

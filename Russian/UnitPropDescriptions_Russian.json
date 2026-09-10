@@ -173,7 +173,7 @@
     },
     {
       "Key": "All your Goblins are Fearless for one turn. Activate once per battle. ",
-      "Translation": "Все ваши Гоблины становятся Бесстрашными на один ход. Активировать один раз за сражение.",
+      "Translation": "Все ваши Гоблины становятся Бесстрашными на один ход. Активировать один раз за сражение. ",
       "Comment": "Goblins = Гоблины (specific race); Fearless = Бесстрашные (special state)"
     },
     {
@@ -258,7 +258,7 @@
     },
     {
       "Key": "Raise D3+3 models on a Zombie or Skeleton Warrior, Spear or Archer unit. ",
-      "Translation": "Воскресите D3+3 модели в отряде Зомби или Воина-скелета, с Копьем или Луком.",
+      "Translation": "Воскресите D3+3 модели в отряде Зомби или Воина-скелета, с Копьем или Луком. ",
       "Comment": "Raise = воскресите (summon/raise undead); models = модели (individual figures)"
     },
     {
@@ -298,12 +298,12 @@
     },
     {
       "Key": "All your Northmen are Fearless for one turn. Activate once per battle. ",
-      "Translation": "Все ваши Люди Севера становятся Бесстрашными на один ход. Активировать один раз за сражение.",
+      "Translation": "Все ваши Люди Севера становятся Бесстрашными на один ход. Активировать один раз за сражение. ",
       "Comment": "Northmen = Люди Севера (specific faction unit type)"
     },
     {
       "Key": "Restore all used spell charges. ",
-      "Translation": "Восстановите все использованные заряды заклинаний.",
+      "Translation": "Восстановите все использованные заряды заклинаний. ",
       "Comment": "Spell charges = заряды заклинаний (magic resource)"
     },
     {
@@ -378,7 +378,7 @@
     },
     {
       "Key": "Maiden and retinue rerolls 1s on Damage Saves.",
-      "Translation": "Дева и ее Свита перебрасывают единицы при Спасениях от урона.",
+      "Translation": "Дева и её свита перебрасывают 1 при спасениях от урона.",
       "Comment": "Maiden = Дева (female hero unit); reroll 1s = перебрасывают единицы"
     },
     {
@@ -388,7 +388,7 @@
     },
     {
       "Key": "Paladin and retinue rerolls 1s on Attack Rolls.",
-      "Translation": "Паладин и его Свита перебрасывают единицы при броскках Атак.",
+      "Translation": "Паладин и его свита перебрасывают 1 при бросках атаки.",
       "Comment": "Paladin = Паладин (holy warrior unit)"
     },
     {
@@ -428,7 +428,7 @@
     },
     {
       "Key": "Unit rerolls 1s on Ranged Attack Rolls.",
-      "Translation": "Отряд перебрасывает единицы на дальних бросках атаки",
+      "Translation": "Отряд перебрасывает 1 на бросках дальнобойной атаки.",
       "Comment": "Ranged attack accuracy ability"
     },
     {
@@ -538,7 +538,7 @@
     },
     {
       "Key": "Unit can fire ranged weapons in one additional rank.\nRerolls 1s on Ranged Attack Rolls.",
-      "Translation": "Отряд может действовать в одном дополнительном ряде.\nПеребрасывает единицы при броскках дальних атак.",
+      "Translation": "Отряд может стрелять из дальнобойного оружия в одном дополнительном ряду.\nПеребрасывает 1 на бросках дальнобойной атаки.",
       "Comment": "Enhanced ranged formation tactics"
     },
     {
@@ -558,7 +558,7 @@
     },
     {
       "Key": " Unit re-rolls missed Attack Rolls.",
-      "Translation": "Отряд перебрасывает провалы броскков Атак.",
+      "Translation": " Отряд перебрасывает провалы броскков Атак.",
       "Comment": "Unit ability"
     },
     {
@@ -608,7 +608,7 @@
     },
     {
       "Key": "Opponents re-roll hits in close combat. ",
-      "Translation": "Противники перебрасывают попадания в ближнем бою.",
+      "Translation": "Противники перебрасывают попадания в ближнем бою. ",
       "Comment": "Defensive ability reflecting attacks"
     },
     {
@@ -658,7 +658,7 @@
     },
     {
       "Key": "Unit re-rolls 1s on Damage Saves",
-      "Translation": "Отряд перебрасывает единицы при спасениях от урона",
+      "Translation": "Отряд перебрасывает 1 при спасениях от урона",
       "Comment": "Unit armor save ability"
     },
     {
@@ -668,12 +668,12 @@
     },
     {
       "Key": " +1 Attack and Fearless. Activate once per battle.",
-      "Translation": "+1 Атака и бесстрашные. Активируйте одного раза за сражение.",
+      "Translation": " +1 Атака и бесстрашные. Активируйте одного раза за сражение.",
       "Comment": "Activation ability combining attack and morale"
     },
     {
       "Key": " Reroll 1s on Damage Saves",
-      "Translation": "Переброс единиц при спасениях от урона",
+      "Translation": " Переброс 1 при спасениях от урона",
       "Comment": "Armor save ability"
     },
     {
@@ -698,7 +698,7 @@
     },
     {
       "Key": " +1 Wounds",
-      "Translation": "+1 Раны",
+      "Translation": " +1 Раны",
       "Comment": "Health increase"
     },
     {
@@ -723,12 +723,12 @@
     },
     {
       "Key": "Paladin and retinue rerolls 1s on Attack Rolls. Activate once per battle; all friendly Knights reroll failed Attack Rolls.",
-      "Translation": "Паладин и его свита перебрасывают единицы при броскках Атак. Активируйте одного раза за сражение; все дружественные Книжты перебрасывают провалы броскков Атак.",
+      "Translation": "Паладин и его свита перебрасывают 1 при бросках атаки. Активируется один раз за сражение; все дружественные рыцари перебрасывают неудачные броски атаки.",
       "Comment": "Knights = Книжты; faction-wide buff ability"
     },
     {
       "Key": "Maiden and retinue rerolls 1s on Damage Saves.. Activate once per battle; all friendly Knights reroll failed Damage Saves. ",
-      "Translation": "Дева и ее свита перебрасывают единицы при спасениях от урона. Активируйте одного раза за сражение; все дружественные Книжты перебрасывают провалы спасений от урона.",
+      "Translation": "Дева и её свита перебрасывают 1 при спасениях от урона.. Активируется один раз за сражение; все дружественные рыцари перебрасывают неудачные спасения от урона. ",
       "Comment": "Female hero with armor save faction buff"
     },
     {
@@ -763,7 +763,7 @@
     },
     {
       "Key": "Range: 24. Power 4. ",
-      "Translation": "Дальность: 24. Мощь 4.",
+      "Translation": "Дальность: 24. Мощь 4. ",
       "Comment": "Similar to previous entry; note trailing space in original"
     },
     {

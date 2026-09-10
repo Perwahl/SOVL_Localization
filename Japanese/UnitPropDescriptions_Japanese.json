@@ -463,7 +463,7 @@
     },
     {
       "Key": "+1 Power. Once per battle, cast the Fireball spell.",
-      "Translation": "+1 力。1回の戦闘に1回、ファイアボール呪文をキャスト。",
+      "Translation": "力+1。戦闘ごとに一回、ファイアボール呪文を唱える。",
       "Comment": "Taken from the same English string already translated in another file, to keep the two consistent."
     },
     {
@@ -608,7 +608,7 @@
     },
     {
       "Key": "Opponents re-roll hits in close combat. ",
-      "Translation": "相手は接近戦での命中を再ロールする。",
+      "Translation": "相手は接近戦での命中を再ロールする。 ",
       "Comment": ""
     },
     {

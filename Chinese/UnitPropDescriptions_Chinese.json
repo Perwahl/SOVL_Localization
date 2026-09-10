@@ -173,7 +173,7 @@
     },
     {
       "Key": "All your Goblins are Fearless for one turn. Activate once per battle. ",
-      "Translation": "你所有地精单位一轮内无畏。每场战斗启用一次。",
+      "Translation": "你所有地精单位一轮内无畏。每场战斗启用一次。 ",
       "Comment": "Race-specific morale boost"
     },
     {
@@ -258,7 +258,7 @@
     },
     {
       "Key": "Raise D3+3 models on a Zombie or Skeleton Warrior, Spear or Archer unit. ",
-      "Translation": "在一个僵尸或骷髅战士、长矛兵或弓箭手单位上召唤D3+3个模型。",
+      "Translation": "在一个僵尸或骷髅战士、长矛兵或弓箭手单位上召唤D3+3个模型。 ",
       "Comment": "Undead reinforcement spell"
     },
     {
@@ -298,12 +298,12 @@
     },
     {
       "Key": "All your Northmen are Fearless for one turn. Activate once per battle. ",
-      "Translation": "你所有北方人单位一轮内无畏。每场战斗启用一次。",
+      "Translation": "你所有北方人单位一轮内无畏。每场战斗启用一次。 ",
       "Comment": "Race-specific morale ability"
     },
     {
       "Key": "Restore all used spell charges. ",
-      "Translation": "恢复所有已用法术充能。",
+      "Translation": "恢复所有已用法术充能。 ",
       "Comment": "Magic system recharge ability"
     },
     {
@@ -343,7 +343,7 @@
     },
     {
       "Key": "For one turn, reduce move speed to zero. Re-roll failed damage saves and discipline tests. Activate once per battle.",
-      "Translation": "一轮内，移动速度降低为0。重投伤害豁免检定和纪律检定中失败的。每场战斗启用一次。",
+      "Translation": "一轮内，移动速度降为零。失败的伤害豁免和纪律检定可以重投。每场战斗启用一次。",
       "Comment": "Protective spell with immobilization"
     },
     {
@@ -558,7 +558,7 @@
     },
     {
       "Key": " Unit re-rolls missed Attack Rolls.",
-      "Translation": "单位重投攻击检定中失败的。",
+      "Translation": " 单位重投攻击检定中失败的。",
       "Comment": "Attack reliability"
     },
     {
@@ -608,7 +608,7 @@
     },
     {
       "Key": "Opponents re-roll hits in close combat. ",
-      "Translation": "对手在近战中重投命中检定。",
+      "Translation": "对手在近战中重投命中检定。 ",
       "Comment": "Combat defense ability"
     },
     {
@@ -668,12 +668,12 @@
     },
     {
       "Key": " +1 Attack and Fearless. Activate once per battle.",
-      "Translation": "+1攻击且无畏。每场战斗启用一次。",
+      "Translation": " +1攻击且无畏。每场战斗启用一次。",
       "Comment": "Combat boost with morale immunity"
     },
     {
       "Key": " Reroll 1s on Damage Saves",
-      "Translation": "重投伤害豁免检定中的1",
+      "Translation": " 重投伤害豁免检定中的1",
       "Comment": "Damage save reliability"
     },
     {
@@ -698,7 +698,7 @@
     },
     {
       "Key": " +1 Wounds",
-      "Translation": "+1伤害值",
+      "Translation": " +1伤害值",
       "Comment": "Health boost"
     },
     {
@@ -728,7 +728,7 @@
     },
     {
       "Key": "Maiden and retinue rerolls 1s on Damage Saves.. Activate once per battle; all friendly Knights reroll failed Damage Saves. ",
-      "Translation": "少女及其卫队重投伤害豁免检定中的1。每场战斗启用一次；所有友方骑士重投伤害豁免检定中失败的。",
+      "Translation": "少女及其卫队重投伤害豁免检定中的1。每场战斗启用一次；所有友方骑士重投伤害豁免检定中失败的。 ",
       "Comment": "Command group and army-wide defense boost"
     },
     {
@@ -763,7 +763,7 @@
     },
     {
       "Key": "Range: 24. Power 4. ",
-      "Translation": "射程：24。力量4。",
+      "Translation": "射程：24。力量4。 ",
       "Comment": "Weapon specifications: extended range variant"
     },
     {

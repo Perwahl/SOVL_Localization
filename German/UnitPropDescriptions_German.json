@@ -173,7 +173,7 @@
     },
     {
       "Key": "All your Goblins are Fearless for one turn. Activate once per battle. ",
-      "Translation": "Alle deine Goblins sind für einen Zug furchtlos. Einmal pro Gefecht aktivierbar.",
+      "Translation": "Alle deine Goblins sind für einen Zug furchtlos. Einmal pro Gefecht aktivierbar. ",
       "Comment": ""
     },
     {
@@ -258,7 +258,7 @@
     },
     {
       "Key": "Raise D3+3 models on a Zombie or Skeleton Warrior, Spear or Archer unit. ",
-      "Translation": "Beschwört W3+3 Modelle in einer Zombie- oder Skelett-Krieger-, Speer- oder Bogeneinheit.",
+      "Translation": "Beschwört W3+3 Modelle in einer Zombie- oder Skelett-Krieger-, Speer- oder Bogeneinheit. ",
       "Comment": ""
     },
     {
@@ -298,12 +298,12 @@
     },
     {
       "Key": "All your Northmen are Fearless for one turn. Activate once per battle. ",
-      "Translation": "Alle deine Nordmänner sind für einen Zug furchtlos. Einmal pro Gefecht aktivierbar.",
+      "Translation": "Alle deine Nordmänner sind für einen Zug furchtlos. Einmal pro Gefecht aktivierbar. ",
       "Comment": ""
     },
     {
       "Key": "Restore all used spell charges. ",
-      "Translation": "Stellt alle verbrauchten Zauberladungen wieder her.",
+      "Translation": "Stellt alle verbrauchten Zauberladungen wieder her. ",
       "Comment": ""
     },
     {
@@ -343,7 +343,7 @@
     },
     {
       "Key": "For one turn, reduce move speed to zero. Re-roll failed damage saves and discipline tests. Activate once per battle.",
-      "Translation": "Für einen Zug Bewegungswert auf 0 reduzieren. Fehlgeschlagene Rettungswürfe gegen Schaden und Disziplin-Proben dürfen wiederholt werden. Einmal pro Gefecht aktivierbar.",
+      "Translation": "Für einen Zug Bewegungswert auf null reduzieren. Fehlgeschlagene Schadensrettungswürfe und Disziplinproben erneut würfeln. Einmal pro Schlacht aktivieren.",
       "Comment": ""
     },
     {

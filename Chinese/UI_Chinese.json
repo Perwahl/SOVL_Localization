@@ -33,7 +33,7 @@
     },
     {
       "Key": " Icon",
-      "Translation": "图标",
+      "Translation": " 图标",
       "Comment": "Icon label with leading space"
     },
     {
@@ -898,7 +898,7 @@
     },
     {
       "Key": "- Activate a Unit - ",
-      "Translation": "- 激活一个单位 -",
+      "Translation": "- 激活一个单位 - ",
       "Comment": "Action prompt"
     },
     {
@@ -943,7 +943,7 @@
     },
     {
       "Key": "Greatweapon and Shield, ",
-      "Translation": "伟大武器和盾牌，",
+      "Translation": "伟大武器和盾牌， ",
       "Comment": "Equipment combination"
     },
     {
@@ -1038,7 +1038,7 @@
     },
     {
       "Key": "Power <color=#81D7E5><size=125%>5</color> </size>VS Defense <color=#81D7E5><size=125%>5</color> ",
-      "Translation": "力量<color=#81D7E5><size=125%>5</color></size>对防御<color=#81D7E5><size=125%>5</color>",
+      "Translation": "力量<color=#81D7E5><size=125%>5</color></size>对防御<color=#81D7E5><size=125%>5</color> ",
       "Comment": "Rich text formatting preserved"
     },
     {
@@ -1073,7 +1073,7 @@
     },
     {
       "Key": "Commander Name ",
-      "Translation": "指挥官名称",
+      "Translation": "指挥官名称 ",
       "Comment": "Placeholder/template"
     },
     {
@@ -1313,7 +1313,7 @@
     },
     {
       "Key": "Act 1",
-      "Translation": "第一幕",
+      "Translation": "第1幕",
       "Comment": "Campaign chapter"
     },
     {
@@ -1573,7 +1573,7 @@
     },
     {
       "Key": "This is a holy place. Your soldiers can ask for a blessing, but make your choice carefully. ",
-      "Translation": "这是一个圣地。你的士兵可以请求祝福，但要谨慎选择。",
+      "Translation": "这是一个圣地。你的士兵可以请求祝福，但要谨慎选择。 ",
       "Comment": "Event description"
     },
     {
@@ -1713,7 +1713,7 @@
     },
     {
       "Key": "An ancient place of power. ",
-      "Translation": "一个古老的力量之地。",
+      "Translation": "一个古老的力量之地。 ",
       "Comment": "Location description"
     },
     {
@@ -1838,7 +1838,7 @@
     },
     {
       "Key": "(Your Knights are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "（你的骑士无所畏惧，拥有冲锋奖励：+1攻击）",
+      "Translation": "（你的骑士无所畏惧，拥有冲锋奖励：+1攻击） ",
       "Comment": "Effect description"
     },
     {
@@ -1868,7 +1868,7 @@
     },
     {
       "Key": "(Your units are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "（你的单位无所畏惧，拥有冲锋奖励：+1攻击）",
+      "Translation": "（你的单位无所畏惧，拥有冲锋奖励：+1攻击） ",
       "Comment": "Effect description"
     },
     {
@@ -1898,7 +1898,7 @@
     },
     {
       "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
-      "Translation": "（你的单位拥有+2移动速度和+1远程攻击投骰）",
+      "Translation": "（你的单位拥有+2移动速度和+1远程攻击投骰） ",
       "Comment": "Effect description"
     },
     {
@@ -1968,7 +1968,7 @@
     },
     {
       "Key": "Unlocked ",
-      "Translation": "已解锁",
+      "Translation": "已解锁 ",
       "Comment": "Status indicator"
     },
     {
@@ -2248,17 +2248,17 @@
     },
     {
       "Key": "Battles: ",
-      "Translation": "战斗：",
+      "Translation": "战斗： ",
       "Comment": ""
     },
     {
       "Key": "Points Earned: ",
-      "Translation": "获得点数：",
+      "Translation": "获得点数： ",
       "Comment": ""
     },
     {
       "Key": "W/L: ",
-      "Translation": "胜/负：",
+      "Translation": "胜/负： ",
       "Comment": ""
     },
     {
@@ -2268,7 +2268,7 @@
     },
     {
       "Key": "Enemies Killed: ",
-      "Translation": "击杀敌人：",
+      "Translation": "击杀敌人： ",
       "Comment": ""
     },
     {

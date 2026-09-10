@@ -478,7 +478,7 @@
     },
     {
       "Key": "Unit rerolls 1s on Ranged Attack Rolls.",
-      "Translation": "Отряд перебрасывает единицы на дальних бросках атаки",
+      "Translation": "Отряд перебрасывает 1 на бросках дальнобойной атаки.",
       "Comment": "Rules text: reroll 1s means reroll rolls showing 1"
     },
     {
@@ -588,7 +588,7 @@
     },
     {
       "Key": "Unit re-rolls 1s on Damage Saves.",
-      "Translation": "Отряд перебрасывает единицы при сохранениях урона",
+      "Translation": "Отряд перебрасывает 1 при спасениях от урона.",
       "Comment": "Rules text"
     },
     {
@@ -678,7 +678,7 @@
     },
     {
       "Key": "Unit Rerolls 1s on Damage Saves",
-      "Translation": "Отряд перебрасывает единицы при сохранениях урона",
+      "Translation": "Отряд перебрасывает 1 при спасениях от урона",
       "Comment": "Rules text"
     },
     {

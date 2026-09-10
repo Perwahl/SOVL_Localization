@@ -49,7 +49,7 @@
     {
       "Key": "Rolled {0} natural sixes ({1:P0} of all rolls).",
       "Translation": "自然な6を{0}回出した（全ロールの{1:P0}）。",
-      "Comment": "ゲーム用語: ダイス運に恵まれた成果"
+      "Comment": "The digit is deliberate: it names the die face, and 6 or 1 reads more clearly to a player than the word would. The linter flags it because the English spells the number out."
     },
     {
       "Key": "Scorer",
@@ -149,7 +149,7 @@
     {
       "Key": "Rolled {0} ones ({1:P0} of all rolls).",
       "Translation": "1を{0}回出した（全ロールの{1:P0}）。",
-      "Comment": "ゲーム用語: ダイス運に見放された成果"
+      "Comment": "The digit is deliberate: it names the die face, and 6 or 1 reads more clearly to a player than the word would. The linter flags it because the English spells the number out."
     },
     {
       "Key": "Last Man Standing",

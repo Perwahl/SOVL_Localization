@@ -904,7 +904,7 @@
     },
     {
       "Key": "- Activate a Unit - ",
-      "Translation": "- Активируйте отряд -",
+      "Translation": "- Активируйте отряд - ",
       "Comment": "Phase instruction"
     },
     {
@@ -1579,7 +1579,7 @@
     },
     {
       "Key": "This is a holy place. Your soldiers can ask for a blessing, but make your choice carefully. ",
-      "Translation": "Это священное место. Ваши солдаты могут попросить благословение, но выбирайте тщательно.",
+      "Translation": "Это священное место. Ваши солдаты могут попросить благословение, но выбирайте тщательно. ",
       "Comment": "Event description"
     },
     {
@@ -1719,7 +1719,7 @@
     },
     {
       "Key": "An ancient place of power. ",
-      "Translation": "Древнее место силы.",
+      "Translation": "Древнее место силы. ",
       "Comment": "Location description"
     },
     {
@@ -1844,7 +1844,7 @@
     },
     {
       "Key": "(Your Knights are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "(Ваши рыцари бесстрашны и получают бонус натиска: +1 Атака)",
+      "Translation": "(Ваши рыцари бесстрашны и получают бонус натиска: +1 Атака) ",
       "Comment": "Effect description"
     },
     {
@@ -1874,7 +1874,7 @@
     },
     {
       "Key": "(Your units are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "(Ваши отряды бесстрашны и получают бонус натиска: +1 Атака)",
+      "Translation": "(Ваши отряды бесстрашны и получают бонус натиска: +1 Атака) ",
       "Comment": "Bonus effect"
     },
     {
@@ -1904,7 +1904,7 @@
     },
     {
       "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
-      "Translation": "(Ваши отряды получают +2 к скорости движения и +1 к броскам дальнобойных атак)",
+      "Translation": "(Ваши отряды получают +2 к скорости движения и +1 к броскам дальнобойных атак) ",
       "Comment": "Bonus effect"
     },
     {
@@ -1974,7 +1974,7 @@
     },
     {
       "Key": "Unlocked ",
-      "Translation": "Разблокировано",
+      "Translation": "Разблокировано ",
       "Comment": "Status indicator"
     },
     {

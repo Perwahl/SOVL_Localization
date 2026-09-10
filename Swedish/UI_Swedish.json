@@ -1575,7 +1575,7 @@
     },
     {
       "Key": "This is a holy place. Your soldiers can ask for a blessing, but make your choice carefully. ",
-      "Translation": "Detta är en helig plats. Dina soldater kan be om en välsignelse, men välj med omsorg.",
+      "Translation": "Detta är en helig plats. Dina soldater kan be om en välsignelse, men välj med omsorg. ",
       "Comment": ""
     },
     {
@@ -1715,7 +1715,7 @@
     },
     {
       "Key": "An ancient place of power. ",
-      "Translation": "En uråldrig kraftplats.",
+      "Translation": "En uråldrig kraftplats. ",
       "Comment": ""
     },
     {
@@ -1840,7 +1840,7 @@
     },
     {
       "Key": "(Your Knights are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "(Dina riddare är modiga och har anfallsbonus: +1 attack)",
+      "Translation": "(Dina riddare är modiga och har anfallsbonus: +1 attack) ",
       "Comment": ""
     },
     {
@@ -1870,7 +1870,7 @@
     },
     {
       "Key": "(Your units are Fearless and have Charge Bonus: +1 Attack) ",
-      "Translation": "(Dina enheter är modiga och har anfallsbonus: +1 attack)",
+      "Translation": "(Dina enheter är modiga och har anfallsbonus: +1 attack) ",
       "Comment": ""
     },
     {
@@ -1900,7 +1900,7 @@
     },
     {
       "Key": "(Your units have +2 Move Speed and +1 to Ranged Attack Rolls) ",
-      "Translation": "(Dina enheter får +2 rörelsehastighet och +1 på avståndsattacker)",
+      "Translation": "(Dina enheter får +2 rörelsehastighet och +1 på avståndsattacker) ",
       "Comment": ""
     },
     {
