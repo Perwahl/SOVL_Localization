@@ -63,7 +63,7 @@
     },
     {
       "Key": "Range: 30. Power 3.",
-      "Translation": "Räckvidd: 30. Kraft 3.",
+      "Translation": "Räckvidd: 30. Styrka 3.",
       "Comment": ""
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "Key": "+1 Defense. +1 Wounds",
-      "Translation": "+1 Försvar. +1 Sår",
+      "Translation": "+1 Försvar. +1 HP",
       "Comment": ""
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "Key": "+1 Power. +1 Defense",
-      "Translation": "+1 Kraft. +1 Försvar",
+      "Translation": "+1 Styrka. +1 Försvar",
       "Comment": ""
     },
     {
@@ -108,7 +108,7 @@
     },
     {
       "Key": "+1 Power.",
-      "Translation": "+1 Kraft.",
+      "Translation": "+1 Styrka.",
       "Comment": ""
     },
     {
@@ -158,12 +158,12 @@
     },
     {
       "Key": "All your units have +1 Power for one turn.",
-      "Translation": "Alla dina enheter har +1 Kraft under en omgång.",
+      "Translation": "Alla dina enheter har +1 Styrka under en omgång.",
       "Comment": ""
     },
     {
       "Key": "Target unit has +1 Power and rerolls missed Attack Rolls for one turn.",
-      "Translation": "Målenheten har +1 Kraft och slår om missade Attackslag under en omgång.",
+      "Translation": "Målenheten har +1 Styrka och slår om missade Attackslag under en omgång.",
       "Comment": ""
     },
     {
@@ -218,7 +218,7 @@
     },
     {
       "Key": "Target unit gets +1 Power on their next Ranged or Close Combat Attack.",
-      "Translation": "Målenheten får +1 Kraft vid sin nästa Avståndsattack eller Närstridsattack.",
+      "Translation": "Målenheten får +1 Styrka vid sin nästa Avståndsattack eller Närstridsattack.",
       "Comment": ""
     },
     {
@@ -283,7 +283,7 @@
     },
     {
       "Key": "Charge Bonus: +1 Power, +1 Attack",
-      "Translation": "Anfallsbonus: +1 Kraft, +1 Attack",
+      "Translation": "Anfallsbonus: +1 Styrka, +1 Attack",
       "Comment": ""
     },
     {
@@ -328,7 +328,7 @@
     },
     {
       "Key": "Range: 30. 3x Power 3.",
-      "Translation": "Räckvidd: 30. 3x Kraft 3.",
+      "Translation": "Räckvidd: 30. 3x Styrka 3.",
       "Comment": ""
     },
     {
@@ -353,7 +353,7 @@
     },
     {
       "Key": "Favoured by Decay. +1 Wounds. -1 Move Speed.",
-      "Translation": "Gynnad av Förtfall. +1 Sår. -1 Rörelsehastighet.",
+      "Translation": "Gynnad av Förtfall. +1 HP. -1 Rörelsehastighet.",
       "Comment": ""
     },
     {
@@ -383,7 +383,7 @@
     },
     {
       "Key": "Caster has +1 Power and deals double wounds against Monsters this turn.",
-      "Translation": "Besvärjaren har +1 Kraft och orsakar dubbla sår mot Monster denna omgång.",
+      "Translation": "Besvärjaren har +1 Styrka och orsakar dubbla sår mot Monster denna omgång.",
       "Comment": ""
     },
     {
@@ -398,7 +398,7 @@
     },
     {
       "Key": "+1 Power, +1 Attack",
-      "Translation": "+1 Kraft, +1 Attack",
+      "Translation": "+1 Styrka, +1 Attack",
       "Comment": ""
     },
     {
@@ -408,12 +408,12 @@
     },
     {
       "Key": "+3 Wounds",
-      "Translation": "+3 Sår",
+      "Translation": "+3 HP",
       "Comment": ""
     },
     {
       "Key": "+1 Power to Spell Attacks",
-      "Translation": "+1 Kraft för Besvärjelseattacker",
+      "Translation": "+1 Styrka för Besvärjelseattacker",
       "Comment": ""
     },
     {
@@ -438,12 +438,12 @@
     },
     {
       "Key": "+1 Power",
-      "Translation": "+1 Kraft",
+      "Translation": "+1 Styrka",
       "Comment": ""
     },
     {
       "Key": "+1 Wounds",
-      "Translation": "+1 Sår",
+      "Translation": "+1 HP",
       "Comment": ""
     },
     {
@@ -463,7 +463,7 @@
     },
     {
       "Key": "+1 Power. Once per battle, cast the Fireball spell.",
-      "Translation": "+1 Kraft. En gång per strid, kasta besvärjelsen Eldboll.",
+      "Translation": "+1 Styrka. En gång per strid, kasta besvärjelsen Eldboll.",
       "Comment": ""
     },
     {
@@ -498,7 +498,7 @@
     },
     {
       "Key": "Unit is Fearless. Once per battle, gain +3 Power this turn.",
-      "Translation": "Enheten är Orädd. En gång per strid, få +3 Kraft denna omgång.",
+      "Translation": "Enheten är Orädd. En gång per strid, få +3 Styrka denna omgång.",
       "Comment": ""
     },
     {
@@ -508,7 +508,7 @@
     },
     {
       "Key": "Restore D3+1 wounds to a Reanimated unit, and give it +1 Power and Defense this turn.",
-      "Translation": "Återställ D3+1 sår till en återuppväckt enhet och ge den +1 Kraft och Försvar denna omgång.",
+      "Translation": "Återställ D3+1 sår till en återuppväckt enhet och ge den +1 Styrka och Försvar denna omgång.",
       "Comment": ""
     },
     {
@@ -518,7 +518,7 @@
     },
     {
       "Key": "Target unit has -3 Defense and Power until end of turn.",
-      "Translation": "Målenheten har -3 Försvar och Kraft till slutet av omgången.",
+      "Translation": "Målenheten har -3 Försvar och Styrka till slutet av omgången.",
       "Comment": ""
     },
     {
@@ -543,7 +543,7 @@
     },
     {
       "Key": "+1 Power to Ranged Attacks.",
-      "Translation": "+1 Kraft för Avståndsattacker.",
+      "Translation": "+1 Styrka för Avståndsattacker.",
       "Comment": ""
     },
     {
@@ -578,7 +578,7 @@
     },
     {
       "Key": "Reduce Crumble rolls by 1. Increase Move Speed by 1. +3 Wounds",
-      "Translation": "Minska Smula-slag med 1. Öka Rörelsehastigheten med 1. +3 Sår",
+      "Translation": "Minska Smula-slag med 1. Öka Rörelsehastigheten med 1. +3 HP",
       "Comment": ""
     },
     {
@@ -618,12 +618,12 @@
     },
     {
       "Key": "+1 Wound. -1 Move Speed.",
-      "Translation": "+1 Sår. -1 Rörelsehastighet.",
+      "Translation": "+1 HP. -1 Rörelsehastighet.",
       "Comment": ""
     },
     {
       "Key": "+1 Wounds. +1Power",
-      "Translation": "+1 Sår. +1 Kraft",
+      "Translation": "+1 HP. +1 Styrka",
       "Comment": ""
     },
     {
@@ -753,42 +753,42 @@
     },
     {
       "Key": "Range: 20. Power 2.",
-      "Translation": "Räckvidd: 20. Kraft 2.",
+      "Translation": "Räckvidd: 20. Styrka 2.",
       "Comment": ""
     },
     {
       "Key": "Range: 20. Power 3.",
-      "Translation": "Räckvidd: 20. Kraft 3.",
+      "Translation": "Räckvidd: 20. Styrka 3.",
       "Comment": ""
     },
     {
       "Key": "Range: 24. Power 4. ",
-      "Translation": "Räckvidd: 24. Kraft 4. ",
+      "Translation": "Räckvidd: 24. Styrka 4. ",
       "Comment": ""
     },
     {
       "Key": "Range: 20. 2x Power 3.",
-      "Translation": "Räckvidd: 20. 2x Kraft 3.",
+      "Translation": "Räckvidd: 20. 2x Styrka 3.",
       "Comment": ""
     },
     {
       "Key": "Range: 20. 4x Power 3.",
-      "Translation": "Räckvidd: 20. 4x Kraft 3.",
+      "Translation": "Räckvidd: 20. 4x Styrka 3.",
       "Comment": ""
     },
     {
       "Key": "Range 12. 2D3 Power 3.",
-      "Translation": "Räckvidd 12. 2D3 Kraft 3.",
+      "Translation": "Räckvidd 12. 2D3 Styrka 3.",
       "Comment": ""
     },
     {
       "Key": "Range 12. 2D3 Power 5.",
-      "Translation": "Räckvidd 12. 2D3 Kraft 5.",
+      "Translation": "Räckvidd 12. 2D3 Styrka 5.",
       "Comment": ""
     },
     {
       "Key": "Range 16. 3D3 Power 5.",
-      "Translation": "Räckvidd 16. 3D3 Kraft 5.",
+      "Translation": "Räckvidd 16. 3D3 Styrka 5.",
       "Comment": ""
     },
     {
@@ -798,17 +798,17 @@
     },
     {
       "Key": "+1 Defense. Charge Bonus: +2 Power",
-      "Translation": "+1 Försvar. Anfallsbonus: +2 Kraft",
+      "Translation": "+1 Försvar. Anfallsbonus: +2 Styrka",
       "Comment": ""
     },
     {
       "Key": "Range 18. 2x Power 4.",
-      "Translation": "Räckvidd 18. 2x Kraft 4.",
+      "Translation": "Räckvidd 18. 2x Styrka 4.",
       "Comment": ""
     },
     {
       "Key": "Range 48. D3 hits, Power 8.",
-      "Translation": "Räckvidd 48. D3 hits, Kraft 8.",
+      "Translation": "Räckvidd 48. D3 hits, Styrka 8.",
       "Comment": ""
     },
     {
@@ -818,7 +818,7 @@
     },
     {
       "Key": "Range 48. 2D3+1 hits, Power 4.",
-      "Translation": "Räckvidd 48. 2D3+1 hits, Kraft 4.",
+      "Translation": "Räckvidd 48. 2D3+1 hits, Styrka 4.",
       "Comment": ""
     },
     {
@@ -843,17 +843,17 @@
     },
     {
       "Key": "One use, +2 Power and + 1 Attack until end of turn.",
-      "Translation": "En användning, +2 Kraft och + 1 Attack till slutet av omgången.",
+      "Translation": "En användning, +2 Styrka och + 1 Attack till slutet av omgången.",
       "Comment": ""
     },
     {
       "Key": "D6 Power 5 hits. Range 30.",
-      "Translation": "D6 Kraft 5 hits. Räckvidd 30.",
+      "Translation": "D6 Styrka 5 hits. Räckvidd 30.",
       "Comment": ""
     },
     {
       "Key": "3 x Power 3 hits. Range: 18.",
-      "Translation": "3 x Kraft 3 hits. Räckvidd: 18.",
+      "Translation": "3 x Styrka 3 hits. Räckvidd: 18.",
       "Comment": ""
     },
     {
@@ -863,17 +863,17 @@
     },
     {
       "Key": "Charge Bonus: +2 Power +2 Attacks",
-      "Translation": "Anfallsbonus: +2 Kraft +2 Attacker",
+      "Translation": "Anfallsbonus: +2 Styrka +2 Attacker",
       "Comment": ""
     },
     {
       "Key": "Range 48. 3x Power 6.",
-      "Translation": "Räckvidd 48. 3x Kraft 6.",
+      "Translation": "Räckvidd 48. 3x Styrka 6.",
       "Comment": ""
     },
     {
       "Key": "Range 48. 2D3 hits, Power 5.",
-      "Translation": "Räckvidd 48. 2D3 träffar, Kraft 5.",
+      "Translation": "Räckvidd 48. 2D3 träffar, Styrka 5.",
       "Comment": ""
     },
     {
@@ -888,17 +888,17 @@
     },
     {
       "Key": "3D6 Power 1 hits. Range 18.",
-      "Translation": "3D6 Kraft 1 hits. Räckvidd 18.",
+      "Translation": "3D6 Styrka 1 hits. Räckvidd 18.",
       "Comment": ""
     },
     {
       "Key": "Caster has +1 Power,  +1 Defense and +2 Attacks for one turn.",
-      "Translation": "Besvärjaren har +1 Kraft,  +1 Försvar och +2 Attacker under en omgång.",
+      "Translation": "Besvärjaren har +1 Styrka,  +1 Försvar och +2 Attacker under en omgång.",
       "Comment": ""
     },
     {
       "Key": "Range 8. 1D6 power 4. One use per battle.",
-      "Translation": "Räckvidd 8. 1D6 Kraft 4. En användning per strid.",
+      "Translation": "Räckvidd 8. 1D6 Styrka 4. En användning per strid.",
       "Comment": ""
     },
     {
@@ -908,17 +908,17 @@
     },
     {
       "Key": "Range: 12. Power 2.",
-      "Translation": "Räckvidd: 12. Kraft 2.",
+      "Translation": "Räckvidd: 12. Styrka 2.",
       "Comment": ""
     },
     {
       "Key": "Range: 12. Power 3.",
-      "Translation": "Räckvidd: 12. Kraft 3.",
+      "Translation": "Räckvidd: 12. Styrka 3.",
       "Comment": ""
     },
     {
       "Key": "Throw a boulder at an enemy unit. Range 18, 2D3 Power 5.",
-      "Translation": "Kasta ett stenblock mot en fiendeenhet. Räckvidd 18, 2D3 Kraft 5.",
+      "Translation": "Kasta ett stenblock mot en fiendeenhet. Räckvidd 18, 2D3 Styrka 5.",
       "Comment": ""
     },
     {
@@ -928,32 +928,32 @@
     },
     {
       "Key": "Range: 12. 4x Power 3.",
-      "Translation": "Räckvidd: 12. 4x Kraft 3.",
+      "Translation": "Räckvidd: 12. 4x Styrka 3.",
       "Comment": ""
     },
     {
       "Key": "Range: 8. Power 2.",
-      "Translation": "Räckvidd: 8. Kraft 2.",
+      "Translation": "Räckvidd: 8. Styrka 2.",
       "Comment": ""
     },
     {
       "Key": "Range 48. Power 5.",
-      "Translation": "Räckvidd 48. Kraft 5.",
+      "Translation": "Räckvidd 48. Styrka 5.",
       "Comment": ""
     },
     {
       "Key": "Range 12. D3 Power 4.",
-      "Translation": "Räckvidd 12. D3 Kraft 4.",
+      "Translation": "Räckvidd 12. D3 Styrka 4.",
       "Comment": ""
     },
     {
       "Key": "Range 12. D3 Power 5.",
-      "Translation": "Räckvidd 12. D3 Kraft 5.",
+      "Translation": "Räckvidd 12. D3 Styrka 5.",
       "Comment": ""
     },
     {
       "Key": "Range: 24. Power 3.",
-      "Translation": "Räckvidd: 24. Kraft 3.",
+      "Translation": "Räckvidd: 24. Styrka 3.",
       "Comment": ""
     },
     {
@@ -963,7 +963,7 @@
     },
     {
       "Key": "+2 Wounds",
-      "Translation": "+2 Sår",
+      "Translation": "+2 HP",
       "Comment": ""
     },
     {
@@ -973,7 +973,7 @@
     },
     {
       "Key": "+2 Ranged Attack, +1 Power to Ranged Attacks",
-      "Translation": "+2 Avståndsattack, +1 Kraft för Avståndsattacker",
+      "Translation": "+2 Avståndsattack, +1 Styrka för Avståndsattacker",
       "Comment": ""
     },
     {
@@ -998,32 +998,32 @@
     },
     {
       "Key": "Target unit gets +2 Power in their next combat round.",
-      "Translation": "Målenheten får +2 Kraft i sin nästa stridsomgång.",
+      "Translation": "Målenheten får +2 Styrka i sin nästa stridsomgång.",
       "Comment": ""
     },
     {
       "Key": "2D6 Power 5 hits. Range 30.",
-      "Translation": "2D6 Kraft 5 hits. Räckvidd 30.",
+      "Translation": "2D6 Styrka 5 hits. Räckvidd 30.",
       "Comment": ""
     },
     {
       "Key": "Target unit has +2 Power and rerolls missed Attack Rolls this turn.",
-      "Translation": "Målenheten har +2 Kraft och slår om missade Attackslag denna omgång.",
+      "Translation": "Målenheten har +2 Styrka och slår om missade Attackslag denna omgång.",
       "Comment": ""
     },
     {
       "Key": "3 x Power 5 hits. Range: 24.",
-      "Translation": "3 x Kraft 5 hits. Räckvidd: 24.",
+      "Translation": "3 x Styrka 5 hits. Räckvidd: 24.",
       "Comment": ""
     },
     {
       "Key": "Caster has +1 Power,  +1 Defense and +4 Attacks this turn.",
-      "Translation": "Besvärjaren har +1 Kraft,  +1 Försvar och +4 Attacker denna omgång.",
+      "Translation": "Besvärjaren har +1 Styrka,  +1 Försvar och +4 Attacker denna omgång.",
       "Comment": ""
     },
     {
       "Key": "3D6 Power 2 hits. Range 18.",
-      "Translation": "3D6 Kraft 2 hits. Räckvidd 18.",
+      "Translation": "3D6 Styrka 2 hits. Räckvidd 18.",
       "Comment": ""
     },
     {
@@ -1043,12 +1043,12 @@
     },
     {
       "Key": "Range 12. 2D3 Power 5. -1 Defense.",
-      "Translation": "Räckvidd 12. 2D3 Kraft 5. -1 Försvar.",
+      "Translation": "Räckvidd 12. 2D3 Styrka 5. -1 Försvar.",
       "Comment": ""
     },
     {
       "Key": "Range 12. D3 Power 5. -1 Defense.",
-      "Translation": "Räckvidd 12. D3 Kraft 5. -1 Försvar.",
+      "Translation": "Räckvidd 12. D3 Styrka 5. -1 Försvar.",
       "Comment": ""
     },
     {
@@ -1058,7 +1058,7 @@
     },
     {
       "Key": "+2 Wounds. -1 Move Speed.",
-      "Translation": "+2 Sår. -1 Rörelsehastighet.",
+      "Translation": "+2 HP. -1 Rörelsehastighet.",
       "Comment": ""
     },
     {
@@ -1078,7 +1078,7 @@
     },
     {
       "Key": "All your units have +1 Power  and +2 Move Speed for one turn.",
-      "Translation": "Alla dina enheter har +1 Kraft  och +2 Rörelsehastighet under en omgång.",
+      "Translation": "Alla dina enheter har +1 Styrka  och +2 Rörelsehastighet under en omgång.",
       "Comment": ""
     },
     {
@@ -1093,7 +1093,7 @@
     },
     {
       "Key": "Range 48. Power 4. Deadly Shots (Deals 2x Wounds)",
-      "Translation": "Räckvidd 48. Kraft 4. Dödliga skott (Orsakar 2x Skada)",
+      "Translation": "Räckvidd 48. Styrka 4. Dödliga skott (Orsakar 2x Skada)",
       "Comment": ""
     },
     {

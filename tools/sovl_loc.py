@@ -169,6 +169,27 @@ def _content_stems(text: str) -> set[str]:
     return {w[:5] for w in re.findall(r"\w+", text.casefold()) if len(w) >= 4}
 
 
+def _shared_stem(a: str, b: str) -> bool:
+    """Do two single words differ only in an inflectional ending?
+
+    _content_stems compares a five-character window, which is longer than some of
+    the words it is asked about. Swedish inflects by changing the final vowel -
+    'fana' becomes 'fanor' - so that window covers the very letters that differ and
+    two forms of one word look like two different words. Comparing how far the two
+    agree from the start catches those, and does not match genuinely different
+    terms, which diverge far earlier than seven tenths of the way through.
+    """
+    a, b = a.strip().casefold(), b.strip().casefold()
+    if not a or not b or " " in a or " " in b:
+        return False
+    common = 0
+    for x, y in zip(a, b):
+        if x != y:
+            break
+        common += 1
+    return common >= 3 and common >= 0.7 * min(len(a), len(b))
+
+
 def same_term(a: str, b: str) -> bool:
     """Are these two renderings the same word rather than a real disagreement?
 
@@ -188,7 +209,9 @@ def same_term(a: str, b: str) -> bool:
     if a and b and (a in b or b in a):
         return True
     stems = _content_stems(a)
-    return bool(stems) and stems == _content_stems(b)
+    if stems and stems == _content_stems(b):
+        return True
+    return _shared_stem(a, b)
 
 
 def approved_term_present(approved: str, translation: str) -> bool:

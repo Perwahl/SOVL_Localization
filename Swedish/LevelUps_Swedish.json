@@ -88,7 +88,7 @@
     },
     {
       "Key": "+1 Wounds",
-      "Translation": "+1 Sår",
+      "Translation": "+1 HP",
       "Comment": ""
     },
     {
@@ -168,7 +168,7 @@
     },
     {
       "Key": "Hex of Ruin also reduces Power.",
-      "Translation": "Fördärvets Hex minskar också Kraft.",
+      "Translation": "Fördärvets Hex minskar också Styrka.",
       "Comment": ""
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "Key": "Upgrades Primal Fury to give +2 Power.",
-      "Translation": "Förbättrar Urvrede så att den ger +2 Kraft.",
+      "Translation": "Förbättrar Urvrede så att den ger +2 Styrka.",
       "Comment": ""
     },
     {
@@ -208,7 +208,7 @@
     },
     {
       "Key": "Upgrades Shadow Bolt to Power 5 and Range 24.",
-      "Translation": "Förbättrar Skuggpil till Kraft 5 och Räckvidd 24.",
+      "Translation": "Förbättrar Skuggpil till Styrka 5 och Räckvidd 24.",
       "Comment": ""
     },
     {
@@ -248,7 +248,7 @@
     },
     {
       "Key": "Reanimate also gives +1 Power and Defense.",
-      "Translation": "Återuppväckelse ger också +1 Kraft och Försvar.",
+      "Translation": "Återuppväckelse ger också +1 Styrka och Försvar.",
       "Comment": ""
     },
     {
@@ -268,7 +268,7 @@
     },
     {
       "Key": "Upgrades Thousand Mouths to Power 2.",
-      "Translation": "Förbättrar Tusen Gap till Kraft 2.",
+      "Translation": "Förbättrar Tusen Gap till Styrka 2.",
       "Comment": ""
     },
     {
@@ -278,7 +278,7 @@
     },
     {
       "Key": "Upgrades Fiery Blades to give +2 Power.",
-      "Translation": "Förbättrar Eldklingor så att de ger +2 Kraft.",
+      "Translation": "Förbättrar Eldklingor så att de ger +2 Styrka.",
       "Comment": ""
     },
     {
@@ -358,7 +358,7 @@
     },
     {
       "Key": "+1 Power to Ranged Attacks.",
-      "Translation": "+1 Kraft till Avståndsattacker.",
+      "Translation": "+1 Styrka till Avståndsattacker.",
       "Comment": ""
     },
     {
@@ -598,7 +598,7 @@
     },
     {
       "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
-      "Translation": "Enheten får Dödliga attacker. (orsakar 2x Sår)",
+      "Translation": "Enheten får Dödliga attacker. (orsakar 2x HP)",
       "Comment": ""
     },
     {
@@ -618,7 +618,7 @@
     },
     {
       "Key": "Unit gains Regeneration. (restores lost wounds at end of turn)",
-      "Translation": "Enheten får Regeneration. (återställer förlorade Sår vid slutet av omgången)",
+      "Translation": "Enheten får Regeneration. (återställer förlorade HP vid slutet av omgången)",
       "Comment": ""
     },
     {
@@ -813,7 +813,7 @@
     },
     {
       "Key": "Gain Deadly Strikes (deal 2x Wounds)",
-      "Translation": "Får Dödliga slag (orsakar 2x Sår)",
+      "Translation": "Får Dödliga slag (orsakar 2x HP)",
       "Comment": ""
     },
     {

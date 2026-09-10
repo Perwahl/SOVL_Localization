@@ -553,7 +553,7 @@
     },
     {
       "Key": "Cantrips",
-      "Translation": "Besvärjelser",
+      "Translation": "Trollformler",
       "Comment": ""
     },
     {
@@ -970,7 +970,7 @@
     },
     {
       "Key": "Attack Roll",
-      "Translation": "Anfallsrullning",
+      "Translation": "Attackslag",
       "Comment": ""
     },
     {
@@ -1000,7 +1000,7 @@
     },
     {
       "Key": "Damage Save",
-      "Translation": "Skadespar",
+      "Translation": "Skyddskast",
       "Comment": ""
     },
     {
@@ -2110,7 +2110,7 @@
     },
     {
       "Key": " Attack Roll",
-      "Translation": " Anfallsrullning",
+      "Translation": " Attackslag",
       "Comment": ""
     },
     {
