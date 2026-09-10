@@ -223,7 +223,7 @@
     },
     {
       "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "-1 Bewegung. Scheitert niemals bei Disziplin-Proben, erleidet bei verlorenem Kampf D3 Wunden.",
+      "Translation": "-1 Bewegung. Scheitert niemals bei Disziplin-Proben, erleidet bei verlorenem Kampf W3 Wunden.",
       "Comment": ""
     },
     {
@@ -248,7 +248,7 @@
     },
     {
       "Key": "Restore D3+1 wounds to a Reanimated unit.",
-      "Translation": "Stellt einer wiederbelebten Einheit D3+1 Wunden wieder her.",
+      "Translation": "Stellt einer wiederbelebten Einheit W3+1 Wunden wieder her.",
       "Comment": ""
     },
     {
@@ -258,12 +258,12 @@
     },
     {
       "Key": "Raise D3+3 models on a Zombie or Skeleton Warrior, Spear or Archer unit. ",
-      "Translation": "Beschwört D3+3 Modelle in einer Zombie- oder Skelett-Krieger-, Speer- oder Bogeneinheit.",
+      "Translation": "Beschwört W3+3 Modelle in einer Zombie- oder Skelett-Krieger-, Speer- oder Bogeneinheit.",
       "Comment": ""
     },
     {
       "Key": "Target unit loses D3 wounds and gains +1 Attack this turn.",
-      "Translation": "Zieleinheit erleidet D3 Wunden und erhält in diesem Zug +1 Angriff.",
+      "Translation": "Zieleinheit erleidet W3 Wunden und erhält in diesem Zug +1 Angriff.",
       "Comment": ""
     },
     {
@@ -273,7 +273,7 @@
     },
     {
       "Key": "Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "Scheitert niemals bei Disziplin-Proben, erleidet bei verlorenem Kampf D3 Wunden.",
+      "Translation": "Scheitert niemals bei Disziplin-Proben, erleidet bei verlorenem Kampf W3 Wunden.",
       "Comment": ""
     },
     {
@@ -338,7 +338,7 @@
     },
     {
       "Key": "Restore D3 wounds to a Forest Spirit unit.",
-      "Translation": "Stellt einer Waldgeist-Einheit D3 Wunden wieder her.",
+      "Translation": "Stellt einer Waldgeist-Einheit W3 Wunden wieder her.",
       "Comment": ""
     },
     {

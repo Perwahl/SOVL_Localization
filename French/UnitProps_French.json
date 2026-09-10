@@ -1118,38 +1118,38 @@
     },
     {
       "Key": "Oath: Monsters",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Serment : Monstres",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Explosive Shells",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Obus explosifs",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Oath: Ranged Units",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Serment : Unités à distance",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Oath: Cavalry",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Serment : Cavalerie",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Steed Mastery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maîtrise équestre",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Spear Mastery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maîtrise de la lance",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Bow Mastery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Maîtrise de l'arc",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "2 Hand Weapons",
@@ -1163,73 +1163,73 @@
     },
     {
       "Key": "Aerodynamic Hull",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Coque aérodynamique",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Expanded Howdah",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Howdah agrandi",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Flaming Ammunition",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Munitions enflammées",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Forest Spirits Aid",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Aide des esprits sylvestres",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Lady's Blessing",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Bénédiction de la Dame",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Lethal Strikes",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Frappes létales",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Pavise",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Pavois",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Plated Barding",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Barde à plates",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Potent Mixture",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mixture puissante",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Rally the Tribes",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Rassembler les tribus",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Scythed Wheels",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Roues à faux",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Shield Wall",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Mur de boucliers",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Terror",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Terreur",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "VolatileAmmo",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "Munitions instables",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     }
   ]
 }

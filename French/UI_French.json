@@ -3,7 +3,7 @@
   "Translations": [
     {
       "Key": "Commanders",
-      "Translation": "",
+      "Translation": "Commandants",
       "Comment": ""
     },
     {
@@ -2230,167 +2230,167 @@
     },
     {
       "Key": "Elites",
-      "Translation": "",
+      "Translation": "Élites",
       "Comment": ""
     },
     {
       "Key": "Machines of War",
-      "Translation": "",
+      "Translation": "Machines de guerre",
       "Comment": ""
     },
     {
       "Key": "Raiders",
-      "Translation": "",
+      "Translation": "Pillards",
       "Comment": ""
     },
     {
       "Key": "Big Stuff",
-      "Translation": "",
+      "Translation": "Grosses pièces",
       "Comment": ""
     },
     {
       "Key": "Battles: ",
-      "Translation": "",
+      "Translation": "Batailles : ",
       "Comment": ""
     },
     {
       "Key": "Points Earned: ",
-      "Translation": "",
+      "Translation": "Points gagnés : ",
       "Comment": ""
     },
     {
       "Key": "W/L: ",
-      "Translation": "",
+      "Translation": "V/D : ",
       "Comment": ""
     },
     {
       "Key": "W/L: -",
-      "Translation": "",
+      "Translation": "V/D : -",
       "Comment": ""
     },
     {
       "Key": "Enemies Killed: ",
-      "Translation": "",
+      "Translation": "Ennemis tués : ",
       "Comment": ""
     },
     {
       "Key": "Jungle Beasts",
-      "Translation": "",
+      "Translation": "Bêtes de la jungle",
       "Comment": ""
     },
     {
       "Key": "Demonic Allies",
-      "Translation": "",
+      "Translation": "Alliés démoniaques",
       "Comment": ""
     },
     {
       "Key": "War Beasts",
-      "Translation": "",
+      "Translation": "Bêtes de guerre",
       "Comment": ""
     },
     {
       "Key": "Player",
-      "Translation": "",
+      "Translation": "Joueur",
       "Comment": ""
     },
     {
       "Key": "Skip Charges",
-      "Translation": "",
+      "Translation": "Passer les charges",
       "Comment": ""
     },
     {
       "Key": "Abyssal Terrors",
-      "Translation": "",
+      "Translation": "Terreurs abyssales",
       "Comment": ""
     },
     {
       "Key": "AI Player",
-      "Translation": "",
+      "Translation": "Joueur IA",
       "Comment": ""
     },
     {
       "Key": "D3",
-      "Translation": "",
+      "Translation": "D3",
       "Comment": ""
     },
     {
       "Key": "D6",
-      "Translation": "",
+      "Translation": "D6",
       "Comment": ""
     },
     {
       "Key": " Damage Save",
-      "Translation": "",
+      "Translation": " Sauvegarde contre les dégâts",
       "Comment": ""
     },
     {
       "Key": "Confirm Charges",
-      "Translation": "",
+      "Translation": "Confirmer les charges",
       "Comment": ""
     },
     {
       "Key": "Vermin",
-      "Translation": "",
+      "Translation": "Vermine",
       "Comment": ""
     },
     {
       "Key": "conceded",
-      "Translation": "",
+      "Translation": "a déclaré forfait",
       "Comment": ""
     },
     {
       "Key": "Scoring Objectives",
-      "Translation": "",
+      "Translation": "Objectifs de score",
       "Comment": ""
     },
     {
       "Key": "has been wiped out!",
-      "Translation": "",
+      "Translation": "a été anéanti !",
       "Comment": ""
     },
     {
       "Key": "Auto Hits",
-      "Translation": "",
+      "Translation": "Touches automatiques",
       "Comment": ""
     },
     {
       "Key": "No hits",
-      "Translation": "",
+      "Translation": "Aucune touche",
       "Comment": ""
     },
     {
       "Key": "-30% gold income",
-      "Translation": "",
+      "Translation": "-30 % de revenus d'or",
       "Comment": ""
     },
     {
       "Key": "- Break the enemy Army -",
-      "Translation": "",
+      "Translation": "- Briser l'armée ennemie -",
       "Comment": ""
     },
     {
       "Key": "continue fighting, but their magic weakens.",
-      "Translation": "",
+      "Translation": "continuent de combattre, mais leur magie faiblit.",
       "Comment": ""
     },
     {
       "Key": "-3 or lower to Hold",
-      "Translation": "",
+      "Translation": "-3 ou moins pour tenir",
       "Comment": ""
     },
     {
       "Key": "Challenge Level: 0",
-      "Translation": "",
+      "Translation": "Niveau de défi : 0",
       "Comment": ""
     },
     {
       "Key": "Harder Minor Battles",
-      "Translation": "",
+      "Translation": "Batailles mineures plus difficiles",
       "Comment": ""
     },
     {
       "Key": "takes priority",
-      "Translation": "",
+      "Translation": "est prioritaire",
       "Comment": ""
     }
   ]

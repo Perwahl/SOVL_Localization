@@ -1118,38 +1118,38 @@
     },
     {
       "Key": "Oath: Monsters",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "誓い：モンスター",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Explosive Shells",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "炸裂弾",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Oath: Ranged Units",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "誓い：遠距離ユニット",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Oath: Cavalry",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "誓い：騎兵",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Steed Mastery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "騎乗熟練",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Spear Mastery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "槍熟練",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Bow Mastery",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "弓熟練",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "2 Hand Weapons",
@@ -1163,73 +1163,73 @@
     },
     {
       "Key": "Aerodynamic Hull",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "流線型船体",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Expanded Howdah",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "拡張ハウダ",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Flaming Ammunition",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "火炎弾",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Forest Spirits Aid",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "森の精霊の加護",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Lady's Blessing",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "貴婦人の祝福",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Lethal Strikes",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "致命的な一撃",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Pavise",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "パヴィス",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Plated Barding",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "板金馬鎧",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Potent Mixture",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "強力な調合薬",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Rally the Tribes",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "部族の再結集",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Scythed Wheels",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "鎌付き車輪",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Shield Wall",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "盾の壁",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "Terror",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "恐怖",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     },
     {
       "Key": "VolatileAmmo",
-      "Translation": "",
-      "Comment": ""
+      "Translation": "不安定な弾薬",
+      "Comment": "Newly harvested property; translated in this pass. Worth a native check."
     }
   ]
 }

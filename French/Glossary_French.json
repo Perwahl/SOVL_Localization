@@ -24,7 +24,7 @@
       "Notes": "Stat block name. Must be distinct from [stat.defense] and from any word used for magical power.",
       "ExampleUsage": [
         "Hex of Ruin also reduces Power.",
-        "Upgrades Primal Fury to give +3 Power."
+        "Upgrades Primal Fury to give +2 Power."
       ]
     },
     {
@@ -38,7 +38,7 @@
       "Notes": "Stat block name. English source spells this 'Defense'; treat 'Defence' as the same term.",
       "ExampleUsage": [
         "Reanimate also gives +1 Power and Defense.",
-        "Power 3 vs Defense 3"
+        "Power 3 vs Defense 4"
       ]
     },
     {
@@ -66,7 +66,7 @@
       "Notes": "Stat block name. The same word is also the unit of damage caused ('one point for each wound caused'); keep them the same word.",
       "ExampleUsage": [
         "+1 Wounds",
-        "Unit gains Lethal attacks. (deals 3x wounds)"
+        "Unit gains Lethal attacks. (deals 2x wounds)"
       ]
     },
     {
@@ -187,7 +187,7 @@
       "AlsoWrittenAs": "Hits",
       "Notes": "A hit is not yet a wound. Keep the two words distinct.",
       "ExampleUsage": [
-        "Upgrades Fireball to 3D3 hits.",
+        "Upgrades Fireball to 2D6 hits.",
         "Roll to Hit"
       ]
     },
@@ -551,8 +551,8 @@
       "Definition": "The maximum distance a Ranged Attack can reach, in inches.",
       "Notes": "Appears constantly in weapon text as 'Range: 24.'. Keep it short; this string sits in a narrow UI column.",
       "ExampleUsage": [
-        "Upgrades Shadow Bolt to Power 3 and Range 33.",
-        "Ranged attack range increased by 3."
+        "Upgrades Shadow Bolt to Power 5 and Range 24.",
+        "Ranged attack range increased by 5."
       ]
     },
     {
@@ -588,7 +588,7 @@
       "Notes": "The single most common rules word in the game. Must be distinct from [unit.model].",
       "ExampleUsage": [
         "Unit Size I",
-        "Max Unit size +3"
+        "Max Unit size +5"
       ]
     },
     {
@@ -627,7 +627,7 @@
       "Definition": "Unit type. Base 20x20 or 25x25, movement 8, pivot cost 1.",
       "Notes": "Unit type name.",
       "ExampleUsage": [
-        "Light Infantry - 33 pts"
+        "Light Infantry - 99 pts"
       ]
     },
     {
@@ -672,7 +672,7 @@
       "Notes": "This is a targeting category in ability text, not just flavour.",
       "ExampleUsage": [
         "Reroll Ranged and Combat Attacks against Monsters.",
-        "Felled 1 tree monster."
+        "Felled {0} tree monsters."
       ]
     },
     {
@@ -917,7 +917,7 @@
       "Definition": "Enemies reroll successful Damage Saves against this unit.",
       "Notes": "Must contain the target term for [stat.attacks].",
       "ExampleUsage": [
-        "Unit gains Poisoned Attacks (enemies re-roll 3s on Damage Saves)",
+        "Unit gains Poisoned Attacks (enemies re-roll 6s on Damage Saves)",
         "Gain Poisoned Attacks"
       ]
     },
@@ -984,8 +984,8 @@
       "Definition": "Abbreviation of Points, used in army list rows and unit cards where space is tight.",
       "Notes": "Appears glued to the number ('50pts') and separated ('999 pts'). Keep it short - this sits in a narrow column - and keep it recognisable as the short form of [meta.points]. German uses Pkt, Swedish p.",
       "ExampleUsage": [
-        "0 pts",
-        "3333 pts"
+        "{0}pts",
+        "Light Infantry - 99 pts"
       ]
     },
     {
@@ -998,7 +998,7 @@
       "AlsoWrittenAs": "Battles",
       "Notes": "Keep distinct from [combat.engagement], which is a single melee within a battle.",
       "ExampleUsage": [
-        "+3% post battle income",
+        "+5% post battle income",
         "Battle Hardened I"
       ]
     },
@@ -1195,8 +1195,8 @@
       "Definition": "Experience points earned by units in campaign play.",
       "Notes": "Short form used in tight UI. Keep the target form short; leaving it as 'XP' is acceptable in most languages.",
       "ExampleUsage": [
-        "1 XP",
-        "3 XP"
+        "{0} XP",
+        "+1 XP"
       ]
     },
     {
@@ -1230,12 +1230,26 @@
     {
       "Key": "D6",
       "Translation": "D6",
-      "Comment": "Do not translate - leave exactly as written in the English.",
+      "Comment": "This language's dice notation. Corpus evidence: D notation throughout.",
       "Category": "meta",
       "Consistency": "preferred",
-      "Definition": "A six-sided die. Also D3, 2D3, 2d6.",
-      "AlsoWrittenAs": "D3, d6, d3, 2D3, 2d6",
-      "Notes": "Some languages have their own dice notation (German writes W6 and W3 for D6 and D3). Either keep the English notation or use the local convention, but use the same one in every file. Never change the NUMBER: D3 must not become D6.",
+      "Definition": "A six-sided die.",
+      "AlsoWrittenAs": "d6, 2D6, 2d6",
+      "Notes": "Some languages have their own dice notation - German writes W6 and W3 for D6 and D3. Either keep the English notation or use the local convention, but use the same one in every file. The number is part of the term: D3 is a separate term and must never become D6.",
+      "ExampleUsage": [
+        "Upgrades Fireball to 2D6 hits.",
+        "D6 Power 5 hits. Range 30."
+      ]
+    },
+    {
+      "Key": "D3",
+      "Translation": "D3",
+      "Comment": "Matches this language's D6 notation. A different number of results from D6 - never merge the two.",
+      "Category": "meta",
+      "Consistency": "preferred",
+      "Definition": "A three-sided result, rolled on a D6 and halved.",
+      "AlsoWrittenAs": "d3, 2D3, 2d3",
+      "Notes": "Some languages have their own dice notation - German writes W3. Match whatever convention this language uses for [meta.d6]. Never write this as D6: it is a different number of results.",
       "ExampleUsage": [
         "Upgrades Raise Dead to raise an additional D3 models.",
         "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat."

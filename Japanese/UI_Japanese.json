@@ -3,7 +3,7 @@
   "Translations": [
     {
       "Key": "Commanders",
-      "Translation": "",
+      "Translation": "指揮官",
       "Comment": ""
     },
     {
@@ -308,27 +308,27 @@
     },
     {
       "Key": "Random Map",
-      "Translation": "",
+      "Translation": "ランダムマップ",
       "Comment": ""
     },
     {
       "Key": "Pitched Battle",
-      "Translation": "",
+      "Translation": "会戦",
       "Comment": ""
     },
     {
       "Key": "Get on Steam",
-      "Translation": "",
+      "Translation": "Steamで入手",
       "Comment": ""
     },
     {
       "Key": "Faction Pack",
-      "Translation": "",
+      "Translation": "派閥パック",
       "Comment": ""
     },
     {
       "Key": "Into the Abyss",
-      "Translation": "",
+      "Translation": "深淵へ",
       "Comment": ""
     },
     {
@@ -2238,157 +2238,157 @@
     },
     {
       "Key": "Raiders",
-      "Translation": "",
+      "Translation": "略奪者",
       "Comment": ""
     },
     {
       "Key": "Big Stuff",
-      "Translation": "",
+      "Translation": "大物",
       "Comment": ""
     },
     {
       "Key": "Battles: ",
-      "Translation": "",
+      "Translation": "戦闘: ",
       "Comment": ""
     },
     {
       "Key": "Points Earned: ",
-      "Translation": "",
+      "Translation": "獲得ポイント: ",
       "Comment": ""
     },
     {
       "Key": "W/L: ",
-      "Translation": "",
+      "Translation": "勝/敗: ",
       "Comment": ""
     },
     {
       "Key": "W/L: -",
-      "Translation": "",
+      "Translation": "勝/敗: -",
       "Comment": ""
     },
     {
       "Key": "Enemies Killed: ",
-      "Translation": "",
+      "Translation": "撃破した敵: ",
       "Comment": ""
     },
     {
       "Key": "Jungle Beasts",
-      "Translation": "",
+      "Translation": "ジャングルの獣",
       "Comment": ""
     },
     {
       "Key": "Demonic Allies",
-      "Translation": "",
+      "Translation": "悪魔の同盟者",
       "Comment": ""
     },
     {
       "Key": "War Beasts",
-      "Translation": "",
+      "Translation": "戦獣",
       "Comment": ""
     },
     {
       "Key": "Player",
-      "Translation": "",
+      "Translation": "プレイヤー",
       "Comment": ""
     },
     {
       "Key": "Skip Charges",
-      "Translation": "",
+      "Translation": "突撃をスキップ",
       "Comment": ""
     },
     {
       "Key": "Abyssal Terrors",
-      "Translation": "",
+      "Translation": "深淵の恐怖",
       "Comment": ""
     },
     {
       "Key": "AI Player",
-      "Translation": "",
+      "Translation": "AIプレイヤー",
       "Comment": ""
     },
     {
       "Key": "D3",
-      "Translation": "",
+      "Translation": "D3",
       "Comment": ""
     },
     {
       "Key": "D6",
-      "Translation": "",
+      "Translation": "D6",
       "Comment": ""
     },
     {
       "Key": " Damage Save",
-      "Translation": "",
+      "Translation": " ダメージセーブ",
       "Comment": ""
     },
     {
       "Key": "Confirm Charges",
-      "Translation": "",
+      "Translation": "突撃を確定",
       "Comment": ""
     },
     {
       "Key": "Vermin",
-      "Translation": "",
+      "Translation": "害獣",
       "Comment": ""
     },
     {
       "Key": "conceded",
-      "Translation": "",
+      "Translation": "は投了した",
       "Comment": ""
     },
     {
       "Key": "Scoring Objectives",
-      "Translation": "",
+      "Translation": "スコアリング目標",
       "Comment": ""
     },
     {
       "Key": "has been wiped out!",
-      "Translation": "",
+      "Translation": "は全滅した！",
       "Comment": ""
     },
     {
       "Key": "Auto Hits",
-      "Translation": "",
+      "Translation": "自動命中",
       "Comment": ""
     },
     {
       "Key": "No hits",
-      "Translation": "",
+      "Translation": "命中なし",
       "Comment": ""
     },
     {
       "Key": "-30% gold income",
-      "Translation": "",
+      "Translation": "ゴールド収入 -30%",
       "Comment": ""
     },
     {
       "Key": "- Break the enemy Army -",
-      "Translation": "",
+      "Translation": "- 敵軍団を打ち破れ -",
       "Comment": ""
     },
     {
       "Key": "continue fighting, but their magic weakens.",
-      "Translation": "",
+      "Translation": "戦い続けるが、その魔法は弱まる。",
       "Comment": ""
     },
     {
       "Key": "-3 or lower to Hold",
-      "Translation": "",
+      "Translation": "-3以下で持ちこたえる",
       "Comment": ""
     },
     {
       "Key": "Challenge Level: 0",
-      "Translation": "",
+      "Translation": "チャレンジレベル: 0",
       "Comment": ""
     },
     {
       "Key": "Harder Minor Battles",
-      "Translation": "",
+      "Translation": "小戦闘の難度上昇",
       "Comment": ""
     },
     {
       "Key": "takes priority",
-      "Translation": "",
+      "Translation": "が優先される",
       "Comment": ""
     }
   ]
