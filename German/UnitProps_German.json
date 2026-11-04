@@ -502,6 +502,11 @@
       "Comment": ""
     },
     {
+      "Key": "Stone Skin",
+      "Translation": "Steinhaut",
+      "Comment": ""
+    },
+    {
       "Key": "Demonic",
       "Translation": "Dämonisch",
       "Comment": ""
@@ -1230,6 +1235,106 @@
       "Key": "VolatileAmmo",
       "Translation": "Instabile Munition",
       "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Construct",
+      "Translation": "Konstrukt",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of Recurrence",
+      "Translation": "Ritus der Wiederkehr",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of Stone",
+      "Translation": "Ritus des Steins",
+      "Comment": ""
+    },
+    {
+      "Key": "Unbroken Line",
+      "Translation": "Ungebrochene Linie",
+      "Comment": ""
+    },
+    {
+      "Key": "Stand Eternal",
+      "Translation": "Ewig standhaft",
+      "Comment": ""
+    },
+    {
+      "Key": "Giant Bow",
+      "Translation": "Riesenbogen",
+      "Comment": ""
+    },
+    {
+      "Key": "Great Bow",
+      "Translation": "Großbogen",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of the Seal",
+      "Translation": "Ritus des Siegels",
+      "Comment": ""
+    },
+    {
+      "Key": "Sunbeam",
+      "Translation": "Sonnenstrahl",
+      "Comment": ""
+    },
+    {
+      "Key": "Thrall",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Regeneration",
+      "Translation": "Große Regeneration",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Muster",
+      "Translation": "Ewiges Aufgebot",
+      "Comment": ""
+    },
+    {
+      "Key": "Graven Glyphs",
+      "Translation": "Gravierte Glyphen",
+      "Comment": ""
+    },
+    {
+      "Key": "Sun-Chariot Drill",
+      "Translation": "Sonnenwagen-Drill",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Rite of Stone",
+      "Translation": "Großer Ritus des Steins",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Recurrence",
+      "Translation": "Große Wiederkehr",
+      "Comment": ""
+    },
+    {
+      "Key": "Daemonforged",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Quake Shell",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Blunderbuss",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rocket Salvo",
+      "Translation": "",
+      "Comment": ""
     }
   ]
 }

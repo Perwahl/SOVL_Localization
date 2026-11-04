@@ -47,13 +47,18 @@
       "Comment": "Tradeoff: slower but more resilient unit"
     },
     {
+      "Key": "-4 Movement. +1 Damage Save.",
+      "Translation": "-4移动速度。伤害豁免 +1。",
+      "Comment": ""
+    },
+    {
       "Key": "If a Commander is part of this unit it re-rolls failed Discipline tests.",
       "Translation": "如果指挥官属于该单位，则重投纪律检定中失败的。",
       "Comment": "Leadership improves morale reliability"
     },
     {
-      "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 4+.",
-      "Translation": "冲锋奖励：+1力量\n该武器的伤害豁免检定不会好于4+。",
+      "Key": "Charge Bonus: +1 Power.\nDamage Saves against this weapon are never better than 4+.",
+      "Translation": "冲锋奖励：+1力量。\n该武器的伤害豁免检定不会好于4+。",
       "Comment": "Two effects: charge bonus and armor piercing quality"
     },
     {
@@ -147,8 +152,8 @@
       "Comment": "Defensive assistance spell"
     },
     {
-      "Key": "Unit recovers all missing wounds at end of turn.",
-      "Translation": "单位在轮末恢复所有缺失的伤口。",
+      "Key": "Heals 1 wound at end of turn.",
+      "Translation": "单位在轮末恢复1个伤口。",
       "Comment": "Healing ability"
     },
     {
@@ -182,13 +187,13 @@
       "Comment": "Armor benefit outweighs mobility cost"
     },
     {
-      "Key": "Unit can be deployed anywhere on its owners side of the table.",
-      "Translation": "单位可以部署在其主人棋盘的任何位置。",
+      "Key": "Deploys anywhere on your half of the battlefield, up to 2\" from the centre line.",
+      "Translation": "可部署在己方半场的任意位置，最近可至距中线2\"处。",
       "Comment": "Strategic deployment flexibility"
     },
     {
-      "Key": "Re-roll missed Attack Rolls in the first round of combat.",
-      "Translation": "在近战的第一轮中重投攻击检定中失败的。",
+      "Key": "Re-roll missed Attack Rolls in the first round of combat. Can't flee from charges.",
+      "Translation": "在近战的第一轮中重投攻击检定中失败的。不能从冲锋中溃逃。",
       "Comment": "Early combat reliability boost"
     },
     {
@@ -222,8 +227,8 @@
       "Comment": "Single-use attack bonus"
     },
     {
-      "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "-1移动速度。永不失败纪律检定，在失败的近战中失去D3伤口。",
+      "Key": "-1 Movement. Never flees: loses D3 wounds instead of taking a break test. Can't flee from charges.",
+      "Translation": "-1移动速度。永不溃逃：失去D3伤口，而不进行破裂测试。不能从冲锋中溃逃。",
       "Comment": "Fearless but takes heavy losses in defeat"
     },
     {
@@ -237,8 +242,8 @@
       "Comment": "Defense against melee attacks"
     },
     {
-      "Key": "Reduce Crumble by 1. Regeneration (restore all lost wounds at end of turn).",
-      "Translation": "减少1点崩溃。再生（轮末恢复所有缺失的伤口）。",
+      "Key": "Reduce Crumble by 1. Regeneration (restores 1 wound at end of turn).",
+      "Translation": "减少1点崩溃。再生（轮末恢复1个伤口）。",
       "Comment": "Undead unit abilities"
     },
     {
@@ -274,6 +279,11 @@
     {
       "Key": "Never fails Discipline tests, loses D3 wounds on lost combat.",
       "Translation": "永不失败纪律检定，在失败的近战中失去D3伤口。",
+      "Comment": "Fearless but vulnerable in defeat"
+    },
+    {
+      "Key": "Never flees: loses D3 wounds instead of taking a break test. Can't flee from charges.",
+      "Translation": "永不溃逃：失去D3伤口，而不进行破裂测试。不能从冲锋中溃逃。",
       "Comment": "Fearless but vulnerable in defeat"
     },
     {
@@ -652,8 +662,8 @@
       "Comment": "Mobility with terrain traversal"
     },
     {
-      "Key": "Regeneration. (restores all wounds at end of turn)",
-      "Translation": "再生。（轮末恢复所有伤口）",
+      "Key": "Regeneration. (restores 1 wound at end of turn)",
+      "Translation": "再生。（轮末恢复1个伤口）",
       "Comment": "Healing ability"
     },
     {
@@ -707,8 +717,8 @@
       "Comment": "Temporary flying with permanent mobility"
     },
     {
-      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration.",
-      "Translation": "每场战斗一次，所有拥有衰败恩赐的友方单位重投伤害豁免检定中失败的。\n再生。",
+      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration (restores 1 wound at end of turn).",
+      "Translation": "每场战斗一次，所有拥有衰败恩赐的友方单位重投伤害豁免检定中失败的。\n再生（轮末恢复1个伤口）。",
       "Comment": "Gift holder buff with healing"
     },
     {
@@ -867,9 +877,9 @@
       "Comment": "Monster charge capability"
     },
     {
-      "Key": "Range 48. 3x Power 6.",
-      "Translation": "射程48。3发×力量6。",
-      "Comment": "Long-range multi-shot weapon"
+      "Key": "Range 48. 1x Power 6. Pierces ranks.",
+      "Translation": "射程48。1发×力量6。贯穿各排。",
+      "Comment": ""
     },
     {
       "Key": "Range 48. 2D3 hits, Power 5.",
@@ -1067,8 +1077,8 @@
       "Comment": "Extended ranged reach"
     },
     {
-      "Key": "Lethal Attacks. (2x wounds)",
-      "Translation": "致命攻击。（2倍伤口）",
+      "Key": "Lethal melee attacks. (2x wounds)",
+      "Translation": "致命近战攻击。（2倍伤口）",
       "Comment": "Deadly Strikes ability"
     },
     {
@@ -1195,6 +1205,151 @@
       "Key": "Unit is Fearless. Charge Bonus: +1 Attack",
       "Translation": "单位无畏。冲锋奖励：+1 攻击",
       "Comment": ""
+    },
+    {
+      "Key": "Target a Reanimated unit that has already acted this turn. It may act again.",
+      "Translation": "选择一个本轮已行动的复活单位。它可以再次行动。",
+      "Comment": ""
+    },
+    {
+      "Key": "Target Construct unit gains +2 Power and +6 Movement for one turn, then suffers -1 Power and -2 Movement for a turn.",
+      "Translation": "目标构装体单位获得+2力量和+6移动速度，持续一轮，之后承受-1力量和-2移动速度，持续一轮。",
+      "Comment": ""
+    },
+    {
+      "Key": "Activate once per battle. All your Reanimated units reroll failed Attack Rolls and Ranged Attack Rolls for one turn.",
+      "Translation": "每场战斗激活一次。你所有复活单位一轮内重投攻击和远程攻击检定中失败的。",
+      "Comment": ""
+    },
+    {
+      "Key": "Cannot lose his last Wound while his Retinue lives, further wounds hit the Retinue instead. When he dies, all your Reanimated units Crumble once.",
+      "Translation": "卫队存活时不会失去最后一个伤口，后续伤口由卫队承受。他阵亡时，你所有复活单位进行一次崩溃。",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 36. Power 5.",
+      "Translation": "射程36。力量5。",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 36. 1x Power 6. Pierces ranks.",
+      "Translation": "射程36。1发×力量6。贯穿各排。",
+      "Comment": ""
+    },
+    {
+      "Key": "All your units gain +1 Defense this turn. Activate once per battle.",
+      "Translation": "本轮你所有单位获得+1防御。每场战斗激活一次。",
+      "Comment": ""
+    },
+    {
+      "Key": "+2 Discipline while a Commander is attached to the unit.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Heals 1 wound at end of turn. Each turn a wound comes back, +1 Attack for the rest of the battle.",
+      "Translation": "单位在轮末恢复1个伤口。每有一轮恢复了伤口，本场战斗剩余时间内+1攻击。",
+      "Comment": ""
+    },
+    {
+      "Key": "Reduce Crumble rolls by 1. +1 Defense.",
+      "Translation": "降低消散掷骰 1 点。+1防御。",
+      "Comment": ""
+    },
+    {
+      "Key": "Reduce Crumble rolls by 1. +1 Defense. +1 Power.",
+      "Translation": "降低消散掷骰 1 点。+1防御。+1力量。",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Move Speed. +1 Attack.",
+      "Translation": "移动速度 +1。攻击力 +1。",
+      "Comment": ""
+    },
+    {
+      "Key": "Activate twice per battle. All your Reanimated units reroll failed Attack Rolls and Ranged Attack Rolls for one turn.",
+      "Translation": "每场战斗激活两次。你所有复活单位一轮内重投攻击和远程攻击检定中失败的。",
+      "Comment": ""
+    },
+    {
+      "Key": "Target Construct unit gains +2 Power and +6 Movement for one turn.",
+      "Translation": "目标构装体单位获得+2力量和+6移动速度，持续一轮。",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 48. 1x Power 10, auto hits (no attack roll). Pierces ranks.",
+      "Translation": "射程48。1发×力量10，自动命中（无需攻击检定）。贯穿各排。",
+      "Comment": ""
+    },
+    {
+      "Key": "-1 to targets Damage Save.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 48. 2 x D3 shots at Power 4.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 12. D3 shots per model at Power 4.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 36. D6 shots at Power 5.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 4+.",
+      "Translation": "冲锋奖励：+1力量\n该武器的伤害豁免检定不会好于4+。",
+      "Comment": "Two effects: charge bonus and armor piercing quality"
+    },
+    {
+      "Key": "Unit recovers all missing wounds at end of turn.",
+      "Translation": "单位在轮末恢复所有缺失的伤口。",
+      "Comment": "Healing ability"
+    },
+    {
+      "Key": "Unit can be deployed anywhere on its owners side of the table.",
+      "Translation": "单位可以部署在其主人棋盘的任何位置。",
+      "Comment": "Strategic deployment flexibility"
+    },
+    {
+      "Key": "Re-roll missed Attack Rolls in the first round of combat.",
+      "Translation": "在近战的第一轮中重投攻击检定中失败的。",
+      "Comment": "Early combat reliability boost"
+    },
+    {
+      "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
+      "Translation": "-1移动速度。永不失败纪律检定，在失败的近战中失去D3伤口。",
+      "Comment": "Fearless but takes heavy losses in defeat"
+    },
+    {
+      "Key": "Reduce Crumble by 1. Regeneration (restore all lost wounds at end of turn).",
+      "Translation": "减少1点崩溃。再生（轮末恢复所有缺失的伤口）。",
+      "Comment": "Undead unit abilities"
+    },
+    {
+      "Key": "Regeneration. (restores all wounds at end of turn)",
+      "Translation": "再生。（轮末恢复所有伤口）",
+      "Comment": "Healing ability"
+    },
+    {
+      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration.",
+      "Translation": "每场战斗一次，所有拥有衰败恩赐的友方单位重投伤害豁免检定中失败的。\n再生。",
+      "Comment": "Gift holder buff with healing"
+    },
+    {
+      "Key": "Range 48. 3x Power 6.",
+      "Translation": "射程48。3发×力量6。",
+      "Comment": "Long-range multi-shot weapon"
+    },
+    {
+      "Key": "Lethal Attacks. (2x wounds)",
+      "Translation": "致命攻击。（2倍伤口）",
+      "Comment": "Deadly Strikes ability"
     }
   ]
 }

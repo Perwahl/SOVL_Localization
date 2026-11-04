@@ -1,0 +1,90 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Undying Dynasties Faction.",
+  "Translations": [
+    {
+      "Key": "Undying Dynasties",
+      "Translation": "Odödliga Dynastierna",
+      "Comment": ""
+    },
+    {
+      "Key": "Risen King",
+      "Translation": "Återuppstånden Kung",
+      "Comment": ""
+    },
+    {
+      "Key": "Hierophant",
+      "Translation": "Hierofant",
+      "Comment": ""
+    },
+    {
+      "Key": "Dynasty Spears",
+      "Translation": "Dynastispjut",
+      "Comment": ""
+    },
+    {
+      "Key": "Dynasty Blades",
+      "Translation": "Dynastiklingor",
+      "Comment": ""
+    },
+    {
+      "Key": "Sunguard",
+      "Translation": "Solgardet",
+      "Comment": ""
+    },
+    {
+      "Key": "Dynasty Archers",
+      "Translation": "Dynastibågskyttar",
+      "Comment": ""
+    },
+    {
+      "Key": "Ossuary Catapult",
+      "Translation": "Benhuskatapult",
+      "Comment": ""
+    },
+    {
+      "Key": "Dynasty Chariots",
+      "Translation": "Dynastistridsvagnar",
+      "Comment": ""
+    },
+    {
+      "Key": "Dynasty Lancers",
+      "Translation": "Dynastilansiärer",
+      "Comment": ""
+    },
+    {
+      "Key": "Tomb Vultures",
+      "Translation": "Gravgamar",
+      "Comment": ""
+    },
+    {
+      "Key": "Stone Colossus",
+      "Translation": "Stenkoloss",
+      "Comment": ""
+    },
+    {
+      "Key": "Sentinels",
+      "Translation": "Väktare",
+      "Comment": ""
+    },
+    {
+      "Key": "Sand Scorpions",
+      "Translation": "Sandskorpioner",
+      "Comment": ""
+    },
+    {
+      "Key": "War Sphinx",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Bone Dragon",
+      "Translation": "Bendrake",
+      "Comment": ""
+    },
+    {
+      "Key": "The Sun Palanquin",
+      "Translation": "Solbärstolen",
+      "Comment": ""
+    }
+  ]
+}

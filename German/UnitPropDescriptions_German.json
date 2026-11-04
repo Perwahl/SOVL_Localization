@@ -47,13 +47,18 @@
       "Comment": ""
     },
     {
+      "Key": "-4 Movement. +1 Damage Save.",
+      "Translation": "-4 Bewegungsgeschwindigkeit. +1 Schadensrettungswurf.",
+      "Comment": ""
+    },
+    {
       "Key": "If a Commander is part of this unit it re-rolls failed Discipline tests.",
       "Translation": "Wenn ein Kommandeur Teil dieser Einheit ist, darf sie fehlgeschlagene Disziplin-Proben wiederholen.",
       "Comment": ""
     },
     {
-      "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 4+.",
-      "Translation": "Ansturmbonus: +1 Stärke\nRettungswürfe gegen diese Waffe dürfen nie besser als 4+ sein.",
+      "Key": "Charge Bonus: +1 Power.\nDamage Saves against this weapon are never better than 4+.",
+      "Translation": "Ansturmbonus: +1 Stärke.\nRettungswürfe gegen diese Waffe dürfen nie besser als 4+ sein.",
       "Comment": ""
     },
     {
@@ -147,8 +152,8 @@
       "Comment": ""
     },
     {
-      "Key": "Unit recovers all missing wounds at end of turn.",
-      "Translation": "Die Einheit stellt am Ende des Zuges alle fehlenden Wunden wieder her.",
+      "Key": "Heals 1 wound at end of turn.",
+      "Translation": "Die Einheit stellt am Ende des Zuges 1 Wunde wieder her.",
       "Comment": ""
     },
     {
@@ -182,13 +187,13 @@
       "Comment": ""
     },
     {
-      "Key": "Unit can be deployed anywhere on its owners side of the table.",
-      "Translation": "Die Einheit kann beliebig auf der Hälfte des Spieltisches ihres Besitzers aufgestellt werden.",
+      "Key": "Deploys anywhere on your half of the battlefield, up to 2\" from the centre line.",
+      "Translation": "Wird beliebig auf der eigenen Hälfte des Schlachtfelds aufgestellt, bis zu 2\" vor der Mittellinie.",
       "Comment": ""
     },
     {
-      "Key": "Re-roll missed Attack Rolls in the first round of combat.",
-      "Translation": "Erneutes Würfeln verfehlter Angriffswürfe in der ersten Kampfrunde.",
+      "Key": "Re-roll missed Attack Rolls in the first round of combat. Can't flee from charges.",
+      "Translation": "Erneutes Würfeln verfehlter Angriffswürfe in der ersten Kampfrunde. Kann nicht vor einem Ansturm flüchten.",
       "Comment": ""
     },
     {
@@ -222,8 +227,8 @@
       "Comment": ""
     },
     {
-      "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "-1 Bewegungsgeschwindigkeit. Scheitert niemals bei Disziplin-Proben, erleidet bei verlorenem Kampf W3 Wunden.",
+      "Key": "-1 Movement. Never flees: loses D3 wounds instead of taking a break test. Can't flee from charges.",
+      "Translation": "-1 Bewegungsgeschwindigkeit. Flieht niemals: erleidet W3 Wunden, statt eine Moralprobe abzulegen. Kann nicht vor einem Ansturm flüchten.",
       "Comment": ""
     },
     {
@@ -237,8 +242,8 @@
       "Comment": ""
     },
     {
-      "Key": "Reduce Crumble by 1. Regeneration (restore all lost wounds at end of turn).",
-      "Translation": "Reduziert Zerfall um 1. Regeneration (stellt alle verlorenen Wunden am Ende des Zuges wieder her).",
+      "Key": "Reduce Crumble by 1. Regeneration (restores 1 wound at end of turn).",
+      "Translation": "Reduziert Zerfall um 1. Regeneration (stellt am Ende des Zuges 1 Wunde wieder her).",
       "Comment": ""
     },
     {
@@ -274,6 +279,11 @@
     {
       "Key": "Never fails Discipline tests, loses D3 wounds on lost combat.",
       "Translation": "Scheitert niemals bei Disziplin-Proben, erleidet bei verlorenem Kampf W3 Wunden.",
+      "Comment": ""
+    },
+    {
+      "Key": "Never flees: loses D3 wounds instead of taking a break test. Can't flee from charges.",
+      "Translation": "Flieht niemals: erleidet W3 Wunden, statt eine Moralprobe abzulegen. Kann nicht vor einem Ansturm flüchten.",
       "Comment": ""
     },
     {
@@ -652,8 +662,8 @@
       "Comment": ""
     },
     {
-      "Key": "Regeneration. (restores all wounds at end of turn)",
-      "Translation": "Regeneration. (stellt am Ende der Runde alle Wunden wieder her)",
+      "Key": "Regeneration. (restores 1 wound at end of turn)",
+      "Translation": "Regeneration. (stellt am Ende der Runde 1 Wunde wieder her)",
       "Comment": ""
     },
     {
@@ -707,8 +717,8 @@
       "Comment": ""
     },
     {
-      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration.",
-      "Translation": "Einmal pro Schlacht würfeln alle befreundeten Einheiten mit Gabe der Verwesung fehlgeschlagene Schadensrettungswürfe erneut.\nRegeneration.",
+      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration (restores 1 wound at end of turn).",
+      "Translation": "Einmal pro Schlacht würfeln alle befreundeten Einheiten mit Gabe der Verwesung fehlgeschlagene Schadensrettungswürfe erneut.\nRegeneration (stellt am Ende des Zuges 1 Wunde wieder her).",
       "Comment": ""
     },
     {
@@ -867,8 +877,8 @@
       "Comment": "Monster charge"
     },
     {
-      "Key": "Range 48. 3x Power 6.",
-      "Translation": "Reichweite 48. 3 Treffer, Stärke 6.",
+      "Key": "Range 48. 1x Power 6. Pierces ranks.",
+      "Translation": "Reichweite 48. 1 Treffer, Stärke 6. Durchschlägt Reihen.",
       "Comment": ""
     },
     {
@@ -1067,8 +1077,8 @@
       "Comment": ""
     },
     {
-      "Key": "Lethal Attacks. (2x wounds)",
-      "Translation": "Tödliche Angriffe. (2x Wunden)",
+      "Key": "Lethal melee attacks. (2x wounds)",
+      "Translation": "Tödliche Nahkampfangriffe. (2x Wunden)",
       "Comment": ""
     },
     {
@@ -1194,6 +1204,151 @@
     {
       "Key": "Unit is Fearless. Charge Bonus: +1 Attack",
       "Translation": "Einheit ist Furchtlos. Ansturmbonus: +1 Angriff",
+      "Comment": ""
+    },
+    {
+      "Key": "Target a Reanimated unit that has already acted this turn. It may act again.",
+      "Translation": "Wähle eine wiederbelebte Einheit, die in diesem Zug bereits gehandelt hat. Sie darf erneut handeln.",
+      "Comment": ""
+    },
+    {
+      "Key": "Target Construct unit gains +2 Power and +6 Movement for one turn, then suffers -1 Power and -2 Movement for a turn.",
+      "Translation": "Ziel-Konstrukteinheit erhält für einen Zug +2 Stärke und +6 Bewegungsgeschwindigkeit und erleidet danach für einen Zug -1 Stärke und -2 Bewegungsgeschwindigkeit.",
+      "Comment": ""
+    },
+    {
+      "Key": "Activate once per battle. All your Reanimated units reroll failed Attack Rolls and Ranged Attack Rolls for one turn.",
+      "Translation": "Einmal pro Gefecht aktivierbar. Alle deine wiederbelebten Einheiten dürfen für einen Zug fehlgeschlagene Angriffs- und Fernkampfangriffswürfe wiederholen.",
+      "Comment": ""
+    },
+    {
+      "Key": "Cannot lose his last Wound while his Retinue lives, further wounds hit the Retinue instead. When he dies, all your Reanimated units Crumble once.",
+      "Translation": "Kann seine letzte Wunde nicht verlieren, solange sein Gefolge lebt; weitere Wunden treffen stattdessen das Gefolge. Stirbt er, erleiden alle deine wiederbelebten Einheiten einmal Zerfall.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 36. Power 5.",
+      "Translation": "Reichweite 36. Stärke 5.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 36. 1x Power 6. Pierces ranks.",
+      "Translation": "Reichweite 36. 1 Treffer, Stärke 6. Durchschlägt Reihen.",
+      "Comment": ""
+    },
+    {
+      "Key": "All your units gain +1 Defense this turn. Activate once per battle.",
+      "Translation": "Alle deine Einheiten erhalten in diesem Zug +1 Verteidigung. Einmal pro Gefecht aktivierbar.",
+      "Comment": ""
+    },
+    {
+      "Key": "+2 Discipline while a Commander is attached to the unit.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Heals 1 wound at end of turn. Each turn a wound comes back, +1 Attack for the rest of the battle.",
+      "Translation": "Die Einheit stellt am Ende des Zuges 1 Wunde wieder her. In jedem Zug, in dem eine Wunde zurückkommt, +1 Angriff für den Rest des Gefechts.",
+      "Comment": ""
+    },
+    {
+      "Key": "Reduce Crumble rolls by 1. +1 Defense.",
+      "Translation": "Verringert Zerfall-Würfe um 1. +1 Verteidigung.",
+      "Comment": ""
+    },
+    {
+      "Key": "Reduce Crumble rolls by 1. +1 Defense. +1 Power.",
+      "Translation": "Verringert Zerfall-Würfe um 1. +1 Verteidigung. +1 Stärke.",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Move Speed. +1 Attack.",
+      "Translation": "+1 Bewegungsgeschwindigkeit. +1 Angriff.",
+      "Comment": ""
+    },
+    {
+      "Key": "Activate twice per battle. All your Reanimated units reroll failed Attack Rolls and Ranged Attack Rolls for one turn.",
+      "Translation": "Zweimal pro Gefecht aktivierbar. Alle deine wiederbelebten Einheiten dürfen für einen Zug fehlgeschlagene Angriffs- und Fernkampfangriffswürfe wiederholen.",
+      "Comment": ""
+    },
+    {
+      "Key": "Target Construct unit gains +2 Power and +6 Movement for one turn.",
+      "Translation": "Ziel-Konstrukteinheit erhält für einen Zug +2 Stärke und +6 Bewegungsgeschwindigkeit.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 48. 1x Power 10, auto hits (no attack roll). Pierces ranks.",
+      "Translation": "Reichweite 48. 1 Treffer, Stärke 10, trifft automatisch (kein Angriffswurf). Durchschlägt Reihen.",
+      "Comment": ""
+    },
+    {
+      "Key": "-1 to targets Damage Save.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 48. 2 x D3 shots at Power 4.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 12. D3 shots per model at Power 4.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 36. D6 shots at Power 5.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 4+.",
+      "Translation": "Ansturmbonus: +1 Stärke\nRettungswürfe gegen diese Waffe dürfen nie besser als 4+ sein.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit recovers all missing wounds at end of turn.",
+      "Translation": "Die Einheit stellt am Ende des Zuges alle fehlenden Wunden wieder her.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit can be deployed anywhere on its owners side of the table.",
+      "Translation": "Die Einheit kann beliebig auf der Hälfte des Spieltisches ihres Besitzers aufgestellt werden.",
+      "Comment": ""
+    },
+    {
+      "Key": "Re-roll missed Attack Rolls in the first round of combat.",
+      "Translation": "Erneutes Würfeln verfehlter Angriffswürfe in der ersten Kampfrunde.",
+      "Comment": ""
+    },
+    {
+      "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
+      "Translation": "-1 Bewegungsgeschwindigkeit. Scheitert niemals bei Disziplin-Proben, erleidet bei verlorenem Kampf W3 Wunden.",
+      "Comment": ""
+    },
+    {
+      "Key": "Reduce Crumble by 1. Regeneration (restore all lost wounds at end of turn).",
+      "Translation": "Reduziert Zerfall um 1. Regeneration (stellt alle verlorenen Wunden am Ende des Zuges wieder her).",
+      "Comment": ""
+    },
+    {
+      "Key": "Regeneration. (restores all wounds at end of turn)",
+      "Translation": "Regeneration. (stellt am Ende der Runde alle Wunden wieder her)",
+      "Comment": ""
+    },
+    {
+      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration.",
+      "Translation": "Einmal pro Schlacht würfeln alle befreundeten Einheiten mit Gabe der Verwesung fehlgeschlagene Schadensrettungswürfe erneut.\nRegeneration.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 48. 3x Power 6.",
+      "Translation": "Reichweite 48. 3 Treffer, Stärke 6.",
+      "Comment": ""
+    },
+    {
+      "Key": "Lethal Attacks. (2x wounds)",
+      "Translation": "Tödliche Angriffe. (2x Wunden)",
       "Comment": ""
     }
   ]

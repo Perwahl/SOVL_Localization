@@ -502,6 +502,11 @@
       "Comment": "Reptilian/dragon trait"
     },
     {
+      "Key": "Stone Skin",
+      "Translation": "Peau de Pierre",
+      "Comment": ""
+    },
+    {
       "Key": "Demonic",
       "Translation": "Démoniaque",
       "Comment": ""
@@ -1230,6 +1235,106 @@
       "Key": "VolatileAmmo",
       "Translation": "Munitions instables",
       "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Construct",
+      "Translation": "Construct",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of Recurrence",
+      "Translation": "Rite de Récurrence",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of Stone",
+      "Translation": "Rite de Pierre",
+      "Comment": ""
+    },
+    {
+      "Key": "Unbroken Line",
+      "Translation": "Ligne Inébranlable",
+      "Comment": ""
+    },
+    {
+      "Key": "Stand Eternal",
+      "Translation": "Éternellement Debout",
+      "Comment": ""
+    },
+    {
+      "Key": "Giant Bow",
+      "Translation": "Arc Géant",
+      "Comment": ""
+    },
+    {
+      "Key": "Great Bow",
+      "Translation": "Grand Arc",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of the Seal",
+      "Translation": "Rite du Sceau",
+      "Comment": ""
+    },
+    {
+      "Key": "Sunbeam",
+      "Translation": "Rayon de Soleil",
+      "Comment": ""
+    },
+    {
+      "Key": "Thrall",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Regeneration",
+      "Translation": "Régénération Supérieure",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Muster",
+      "Translation": "Levée Éternelle",
+      "Comment": ""
+    },
+    {
+      "Key": "Graven Glyphs",
+      "Translation": "Glyphes Gravés",
+      "Comment": ""
+    },
+    {
+      "Key": "Sun-Chariot Drill",
+      "Translation": "Exercice des Chars Solaires",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Rite of Stone",
+      "Translation": "Grand Rite de Pierre",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Recurrence",
+      "Translation": "Grande Récurrence",
+      "Comment": ""
+    },
+    {
+      "Key": "Daemonforged",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Quake Shell",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Blunderbuss",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rocket Salvo",
+      "Translation": "",
+      "Comment": ""
     }
   ]
 }

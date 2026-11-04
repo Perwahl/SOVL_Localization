@@ -1,0 +1,230 @@
+{
+  "TranslationContext": "First-time tips: short hints shown once, in a small card, the first time a player reaches a screen or needs a control. Keep each translation about as long as the English; the card has little room. Names of buttons (such as Army View) must match how that button is translated in the UI file. Many tips come twice, once for mouse and keyboard and once for touch screens: that is deliberate, translate both. Use plain text only: no arrows, symbols or emoji.",
+  "Translations": [
+    {
+      "Key": "Moving armies",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Drag one of your armies onto a neighbouring region to move it there. A red region means you attack.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Tap one of your armies, then tap a neighbouring region to move it there. A red region means you attack.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Recruiting",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Double-click one of your armies to open it. That's where you recruit new units and replenish the ones that took losses.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Building",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Click one of your settlements to put up buildings and upgrade it.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Tap one of your settlements to put up buildings and upgrade it.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Tap one of your armies, then Army View, to open it. That's where you recruit new units and replenish the ones that took losses.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Deploy your army",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Drag your units to place them inside your deployment zone. Hold Shift while dragging to turn a unit instead. Press Ready when your army is in position.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Drag your units to place them inside your deployment zone. Turn on Rotate to turn a unit by dragging it instead. Press Ready when your army is in position.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "How a turn works",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Every turn has three phases: Charge, Strategic and Combat. Nobody can charge on the first turn. The rules button beside the phase name explains the current phase.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Charge phase",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Hover over one of your units, then over an enemy it can reach, and click Charge! to declare a charge. A unit that is charged may react, for example by fleeing.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Tap one of your units to see the enemies it can reach, then tap a Charge! button to declare a charge. A unit that is charged may react, for example by fleeing.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Strategic phase",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Players take turns activating one unit at a time. Hover over a unit and click Activate, then move, shoot or cast with it. Press Done or Space when it has finished.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Players take turns activating one unit at a time. Tap a unit to activate it, then move, shoot or cast with it. Tap Done when it has finished.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Combat phase",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Units locked in melee now fight, one engagement at a time. Roll your dice when the dice box asks you to.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Moving a unit",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Drag the move handle to march forward and the pivot handle to turn. Turning costs movement. Double-click to carry out the move, or right-click to undo a step. With no step to undo, right-click to point where the unit should go instead.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Drag the move handle to march forward and the pivot handle to turn. Turning costs movement. Double-tap to carry out the move, or press Undo to take a step back.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rolling dice",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Click the roll button or press Space to throw the dice. Hold Space down to roll automatically.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Press Roll to throw the dice. Hold it down to roll faster.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Checking ranges",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Hold X to show your units' charge ranges and line of sight, and C to show the enemy's. Hold Shift as well to show shooting ranges.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Hold the line of sight button to see what the active unit can see and reach. Press and hold any unit to see its details.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Building an army",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "The army size sets your points budget and how many units you can take. Add units with the + in each section, and hover over a unit to resize or remove it. You can save once the list is valid.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "The army size sets your points budget and how many units you can take. Add units with the + in each section; each unit has buttons to resize or remove it. You can save once the list is valid.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "The campaign map",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Click the next node on your path to travel there. Battles, camps, armories and events lie ahead. Army View shows your army and its progress.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Tap the next node on your path to travel there. Battles, camps, armories and events lie ahead. Army View shows your army and its progress.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Level up",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "This unit has gained enough experience to level up. Pick one of the upgrades on offer.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Camp site",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "A chance to rest. Choose whether to replenish a unit's losses or train it for extra experience.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Armory",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Spend your gold here on new equipment and upgrades for your units.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "The shaded area is how far the unit can go. Point where it should stand and click to move it there. The scroll wheel turns it, which costs movement; hold Ctrl to zoom with the wheel instead. Yellow is where it could charge from there, red the enemies that could charge it. Right-click to go back to the move handles.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "The shaded area is how far the unit can go. Drag a finger to where it should stand, and twist a second finger to turn it, which costs movement. Tap the green button to make the move, or the red one to start again.",
+      "Translation": "",
+      "Comment": ""
+    }
+  ]
+}

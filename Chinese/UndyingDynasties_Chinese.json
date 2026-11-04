@@ -1,0 +1,90 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Undying Dynasties Faction.",
+  "Translations": [
+    {
+      "Key": "Undying Dynasties",
+      "Translation": "不死王朝",
+      "Comment": ""
+    },
+    {
+      "Key": "Risen King",
+      "Translation": "复生之王",
+      "Comment": ""
+    },
+    {
+      "Key": "Hierophant",
+      "Translation": "大祭司",
+      "Comment": ""
+    },
+    {
+      "Key": "Dynasty Spears",
+      "Translation": "王朝矛兵",
+      "Comment": ""
+    },
+    {
+      "Key": "Dynasty Blades",
+      "Translation": "王朝剑兵",
+      "Comment": ""
+    },
+    {
+      "Key": "Sunguard",
+      "Translation": "太阳卫队",
+      "Comment": ""
+    },
+    {
+      "Key": "Dynasty Archers",
+      "Translation": "王朝弓手",
+      "Comment": ""
+    },
+    {
+      "Key": "Ossuary Catapult",
+      "Translation": "藏骨堂投石机",
+      "Comment": ""
+    },
+    {
+      "Key": "Dynasty Chariots",
+      "Translation": "王朝战车",
+      "Comment": ""
+    },
+    {
+      "Key": "Dynasty Lancers",
+      "Translation": "王朝枪骑兵",
+      "Comment": ""
+    },
+    {
+      "Key": "Tomb Vultures",
+      "Translation": "古墓秃鹫",
+      "Comment": ""
+    },
+    {
+      "Key": "Stone Colossus",
+      "Translation": "石巨像",
+      "Comment": ""
+    },
+    {
+      "Key": "Sentinels",
+      "Translation": "哨卫",
+      "Comment": ""
+    },
+    {
+      "Key": "Sand Scorpions",
+      "Translation": "沙蝎",
+      "Comment": ""
+    },
+    {
+      "Key": "War Sphinx",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Bone Dragon",
+      "Translation": "骨龙",
+      "Comment": ""
+    },
+    {
+      "Key": "The Sun Palanquin",
+      "Translation": "太阳肩舆",
+      "Comment": ""
+    }
+  ]
+}

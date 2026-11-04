@@ -1,0 +1,90 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Undying Dynasties Faction.",
+  "Translations": [
+    {
+      "Key": "Undying Dynasties",
+      "Translation": "Dinastías Inmortales",
+      "Comment": ""
+    },
+    {
+      "Key": "Risen King",
+      "Translation": "Rey Resucitado",
+      "Comment": ""
+    },
+    {
+      "Key": "Hierophant",
+      "Translation": "Hierofante",
+      "Comment": ""
+    },
+    {
+      "Key": "Dynasty Spears",
+      "Translation": "Lanzas de la Dinastía",
+      "Comment": ""
+    },
+    {
+      "Key": "Dynasty Blades",
+      "Translation": "Espadas de la Dinastía",
+      "Comment": ""
+    },
+    {
+      "Key": "Sunguard",
+      "Translation": "Guardia Solar",
+      "Comment": ""
+    },
+    {
+      "Key": "Dynasty Archers",
+      "Translation": "Arqueros de la Dinastía",
+      "Comment": ""
+    },
+    {
+      "Key": "Ossuary Catapult",
+      "Translation": "Catapulta del Osario",
+      "Comment": ""
+    },
+    {
+      "Key": "Dynasty Chariots",
+      "Translation": "Carros de la Dinastía",
+      "Comment": ""
+    },
+    {
+      "Key": "Dynasty Lancers",
+      "Translation": "Lanceros de la Dinastía",
+      "Comment": ""
+    },
+    {
+      "Key": "Tomb Vultures",
+      "Translation": "Buitres de la Tumba",
+      "Comment": ""
+    },
+    {
+      "Key": "Stone Colossus",
+      "Translation": "Coloso de Piedra",
+      "Comment": ""
+    },
+    {
+      "Key": "Sentinels",
+      "Translation": "Centinelas",
+      "Comment": ""
+    },
+    {
+      "Key": "Sand Scorpions",
+      "Translation": "Escorpiones de Arena",
+      "Comment": ""
+    },
+    {
+      "Key": "War Sphinx",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Bone Dragon",
+      "Translation": "Dragón de Hueso",
+      "Comment": ""
+    },
+    {
+      "Key": "The Sun Palanquin",
+      "Translation": "El Palanquín Solar",
+      "Comment": ""
+    }
+  ]
+}

@@ -70,6 +70,11 @@
       "Key": "Ratkin Infiltrator",
       "Translation": "鼠人渗透者",
       "Comment": "渗透者 (infiltrator/spy). Conveys stealth, espionage, and assassination expertise."
+    },
+    {
+      "Key": "Giant Rats",
+      "Translation": "",
+      "Comment": ""
     }
   ]
 }

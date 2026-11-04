@@ -70,6 +70,11 @@
       "Key": "Ratkin Infiltrator",
       "Translation": "Infiltratore Maestro Rattoidea",
       "Comment": "Master spy and assassin. 'Maestro' emphasizes skill and mastery in covert operations behind enemy lines."
+    },
+    {
+      "Key": "Giant Rats",
+      "Translation": "",
+      "Comment": ""
     }
   ]
 }

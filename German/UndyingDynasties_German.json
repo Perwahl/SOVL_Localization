@@ -1,0 +1,90 @@
+{
+  "TranslationContext": "This file contains Unit Names for the Undying Dynasties Faction.",
+  "Translations": [
+    {
+      "Key": "Undying Dynasties",
+      "Translation": "Unsterbliche Dynastien",
+      "Comment": ""
+    },
+    {
+      "Key": "Risen King",
+      "Translation": "Auferstandener König",
+      "Comment": ""
+    },
+    {
+      "Key": "Hierophant",
+      "Translation": "Hierophant",
+      "Comment": ""
+    },
+    {
+      "Key": "Dynasty Spears",
+      "Translation": "Dynastie-Speerkämpfer",
+      "Comment": ""
+    },
+    {
+      "Key": "Dynasty Blades",
+      "Translation": "Dynastie-Klingen",
+      "Comment": ""
+    },
+    {
+      "Key": "Sunguard",
+      "Translation": "Sonnengarde",
+      "Comment": ""
+    },
+    {
+      "Key": "Dynasty Archers",
+      "Translation": "Dynastie-Bogenschützen",
+      "Comment": ""
+    },
+    {
+      "Key": "Ossuary Catapult",
+      "Translation": "Beinhaus-Katapult",
+      "Comment": ""
+    },
+    {
+      "Key": "Dynasty Chariots",
+      "Translation": "Dynastie-Streitwagen",
+      "Comment": ""
+    },
+    {
+      "Key": "Dynasty Lancers",
+      "Translation": "Dynastie-Lanzenreiter",
+      "Comment": ""
+    },
+    {
+      "Key": "Tomb Vultures",
+      "Translation": "Grabgeier",
+      "Comment": ""
+    },
+    {
+      "Key": "Stone Colossus",
+      "Translation": "Steinkoloss",
+      "Comment": ""
+    },
+    {
+      "Key": "Sentinels",
+      "Translation": "Wächter",
+      "Comment": ""
+    },
+    {
+      "Key": "Sand Scorpions",
+      "Translation": "Sandskorpione",
+      "Comment": ""
+    },
+    {
+      "Key": "War Sphinx",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Bone Dragon",
+      "Translation": "Knochendrache",
+      "Comment": ""
+    },
+    {
+      "Key": "The Sun Palanquin",
+      "Translation": "Die Sonnensänfte",
+      "Comment": ""
+    }
+  ]
+}

@@ -47,13 +47,18 @@
       "Comment": "Negative modifiers written consistently with positive ones"
     },
     {
+      "Key": "-4 Movement. +1 Damage Save.",
+      "Translation": "-4 Скорость движения. +1 сохранение урона.",
+      "Comment": ""
+    },
+    {
       "Key": "If a Commander is part of this unit it re-rolls failed Discipline tests.",
       "Translation": "Если Командир входит в состав этого отряда, он перебрасывает провалы проверок Дисциплины.",
       "Comment": "Commander is a specific unit type; uses consistent Discipline terminology"
     },
     {
-      "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 4+.",
-      "Translation": "Бонус натиска: +1 Мощь \nСпасения от урона против этого оружия никогда не лучше чем 4+.",
+      "Key": "Charge Bonus: +1 Power.\nDamage Saves against this weapon are never better than 4+.",
+      "Translation": "Бонус натиска: +1 Мощь.\nСпасения от урона против этого оружия никогда не лучше чем 4+.",
       "Comment": "Damage Saves = Спасения от урона, 4+ refers to dice roll difficulty (4 or higher on d6)"
     },
     {
@@ -147,8 +152,8 @@
       "Comment": "Shorter ability description; consistent terms"
     },
     {
-      "Key": "Unit recovers all missing wounds at end of turn.",
-      "Translation": "Отряд восстанавливает все потерянные раны в конце хода.",
+      "Key": "Heals 1 wound at end of turn.",
+      "Translation": "Отряд восстанавливает 1 рану в конце хода.",
       "Comment": "Recovers = восстанавливает (heal mechanic)"
     },
     {
@@ -182,13 +187,13 @@
       "Comment": "Heavy Armor = Тяжелая броня (equipment effect)"
     },
     {
-      "Key": "Unit can be deployed anywhere on its owners side of the table.",
-      "Translation": "Отряд может быть развернут в любом месте на стороне его хозяина на столе.",
+      "Key": "Deploys anywhere on your half of the battlefield, up to 2\" from the centre line.",
+      "Translation": "Развёртывается в любом месте на вашей половине поля боя, но не ближе 2\" к центральной линии.",
       "Comment": "Deployment mechanic for special unit abilities"
     },
     {
-      "Key": "Re-roll missed Attack Rolls in the first round of combat.",
-      "Translation": "Переброс провалов броскков Атак в первом раунде боя.",
+      "Key": "Re-roll missed Attack Rolls in the first round of combat. Can't flee from charges.",
+      "Translation": "Переброс провалов броскков Атак в первом раунде боя. Не может бежать от натиска.",
       "Comment": "First round = первый раунд (initial turn of combat)"
     },
     {
@@ -222,8 +227,8 @@
       "Comment": "Close Combat = Ближний бой (vs Ranged = Дальняя атака)"
     },
     {
-      "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "-1 Скорость движения. Никогда не проваливает проверки Дисциплины, теряет D3 раны в проигранном бою.",
+      "Key": "-1 Movement. Never flees: loses D3 wounds instead of taking a break test. Can't flee from charges.",
+      "Translation": "-1 Скорость движения. Никогда не бежит: вместо проверки боевого духа теряет D3 раны. Не может бежать от натиска.",
       "Comment": "Lost combat = проигранный бой (when unit loses in close combat)"
     },
     {
@@ -237,8 +242,8 @@
       "Comment": "Close combat = ближний бой; hits = попадания"
     },
     {
-      "Key": "Reduce Crumble by 1. Regeneration (restore all lost wounds at end of turn).",
-      "Translation": "Снизьте Крушение на 1. Регенерация (восстановите все потерянные раны в конце хода).",
+      "Key": "Reduce Crumble by 1. Regeneration (restores 1 wound at end of turn).",
+      "Translation": "Снизьте Крушение на 1. Регенерация (восстанавливает 1 рану в конце хода).",
       "Comment": "Crumble = Крушение (morale mechanic); Regeneration = Регенерация (automatic heal)"
     },
     {
@@ -274,6 +279,11 @@
     {
       "Key": "Never fails Discipline tests, loses D3 wounds on lost combat.",
       "Translation": "Никогда не проваливает проверки Дисциплины, теряет D3 раны в проигранном бою.",
+      "Comment": "Variant of discipline effect without movement penalty"
+    },
+    {
+      "Key": "Never flees: loses D3 wounds instead of taking a break test. Can't flee from charges.",
+      "Translation": "Никогда не бежит: вместо проверки боевого духа теряет D3 раны. Не может бежать от натиска.",
       "Comment": "Variant of discipline effect without movement penalty"
     },
     {
@@ -652,8 +662,8 @@
       "Comment": "Mobile unit with terrain advantage"
     },
     {
-      "Key": "Regeneration. (restores all wounds at end of turn)",
-      "Translation": "Регенерация. (восстанавливает все раны в конце хода)",
+      "Key": "Regeneration. (restores 1 wound at end of turn)",
+      "Translation": "Регенерация. (восстанавливает 1 рану в конце хода)",
       "Comment": "Automatic healing ability"
     },
     {
@@ -707,8 +717,8 @@
       "Comment": "One-time flying transformation"
     },
     {
-      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration.",
-      "Translation": "Одого раза за сражение, все дружественные отряды с Даром распада перебрасывают провалы спасений от урона.\nРегенерация.",
+      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration (restores 1 wound at end of turn).",
+      "Translation": "Одого раза за сражение, все дружественные отряды с Даром распада перебрасывают провалы спасений от урона.\nРегенерация (восстанавливает 1 рану в конце хода).",
       "Comment": "Chaos faction ability with self-healing"
     },
     {
@@ -867,9 +877,9 @@
       "Comment": "Powerful monster charge with multiple bonuses"
     },
     {
-      "Key": "Range 48. 3x Power 6.",
-      "Translation": "Дальность 48. 3x Мощь 6.",
-      "Comment": "Long-range weapon with multiple hits"
+      "Key": "Range 48. 1x Power 6. Pierces ranks.",
+      "Translation": "Дальность 48. 1x Мощь 6. Пробивает ряды.",
+      "Comment": ""
     },
     {
       "Key": "Range 48. 2D3 hits, Power 5.",
@@ -1067,8 +1077,8 @@
       "Comment": "Extended ranged weapon range"
     },
     {
-      "Key": "Lethal Attacks. (2x wounds)",
-      "Translation": "Смертельные атаки. (2кратные раны)",
+      "Key": "Lethal melee attacks. (2x wounds)",
+      "Translation": "Смертельные атаки в ближнем бою. (2кратные раны)",
       "Comment": "High damage multiplier ability"
     },
     {
@@ -1195,6 +1205,151 @@
       "Key": "Unit is Fearless. Charge Bonus: +1 Attack",
       "Translation": "Отряд Бесстрашный. Бонус натиска: +1 атака",
       "Comment": ""
+    },
+    {
+      "Key": "Target a Reanimated unit that has already acted this turn. It may act again.",
+      "Translation": "Выберите отряд Оживлённых, который уже действовал в этом ходу. Он может действовать снова.",
+      "Comment": ""
+    },
+    {
+      "Key": "Target Construct unit gains +2 Power and +6 Movement for one turn, then suffers -1 Power and -2 Movement for a turn.",
+      "Translation": "Целевой отряд Конструктов получает +2 Мощь и +6 Скорость движения на один ход, затем -1 Мощь и -2 Скорость движения на один ход.",
+      "Comment": ""
+    },
+    {
+      "Key": "Activate once per battle. All your Reanimated units reroll failed Attack Rolls and Ranged Attack Rolls for one turn.",
+      "Translation": "Активировать один раз за сражение. Все ваши отряды Оживлённых перебрасывают провалы бросков Атак и Дальних атак на один ход.",
+      "Comment": ""
+    },
+    {
+      "Key": "Cannot lose his last Wound while his Retinue lives, further wounds hit the Retinue instead. When he dies, all your Reanimated units Crumble once.",
+      "Translation": "Не может потерять последнюю рану, пока жива его Свита: дальнейшие раны получает Свита. Когда он погибает, все ваши отряды Оживлённых один раз проходят Крушение.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 36. Power 5.",
+      "Translation": "Дальность 36. Мощь 5.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 36. 1x Power 6. Pierces ranks.",
+      "Translation": "Дальность 36. 1x Мощь 6. Пробивает ряды.",
+      "Comment": ""
+    },
+    {
+      "Key": "All your units gain +1 Defense this turn. Activate once per battle.",
+      "Translation": "Все ваши отряды получают +1 Защита в этом ходу. Активировать один раз за сражение.",
+      "Comment": ""
+    },
+    {
+      "Key": "+2 Discipline while a Commander is attached to the unit.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Heals 1 wound at end of turn. Each turn a wound comes back, +1 Attack for the rest of the battle.",
+      "Translation": "Отряд восстанавливает 1 рану в конце хода. Каждый ход, когда рана восстанавливается, +1 Атака до конца сражения.",
+      "Comment": ""
+    },
+    {
+      "Key": "Reduce Crumble rolls by 1. +1 Defense.",
+      "Translation": "Уменьшить броски рассыпания на 1. +1 Защита.",
+      "Comment": ""
+    },
+    {
+      "Key": "Reduce Crumble rolls by 1. +1 Defense. +1 Power.",
+      "Translation": "Уменьшить броски рассыпания на 1. +1 Защита. +1 Мощь.",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Move Speed. +1 Attack.",
+      "Translation": "+1 скорость движения. +1 Атака.",
+      "Comment": ""
+    },
+    {
+      "Key": "Activate twice per battle. All your Reanimated units reroll failed Attack Rolls and Ranged Attack Rolls for one turn.",
+      "Translation": "Активировать два раза за сражение. Все ваши отряды Оживлённых перебрасывают провалы бросков Атак и Дальних атак на один ход.",
+      "Comment": ""
+    },
+    {
+      "Key": "Target Construct unit gains +2 Power and +6 Movement for one turn.",
+      "Translation": "Целевой отряд Конструктов получает +2 Мощь и +6 Скорость движения на один ход.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 48. 1x Power 10, auto hits (no attack roll). Pierces ranks.",
+      "Translation": "Дальность 48. 1x Мощь 10, автоматическое попадание (без броска Атаки). Пробивает ряды.",
+      "Comment": ""
+    },
+    {
+      "Key": "-1 to targets Damage Save.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 48. 2 x D3 shots at Power 4.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 12. D3 shots per model at Power 4.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 36. D6 shots at Power 5.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 4+.",
+      "Translation": "Бонус натиска: +1 Мощь \nСпасения от урона против этого оружия никогда не лучше чем 4+.",
+      "Comment": "Damage Saves = Спасения от урона, 4+ refers to dice roll difficulty (4 or higher on d6)"
+    },
+    {
+      "Key": "Unit recovers all missing wounds at end of turn.",
+      "Translation": "Отряд восстанавливает все потерянные раны в конце хода.",
+      "Comment": "Recovers = восстанавливает (heal mechanic)"
+    },
+    {
+      "Key": "Unit can be deployed anywhere on its owners side of the table.",
+      "Translation": "Отряд может быть развернут в любом месте на стороне его хозяина на столе.",
+      "Comment": "Deployment mechanic for special unit abilities"
+    },
+    {
+      "Key": "Re-roll missed Attack Rolls in the first round of combat.",
+      "Translation": "Переброс провалов броскков Атак в первом раунде боя.",
+      "Comment": "First round = первый раунд (initial turn of combat)"
+    },
+    {
+      "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
+      "Translation": "-1 Скорость движения. Никогда не проваливает проверки Дисциплины, теряет D3 раны в проигранном бою.",
+      "Comment": "Lost combat = проигранный бой (when unit loses in close combat)"
+    },
+    {
+      "Key": "Reduce Crumble by 1. Regeneration (restore all lost wounds at end of turn).",
+      "Translation": "Снизьте Крушение на 1. Регенерация (восстановите все потерянные раны в конце хода).",
+      "Comment": "Crumble = Крушение (morale mechanic); Regeneration = Регенерация (automatic heal)"
+    },
+    {
+      "Key": "Regeneration. (restores all wounds at end of turn)",
+      "Translation": "Регенерация. (восстанавливает все раны в конце хода)",
+      "Comment": "Automatic healing ability"
+    },
+    {
+      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration.",
+      "Translation": "Одого раза за сражение, все дружественные отряды с Даром распада перебрасывают провалы спасений от урона.\nРегенерация.",
+      "Comment": "Chaos faction ability with self-healing"
+    },
+    {
+      "Key": "Range 48. 3x Power 6.",
+      "Translation": "Дальность 48. 3x Мощь 6.",
+      "Comment": "Long-range weapon with multiple hits"
+    },
+    {
+      "Key": "Lethal Attacks. (2x wounds)",
+      "Translation": "Смертельные атаки. (2кратные раны)",
+      "Comment": "High damage multiplier ability"
     }
   ]
 }

@@ -542,8 +542,8 @@
       "Comment": ""
     },
     {
-      "Key": "Unit gains Regeneration. (restores lost wounds at end of turn)",
-      "Translation": "Enheten får Regeneration. (återställer förlorade HP vid slutet av omgången)",
+      "Key": "Unit gains Regeneration. (restores 1 wound at end of turn)",
+      "Translation": "Enheten får Regeneration. (återställer 1 sår vid slutet av omgången)",
       "Comment": ""
     },
     {
@@ -692,8 +692,8 @@
       "Comment": ""
     },
     {
-      "Key": "Gain Regeneration",
-      "Translation": "Får Regeneration",
+      "Key": "Gain Regeneration (restores 1 wound at end of turn)",
+      "Translation": "Får Regeneration (återställer 1 sår i slutet av omgången)",
       "Comment": ""
     },
     {
@@ -877,8 +877,8 @@
       "Comment": ""
     },
     {
-      "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
-      "Translation": "Enheten får Dödliga attacker. (orsakar 2x HP)",
+      "Key": "Unit gains Lethal melee attacks. (deals 2x wounds)",
+      "Translation": "Enheten får Dödliga närstridsattacker. (orsakar 2x HP)",
       "Comment": ""
     },
     {
@@ -899,6 +899,121 @@
     {
       "Key": "Unit has +5 range for Ranged Attacks.",
       "Translation": "Enheten har +5 räckvidd för Avståndsattacker.",
+      "Comment": ""
+    },
+    {
+      "Key": "Max Unit size +3",
+      "Translation": "Max enhetsstorlek +3",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Muster I",
+      "Translation": "Evig uppbådning I",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Muster II",
+      "Translation": "Evig uppbådning II",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Muster III",
+      "Translation": "Evig uppbådning III",
+      "Comment": ""
+    },
+    {
+      "Key": "Graven Glyphs I",
+      "Translation": "Inristade glyfer I",
+      "Comment": ""
+    },
+    {
+      "Key": "Graven Glyphs II",
+      "Translation": "Inristade glyfer II",
+      "Comment": ""
+    },
+    {
+      "Key": "Graven Glyphs III",
+      "Translation": "Inristade glyfer III",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Reign",
+      "Translation": "Evigt Styre",
+      "Comment": ""
+    },
+    {
+      "Key": "Sun-Chariot Drill I",
+      "Translation": "Solvagnsdrill I",
+      "Comment": ""
+    },
+    {
+      "Key": "Sun-Chariot Drill II",
+      "Translation": "Solvagnsdrill II",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Rite of Stone",
+      "Translation": "Stenens större rit",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Recurrence",
+      "Translation": "Större återkomst",
+      "Comment": ""
+    },
+    {
+      "Key": "Unbroken Line can be used twice per battle.",
+      "Translation": "Obruten linje kan användas två gånger per strid.",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of Stone no longer drains the Construct afterwards.",
+      "Translation": "Stenens rit försvagar inte längre Konstruktet efteråt.",
+      "Comment": ""
+    },
+    {
+      "Key": "Gives 1 extra charge to Rite of Recurrence.",
+      "Translation": "Ger 1 extra laddning till Återkomstens rit.",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Defense",
+      "Translation": "+1 Försvar",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Power",
+      "Translation": "+1 Styrka",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Max Unit Size. +50% Replenish.",
+      "Translation": "+1 Max enhetsstorlek. +50% Återfyllning.",
+      "Comment": ""
+    },
+    {
+      "Key": "+3 Max Unit Size. +50% Replenish.",
+      "Translation": "+3 Max enhetsstorlek. +50% Återfyllning.",
+      "Comment": ""
+    },
+    {
+      "Key": "+5 Max Unit Size. +50% Replenish.",
+      "Translation": "+5 Max enhetsstorlek. +50% Återfyllning.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit gains Regeneration. (restores lost wounds at end of turn)",
+      "Translation": "Enheten får Regeneration. (återställer förlorade HP vid slutet av omgången)",
+      "Comment": ""
+    },
+    {
+      "Key": "Gain Regeneration",
+      "Translation": "Får Regeneration",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
+      "Translation": "Enheten får Dödliga attacker. (orsakar 2x HP)",
       "Comment": ""
     }
   ]

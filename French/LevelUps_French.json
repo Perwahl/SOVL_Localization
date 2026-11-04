@@ -542,8 +542,8 @@
       "Comment": ""
     },
     {
-      "Key": "Unit gains Regeneration. (restores lost wounds at end of turn)",
-      "Translation": "L'unité gagne la Régénération. (restaure les blessures perdues à la fin du tour)",
+      "Key": "Unit gains Regeneration. (restores 1 wound at end of turn)",
+      "Translation": "L'unité gagne la Régénération. (restaure 1 blessure à la fin du tour)",
       "Comment": ""
     },
     {
@@ -692,8 +692,8 @@
       "Comment": ""
     },
     {
-      "Key": "Gain Regeneration",
-      "Translation": "Gagne la Régénération",
+      "Key": "Gain Regeneration (restores 1 wound at end of turn)",
+      "Translation": "Gagne la Régénération (restaure 1 blessure à la fin du tour)",
       "Comment": ""
     },
     {
@@ -877,8 +877,8 @@
       "Comment": ""
     },
     {
-      "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
-      "Translation": "L'unité gagne des attaques Létales. (inflige 2x blessures)",
+      "Key": "Unit gains Lethal melee attacks. (deals 2x wounds)",
+      "Translation": "L'unité gagne des attaques de mêlée Létales. (inflige 2x blessures)",
       "Comment": ""
     },
     {
@@ -899,6 +899,121 @@
     {
       "Key": "Unit has +5 range for Ranged Attacks.",
       "Translation": "L'unité a +5 de portée pour les Attaques à Distance.",
+      "Comment": ""
+    },
+    {
+      "Key": "Max Unit size +3",
+      "Translation": "Taille d'unité max +3",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Muster I",
+      "Translation": "Levée Éternelle I",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Muster II",
+      "Translation": "Levée Éternelle II",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Muster III",
+      "Translation": "Levée Éternelle III",
+      "Comment": ""
+    },
+    {
+      "Key": "Graven Glyphs I",
+      "Translation": "Glyphes Gravés I",
+      "Comment": ""
+    },
+    {
+      "Key": "Graven Glyphs II",
+      "Translation": "Glyphes Gravés II",
+      "Comment": ""
+    },
+    {
+      "Key": "Graven Glyphs III",
+      "Translation": "Glyphes Gravés III",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Reign",
+      "Translation": "Règne Éternel",
+      "Comment": ""
+    },
+    {
+      "Key": "Sun-Chariot Drill I",
+      "Translation": "Exercice des Chars Solaires I",
+      "Comment": ""
+    },
+    {
+      "Key": "Sun-Chariot Drill II",
+      "Translation": "Exercice des Chars Solaires II",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Rite of Stone",
+      "Translation": "Grand Rite de Pierre",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Recurrence",
+      "Translation": "Grande Récurrence",
+      "Comment": ""
+    },
+    {
+      "Key": "Unbroken Line can be used twice per battle.",
+      "Translation": "Ligne Inébranlable peut être utilisée deux fois par bataille.",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of Stone no longer drains the Construct afterwards.",
+      "Translation": "Rite de Pierre n'affaiblit plus le Construct ensuite.",
+      "Comment": ""
+    },
+    {
+      "Key": "Gives 1 extra charge to Rite of Recurrence.",
+      "Translation": "Donne 1 charge supplémentaire à Rite de Récurrence.",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Defense",
+      "Translation": "+1 Défence",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Power",
+      "Translation": "+1 Puissance",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Max Unit Size. +50% Replenish.",
+      "Translation": "+1 Taille d'unité max. +50% Réapprovisionnement.",
+      "Comment": ""
+    },
+    {
+      "Key": "+3 Max Unit Size. +50% Replenish.",
+      "Translation": "+3 Taille d'unité max. +50% Réapprovisionnement.",
+      "Comment": ""
+    },
+    {
+      "Key": "+5 Max Unit Size. +50% Replenish.",
+      "Translation": "+5 Taille d'unité max. +50% Réapprovisionnement.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit gains Regeneration. (restores lost wounds at end of turn)",
+      "Translation": "L'unité gagne la Régénération. (restaure les blessures perdues à la fin du tour)",
+      "Comment": ""
+    },
+    {
+      "Key": "Gain Regeneration",
+      "Translation": "Gagne la Régénération",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
+      "Translation": "L'unité gagne des attaques Létales. (inflige 2x blessures)",
       "Comment": ""
     }
   ]
