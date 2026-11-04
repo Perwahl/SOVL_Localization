@@ -70,6 +70,11 @@
       "Key": "Ratkin Infiltrator",
       "Translation": "Infiltrador Maestro Ratiode",
       "Comment": "Master spy and assassin. Sneaks behind enemy lines. 'Maestro' emphasizes skill and mastery in covert operations."
+    },
+    {
+      "Key": "Giant Rats",
+      "Translation": "",
+      "Comment": ""
     }
   ]
 }

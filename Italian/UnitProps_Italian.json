@@ -502,6 +502,11 @@
       "Comment": "Natural armor; reptilian/draconic trait"
     },
     {
+      "Key": "Stone Skin",
+      "Translation": "Pelle di Pietra",
+      "Comment": ""
+    },
+    {
       "Key": "Demonic",
       "Translation": "Demoniaco",
       "Comment": "Infernal nature; evil supernatural classification"
@@ -1230,6 +1235,106 @@
       "Key": "VolatileAmmo",
       "Translation": "Munizioni Instabili",
       "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Construct",
+      "Translation": "Costrutto",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of Recurrence",
+      "Translation": "Rito della Ricorrenza",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of Stone",
+      "Translation": "Rito della Pietra",
+      "Comment": ""
+    },
+    {
+      "Key": "Unbroken Line",
+      "Translation": "Linea Incrollabile",
+      "Comment": ""
+    },
+    {
+      "Key": "Stand Eternal",
+      "Translation": "Eternamente Saldo",
+      "Comment": ""
+    },
+    {
+      "Key": "Giant Bow",
+      "Translation": "Arco Gigante",
+      "Comment": ""
+    },
+    {
+      "Key": "Great Bow",
+      "Translation": "Grande Arco",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of the Seal",
+      "Translation": "Rito del Sigillo",
+      "Comment": ""
+    },
+    {
+      "Key": "Sunbeam",
+      "Translation": "Raggio di Sole",
+      "Comment": ""
+    },
+    {
+      "Key": "Thrall",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Regeneration",
+      "Translation": "Rigenerazione Superiore",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Muster",
+      "Translation": "Leva Eterna",
+      "Comment": ""
+    },
+    {
+      "Key": "Graven Glyphs",
+      "Translation": "Glifi Incisi",
+      "Comment": ""
+    },
+    {
+      "Key": "Sun-Chariot Drill",
+      "Translation": "Addestramento dei Carri Solari",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Rite of Stone",
+      "Translation": "Grande Rito della Pietra",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Recurrence",
+      "Translation": "Grande Ricorrenza",
+      "Comment": ""
+    },
+    {
+      "Key": "Daemonforged",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Quake Shell",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Blunderbuss",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rocket Salvo",
+      "Translation": "",
+      "Comment": ""
     }
   ]
 }

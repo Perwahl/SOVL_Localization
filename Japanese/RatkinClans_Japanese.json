@@ -70,6 +70,11 @@
       "Key": "Ratkin Infiltrator",
       "Translation": "鼠人潜入者",
       "Comment": "潜入者 = infiltrator. Master spy and assassin."
+    },
+    {
+      "Key": "Giant Rats",
+      "Translation": "",
+      "Comment": ""
     }
   ]
 }

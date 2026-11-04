@@ -542,8 +542,8 @@
       "Comment": "Beast aspect, サラマンダー (salamander) - grants regeneration"
     },
     {
-      "Key": "Unit gains Regeneration. (restores lost wounds at end of turn)",
-      "Translation": "ユニットは再生を得る。（各ターン終了時に失われたダメージを復活させる）",
+      "Key": "Unit gains Regeneration. (restores 1 wound at end of turn)",
+      "Translation": "ユニットは再生を得る。（各ターン終了時に傷を1回復する）",
       "Comment": "Salamander regeneration ability, self-healing mechanic"
     },
     {
@@ -692,8 +692,8 @@
       "Comment": "Ultimate Decay god servant rank, 達人 (master/expert)"
     },
     {
-      "Key": "Gain Regeneration",
-      "Translation": "再生を得る。",
+      "Key": "Gain Regeneration (restores 1 wound at end of turn)",
+      "Translation": "再生を得る。（ターン終了時に傷を1回復）",
       "Comment": "Master Decay ability, self-healing"
     },
     {
@@ -877,8 +877,8 @@
       "Comment": "Bow range bonus, mechanical stat increase"
     },
     {
-      "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
-      "Translation": "ユニットは致命的攻撃を得る。（2倍のダメージを与える）",
+      "Key": "Unit gains Lethal melee attacks. (deals 2x wounds)",
+      "Translation": "ユニットは致命的な近接攻撃を得る。（2倍のダメージを与える）",
       "Comment": "Raptor lethal strike mechanic, massive damage potential"
     },
     {
@@ -900,6 +900,121 @@
       "Key": "Unit has +5 range for Ranged Attacks.",
       "Translation": "ユニットは遠距離攻撃に射程 +5を有する。",
       "Comment": "Avalon marksmen range bonus"
+    },
+    {
+      "Key": "Max Unit size +3",
+      "Translation": "最大ユニットサイズ +3",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Muster I",
+      "Translation": "永遠の召集I",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Muster II",
+      "Translation": "永遠の召集II",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Muster III",
+      "Translation": "永遠の召集III",
+      "Comment": ""
+    },
+    {
+      "Key": "Graven Glyphs I",
+      "Translation": "刻まれた碑文I",
+      "Comment": ""
+    },
+    {
+      "Key": "Graven Glyphs II",
+      "Translation": "刻まれた碑文II",
+      "Comment": ""
+    },
+    {
+      "Key": "Graven Glyphs III",
+      "Translation": "刻まれた碑文III",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Reign",
+      "Translation": "永遠の統治",
+      "Comment": ""
+    },
+    {
+      "Key": "Sun-Chariot Drill I",
+      "Translation": "太陽戦車の教練I",
+      "Comment": ""
+    },
+    {
+      "Key": "Sun-Chariot Drill II",
+      "Translation": "太陽戦車の教練II",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Rite of Stone",
+      "Translation": "大いなる石の儀",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Recurrence",
+      "Translation": "大いなる回帰",
+      "Comment": ""
+    },
+    {
+      "Key": "Unbroken Line can be used twice per battle.",
+      "Translation": "不屈の戦列を戦闘ごとに二回使用できる。",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of Stone no longer drains the Construct afterwards.",
+      "Translation": "石の儀の後、構築体が弱体化しなくなる。",
+      "Comment": ""
+    },
+    {
+      "Key": "Gives 1 extra charge to Rite of Recurrence.",
+      "Translation": "回帰の儀の使用回数を1回追加する。",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Defense",
+      "Translation": "防御+1",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Power",
+      "Translation": "力+1",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Max Unit Size. +50% Replenish.",
+      "Translation": "最大ユニットサイズ+1。補充+50%。",
+      "Comment": ""
+    },
+    {
+      "Key": "+3 Max Unit Size. +50% Replenish.",
+      "Translation": "最大ユニットサイズ+3。補充+50%。",
+      "Comment": ""
+    },
+    {
+      "Key": "+5 Max Unit Size. +50% Replenish.",
+      "Translation": "最大ユニットサイズ+5。補充+50%。",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit gains Regeneration. (restores lost wounds at end of turn)",
+      "Translation": "ユニットは再生を得る。（各ターン終了時に失われたダメージを復活させる）",
+      "Comment": "Salamander regeneration ability, self-healing mechanic"
+    },
+    {
+      "Key": "Gain Regeneration",
+      "Translation": "再生を得る。",
+      "Comment": "Master Decay ability, self-healing"
+    },
+    {
+      "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
+      "Translation": "ユニットは致命的攻撃を得る。（2倍のダメージを与える）",
+      "Comment": "Raptor lethal strike mechanic, massive damage potential"
     }
   ]
 }

@@ -502,6 +502,11 @@
       "Comment": ""
     },
     {
+      "Key": "Stone Skin",
+      "Translation": "Piel de Piedra",
+      "Comment": ""
+    },
+    {
       "Key": "Demonic",
       "Translation": "Demoníaco",
       "Comment": ""
@@ -1230,6 +1235,106 @@
       "Key": "VolatileAmmo",
       "Translation": "Munición Inestable",
       "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Construct",
+      "Translation": "Constructo",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of Recurrence",
+      "Translation": "Rito de Recurrencia",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of Stone",
+      "Translation": "Rito de Piedra",
+      "Comment": ""
+    },
+    {
+      "Key": "Unbroken Line",
+      "Translation": "Línea Inquebrantable",
+      "Comment": ""
+    },
+    {
+      "Key": "Stand Eternal",
+      "Translation": "Eternamente Firme",
+      "Comment": ""
+    },
+    {
+      "Key": "Giant Bow",
+      "Translation": "Arco Gigante",
+      "Comment": ""
+    },
+    {
+      "Key": "Great Bow",
+      "Translation": "Gran Arco",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of the Seal",
+      "Translation": "Rito del Sello",
+      "Comment": ""
+    },
+    {
+      "Key": "Sunbeam",
+      "Translation": "Rayo de Sol",
+      "Comment": ""
+    },
+    {
+      "Key": "Thrall",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Regeneration",
+      "Translation": "Regeneración Mayor",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Muster",
+      "Translation": "Leva Eterna",
+      "Comment": ""
+    },
+    {
+      "Key": "Graven Glyphs",
+      "Translation": "Glifos Grabados",
+      "Comment": ""
+    },
+    {
+      "Key": "Sun-Chariot Drill",
+      "Translation": "Instrucción de Carros Solares",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Rite of Stone",
+      "Translation": "Gran Rito de Piedra",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Recurrence",
+      "Translation": "Gran Recurrencia",
+      "Comment": ""
+    },
+    {
+      "Key": "Daemonforged",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Quake Shell",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Blunderbuss",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rocket Salvo",
+      "Translation": "",
+      "Comment": ""
     }
   ]
 }

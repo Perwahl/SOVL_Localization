@@ -47,13 +47,18 @@
       "Comment": "This is cleaner and easier to read in Swedish."
     },
     {
+      "Key": "-4 Movement. +1 Damage Save.",
+      "Translation": "-4 rörelsehastighet. +1 skyddskast.",
+      "Comment": ""
+    },
+    {
       "Key": "If a Commander is part of this unit it re-rolls failed Discipline tests.",
       "Translation": "Om en befälhavare ingår i denna enhet slår den om misslyckade disciplinprov.",
       "Comment": "Adjusted to a more natural Swedish rules phrasing."
     },
     {
-      "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 4+.",
-      "Translation": "Anfallsbonus: +1 styrka\nSkyddskast mot detta vapen blir aldrig bättre än 4+.",
+      "Key": "Charge Bonus: +1 Power.\nDamage Saves against this weapon are never better than 4+.",
+      "Translation": "Anfallsbonus: +1 styrka.\nSkyddskast mot detta vapen blir aldrig bättre än 4+.",
       "Comment": "This reads more naturally in Swedish rules text."
     },
     {
@@ -147,8 +152,8 @@
       "Comment": ""
     },
     {
-      "Key": "Unit recovers all missing wounds at end of turn.",
-      "Translation": "Enheten återfår alla förlorade sår i slutet av omgången.",
+      "Key": "Heals 1 wound at end of turn.",
+      "Translation": "Enheten återfår 1 sår i slutet av omgången.",
       "Comment": ""
     },
     {
@@ -182,13 +187,13 @@
       "Comment": ""
     },
     {
-      "Key": "Unit can be deployed anywhere on its owners side of the table.",
-      "Translation": "Enheten kan placeras var som helst på sin ägares sida av bordet.",
+      "Key": "Deploys anywhere on your half of the battlefield, up to 2\" from the centre line.",
+      "Translation": "Placeras var som helst på din halva av slagfältet, upp till 2\" från mittlinjen.",
       "Comment": "The phrasing is now smoother and more natural."
     },
     {
-      "Key": "Re-roll missed Attack Rolls in the first round of combat.",
-      "Translation": "Slå om missade Attackslag i första stridsomgången.",
+      "Key": "Re-roll missed Attack Rolls in the first round of combat. Can't flee from charges.",
+      "Translation": "Slå om missade Attackslag i första stridsomgången. Kan inte retirera undan anfall.",
       "Comment": ""
     },
     {
@@ -222,8 +227,8 @@
       "Comment": ""
     },
     {
-      "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "-1 Rörelsehastighet. Misslyckas aldrig med Disciplintest, förlorar D3 sår vid förlorad strid.",
+      "Key": "-1 Movement. Never flees: loses D3 wounds instead of taking a break test. Can't flee from charges.",
+      "Translation": "-1 Rörelsehastighet. Flyr aldrig: förlorar D3 sår i stället för att slå moralkontroll. Kan inte retirera undan anfall.",
       "Comment": ""
     },
     {
@@ -237,8 +242,8 @@
       "Comment": ""
     },
     {
-      "Key": "Reduce Crumble by 1. Regeneration (restore all lost wounds at end of turn).",
-      "Translation": "Minska Smula med 1. Regenerering (återställer alla förlorade sår i slutet av omgången).",
+      "Key": "Reduce Crumble by 1. Regeneration (restores 1 wound at end of turn).",
+      "Translation": "Minska Smula med 1. Regenerering (återställer 1 sår i slutet av omgången).",
       "Comment": ""
     },
     {
@@ -274,6 +279,11 @@
     {
       "Key": "Never fails Discipline tests, loses D3 wounds on lost combat.",
       "Translation": "Misslyckas aldrig med disciplinprov, förlorar D3 sår i en förlorad strid.",
+      "Comment": "This is more natural and easier to read."
+    },
+    {
+      "Key": "Never flees: loses D3 wounds instead of taking a break test. Can't flee from charges.",
+      "Translation": "Flyr aldrig: förlorar D3 sår i stället för att slå moralkontroll. Kan inte retirera undan anfall.",
       "Comment": "This is more natural and easier to read."
     },
     {
@@ -652,8 +662,8 @@
       "Comment": ""
     },
     {
-      "Key": "Regeneration. (restores all wounds at end of turn)",
-      "Translation": "Regenerering. (Återställer alla sår i slutet av omgången)",
+      "Key": "Regeneration. (restores 1 wound at end of turn)",
+      "Translation": "Regenerering. (Återställer 1 sår i slutet av omgången)",
       "Comment": ""
     },
     {
@@ -707,8 +717,8 @@
       "Comment": ""
     },
     {
-      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration.",
-      "Translation": "En gång per strid slår alla vänliga enheter med Färfallets gåva om misslyckade Skyddskast.\nRegenerering.",
+      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration (restores 1 wound at end of turn).",
+      "Translation": "En gång per strid slår alla vänliga enheter med Färfallets gåva om misslyckade Skyddskast.\nRegenerering (återställer 1 sår i slutet av omgången).",
       "Comment": ""
     },
     {
@@ -867,8 +877,8 @@
       "Comment": ""
     },
     {
-      "Key": "Range 48. 3x Power 6.",
-      "Translation": "Räckvidd 48. 3x Styrka 6.",
+      "Key": "Range 48. 1x Power 6. Pierces ranks.",
+      "Translation": "Räckvidd 48. 1x Styrka 6. Genomborrar led.",
       "Comment": ""
     },
     {
@@ -1067,8 +1077,8 @@
       "Comment": ""
     },
     {
-      "Key": "Lethal Attacks. (2x wounds)",
-      "Translation": "Dödliga attacker. (Orsakar 2x sår)",
+      "Key": "Lethal melee attacks. (2x wounds)",
+      "Translation": "Dödliga närstridsattacker. (Orsakar 2x sår)",
       "Comment": ""
     },
     {
@@ -1194,6 +1204,151 @@
     {
       "Key": "Unit is Fearless. Charge Bonus: +1 Attack",
       "Translation": "Enheten är Orädd. Anfallsbonus: +1 Attack",
+      "Comment": ""
+    },
+    {
+      "Key": "Target a Reanimated unit that has already acted this turn. It may act again.",
+      "Translation": "Välj en återuppväckt enhet som redan har agerat denna omgång. Den får agera igen.",
+      "Comment": ""
+    },
+    {
+      "Key": "Target Construct unit gains +2 Power and +6 Movement for one turn, then suffers -1 Power and -2 Movement for a turn.",
+      "Translation": "Målenheten av typen Konstrukt får +2 Styrka och +6 Rörelsehastighet under en omgång och därefter -1 Styrka och -2 Rörelsehastighet under en omgång.",
+      "Comment": ""
+    },
+    {
+      "Key": "Activate once per battle. All your Reanimated units reroll failed Attack Rolls and Ranged Attack Rolls for one turn.",
+      "Translation": "Aktivera en gång per strid. Alla dina återuppväckta enheter slår om misslyckade Attackslag och Avståndsattackslag under en omgång.",
+      "Comment": ""
+    },
+    {
+      "Key": "Cannot lose his last Wound while his Retinue lives, further wounds hit the Retinue instead. When he dies, all your Reanimated units Crumble once.",
+      "Translation": "Kan inte förlora sitt sista sår medan Följet lever, ytterligare sår träffar Följet i stället. När han dör drabbas alla dina återuppväckta enheter av Smula en gång.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 36. Power 5.",
+      "Translation": "Räckvidd 36. Styrka 5.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 36. 1x Power 6. Pierces ranks.",
+      "Translation": "Räckvidd 36. 1x Styrka 6. Genomborrar led.",
+      "Comment": ""
+    },
+    {
+      "Key": "All your units gain +1 Defense this turn. Activate once per battle.",
+      "Translation": "Alla dina enheter får +1 Försvar denna omgång. Aktivera en gång per strid.",
+      "Comment": ""
+    },
+    {
+      "Key": "+2 Discipline while a Commander is attached to the unit.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Heals 1 wound at end of turn. Each turn a wound comes back, +1 Attack for the rest of the battle.",
+      "Translation": "Enheten återfår 1 sår i slutet av omgången. Varje omgång ett sår kommer tillbaka får den +1 anfall resten av striden.",
+      "Comment": ""
+    },
+    {
+      "Key": "Reduce Crumble rolls by 1. +1 Defense.",
+      "Translation": "Minska Smulaslag med 1. +1 Försvar.",
+      "Comment": ""
+    },
+    {
+      "Key": "Reduce Crumble rolls by 1. +1 Defense. +1 Power.",
+      "Translation": "Minska Smulaslag med 1. +1 Försvar. +1 Styrka.",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Move Speed. +1 Attack.",
+      "Translation": "+1 Rörelsehastighet. +1 Attacker.",
+      "Comment": ""
+    },
+    {
+      "Key": "Activate twice per battle. All your Reanimated units reroll failed Attack Rolls and Ranged Attack Rolls for one turn.",
+      "Translation": "Aktivera två gånger per strid. Alla dina återuppväckta enheter slår om misslyckade Attackslag och Avståndsattackslag under en omgång.",
+      "Comment": ""
+    },
+    {
+      "Key": "Target Construct unit gains +2 Power and +6 Movement for one turn.",
+      "Translation": "Målenheten av typen Konstrukt får +2 Styrka och +6 Rörelsehastighet under en omgång.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 48. 1x Power 10, auto hits (no attack roll). Pierces ranks.",
+      "Translation": "Räckvidd 48. 1x Styrka 10, träffar automatiskt (inget Attackslag). Genomborrar led.",
+      "Comment": ""
+    },
+    {
+      "Key": "-1 to targets Damage Save.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 48. 2 x D3 shots at Power 4.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 12. D3 shots per model at Power 4.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 36. D6 shots at Power 5.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 4+.",
+      "Translation": "Anfallsbonus: +1 styrka\nSkyddskast mot detta vapen blir aldrig bättre än 4+.",
+      "Comment": "This reads more naturally in Swedish rules text."
+    },
+    {
+      "Key": "Unit recovers all missing wounds at end of turn.",
+      "Translation": "Enheten återfår alla förlorade sår i slutet av omgången.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit can be deployed anywhere on its owners side of the table.",
+      "Translation": "Enheten kan placeras var som helst på sin ägares sida av bordet.",
+      "Comment": "The phrasing is now smoother and more natural."
+    },
+    {
+      "Key": "Re-roll missed Attack Rolls in the first round of combat.",
+      "Translation": "Slå om missade Attackslag i första stridsomgången.",
+      "Comment": ""
+    },
+    {
+      "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
+      "Translation": "-1 Rörelsehastighet. Misslyckas aldrig med Disciplintest, förlorar D3 sår vid förlorad strid.",
+      "Comment": ""
+    },
+    {
+      "Key": "Reduce Crumble by 1. Regeneration (restore all lost wounds at end of turn).",
+      "Translation": "Minska Smula med 1. Regenerering (återställer alla förlorade sår i slutet av omgången).",
+      "Comment": ""
+    },
+    {
+      "Key": "Regeneration. (restores all wounds at end of turn)",
+      "Translation": "Regenerering. (Återställer alla sår i slutet av omgången)",
+      "Comment": ""
+    },
+    {
+      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration.",
+      "Translation": "En gång per strid slår alla vänliga enheter med Färfallets gåva om misslyckade Skyddskast.\nRegenerering.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 48. 3x Power 6.",
+      "Translation": "Räckvidd 48. 3x Styrka 6.",
+      "Comment": ""
+    },
+    {
+      "Key": "Lethal Attacks. (2x wounds)",
+      "Translation": "Dödliga attacker. (Orsakar 2x sår)",
       "Comment": ""
     }
   ]

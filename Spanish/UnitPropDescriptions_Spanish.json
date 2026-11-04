@@ -47,13 +47,18 @@
       "Comment": ""
     },
     {
+      "Key": "-4 Movement. +1 Damage Save.",
+      "Translation": "-4 Velocidad de Movimiento. +1 de Salvación de Daño.",
+      "Comment": ""
+    },
+    {
       "Key": "If a Commander is part of this unit it re-rolls failed Discipline tests.",
       "Translation": "Si un Comandante es parte de esta unidad, relanza Pruebas de Disciplina fallidas.",
       "Comment": ""
     },
     {
-      "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 4+.",
-      "Translation": "Bonificación de Carga: +1 Poder\nSalvadas contra Daño contra esta arma nunca son mejores que 4+.",
+      "Key": "Charge Bonus: +1 Power.\nDamage Saves against this weapon are never better than 4+.",
+      "Translation": "Bonificación de Carga: +1 Poder.\nSalvadas contra Daño contra esta arma nunca son mejores que 4+.",
       "Comment": ""
     },
     {
@@ -147,8 +152,8 @@
       "Comment": ""
     },
     {
-      "Key": "Unit recovers all missing wounds at end of turn.",
-      "Translation": "La unidad recupera todas las Heridas perdidas al final del turno.",
+      "Key": "Heals 1 wound at end of turn.",
+      "Translation": "La unidad recupera 1 Herida al final del turno.",
       "Comment": ""
     },
     {
@@ -182,13 +187,13 @@
       "Comment": ""
     },
     {
-      "Key": "Unit can be deployed anywhere on its owners side of the table.",
-      "Translation": "La unidad puede ser desplegada en cualquier lugar del lado del propietario de la mesa.",
+      "Key": "Deploys anywhere on your half of the battlefield, up to 2\" from the centre line.",
+      "Translation": "Se despliega en cualquier lugar de tu mitad del campo de batalla, hasta a 2\" de la línea central.",
       "Comment": ""
     },
     {
-      "Key": "Re-roll missed Attack Rolls in the first round of combat.",
-      "Translation": "Relanza tiradas de Ataque fallidas en la primera ronda de combate.",
+      "Key": "Re-roll missed Attack Rolls in the first round of combat. Can't flee from charges.",
+      "Translation": "Relanza tiradas de Ataque fallidas en la primera ronda de combate. No puede huir de las cargas.",
       "Comment": ""
     },
     {
@@ -222,8 +227,8 @@
       "Comment": ""
     },
     {
-      "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "-1 Velocidad de Movimiento. Nunca falla Pruebas de Disciplina, pierde D3 Heridas en combate perdido.",
+      "Key": "-1 Movement. Never flees: loses D3 wounds instead of taking a break test. Can't flee from charges.",
+      "Translation": "-1 Velocidad de Movimiento. Nunca huye: pierde D3 Heridas en lugar de hacer una Prueba de Resistencia. No puede huir de las cargas.",
       "Comment": ""
     },
     {
@@ -237,8 +242,8 @@
       "Comment": ""
     },
     {
-      "Key": "Reduce Crumble by 1. Regeneration (restore all lost wounds at end of turn).",
-      "Translation": "Reduce Desmoronamiento en 1. Regeneración (restaura todas las Heridas perdidas al final del turno).",
+      "Key": "Reduce Crumble by 1. Regeneration (restores 1 wound at end of turn).",
+      "Translation": "Reduce Desmoronamiento en 1. Regeneración (restaura 1 Herida al final del turno).",
       "Comment": ""
     },
     {
@@ -274,6 +279,11 @@
     {
       "Key": "Never fails Discipline tests, loses D3 wounds on lost combat.",
       "Translation": "Nunca falla Pruebas de Disciplina, pierde D3 Heridas en combate perdido.",
+      "Comment": ""
+    },
+    {
+      "Key": "Never flees: loses D3 wounds instead of taking a break test. Can't flee from charges.",
+      "Translation": "Nunca huye: pierde D3 Heridas en lugar de hacer una Prueba de Resistencia. No puede huir de las cargas.",
       "Comment": ""
     },
     {
@@ -652,8 +662,8 @@
       "Comment": ""
     },
     {
-      "Key": "Regeneration. (restores all wounds at end of turn)",
-      "Translation": "Regeneración. (restaura todas las Heridas al final del turno)",
+      "Key": "Regeneration. (restores 1 wound at end of turn)",
+      "Translation": "Regeneración. (restaura 1 Herida al final del turno)",
       "Comment": ""
     },
     {
@@ -707,8 +717,8 @@
       "Comment": ""
     },
     {
-      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration.",
-      "Translation": "Una vez por batalla, todas las unidades amigas con Regalo de Decadencia relanza Salvadas contra Daño fallidas.\nRegeneración.",
+      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration (restores 1 wound at end of turn).",
+      "Translation": "Una vez por batalla, todas las unidades amigas con Regalo de Decadencia relanza Salvadas contra Daño fallidas.\nRegeneración (restaura 1 Herida al final del turno).",
       "Comment": ""
     },
     {
@@ -867,8 +877,8 @@
       "Comment": "Monster charge"
     },
     {
-      "Key": "Range 48. 3x Power 6.",
-      "Translation": "Alcance 48. 3x Poder 6.",
+      "Key": "Range 48. 1x Power 6. Pierces ranks.",
+      "Translation": "Alcance 48. 1x Poder 6. Perfora rangos.",
       "Comment": ""
     },
     {
@@ -1067,8 +1077,8 @@
       "Comment": ""
     },
     {
-      "Key": "Lethal Attacks. (2x wounds)",
-      "Translation": "Ataques Letales. (2x Heridas)",
+      "Key": "Lethal melee attacks. (2x wounds)",
+      "Translation": "Ataques cuerpo a cuerpo Letales. (2x Heridas)",
       "Comment": ""
     },
     {
@@ -1194,6 +1204,151 @@
     {
       "Key": "Unit is Fearless. Charge Bonus: +1 Attack",
       "Translation": "La unidad es Intrépida. Bonificación de Carga: +1 Ataque",
+      "Comment": ""
+    },
+    {
+      "Key": "Target a Reanimated unit that has already acted this turn. It may act again.",
+      "Translation": "Elige una unidad Reanimada que ya haya actuado este turno. Puede actuar de nuevo.",
+      "Comment": ""
+    },
+    {
+      "Key": "Target Construct unit gains +2 Power and +6 Movement for one turn, then suffers -1 Power and -2 Movement for a turn.",
+      "Translation": "La unidad Constructo objetivo obtiene +2 Poder y +6 Velocidad de Movimiento durante un turno, y después sufre -1 Poder y -2 Velocidad de Movimiento durante un turno.",
+      "Comment": ""
+    },
+    {
+      "Key": "Activate once per battle. All your Reanimated units reroll failed Attack Rolls and Ranged Attack Rolls for one turn.",
+      "Translation": "Se activa una vez por batalla. Todas tus unidades Reanimadas relanzan tiradas de Ataque y de Ataque a Distancia fallidas durante un turno.",
+      "Comment": ""
+    },
+    {
+      "Key": "Cannot lose his last Wound while his Retinue lives, further wounds hit the Retinue instead. When he dies, all your Reanimated units Crumble once.",
+      "Translation": "No puede perder su última Herida mientras viva su Séquito; las Heridas adicionales afectan al Séquito en su lugar. Cuando muere, todas tus unidades Reanimadas sufren Desmoronamiento una vez.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 36. Power 5.",
+      "Translation": "Alcance 36. Poder 5.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 36. 1x Power 6. Pierces ranks.",
+      "Translation": "Alcance 36. 1x Poder 6. Perfora rangos.",
+      "Comment": ""
+    },
+    {
+      "Key": "All your units gain +1 Defense this turn. Activate once per battle.",
+      "Translation": "Todas tus unidades obtienen +1 Defensa este turno. Se activa una vez por batalla.",
+      "Comment": ""
+    },
+    {
+      "Key": "+2 Discipline while a Commander is attached to the unit.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Heals 1 wound at end of turn. Each turn a wound comes back, +1 Attack for the rest of the battle.",
+      "Translation": "La unidad recupera 1 Herida al final del turno. Cada turno en que recupera una Herida, +1 Ataque durante el resto de la batalla.",
+      "Comment": ""
+    },
+    {
+      "Key": "Reduce Crumble rolls by 1. +1 Defense.",
+      "Translation": "Reduce tiradas de Desmoronamiento en 1. +1 Defensa.",
+      "Comment": ""
+    },
+    {
+      "Key": "Reduce Crumble rolls by 1. +1 Defense. +1 Power.",
+      "Translation": "Reduce tiradas de Desmoronamiento en 1. +1 Defensa. +1 Poder.",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Move Speed. +1 Attack.",
+      "Translation": "+1 de Velocidad de Movimiento. +1 de Ataque.",
+      "Comment": ""
+    },
+    {
+      "Key": "Activate twice per battle. All your Reanimated units reroll failed Attack Rolls and Ranged Attack Rolls for one turn.",
+      "Translation": "Se activa dos veces por batalla. Todas tus unidades Reanimadas relanzan tiradas de Ataque y de Ataque a Distancia fallidas durante un turno.",
+      "Comment": ""
+    },
+    {
+      "Key": "Target Construct unit gains +2 Power and +6 Movement for one turn.",
+      "Translation": "La unidad Constructo objetivo obtiene +2 Poder y +6 Velocidad de Movimiento durante un turno.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 48. 1x Power 10, auto hits (no attack roll). Pierces ranks.",
+      "Translation": "Alcance 48. 1x Poder 10, impacta automáticamente (sin tirada de Ataque). Perfora rangos.",
+      "Comment": ""
+    },
+    {
+      "Key": "-1 to targets Damage Save.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 48. 2 x D3 shots at Power 4.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 12. D3 shots per model at Power 4.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 36. D6 shots at Power 5.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 4+.",
+      "Translation": "Bonificación de Carga: +1 Poder\nSalvadas contra Daño contra esta arma nunca son mejores que 4+.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit recovers all missing wounds at end of turn.",
+      "Translation": "La unidad recupera todas las Heridas perdidas al final del turno.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit can be deployed anywhere on its owners side of the table.",
+      "Translation": "La unidad puede ser desplegada en cualquier lugar del lado del propietario de la mesa.",
+      "Comment": ""
+    },
+    {
+      "Key": "Re-roll missed Attack Rolls in the first round of combat.",
+      "Translation": "Relanza tiradas de Ataque fallidas en la primera ronda de combate.",
+      "Comment": ""
+    },
+    {
+      "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
+      "Translation": "-1 Velocidad de Movimiento. Nunca falla Pruebas de Disciplina, pierde D3 Heridas en combate perdido.",
+      "Comment": ""
+    },
+    {
+      "Key": "Reduce Crumble by 1. Regeneration (restore all lost wounds at end of turn).",
+      "Translation": "Reduce Desmoronamiento en 1. Regeneración (restaura todas las Heridas perdidas al final del turno).",
+      "Comment": ""
+    },
+    {
+      "Key": "Regeneration. (restores all wounds at end of turn)",
+      "Translation": "Regeneración. (restaura todas las Heridas al final del turno)",
+      "Comment": ""
+    },
+    {
+      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration.",
+      "Translation": "Una vez por batalla, todas las unidades amigas con Regalo de Decadencia relanza Salvadas contra Daño fallidas.\nRegeneración.",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 48. 3x Power 6.",
+      "Translation": "Alcance 48. 3x Poder 6.",
+      "Comment": ""
+    },
+    {
+      "Key": "Lethal Attacks. (2x wounds)",
+      "Translation": "Ataques Letales. (2x Heridas)",
       "Comment": ""
     }
   ]

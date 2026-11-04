@@ -542,8 +542,8 @@
       "Comment": ""
     },
     {
-      "Key": "Unit gains Regeneration. (restores lost wounds at end of turn)",
-      "Translation": "La unidad obtiene Regeneración. (restaura heridas perdidas al final del turno)",
+      "Key": "Unit gains Regeneration. (restores 1 wound at end of turn)",
+      "Translation": "La unidad obtiene Regeneración. (restaura 1 Herida al final del turno)",
       "Comment": ""
     },
     {
@@ -692,8 +692,8 @@
       "Comment": ""
     },
     {
-      "Key": "Gain Regeneration",
-      "Translation": "Obtiene Regeneración",
+      "Key": "Gain Regeneration (restores 1 wound at end of turn)",
+      "Translation": "Obtiene Regeneración (restaura 1 Herida al final del turno)",
       "Comment": ""
     },
     {
@@ -877,8 +877,8 @@
       "Comment": ""
     },
     {
-      "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
-      "Translation": "La unidad obtiene Ataques Letales. (inflige 2x heridas)",
+      "Key": "Unit gains Lethal melee attacks. (deals 2x wounds)",
+      "Translation": "La unidad obtiene Ataques Letales cuerpo a cuerpo. (inflige 2x heridas)",
       "Comment": ""
     },
     {
@@ -899,6 +899,121 @@
     {
       "Key": "Unit has +5 range for Ranged Attacks.",
       "Translation": "La unidad tiene +5 de rango para Ataques a Distancia.",
+      "Comment": ""
+    },
+    {
+      "Key": "Max Unit size +3",
+      "Translation": "Tamaño Máximo de Unidad +3",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Muster I",
+      "Translation": "Leva Eterna I",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Muster II",
+      "Translation": "Leva Eterna II",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Muster III",
+      "Translation": "Leva Eterna III",
+      "Comment": ""
+    },
+    {
+      "Key": "Graven Glyphs I",
+      "Translation": "Glifos Grabados I",
+      "Comment": ""
+    },
+    {
+      "Key": "Graven Glyphs II",
+      "Translation": "Glifos Grabados II",
+      "Comment": ""
+    },
+    {
+      "Key": "Graven Glyphs III",
+      "Translation": "Glifos Grabados III",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Reign",
+      "Translation": "Reino Eterno",
+      "Comment": ""
+    },
+    {
+      "Key": "Sun-Chariot Drill I",
+      "Translation": "Instrucción de Carros Solares I",
+      "Comment": ""
+    },
+    {
+      "Key": "Sun-Chariot Drill II",
+      "Translation": "Instrucción de Carros Solares II",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Rite of Stone",
+      "Translation": "Gran Rito de Piedra",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Recurrence",
+      "Translation": "Gran Recurrencia",
+      "Comment": ""
+    },
+    {
+      "Key": "Unbroken Line can be used twice per battle.",
+      "Translation": "Línea Inquebrantable puede usarse dos veces por batalla.",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of Stone no longer drains the Construct afterwards.",
+      "Translation": "Rito de Piedra ya no debilita al Constructo después.",
+      "Comment": ""
+    },
+    {
+      "Key": "Gives 1 extra charge to Rite of Recurrence.",
+      "Translation": "Otorga 1 carga adicional a Rito de Recurrencia.",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Defense",
+      "Translation": "+1 Defensa",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Power",
+      "Translation": "+1 Poder",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Max Unit Size. +50% Replenish.",
+      "Translation": "+1 Tamaño Máximo de Unidad. +50% Reabastecimiento.",
+      "Comment": ""
+    },
+    {
+      "Key": "+3 Max Unit Size. +50% Replenish.",
+      "Translation": "+3 Tamaño Máximo de Unidad. +50% Reabastecimiento.",
+      "Comment": ""
+    },
+    {
+      "Key": "+5 Max Unit Size. +50% Replenish.",
+      "Translation": "+5 Tamaño Máximo de Unidad. +50% Reabastecimiento.",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit gains Regeneration. (restores lost wounds at end of turn)",
+      "Translation": "La unidad obtiene Regeneración. (restaura heridas perdidas al final del turno)",
+      "Comment": ""
+    },
+    {
+      "Key": "Gain Regeneration",
+      "Translation": "Obtiene Regeneración",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit gains Lethal attacks. (deals 2x wounds)",
+      "Translation": "La unidad obtiene Ataques Letales. (inflige 2x heridas)",
       "Comment": ""
     }
   ]

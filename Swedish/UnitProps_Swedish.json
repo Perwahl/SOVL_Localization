@@ -502,6 +502,11 @@
       "Comment": ""
     },
     {
+      "Key": "Stone Skin",
+      "Translation": "Stenhud",
+      "Comment": ""
+    },
+    {
       "Key": "Demonic",
       "Translation": "Demonisk",
       "Comment": ""
@@ -1230,6 +1235,106 @@
       "Key": "VolatileAmmo",
       "Translation": "Instabil ammunition",
       "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Construct",
+      "Translation": "Konstrukt",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of Recurrence",
+      "Translation": "Återkomstens rit",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of Stone",
+      "Translation": "Stenens rit",
+      "Comment": ""
+    },
+    {
+      "Key": "Unbroken Line",
+      "Translation": "Obruten linje",
+      "Comment": ""
+    },
+    {
+      "Key": "Stand Eternal",
+      "Translation": "Evigt orubblig",
+      "Comment": ""
+    },
+    {
+      "Key": "Giant Bow",
+      "Translation": "Jättebåge",
+      "Comment": ""
+    },
+    {
+      "Key": "Great Bow",
+      "Translation": "Storbåge",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of the Seal",
+      "Translation": "Sigillets rit",
+      "Comment": ""
+    },
+    {
+      "Key": "Sunbeam",
+      "Translation": "Solstråle",
+      "Comment": ""
+    },
+    {
+      "Key": "Thrall",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Regeneration",
+      "Translation": "Större Regeneration",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Muster",
+      "Translation": "Evig uppbådning",
+      "Comment": ""
+    },
+    {
+      "Key": "Graven Glyphs",
+      "Translation": "Inristade glyfer",
+      "Comment": ""
+    },
+    {
+      "Key": "Sun-Chariot Drill",
+      "Translation": "Solvagnsdrill",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Rite of Stone",
+      "Translation": "Stenens större rit",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Recurrence",
+      "Translation": "Större återkomst",
+      "Comment": ""
+    },
+    {
+      "Key": "Daemonforged",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Quake Shell",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Blunderbuss",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rocket Salvo",
+      "Translation": "",
+      "Comment": ""
     }
   ]
 }

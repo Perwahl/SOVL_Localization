@@ -118,7 +118,7 @@
     },
     {
       "Key": "Catapult",
-      "Translation": "Катапулта",
+      "Translation": "Катапульта",
       "Comment": "Siege weapon - launches projectiles"
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "Key": "Longbows",
-      "Translation": "Лекалы",
+      "Translation": "Длинные Луки",
       "Comment": "Ranged weapon - long-range bows"
     },
     {
@@ -463,7 +463,7 @@
     },
     {
       "Key": "Raise Dead",
-      "Translation": "Всковывать Мертвецов",
+      "Translation": "Поднять Мертвецов",
       "Comment": "Necromancy spell - raises undead units"
     },
     {
@@ -500,6 +500,11 @@
       "Key": "Scaly Skin",
       "Translation": "Чешуйчатая кожа",
       "Comment": "Dragon/beast natural armor"
+    },
+    {
+      "Key": "Stone Skin",
+      "Translation": "Каменная кожа",
+      "Comment": ""
     },
     {
       "Key": "Demonic",
@@ -1230,6 +1235,106 @@
       "Key": "VolatileAmmo",
       "Translation": "Нестабильные боеприпасы",
       "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Construct",
+      "Translation": "Конструкт",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of Recurrence",
+      "Translation": "Обряд Возвращения",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of Stone",
+      "Translation": "Обряд Камня",
+      "Comment": ""
+    },
+    {
+      "Key": "Unbroken Line",
+      "Translation": "Несломленный Строй",
+      "Comment": ""
+    },
+    {
+      "Key": "Stand Eternal",
+      "Translation": "Вечная Стойкость",
+      "Comment": ""
+    },
+    {
+      "Key": "Giant Bow",
+      "Translation": "Гигантский Лук",
+      "Comment": ""
+    },
+    {
+      "Key": "Great Bow",
+      "Translation": "Великий Лук",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of the Seal",
+      "Translation": "Обряд Печати",
+      "Comment": ""
+    },
+    {
+      "Key": "Sunbeam",
+      "Translation": "Солнечный Луч",
+      "Comment": ""
+    },
+    {
+      "Key": "Thrall",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Regeneration",
+      "Translation": "Высшая регенерация",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Muster",
+      "Translation": "Вечный Сбор",
+      "Comment": ""
+    },
+    {
+      "Key": "Graven Glyphs",
+      "Translation": "Высеченные Глифы",
+      "Comment": ""
+    },
+    {
+      "Key": "Sun-Chariot Drill",
+      "Translation": "Муштра Солнечных Колесниц",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Rite of Stone",
+      "Translation": "Великий Обряд Камня",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Recurrence",
+      "Translation": "Великое Возвращение",
+      "Comment": ""
+    },
+    {
+      "Key": "Daemonforged",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Quake Shell",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Blunderbuss",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rocket Salvo",
+      "Translation": "",
+      "Comment": ""
     }
   ]
 }

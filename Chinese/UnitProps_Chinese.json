@@ -502,6 +502,11 @@
       "Comment": "Dragon/reptile natural armor"
     },
     {
+      "Key": "Stone Skin",
+      "Translation": "石肤",
+      "Comment": ""
+    },
+    {
       "Key": "Demonic",
       "Translation": "恶魔",
       "Comment": "Infernal/hellish trait"
@@ -1230,6 +1235,106 @@
       "Key": "VolatileAmmo",
       "Translation": "不稳定弹药",
       "Comment": "Newly harvested property; translated in this pass. Worth a native check."
+    },
+    {
+      "Key": "Construct",
+      "Translation": "构装体",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of Recurrence",
+      "Translation": "轮回仪式",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of Stone",
+      "Translation": "岩石仪式",
+      "Comment": ""
+    },
+    {
+      "Key": "Unbroken Line",
+      "Translation": "不破战线",
+      "Comment": ""
+    },
+    {
+      "Key": "Stand Eternal",
+      "Translation": "永恒屹立",
+      "Comment": ""
+    },
+    {
+      "Key": "Giant Bow",
+      "Translation": "巨弓",
+      "Comment": ""
+    },
+    {
+      "Key": "Great Bow",
+      "Translation": "大弓",
+      "Comment": ""
+    },
+    {
+      "Key": "Rite of the Seal",
+      "Translation": "封印仪式",
+      "Comment": ""
+    },
+    {
+      "Key": "Sunbeam",
+      "Translation": "太阳光束",
+      "Comment": ""
+    },
+    {
+      "Key": "Thrall",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Regeneration",
+      "Translation": "高等再生",
+      "Comment": ""
+    },
+    {
+      "Key": "Eternal Muster",
+      "Translation": "永恒征召",
+      "Comment": ""
+    },
+    {
+      "Key": "Graven Glyphs",
+      "Translation": "铭刻符文",
+      "Comment": ""
+    },
+    {
+      "Key": "Sun-Chariot Drill",
+      "Translation": "日轮战车操练",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Rite of Stone",
+      "Translation": "高等岩石仪式",
+      "Comment": ""
+    },
+    {
+      "Key": "Greater Recurrence",
+      "Translation": "高等轮回",
+      "Comment": ""
+    },
+    {
+      "Key": "Daemonforged",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Quake Shell",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Blunderbuss",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rocket Salvo",
+      "Translation": "",
+      "Comment": ""
     }
   ]
 }

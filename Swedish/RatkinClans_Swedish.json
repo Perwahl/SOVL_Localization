@@ -70,6 +70,11 @@
       "Key": "Ratkin Infiltrator",
       "Translation": "Råttfolkens infiltratör",
       "Comment": "The translation is crisp and suitable for a stealth unit."
+    },
+    {
+      "Key": "Giant Rats",
+      "Translation": "",
+      "Comment": ""
     }
   ]
 }

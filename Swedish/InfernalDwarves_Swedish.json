@@ -1,0 +1,70 @@
+{
+  "TranslationContext": "Unit, commander and faction names for the Infernal Dwarves.",
+  "Translations": [
+    {
+      "Key": "Infernal Dwarves",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Infernal Guard",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Thrall Spears",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Overseer",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Cutthroats",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Ashblasters",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Slag Throwers",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Ashen Prophet",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Thrall Archers",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Brazen Bulls",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Rocket Battery",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Furnace Engine",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Gunmaster",
+      "Translation": "",
+      "Comment": ""
+    }
+  ]
+}

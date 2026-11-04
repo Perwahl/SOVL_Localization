@@ -47,13 +47,18 @@
       "Comment": ""
     },
     {
+      "Key": "-4 Movement. +1 Damage Save.",
+      "Translation": "移動速度-4。ダメージセーブ+1。",
+      "Comment": ""
+    },
+    {
       "Key": "If a Commander is part of this unit it re-rolls failed Discipline tests.",
       "Translation": "指揮官がこのユニットにいる場合、失敗した規律判定を再ロールする。",
       "Comment": ""
     },
     {
-      "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 4+.",
-      "Translation": "突撃ボーナス：力+1 \nこの武器に対するダメージセーブは4+より良くならない。",
+      "Key": "Charge Bonus: +1 Power.\nDamage Saves against this weapon are never better than 4+.",
+      "Translation": "突撃ボーナス：力+1。\nこの武器に対するダメージセーブは4+より良くならない。",
       "Comment": ""
     },
     {
@@ -147,8 +152,8 @@
       "Comment": ""
     },
     {
-      "Key": "Unit recovers all missing wounds at end of turn.",
-      "Translation": "ユニットはターン終了時に失った傷をすべて回復する。",
+      "Key": "Heals 1 wound at end of turn.",
+      "Translation": "ユニットはターン終了時に傷を1回復する。",
       "Comment": ""
     },
     {
@@ -182,13 +187,13 @@
       "Comment": ""
     },
     {
-      "Key": "Unit can be deployed anywhere on its owners side of the table.",
-      "Translation": "ユニットは自陣側のテーブル上ならどこにでも配置できる。",
+      "Key": "Deploys anywhere on your half of the battlefield, up to 2\" from the centre line.",
+      "Translation": "自陣側の戦場ならどこにでも配置でき、中央線から2\"まで近づける。",
       "Comment": ""
     },
     {
-      "Key": "Re-roll missed Attack Rolls in the first round of combat.",
-      "Translation": "戦闘の最初のラウンドで外れた攻撃ロールを再ロール。",
+      "Key": "Re-roll missed Attack Rolls in the first round of combat. Can't flee from charges.",
+      "Translation": "戦闘の最初のラウンドで外れた攻撃ロールを再ロール。突撃から敗走できない。",
       "Comment": ""
     },
     {
@@ -222,8 +227,8 @@
       "Comment": ""
     },
     {
-      "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
-      "Translation": "移動速度-1。規律判定に失敗せず、戦闘に敗北するとD3の傷を失う。",
+      "Key": "-1 Movement. Never flees: loses D3 wounds instead of taking a break test. Can't flee from charges.",
+      "Translation": "移動速度-1。敗走しない：崩壊判定を行う代わりにD3の傷を失う。突撃から敗走できない。",
       "Comment": ""
     },
     {
@@ -237,8 +242,8 @@
       "Comment": ""
     },
     {
-      "Key": "Reduce Crumble by 1. Regeneration (restore all lost wounds at end of turn).",
-      "Translation": "崩壊を1減らす。再生（ターン終了時に失った傷をすべて回復）。",
+      "Key": "Reduce Crumble by 1. Regeneration (restores 1 wound at end of turn).",
+      "Translation": "崩壊を1減らす。再生（ターン終了時に傷を1回復）。",
       "Comment": ""
     },
     {
@@ -274,6 +279,11 @@
     {
       "Key": "Never fails Discipline tests, loses D3 wounds on lost combat.",
       "Translation": "規律判定に失敗せず、戦闘に敗北するとD3の傷を失う。",
+      "Comment": ""
+    },
+    {
+      "Key": "Never flees: loses D3 wounds instead of taking a break test. Can't flee from charges.",
+      "Translation": "敗走しない：崩壊判定を行う代わりにD3の傷を失う。突撃から敗走できない。",
       "Comment": ""
     },
     {
@@ -652,8 +662,8 @@
       "Comment": ""
     },
     {
-      "Key": "Regeneration. (restores all wounds at end of turn)",
-      "Translation": "再生。（ターン終了時にすべての傷を回復）",
+      "Key": "Regeneration. (restores 1 wound at end of turn)",
+      "Translation": "再生。（ターン終了時に傷を1回復）",
       "Comment": ""
     },
     {
@@ -707,8 +717,8 @@
       "Comment": ""
     },
     {
-      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration.",
-      "Translation": "戦闘ごとに一回、腐敗の贈り物を持つ味方ユニットはすべて失敗したダメージセーブを再ロールする。\n再生。",
+      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration (restores 1 wound at end of turn).",
+      "Translation": "戦闘ごとに一回、腐敗の贈り物を持つ味方ユニットはすべて失敗したダメージセーブを再ロールする。\n再生（ターン終了時に傷を1回復）。",
       "Comment": ""
     },
     {
@@ -867,8 +877,8 @@
       "Comment": "Monster charge"
     },
     {
-      "Key": "Range 48. 3x Power 6.",
-      "Translation": "射程48。3x 力6。",
+      "Key": "Range 48. 1x Power 6. Pierces ranks.",
+      "Translation": "射程48。1x 力6。横列を貫通。",
       "Comment": ""
     },
     {
@@ -1067,8 +1077,8 @@
       "Comment": ""
     },
     {
-      "Key": "Lethal Attacks. (2x wounds)",
-      "Translation": "致命的な攻撃。（2x の傷）",
+      "Key": "Lethal melee attacks. (2x wounds)",
+      "Translation": "致命的な近接攻撃。（2x の傷）",
       "Comment": ""
     },
     {
@@ -1194,6 +1204,151 @@
     {
       "Key": "Unit is Fearless. Charge Bonus: +1 Attack",
       "Translation": "ユニットは恐れ知らず。突撃ボーナス：攻撃+1",
+      "Comment": ""
+    },
+    {
+      "Key": "Target a Reanimated unit that has already acted this turn. It may act again.",
+      "Translation": "このターンすでに行動した蘇生ユニットを対象とする。そのユニットは再度行動できる。",
+      "Comment": ""
+    },
+    {
+      "Key": "Target Construct unit gains +2 Power and +6 Movement for one turn, then suffers -1 Power and -2 Movement for a turn.",
+      "Translation": "対象の構築体ユニットは一ターンの間、力+2、移動速度+6を得る。その後一ターンの間、力-1、移動速度-2を受ける。",
+      "Comment": ""
+    },
+    {
+      "Key": "Activate once per battle. All your Reanimated units reroll failed Attack Rolls and Ranged Attack Rolls for one turn.",
+      "Translation": "戦闘ごとに一回行動。一ターンの間、自軍の全蘇生ユニットは失敗した攻撃ロールと遠距離攻撃ロールを再ロールする。",
+      "Comment": ""
+    },
+    {
+      "Key": "Cannot lose his last Wound while his Retinue lives, further wounds hit the Retinue instead. When he dies, all your Reanimated units Crumble once.",
+      "Translation": "従者が生きている間は最後の傷を失わず、以降の傷は代わりに従者が受ける。死亡すると、自軍の全蘇生ユニットは一度崩壊する。",
+      "Comment": ""
+    },
+    {
+      "Key": "Range: 36. Power 5.",
+      "Translation": "射程36。力5。",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 36. 1x Power 6. Pierces ranks.",
+      "Translation": "射程36。1x 力6。横列を貫通。",
+      "Comment": ""
+    },
+    {
+      "Key": "All your units gain +1 Defense this turn. Activate once per battle.",
+      "Translation": "このターン、自軍全ユニットの防御+1。戦闘ごとに一回行動。",
+      "Comment": ""
+    },
+    {
+      "Key": "+2 Discipline while a Commander is attached to the unit.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Heals 1 wound at end of turn. Each turn a wound comes back, +1 Attack for the rest of the battle.",
+      "Translation": "ユニットはターン終了時に傷を1回復する。傷が回復したターンごとに、戦闘終了まで攻撃+1。",
+      "Comment": ""
+    },
+    {
+      "Key": "Reduce Crumble rolls by 1. +1 Defense.",
+      "Translation": "崩壊ロールを1減らす。防御+1。",
+      "Comment": ""
+    },
+    {
+      "Key": "Reduce Crumble rolls by 1. +1 Defense. +1 Power.",
+      "Translation": "崩壊ロールを1減らす。防御+1。力+1。",
+      "Comment": ""
+    },
+    {
+      "Key": "+1 Move Speed. +1 Attack.",
+      "Translation": "移動速度 +1。攻撃 +1。",
+      "Comment": ""
+    },
+    {
+      "Key": "Activate twice per battle. All your Reanimated units reroll failed Attack Rolls and Ranged Attack Rolls for one turn.",
+      "Translation": "戦闘ごとに二回行動。一ターンの間、自軍の全蘇生ユニットは失敗した攻撃ロールと遠距離攻撃ロールを再ロールする。",
+      "Comment": ""
+    },
+    {
+      "Key": "Target Construct unit gains +2 Power and +6 Movement for one turn.",
+      "Translation": "対象の構築体ユニットは一ターンの間、力+2、移動速度+6を得る。",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 48. 1x Power 10, auto hits (no attack roll). Pierces ranks.",
+      "Translation": "射程48。1x 力10、自動命中（攻撃ロールなし）。横列を貫通。",
+      "Comment": ""
+    },
+    {
+      "Key": "-1 to targets Damage Save.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 48. 2 x D3 shots at Power 4.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 12. D3 shots per model at Power 4.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 36. D6 shots at Power 5.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Charge Bonus: +1 Power \nDamage Saves against this weapon are never better than 4+.",
+      "Translation": "突撃ボーナス：力+1 \nこの武器に対するダメージセーブは4+より良くならない。",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit recovers all missing wounds at end of turn.",
+      "Translation": "ユニットはターン終了時に失った傷をすべて回復する。",
+      "Comment": ""
+    },
+    {
+      "Key": "Unit can be deployed anywhere on its owners side of the table.",
+      "Translation": "ユニットは自陣側のテーブル上ならどこにでも配置できる。",
+      "Comment": ""
+    },
+    {
+      "Key": "Re-roll missed Attack Rolls in the first round of combat.",
+      "Translation": "戦闘の最初のラウンドで外れた攻撃ロールを再ロール。",
+      "Comment": ""
+    },
+    {
+      "Key": "-1 Movement. Never fails Discipline tests, loses D3 wounds on lost combat.",
+      "Translation": "移動速度-1。規律判定に失敗せず、戦闘に敗北するとD3の傷を失う。",
+      "Comment": ""
+    },
+    {
+      "Key": "Reduce Crumble by 1. Regeneration (restore all lost wounds at end of turn).",
+      "Translation": "崩壊を1減らす。再生（ターン終了時に失った傷をすべて回復）。",
+      "Comment": ""
+    },
+    {
+      "Key": "Regeneration. (restores all wounds at end of turn)",
+      "Translation": "再生。（ターン終了時にすべての傷を回復）",
+      "Comment": ""
+    },
+    {
+      "Key": "Once per battle, all friendly units with Gift of Decay re-roll failed damage saves.\nRegeneration.",
+      "Translation": "戦闘ごとに一回、腐敗の贈り物を持つ味方ユニットはすべて失敗したダメージセーブを再ロールする。\n再生。",
+      "Comment": ""
+    },
+    {
+      "Key": "Range 48. 3x Power 6.",
+      "Translation": "射程48。3x 力6。",
+      "Comment": ""
+    },
+    {
+      "Key": "Lethal Attacks. (2x wounds)",
+      "Translation": "致命的な攻撃。（2x の傷）",
       "Comment": ""
     }
   ]

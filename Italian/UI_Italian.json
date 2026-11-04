@@ -322,6 +322,11 @@
       "Comment": "Store link/CTA. Direct action phrase."
     },
     {
+      "Key": "Unlock",
+      "Translation": "Sblocca",
+      "Comment": ""
+    },
+    {
       "Key": "Faction Pack",
       "Translation": "Pacchetto Fazione",
       "Comment": "DLC content. Clear and descriptive."
@@ -672,7 +677,7 @@
       "Comment": "Campaign event - ominous tone"
     },
     {
-      "Key": "The lost regiment is found! Some soldiers are missing, but those who remain have strenghtened resolve.",
+      "Key": "The lost regiment is found! Some soldiers are missing, but those who remain have strengthened resolve.",
       "Translation": "Il reggimento perduto è trovato! Alcuni soldati mancano, ma quelli rimasti hanno una risolutezza rafforzata.",
       "Comment": "Campaign event - positive outcome"
     },
@@ -870,6 +875,11 @@
       "Key": "Double Click: Execute Move.",
       "Translation": "Doppio Clic: Esegui Movimento.",
       "Comment": "Control hint. Direct and functional."
+    },
+    {
+      "Key": "Double Tap to Execute Move.",
+      "Translation": "Doppio Tocco: Esegui Movimento.",
+      "Comment": ""
     },
     {
       "Key": "Greatweapon",
@@ -1962,6 +1972,11 @@
       "Comment": "Campaign difficulty indicator"
     },
     {
+      "Key": "Challenge Level: {0}",
+      "Translation": "Livello di Sfida: {0}",
+      "Comment": "Trail of Death challenge level shown on the campaign select screen. {0} is the level number."
+    },
+    {
       "Key": "A collection of fierce beasts...",
       "Translation": "Una collezione di bestie feroci...",
       "Comment": "Campaign encounter description"
@@ -2212,6 +2227,11 @@
       "Comment": ""
     },
     {
+      "Key": "has fallen! The Reanimated crumble.",
+      "Translation": "è stato annientato!",
+      "Comment": ""
+    },
+    {
       "Key": "Auto Hits",
       "Translation": "Colpi Automatici",
       "Comment": ""
@@ -2442,6 +2462,666 @@
       "Key": "Mods\n",
       "Translation": "Mods\n",
       "Comment": ""
+    },
+    {
+      "Key": "aiSkillRecruit",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "aiSkillVeteran",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "aiSkillWarlord",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Strategic phase",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Charge phase",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Combat phase",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "attacking",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "flees!",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "The battle ends in a draw",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Hide battle UI",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Loading replay...",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Loading...",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Playing",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Turn {0}",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "hit",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "saved",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "wounds",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "charges!",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Combat",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "wins the combat by {0}",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "break test",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "vs",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "breaks!",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "is destroyed!",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "and",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "counter-charge!",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Combat is a draw",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "holds",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "rally test",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "failed",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "passed",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Show battle UI",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "wins the battle!",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Paused",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Finished",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Tomb Constructs",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Works of the Furnace",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Standard",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Hard",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Brutal",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Regions",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Minor Disadvantage",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Your Losses",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Enemy Losses",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Major Advantage",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Minor Advantage",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Even Match",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Major Disadvantage",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Decisive Victory!",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Narrow Victory!",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Crushing Defeat",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Narrow Defeat",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "No losses",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Destroyed",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Fast Forward",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Confirm Fast Forward",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Fast Forwarding...",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Turns Played",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Regions Owned",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Armies Owned",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Buildings Built",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Battles Fought",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Units Destroyed",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "{0} has fallen",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Capture it as a {0}, stripped of its buildings, or raze it to the ground for {1}.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Capture it as an {0}, stripped of its buildings, or raze it to the ground for {1}.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Outpost",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Capture",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Raze (+{0})",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Settlement {0}",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Gold",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Souls",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Slaves",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Slave Mines",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "{0} per turn for {1} turns",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Slave Fields",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Growth",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "{0} - {1} turns left",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Cancel?",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "{0}'s Game",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Game code...",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Join by Code",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Game code:",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Choose Your Name",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Other players see this name in multiplayer and on the leaderboards.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Your name...",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Could not open a game. Check your connection and try again.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Could not open the game. Check your connection and try again.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Could not reach the ranked service. Check your connection and try again.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Could not connect. Check your connection and try again.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Could not connect to your opponent.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Not connected to the online services. Check your connection.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Couldn't load your rank",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "The host left the game.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "That game is on version {0}. You have {1}.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "No game with that code.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "That game is full or closed.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Name is too short",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Name is too long",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Name can't contain spaces or #",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Could not save the name. Check your connection and try again.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Name",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Change",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Play",
+      "Translation": "Gioca",
+      "Comment": "Main menu button that starts a game mode"
+    },
+    {
+      "Key": "BETA",
+      "Translation": "BETA",
+      "Comment": "Small badge on a game mode that is still in beta. Keep it very short."
+    },
+    {
+      "Key": "Conquest",
+      "Translation": "Conquista",
+      "Comment": "Name of a single player game mode (grand strategy campaign)"
+    },
+    {
+      "Key": "Trail of Death",
+      "Translation": "Sentiero della Morte",
+      "Comment": "Name of a single player game mode. Same translation as Trail Of Death."
+    },
+    {
+      "Key": "Finish the battle before saving.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Wait for your turn before saving.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Choose Capture or Raze before saving.",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Tip",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Got it",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Turn off tips",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Reset tips",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Show tips",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Continue Campaign",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Total Victory",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Victory in round {0}",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Main Menu",
+      "Translation": "",
+      "Comment": ""
+    },
+    {
+      "Key": "Movement controls",
+      "Translation": "Controlli di movimento",
+      "Comment": ""
+    },
+    {
+      "Key": "Classic",
+      "Translation": "Classico",
+      "Comment": ""
+    },
+    {
+      "Key": "Follow pointer",
+      "Translation": "Segui il puntatore",
+      "Comment": ""
+    },
+    {
+      "Key": "right click",
+      "Translation": "clic destro",
+      "Comment": ""
+    },
+    {
+      "Key": "Graphics",
+      "Translation": "Grafica",
+      "Comment": ""
+    },
+    {
+      "Key": "Low",
+      "Translation": "Bassa",
+      "Comment": ""
+    },
+    {
+      "Key": "Medium",
+      "Translation": "Media",
+      "Comment": ""
+    },
+    {
+      "Key": "High",
+      "Translation": "Alta",
+      "Comment": ""
+    },
+    {
+      "Key": "Ultra",
+      "Translation": "Ultra",
+      "Comment": ""
+    },
+    {
+      "Key": "Battery saver",
+      "Translation": "Risparmio batteria",
+      "Comment": ""
+    },
+    {
+      "Key": "Balanced",
+      "Translation": "Bilanciato",
+      "Comment": ""
+    },
+    {
+      "Key": "Quality",
+      "Translation": "Qualità",
+      "Comment": ""
+    },
+    {
+      "Key": "The lost regiment is found! Some soldiers are missing, but those who remain have strenghtened resolve.",
+      "Translation": "Il reggimento perduto è trovato! Alcuni soldati mancano, ma quelli rimasti hanno una risolutezza rafforzata.",
+      "Comment": "Campaign event - positive outcome"
     },
     {
       "Key": "Great Weapon <color=#B6F595>+1",
